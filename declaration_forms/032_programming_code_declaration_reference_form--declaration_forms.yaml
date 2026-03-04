@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Programming Code Declaration Reference Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Code Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Code Location
+      hint: Enter code location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: page_3
+      label: Code Version
+      hint: Enter code version
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Code Review Status
+      hint: Enter code review status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: page_5
+      label: Code Reviewers
+      hint: Enter code reviewers
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: page_6
+      label: Code Review Comments
+      hint: Enter code review comments
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: page_7
+      label: Code Deployment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: page_8
+      label: Code Owner
+      hint: Enter code owner
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Code Review Due Date
+      hint: Enter code review due date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: Code Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: page_11
+      label: Code Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: page_12
+      label: Code Description
+      hint: Enter code description
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: page_13
+      label: Code Permission
+      hint: Enter code permission
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: page_14
+      label: Code Access Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: page_15
+      label: Code Owner Email
+      hint: Enter code owner email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: page_16
+      label: Code Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: page_17
+      label: Code Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: page_18
+      label: Code Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: page_19
+      label: Code Category
+      hint: Enter code category
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: page_20
+      label: Code Description
+      hint: Enter code description
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: page_21
+      label: Code Permission
+      hint: Enter code permission
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: page_22
+      label: Code Access Type
+      hint: Select code access type
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: page_23
+      label: Code Owner
+      hint: Enter code owner
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: page_24
+      label: Code Due Date
+      hint: Enter code due date
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: page_25
+      label: Code Review Comments
+      hint: Enter code review comments
+      type: note
+      options: []
+      required: false

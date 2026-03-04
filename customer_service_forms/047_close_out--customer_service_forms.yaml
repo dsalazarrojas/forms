@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Close Out
+    pages:
+    - id: 1
+      name: form_header
+      label: Customer Service Close-Out Form
+      hint: Use this form to document the resolution and closure of customer service
+        cases
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: Case or Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: close_out_date
+      label: Close-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: close_out_time
+      label: Close-Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agent_id
+      label: Agent ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_contact
+      label: Customer Contact Information
+      hint: Email or phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - Product Inquiry
+      - Technical Support
+      - Billing Issue
+      - Shipping Issue
+      - Return or Refund
+      - Complaint
+      - Feature Request
+      - Account Issue
+      - Other
+      required: true
+    - id: 11
+      name: issue_description
+      label: Original Issue Description
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      - Urgent
+      required: true
+    - id: 13
+      name: date_opened
+      label: Date Case Opened
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: total_handling_time
+      label: Total Handling Time
+      hint: Days or hours
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: number_of_contacts
+      label: Number of Customer Contacts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: contact_methods
+      label: Contact Methods Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - Text Message
+      - Social Media
+      - In-Person
+      - Video Call
+      required: false
+    - id: 17
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Resolved
+      - Partially Resolved
+      - Workaround Provided
+      - Escalated
+      - Transferred
+      - Cannot Resolve
+      required: true
+    - id: 18
+      name: resolution_description
+      label: Resolution Description
+      hint: How was the issue resolved
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: select_one
+      options:
+      - User Error
+      - Product Defect
+      - System Error
+      - Process Issue
+      - Communication Gap
+      - Training Needed
+      - Policy Limitation
+      - Other
+      required: false
+    - id: 20
+      name: actions_taken
+      label: Actions Taken
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Troubleshooting
+      - Product Replacement
+      - Refund Issued
+      - Credit Applied
+      - Account Adjustment
+      - Documentation Provided
+      - Training Provided
+      - Escalation
+      - Other
+      required: true
+    - id: 21
+      name: refund_amount
+      label: Refund Amount if Applicable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: credit_issued
+      label: Credit Issued
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: credit_amount
+      label: Credit Amount
+      hint: If yes
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_required
+      label: Is Follow-Up Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: If yes
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: follow_up_reason
+      label: Reason for Follow-Up
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: customer_satisfaction
+      label: Customer Satisfaction Rating
+      hint: If collected
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Collected
+      required: false
+    - id: 28
+      name: customer_feedback
+      label: Customer Feedback
+      hint: Any comments from customer
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: escalation_needed
+      label: Was Escalation Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 30
+      name: lessons_learned
+      label: Lessons Learned
+      hint: For future reference
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: case_notes
+      label: Additional Case Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: agent_signature
+      label: Agent Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: supervisor_review
+      label: Supervisor Review Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

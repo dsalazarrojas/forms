@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customs Value Declaration Form
+    pages:
+    - id: 1
+      name: shipment_information
+      label: Shipments Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goods_description
+      label: Goods Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goods_value
+      label: Goods Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: country_of_origin
+      label: Country of origin
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''USA'', ''label'': ''USA''}'
+      - '{''value'': ''China'', ''label'': ''China''}'
+      - '{''value'': ''Japan'', ''label'': ''Japan''}'
+      required: false
+    - id: 5
+      name: customs_declaration
+      label: Customs Declaration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Declaration 1'', ''label'': ''Declaration 1''}'
+      - '{''value'': ''Declaration 2'', ''label'': ''Declaration 2''}'
+      - '{''value'': ''Declaration 3'', ''label'': ''Declaration 3''}'
+      required: false
+    - id: 6
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipper_email
+      label: Shipper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: importer_name
+      label: Importer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: importer_email
+      label: Importer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: importer_phone
+      label: Importer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: logistics_contact
+      label: Logistics Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: logistics_name
+      label: Logistics Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: logistics_email
+      label: Logistics Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: logistics_phone
+      label: Logistics Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_parties
+      label: Other Parties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_party_name
+      label: Other Party Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_party_email
+      label: Other Party Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: other_party_phone
+      label: Other Party Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Terms of Service'', ''label'': ''Terms of Service''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

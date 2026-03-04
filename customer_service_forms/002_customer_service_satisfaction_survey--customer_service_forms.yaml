@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_service_satisfaction_survey
+    pages:
+    - id: 1
+      name: customer_service_satisfaction_survey_1
+      label: customer_service_satisfaction_survey_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_with_service
+      label: satisfaction_with_service
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 5, ''label'': 5}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 1, ''label'': 1}'
+      required: false
+    - id: 4
+      name: service_provided
+      label: service_provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_agent
+      label: assigned_agent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Agent 1''}'
+      - '{''value'': 2, ''label'': ''Agent 2''}'
+      required: false
+    - id: 9
+      name: satisfaction_with_support
+      label: satisfaction_with_support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 5, ''label'': 5}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 1, ''label'': 1}'
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: satisfaction_score
+      label: satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false

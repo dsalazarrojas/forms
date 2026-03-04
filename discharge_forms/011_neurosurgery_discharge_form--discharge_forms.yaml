@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neurosurgery Discharge Form
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: neurosurgeon_comments
+      label: Neurosurgeon Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hospital_staff
+      label: Hospital Staff
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_discharge
+      label: Time of Discharge
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_appointments_description
+      label: Follow-up Appointments Description
+      hint: null
+      type: text
+      options: []
+      required: true

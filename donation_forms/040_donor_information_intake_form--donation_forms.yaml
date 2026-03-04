@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Information Intake Form
+    pages:
+    - id: 1
+      name: donor_details
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - Address 1
+      - Address 2
+      - Address 3
+      required: false
+    - id: 6
+      name: address_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Other
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One Time
+      - Ongoing
+      - Regular
+      required: false
+    - id: 9
+      name: frequency_details
+      label: Frequency Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: frequency_interval
+      label: Frequency Interval
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 11
+      name: gift_date
+      label: Gift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: gift_frequency
+      label: Gift Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One Time
+      - Ongoing
+      - Regular
+      required: false
+    - id: 13
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One Time
+      - Ongoing
+      - Regular
+      required: false
+    - id: 14
+      name: donation_frequency_interval
+      label: Donation Interval
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false

@@ -1,0 +1,428 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Delivery Form
+    pages:
+    - id: 1
+      name: delivery_id
+      label: Delivery ID
+      hint: Unique delivery number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: scheduled_delivery_date
+      label: Scheduled Delivery Date
+      hint: Delivery date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: Customer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: alternate_contact
+      label: Alternate Contact
+      hint: Backup contact
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special instructions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: appliance_section
+      label: -- Appliance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: appliance_type
+      label: Appliance Type
+      hint: What is being delivered
+      type: select_one
+      options:
+      - Refrigerator
+      - Range or oven
+      - Dishwasher
+      - Washing machine
+      - Dryer
+      - Microwave
+      - Freezer
+      - Multiple appliances
+      - Other
+      required: true
+    - id: 15
+      name: appliance_brand
+      label: Appliance Brand
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: appliance_model
+      label: Appliance Model
+      hint: Model number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: appliance_serial
+      label: Serial Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: appliance_color
+      label: Color or Finish
+      hint: Appliance color
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quantity
+      label: Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: dimensions
+      label: Dimensions
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: delivery_options_section
+      label: -- Delivery Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: delivery_type
+      label: Delivery Type
+      hint: Type of delivery
+      type: select_one
+      options:
+      - Curbside
+      - Threshold delivery
+      - Room of choice
+      - White glove
+      - Full service
+      required: true
+    - id: 24
+      name: installation_required
+      label: Is installation required
+      hint: Installation service
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: installation_type
+      label: Installation Type
+      hint: What installation needed
+      type: select_multiple
+      options:
+      - Not applicable
+      - Water line connection
+      - Gas line connection
+      - Electrical connection
+      - Venting
+      - Leveling
+      - Testing
+      required: true
+    - id: 26
+      name: haul_away_old
+      label: Haul Away Old Appliance
+      hint: Remove old unit
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: old_appliance_details
+      label: Old Appliance Details
+      hint: Describe old unit
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: preferred_time
+      label: Preferred Delivery Time
+      hint: Time window
+      type: select_one
+      options:
+      - Morning (8 AM to 12 PM)
+      - Afternoon (12 PM to 5 PM)
+      - Evening (5 PM to 8 PM)
+      - Anytime
+      required: true
+    - id: 29
+      name: access_information
+      label: -- Access Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: property_type
+      label: Property Type
+      hint: Type of residence
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Other
+      required: true
+    - id: 31
+      name: floor_number
+      label: Floor Number
+      hint: Which floor
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: elevator_available
+      label: Elevator Available
+      hint: For multi-story
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 33
+      name: stairs_to_entry
+      label: Stairs to Entry
+      hint: Number of steps
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: doorway_width
+      label: Doorway Width Concerns
+      hint: Any narrow doorways
+      type: select_one
+      options:
+      - No concerns
+      - Standard doorways
+      - Some narrow doorways
+      - Very narrow doorways
+      - Not sure
+      required: true
+    - id: 35
+      name: parking_availability
+      label: Parking Availability
+      hint: For delivery truck
+      type: select_one
+      options:
+      - Street parking
+      - Driveway
+      - Loading dock
+      - Garage
+      - Other
+      required: true
+    - id: 36
+      name: gate_code
+      label: Gate Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: building_contact
+      label: Building Contact
+      hint: For apartments
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: total_amount
+      label: Total Amount Due
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 40
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Amount paid
+      type: number
+      options: []
+      required: true
+    - id: 41
+      name: balance_due
+      label: Balance Due
+      hint: Remaining amount
+      type: number
+      options: []
+      required: true
+    - id: 42
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Check
+      - Financing
+      - Already paid
+      required: true
+    - id: 43
+      name: delivery_notes
+      label: Additional Delivery Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 46
+      name: driver_section
+      label: -- For Driver Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: actual_delivery_time
+      label: Actual Delivery Time
+      hint: Time delivered
+      type: time
+      options: []
+      required: false
+    - id: 48
+      name: delivery_status
+      label: Delivery Status
+      hint: Outcome
+      type: select_one
+      options:
+      - Delivered successfully
+      - Delivered with issues
+      - Failed - Customer not home
+      - Failed - Access issues
+      - Failed - Other
+      - Rescheduled
+      required: false
+    - id: 49
+      name: driver_name
+      label: Driver Name
+      hint: Delivery personnel
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: driver_signature
+      label: Driver Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: customer_acceptance
+      label: Customer Acceptance Signature
+      hint: Confirm receipt
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: delivery_notes_driver
+      label: Driver Notes
+      hint: Any issues or observations
+      type: text
+      options: []
+      required: false

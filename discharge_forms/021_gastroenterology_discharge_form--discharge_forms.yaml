@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gastroenterology Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_discharged
+      label: Date Discharged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_planning
+      label: Follow-Up Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_contact
+      label: Follow-Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_provider
+      label: Follow-Up Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_acknowledgment
+      label: Patient Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand my follow-up appointment.''}'
+      - '{''label'': ''I will follow-up with my doctor.''}'
+      - '{''label'': ''I will follow-up with my family doctor.''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: other_follow_up_provider
+      label: Other Follow-Up Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false

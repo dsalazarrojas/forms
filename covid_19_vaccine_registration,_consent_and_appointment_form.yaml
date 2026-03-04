@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_19_vaccine_registration_consent_and_appointment_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_time
+      label: Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_location
+      label: Vaccination Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: appointment_confirmation
+      label: Appointment Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Appointment Confirmed
+      - Appointment Not Confirmed
+      required: false
+    - id: 10
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_profession
+      label: Medical Profession
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vaccine_dose
+      label: Vaccine Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vaccine_schedule
+      label: Vaccine Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 17
+      name: appointment_schedule
+      label: Appointment Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 18
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 Vaccine 1
+      - COVID-19 Vaccine 2
+      - COVID-19 Vaccine 3
+      required: false
+    - id: 19
+      name: medical_history_allergies
+      label: Medical History Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_conditions
+      label: Medical History Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false

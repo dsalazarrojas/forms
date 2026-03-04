@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Parcel Request Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_parcel_type
+      label: food_parcel_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: collection_date
+      label: collection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: food_item
+      label: food_item
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: collection_location
+      label: collection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: collection_date_time
+      label: collection_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: collection_time_zone
+      label: collection_time_zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: collection_day_of_week
+      label: collection_day_of_week
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: collection_time
+      label: collection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_submission_id
+      label: form_submission_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: collection_location
+      label: collection_location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID Phase 1A Authorization Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: social_security
+      label: Social Security Number
+      hint: Last four digits only
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: category
+      label: Applies to Phase 1A Category
+      hint: Select your priority category
+      type: select_one
+      options:
+      - Healthcare worker
+      - Long-term care resident
+      - Long-term care staff
+      - First responder
+      - Other
+      required: true
+    - id: 11
+      name: category_details
+      label: Describe Your Category
+      hint: Provide supporting information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment
+      label: Current Employment or Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_name
+      label: Facility or Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_conditions
+      label: Pre-existing Health Conditions
+      hint: That increase risk
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vaccine_interest
+      label: Interest in COVID-19 Vaccination
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Interested
+      - Neutral
+      - Not interested
+      - Already vaccinated
+      required: true
+    - id: 17
+      name: vaccine_questions
+      label: Questions or Concerns About Vaccine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: authorization_consent
+      label: I authorize my entry into Phase 1A vaccination program
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      required: true
+    - id: 19
+      name: signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: authorization_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true

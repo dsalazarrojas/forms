@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Support Form For Foreign Workers
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: worker_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: worker_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: country_of_origin
+      label: Country of Origin
+      hint: Home country
+      type: select_one
+      options:
+      - Mexico
+      - Guatemala
+      - Honduras
+      - El Salvador
+      - Philippines
+      - India
+      - China
+      - Vietnam
+      - Jamaica
+      - Haiti
+      - Other
+      required: true
+    - id: 6
+      name: native_language
+      label: Native Language
+      hint: Primary language
+      type: select_one
+      options:
+      - Spanish
+      - English
+      - Mandarin
+      - Tagalog
+      - Hindi
+      - Vietnamese
+      - Haitian Creole
+      - French
+      - Other
+      required: true
+    - id: 7
+      name: interpreter_needed
+      label: Do you need an interpreter
+      hint: Language assistance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: current_address
+      label: Current Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: visa_status
+      label: Current Visa or Work Status
+      hint: Immigration status
+      type: select_one
+      options:
+      - H-2A agricultural worker
+      - H-2B non-agricultural worker
+      - J-1 exchange visitor
+      - F-1 student with work authorization
+      - Permanent resident
+      - Asylum seeker
+      - Undocumented
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 15
+      name: employer_name
+      label: Current or Most Recent Employer
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employer_address
+      label: Employer Address
+      hint: Work location
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_type
+      label: Type of Work
+      hint: Industry
+      type: select_one
+      options:
+      - Agriculture or farming
+      - Construction
+      - Hospitality or tourism
+      - Food service
+      - Healthcare
+      - Manufacturing
+      - Domestic work
+      - Landscaping
+      - Other
+      required: true
+    - id: 18
+      name: employment_status
+      label: Current Employment Status
+      hint: Work status
+      type: select_one
+      options:
+      - Currently employed full-time
+      - Currently employed part-time
+      - Temporarily laid off
+      - Permanently laid off
+      - Unemployed
+      - Unable to work due to illness
+      required: true
+    - id: 19
+      name: covid_impact
+      label: How has COVID-19 impacted your work situation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lost job due to pandemic
+      - Reduced work hours
+      - Reduced pay
+      - Unable to work due to illness
+      - Workplace closed
+      - Cannot travel to work
+      - No impact
+      - Other
+      required: true
+    - id: 20
+      name: assistance_needed
+      label: What type of assistance do you need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial assistance
+      - Food assistance
+      - Housing assistance
+      - Medical care
+      - COVID-19 testing
+      - Legal assistance
+      - Translation services
+      - Job placement
+      - Transportation
+      - Mental health support
+      - Other
+      required: true
+    - id: 21
+      name: household_size
+      label: Household Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: dependents_count
+      label: Number of Dependents
+      hint: Children or dependents
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: monthly_income
+      label: Monthly Household Income
+      hint: Before taxes
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: health_insurance
+      label: Do you have health insurance
+      hint: Insurance status
+      type: select_one
+      options:
+      - Yes through employer
+      - Yes through government program
+      - Yes private insurance
+      - No uninsured
+      required: true
+    - id: 25
+      name: covid_symptoms
+      label: Are you currently experiencing COVID-19 symptoms
+      hint: Health status
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 26
+      name: symptom_description
+      label: Describe your symptoms
+      hint: Symptom details
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: housing_conditions
+      label: Describe your current housing situation
+      hint: Living conditions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_needs
+      label: Are there any other needs or concerns you would like to share
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - In-person visit
+      required: true
+    - id: 30
+      name: applicant_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

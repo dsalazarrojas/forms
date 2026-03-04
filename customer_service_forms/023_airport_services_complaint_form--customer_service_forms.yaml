@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Services Complaint Form
+    pages:
+    - id: 1
+      name: traveler_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: airport_terminal
+      label: Airport Terminal
+      hint: null
+      type: select_one
+      options:
+      - Terminal A
+      - Terminal B
+      - Terminal C
+      - International Terminal
+      required: true
+    - id: 6
+      name: section_complaint
+      label: -- Complaint Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_category
+      label: Category of Service Complaint
+      hint: null
+      type: select_one
+      options:
+      - Security Checkpoint
+      - Customs and Immigration
+      - Baggage Claim
+      - Restroom Cleanliness
+      - Signage and Wayfinding
+      - Retail/Food Outlets
+      - Staff Behavior
+      - Ground Transportation
+      - Other
+      required: true
+    - id: 8
+      name: specific_location
+      label: Specific Location in Airport
+      hint: e.g. Near Gate 15, Food Court Level 2
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: staff_member_name
+      label: Staff Member Name or ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: complaint_details
+      label: Detailed Description of the Issue
+      hint: Please provide as much detail as possible to help us investigate
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: impact_on_travel
+      label: Impact on your Travel
+      hint: e.g. Missed flight, delayed departure
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_resolution
+      label: -- Resolution Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: desired_resolution
+      label: What is your desired resolution?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_preference
+      label: Would you like to be contacted regarding this complaint?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: verification_code
+      label: Ticket or Booking Number (if relevant)
+      hint: null
+      type: text
+      options: []
+      required: false

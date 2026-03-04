@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_learning_platform_student_feedback_survey
+    pages:
+    - id: 1
+      name: course_name
+      label: What is the name of the course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_name
+      label: What is the name of the course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: How likely are you to recommend this course?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      - option9
+      - option10
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

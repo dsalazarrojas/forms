@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Success Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title_desc
+      label: job_title_desc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title_type
+      label: job_title_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: job_title_type_desc
+      label: job_title_type_desc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

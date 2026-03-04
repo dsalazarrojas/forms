@@ -1,0 +1,316 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Process Assessment Form
+    pages:
+      - id: 1
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: assessor_name
+        label: Assessor Name
+        hint: Person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessor_department
+        label: Assessor Department
+        hint: Which department
+        type: select_one
+        options:
+          - Quality Assurance
+          - Customer Service
+          - Operations
+          - Management
+          - Process Improvement
+          - Other
+        required: true
+      - id: 4
+        name: assessment_scope
+        label: Assessment Scope
+        hint: What is being assessed
+        type: select_one
+        options:
+          - End-to-end complaint process
+          - Intake process only
+          - Resolution process only
+          - Follow-up process only
+          - Specific department
+          - Specific complaint type
+        required: true
+      - id: 5
+        name: process_documentation
+        label: Process Documentation Quality
+        hint: Are procedures documented
+        type: select_one
+        options:
+          - Excellent - comprehensive and current
+          - Good - mostly complete
+          - Fair - some gaps
+          - Poor - outdated or incomplete
+          - Very poor - no documentation
+        required: true
+      - id: 6
+        name: intake_efficiency
+        label: Intake Process Efficiency
+        hint: How well does intake work
+        type: select_one
+        options:
+          - Excellent - very efficient
+          - Good - mostly efficient
+          - Fair - acceptable
+          - Poor - inefficient
+          - Very poor - problematic
+        required: true
+      - id: 7
+        name: triage_effectiveness
+        label: Triage Effectiveness
+        hint: How well are complaints categorized
+        type: select_one
+        options:
+          - Excellent - accurate routing
+          - Good - mostly accurate
+          - Fair - some errors
+          - Poor - frequent misrouting
+          - Very poor - no triage
+        required: true
+      - id: 8
+        name: assignment_process
+        label: Assignment Process
+        hint: How well are complaints assigned
+        type: select_one
+        options:
+          - Excellent - optimal assignment
+          - Good - mostly appropriate
+          - Fair - some issues
+          - Poor - frequent problems
+          - Very poor - random assignment
+        required: true
+      - id: 9
+        name: communication_process
+        label: Communication Process
+        hint: How well do we communicate
+        type: select_one
+        options:
+          - Excellent - clear and timely
+          - Good - mostly good
+          - Fair - inconsistent
+          - Poor - inadequate
+          - Very poor - no communication
+        required: true
+      - id: 10
+        name: investigation_process
+        label: Investigation Process
+        hint: How well are complaints investigated
+        type: select_one
+        options:
+          - Excellent - thorough and fast
+          - Good - mostly thorough
+          - Fair - variable quality
+          - Poor - superficial
+          - Very poor - no investigation
+        required: true
+      - id: 11
+        name: resolution_authority
+        label: Resolution Authority
+        hint: Do staff have authority to resolve
+        type: select_one
+        options:
+          - Excellent - appropriate authority
+          - Good - mostly empowered
+          - Fair - limited authority
+          - Poor - need approvals
+          - Very poor - no authority
+        required: true
+      - id: 12
+        name: resolution_options
+        label: Resolution Options Available
+        hint: Flexibility in solutions
+        type: select_one
+        options:
+          - Excellent - many options
+          - Good - adequate options
+          - Fair - limited options
+          - Poor - few options
+          - Very poor - rigid
+        required: true
+      - id: 13
+        name: escalation_process
+        label: Escalation Process
+        hint: How well does escalation work
+        type: select_one
+        options:
+          - Excellent - clear and effective
+          - Good - mostly good
+          - Fair - some confusion
+          - Poor - unclear process
+          - Very poor - no process
+        required: true
+      - id: 14
+        name: follow_up_process
+        label: Follow-up Process
+        hint: How well do we follow up
+        type: select_one
+        options:
+          - Excellent - consistent follow-up
+          - Good - mostly consistent
+          - Fair - variable
+          - Poor - rarely done
+          - Very poor - no follow-up
+        required: true
+      - id: 15
+        name: technology_support
+        label: Technology Support
+        hint: Do systems support the process
+        type: select_one
+        options:
+          - Excellent - fully supportive
+          - Good - mostly good
+          - Fair - some limitations
+          - Poor - hindering process
+          - Very poor - no support
+        required: true
+      - id: 16
+        name: training_adequacy
+        label: Training Adequacy
+        hint: Is staff properly trained
+        type: select_one
+        options:
+          - Excellent - well trained
+          - Good - mostly trained
+          - Fair - some gaps
+          - Poor - undertrained
+          - Very poor - no training
+        required: true
+      - id: 17
+        name: staffing_levels
+        label: Staffing Levels
+        hint: Is there enough staff
+        type: select_one
+        options:
+          - Excellent - well staffed
+          - Good - adequate
+          - Fair - sometimes short
+          - Poor - understaffed
+          - Very poor - severely short
+        required: true
+      - id: 18
+        name: metrics_tracking
+        label: Metrics and Tracking
+        hint: Are KPIs tracked
+        type: select_one
+        options:
+          - Excellent - comprehensive metrics
+          - Good - key metrics tracked
+          - Fair - basic tracking
+          - Poor - limited tracking
+          - Very poor - no metrics
+        required: true
+      - id: 19
+        name: continuous_improvement
+        label: Continuous Improvement
+        hint: Is process improving
+        type: select_one
+        options:
+          - Excellent - ongoing improvements
+          - Good - periodic improvements
+          - Fair - occasional improvements
+          - Poor - stagnant
+          - Very poor - declining
+        required: true
+      - id: 20
+        name: customer_feedback_integration
+        label: Customer Feedback Integration
+        hint: Is feedback used for improvement
+        type: select_one
+        options:
+          - Excellent - fully integrated
+          - Good - mostly used
+          - Fair - sometimes used
+          - Poor - rarely used
+          - Very poor - ignored
+        required: true
+      - id: 21
+        name: process_bottlenecks
+        label: Process Bottlenecks
+        hint: Where are the delays
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: process_gaps
+        label: Process Gaps
+        hint: What is missing
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: improvement_opportunities
+        label: Improvement Opportunities
+        hint: What can be improved
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: quick_wins
+        label: Quick Wins
+        hint: Easy improvements
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: long_term_changes
+        label: Long-term Changes Needed
+        hint: Strategic improvements
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: priority_recommendations
+        label: Priority Recommendations
+        hint: What to do first
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: implementation_timeline
+        label: Implementation Timeline
+        hint: When to implement
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: overall_process_rating
+        label: Overall Process Rating
+        hint: Summary rating
+        type: select_one
+        options:
+          - Excellent - best in class
+          - Good - effective
+          - Fair - needs work
+          - Poor - problematic
+          - Very poor - broken
+        required: true
+      - id: 29
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transaction Status Inquiry Form
+    pages:
+    - id: 1
+      name: transaction_status_inquiry
+      label: transaction_status_inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_type
+      label: transaction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: transaction_date
+      label: transaction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transaction_time
+      label: transaction_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transaction_id
+      label: transaction_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transaction_amount
+      label: transaction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: status_note
+      label: status_note
+      hint: null
+      type: note
+      options: []
+      required: false

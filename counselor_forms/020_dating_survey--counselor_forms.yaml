@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dating Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single'', ''label'': ''Single''}'
+      - '{''value'': ''In a relationship'', ''label'': ''In a relationship''}'
+      - '{''value'': ''In a long-term relationship'', ''label'': ''In a long-term
+        relationship''}'
+      - '{''value'': ''In a marriage'', ''label'': ''In a marriage''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: years_in_relationship
+      label: years_in_relationship
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: how_did_you_meet
+      label: how_did_you_meet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''Mutual friend'', ''label'': ''Mutual friend''}'
+      - '{''value'': ''Social media'', ''label'': ''Social media''}'
+      - '{''value'': ''Through a friend of a friend'', ''label'': ''Through a friend
+        of a friend''}'
+      - '{''value'': ''At an event'', ''label'': ''At an event''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: what_did_you_do_before_meeting
+      label: what_did_you_do_before_meeting
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Talked on the phone'', ''label'': ''Talked on the phone''}'
+      - '{''value'': ''Sent a text message'', ''label'': ''Sent a text message''}'
+      - '{''value'': ''Sent a message online'', ''label'': ''Sent a message online''}'
+      - '{''value'': ''Sent an email'', ''label'': ''Sent an email''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: what_did_you_expect
+      label: what_did_you_expect
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fun and casual'', ''label'': ''Fun and casual''}'
+      - '{''value'': ''Romantic'', ''label'': ''Romantic''}'
+      - '{''value'': ''Friendship'', ''label'': ''Friendship''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: how_long_have_you_known
+      label: how_long_have_you_known
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''A few hours'', ''label'': ''A few hours''}'
+      - '{''value'': ''A few days'', ''label'': ''A few days''}'
+      - '{''value'': ''A few weeks'', ''label'': ''A few weeks''}'
+      - '{''value'': ''A few months'', ''label'': ''A few months''}'
+      - '{''value'': ''Less than a week'', ''label'': ''Less than a week''}'
+      - '{''value'': ''More than a month'', ''label'': ''More than a month''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: what_is_interesting_to_you
+      label: what_is_interesting_to_you
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hobbies'', ''label'': ''Hobbies''}'
+      - '{''value'': ''Hiking'', ''label'': ''Hiking''}'
+      - '{''value'': ''Movies'', ''label'': ''Movies''}'
+      - '{''value'': ''Reading'', ''label'': ''Reading''}'
+      - '{''value'': ''Traveling'', ''label'': ''Traveling''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: how_much_do_you_like
+      label: how_much_do_you_like
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A lot'', ''label'': ''A lot''}'
+      - '{''value'': ''Somewhat'', ''label'': ''Somewhat''}'
+      - '{''value'': ''Not very much'', ''label'': ''Not very much''}'
+      - '{''value'': ''Not at all'', ''label'': ''Not at all''}'
+      required: false
+    - id: 15
+      name: have_you_met_siblings
+      label: have_you_met_siblings
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 16
+      name: have_you_met_children
+      label: have_you_met_children
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 17
+      name: have_you_met_parents
+      label: have_you_met_parents
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 18
+      name: have_you_met_friends
+      label: have_you_met_friends
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 19
+      name: have_you_met_family
+      label: have_you_met_family
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 20
+      name: how_do_you_feel
+      label: how_do_you_feel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Happy'', ''label'': ''Happy''}'
+      - '{''value'': ''Sad'', ''label'': ''Sad''}'
+      - '{''value'': ''Excited'', ''label'': ''Excited''}'
+      - '{''value'': ''Bored'', ''label'': ''Bored''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: would_you_like_meeting
+      label: would_you_like_meeting
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 22
+      name: would_like_to_meet_in_person
+      label: would_like_to_meet_in_person
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 23
+      name: rate_app
+      label: rate_app
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 24
+      name: have_you_been_in_treatment
+      label: have_you_been_in_treatment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 25
+      name: how_many_times
+      label: how_many_times
+      hint: null
+      type: number
+      options: []
+      required: false

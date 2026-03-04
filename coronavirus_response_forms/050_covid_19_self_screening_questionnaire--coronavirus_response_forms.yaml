@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Screening Questionnaire
+    pages:
+    - id: 1
+      name: person_name_full
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: screening_date_val
+      label: Date of Screening
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: screening_time_val
+      label: Time of Screening
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: current_temp_recorded
+      label: Current Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fever_24h_yn
+      label: Have you had a fever (100.4 F or higher) in the last 24 hours?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: symptom_cough_new_yn
+      label: Do you have a new or worsening cough?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: symptom_difficulty_breathing
+      label: Are you experiencing any difficulty breathing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: exposure_pos_case_yn
+      label: Have you been in close contact with someone who tested positive for COVID-19
+        in 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: awaiting_test_results_yn
+      label: Are you currently waiting for COVID-19 test results due to symptoms or
+        exposure?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: recommendation_outcome
+      label: Based on your responses, the recommendation is
+      hint: null
+      type: select_one
+      options:
+      - Authorized to enter facility
+      - DO NOT ENTER - Stay home and contact supervisor
+      - Contact health department for further guidance
+      required: true
+    - id: 11
+      name: self_screening_cert_yn
+      label: I certify that I have answered the above questions truthfully
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 12
+      name: electronic_sig_full
+      label: Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

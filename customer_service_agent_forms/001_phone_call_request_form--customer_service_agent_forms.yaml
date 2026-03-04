@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: phone_call_request_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason
+      label: reason_for_phone_call
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_request
+      label: Reason for Phone Call
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_agent
+      label: Customer Service Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Agent 1'', ''label'': ''Agent 1''}'
+      - '{''value'': ''Agent 2'', ''label'': ''Agent 2''}'
+      required: true
+    - id: 7
+      name: customer_service_agent_phone
+      label: Customer Service Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: true

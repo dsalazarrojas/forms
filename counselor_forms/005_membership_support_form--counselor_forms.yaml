@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Support Form
+    pages:
+    - id: 1
+      name: membership_request
+      label: Membership request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: Issue description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_since
+      label: Member since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: action_taken
+      label: Action taken
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: followup_needed
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 10
+      name: followup_date
+      label: Followup date
+      hint: null
+      type: date
+      options: []
+      required: false

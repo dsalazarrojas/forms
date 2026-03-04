@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ready To Assemble Furniture Evaluation Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Customer Feedback Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_assembly_issue
+      label: product_assembly_issue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 3
+      name: product_quality
+      label: product_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 4
+      name: assembly_instructions
+      label: assembly_instructions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: instructions_improvement
+      label: Improve assembly instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 6
+      name: issue_escalation
+      label: issue_escalation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: issue_description
+      label: Describe the issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_solution
+      label: Solution to the issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: comment
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: customer_reference
+      label: Customer Reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: true
+    - id: 20
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: true
+    - id: 21
+      name: assembly_time
+      label: Assembly Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 23
+      name: comment
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_question
+      label: Do you have any follow-up questions or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: feedback
+      label: Is there anything else you would like to share with us?
+      hint: null
+      type: text
+      options: []
+      required: false

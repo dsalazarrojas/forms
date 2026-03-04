@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Log Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: header_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_id
+      label: vehicle_number
+      hint: Enter vehicle ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: route
+      label: route_name
+      hint: Enter route name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: origin
+      label: start_location
+      hint: Enter origin location
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: destination
+      label: end_location
+      hint: Enter destination location
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fuel_type
+      label: fuel_type
+      hint: null
+      type: select_one
+      options:
+      - diesel
+      - gasoline
+      - other
+      required: false
+    - id: 11
+      name: fuel_amount
+      label: fuel_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: Check vehicle condition
+      type: select_multiple
+      options:
+      - good
+      - bad
+      - unknown
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: driver_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

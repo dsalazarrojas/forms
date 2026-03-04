@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Playground Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_info
+      label: Donation Information
+      hint: Your contribution details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: donation_amount
+      label: Donation Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-Time Donation
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 13
+      name: donation_designation
+      label: Designate Your Donation
+      hint: What should it support
+      type: select_one
+      options:
+      - General Playground Fund
+      - Equipment Purchase
+      - Safety Improvements
+      - Accessibility Features
+      - Maintenance Fund
+      - Where Most Needed
+      required: true
+    - id: 14
+      name: playground_location
+      label: Specific Playground Location
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Bank Transfer
+      - Corporate Match
+      required: true
+    - id: 16
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 17
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expiration_date
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cvv
+      label: CVV
+      hint: 3 or 4 digit code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_address
+      label: Billing Address
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: honor_roll
+      label: Recognition Preferences
+      hint: How should we recognize you
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: recognition_option
+      label: Recognition Option
+      hint: null
+      type: select_one
+      options:
+      - List on Donor Wall
+      - Online Recognition
+      - Newsletter Mention
+      - Anonymous
+      - No Recognition Needed
+      required: true
+    - id: 23
+      name: name_display
+      label: Name for Display
+      hint: How should your name appear
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: dedication
+      label: Dedication
+      hint: Is this in honor or memory of someone
+      type: select_one
+      options:
+      - In Honor Of
+      - In Memory Of
+      - Not a Dedication
+      required: false
+    - id: 25
+      name: dedication_name
+      label: Honoree or Memorial Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: employer_match
+      label: Does Your Employer Offer Matching Gifts
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 27
+      name: tax_receipt
+      label: Tax Receipt Preference
+      hint: null
+      type: select_one
+      options:
+      - Email Receipt
+      - Mail Receipt
+      - No Receipt Needed
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any message or instructions
+      type: text
+      options: []
+      required: false

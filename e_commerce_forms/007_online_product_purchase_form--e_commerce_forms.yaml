@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_product_purchase_form
+    pages:
+    - id: 1
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: delivery_name
+      label: delivery_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_phone
+      label: delivery_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_email
+      label: delivery_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: proof_payment
+      label: proof_payment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_purchased
+      label: product_purchased
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: price_purchased
+      label: price_purchased
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: payment_proof
+      label: payment_proof
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false

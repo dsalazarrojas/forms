@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural_folk_dance_tournament_entry_form
+    pages:
+    - id: 1
+      name: form_data
+      label: Team Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entry_data
+      label: Entry Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upload_dance_file
+      label: Upload Dance File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upload_dance_video
+      label: Upload Dance Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: entry_image
+      label: Entry Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entry_audio
+      label: Entry Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: entry_other_media
+      label: Entry Other Media
+      hint: 'Allowed types: video, image, audio'
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: entry_other_media
+      label: Entry Other Media
+      hint: null
+      type: text
+      options: []
+      required: false

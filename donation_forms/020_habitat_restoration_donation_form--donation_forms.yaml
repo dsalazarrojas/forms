@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Habitat Restoration Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_info
+      label: project_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - creditcard
+      - PayPal
+      required: false

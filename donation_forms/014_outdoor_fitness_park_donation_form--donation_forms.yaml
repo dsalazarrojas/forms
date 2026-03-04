@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Fitness Park Donation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Multiple 1'', ''label'': ''Multiple 1''}'
+      - '{''value'': ''Multiple 2'', ''label'': ''Multiple 2''}'
+      - '{''value'': ''Multiple 3'', ''label'': ''Multiple 3''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

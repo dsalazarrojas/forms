@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_course_evaluation_request_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_number
+      label: Session Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Very Good''}'
+      - '{''option3'': ''Good''}'
+      - '{''option4'': ''Neutral''}'
+      - '{''option5'': ''Poor''}'
+      required: true
+    - id: 7
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: instructor_performance
+      label: Instructor Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Very Good''}'
+      - '{''option3'': ''Good''}'
+      - '{''option4'': ''Neutral''}'
+      - '{''option5'': ''Poor''}'
+      required: true
+    - id: 9
+      name: session_satisfaction
+      label: Session Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Very Good''}'
+      - '{''option3'': ''Good''}'
+      - '{''option4'': ''Neutral''}'
+      - '{''option5'': ''Poor''}'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_satisfaction
+      label: Course Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Very Good''}'
+      - '{''option3'': ''Good''}'
+      - '{''option4'': ''Neutral''}'
+      - '{''option5'': ''Poor''}'
+      required: true
+    - id: 12
+      name: session_improvement
+      label: Session Improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Very Good''}'
+      - '{''option3'': ''Good''}'
+      - '{''option4'': ''Neutral''}'
+      - '{''option5'': ''Poor''}'
+      required: true
+    - id: 13
+      name: course_improvement
+      label: Course Improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Very Good''}'
+      - '{''option3'': ''Good''}'
+      - '{''option4'': ''Neutral''}'
+      - '{''option5'': ''Poor''}'
+      required: true
+    - id: 14
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Very Good''}'
+      - '{''option3'': ''Good''}'
+      - '{''option4'': ''Neutral''}'
+      - '{''option5'': ''Poor''}'
+      required: true
+    - id: 15
+      name: course_satisfaction_rating
+      label: Course Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: additional_questions
+      label: Additional Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: participant_satisfaction_rating
+      label: Participant Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: course_evaluation_form_rating
+      label: Course Evaluation Form Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: instructor_evaluated
+      label: Instructor Evaluated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: session_evaluated
+      label: Session Evaluated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

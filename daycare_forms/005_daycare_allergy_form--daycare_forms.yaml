@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Allergy Form
+    pages:
+    - id: 1
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: allergy_type
+      label: Allergy Type
+      hint: null
+      type: select_one
+      options:
+      - Peanut
+      - Tree Nut
+      - Fish
+      - Shellfish
+      - Milk
+      - Eggs
+      - Wheat
+      - Soy
+      - Sesame
+      required: true
+    - id: 4
+      name: allergy_description
+      label: Allergy Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_documentation
+      label: Medical Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_contact
+      label: Medical Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: food_allergies
+      label: Food Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut
+      - Tree Nut
+      - Fish
+      - Shellfish
+      - Milk
+      - Eggs
+      - Wheat
+      - Soy
+      - Sesame
+      required: true
+    - id: 9
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Acetaminophen
+      - Ibuprofen
+      - Aspirin
+      - Other
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: daycare_name
+      label: Daycare Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: daycare_address
+      label: Daycare Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: daycare_contact
+      label: Daycare Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_note
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medication_notes
+      label: Medication Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_comments
+      label: Medical Comments
+      hint: null
+      type: text
+      options: []
+      required: false

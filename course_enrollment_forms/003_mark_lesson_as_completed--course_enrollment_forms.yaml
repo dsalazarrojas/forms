@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mark Lesson As Completed
+    pages:
+    - id: 1
+      name: mark_lesson_as_completed
+      label: Mark Lesson As Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: course_id
+      label: Course
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trainer_id
+      label: Trainer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lesson_date
+      label: Lesson Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: lesson_time
+      label: Lesson Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: lesson_duration
+      label: Lesson Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

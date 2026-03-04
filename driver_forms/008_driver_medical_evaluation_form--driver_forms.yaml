@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_medical_evaluation_form
+    pages:
+    - id: 1
+      name: medical_evaluation_form_page
+      label: Medical Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_evaluation_form
+      label: Medical Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_board_certification_number
+      label: Medical Board Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physical_ability
+      label: Physical Ability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: doctor_address
+      label: Doctor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_date
+      label: Doctor Date
+      hint: null
+      type: date
+      options: []
+      required: false

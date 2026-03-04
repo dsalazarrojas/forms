@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_feedback_intake_form
+    pages:
+    - id: 1
+      name: product_feedback
+      label: Product Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      - Very Unsatisfactory
+      required: false
+    - id: 5
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_version
+      label: Product Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: product_image
+      label: Product Image
+      hint: null
+      type: note
+      options: []
+      required: false

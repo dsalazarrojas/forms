@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_purchase_order_form
+    pages:
+    - id: 1
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: purchase_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_quantity
+      label: order_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processing
+      - Shipped
+      - Cancelled
+      required: false
+    - id: 12
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jennifercorp
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jennifercorp
+      required: false

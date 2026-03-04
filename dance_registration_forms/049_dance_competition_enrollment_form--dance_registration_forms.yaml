@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Competition Enrollment Form
+    pages:
+    - id: 1
+      name: dance_competition_enrollment_form
+      label: Dance Competition Enrollment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relation
+      label: emergency_contact_relation
+      hint: null
+      type: select_one
+      options:
+      - emergency_contact_parent
+      - emergency_contact_sibling
+      - emergency_contact_spouse
+      required: true
+    - id: 14
+      name: dance_style
+      label: dance_style
+      hint: null
+      type: select_multiple
+      options:
+      - ballet
+      - contemporary
+      - hip_hop
+      - tap
+      - jazz
+      required: true
+    - id: 15
+      name: competition_division
+      label: competition_division
+      hint: null
+      type: select_one
+      options:
+      - junior
+      - senior
+      - adult
+      required: true
+    - id: 16
+      name: competition_level
+      label: competition_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: true

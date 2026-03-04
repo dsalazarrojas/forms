@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Box Truck Driver Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Applicant Personal Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_fname
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: driver_lname
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: driver_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: driver_addr
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: qualifications_header
+      label: -- Driver Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: license_no
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_class_select
+      label: License Class
+      hint: null
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      - Standard / Other
+      required: true
+    - id: 10
+      name: license_exp_dt
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: truck_exp_yrs
+      label: Years of Experience Driving Box Trucks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: history_header
+      label: -- Employment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: last_employer
+      label: Most Recent Trucking Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supervisor_info
+      label: Supervisor Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: background_header
+      label: -- Background and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: violations_count
+      label: Do you have any traffic violations in the past 3 years?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - 1
+      - Yes - 2
+      - Yes - 3 or more
+      required: true
+    - id: 17
+      name: bg_check_auth
+      label: Do you authorize a background check?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: availability_dt
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: eco_tourism_training_fund_donation_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Eco Tourism Training Fund Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Donation Forms''}'
+      - '{''option2'': ''Training Initiatives''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Credit Card''}'
+      - '{''option2'': ''Other''}'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Submit''}'
+      - '{''option2'': ''Cancel''}'
+      required: false
+    - id: 11
+      name: donor_organization
+      label: Donor Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: donor_designation
+      label: Donor Designation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_file
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

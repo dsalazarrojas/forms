@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: sliding_door_feedback_survey
+    pages:
+    - id: 1
+      name: sliding_door_product_quality
+      label: Sliding Door Product Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sliding_door_installation_experience
+      label: Sliding Door Installation Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sliding_door_functionality
+      label: Sliding Door Functionality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sliding_door_satisfaction
+      label: Sliding Door Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sliding_door_recommendation
+      label: Would You Recommend This Sliding Door?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: false

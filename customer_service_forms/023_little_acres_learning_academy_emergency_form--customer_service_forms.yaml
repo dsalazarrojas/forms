@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Little Acres Learning Academy Emergency Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Parent/Guardian''}'
+      - '{''label'': ''Grandparent''}'
+      - '{''label'': ''Legal Custodian''}'
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergy_info
+      label: Allergy Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: known_diseases
+      label: Known Diseases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Grandparent''}'
+      - '{''label'': ''Legal Custodian''}'
+      required: false
+    - id: 12
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: medical_treatment_notes
+      label: Medical Treatment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_medical_certification
+      label: Emergency Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Certified''}'
+      - '{''label'': ''Not Certified''}'
+      required: false
+    - id: 15
+      name: medical_certification_number
+      label: Medical Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_certification_date
+      label: Medical Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_certification_provider
+      label: Medical Certification Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_certification_provider_address
+      label: Medical Certification Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_certification_provider_phone
+      label: Medical Certification Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_certification_provider_fax
+      label: Medical Certification Provider Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

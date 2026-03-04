@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apology Letter Form
+    pages:
+    - id: 1
+      name: letter_date
+      label: Letter date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: sender_name
+      label: Your name or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_email
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sender_phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recipient_name
+      label: Recipient name or title
+      hint: Person receiving apology
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recipient_email
+      label: Recipient email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: apology_reason
+      label: Reason for apology
+      hint: null
+      type: select_one
+      options:
+      - Business mistake or error
+      - Poor service delivery
+      - Miscommunication
+      - Missed deadline
+      - Quality issue
+      - Financial matter
+      - Personal offense
+      - Workplace incident
+      - Other
+      required: true
+    - id: 8
+      name: incident_date
+      label: Date of incident being apologized for
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: impact_description
+      label: How the issue impacted the recipient
+      hint: What went wrong
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: responsibility_acknowledgment
+      label: I take full responsibility for this issue
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully responsible
+      - Yes, partially responsible
+      - false
+      required: true
+    - id: 11
+      name: apology_statement
+      label: Apology statement
+      hint: Your sincere apology message
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: understanding_impact
+      label: Demonstrate understanding of impact
+      hint: Show you understand the consequences
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: corrective_actions
+      label: Corrective actions being taken
+      hint: How you will fix or prevent recurrence
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: timeline_correction
+      label: Timeline for implementing corrections
+      hint: When changes will be made
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: compensation_offered
+      label: Any compensation or restitution offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_availability
+      label: Your availability to discuss
+      hint: When the recipient can reach you
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: closing_statement
+      label: Closing statement
+      hint: Expression of hope for resolution
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: letter_tone
+      label: Tone of letter
+      hint: null
+      type: select_one
+      options:
+      - Professional and sincere
+      - Personal and emotional
+      - Formal and corporate
+      - Casual and friendly
+      required: true
+    - id: 19
+      name: letter_format
+      label: Preferred letter format
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Printed and mailed
+      - Phone call
+      - In-person meeting
+      - Other
+      required: true
+    - id: 20
+      name: follow_up_plan
+      label: Plan for follow-up communication
+      hint: How you will check in
+      type: text
+      options: []
+      required: false

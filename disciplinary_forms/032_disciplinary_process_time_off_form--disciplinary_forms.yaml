@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Process Time Off Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: time_off_start_date
+      label: Time Off Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_off_end_date
+      label: Time Off End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_approvals
+      label: Supervisor Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Approvals: Manager'
+      - 'Approvals: Assistant Manager'
+      - 'Approvals: Team Lead'
+      required: false
+    - id: 6
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_leaving
+      label: Reason For Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: disciplinary_action
+      label: Disciplinary Action
+      hint: null
+      type: select_one
+      options:
+      - Termination
+      - Suspend
+      - Verbal Warning
+      - Written Warning
+      - Written and Verbal Warning
+      - No Action
+      required: false
+    - id: 12
+      name: time_off_start_time
+      label: Time Off Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: time_off_end_time
+      label: Time Off End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: time_off_hours
+      label: Time Off Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: time_off_date
+      label: Time Off Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_off_duration
+      label: Time Off Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: time_off_hours_end
+      label: Time Off Hours End
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: time_off_start_time_off_day
+      label: Time Off Start Time Off Day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: time_off_end_time_off_day
+      label: Time Off End Time Off Day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: time_off_hours_off_day
+      label: Time Off Hours Off Day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: time_off_start_date_off
+      label: Time Off Start Date Off
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: time_off_end_date_off
+      label: Time Off End Date Off
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: time_off_start_time_off
+      label: Time Off Start Time Off
+      hint: null
+      type: time
+      options: []
+      required: false

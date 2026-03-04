@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Questionnaire Form
+    pages:
+    - id: 1
+      name: weight_loss_goals
+      label: Weight Loss Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: target_weight
+      label: Target Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_condition_options
+      label: Medical Condition Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: supplements
+      label: Supplements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_diet
+      label: Current Diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physical_activities
+      label: Physical Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: diet_plan
+      label: Diet Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exercise_plan
+      label: Exercise Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: goal_weight_loss_percentage
+      label: Goal Weight Loss Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: weight_loss_start_date
+      label: Weight Loss Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: weight_loss_end_date
+      label: Weight Loss End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: weight_change
+      label: Weight Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: weight_loss_method
+      label: Weight Loss Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: weight_loss_goal_duration
+      label: Weight Loss Goal Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: weight_loss_goal_frequency
+      label: Weight Loss Goal Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: weight_loss_goal_intensity
+      label: Weight Loss Goal Intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: weight_loss_goal_frequency_other
+      label: Weight Loss Goal Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false

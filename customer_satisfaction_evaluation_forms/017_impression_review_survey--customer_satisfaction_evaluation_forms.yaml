@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Impression Review Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_impression
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: product_service_event
+      label: product_or_service
+      hint: 'null'
+      type: select_one
+      options:
+      - product
+      - service
+      - event
+      - onboarding
+      required: false
+    - id: 3
+      name: overall_impression
+      label: overall_impression
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: positive_impressions
+      label: positive_impressions
+      hint: null
+      type: select_multiple
+      options:
+      - friendly
+      - helpful
+      - impressive
+      - well-designed
+      - well-managed
+      - well-executed
+      - well-communicated
+      - well-informed
+      - efficient
+      - effective
+      - satisfying
+      - positive
+      required: false
+    - id: 5
+      name: negative_impressions
+      label: negative_impressions
+      hint: null
+      type: select_multiple
+      options:
+      - unhelpful
+      - unimpressive
+      - poorly-designed
+      - poorly-managed
+      - poorly-executed
+      - poorly-communicated
+      - confusing
+      - uninformed
+      - inefficient
+      - unproductive
+      - negative
+      required: false
+    - id: 6
+      name: improvement_priorities
+      label: improvement_priorities
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - address
+      - contact
+      required: false
+    - id: 9
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: company_website
+      label: company_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: first_page_2
+      label: first_impression_2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: overall_impression_2
+      label: overall_impression_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: positive_impressions_2
+      label: positive_impressions_2
+      hint: null
+      type: select_multiple
+      options:
+      - friendly
+      - helpful
+      - impressive
+      - well-designed
+      - well-managed
+      - well-executed
+      - well-communicated
+      - well-informed
+      - efficient
+      - effective
+      - satisfying
+      - positive
+      required: false
+    - id: 23
+      name: negative_impressions_2
+      label: negative_impressions_2
+      hint: null
+      type: select_multiple
+      options:
+      - unhelpful
+      - unimpressive
+      - poorly-designed
+      - poorly-managed
+      - poorly-executed
+      - poorly-communicated
+      - confusing
+      - uninformed
+      - inefficient
+      - unproductive
+      - negative
+      required: false
+    - id: 24
+      name: improvement_priorities_2
+      label: improvement_priorities_2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: note
+      options: []
+      required: true

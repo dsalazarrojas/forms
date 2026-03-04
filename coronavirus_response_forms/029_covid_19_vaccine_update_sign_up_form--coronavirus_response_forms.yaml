@@ -1,0 +1,249 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Update Sign Up Form
+    pages:
+    - id: 1
+      name: update_signup_header
+      label: -- Sign Up for Vaccine Updates --
+      hint: Get notifications about COVID-19 vaccine availability
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: update_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: update_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: update_email
+      Label: Email Address
+      hint: Your email for updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: update_phone
+      label: Phone Number
+      hint: Your phone for SMS updates
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: update_zip_code
+      Label: ZIP Code
+      hint: Your residential area
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: update_age_group
+      label: Age Group
+      hint: Your age category
+      type: select_one
+      options:
+        - Under 18
+        - 18-30
+        - 31-50
+        - 51-65
+        - 65+
+      required: true
+    - id: 8
+      name: update_health_status_header
+      Label: -- Health Status --
+      hint: Important for vaccine eligibility
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: update_eligible_group
+      label: Vaccination Eligibility Group
+      hint: Do you fall into a priority group
+      type: select_one
+      options:
+        - Healthcare worker
+        - Essential worker
+        - Age 65 or older
+        - Underlying medical condition
+        - General population
+        - Unsure of eligibility
+      required: true
+    - id: 10
+      name: update_medical_conditions
+      Label: Underlying Medical Conditions
+      hint: If applicable, describe conditions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: update_willingness_header
+      label: -- Vaccine Willingness --
+      hint: Your openness to vaccination
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: update_willing_to_vaccinate
+      Label: Are You Willing to Get the COVID-19 Vaccine
+      hint: Your openness to vaccination
+      type: select_one
+      options:
+        - Yes, definitely
+        - Probably yes
+        - Unsure
+        - Probably not
+        - Definitely not
+      required: true
+    - id: 13
+      name: update_concerns
+      label: Do You Have Concerns About the Vaccine
+      hint: Any specific concerns
+      type: select_one
+      options:
+        - No concerns
+        - Some concerns
+        - Many concerns
+        - Significant concerns
+      required: false
+    - id: 14
+      name: update_concerns_details
+      Label: If You Have Concerns, Please Describe
+      hint: Details about your concerns
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: update_preference_header
+      label: -- Notification Preferences --
+      hint: How you prefer to receive updates
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: update_notification_method
+      Label: Preferred Update Method
+      hint: How should we contact you
+      type: select_multiple
+      options:
+        - Email
+        - Text Message
+        - Phone Call
+        - Mail
+        - All methods
+      required: true
+    - id: 17
+      name: update_frequency
+      label: Update Frequency Preference
+      hint: How often to contact you
+      type: select_one
+      options:
+        - As soon as vaccine available
+        - Weekly updates
+        - Monthly updates
+        - Only major changes
+        - No preference
+      required: false
+    - id: 18
+      name: update_location_preference
+      Label: Preferred Vaccination Location Type
+      hint: Where you prefer vaccination
+      type: select_one
+      options:
+        - Medical clinic
+        - Hospital
+        - Pharmacy
+        - Community center
+        - Mobile clinic
+        - Home vaccination
+        - No preference
+      required: false
+    - id: 19
+      name: update_distance_preference
+      label: Willing to Travel Distance
+      hint: How far will you travel
+      type: select_one
+      options:
+        - Walking distance only
+        - Within 5 miles
+        - Within 10 miles
+        - Within 25 miles
+        - Any distance
+      required: false
+    - id: 20
+      name: update_time_availability_header
+      Label: -- Availability --
+      hint: When you can get vaccinated
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: update_weekday_availability
+      label: Available on Weekdays
+      hint: Monday through Friday
+      type: select_one
+      options:
+        - Yes, anytime
+        - Early morning
+        - Afternoon
+        - Evening
+        - Not available
+      required: true
+    - id: 22
+      name: update_weekend_availability
+      Label: Available on Weekends
+      hint: Saturday and Sunday
+      type: select_one
+      options:
+        - Yes, anytime
+        - Morning
+        - Afternoon
+        - Evening
+        - Not available
+      required: true
+    - id: 23
+      name: update_consent
+      label: I Consent to Receive COVID-19 Vaccine Updates
+      hint: I agree to receive communications
+      type: select_one
+      options:
+        - I consent
+        - I do not consent
+      required: true
+    - id: 24
+      name: update_privacy_agreement
+      Label: I Agree to Privacy Terms
+      hint: My information will be kept confidential
+      type: select_one
+      options:
+        - I agree
+        - I do not agree
+      required: true
+    - id: 25
+      name: update_confirmation
+      label: I Confirm All Information is Accurate
+      hint: All provided information is correct
+      type: select_one
+      options:
+        - Confirmed accurate
+        - Needs correction
+      required: true

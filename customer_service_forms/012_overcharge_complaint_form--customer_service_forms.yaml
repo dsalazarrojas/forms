@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: overcharge_complaint_form
+    pages:
+    - id: 1
+      name: overcharge_complaint_form
+      label: overcharge complaint form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_service_forms
+      label: customer service eforms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: the_overcharge_complaint_form_allows_customers_to_report_discrepancies
+      label: the overcharge complaint form allows customers to report discrepancies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category
+      - customer service
+      required: true

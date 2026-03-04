@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Dance Class Registration Form
+    pages:
+    - id: 1
+      name: form_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_input_3
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: form_input_4
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: form_input_5
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_input_6
+      label: Interested in
+      hint: null
+      type: select_one
+      options:
+      - Dance Class 1
+      - Dance Class 2
+      - Dance Class 3
+      required: true
+    - id: 7
+      name: form_input_7
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_input_8
+      label: Class Schedule
+      hint: null
+      type: text
+      options: []
+      required: false

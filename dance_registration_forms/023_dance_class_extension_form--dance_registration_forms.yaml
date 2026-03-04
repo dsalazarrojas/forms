@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Extension Form
+    pages:
+    - id: 1
+      name: dance_class_extension_form
+      label: Dance Class Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student
+      label: Student
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: false
+    - id: 3
+      name: student_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dance_class
+      label: Dance Class
+      hint: null
+      type: select_one
+      options:
+      - Class1
+      - Class2
+      required: false
+    - id: 5
+      name: dance_class_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: dance_class_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: extension_details
+      label: Extension Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor
+      label: Instructor
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: false
+    - id: 9
+      name: student_extension_date
+      label: Student Extension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_extension_time
+      label: Student Extension Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: instructor_confirmation
+      label: Instructor Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_confirmation
+      label: Student Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dance_class_extension_form_submission
+      label: Dance Class Extension Form Submission
+      hint: null
+      type: email
+      options: []
+      required: false

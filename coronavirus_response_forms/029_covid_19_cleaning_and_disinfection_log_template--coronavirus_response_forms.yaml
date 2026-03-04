@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Cleaning And Disinfection Log Template
+    pages:
+      - id: 1
+        name: log_date
+        label: Cleaning Date
+        hint: Date of cleaning and disinfection
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: log_time
+        label: Time of Cleaning
+        hint: What time was cleaning performed?
+        type: time
+        options: []
+        required: false
+      - id: 3
+        name: location_name
+        label: Location/Facility Name
+        hint: Building or area being cleaned
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: area_cleaned
+        label: Specific Area or Room
+        hint: Reception area, bathroom, office, etc.
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: staff_name
+        label: Staff Member Name
+        hint: Who performed the cleaning?
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: supervisor_name
+        label: Supervisor Name
+        hint: Person overseeing the cleaning
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: note_ppe
+        label: -- Personal Protective Equipment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: gloves_used
+        label: Gloves Used
+        hint: Type of gloves worn
+        type: select_one
+        options:
+          - "Yes - Nitrile"
+          - "Yes - Latex"
+          - "Yes - Other"
+          - "No"
+        required: true
+      - id: 9
+        name: mask_used
+        label: Mask Worn
+        hint: null
+        type: select_one
+        options:
+          - "Yes - N95"
+          - "Yes - Surgical"
+          - "Yes - Other"
+          - "No"
+        required: false
+      - id: 10
+        name: eye_protection
+        label: Eye Protection Used
+        hint: Goggles or face shield
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 11
+        name: gown_used
+        label: Protective Gown Worn
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 12
+        name: note_disinfectants
+        label: -- Disinfectants Used --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: disinfectant_product
+        label: Disinfectant Product Used
+        hint: Brand name or type
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: disinfectant_concentration
+        label: Disinfectant Concentration
+        hint: Per manufacturer instructions
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: contact_time
+        label: Contact Time
+        hint: How long disinfectant was left on surfaces
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: note_surfaces
+        label: -- Surfaces Cleaned --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: high_touch_surfaces
+        label: High-Touch Surfaces Disinfected
+        hint: Door handles, switches, railings, etc.
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 18
+        name: restrooms_cleaned
+        label: Restrooms Cleaned and Disinfected
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 19
+        name: floors_cleaned
+        label: Floors Cleaned
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: false
+      - id: 20
+        name: breakroom_cleaned
+        label: Break Room Cleaned
+        hint: Refrigerator, microwave, tables, etc.
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 21
+        name: equipment_cleaned
+        label: Equipment and Machinery Cleaned
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 22
+        name: furniture_cleaned
+        label: Furniture and Upholstered Items Cleaned
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 23
+        name: ventilation_checked
+        label: HVAC and Ventilation Systems Inspected
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 24
+        name: waste_disposal
+        label: Contaminated Waste Properly Disposed
+        hint: Biohazard containers used
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 25
+        name: issues_encountered
+        label: Issues or Concerns Encountered
+        hint: Any problems during cleaning
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: completion_status
+        label: Cleaning Completion Status
+        hint: null
+        type: select_one
+        options:
+          - "Completed successfully"
+          - "Completed with issues"
+          - "Incomplete"
+          - "Reschedule needed"
+        required: true

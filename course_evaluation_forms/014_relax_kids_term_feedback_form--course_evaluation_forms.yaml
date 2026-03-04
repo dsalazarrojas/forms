@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: relax_kids_term_feedback_form
+    pages:
+    - id: 1
+      name: testimonial
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testimonial_2
+      label: How would you rate your overall experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: testimonial_3
+      label: How would you rate the staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: testimonial_4
+      label: How would you rate the content?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Poor''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Good''}'
+      - '{''value'': 4, ''label'': ''Excellent''}'
+      required: false
+    - id: 5
+      name: testimonial_5
+      label: How would you rate our venue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: testimonial_6
+      label: How would you rate our facilities?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: testimonial_7
+      label: How would you rate our food?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: testimonial_8
+      label: How would you rate our overall experience?
+      hint: null
+      type: text
+      options: []
+      required: false

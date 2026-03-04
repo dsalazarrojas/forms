@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Seller Interaction Inquiry Form
+    pages:
+    - id: 1
+      name: buyer_inquiry
+      label: buyer_inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_info
+      label: buyer_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seller_info
+      label: seller_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interaction_type
+      label: interaction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Phone Call'', ''value'': ''phone_call''}'
+      - '{''id'': 20, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 30, ''label'': ''Live Chat'', ''value'': ''live_chat''}'
+      required: true
+    - id: 5
+      name: date_of_interaction
+      label: date_of_interaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_interaction
+      label: time_of_interaction
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Not Followed Up'', ''value'': ''not_followed_up''}'
+      - '{''id'': 21, ''label'': ''Followed Up'', ''value'': ''followed_up''}'
+      - '{''id'': 31, ''label'': ''Follow Up Scheduled'', ''value'': ''follow_up_scheduled''}'
+      required: true
+    - id: 8
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_agent
+      label: assigned_agent
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Contract Discharge Form
+    pages:
+    - id: 1
+      name: government_contract_discharge_form
+      label: Government Contract
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: agency_acknowledgement
+      label: Agency Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 8
+      name: agency_comment
+      label: Agency Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_discharged
+      label: Date Discharged
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Discharged
+      required: true
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file
+      label: Attach File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contract_amount
+      label: Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agency_contact
+      label: Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: agency_phone
+      label: Agency Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: contractor
+      label: Contractor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contractor_contact
+      label: Contractor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contractor_phone
+      label: Contractor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contractor_email
+      label: Contractor Email
+      hint: null
+      type: email
+      options: []
+      required: false

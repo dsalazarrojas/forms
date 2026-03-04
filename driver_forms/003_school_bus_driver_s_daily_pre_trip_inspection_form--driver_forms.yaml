@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Driver’s Daily Pre Trip Inspection Form
+    pages:
+    - id: 1
+      name: pre_trip_inspections
+      label: pre_trip_inspections
+      hint: null
+      type: select_multiple
+      options:
+      - Bus
+      - Tire
+      - Mirrors
+      - Brake
+      - Horn
+      - Lights
+      - Wipers
+      - Seatbelts
+      required: false
+    - id: 2
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: vehicle_miles
+      label: vehicle_miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_maintenance
+      label: last_maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_inspection
+      label: last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_scheduled_maintenance
+      label: next_scheduled_maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_weight
+      label: vehicle_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_length
+      label: vehicle_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_width
+      label: vehicle_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_height
+      label: vehicle_height
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swim Lesson Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: swim_level
+      label: Swim Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: swim_style
+      label: Swim Style
+      hint: null
+      type: select_multiple
+      options:
+      - Front Crawl
+      - Back Crawl
+      - Breaststroke
+      - Butterfly
+      - Sidestroke
+      required: false
+    - id: 8
+      name: swim_frequency
+      label: Swim Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_experience
+      label: Instructor Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: course_length
+      label: Course Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: course_schedule
+      label: Course Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: swim_type
+      label: Swim Type
+      hint: null
+      type: select_one
+      options:
+      - Lessons
+      - Group Classes
+      - Private Classes
+      required: false
+    - id: 14
+      name: lesson_time
+      label: Lesson Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: lesson_duration
+      label: Lesson Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: student_number
+      label: Student Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: student_fee
+      label: Student Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: instructor_fee
+      label: Instructor Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: instructor_availability
+      label: Instructor Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 20
+      name: instructor_qualifications
+      label: Instructor Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_contracts
+      label: Student Contracts
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: instructor_contracts
+      label: Instructor Contracts
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Save and Continue
+      - Save and Exit
+      required: false
+    - id: 25
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

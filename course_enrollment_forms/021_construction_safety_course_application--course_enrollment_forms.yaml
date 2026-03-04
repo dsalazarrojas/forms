@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Safety Course Application
+    pages:
+    - id: 1
+      name: section_applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Used for confirmation and materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile phone for day of course
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employer
+      label: Employer
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_date
+      label: Course date
+      hint: Select preferred session date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: prior_training
+      label: Prior safety training completed
+      hint: List prior relevant trainings
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical conditions to note
+      hint: Optional health information for instructors
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Name and phone in case of emergency
+      type: text
+      options: []
+      required: true

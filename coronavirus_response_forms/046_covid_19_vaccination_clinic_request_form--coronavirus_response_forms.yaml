@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Clinic Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: organization_name
+      label: Organization Name
+      hint: Company or group
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: organization_type
+      label: Organization Type
+      hint: Type of group
+      type: select_one
+      options:
+      - Individual
+      - Healthcare facility
+      - School or university
+      - Business or corporation
+      - Non-profit organization
+      - Religious institution
+      - Government agency
+      - Community group
+      required: true
+    - id: 14
+      name: number_of_people
+      label: Number of People Requesting Vaccination
+      hint: Group size
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: healthcare_worker_count
+      label: Number of Healthcare Workers
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: essential_worker_count
+      label: Number of Essential Workers
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: high_risk_count
+      label: Number of High-Risk Individuals
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: preferred_clinic_date
+      label: Preferred Clinic Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: alternative_clinic_date
+      label: Alternative Clinic Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: preferred_clinic_time
+      label: Preferred Clinic Time
+      hint: Time preference
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: clinic_location_preference
+      label: Preferred Clinic Location
+      hint: Where to hold clinic
+      type: select_one
+      options:
+      - Main vaccination center
+      - Mobile clinic at our location
+      - Community center
+      - Pharmacy location
+      - Any available location
+      required: true
+    - id: 22
+      name: vaccine_brand_preference
+      label: Vaccine Brand Preference
+      hint: If any
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      required: true
+    - id: 23
+      name: special_population
+      label: Does your group include special populations
+      hint: Special needs
+      type: select_multiple
+      options:
+      - None
+      - Elderly 65 plus
+      - Children under 18
+      - Pregnant individuals
+      - Immunocompromised
+      - Disabled individuals
+      - Non-English speakers
+      - Homebound individuals
+      required: true
+    - id: 24
+      name: accessibility_needs
+      label: Are there any accessibility needs
+      hint: Accommodations
+      type: select_one
+      options:
+      - No accommodations needed
+      - Wheelchair accessibility
+      - Sign language interpreter
+      - Extra time needed
+      - Transportation assistance
+      - Multiple accommodations
+      required: true
+    - id: 25
+      name: previous_vaccination_clinic
+      label: Has your organization hosted a vaccination clinic before
+      hint: Previous experience
+      type: select_one
+      options:
+      - Yes successfully
+      - Yes with challenges
+      - No first time
+      required: true
+    - id: 26
+      name: facility_details
+      label: Describe the proposed clinic facility
+      hint: Space details
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: parking_availability
+      label: Is parking available
+      hint: Parking info
+      type: select_one
+      options:
+      - Yes ample parking
+      - Yes limited parking
+      - No parking available
+      - Street parking only
+      required: true
+    - id: 28
+      name: electricity_available
+      label: Is electricity available for medical equipment
+      hint: Power access
+      type: select_one
+      options:
+      - Yes multiple outlets
+      - Yes limited outlets
+      - No electricity available
+      required: true
+    - id: 29
+      name: internet_available
+      label: Is internet available for registration
+      hint: Internet access
+      type: select_one
+      options:
+      - Yes high-speed
+      - Yes basic
+      - No internet available
+      - Mobile hotspot available
+      required: true
+    - id: 30
+      name: staffing_support
+      label: Can your organization provide volunteer staff
+      hint: Volunteer support
+      type: select_one
+      options:
+      - Yes 1-5 volunteers
+      - Yes 6-10 volunteers
+      - Yes 11 or more volunteers
+      - No volunteers available
+      required: true
+    - id: 31
+      name: requested_support
+      label: What support do you need from the vaccination team
+      hint: Support needs
+      type: select_multiple
+      options:
+      - Vaccine administration
+      - Registration assistance
+      - Screening staff
+      - Observation monitoring
+      - Traffic flow management
+      - Translation services
+      - Transportation coordination
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: requester_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

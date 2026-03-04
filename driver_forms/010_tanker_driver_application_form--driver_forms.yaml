@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: tanker_driver_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_license_state
+      label: Driver License State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''morning'', ''label'': ''Morning''}'
+      - '{''id'': ''afternoon'', ''label'': ''Afternoon''}'
+      - '{''id'': ''evening'', ''label'': ''Evening''}'
+      - '{''id'': ''weekend'', ''label'': ''Weekend''}'
+      required: false
+    - id: 12
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: tanker_driver_license
+      label: Tanker Driver License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''class_a'', ''label'': ''Class A''}'
+      - '{''id'': ''class_b'', ''label'': ''Class B''}'
+      - '{''id'': ''class_c'', ''label'': ''Class C''}'
+      required: false
+    - id: 14
+      name: tanker_driver_license_state
+      label: Tanker Driver License State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: tanker_driver_license_number
+      label: Tanker Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tanker_driver_license_expiration
+      label: Tanker Driver License Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: tanker_driver_license_status
+      label: Tanker Driver License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: tanker_driver_license_renewal_date
+      label: Tanker Driver License Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: tanker_driver_license_renewal_status
+      label: Tanker Driver License Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: tanker_driver_application_form
+      label: Tanker Driver Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: resume_attachment
+      label: Resume Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: license_attachment
+      label: License Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: license_attachment2
+      label: License Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tankers
+      label: Tankers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false

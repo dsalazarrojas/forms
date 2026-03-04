@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Account Reactivation Request Form
+    pages:
+    - id: 1
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_reactivation
+      label: reason_for_reactivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_id
+      label: Account ID
+      hint: null
+      type: number
+      options: []
+      required: false

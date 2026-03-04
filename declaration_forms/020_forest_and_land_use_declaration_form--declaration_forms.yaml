@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forest And Land Use Declaration Form
+    pages:
+    - id: 1
+      name: landowner_info
+      label: Landowner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_one
+      options:
+      - Forest
+      - Agricultural
+      - Urban
+      - Rural
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: land_use_declaration
+      label: Land Use Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: declaration_time
+      label: Declaration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: land_area
+      label: Land Area
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Donation Form
+    pages:
+    - id: 1
+      name: donation_form_details
+      label: Donation Form Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donation_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 4
+      name: donation_recipient
+      label: Recipient
+      hint: null
+      type: select_one
+      options:
+      - Charity Name
+      - Charity Number
+      required: true
+    - id: 5
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: donation_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

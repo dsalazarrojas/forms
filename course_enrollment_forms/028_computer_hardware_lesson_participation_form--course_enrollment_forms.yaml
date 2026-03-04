@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Hardware Lesson Participation Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: Register for a hardware lesson and indicate experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For lesson confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_experience_level
+      label: Current experience level
+      hint: Self assessed hardware experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 5
+      name: topics_of_interest
+      label: Topics of interest
+      hint: e.g., Assembly, Troubleshooting, Upgrades
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: Preferred days or times
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_to_terms
+      label: Consent to lesson terms
+      hint: Confirm participation terms and safety rules
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: special_requirements
+      label: Special requirements
+      hint: Accessibility or material needs
+      type: text
+      options: []
+      required: false

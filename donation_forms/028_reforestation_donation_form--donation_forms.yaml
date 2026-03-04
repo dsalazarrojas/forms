@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reforestation Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_info
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - bank_transfer
+      - credit_card
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_donation
+      label: confirm_donation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: confirm_donation2
+      label: confirm_donation2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: thank_you_message
+      label: thank_you_message
+      hint: null
+      type: text
+      options: []
+      required: false

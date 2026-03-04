@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arrival And Health Review Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: arrival_date
+      label: Planned Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_health_status
+      label: -- Health Status Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fever
+      label: Do you have a fever or feeling feverish
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Not sure
+      required: true
+    - id: 8
+      name: cough
+      label: Do you have a dry cough or persistent cough
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: difficulty_breathing
+      label: Do you experience difficulty breathing or shortness of breath
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: loss_of_taste_smell
+      label: Have you experienced loss of taste or smell
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Uncertain
+      required: true
+    - id: 11
+      name: fatigue
+      label: Do you feel unusually fatigued or weak
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 12
+      name: sore_throat
+      label: Do you have a sore throat
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 13
+      name: section_exposure
+      label: -- Exposure Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: close_contact_confirmed
+      label: Have you had close contact with a confirmed COVID-19 case
+      hint: Within the last 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      - Not sure
+      required: true
+    - id: 15
+      name: close_contact_symptoms
+      label: Close contact with someone showing symptoms
+      hint: Within the last 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: recent_travel
+      label: Have you traveled in the last 14 days
+      hint: Especially to high-risk areas
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: travel_destination
+      label: Travel Destination
+      hint: If yes, where did you travel
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_medical
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: vulnerable_population
+      label: Are you part of a vulnerable population
+      hint: Elderly, compromised immune system, chronic illness
+      type: select_one
+      options:
+      - false
+      - true
+      - Prefer not to say
+      required: true
+    - id: 20
+      name: medications
+      label: Current Medications or Health Conditions
+      hint: Affecting immune system
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_vaccination
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: true
+    - id: 23
+      name: section_agreement
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: agreement
+      label: I agree to follow all health and safety protocols
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

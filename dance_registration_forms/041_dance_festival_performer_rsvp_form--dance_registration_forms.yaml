@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Festival Performer RSVP Form
+    pages:
+    - id: 1
+      name: rsvp_details
+      label: rsvp_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_details
+      label: arrival_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: production_details
+      label: production_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreements
+      label: agreements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agreement 1''}'
+      - '{''id'': 2, ''label'': ''Agreement 2''}'
+      - '{''id'': 3, ''label'': ''Agreement 3''}'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

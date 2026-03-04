@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wisconsin COVID 19 Hardship Attestation Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_info
+      label: Household Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: income_info
+      label: Income Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hardship_info
+      label: Hardship Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_all
+      label: Select All
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: confirm_select_all
+      label: Confirm Select All
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: other_hardship
+      label: Other Hardship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_hardship_details
+      label: Other Hardship Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

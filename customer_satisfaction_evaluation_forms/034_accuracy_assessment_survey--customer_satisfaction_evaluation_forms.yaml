@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accuracy Assessment Survey
+    pages:
+    - id: 1
+      name: product_or_service_name
+      label: Product or Service Name
+      hint: Item being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: precision_rating
+      label: Precision Rating
+      hint: 1 - Not Precise, 5 - Highly Precise
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 3
+      name: reliability_rating
+      label: Reliability Rating
+      hint: null
+      type: select_one
+      options:
+      - Unreliable
+      - Somewhat Reliable
+      - Very Reliable
+      required: true
+    - id: 4
+      name: areas_needing_improvement
+      label: Areas Needing Improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data Integrity
+      - Response Time
+      - Formatting Accuracy
+      - Documentation
+      - User Interface
+      required: false
+    - id: 5
+      name: frequency_of_errors_found
+      label: Frequency of Errors Found
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 6
+      name: description_of_recent_accuracy_issue
+      label: Description of Recent Accuracy Issue
+      hint: If any, please describe
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution_satisfaction
+      label: Resolution Satisfaction
+      hint: If an error was reported, were you satisfied with the fix?
+      type: select_one
+      options:
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - N/A
+      required: true
+    - id: 8
+      name: suggestions_for_quality_assurance
+      label: Suggestions for Quality Assurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_confidence_score
+      label: Overall Confidence Score
+      hint: Rate your trust in this system (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: survey_footer
+      label: -- Thank you for contributing to our quality improvement --
+      hint: null
+      type: note
+      options: []
+      required: false

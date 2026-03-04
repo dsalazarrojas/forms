@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: infrastructure_satisfaction_survey
+    pages:
+    - id: 1
+      name: infrastructure_services
+      label: What kind of services did you use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: service_level
+      label: How would you rate your experience with these services?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 3
+      name: overall_experience
+      label: Overall experience with infrastructure?
+      hint: Write a brief description of your experience
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: improvement_suggestions
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: service_quality
+      label: How would you rate the quality of our services?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 10
+      name: service_value
+      label: How do you value our services?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: communication
+      label: How would you rate the communication with our staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: support
+      label: How would you rate the support provided by our staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 13
+      name: feedback
+      label: What feedback do you have for our organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_organization
+      label: Contact Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_position
+      label: Contact Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: feedback_notes
+      label: Additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_page
+      label: next_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_page
+      label: previous_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: save_progress
+      label: save_progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: clear_progress
+      label: clear_progress
+      hint: null
+      type: text
+      options: []
+      required: false

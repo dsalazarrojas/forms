@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Authorization And Consent Form
+    pages:
+    - id: 1
+      name: volunteer_authorization_and_consent_form
+      label: Volunteer Authorization And Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_forms
+      label: Customer Service Forms
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Non-Profit
+      - Both
+      required: false
+    - id: 3
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_awareness
+      label: Organization Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_1
+      label: Do you wish to volunteer for this organization?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: terms_conditions
+      label: Terms & Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_signed
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_signed
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: signed_by
+      label: Signed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Self Declaration Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Coronavirus Self Declaration Form
+      hint: Please complete this health screening form before entering the facility
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID or Visitor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time of Screening
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or Purpose of Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: temperature
+      label: Current Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fever_check
+      label: Do You Have a Fever of 100.4F or Higher
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: cough_symptom
+      label: Do You Have a New or Worsening Cough
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: shortness_of_breath
+      label: Do You Have Shortness of Breath or Difficulty Breathing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: sore_throat
+      label: Do You Have a Sore Throat
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: chills
+      label: Do You Have Chills
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: muscle_pain
+      label: Do You Have Muscle Pain or Body Aches
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: headache
+      label: Do You Have a Headache
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: loss_of_taste
+      label: Have You Lost Your Sense of Taste
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: loss_of_smell
+      label: Have You Lost Your Sense of Smell
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: fatigue
+      label: Do You Have Unusual Fatigue
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: nausea_vomiting
+      label: Do You Have Nausea or Vomiting
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: diarrhea
+      label: Do You Have Diarrhea
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: close_contact
+      label: Have You Been in Close Contact with a Confirmed COVID-19 Case
+      hint: Within the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: travel_history
+      label: Have You Traveled Outside the Country Recently
+      hint: Within the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: travel_locations
+      label: Travel Locations
+      hint: If yes list where
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: positive_test
+      label: Have You Tested Positive for COVID-19
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending Results
+      required: true
+    - id: 24
+      name: awaiting_test
+      label: Are You Awaiting COVID-19 Test Results
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: false
+    - id: 26
+      name: booster_received
+      label: Have You Received a Booster Dose
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Eligible
+      - Prefer Not to Say
+      required: false
+    - id: 27
+      name: entry_clearance
+      label: Based on Your Answers Are You Clear to Enter
+      hint: null
+      type: select_one
+      options:
+      - Yes Cleared
+      - No Not Cleared
+      - Needs Supervisor Review
+      required: true
+    - id: 28
+      name: denial_reason
+      label: Reason for Denial
+      hint: If not cleared
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: employee_signature
+      label: Your Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: screener_name
+      label: Screener Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: screener_signature
+      label: Screener Signature
+      hint: null
+      type: text
+      options: []
+      required: false

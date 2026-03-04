@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Video Monitoring Consent Form
+    pages:
+    - id: 1
+      name: consent
+      label: Give Us Permission
+      hint: null
+      type: select_multiple
+      options:
+      - Parent or Guardian
+      - Parent
+      - Guardian
+      required: false
+    - id: 2
+      name: video_monitoring
+      label: Do You Consent
+      hint: We will be monitoring video recordings of your child in our classroom
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consent_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: consent_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

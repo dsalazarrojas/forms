@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Account Linking Support Request
+    pages:
+    - id: 1
+      name: social_media_account_linking_support_request_form
+      label: Account Linking Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_account_linking_support_request_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: social_media_account_linking_support_request_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_media_account_linking_support_request_form_social_media_platform
+      label: Social Media Platform
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - TikTok
+      - LinkedIn
+      - Pinterest
+      - Reddit
+      - YouTube
+      - Snapchat
+      - Twitch
+      - Discord
+      - Periscope
+      - Tumbr
+      - WeChat
+      required: false
+    - id: 5
+      name: social_media_account_linking_support_request_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media_account_linking_support_request_form_expected_resolution_time
+      label: Expected Resolution Time
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 3 days
+      - 1 week
+      - 2 weeks
+      required: false
+    - id: 7
+      name: social_media_account_linking_support_request_form_additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media_account_linking_support_request_form_attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

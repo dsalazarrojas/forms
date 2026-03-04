@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction Survey Form Template
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: product_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: product_features
+      label: product_features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Very Low''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Customer Service''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ChatJimmy''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

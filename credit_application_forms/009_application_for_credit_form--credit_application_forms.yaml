@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Credit Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of credit application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_type
+      label: Applicant Type
+      hint: Type of credit applicant
+      type: select_one
+      options:
+      - Individual
+      - Business
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: social_security_number
+      label: Social Security Number
+      hint: SSN or Tax ID number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: residence_status
+      label: Residence Status
+      hint: Your residence status
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Live with Family
+      - Other
+      required: true
+    - id: 14
+      name: monthly_housing_payment
+      label: Monthly Housing Payment
+      hint: Monthly rent or mortgage payment
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: employment_status
+      label: Employment Status
+      hint: Current employment status
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 16
+      name: employer_name
+      label: Employer Name
+      hint: Current employer name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_title
+      label: Job Title
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employment_duration
+      label: Employment Duration
+      hint: How long have you been employed
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      required: false
+    - id: 19
+      name: annual_income
+      label: Annual Income
+      hint: Gross annual income
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: additional_income_sources
+      label: Additional Income Sources
+      hint: Other sources of income
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: Total monthly expenses
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: credit_card_requested
+      label: Credit Card Requested
+      hint: Type of credit card requested
+      type: select_one
+      options:
+      - Standard
+      - Gold
+      - Platinum
+      - Premium
+      - Not Sure
+      required: true
+    - id: 23
+      name: credit_limit_requested
+      label: Credit Limit Requested
+      hint: Desired credit limit
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: purpose_of_credit
+      label: Purpose of Credit
+      hint: Primary purpose for this credit
+      type: select_one
+      options:
+      - Everyday Purchases
+      - Building Credit
+      - Emergency Fund
+      - Large Purchases
+      - Debt Consolidation
+      - Other
+      required: true
+    - id: 25
+      name: existing_bank_accounts
+      label: Existing Bank Accounts
+      hint: Do you have existing accounts with us
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Both
+      - None
+      required: true
+    - id: 26
+      name: bankruptcies
+      label: Bankruptcies
+      hint: Have you ever filed for bankruptcy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: bankruptcy_details
+      label: Bankruptcy Details
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: outstanding_judgments
+      label: Outstanding Judgments
+      hint: Do you have any outstanding judgments
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: Do you agree to the terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: authorize_credit_check
+      label: Authorize Credit Check
+      hint: Do you authorize a credit check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

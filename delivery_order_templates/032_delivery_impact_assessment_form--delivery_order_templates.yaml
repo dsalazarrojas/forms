@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Impact Assessment Form
+    pages:
+    - id: 1
+      name: delivery_impact_assessment_form
+      label: Delivery Impact
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: environmental_impact
+      label: Environmental Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 4
+      name: community_impact
+      label: Community Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 5
+      name: service_quality_comment
+      label: Service Quality Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: environmental_comments
+      label: Environmental Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: community_comments
+      label: Community Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reporting_frequency
+      label: Incident Reporting Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 10
+      name: environmental_impact_scale
+      label: Environmental Impact Scale
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_quality_score
+      label: Service Quality Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: environmental_score
+      label: Environmental Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: community_score
+      label: Community Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reporting_frequency_scale
+      label: Incident Reporting Frequency Scale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: service_quality_frequency
+      label: Service Quality Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: environmental_frequency
+      label: Environmental Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: community_frequency
+      label: Community Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 21
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_due_date
+      label: Delivery Due Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: comments_from_shipper
+      label: Comments from Shipper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments_from_reciever
+      label: Comments from Receiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Standard''}'
+      - '{''label'': ''Expedited''}'
+      - '{''label'': ''Express''}'
+      required: false

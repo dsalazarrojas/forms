@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Garden Maintenance Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donation form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Donation frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 7
+      name: contact_frequency
+      label: Contact frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false

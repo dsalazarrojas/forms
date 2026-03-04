@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extension Usage Survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: survey_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usage_questions
+      label: usage_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 4, ''label'': ''Bad'', ''value'': ''bad''}'
+      - '{''id'': 5, ''label'': ''Very Bad'', ''value'': ''very_bad''}'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

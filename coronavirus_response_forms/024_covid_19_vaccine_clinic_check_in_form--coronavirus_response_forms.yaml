@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Clinic Check In Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: appointment_info_section
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Scheduled Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Single dose vaccine
+      - Johnson and Johnson
+      required: true
+    - id: 7
+      name: confirmation_section
+      label: -- Confirmation and Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: information_correct
+      label: Is your appointment information correct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need to update
+      required: true
+    - id: 9
+      name: pre_appointment_screening
+      label: Completed pre-appointment health screening
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: screening_results_section
+      label: -- Health Screening Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fever_temperature
+      label: Do you currently have a fever
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: symptoms_present
+      label: Experiencing any COVID-19 symptoms today
+      hint: Cough, difficulty breathing, loss of taste or smell
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: recent_covid
+      label: Tested positive for COVID-19 in past 90 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: close_contact_covid
+      label: Close contact with confirmed COVID-19 case recently
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: vaccine_history_section
+      label: -- Vaccine History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: prior_doses
+      label: Prior COVID-19 vaccination doses received
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: last_dose_date
+      label: Date of Last Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: vaccine_reactions
+      label: Any reactions to previous vaccine doses
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 19
+      name: reaction_description
+      label: If yes, describe reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_section
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: current_medications
+      label: Currently taking medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: medication_list
+      label: If yes, list medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: blood_clotting_disorder
+      label: Do you have a blood clotting disorder
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: surgery_planned
+      label: Any surgery planned in next 2 weeks
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: consent_section
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: understand_risks_benefits
+      label: I understand the risks and benefits of vaccination
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 27
+      name: emergency_contact_present
+      label: Emergency contact information on file
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need to update
+      required: true
+    - id: 28
+      name: ready_for_vaccination
+      label: Ready to proceed with vaccination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need to speak with provider
+      required: true

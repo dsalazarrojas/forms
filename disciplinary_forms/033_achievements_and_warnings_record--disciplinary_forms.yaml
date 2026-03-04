@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Achievements And Warnings Record
+    pages:
+    - id: 1
+      name: record_header
+      label: -- Record details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: person_name
+      label: Person name
+      hint: Student or employee name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role_or_position
+      label: Role or position
+      hint: Job title or class and year
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: record_type
+      label: Record type
+      hint: Achievement or warning
+      type: select_one
+      options:
+        - Achievement
+        - Warning
+      required: true
+    - id: 5
+      name: date_of_record
+      label: Date of record
+      hint: Date when the event occurred
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: Details about the achievement or warning
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: issued_by
+      label: Issued by
+      hint: Name of manager, teacher or issuer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recommended_actions
+      label: Recommended actions
+      hint: Actions taken or recommended in response
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: outcome
+      label: Outcome
+      hint: Result of any disciplinary or reward process
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: related_documents
+      label: Related documents
+      hint: Attachments or references if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_comments
+      label: Reviewer comments
+      hint: For HR or administrative use
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirmed_signature
+      label: Confirmed signature
+      hint: Type name to confirm record accuracy
+      type: text
+      options: []
+      required: true

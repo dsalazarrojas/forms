@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To Church Registration Form
+    pages:
+    - id: 1
+      name: church_header
+      label: -- Return to Worship Registration --
+      hint: Please register your family for our upcoming services to help us maintain
+        safe capacity levels
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_primary_name
+      label: Primary Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_church
+      label: Email Address
+      hint: For confirmation and safety updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_church
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: household_size_attending
+      label: Total number of people in your household attending
+      hint: Including infants
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: service_time_preference
+      label: Preferred Service Time
+      hint: null
+      type: select_one
+      options:
+      - 8:30 AM Service
+      - 10:30 AM Service
+      - 5:00 PM Evening Service
+      required: true
+    - id: 7
+      name: health_screening_header
+      label: -- Health Screening Declaration --
+      hint: Please answer honestly for the safety of our congregation
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: covid_symptoms_check
+      label: Does anyone in your party have a fever, cough, or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: exposure_history_check
+      label: Have you been in contact with anyone who tested positive for COVID-19
+        in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: travel_history_check
+      label: Have you traveled internationally or to a high-risk area in the last
+        14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: safety_protocol_agreement
+      label: I agree to wear a mask and follow all social distancing protocols
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 12
+      name: seating_requirements
+      label: Do you have any special seating needs?
+      hint: e.g., wheelchair access
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prayer_requests_church
+      label: Any prayer requests you'd like to share?
+      hint: null
+      type: text
+      options: []
+      required: false

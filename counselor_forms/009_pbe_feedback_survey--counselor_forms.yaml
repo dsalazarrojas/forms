@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: pbe_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_performance
+      label: teacher performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_strengths
+      label: teacher strengths
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_performance
+      label: student performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false

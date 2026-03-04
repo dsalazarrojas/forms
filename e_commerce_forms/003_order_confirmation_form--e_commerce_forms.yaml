@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Confirmation Form
+    pages:
+    - id: 1
+      name: order_confirmation_form
+      label: Order Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_order
+      label: Confirm Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confirm_shipping
+      label: Confirm Shipping
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

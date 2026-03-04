@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_family_lounge_pass_donation
+    pages:
+    - id: 1
+      name: vip_family_lounge_pass_donation_page
+      label: donor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vip_pass_type
+      label: vip_pass_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''vip_pass_for_one''}'
+      - '{''value'': ''vip_pass_for_family''}'
+      required: false
+    - id: 3
+      name: donor_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: donor_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_passes
+      label: number_of_vip_passes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recipient_phone
+      label: recipient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recipient_address
+      label: recipient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

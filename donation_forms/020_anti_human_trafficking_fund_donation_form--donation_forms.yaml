@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Human Trafficking Fund Donation Form
+    pages:
+    - id: 1
+      name: section_donation
+      label: -- Donation Details --
+      hint: Support efforts to combat human trafficking
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor name
+      hint: Enter name for receipt if required
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For donation receipt and communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: Donation amount
+      hint: Enter amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_frequency
+      label: Donation frequency
+      hint: One time or recurring options
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: Choose preferred payment channel
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Check
+      required: true
+    - id: 7
+      name: anonymous_donation
+      label: Make this donation anonymous
+      hint: Donor details will be withheld from public reports
+      type: select_one
+      options:
+      - Yes make anonymous
+      - No include name
+      required: false
+    - id: 8
+      name: gift_a_message
+      label: Gift message or dedication
+      hint: Optional message to include with donation
+      type: text
+      options: []
+      required: false

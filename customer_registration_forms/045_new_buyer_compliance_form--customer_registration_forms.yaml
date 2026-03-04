@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Buyer Compliance Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: First name of the user
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: Last name of the user
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: user_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: user_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: user_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: user_purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: real_estate_address
+      label: Real Estate Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: buyer_agent
+      label: Buyer Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_date
+      label: File Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: real_estate_file_type
+      label: File Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: real_estate_property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Land
+      - Home
+      - Condo
+      - Townhouse
+      - Apartment
+      required: true
+    - id: 19
+      name: real_estate_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Leased
+      required: true
+    - id: 20
+      name: real_estate_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: real_estate_area
+      label: Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: file_location
+      label: File Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: file_size
+      label: File Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: file_notes
+      label: File Notes
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Outbreak Reporting Form
+    pages:
+    - id: 1
+      name: section_facility_info
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Nursing home
+      - School
+      - Workplace
+      - Care facility
+      - Other
+      required: true
+    - id: 4
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_phone
+      label: Facility Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_outbreak_details
+      label: -- Outbreak Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirmed_cases
+      label: Number of Confirmed COVID-19 Cases
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: suspected_cases
+      label: Number of Suspected Cases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recovered_cases
+      label: Number of Recovered Cases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: deaths
+      label: Number of Deaths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hospitalized
+      label: Number Currently Hospitalized
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_affected_population
+      label: -- Affected Population --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: staff_affected
+      label: Number of Staff Affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: patients_affected
+      label: Number of Patients or Residents Affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: visitors_affected
+      label: Number of Visitors Affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_outbreak_investigation
+      label: -- Outbreak Investigation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: outbreak_source
+      label: Suspected Source of Outbreak
+      hint: null
+      type: select_one
+      options:
+      - Unknown
+      - Community transmission
+      - Staff member
+      - Visitor
+      - Patient admission
+      - Healthcare worker
+      - Other
+      required: true
+    - id: 19
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Ongoing
+      - Initial assessment
+      - Complete
+      - No investigation needed
+      required: true
+    - id: 20
+      name: section_response_measures
+      label: -- Response Measures Taken --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: measures_implemented
+      label: Measures Implemented
+      hint: null
+      type: select_multiple
+      options:
+      - Isolation protocols
+      - Enhanced cleaning
+      - Testing program
+      - Staff training
+      - Visitor restrictions
+      - PPE distribution
+      - Reporting to health department
+      required: true
+    - id: 22
+      name: section_reporting_official
+      label: -- Reporting Official --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: official_name
+      label: Official Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: official_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: official_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: official_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

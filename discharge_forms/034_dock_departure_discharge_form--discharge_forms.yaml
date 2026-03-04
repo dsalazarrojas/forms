@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dock Departure Discharge Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Dock Departure Discharge Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vessel_number
+      label: vessel_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: port_of_discharge
+      label: port_of_discharge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: port_of_arrival
+      label: port_of_arrival
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: discharge_outcomes
+      label: discharge_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

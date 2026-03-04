@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Health Center Discharge Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_center_visit_date
+      label: Health Center Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: health_center_visit_time
+      label: Health Center Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: visit_reason
+      label: Visit Reason
+      hint: null
+      type: select_one
+      options:
+      - None
+      - General Check-Up
+      - Illness
+      - Vaccine
+      - Medication
+      required: false
+    - id: 7
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I acknowledge that I have read and understood the Discharge Instructions
+      - I understand and will follow the Discharge Instructions
+      - I will ask a parent/guardian for clarification or assistance if I have any
+        questions
+      - I will report any concerns or symptoms to a healthcare provider
+      required: false
+    - id: 9
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I acknowledge that I have read and understood the Discharge Instructions
+      - I understand and will follow the Discharge Instructions
+      - I will report any concerns or symptoms to a healthcare provider
+      required: false
+    - id: 10
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have provided accurate information about the students health and condition
+      - I have reviewed the Discharge Instructions with the student and parent
+      - I will follow up with the student and parent as needed
+      required: false
+    - id: 11
+      name: school_admin_signature
+      label: School Admin Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have reviewed the Discharge Instructions with the student and parent
+      - I will ensure the student is aware of the Discharge Instructions
+      - I will follow up with the student and parent as needed
+      required: false

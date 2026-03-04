@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Essentials Delivery For The Elderly
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recipient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: recipient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recipient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_town
+      label: City or Town
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_2
+      label: -- Contact and Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: access_instructions
+      label: Special Access Instructions
+      hint: Gate code, intercom, key location, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_3
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: chronic_conditions
+      label: Chronic Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mobility_issues
+      label: Mobility or Physical Limitations
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Essential Items Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: grocery_items
+      label: Grocery Items Needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medications
+      label: Medications or Medical Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_frequency
+      label: Delivery Frequency Requested
+      hint: null
+      type: select_one
+      options:
+      - One-time delivery
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 20
+      name: section_header_5
+      label: -- Budget and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: budget_amount
+      label: Budget for Delivery
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit card
+      - Online payment
+      - Other
+      required: true
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_assistance
+      label: Additional Assistance Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

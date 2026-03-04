@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: nutrition_screening_form
+    pages:
+    - id: 1
+      name: form_page
+      label: Form Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: Please enter your information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''label'': ''Hypertension''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: medical_history_other
+      label: Medical History Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: Please list all medications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Dairy''}'
+      - '{''id'': 3, ''label'': ''Gluten''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: medical_risk_factors
+      label: Medical Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Obesity''}'
+      - '{''id'': 3, ''label'': ''Smoking''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: nutrition_goals
+      label: Nutrition Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Weight Loss''}'
+      - '{''id'': 3, ''label'': ''Muscle Gain''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: nutrition_status
+      label: Nutrition Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Good''}'
+      - '{''id'': 4, ''label'': ''Excellent''}'
+      required: true
+    - id: 10
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: body_mass_index
+      label: BMI
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: body_mass_index_category
+      label: BMI Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Underweight''}'
+      - '{''id'': 2, ''label'': ''Normal''}'
+      - '{''id'': 3, ''label'': ''Overweight''}'
+      - '{''id'': 4, ''label'': ''Obese''}'
+      required: true
+    - id: 14
+      name: body_fat_percentage
+      label: Body Fat
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: waist_circumference
+      label: Waist Circumference
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: blood_sugar
+      label: Blood Sugar
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: blood_cholesterol
+      label: Blood Cholesterol
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: total_chol
+      label: Total Chol
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: hdl_chol
+      label: HDL Chol
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: triglycerides
+      label: Triglycerides
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: glucose
+      label: Glucose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: insulin_resistance
+      label: Insulin Resistance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''Severe''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: cardiovascular_risk_factors
+      label: Cardiovascular Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''High Blood Pressure''}'
+      - '{''id'': 3, ''label'': ''Family History of Heart Disease''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: lifestyle_goals
+      label: Lifestyle Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Regular Exercise''}'
+      - '{''id'': 3, ''label'': ''Balanced Diet''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false

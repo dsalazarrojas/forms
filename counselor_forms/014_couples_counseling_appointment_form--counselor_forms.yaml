@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Counseling Appointment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: session_location
+      label: Session Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: scanner_usage_feedback_form
+    pages:
+    - id: 1
+      name: user_name
+      label: Enter user name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: scanner_type
+      label: Scanner type
+      hint: null
+      type: select_multiple
+      options:
+      - flatbed scanner
+      - handheld scanner
+      - standalone scanner
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: true

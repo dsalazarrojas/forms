@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: page_1
+      label: How would you rate our service
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 2
+      name: page_2
+      label: How likely are you to recommend us
+      hint: null
+      type: select_one
+      options:
+      - Likely
+      - Neutral
+      - Unlikely
+      required: false
+    - id: 3
+      name: page_3
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: How can we contact you
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Phone and Email
+      required: false
+    - id: 7
+      name: page_7
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Would you like to be contacted for a follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

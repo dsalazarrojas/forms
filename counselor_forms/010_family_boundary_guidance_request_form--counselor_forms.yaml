@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Boundary Guidance Request Form
+    pages:
+    - id: 1
+      name: family_boundary_guidance_request
+      label: Family Boundary Guidance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: counselor_name
+      label: Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_services
+      label: Support Services
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''In-home visits''}'
+      - '{''name'': ''Telehealth''}'
+      - '{''name'': ''Community resources''}'
+      required: false
+    - id: 4
+      name: family_member
+      label: Family Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: family_member_relationship
+      label: Family Member Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: boundary_type
+      label: Boundary Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Family conflict''}'
+      - '{''name'': ''Financial crisis''}'
+      - '{''name'': ''Mental health''}'
+      - '{''name'': ''Safety concerns''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: boundary_severity
+      label: Boundary Severity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Low''}'
+      - '{''name'': ''Moderate''}'
+      - '{''name'': ''High''}'
+      required: false
+    - id: 8
+      name: boundary_frequency
+      label: Boundary Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: boundary_status
+      label: Boundary Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Active''}'
+      - '{''name'': ''Inactive''}'
+      required: false
+    - id: 10
+      name: follow_up_request
+      label: Follow-up Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false

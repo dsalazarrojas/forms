@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: issue_suggestion_form
+    pages:
+    - id: 1
+      name: issue_title
+      label: Issue Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sub_category
+      label: sub_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submitter
+      label: submittor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_resolved
+      label: Date Resolved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_organization
+      label: submitter_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_attachment
+      label: submitter_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

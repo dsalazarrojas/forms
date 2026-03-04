@@ -1,0 +1,139 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 5K Run Registration Form
+    pages:
+    - id: 1
+      name: section_header_event
+      label: "--- Event & Participant Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Must be 16 or older unless supervised
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Optional
+      type: select_one
+      options:
+        - Female
+        - Male
+        - Non-binary
+        - Prefer not to say
+      required: false
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: Used for registration confirmations
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: For day-of-event contact
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Best number to reach them
+      type: phone
+      options: []
+      required: true
+    - id: 9
+      name: shirt_size
+      label: T-shirt size
+      hint: Choose unisex sizing
+      type: select_one
+      options:
+        - XS
+        - S
+        - M
+        - L
+        - XL
+        - XXL
+      required: true
+    - id: 10
+      name: race_category
+      label: Race category
+      hint: Choose the category that best fits your participation
+      type: select_one
+      options:
+        - Competitive (chip-timed)
+        - Recreational (untimed)
+        - Walker
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Medical conditions or allergies (select all that apply)
+      hint: Disclose conditions organizers should know
+      type: select_multiple
+      options:
+        - Asthma
+        - Heart condition
+        - Diabetes
+        - Allergies
+        - None of the above
+        - Other
+      required: false
+    - id: 12
+      name: registration_fee_amount
+      label: Registration fee paid
+      hint: Enter numeric amount in local currency
+      type: decimal
+      options: []
+      required: true
+    - id: 13
+      name: agree_waiver
+      label: I agree to the event waiver and release of liability
+      hint: This is required to participate
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional notes (e.g., accessibility needs)
+      hint: Provide any special requests or notes
+      type: text
+      options: []
+      required: false

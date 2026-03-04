@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Check Out Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: order_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_value
+      label: total_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: select_payment_method
+      label: select_payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      required: true
+    - id: 6
+      name: credit_card_details
+      label: credit_card_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Card Type'', ''options'': [{''label'': ''Visa''}, {''label'':
+        ''Mastercard''}, {''label'': ''Amex''}]}'
+      - '{''label'': ''Card Number'', ''options'': [{''label'': ''Card Number''}]}'
+      - '{''label'': ''Security Code'', ''options'': [{''label'': ''Security Code''}]}'
+      required: true
+    - id: 7
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_name
+      label: shipping_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_country
+      label: shipping_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_postal_code
+      label: shipping_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_note_2
+      label: customer_note_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_note_3
+      label: customer_note_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: terms_and_conditions_2
+      label: terms_and_conditions_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: terms_and_conditions_3
+      label: terms_and_conditions_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms_2
+      label: payment_terms_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms_3
+      label: payment_terms_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms_4
+      label: payment_terms_4
+      hint: null
+      type: text
+      options: []
+      required: false

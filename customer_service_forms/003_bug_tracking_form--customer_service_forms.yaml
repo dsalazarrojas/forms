@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bug Tracking Form
+    pages:
+    - id: 1
+      name: bug_id
+      label: Bug ID Number
+      hint: Auto-generated or assigned ID
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: When was this bug discovered
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: bug_summary
+      label: Bug Summary
+      hint: Concise title of the issue
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: detailed_description
+      label: Detailed Description
+      hint: Complete details of the bug
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: severity_classification
+      label: Severity Classification
+      hint: Impact level of this bug
+      type: select_one
+      options:
+        - Critical
+        - High
+        - Medium
+        - Low
+      required: true
+    - id: 6
+      name: bug_status
+      label: Bug Status
+      hint: Current state of the bug
+      type: select_one
+      options:
+        - New
+        - In Progress
+        - Resolved
+        - On Hold
+        - Closed
+      required: true
+    - id: 7
+      name: affected_module
+      label: Affected Module
+      hint: Which part of the software
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: affected_version
+      label: Affected Version
+      hint: Software version with the bug
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reproduction_environment
+      label: Reproduction Environment
+      hint: OS and browser combination
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reproduction_procedure
+      label: Reproduction Procedure
+      hint: Step-by-step instructions
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expected_outcome
+      label: Expected Outcome
+      hint: How it should behave
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: actual_outcome
+      label: Actual Outcome
+      hint: How it currently behaves
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: Developer or tester name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporter_name
+      label: Reporter Name
+      hint: Who found the bug
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reporter_email
+      label: Reporter Email
+      hint: Contact for clarifications
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: attachments
+      label: Supporting Attachments
+      hint: Screenshots or logs
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 17
+      name: resolution_date
+      label: Resolution Date
+      hint: When was this fixed
+      type: date
+      options: []
+      required: false

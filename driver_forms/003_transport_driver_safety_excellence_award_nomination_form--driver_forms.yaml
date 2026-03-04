@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Driver Safety Excellence Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_rating
+      label: Safety Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: award_criterion
+      label: Award Criterion
+      hint: null
+      type: select_one
+      options:
+      - Nominate driver for outstanding performance
+      - Nominate driver for safe work environment
+      - Nominate driver for safety initiative
+      required: false
+    - id: 8
+      name: nominee
+      label: Nominee
+      hint: null
+      type: select_multiple
+      options:
+      - Select a driver
+      - Select a team member
+      - Select an external partner
+      required: false
+    - id: 9
+      name: nominator
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: award_recipient
+      label: Award Recipient
+      hint: null
+      type: select_multiple
+      options:
+      - Select one of our drivers
+      - Select a team
+      - Select an external partner
+      required: false
+    - id: 13
+      name: review_status
+      label: Review Status
+      hint: Please indicate the current review status of the nomination
+      type: select_one
+      options:
+      - In progress
+      - Approved
+      - Rejected
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Not submitted
+      - Submitted
+      - Approved
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Grade K
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      required: true
+    - id: 8
+      name: grade_level_other
+      label: Please select grade level if not listed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: troop_number
+      label: Troop Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: troop_name
+      label: Troop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: How do you know this child?
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      - Other (please specify)
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: parent_permission_first_name
+      label: Parent First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parent_permission_last_name
+      label: Parent Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parent_permission_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: parent_permission_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: allergy
+      label: Allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_special_needs
+      label: Special Medical Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_one
+      options:
+      - Counselor
+      - Parent
+      required: true

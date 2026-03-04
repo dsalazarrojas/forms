@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Appointment Request Form
+    pages:
+    - id: 1
+      name: service_appointment_request
+      label: Service Appointment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requested_service
+      label: Requested Service
+      hint: null
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 6
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: service_preferences
+      label: Service Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_comments
+      label: Service Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

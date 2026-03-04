@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeschooling Customer Feedback Form
+    pages:
+    - id: 1
+      name: homeschooled_children_name
+      label: Homeschooled child name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: homeschooled_childs_grade
+      label: Homeschooled child grade level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: homeschooled_program_start_date
+      label: Homeschooled program start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: homeschooled_program_end_date
+      label: Homeschooled program end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: homeschooled_parent_name
+      label: Homeschooled parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: homeschooled_program_name
+      label: Homeschooled program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_multiple
+      options:
+      - Contact email
+      - Contact phone
+      - Contact mail
+      required: false
+    - id: 8
+      name: contact_phone_type
+      label: Contact phone type
+      hint: null
+      type: select_one
+      options:
+      - Landline
+      - Mobile
+      - Other
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_notes
+      label: Contact notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: homeschooled_parent_signature
+      label: Homeschooled parent signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: homeschooled_district_signature
+      label: Homeschooled district signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candle Donation Form
+    pages:
+    - id: 1
+      name: donor_info_section
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: To send your donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Physical Address
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candle_donation_details_section
+      label: -- Candle Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: prayer_intent_dedication
+      label: Prayer Intent or Dedication
+      hint: e.g. In Memory of..., For the healing of..., Anniversary of...
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: type_of_candle_choice
+      label: Type of Candle
+      hint: Choose the size of the candle to be lit
+      type: select_one
+      options:
+      - Small Tea Light ($1)
+      - Votive Candle ($5)
+      - Large Pillar Candle ($15)
+      - Sanctuary Lamp ($25)
+      required: true
+    - id: 9
+      name: candle_quantity
+      label: Quantity
+      hint: How many candles should be lit for this intent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: candle_placement_date
+      label: Preferred Date for Lighting
+      hint: When would you like the candle to be lit
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: special_instructions_candle
+      label: Special Instructions
+      hint: Additional requests for the placement
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_ack_section
+      label: -- Payment and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_donation_amount
+      label: Donation Amount
+      hint: Enter the total amount based on selection
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: candle_payment_method
+      label: Payment Method
+      hint: Choose how you would like to donate
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      - Offline (at the church office)
+      required: true
+    - id: 15
+      name: email_confirmation_pref
+      label: I would like an email confirmation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: parish_privacy_section
+      label: -- Newsletter and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: parish_bulletin_subscription
+      label: Subscribe to our parish bulletin
+      hint: Stay updated with church news and events
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: dedication_reading_consent
+      label: I consent to having my dedication read in the service
+      hint: Optional - let us mention your intent during mass
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: candle_submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

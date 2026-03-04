@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Shopping Evaluation Form
+    pages:
+    - id: 1
+      name: shopping_experience
+      label: Shopping experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_quality
+      label: Product quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_service
+      label: Customer service
+      hint: Tell us about your experience with our customer service.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: website_usability
+      label: Website usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Bad
+      required: true
+    - id: 6
+      name: return_policy
+      label: Return policy
+      hint: Please describe your experience with our return policy.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false

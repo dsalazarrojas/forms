@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Business Planning Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry or Business Type
+      hint: What industry are you in
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_goals_header
+      label: -- Business Goals for Next Year --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_goals
+      label: Top 3 Goals for Next Year
+      hint: What are your main objectives
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: revenue_target
+      label: Target Revenue for Next Year
+      hint: Revenue goal for the coming year
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: growth_expectations
+      label: Expected Growth Rate
+      hint: What percentage growth do you expect
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: expansion_plans
+      label: Expansion or Diversification Plans
+      hint: New markets, products, or services
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: market_analysis_header
+      label: -- Market and Competition Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: target_market
+      label: Target Market or Customer Base
+      hint: Who is your ideal customer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: market_trends
+      label: Key Market Trends You See
+      hint: Important industry changes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: competitive_advantages
+      label: Your Competitive Advantages
+      hint: What makes you stand out
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: challenges_header
+      label: -- Challenges and Obstacles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_challenges
+      label: Current Business Challenges
+      hint: What challenges do you face now
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: anticipated_obstacles
+      label: Anticipated Obstacles Next Year
+      hint: What challenges do you expect
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_mitigation
+      label: Risk Mitigation Strategies
+      hint: How will you address challenges
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: strategy_header
+      label: -- Strategic Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: marketing_strategy
+      label: Marketing Strategy for Next Year
+      hint: How you plan to reach customers
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_development
+      label: Product or Service Development Plans
+      hint: New offerings in development
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_retention
+      label: Customer Retention Strategies
+      hint: How you will keep customers
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: budget_header
+      label: -- Budget and Investment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: budget_allocation
+      label: Planned Budget Allocation
+      hint: How you plan to invest resources
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSA Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_share_selection
+      label: -- CSA Share Selection --
+      hint: Community Supported Agriculture Share Options
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: share_type
+      label: Select Your Share Type
+      hint: null
+      type: select_one
+      options:
+      - Full Share - Family Size
+      - Half Share - Small Household
+      - Egg Share Add-on
+      - Bread Share Add-on
+      - Flower Share Add-on
+      required: true
+    - id: 8
+      name: share_quantity
+      label: Number of Shares
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pickup_location
+      label: Preferred Pickup Location
+      hint: null
+      type: select_one
+      options:
+      - The Farm Stand
+      - Downtown Farmers Market
+      - East Side Hub
+      - Delivery - Additional Fee
+      required: true
+    - id: 10
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_amount
+      label: Total Order Amount
+      hint: Calculated based on selections
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_plan
+      label: Preferred Payment Plan
+      hint: null
+      type: select_one
+      options:
+      - Full Payment upfront
+      - 50-50 Split
+      - Monthly Installments
+      required: true
+    - id: 13
+      name: referral_bonus
+      label: Were you referred by a current member
+      hint: If yes, provide their name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_interest
+      label: Are you interested in volunteering at the farm
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe later
+      required: false
+    - id: 15
+      name: comments
+      label: Special Instructions or Dietary Preferences
+      hint: null
+      type: text
+      options: []
+      required: false

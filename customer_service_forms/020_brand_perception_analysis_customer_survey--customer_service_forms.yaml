@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Perception Analysis Customer Survey
+    pages:
+      - id: 1
+        name: respondent_age_group
+        label: Respondent age group
+        hint: Select the age range
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 34
+          - 35 to 54
+          - 55 and over
+        required: false
+      - id: 2
+        name: familiarity_with_brand
+        label: Familiarity with brand
+        hint: How familiar are you with our brand
+        type: select_one
+        options:
+          - Very familiar
+          - Somewhat familiar
+          - Not familiar
+        required: true
+      - id: 3
+        name: overall_satisfaction
+        label: Overall satisfaction
+        hint: How satisfied are you with the brand
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+        required: true
+      - id: 4
+        name: value_perception
+        label: Value perception
+        hint: Perception of value for price
+        type: select_one
+        options:
+          - High value
+          - Fair value
+          - Low value
+        required: false
+      - id: 5
+        name: brand_attributes
+        label: Brand attributes
+        hint: Words that describe the brand
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: likelihood_to_return
+        label: Likelihood to return
+        hint: Likelihood of repeat interaction
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Unlikely
+        required: true
+      - id: 7
+        name: improvement_suggestions
+        label: Improvement suggestions
+        hint: Suggestions to improve brand experience
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Other feedback
+        type: text
+        options: []
+        required: false

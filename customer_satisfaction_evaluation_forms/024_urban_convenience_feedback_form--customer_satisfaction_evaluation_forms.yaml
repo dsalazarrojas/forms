@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Convenience Feedback Form
+    pages:
+    - id: 1
+      name: customer_satisfaction_evaluation
+      label: Customer Satisfaction Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Urban Convenience
+      - Excellent
+      - Good
+      - Poor
+      - Bad
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_type
+      label: Product/Service
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Non-Food
+      - Services
+      - Other
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Customer Satisfaction Evaluation Forms
+      - Feedback Forms
+      required: true
+    - id: 9
+      name: product_category
+      label: Product/Service Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: product_subcategory
+      label: Sub-Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_weight
+      label: Product Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_length
+      label: Product Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_width
+      label: Product Width
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_height
+      label: Product Height
+      hint: null
+      type: text
+      options: []
+      required: false

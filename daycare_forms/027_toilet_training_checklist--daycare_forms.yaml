@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: toilet_training_checklist
+    pages:
+    - id: 1
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: diaper_frequency
+      label: Diaper Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: accidents
+      label: Accidents
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: successful_flushes
+      label: Successful Flushes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pull_ups
+      label: Pull-Ups
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: wipes
+      label: Wipes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: training_stages
+      label: Training Stages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Stage 1'': ''Not Started''}'
+      - '{''Stage 2'': ''Learning to Sit''}'
+      - '{''Stage 3'': ''Staying Dry''}'
+      - '{''Stage 4'': ''Pull-Ups''}'
+      - '{''Stage 5'': ''Complete''}'
+      required: true
+    - id: 10
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: parent_comments
+      label: Parent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: daycare_staff_notes
+      label: Daycare Staff Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: reason_for_not_completing
+      label: Reason for Not Completing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_not_completed
+      label: Date Not Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: completed_date_time
+      label: Completed Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: completed_by_user
+      label: Completed By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_stages_notes
+      label: Training Stages Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: completed_by_time
+      label: Completed By Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: completed_date_time
+      label: Completed Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: completed_by_user
+      label: Completed By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: training_status
+      label: Training Status
+      hint: null
+      type: text
+      options: []
+      required: true

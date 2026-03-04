@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ideal Weight Information Form
+    pages:
+    - id: 1
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 2
+      name: ideal_weight
+      label: ideal weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ideal_weight_units
+      label: weight unit
+      hint: null
+      type: select_one
+      options:
+      - pounds
+      - kilograms
+      - stones
+      - kilograms
+      required: false
+    - id: 6
+      name: ideal_body_mass_index
+      label: body mass index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ideal_body_mass_index_range
+      label: body mass index range
+      hint: null
+      type: select_multiple
+      options:
+      - <18.5 to < 25
+      - 25 to < 30
+      - 30 to < 35
+      - 35 to < 40
+      - 40 to < 45
+      - 45 or above
+      required: false
+    - id: 8
+      name: gender_identity
+      label: gender identity
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-Binary
+      - Other
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions_2
+      label: special instructions 2
+      hint: null
+      type: note
+      options: []
+      required: false

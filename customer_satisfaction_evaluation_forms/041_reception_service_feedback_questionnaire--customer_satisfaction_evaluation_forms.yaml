@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reception Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: general_experience
+      label: General Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: staff_interaction
+      label: Staff Interaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Very Good''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Neutral''}'
+      - '{''option4'': ''Bad''}'
+      - '{''option5'': ''Very Bad''}'
+      required: true
+    - id: 3
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Cleanliness''}'
+      - '{''option2'': ''Friendliness''}'
+      - '{''option3'': ''Efficiency''}'
+      - '{''option4'': ''Communication''}'
+      required: true
+    - id: 4
+      name: reception_staff_performance
+      label: Reception Staff Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_speed
+      label: Service Speed
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Very Fast''}'
+      - '{''option2'': ''Fast''}'
+      - '{''option3'': ''Slow''}'
+      - '{''option4'': ''Very Slow''}'
+      required: true
+    - id: 6
+      name: reception_area
+      label: Reception Area
+      hint: Please describe the reception area
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: received_help
+      label: Received Help
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 8
+      name: receptionist_name
+      label: Receptionist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: received_help_from
+      label: Received Help From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: received_help_from_others
+      label: Received Help From Others
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Doctor''}'
+      - '{''option2'': ''Receptionist''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 11
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true

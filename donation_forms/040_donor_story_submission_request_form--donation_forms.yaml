@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Story Submission Request Form
+    pages:
+    - id: 1
+      name: donor_story_submission_request_form
+      label: Submit Your Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: story
+      label: Share Your Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Donations
+      - Volunteering
+      - Fundraising
+      - Other
+      required: false
+    - id: 10
+      name: story_category
+      label: Sub-Category
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Health
+      - Education
+      - Environment
+      - Animal Welfare
+      - Other
+      required: false
+    - id: 11
+      name: story_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

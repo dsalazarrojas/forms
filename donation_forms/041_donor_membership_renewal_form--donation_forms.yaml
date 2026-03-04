@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Membership Renewal Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: member_id
+      label: Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Premium Plus
+      required: true
+    - id: 6
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Draft
+      - Cash
+      required: true
+    - id: 11
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Recurring
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: card_exp
+      label: Card Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: card_cvv
+      label: Card Cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_zip
+      label: Card Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: More Notes
+      hint: null
+      type: text
+      options: []
+      required: false

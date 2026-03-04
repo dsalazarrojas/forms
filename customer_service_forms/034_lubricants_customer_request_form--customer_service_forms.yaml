@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: lubricants_customer_request_form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: Enter a message
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: lubricants
+      label: Lubricants
+      hint: null
+      type: select_one
+      options:
+      - Lubricants 1
+      - Lubricants 2
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: lubricant
+      label: Lubricant
+      hint: null
+      type: select_multiple
+      options:
+      - Lubricant 1
+      - Lubricant 2
+      - Lubricant 3
+      required: true
+    - id: 10
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 11
+      name: customer
+      label: Customer
+      hint: null
+      type: select_multiple
+      options:
+      - Customer 1
+      - Customer 2
+      - Customer 3
+      required: false
+    - id: 12
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_fund_donation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount_donated
+      label: Amount Donated
+      hint: Amount donated must be a number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''id'': 2, ''name'': ''Bank Account'', ''value'': ''bank_account''}'
+      - '{''id'': 3, ''name'': ''Check'', ''value'': ''check''}'
+      required: false
+    - id: 6
+      name: recurring_donation
+      label: Recurring Donations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''id'': 2, ''name'': ''Yearly'', ''value'': ''yearly''}'
+      - '{''id'': 3, ''name'': ''One Time'', ''value'': ''one_time''}'
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

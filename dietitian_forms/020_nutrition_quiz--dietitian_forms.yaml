@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Quiz
+    pages:
+    - id: 1
+      name: client_intake
+      label: Client Intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dietary_habits
+      label: Dietary Habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undisclosed''}'
+      required: true
+    - id: 3
+      name: health_goals
+      label: Health Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lose weight''}'
+      - '{''label'': ''Manage blood sugar''}'
+      - '{''label'': ''Improve gut health''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: food_intake
+      label: Food Intake
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Omnivore''}'
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Vegan''}'
+      - '{''label'': ''Raw food''}'
+      required: false
+    - id: 5
+      name: supplements
+      label: Supplements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false

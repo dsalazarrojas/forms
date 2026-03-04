@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Mental Health Program Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: dedication_name
+      label: Dedication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dedication_message
+      label: Dedication Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: anonymous_donation
+      label: Anonymous Donor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donor_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 12
+      name: dedication_frequency
+      label: Dedication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 13
+      name: contact_frequency_report
+      label: Report Contact Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false

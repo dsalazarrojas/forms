@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: funding_request_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: 'Optional: Phone number'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Street Address or PO Box
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: funding_request
+      label: Funding Request
+      hint: Please explain your funding request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: amount_request
+      label: Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: funding_source
+      label: Funding Source
+      hint: 'Optional: Where will the funds come from?'
+      type: select_one
+      options:
+      - Donor
+      - Grant
+      - Other
+      required: false
+    - id: 9
+      name: follow_up_question
+      label: Follow-up Question
+      hint: Is there anything else you'd like to add?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: error_message
+      label: Error Message
+      hint: This is an error message
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: page_break
+      label: Page Break
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: By submitting this form, you agree to our terms and conditions.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: privacy_policy
+      label: Privacy Policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_us
+      label: Contact Us
+      hint: For any questions, please do not hesitate to contact us.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: form_complete
+      label: Form Complete
+      hint: Thank you for completing this form!
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: thank_you_message
+      label: Thank You Message
+      hint: We appreciate your interest in funding
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_button
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: save_and_exit
+      label: Save and Exit
+      hint: Save and Exit
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: print_form
+      label: Print Form
+      hint: Print this form
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: send_to
+      label: Send To
+      hint: Send to email
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: 51272,67766
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Disciplinary Panel Hearing Request Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hearing_request
+      label: Hearing Request
+      hint: This is an example hearing request
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disciplinary_action
+      label: Disciplinary Action
+      hint: Select the appropriate disciplinary action
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hearing_details
+      label: Hearing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hearing_date
+      label: Hearing Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hearing_time
+      label: Hearing Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: hearing_duration
+      label: Hearing Duration
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meeting_timezone
+      label: Meeting Timezone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: manager_status
+      label: Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: reason_for_disciplinary_action
+      label: Reason for Disciplinary Action
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazardous Material Handling Declaration Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_description
+      label: Material Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hazardous_materials_list
+      label: Hazardous Materials List
+      hint: null
+      type: select_multiple
+      options:
+      - Hazardous Material 1
+      - Hazardous Material 2
+      - Hazardous Material 3
+      required: false
+    - id: 9
+      name: handling_injuries_list
+      label: Handling Injuries List
+      hint: null
+      type: select_multiple
+      options:
+      - Injury 1
+      - Injury 2
+      - Injury 3
+      required: false
+    - id: 10
+      name: handling_procedures_list
+      label: Handling Procedures List
+      hint: null
+      type: select_multiple
+      options:
+      - Procedure 1
+      - Procedure 2
+      - Procedure 3
+      required: false
+    - id: 11
+      name: safety_measures_list
+      label: Safety Measures List
+      hint: null
+      type: select_multiple
+      options:
+      - Measure 1
+      - Measure 2
+      - Measure 3
+      required: false
+    - id: 12
+      name: storage_conditions
+      label: Storage Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: disposal_plan
+      label: Disposal Plan
+      hint: null
+      type: text
+      options: []
+      required: false

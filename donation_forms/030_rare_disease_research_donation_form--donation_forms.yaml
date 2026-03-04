@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rare Disease Research Donation Form
+    pages:
+    - id: 1
+      name: donorg_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donorg_title
+      label: Donor Title
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Ms
+      - Dr
+      - Mrs
+      - Prof
+      - Rev
+      required: true
+    - id: 3
+      name: donorg_email
+      label: Donor E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donorg_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donorg_address_1
+      label: Donor Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donorg_address_2
+      label: Donor Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donorg_notes
+      label: Donor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donorg_donor_type
+      label: Donor Type
+      hint: null
+      type: select_one
+      options:
+      - Researcher
+      - Advocate
+      - Family Member
+      required: true
+    - id: 9
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: donorg_donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      required: true
+    - id: 11
+      name: donorg_frequency_of_donation
+      label: Frequency of Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 12
+      name: donorg_frequency
+      label: Donor Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 13
+      name: donorg_disease
+      label: Disease for Research
+      hint: null
+      type: select_multiple
+      options:
+      - Disease1
+      - Disease2
+      - Disease3
+      required: true
+    - id: 14
+      name: donorg_disease_notes
+      label: Disease Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: donorg_donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: donorg_birthday
+      label: Donor Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: donorg_gender
+      label: Donor Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false

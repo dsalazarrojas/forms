@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Front Desk Operations Feedback Form
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Average
+      required: false
+    - id: 3
+      name: staff_attentiveness
+      label: Staff Attentiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Very Attentive
+      - Somewhat Attentive
+      - Not Attentive
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Neutral
+      - Somewhat Bad
+      - Very Bad
+      required: false
+    - id: 5
+      name: check_in_check_out
+      label: Check in/Check out
+      hint: null
+      type: select_multiple
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Neutral
+      - Somewhat Difficult
+      - Very Difficult
+      required: false
+    - id: 6
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      required: false
+    - id: 7
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 9
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: Please share any improvement suggestions you have for our front desk services.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

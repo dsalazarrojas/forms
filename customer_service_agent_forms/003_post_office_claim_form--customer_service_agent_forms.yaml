@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Office Claim Form
+    pages:
+    - id: 1
+      name: lost_or_damaged_parcel
+      label: Lost or Damaged Parcel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_lost_parcel
+      label: Date Lost Parcel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_lost_parcel
+      label: Time Lost Parcel
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: description_of_loss
+      label: Description of Loss
+      hint: Please provide a detailed description of how the loss or damage occurred.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description_of_damage
+      label: Description of Damage
+      hint: Please describe any damage to the parcel.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claimant_name
+      label: Claimant Name
+      hint: Enter your name as it appears on your identification.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_claimant
+      label: Address Claimant
+      hint: Enter your address as it appears on your identification.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: postal_service_provider
+      label: Postal Service Provider
+      hint: null
+      type: select_one
+      options:
+      - Royal Mail
+      - Parcel Monkey
+      - USPS
+      required: true
+    - id: 9
+      name: contact_number_claimant
+      label: Contact Number Claimant
+      hint: Enter your contact number as it appears on your identification.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email_claimant
+      label: Contact Email Claimant
+      hint: Enter your contact email as it appears on your identification.
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: signature_claimant
+      label: Signature Claimant
+      hint: Provide a scanned or photographed copy of your signature.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: proof_of_identity
+      label: Proof of Identity
+      hint: Attach a photo or a scanned copy of your identification document.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: claimant_declaration
+      label: Claimant Declaration
+      hint: I hereby declare that the information provided is accurate and true to
+        the best of my knowledge.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: postal_service_provider_details
+      label: Postal Service Provider Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_number_postal_service
+      label: Contact Number Postal Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email_postal_service
+      label: Contact Email Postal Service
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: postal_service_claim_details
+      label: Postal Service Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: postal_service_claimant_signature
+      label: Postal Service Claimant Signature
+      hint: Please provide a scanned or photographed copy of the claimant's signature.
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: proof_of_claim
+      label: Proof of Claim
+      hint: Attach a photo or a scanned copy of the proof.
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: date_of_claim
+      label: Date of Claim
+      hint: Date of Claimant
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_of_claim
+      label: Time of Claim
+      hint: Time of Claimant
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: description_postal_service
+      label: Description of Postal Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claimant_address
+      label: Claimant Address
+      hint: Enter the address of the claimant.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claimant_contact_number
+      label: Claimant Contact Number
+      hint: Enter the contact number of the claimant.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claimant_declaration_details
+      label: Claimant Declaration Details
+      hint: null
+      type: text
+      options: []
+      required: false

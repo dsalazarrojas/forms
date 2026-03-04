@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Counseling Inquiry Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: client_reason_for_inquiry
+      label: Client Reason for Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_reason_for_inquiry_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: therapist_email
+      label: Therapist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: therapist_phone
+      label: Therapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugaring Consent Form
+    pages:
+    - id: 1
+      name: sugaring_consent_form
+      label: Sugaring Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Sugar
+      - Chemical Peel
+      - Microblading
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the consent form
+      - Other
+      required: true
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false

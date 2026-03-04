@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Nonprofit Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Recurring
+      - One-time
+      required: false
+    - id: 7
+      name: frequency_frequency
+      label: frequency_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 8
+      name: campaign
+      label: campaign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: campaign_id
+      label: campaign_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: gift_receipt
+      label: gift receipt
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: gift_receipt_frequency
+      label: gift receipt frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 14
+      name: gift_receipt_name
+      label: gift receipt name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gift_receipt_email
+      label: gift receipt email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: gift_receipt_phone
+      label: gift receipt phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gift_receipt_note
+      label: gift receipt note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: stripe_account_id
+      label: stripe account id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stripe_plan_id
+      label: stripe plan id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: stripe_amount
+      label: stripe amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: stripe_currency
+      label: stripe currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - GBP
+      - AUD
+      - INR
+      required: false
+    - id: 22
+      name: stripe_email
+      label: stripe email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: stripe_phone
+      label: stripe phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stripe_address
+      label: stripe address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: stripe_zip
+      label: stripe zip
+      hint: null
+      type: text
+      options: []
+      required: false

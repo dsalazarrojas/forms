@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Masoretic Studies Registration
+    pages:
+    - id: 1
+      name: program_details
+      label: Enter Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_format
+      label: Select Study Format
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - On-campus
+      - Part-time
+      required: true
+    - id: 4
+      name: study_level
+      label: Select Study Level
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor
+      - Master
+      - Phd
+      required: false
+    - id: 5
+      name: program_length
+      label: How long do you plan to study?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: program_length_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_length_other_details
+      label: Program length other details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 12
+      name: contact_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Other
+      required: false
+    - id: 21
+      name: language_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: language_other_details
+      label: Language other details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 24
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent2
+      label: Consent 2
+      hint: null
+      type: note
+      options: []
+      required: true

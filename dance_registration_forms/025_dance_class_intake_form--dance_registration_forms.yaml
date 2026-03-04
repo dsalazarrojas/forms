@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: If the student's emergency contact information is required
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Spouse
+      - Grandparent
+      - Sister
+      - Brother
+      - Other
+      required: true
+    - id: 9
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_language
+      label: Preferred Language
+      hint: Please enter the language in which you would like to be contacted
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      required: true
+    - id: 11
+      name: dance_style
+      label: Dance Style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Jazz
+      - Tap
+      - Hip Hop
+      - Contemporary
+      required: true
+    - id: 12
+      name: dance_level
+      label: Dance Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Pre-Professional
+      required: true
+    - id: 13
+      name: experience
+      label: Dance Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: guardian_consent
+      label: Guardian Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: student_medical_history
+      label: Student Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

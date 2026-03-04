@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Shopping Request Form
+    pages:
+    - id: 1
+      name: shopping_request
+      label: Shopping Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_request
+      label: How may we assist you today?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

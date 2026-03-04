@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Basket Order Form Template
+    pages:
+    - id: 1
+      name: product_selection
+      label: Select Product
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 2
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gift_card
+      label: Gift Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery
+      label: Delivery
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false

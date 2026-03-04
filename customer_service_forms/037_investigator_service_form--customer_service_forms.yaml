@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investigator Service Form
+    pages:
+    - id: 1
+      name: investigator_service_form
+      label: Investigator Service Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investigator_service_request
+      label: Investigator Service Request
+      hint: Briefly describe the service you need from an investigator.  Please be
+        as detailed as possible so we can best assist you.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: 'Select one of the following options: Phone, Email, or Text (SMS) (Note:
+        Please note that if you are unable to receive emails, please select phone
+        or text)'
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text (SMS)
+      required: false
+    - id: 6
+      name: investigator_service_type
+      label: Investigator Service Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Background Check
+      - Surveillance
+      - Investigation
+      - Background Check and Surveillance
+      - Investigation and Surveillance
+      - Other (Specify)
+      required: false
+    - id: 7
+      name: investigator_service_other
+      label: Investigator Service Other
+      hint: If you select "Other" above, provide a detailed description in the space
+        below.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

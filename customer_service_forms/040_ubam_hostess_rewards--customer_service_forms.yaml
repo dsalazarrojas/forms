@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: UBAM Hostess Rewards
+    pages:
+    - id: 1
+      name: hostess_rewards_form
+      label: Hostess Rewards Selections
+      hint: null
+      type: select_multiple
+      options:
+      - Gift Card
+      - Other
+      required: false
+    - id: 2
+      name: hostess_rewards_catalog_link
+      label: Catalog Link
+      hint: Please update to the most current catalog
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ubam_ecommerce_page
+      label: UBAM E-Commerce Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: hostess_rewardees
+      label: Hostess Rewards Recipient
+      hint: null
+      type: select_one
+      options:
+      - Hostess
+      - Hostess and Spouse
+      - Both Spouses
+      required: false

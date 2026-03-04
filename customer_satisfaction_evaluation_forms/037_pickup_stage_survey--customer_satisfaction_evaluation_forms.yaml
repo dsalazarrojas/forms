@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pickup Stage Survey
+    pages:
+    - id: 1
+      name: pickup_stage_survey_form
+      label: pickup_stage_slogan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 3
+      name: time_taken
+      label: time_taken
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: note
+      options: []
+      required: false

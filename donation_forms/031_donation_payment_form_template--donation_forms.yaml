@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Payment Form Template
+    pages:
+    - id: 1
+      name: donation_payment_form_template
+      label: Donation Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Donation Forms
+      - Fundraiser Forms
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 5
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_note
+      label: Donor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Mail
+      - In-person
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_one
+      options:
+      - New Donor
+      - Returning Donor
+      - Donor Not Found
+      required: false
+    - id: 13
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false

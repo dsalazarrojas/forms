@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid Response Funding Application Form
+    pages:
+    - id: 1
+      name: section_org_details
+      label: -- Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id_ein
+      label: Tax ID (EIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: org_mission
+      label: Organization Mission Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_name_primary
+      label: Primary Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: section_funding_request
+      label: -- Funding Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: amount_requested_val
+      label: Amount Requested ($)
+      hint: Maximum request amount is 25,000
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: purpose_of_funding_cat
+      label: Primary Purpose of Funding
+      hint: null
+      type: select_one
+      options:
+      - Emergency Relief
+      - Healthcare Supplies
+      - Food Insecurity
+      - Community Outreach
+      - Operational Support
+      required: true
+    - id: 11
+      name: need_description_text
+      label: Detailed Description of Need
+      hint: Explain how the COVID-19 pandemic has created this need
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: impact_pop_text
+      label: Population Impacted
+      hint: Describe the group of people this funding will serve
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: timeline_impl_text
+      label: Timeline for Implementation
+      hint: When will the funds be deployed?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_financials_note
+      label: Brief Summary of Current Financial Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: verification_cert
+      label: I certify the information provided is accurate and the funds will be
+        used for the stated purpose
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true

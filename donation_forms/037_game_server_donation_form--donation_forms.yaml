@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Server Donation Form
+    pages:
+    - id: 1
+      name: donation_form_1
+      label: Game Server Donation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Enter your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: stream_id
+      label: Stream ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: player_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: type_of_donation
+      label: Type of donation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_7
+      label: Game Server Donation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: Donation Form to collect donations for your game server which collects
+        email stream ID player name with the preferred amount and type of donation
+      hint: null
+      type: note
+      options: []
+      required: false

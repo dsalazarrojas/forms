@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Testing Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_result
+      label: Covid Test Result
+      hint: null
+      type: select_one
+      options:
+      - Covid Positive
+      - Covid Negative
+      - Pending
+      required: false
+    - id: 3
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_location
+      label: Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that I am being tested for Covid-19.
+      - I understand that the test results may be used for future reference.
+      - I understand that I will receive my test results via email.
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

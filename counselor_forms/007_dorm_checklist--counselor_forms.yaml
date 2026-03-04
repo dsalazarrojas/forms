@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dorm Checklist
+    pages:
+    - id: 1
+      name: dorm_name
+      label: dorm_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      required: false
+    - id: 3
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_arrival
+      label: date_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_departure
+      label: date_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: items_list
+      label: items_list
+      hint: null
+      type: select_multiple
+      options:
+      - Bed
+      - Desk
+      - Chair
+      - Lamp
+      - Alarm Clock
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_email
+      label: emergency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_date
+      label: created_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_date
+      label: updated_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: updated_by_name
+      label: updated_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: version
+      label: version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false

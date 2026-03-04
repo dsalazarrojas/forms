@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Support Client Discharge Form
+    pages:
+    - id: 1
+      name: support_ticket_form
+      label: Tech Support Client Discharge Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discharge_comments
+      label: Discharge Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: client_satisfaction_internal
+      label: Internal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: client_confirmation
+      label: Client Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_provider_notes
+      label: Service Provider Notes
+      hint: Internal Notes for the Service Provider
+      type: note
+      options: []
+      required: false

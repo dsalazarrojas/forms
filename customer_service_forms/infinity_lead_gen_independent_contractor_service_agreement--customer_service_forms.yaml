@@ -1,0 +1,237 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: (INFINITY LEAD GEN) Independent Contractor Service Agreement
+    pages:
+    - id: 1
+      name: contract_header_note
+      label: '--- Independent Contractor Agreement ---'
+      hint: Complete all sections below. This agreement establishes a business-to-business
+        relationship, not employment.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_legal_name
+      label: Full Legal Name
+      hint: As it appears on your tax documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name_dba
+      label: Business Name (DBA)
+      hint: Leave blank if operating under personal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact for invoices and communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Mobile Phone Number
+      hint: For urgent scheduling and verification calls
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for background check and tax verification
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: Service address and mailing location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_structure
+      label: Business Entity Type
+      hint: How your business is organized for tax purposes
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Single-member LLC
+      - Multi-member LLC
+      - S-Corporation
+      - C-Corporation
+      - Partnership
+      required: true
+    - id: 10
+      name: tax_id_number
+      label: Tax ID (SSN or EIN)
+      hint: Provide SSN if sole proprietor, EIN if incorporated entity
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_service_details
+      label: '--- Service Capabilities & Availability ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: services_offered
+      label: Services You Will Provide (Select all that apply)
+      hint: Choose primary competencies for this contract
+      type: select_multiple
+      options:
+      - Lead Qualification & Screening
+      - Cold Calling & Outreach
+      - Customer Support / Help Desk
+      - Appointment Setting
+      - Data Entry & CRM Management
+      - Quality Assurance Auditing
+      - Sales Closing
+      required: true
+    - id: 13
+      name: years_experience
+      label: Years of Industry Experience
+      hint: Enter 0 if new to lead generation/customer service
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: availability_level
+      label: Weekly Availability
+      hint: Select your typical commitment level
+      type: select_one
+      options:
+      - Full-time (40+ hours)
+      - Part-time (20-39 hours)
+      - Part-time (under 20 hours)
+      - Weekends only
+      - Flexible / Project-based
+      required: true
+    - id: 15
+      name: compensation_rate
+      label: Proposed Rate (USD)
+      hint: Enter hourly rate OR per-lead rate (e.g., 25.00 or 5.50)
+      type: decimal
+      options: []
+      required: true
+    - id: 16
+      name: equipment_status
+      label: Equipment & Setup Status
+      hint: Confirm you have necessary tools
+      type: select_multiple
+      options:
+      - Reliable high-speed internet
+      - Quiet workspace / home office
+      - Noise-canceling headset
+      - Computer meeting company specs
+      - Backup power / UPS system
+      required: true
+    - id: 17
+      name: section_legal_compliance
+      label: '--- Agreement Terms & Legal Compliance ---'
+      hint: Read carefully before acknowledging
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Preferred Payment Terms
+      hint: Standard company policy is Net 30
+      type: select_one
+      options:
+      - Net 15 (2% early pay discount)
+      - Net 30 (Standard)
+      - Net 45
+      - Upon invoice receipt
+      required: true
+    - id: 19
+      name: legal_acknowledgments
+      label: Legal Acknowledgments (Required)
+      hint: Select all to indicate agreement
+      type: select_multiple
+      options:
+      - Confidentiality & Non-Disclosure Agreement
+      - Independent Contractor Status (not employee)
+      - 1099 Tax Responsibility (self-employment taxes)
+      - Non-compete during contract term
+      - Data Security & HIPAA compliance (if applicable)
+      required: true
+    - id: 20
+      name: background_check_consent
+      label: Background Check Authorization
+      hint: Required for all customer-facing contractors
+      type: select_one
+      options:
+      - Yes - I authorize background check
+      - No - I decline (voids application)
+      required: true
+    - id: 21
+      name: agreement_effective_date
+      label: Desired Start Date
+      hint: When can you begin providing services?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: referral_source
+      label: How did you hear about this opportunity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 25
+      name: digital_signature
+      label: Digital Signature (Type Full Legal Name)
+      hint: By typing your name, you agree this constitutes a binding electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Special Requests or Additional Terms
+      hint: Any accommodations needed or questions about the agreement
+      type: text
+      options: []
+      required: false

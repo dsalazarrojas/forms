@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Furniture Offer Form
+    pages:
+    - id: 1
+      name: customer_id
+      label: customer id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: offer_type
+      label: offer type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: offer_details
+      label: offer details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: item_id
+      label: item id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: unit_price
+      label: unit price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: discount_percentage
+      label: discount percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: item_name
+      label: item name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_description
+      label: item description
+      hint: null
+      type: text
+      options: []
+      required: false

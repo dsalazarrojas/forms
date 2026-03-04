@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: thank_you_gift_acknowledgment_form
+    pages:
+    - id: 1
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_info
+      label: Donation Information
+      hint: Please provide details about the donation
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recipient_info
+      label: Recipient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_details
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: thank_you_note
+      label: Thank You Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_receipt
+      label: Gift Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: donor_email
+      label: Donor E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: assigned_tool2
+      label: Assigned Tool 2
+      hint: null
+      type: select_multiple
+      options:
+      - tool1
+      - tool2
+      - tool3
+      required: false

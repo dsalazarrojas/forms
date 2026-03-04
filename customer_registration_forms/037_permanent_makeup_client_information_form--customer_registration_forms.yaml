@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Makeup Client Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship
+      label: Relationship with Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_device
+      label: Medical Devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: surgery
+      label: Surgery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_info
+      label: Doctor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_email
+      label: Doctor
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: permanent_masters
+      label: Permanent Masters
+      hint: null
+      type: select_multiple
+      options:
+      - Microblading
+      - Tattooing
+      - Sclerotherapy
+      - Permanent Eyeliner
+      - Permanent Eyebrow
+      - Permanent Lip Liner
+      - Permanent Blush
+      - Permanent Brows
+      - Permanent Lashes
+      required: false
+    - id: 25
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

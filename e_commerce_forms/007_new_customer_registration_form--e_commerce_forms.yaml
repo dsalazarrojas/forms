@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_customer_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: confirm_password
+      label: confirm_password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Staff
+      - Owner
+      required: false
+    - id: 13
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Support
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: date_of_registration
+      label: date_of_registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_registration
+      label: time_of_registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - E-commerce
+      - Finance
+      - Human Resources
+      required: false
+    - id: 20
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool_id
+      label: assigned_tool_id
+      hint: null
+      type: text
+      options: []
+      required: false

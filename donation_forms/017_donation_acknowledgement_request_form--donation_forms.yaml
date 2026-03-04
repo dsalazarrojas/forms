@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: donation_acknowledgement_request_form
+    pages:
+    - id: 1
+      name: donor_details
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donations Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - One-time donation
+      - Recurring donation
+      required: false
+    - id: 4
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: acknowledgement_message
+      label: Acknowledgement Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: additional_donor_notes
+      label: Additional Donor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: acknowledgement_sent
+      label: Acknowledgement Sent
+      hint: Check if acknowledgement has been sent to the donor
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

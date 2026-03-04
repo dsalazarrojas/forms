@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethics Complaint Form
+    pages:
+    - id: 1
+      name: complaint_info
+      label: Complaint Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complainant_info
+      label: Complainant Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Counselor''}'
+      - '{''label'': ''Staff''}'
+      - '{''label'': ''Client''}'
+      required: true
+    - id: 3
+      name: incident_info
+      label: Incident Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: supporting_evidence
+      label: Supporting Evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Staff''}'
+      - '{''label'': ''Counselor''}'
+      required: true
+    - id: 7
+      name: submitter_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

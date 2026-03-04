@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support Evaluation Form
+    pages:
+    - id: 1
+      name: customer_support_evaluation_form_page_1
+      label: Customer Support Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_support_evaluation_form_page_2
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_form_support_services_page_3
+      label: Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_request
+      label: Do you want to request support?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': True, ''label'': True}'
+      - '{''id'': 11, ''name'': False, ''label'': False}'
+      required: false
+    - id: 11
+      name: evaluation_form_submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''name'': ''Submit'', ''label'': ''Submit''}'
+      - '{''id'': 12, ''name'': ''Cancel'', ''label'': ''Cancel''}'
+      - '{''id'': 13, ''name'': ''Save and Continue'', ''label'': ''Save and Continue''}'
+      required: false
+    - id: 12
+      name: evaluation_form_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_form_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false

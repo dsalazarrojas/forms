@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Communication Skills Employment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      - Terminated
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: languages_spoken
+      label: Languages Spoken
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 11
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Remote
+      - Flexible
+      required: false
+    - id: 12
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Freelance
+      required: false
+    - id: 13
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notice_period_unit
+      label: Notice Period Unit
+      hint: null
+      type: select_one
+      options:
+      - Days
+      - Months
+      - Weeks
+      required: false
+    - id: 15
+      name: notice_period_frequency
+      label: Notice Period Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 16
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Flexible
+      - Variable
+      required: true
+    - id: 17
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - Onsite
+      - Offsite
+      - Remote
+      - Hybrid
+      required: false
+    - id: 18
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_industry
+      label: Job Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_level
+      label: Job Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_role
+      label: Job Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_employment_type
+      label: Job Employment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_employment_status
+      label: Job Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 25
+      name: job_employment_type_other
+      label: Job Employment Type Other
+      hint: null
+      type: text
+      options: []
+      required: false

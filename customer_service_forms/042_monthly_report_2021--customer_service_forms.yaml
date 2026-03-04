@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_report_2021
+    pages:
+    - id: 1
+      name: monthly_report_form
+      label: Monthly Report 2021
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_fields
+      label: customer_service_fields
+      hint: null
+      type: select_multiple
+      options:
+      - customer_service_field_1
+      - customer_service_field_2
+      - customer_service_field_3
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: report_notes
+      label: report_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_field_4
+      label: customer_service_field_4
+      hint: null
+      type: select_multiple
+      options:
+      - customer_service_field_4_option_1
+      - customer_service_field_4_option_2
+      - customer_service_field_4_option_3
+      required: false

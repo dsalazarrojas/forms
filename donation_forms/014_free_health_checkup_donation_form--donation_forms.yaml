@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Health Checkup Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often would you like to donate?
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - One-time
+      required: true
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 7
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 9
+      name: donor_info_comments
+      label: Donor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donor_info_additional
+      label: Donor Info Additional
+      hint: null
+      type: note
+      options: []
+      required: false

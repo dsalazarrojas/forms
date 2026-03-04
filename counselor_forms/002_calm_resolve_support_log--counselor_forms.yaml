@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calm Resolve Support Log
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_id
+      label: Client ID Number
+      hint: Unique identifier if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: Date of this support session
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: Start time of the session
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: session_duration
+      label: Session Duration in Minutes
+      hint: How long was the session
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: counselor_name
+      label: Counselor Name
+      hint: Name of the counselor conducting the session
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: Type of support session
+      type: select_one
+      options:
+      - Individual counseling
+      - Group therapy
+      - Family counseling
+      - Crisis intervention
+      - Follow-up session
+      - Assessment
+      - Other
+      required: true
+    - id: 8
+      name: session_location
+      label: Session Location
+      hint: Where did the session take place
+      type: select_one
+      options:
+      - In-person office
+      - Video call
+      - Phone call
+      - Home visit
+      - Community center
+      - Other
+      required: true
+    - id: 9
+      name: presenting_issues
+      label: Presenting Issues or Concerns
+      hint: Brief description of issues discussed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_mood
+      label: Client Mood at Start of Session
+      hint: How would you describe the client mood
+      type: select_one
+      options:
+      - Calm
+      - Anxious
+      - Depressed
+      - Agitated
+      - Neutral
+      - Euphoric
+      - Irritable
+      required: true
+    - id: 11
+      name: interventions_used
+      label: Interventions or Techniques Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Active listening
+      - Cognitive behavioral therapy
+      - Mindfulness exercises
+      - Solution-focused therapy
+      - Trauma-informed care
+      - Motivational interviewing
+      - Psychoeducation
+      - Crisis de-escalation
+      - Other
+      required: true
+    - id: 12
+      name: session_outcomes
+      label: Session Outcomes
+      hint: What was accomplished in this session
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_progress
+      label: Client Progress Level
+      hint: Rate the client progress
+      type: select_one
+      options:
+      - Significant improvement
+      - Moderate improvement
+      - Slight improvement
+      - No change
+      - Slight decline
+      - Moderate decline
+      required: true
+    - id: 14
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Any risk factors identified
+      type: select_one
+      options:
+      - No risk identified
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Crisis situation
+      required: true
+    - id: 15
+      name: follow_up_needed
+      label: Is Follow-up Needed
+      hint: Does this client need a follow-up session
+      type: select_one
+      options:
+      - Yes - schedule required
+      - Yes - recommended
+      - No - case closed
+      - Unsure
+      required: true
+    - id: 16
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Scheduled date for next session
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: referrals_made
+      label: Referrals Made
+      hint: Any referrals to other services
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

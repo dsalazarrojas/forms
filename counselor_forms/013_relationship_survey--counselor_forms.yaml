@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: relationship_survey
+    pages:
+    - id: 1
+      name: relationship_survey
+      label: Relationship Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_1_name
+      label: Partner 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner_1_age
+      label: Partner 1 Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner_2_name
+      label: Partner 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner_2_age
+      label: Partner 2 Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_long
+      label: How long have you been together?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Less than a month''}'
+      - '{''option'': ''1-6 months''}'
+      - '{''option'': ''6-12 months''}'
+      - '{''option'': ''1-2 years''}'
+      - '{''option'': ''2-5 years''}'
+      - '{''option'': ''5-10 years''}'
+      - '{''option'': ''10+ years''}'
+      required: false
+    - id: 7
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Single''}'
+      - '{''option'': ''Married''}'
+      - '{''option'': ''In a relationship but not living together''}'
+      - '{''option'': ''Living together''}'
+      - '{''option'': ''Engaged''}'
+      - '{''option'': ''In a domestic partnership''}'
+      - '{''option'': ''In a civil union''}'
+      - '{''option'': ''Separated''}'
+      - '{''option'': ''Divorced''}'
+      required: false
+    - id: 8
+      name: relationship_satisfaction
+      label: Relationship Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Very dissatisfied''}'
+      - '{''option'': ''Somewhat dissatisfied''}'
+      - '{''option'': ''Neutral''}'
+      - '{''option'': ''Somewhat satisfied''}'
+      - '{''option'': ''Very satisfied''}'
+      required: false
+    - id: 9
+      name: reasons_for_relationship_satisfaction
+      label: Reasons for Relationship Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Communication''}'
+      - '{''option'': ''Trust''}'
+      - '{''option'': ''Conflict resolution''}'
+      - '{''option'': ''Emotional intimacy''}'
+      - '{''option'': ''Financial stability''}'
+      - '{''option'': ''Personal growth''}'
+      - '{''option'': ''Shared goals''}'
+      - '{''option'': ''Shared leisure activities''}'
+      - '{''option'': ''Physical intimacy''}'
+      required: false
+    - id: 10
+      name: relationship_problems
+      label: Relationship Problems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Communication''}'
+      - '{''option'': ''Conflict''}'
+      - '{''option'': ''Finances''}'
+      - '{''option'': ''Intimacy''}'
+      - '{''option'': ''Trust''}'
+      - '{''option'': ''Personal growth''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 11
+      name: how_to_improve
+      label: How to Improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: relationship_satisfaction_2
+      label: Relationship Satisfaction 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: relationship_status_2
+      label: Relationship Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Single''}'
+      - '{''option'': ''Married''}'
+      - '{''option'': ''In a relationship but not living together''}'
+      - '{''option'': ''Living together''}'
+      - '{''option'': ''Engaged''}'
+      - '{''option'': ''In a domestic partnership''}'
+      - '{''option'': ''In a civil union''}'
+      - '{''option'': ''Separated''}'
+      - '{''option'': ''Divorced''}'
+      required: false
+    - id: 15
+      name: partner_1_relationship_satisfaction
+      label: Partner 1 Relationship Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Very dissatisfied''}'
+      - '{''option'': ''Somewhat dissatisfied''}'
+      - '{''option'': ''Neutral''}'
+      - '{''option'': ''Somewhat satisfied''}'
+      - '{''option'': ''Very satisfied''}'
+      required: false
+    - id: 16
+      name: partner_2_relationship_satisfaction
+      label: Partner 2 Relationship Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Very dissatisfied''}'
+      - '{''option'': ''Somewhat dissatisfied''}'
+      - '{''option'': ''Neutral''}'
+      - '{''option'': ''Somewhat satisfied''}'
+      - '{''option'': ''Very satisfied''}'
+      required: false
+    - id: 17
+      name: reasons_for_partner_1_relationship_satisfaction
+      label: Reasons for Partner 1 Relationship Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Communication''}'
+      - '{''option'': ''Trust''}'
+      - '{''option'': ''Conflict resolution''}'
+      - '{''option'': ''Emotional intimacy''}'
+      - '{''option'': ''Financial stability''}'
+      - '{''option'': ''Personal growth''}'
+      - '{''option'': ''Shared goals''}'
+      - '{''option'': ''Shared leisure activities''}'
+      - '{''option'': ''Physical intimacy''}'
+      required: false
+    - id: 18
+      name: reasons_for_partner_2_relationship_satisfaction
+      label: Reasons for Partner 2 Relationship Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Communication''}'
+      - '{''option'': ''Trust''}'
+      - '{''option'': ''Conflict resolution''}'
+      - '{''option'': ''Emotional intimacy''}'
+      - '{''option'': ''Financial stability''}'
+      - '{''option'': ''Personal growth''}'
+      - '{''option'': ''Shared goals''}'
+      - '{''option'': ''Shared leisure activities''}'
+      - '{''option'': ''Physical intimacy''}'
+      required: false
+    - id: 19
+      name: partner_1_relationship_problems
+      label: Partner 1 Relationship Problems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Communication''}'
+      - '{''option'': ''Conflict''}'
+      - '{''option'': ''Finances''}'
+      - '{''option'': ''Intimacy''}'
+      - '{''option'': ''Trust''}'
+      - '{''option'': ''Personal growth''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 20
+      name: partner_2_relationship_problems
+      label: Partner 2 Relationship Problems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Communication''}'
+      - '{''option'': ''Conflict''}'
+      - '{''option'': ''Finances''}'
+      - '{''option'': ''Intimacy''}'
+      - '{''option'': ''Trust''}'
+      - '{''option'': ''Personal growth''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 21
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: relationship_satisfaction_3
+      label: Relationship Satisfaction 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: relationship_status_3
+      label: Relationship Status 3
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Single''}'
+      - '{''option'': ''Married''}'
+      - '{''option'': ''In a relationship but not living together''}'
+      - '{''option'': ''Living together''}'
+      - '{''option'': ''Engaged''}'
+      - '{''option'': ''In a domestic partnership''}'
+      - '{''option'': ''In a civil union''}'
+      - '{''option'': ''Separated''}'
+      - '{''option'': ''Divorced''}'
+      required: false
+    - id: 24
+      name: partner_1_relationship_satisfaction_3
+      label: Partner 1 Relationship Satisfaction 3
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Very dissatisfied''}'
+      - '{''option'': ''Somewhat dissatisfied''}'
+      - '{''option'': ''Neutral''}'
+      - '{''option'': ''Somewhat satisfied''}'
+      - '{''option'': ''Very satisfied''}'
+      required: false
+    - id: 25
+      name: partner_2_relationship_satisfaction_3
+      label: Partner 2 Relationship Satisfaction 3
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Very dissatisfied''}'
+      - '{''option'': ''Somewhat dissatisfied''}'
+      - '{''option'': ''Neutral''}'
+      - '{''option'': ''Somewhat satisfied''}'
+      - '{''option'': ''Very satisfied''}'
+      required: false

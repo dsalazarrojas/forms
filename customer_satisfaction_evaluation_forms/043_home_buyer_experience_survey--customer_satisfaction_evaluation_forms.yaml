@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Buyer Experience Survey
+    pages:
+    - id: 1
+      name: home_buyer_survey
+      label: Home Buyer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page1_questions_1
+      label: What was the most important factor for you when searching for a home?
+      hint: null
+      type: select_one
+      options:
+      - Lifestyle
+      - Location
+      - Budget
+      - Size
+      - Amenities
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: page1_questions_2
+      label: On a scale of 1-5, how satisfied were you with the overall home buying
+        experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page2_questions_1
+      label: What was the most frustrating part of your experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: page2_questions_2
+      label: How did you find the communication with our team?
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: page2_questions_3
+      label: What could we do to improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: page2_questions_4
+      label: Have you recommended our real estate services to anyone?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: page3_questions_1
+      label: How did you find the overall value of the service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: page3_questions_2
+      label: What would make you more likely to recommend our service in the future?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: page4_questions_1
+      label: Do you have any other comments or suggestions for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: page4_questions_2
+      label: How did you find the overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Good
+      - Fair
+      - Poor
+      required: false

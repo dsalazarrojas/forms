@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Performance Questionnaire
+    pages:
+    - id: 1
+      name: section_student_details
+      label: -- Student Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: As it appears on official records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student Identification Number
+      hint: Unique university ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_title
+      label: Course Title
+      hint: Full name of the course
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: semester
+      label: Current Semester
+      hint: Select the term being evaluated
+      type: select_one
+      options:
+      - Fall 2025
+      - Spring 2026
+      - Summer 2026
+      required: true
+    - id: 6
+      name: section_self_assessment
+      label: -- Academic Performance Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attendance_frequency
+      label: How often did you attend classes?
+      hint: Include lectures and seminars
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: weekly_study_hours
+      label: Average hours spent studying for this course per week
+      hint: Outside of scheduled class time
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: understanding_of_material
+      label: How would you rate your understanding of the course content?
+      hint: Honest assessment of comprehension
+      type: select_one
+      options:
+      - Complete Mastery
+      - Strong Understanding
+      - Basic Understanding
+      - Struggling
+      required: true
+    - id: 10
+      name: assignment_completion
+      label: Did you submit all assignments on time?
+      hint: Including quizzes and projects
+      type: select_one
+      options:
+      - Yes - All
+      - Most of them
+      - Some of them
+      - Rarely
+      required: true
+    - id: 11
+      name: participation_level
+      label: Rate your level of active participation in class discussions
+      hint: Engagement during lessons
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 12
+      name: section_challenges
+      label: -- Course Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: difficulties_encountered
+      label: Identify any difficulties faced during the course
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Complex Concepts
+      - Workload
+      - Language Barriers
+      - Technical Issues
+      - Personal Reasons
+      required: false
+    - id: 14
+      name: support_needed
+      label: What additional support would have improved your performance?
+      hint: Tutoring, resources, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_goals
+      label: -- Future Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: grade_expectation
+      label: What grade do you expect to receive in this course?
+      hint: Your anticipated final result
+      type: text
+      options: []
+      required: false

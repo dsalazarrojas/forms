@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_venue_support_donation_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_fees
+      label: Donation Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: select_venue
+      label: Select A Venue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''venue_option_1'', ''label'': ''Venue 1''}'
+      - '{''id'': 2, ''name'': ''venue_option_2'', ''label'': ''Venue 2''}'
+      - '{''id'': 3, ''name'': ''venue_option_3'', ''label'': ''Venue 3''}'
+      required: false
+    - id: 5
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''once'', ''label'': ''Once''}'
+      - '{''id'': 2, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 3, ''name'': ''quarterly'', ''label'': ''Quarterly''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

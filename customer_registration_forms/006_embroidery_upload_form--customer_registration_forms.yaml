@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embroidery Upload Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: upload_type
+      label: Upload Type
+      hint: null
+      type: select_one
+      options:
+      - upload_type_option_1
+      - upload_type_option_2
+      - upload_type_option_3
+      required: false

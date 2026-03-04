@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Society Declaration Form
+    pages:
+    - id: 1
+      name: society_details
+      label: Society Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: society_abbreviation
+      label: society_abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: society_address
+      label: society_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: authorized_representatives
+      label: Authorized Representatives
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: society_confirmation
+      label: Society Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

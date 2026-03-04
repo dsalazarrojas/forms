@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loyalty Program Features Feedback Questionnaire
+    pages:
+    - id: 1
+      name: program_fulfillment
+      label: How would you rate our program fulfillment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reward_redemption
+      label: Reward redemptions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loyalty_program_value
+      label: Loyalty program value
+      hint: null
+      type: select_one
+      options:
+      - Highly valuable
+      - Reportedly valuable
+      - Not Valuable
+      required: false
+    - id: 4
+      name: program_features
+      label: Program features
+      hint: null
+      type: select_one
+      options:
+      - Loyalty Program
+      - Loyalty Program and Offers
+      - Other
+      required: false
+    - id: 5
+      name: feedback_on_features
+      label: Feedback on features
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_service
+      label: Customer service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_satisfaction
+      label: How satisfied are you with our loyalty program?
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: false
+    - id: 11
+      name: improvements
+      label: What improvements do you have for the loyalty program?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: open_ended_questions
+      label: Do you have any other feedback?
+      hint: null
+      type: text
+      options: []
+      required: false

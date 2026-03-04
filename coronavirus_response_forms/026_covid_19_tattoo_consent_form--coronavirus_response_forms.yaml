@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Tattoo Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vaccine_dose_number
+      label: Which COVID-19 vaccine dose will this tattoo represent
+      hint: Dose number
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Bivalent booster
+      - Updated booster
+      required: true
+    - id: 12
+      name: vaccine_brand
+      label: Which vaccine brand did you receive
+      hint: Vaccine manufacturer
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      - Other
+      - Not sure
+      required: true
+    - id: 13
+      name: vaccination_date
+      label: Date of Vaccination
+      hint: When did you get vaccinated
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: vaccination_location
+      label: Where did you get vaccinated
+      hint: Vaccination site
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tattoo_design_preference
+      label: What tattoo design do you prefer
+      hint: Design choice
+      type: select_one
+      options:
+      - COVID-19 virus illustration
+      - Vaccine syringe design
+      - COVID-19 awareness ribbon
+      - Pandemic memorial design
+      - Custom design
+      - Not sure need consultation
+      required: true
+    - id: 16
+      name: tattoo_placement
+      label: Where would you like the tattoo placed
+      hint: Body location
+      type: select_one
+      options:
+      - Upper arm
+      - Forearm
+      - Wrist
+      - Shoulder
+      - Back
+      - Chest
+      - Ankle
+      - Calf
+      - Other
+      required: true
+    - id: 17
+      name: tattoo_size
+      label: What size tattoo do you want
+      hint: Size preference
+      type: select_one
+      options:
+      - Small (under 2 inches)
+      - Medium (2-4 inches)
+      - Large (4-6 inches)
+      - Extra large (over 6 inches)
+      required: true
+    - id: 18
+      name: color_preference
+      label: Color Preference
+      hint: Tattoo colors
+      type: select_one
+      options:
+      - Black and gray only
+      - Black with one accent color
+      - Full color
+      - Watercolor style
+      required: true
+    - id: 19
+      name: medical_conditions
+      label: Do you have any medical conditions that may affect tattooing
+      hint: Medical history
+      type: select_multiple
+      options:
+      - None
+      - Diabetes
+      - Blood clotting disorder
+      - Immune system disorder
+      - Skin conditions
+      - Heart conditions
+      - Allergies
+      - Pregnancy
+      - Other
+      required: true
+    - id: 20
+      name: skin_allergies
+      label: Do you have any skin allergies or sensitivities
+      hint: Allergy information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: blood_thinner_medication
+      label: Are you taking any blood thinner medications
+      hint: Medication check
+      type: select_one
+      options:
+      - false
+      - Yes aspirin
+      - Yes warfarin
+      - Yes other blood thinner
+      required: true
+    - id: 22
+      name: current_symptoms
+      label: Are you currently experiencing any COVID-19 symptoms
+      hint: Health screening
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 23
+      name: recent_illness
+      label: Have you been ill in the past 14 days
+      hint: Recent illness
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 24
+      name: risk_acknowledgment
+      label: I understand that tattooing carries risks including infection and allergic
+        reactions
+      hint: Risk acknowledgment
+      type: select_one
+      options:
+      - Yes I understand and accept the risks
+      - No I do not accept
+      required: true
+    - id: 25
+      name: covid_risk_acknowledgment
+      label: I understand that visiting the tattoo studio may expose me to COVID-19
+      hint: COVID risk acknowledgment
+      type: select_one
+      options:
+      - Yes I understand and accept the risk
+      - No I do not accept
+      required: true
+    - id: 26
+      name: aftercare_compliance
+      label: I agree to follow all aftercare instructions provided
+      hint: Aftercare agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

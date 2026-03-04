@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Complaint Intake Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_staff
+      label: Customer Service Staff
+      hint: null
+      type: select_one
+      options:
+      - Support Team Member 1
+      - Support Team Member 2
+      - Support Team Member 3
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_agency
+      label: Customer Service Agency
+      hint: null
+      type: select_one
+      options:
+      - School District 1
+      - School District 2
+      - School District 3
+      required: false
+    - id: 8
+      name: customer_service_team
+      label: Customer Service Team
+      hint: null
+      type: select_multiple
+      options:
+      - Support Team Member 1
+      - Support Team Member 2
+      - Support Team Member 3
+      required: false
+    - id: 9
+      name: route_concerns
+      label: Route Concerns
+      hint: Please route this form to the correct team based on your concerns
+      type: select_one
+      options:
+      - School District 1
+      - School District 2
+      - School District 3
+      required: false
+    - id: 10
+      name: incident_nature
+      label: Incident Nature
+      hint: null
+      type: select_one
+      options:
+      - Incident Type 1
+      - Incident Type 2
+      - Incident Type 3
+      required: false
+    - id: 11
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 12
+      name: incident_description
+      label: Incident Description
+      hint: Please describe the incident in as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: staff_note
+      label: Staff Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Resolved
+      required: false
+    - id: 18
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Incident Type 1
+      - Incident Type 2
+      - Incident Type 3
+      required: false
+    - id: 19
+      name: incident_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false

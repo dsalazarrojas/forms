@@ -1,0 +1,297 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College Course Feedback Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: student_id
+        label: Student ID
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: course_name
+        label: Course Name
+        hint: Course title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: course_code
+        label: Course Code
+        hint: Course number
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: instructor_name
+        label: Instructor Name
+        hint: Professor name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: term
+        label: Academic Term
+        hint: Semester
+        type: select_one
+        options:
+          - Fall 2025
+          - Spring 2026
+          - Summer 2026
+          - Fall 2026
+        required: true
+      - id: 7
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: content_quality
+        label: Course Content Quality
+        hint: Rate the content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: content_organization
+        label: Content Organization
+        hint: How well organized
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: content_relevance
+        label: Content Relevance
+        hint: How relevant to field
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: instructor_effectiveness
+        label: Instructor Effectiveness
+        hint: Teaching quality
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: instructor_clarity
+        label: Instructor Clarity
+        hint: Explanation clarity
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: instructor_engagement
+        label: Instructor Engagement
+        hint: How engaging
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: instructor_feedback
+        label: Instructor Feedback Quality
+        hint: Feedback on your work
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: assignments_quality
+        label: Assignment Quality
+        hint: Assignment design
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: assignments_difficulty
+        label: Assignment Difficulty
+        hint: Level of challenge
+        type: select_one
+        options:
+          - Too Easy
+          - Appropriate
+          - Too Difficult
+        required: true
+      - id: 17
+        name: workload
+        label: Course Workload
+        hint: Amount of work
+        type: select_one
+        options:
+          - Too Light
+          - Appropriate
+          - Too Heavy
+        required: true
+      - id: 18
+        name: engagement_level
+        label: Your Engagement Level
+        hint: How engaged were you
+        type: select_one
+        options:
+          - Very Engaged
+          - Engaged
+          - Somewhat Engaged
+          - Not Very Engaged
+          - Not Engaged
+        required: true
+      - id: 19
+        name: learning_outcomes
+        label: Learning Outcomes Achieved
+        hint: Did you meet goals
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met Expectations
+          - Partially Met Expectations
+          - Did Not Meet Expectations
+        required: true
+      - id: 20
+        name: skills_gained
+        label: Skills You Gained
+        hint: What did you learn
+        type: select_multiple
+        options:
+          - Critical Thinking
+          - Problem Solving
+          - Communication
+          - Research Skills
+          - Technical Skills
+          - Teamwork
+          - Time Management
+          - Subject Knowledge
+          - Other
+        required: true
+      - id: 21
+        name: course_pace
+        label: Course Pace
+        hint: Speed of instruction
+        type: select_one
+        options:
+          - Too Slow
+          - Appropriate
+          - Too Fast
+        required: true
+      - id: 22
+        name: materials_quality
+        label: Course Materials Quality
+        hint: Textbook and resources
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 23
+        name: assessment_fairness
+        label: Assessment Fairness
+        hint: Tests and grading
+        type: select_one
+        options:
+          - Very Fair
+          - Fair
+          - Somewhat Fair
+          - Not Fair
+        required: true
+      - id: 24
+        name: would_recommend_course
+        label: Would Recommend This Course
+        hint: To other students
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 25
+        name: best_aspect
+        label: Best Aspect of the Course
+        hint: What was best
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: worst_aspect
+        label: Worst Aspect of the Course
+        hint: What was worst
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: suggestions
+        label: Suggestions for Improvement
+        hint: How to make it better
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

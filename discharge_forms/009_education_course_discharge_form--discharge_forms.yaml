@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Course Discharge Form
+    pages:
+    - id: 1
+      name: withdrawal_form
+      label: Withdrawal Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_info
+      label: Course Information
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: reason_for_withdrawal
+      label: Reason for Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_class
+      label: Date of Last Class
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_last_class
+      label: Time of Last Class
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: last_class_attendance
+      label: Last Class Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

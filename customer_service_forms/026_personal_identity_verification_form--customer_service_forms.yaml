@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Identity Verification Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: government_identification_number
+      label: Government Identification Number
+      hint: null
+      type: select_multiple
+      options:
+      - ID Card
+      - Driver License
+      - Passport
+      - State ID
+      required: true
+    - id: 9
+      name: government_identification_number_notes
+      label: Government ID Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: government_identification_number_front
+      label: Government ID Front
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: government_identification_number_back
+      label: Government ID Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: government_identification_number_other_side
+      label: Government ID Other Side
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: driver_license_front
+      label: Driver License Front
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: driver_license_back
+      label: Driver License Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: driver_license_other_side
+      label: Driver License Other Side
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: id_card_front
+      label: ID Card Front
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: id_card_back
+      label: ID Card Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: id_card_other_side
+      label: ID Card Other Side
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: passport_front
+      label: Passport Front
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: passport_back
+      label: Passport Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: passport_other_side
+      label: Passport Other Side
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: social_security_number_notes
+      label: Social Security Number Notes
+      hint: null
+      type: note
+      options: []
+      required: false

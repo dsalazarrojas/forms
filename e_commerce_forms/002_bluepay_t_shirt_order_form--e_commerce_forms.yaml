@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bluepay T Shirt Order Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address for order shipment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shirt_color
+      label: T-Shirt Color
+      hint: Select desired color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy Blue
+      - Red
+      - Gray
+      - Green
+      required: true
+    - id: 7
+      name: shirt_size
+      label: T-Shirt Sizes
+      hint: Select all sizes needed
+      type: select_multiple
+      options:
+      - XS
+      - Small
+      - Medium
+      - Large
+      - XL
+      - XXL
+      required: true
+    - id: 8
+      name: size_xs_quantity
+      label: Quantity - XS
+      hint: Number of extra small shirts
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: size_s_quantity
+      label: Quantity - Small
+      hint: Number of small shirts
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: size_m_quantity
+      label: Quantity - Medium
+      hint: Number of medium shirts
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: size_l_quantity
+      label: Quantity - Large
+      hint: Number of large shirts
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: size_xl_quantity
+      label: Quantity - XL
+      hint: Number of XL shirts
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: size_xxl_quantity
+      label: Quantity - XXL
+      hint: Number of XXL shirts
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: print_design
+      label: Custom Print Design
+      hint: Do you need custom printing on the shirts
+      type: select_one
+      options:
+      - Yes, custom print
+      - No, plain shirts
+      - Already printed
+      required: true
+    - id: 15
+      name: design_description
+      label: Design Description
+      hint: Describe the design or leave blank if not needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_date
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: order_notes
+      label: Special Instructions
+      hint: Any additional notes for this order
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Purchase Order
+      required: true

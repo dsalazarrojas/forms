@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Self Certification And Verification Form
+    pages:
+    - id: 1
+      name: daily_screening
+      label: Daily Screening
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question_1
+      label: Do you have any of the following symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - cough
+      - sore_throat
+      - fever
+      - shortness_of_breath
+      - muscle_pains
+      - headache
+      - new_loss_of_smell
+      - new_loss_of_taste
+      - nausea_vomiting
+      - diarrhoea
+      - sore_throat
+      - fatigue
+      - difficulty_breathing
+      - loss_of_appetite
+      - runny_nose
+      - congestion
+      - loss_of_speech
+      - loss_of_taste
+      - loss_of_smell
+      - chest_tightness
+      - chest_pain
+      - loss_of_energy
+      - loss_of_concentration
+      - loss_of_sleep
+      - loss_of_memory
+      - loss_of_appetite
+      - loss_of_saliva
+      required: true
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_2
+      label: Have you traveled recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: question_3
+      label: Have you met anyone with COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: question_4
+      label: Has anyone in your household had COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: question_5
+      label: Have you had contact with someone with COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: question_6
+      label: Have you had contact with anyone with a known case of COVID 19 in their
+        household recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: question_7
+      label: Have you had contact with a health care worker with COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: question_8
+      label: Have you been in contact with someone who works in the healthcare industry
+        and has COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: question_9
+      label: Have you been in contact with someone who works in a high-risk industry
+        and has COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: question_10
+      label: Have you had contact with someone who is a healthcare worker with COVID
+        19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: question_11
+      label: Have you had contact with someone who works in the healthcare industry
+        and has COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: question_12
+      label: Have you had contact with someone with COVID 19 recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: question_13
+      label: Have you had a recent COVID 19 test?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: question_14
+      label: Have you had a recent COVID 19 vaccine?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: question_15
+      label: Have you had a recent COVID 19 test and received results?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: question_16
+      label: Have you taken a COVID 19 test recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: question_17
+      label: Have you received a COVID 19 test result recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: question_18
+      label: Have you received a positive COVID 19 test result?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: question_19
+      label: Have you received a COVID 19 test result that indicates you are positive?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: question_20
+      label: Have you received COVID 19 test results recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: question_21
+      label: Have you had a recent COVID 19 test with a positive result?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: question_22
+      label: Have you received a COVID 19 positive test result recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_new_client_form
+    pages:
+    - id: 1
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: true
+    - id: 6
+      name: vet_name
+      label: Veterinarian
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 10
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Other
+      required: true
+    - id: 11
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: exp_date
+      label: Exp. Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: cc_number
+      label: CC Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: cc_expire
+      label: CC Expire
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: cvv_number
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: card_name
+      label: Card Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: card_exp_month
+      label: Card Exp. Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 19
+      name: card_exp_year
+      label: Card Exp. Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: cvv_number
+      label: CVV Number
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 21
+      name: confirmation
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: true

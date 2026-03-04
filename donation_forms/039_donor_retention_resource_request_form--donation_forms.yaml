@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Retention Resource Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_request
+      label: resource_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: resource_type
+      label: resource_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Book''}'
+      - '{''value'': ''Computer''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: resource_type_other
+      label: resource_type_other
+      hint: Please provide more information about the resource requested
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_resources
+      label: additional_resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Book''}'
+      - '{''value'': ''Computer''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: resource_request_frequency
+      label: resource_request_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Yearly''}'
+      required: false
+    - id: 12
+      name: resource_request_availability
+      label: resource_request_availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Now''}'
+      - '{''value'': ''Soon''}'
+      - '{''value'': ''Flexible''}'
+      - '{''value'': ''Flexible (To be determined)''}'
+      required: false
+    - id: 13
+      name: resource_request_comments
+      label: resource_request_comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Text/SMS''}'
+      - '{''value'': ''In-app''}'
+      - '{''value'': ''None''}'
+      required: false

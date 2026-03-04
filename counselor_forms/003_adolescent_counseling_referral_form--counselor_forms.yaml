@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adolescent Counseling Referral Form
+    pages:
+    - id: 1
+      name: section_referrer
+      label: -- Referral Source Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Referrer Name
+      hint: Person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_role_or_relationship
+      label: Referrer Role or Relationship
+      hint: e.g. Teacher, Parent, Physician
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_email
+      label: Referrer Email
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_adolescent
+      label: -- Adolescent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: adolescent_full_name
+      label: Adolescent Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: adolescent_age
+      label: Adolescent Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: Current school attending
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_reason
+      label: -- Reason for Referral --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_concerns
+      label: Primary Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Anxiety
+      - Depression
+      - Academic struggles
+      - Behavioral issues
+      - Family conflict
+      - Social isolation
+      - Substance use
+      required: true
+    - id: 11
+      name: description_of_concerns
+      label: Description of Concerns
+      hint: Provide details about the observed behaviors or issues
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: urgency_level
+      label: Urgency Level
+      hint: Assessment of immediate need
+      type: select_one
+      options:
+      - Urgent
+      - Standard
+      - Monitoring
+      required: true
+    - id: 13
+      name: parental_consent_obtained
+      label: Parental Consent Obtained
+      hint: Has the guardian been notified?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 14
+      name: parent_contact_number
+      label: Parent Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

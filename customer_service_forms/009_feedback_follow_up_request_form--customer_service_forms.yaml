@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Follow Up Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: previous_feedback
+      label: Previous Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: follow_up_request
+      label: Follow Up Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requested_resolution
+      label: Requested Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: best_contact_method
+      label: Best Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

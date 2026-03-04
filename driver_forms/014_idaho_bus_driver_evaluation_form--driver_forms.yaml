@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: idaho_bus_driver_evaluation_form
+    pages:
+    - id: 1
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bus_number
+      label: Bus Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date Of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_service
+      label: Time Of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: driver_rating
+      label: Driver Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assumed Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjim''}'
+      - '{''id'': 2, ''label'': ''chatjimmy''}'
+      - '{''id'': 3, ''label'': ''chatjimmy1''}'
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

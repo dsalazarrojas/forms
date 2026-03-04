@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Chatbot Feedback Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: How would you rate your experience?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_type
+      label: What product were you trying to purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - iPhone
+      - Samsung
+      - Other
+      required: true
+    - id: 9
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: screenshot
+      label: Screenshot (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Technical
+      - Content
+      - Design
+      required: true
+    - id: 12
+      name: issue_description_long
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: expected_resolution
+      label: What would you like us to do?
+      hint: null
+      type: select_multiple
+      options:
+      - Improve the chatbot
+      - Fix the issue immediately
+      - Contact customer support
+      required: true
+    - id: 14
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Fixed
+      - Not Fixed
+      required: true
+    - id: 15
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: resolution_comment
+      label: Resolution Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: feedback_rating
+      label: How would you rate this issue?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: resolution_message
+      label: Resolution Message
+      hint: null
+      type: text
+      options: []
+      required: false

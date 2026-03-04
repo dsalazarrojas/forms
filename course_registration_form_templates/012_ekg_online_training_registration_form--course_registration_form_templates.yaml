@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: EKG Online Training Registration Form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: Enter course name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Session Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: Session End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: course_category
+      label: Course Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: course_category_list
+      label: Course Category List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: participant_category_list
+      label: Participant Category List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: course_status_list
+      label: Course Status List
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: training_provider_list
+      label: Training Provider List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: training_location_list
+      label: Training Location List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: participant_status_list
+      label: Participant Status List
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: participant_notes_list
+      label: Participant Notes List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: participant_category_list
+      label: Participant Category List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: training_provider_notes
+      label: Training Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: training_provider_notes_list
+      label: Training Provider Notes List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

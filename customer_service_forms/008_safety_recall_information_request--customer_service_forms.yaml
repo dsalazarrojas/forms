@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Recall Information Request
+    pages:
+    - id: 1
+      name: product_details
+      label: Product Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recall_inquiry
+      label: Recall Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_id
+      label: Product ID
+      hint: Please enter your product ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: true

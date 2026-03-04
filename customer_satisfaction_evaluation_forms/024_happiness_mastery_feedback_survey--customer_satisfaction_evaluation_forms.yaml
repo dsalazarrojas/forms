@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Happiness Mastery Feedback Survey
+    pages:
+    - id: 1
+      name: program_title
+      label: happiness_mastery_feedback_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: overall_rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 5
+      name: feedback
+      label: what_do_you_feel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_participants
+      label: program_participants
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 7
+      name: improvement_areas
+      label: improvement_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 8
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

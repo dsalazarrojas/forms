@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Course Registration Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - Language 1
+      - Language 2
+      - Language 3
+      required: false
+    - id: 6
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: user_enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 9
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false

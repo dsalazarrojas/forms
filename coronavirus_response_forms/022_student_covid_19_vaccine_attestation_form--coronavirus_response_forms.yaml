@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Vaccine Attestation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vaccine_dose_1_date
+      label: Vaccine Dose 1 Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vaccine_dose_2_date
+      label: Vaccine Dose 2 Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_dose_3_date
+      label: Vaccine Dose 3 Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: interested_in_vaccine
+      label: Interested in Vaccine
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: already_vaccinated
+      label: Already Vaccinated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: guardian_relationship
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Mother/Father
+      - Grandparent
+      - Guardian/Other
+      required: true
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Mother/Father
+      - Grandparent
+      - Sibling
+      required: false
+    - id: 19
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_province
+      label: Emergency Contact Province
+      hint: null
+      type: select_one
+      options:
+      - Ontario
+      - British Columbia
+      - Other
+      required: false
+    - id: 21
+      name: emergency_contact_city
+      label: Emergency Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_postal_code
+      label: Emergency Contact Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_country
+      label: Emergency Contact Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_attestation
+      label: Student Atestation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Student Signature 1
+      - Student Signature 2
+      required: true

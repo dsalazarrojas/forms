@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collar Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: collar_type
+      label: Collar Type
+      hint: Select the style you want to order
+      type: select_one
+      options:
+      - Dress Collar
+      - Casual Collar
+      - Work Shirt Collar
+      - Specialized Collar
+      - Custom Design
+      required: true
+    - id: 5
+      name: collar_material
+      label: Material
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Polyester Blend
+      - Silk
+      - Linen
+      - Wool
+      - Other
+      required: true
+    - id: 6
+      name: collar_color
+      label: Color Selection
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy Blue
+      - Light Blue
+      - Pink
+      - Striped
+      - Patterned
+      required: true
+    - id: 7
+      name: collar_size
+      label: Collar Size - inches
+      hint: Neck circumference measurement
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: collar_fit
+      label: Collar Fit
+      hint: null
+      type: select_one
+      options:
+      - Standard Fit
+      - Slim Fit
+      - Comfort Fit
+      - Custom Fit
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of collars to order
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: special_features
+      label: Special Features
+      hint: Select any additional options
+      type: select_multiple
+      options:
+      - Starch Treatment
+      - Reinforced Stitching
+      - Monogramming
+      - Anti-wrinkle Treatment
+      - Moisture-wicking
+      required: false
+    - id: 11
+      name: monogram_details
+      label: Monogram Details - if selected
+      hint: Initials or custom text
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price_per_unit
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_state
+      label: State - Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_postal
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Express Shipping (2-3 days)
+      - Overnight Shipping
+      - Local Pickup
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 20
+      name: order_notes
+      label: Special Instructions
+      hint: Any additional requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agree_to_terms
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

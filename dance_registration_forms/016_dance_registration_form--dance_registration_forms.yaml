@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Registration Form
+    pages:
+    - id: 1
+      name: registrant_info
+      label: Registrant Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dance_category
+      label: Dance Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Ballet''}'
+      - '{''name'': ''Ballroom''}'
+      - '{''name'': ''Contemporary''}'
+      - '{''name'': ''Hip-Hop''}'
+      - '{''name'': ''Latin''}'
+      - '{''name'': ''Modern''}'
+      - '{''name'': ''Tap''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_academy
+      label: Course Academy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Course''}'
+      - '{''name'': ''Academy''}'
+      - '{''name'': ''Contest''}'
+      - '{''name'': ''Festival''}'
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: course_level
+      label: Course Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: class_time
+      label: Class Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: class_days
+      label: Class Days
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: class_hours
+      label: Class Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: class_frequency
+      label: Class Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

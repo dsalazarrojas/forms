@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Courier Check Out Form
+    pages:
+    - id: 1
+      name: delivery_order_templates_form
+      label: delivery_order_templates_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info_form
+      label: customer_info_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details_form
+      label: delivery_details_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature_form
+      label: signature_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_info_form
+      label: delivery_info_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: package_details_form
+      label: package_details_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_info_form
+      label: payment_info_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address_form
+      label: delivery_address_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: package_tracking_form
+      label: package_tracking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: package_status_form
+      label: package_status_form
+      hint: null
+      type: select_one
+      options:
+      - Delivered
+      - Delayed
+      - Lost
+      required: false
+    - id: 11
+      name: package_notes_form
+      label: package_notes_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date_form
+      label: delivery_date_form
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time_form
+      label: delivery_time_form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: delivery_person_form
+      label: delivery_person_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_phone_number_form
+      label: delivery_phone_number_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_email_address_form
+      label: delivery_email_address_form
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: delivery_notes_form
+      label: delivery_notes_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_terms_condition_form
+      label: delivery_terms_condition_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_additional_info_form
+      label: delivery_additional_info_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_signature_form
+      label: delivery_signature_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_payment_form
+      label: delivery_payment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_payment_status_form
+      label: delivery_payment_status_form
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 23
+      name: delivery_payment_method_form
+      label: delivery_payment_method_form
+      hint: Select one or more payment methods
+      type: select_multiple
+      options:
+      - Bank
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 24
+      name: assigned_user_form
+      label: assigned_user_form
+      hint: Select assigned user
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 25
+      name: delivery_status_form
+      label: delivery_status_form
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Delayed
+      required: false

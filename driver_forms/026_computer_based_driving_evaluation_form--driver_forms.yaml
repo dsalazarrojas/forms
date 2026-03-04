@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Based Driving Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_id
+      label: Evaluation ID
+      hint: Unique evaluation identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of evaluator
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_certification
+      label: Evaluator Certification
+      hint: Evaluator certification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_id
+      label: Participant ID
+      hint: Participant identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant birth date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: license_number
+      label: Driver License Number
+      hint: Driver license number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_state
+      label: License State
+      hint: State that issued license
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: license_expiry
+      label: License Expiry Date
+      hint: When does license expire
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: evaluation_type
+      label: Evaluation Type
+      hint: Type of driving evaluation
+      type: select_one
+      options:
+      - Initial Assessment
+      - Periodic Re-evaluation
+      - Post Incident Evaluation
+      - Medical Clearance Evaluation
+      - Senior Driver Evaluation
+      - Commercial Driver Evaluation
+      - Other
+      required: true
+    - id: 12
+      name: simulation_module
+      label: Simulation Module
+      hint: Which simulation module was used
+      type: select_one
+      options:
+      - Urban Driving
+      - Highway Driving
+      - Rural Roads
+      - Night Driving
+      - Adverse Weather
+      - Emergency Response
+      - Defensive Driving
+      - All Modules
+      required: true
+    - id: 13
+      name: reaction_time_score
+      label: Reaction Time Score
+      hint: Score for reaction time
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 14
+      name: hazard_perception_score
+      label: Hazard Perception Score
+      hint: Score for hazard perception
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 15
+      name: decision_making_score
+      label: Decision Making Score
+      hint: Score for decision making
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 16
+      name: vehicle_control_score
+      label: Vehicle Control Score
+      hint: Score for vehicle control
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 17
+      name: traffic_law_compliance_score
+      label: Traffic Law Compliance Score
+      hint: Score for following traffic laws
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 18
+      name: attention_and_focus_score
+      label: Attention and Focus Score
+      hint: Score for attention and focus
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 19
+      name: total_score
+      label: Total Score
+      hint: Total combined score
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: errors_committed
+      label: Errors Committed
+      hint: List any errors made during evaluation
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: critical_errors
+      label: Critical Errors
+      hint: Were there any critical safety errors
+      type: select_one
+      options:
+      - No Critical Errors
+      - One Critical Error
+      - Multiple Critical Errors
+      required: true
+    - id: 22
+      name: evaluation_result
+      label: Evaluation Result
+      hint: Overall evaluation result
+      type: select_one
+      options:
+      - Pass - No Restrictions
+      - Pass - With Recommendations
+      - Conditional Pass - Further Assessment Needed
+      - Fail - Not Recommended
+      - Incomplete - Retest Required
+      required: true
+    - id: 23
+      name: recommendations
+      label: Recommendations
+      hint: List any recommendations for the participant
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: restrictions_noted
+      label: Restrictions Noted
+      hint: Any driving restrictions recommended
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_required
+      label: Follow Up Required
+      hint: Is follow up evaluation needed
+      type: select_one
+      options:
+      - No Follow Up Needed
+      - Re-evaluation in 6 Months
+      - Re-evaluation in 1 Year
+      - Additional Training Required
+      - Medical Clearance Required
+      required: true
+    - id: 26
+      name: participant_acknowledgment
+      label: Participant Acknowledgment
+      hint: I acknowledge the results of this evaluation
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - No, I Do Not Acknowledge
+      required: true
+    - id: 27
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: participant_signature
+      label: Participant Signature
+      hint: Participant types full name as signature
+      type: text
+      options: []
+      required: true

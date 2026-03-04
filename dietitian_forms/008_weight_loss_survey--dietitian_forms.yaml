@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Survey
+    pages:
+    - id: 1
+      name: current_weight
+      label: current_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight_loss_goal
+      label: weight_loss_goal
+      hint: null
+      type: select_one
+      options:
+      - 10-20
+      - 5-10
+      - 20-30
+      - 30-40
+      - 40-50
+      - less than 5
+      - more than 50
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: diet_background
+      label: diet_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physical_activity
+      label: physical_activity
+      hint: null
+      type: select_multiple
+      options:
+      - walking
+      - running
+      - cycling
+      - swimming
+      required: false
+    - id: 7
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: food_intake
+      label: food_intake
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 times a day
+      - 3-4 times a day
+      - 5-6 times a day
+      required: false
+    - id: 10
+      name: weight_loss_method
+      label: weight_loss_method
+      hint: null
+      type: select_one
+      options:
+      - diet
+      - exercise
+      - both
+      - other
+      required: false

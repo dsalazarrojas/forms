@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''General'', ''label'': ''General'', ''hint'': None}'
+      - '{''id'': 2, ''name'': ''Billing'', ''label'': ''Billing'', ''hint'': None}'
+      - '{''id'': 3, ''name'': ''Product'', ''label'': ''Product'', ''hint'': None}'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

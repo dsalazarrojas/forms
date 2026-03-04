@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_service_survey
+    pages:
+    - id: 1
+      name: customer_survey_title
+      label: customer_service_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_survey_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_survey_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_survey_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_survey_interaction_type
+      label: interaction_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_survey_interaction_frequency
+      label: interaction_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Donation Form
+    pages:
+    - id: 1
+      name: donation_intro
+      label: -- Make a Donation --
+      hint: Your generosity makes a difference
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_postal_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_name
+      label: Organization Name (if applicable)
+      hint: For corporate donations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_amount_select
+      label: Donation Amount
+      hint: null
+      type: select_one
+      options:
+      - $10
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - Custom amount
+      required: true
+    - id: 11
+      name: custom_donation_amount
+      label: Custom Amount
+      hint: If other
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: fund_type
+      label: Type of Fund
+      hint: Where should your donation go?
+      type: select_one
+      options:
+      - General fund
+      - Operating expenses
+      - Special projects
+      - Programs
+      - Research
+      - No preference
+      required: false
+    - id: 13
+      name: donation_frequency_type
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Annual
+      required: true
+    - id: 14
+      name: donor_recognition
+      label: How should we recognize you?
+      hint: null
+      type: select_one
+      options:
+      - Public recognition
+      - Anonymous donation
+      - No recognition
+      required: true
+    - id: 15
+      name: tax_deduction_required
+      label: Need tax documentation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: newsletter_subscription
+      label: Subscribe to our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: payment_method_selection
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 18
+      name: donation_submission_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true

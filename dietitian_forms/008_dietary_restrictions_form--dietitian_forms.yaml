@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dietary Restrictions Form
+    pages:
+    - id: 1
+      name: dietary_restrictions_form
+      label: dietary_restrictions_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dietary_restrictions_form_1
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dietary_restrictions_form_2
+      label: medical_device_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_device_2
+      label: medical_device_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: diet_type
+      label: diet_type
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Low-carb
+      required: true
+    - id: 6
+      name: dietary_restrictions_form_3
+      label: other_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions_form_4
+      label: food_allergies
+      hint: null
+      type: select_one
+      options:
+      - Peanut
+      - Tree nut
+      - Shellfish
+      - Fish
+      - Soy
+      - Egg
+      - Dairy
+      - Wheat
+      - Gluten
+      - Sesame
+      required: true
+    - id: 8
+      name: dietary_restrictions_form_5
+      label: food_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Brunch
+      - Breakfast
+      - Dinner
+      required: false
+    - id: 9
+      name: dietary_restrictions_form_6
+      label: food_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Kosher
+      - Halal
+      - Vegetarian
+      - Vegan
+      required: false
+    - id: 10
+      name: dietary_restrictions_form_7
+      label: restrictions_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions_form_8
+      label: medical_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relation
+      label: emergency_contact_relation
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      - Other
+      required: false
+    - id: 17
+      name: emergency_contact_note
+      label: emergency_contact_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: healthcare_provider_phone
+      label: healthcare_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: healthcare_provider_note
+      label: healthcare_provider_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider_relationship
+      label: healthcare_provider_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dietary_restrictions_form_9
+      label: healthcare_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: healthcare_provider_license
+      label: healthcare_provider_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

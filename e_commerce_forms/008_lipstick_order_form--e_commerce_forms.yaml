@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lipstick Order Form
+    pages:
+    - id: 1
+      name: lipstick_order_form
+      label: Lipstick Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: color
+      label: Color
+      hint: Select a color
+      type: select_one
+      options:
+      - red
+      - pink
+      - blue
+      required: false
+    - id: 6
+      name: size
+      label: Size
+      hint: Select sizes
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_shipping
+      label: Confirm Shipping
+      hint: Confirm shipping date and time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: confirm_pickup
+      label: Confirm Pickup
+      hint: Confirm pickup date and time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - credit card
+      - paypal
+      required: false
+    - id: 13
+      name: confirm_payment
+      label: Confirm Payment
+      hint: Confirm payment status
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: discount
+      label: Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false

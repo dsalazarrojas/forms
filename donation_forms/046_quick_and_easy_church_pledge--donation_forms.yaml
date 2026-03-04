@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: quick_and_easy_church_pledge
+    pages:
+    - id: 1
+      name: general_donation
+      label: General Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tithing_commitment
+      label: Tithing Commitment
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      - other (explain)
+      required: false
+    - id: 3
+      name: amount_general_donation
+      label: Amount of General Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amount_tithing_commitment
+      label: Amount of Tithing Commitment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: regular_tithe
+      label: Regular Tithe
+      hint: null
+      type: select_one
+      options:
+      - Yes, monthly
+      - Yes, weekly
+      - Yes, as needed
+      - 'No'
+      required: false
+    - id: 6
+      name: frequency_regular_tithe
+      label: Frequency of Tithe
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - As needed
+      required: false
+    - id: 7
+      name: frequency_of_other_tithe
+      label: Frequency of Other Tithe
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - As needed
+      required: false
+    - id: 8
+      name: other_tithe_comment
+      label: Other Tithe Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: building_fund
+      label: Building Fund
+      hint: null
+      type: select_multiple
+      options:
+      - Building Renovations
+      - New Church Building
+      - Church Planting
+      required: false
+    - id: 10
+      name: other_building_fund
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: offering
+      label: Regular Offering
+      hint: null
+      type: select_one
+      options:
+      - Yes, weekly
+      - Yes, monthly
+      - 'No'
+      required: false

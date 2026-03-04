@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_program_equipment_fund_donation_form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: music_instrument
+      label: music instrument
+      hint: null
+      type: select_one
+      options:
+      - Guitar
+      - Piano
+      - Drums
+      - Violin
+      - Trumpet
+      - Trombone
+      - Cello
+      - Harp
+      required: false
+    - id: 9
+      name: donation_amount
+      label: donation amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: donation_date
+      label: donation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: instrument_request
+      label: instrument request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Answered Yet
+      required: false
+    - id: 12
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: school_address
+      label: school address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: instrument_type
+      label: instrument type
+      hint: null
+      type: select_multiple
+      options:
+      - Musical Instruments
+      - Music Education
+      - Other
+      required: false
+    - id: 18
+      name: music_department
+      label: music department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: instrument_count
+      label: instrument count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: equipment_request
+      label: equipment request
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Drums
+      - Trumpet
+      - Trombone
+      - Violin
+      - Cello
+      - Harp
+      required: false
+    - id: 21
+      name: other_equipment
+      label: other equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: donation_value
+      label: donation value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up
+      label: follow up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Answered Yet
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Answered Yet
+      required: false

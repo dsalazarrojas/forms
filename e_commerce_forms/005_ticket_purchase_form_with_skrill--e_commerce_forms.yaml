@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Purchase Form With Skrill
+    pages:
+    - id: 1
+      name: ticket_purchase_form_with_skrill_1
+      label: ticket_purchase_form_with_skrill_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: ticket_purchase_form_with_skrill_2
+      label: ticket_purchase_form_with_skrill_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_id
+      label: event_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''option_1''}'
+      - '{''value'': 2, ''label'': ''option_2''}'
+      - '{''value'': 3, ''label'': ''option_3''}'
+      required: false
+    - id: 4
+      name: ticket_price
+      label: ticket_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_button
+      label: purchase_button
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: success_message
+      label: success_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: error_message
+      label: error_message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Development Excursion Policy Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_first_name
+      label: Parent First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_last_name
+      label: Parent Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_email
+      label: Parent Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_phone
+      label: Parent Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: policy_reviewed
+      label: Excursion Policy Review Confirmation
+      hint: Have you reviewed the childcare center's excursion policy?
+      type: select_one
+      options:
+      - Yes, I have reviewed the policy
+      - No, I need to review the policy
+      - I need a copy of the policy
+      required: true
+    - id: 10
+      name: understand_excursion_procedures
+      label: Understanding of Excursion Procedures
+      hint: Do you understand the procedures for child excursions?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need clarification
+      required: true
+    - id: 11
+      name: consent_for_local_excursions
+      label: Consent for Local Excursions
+      hint: Do you consent to your child participating in local excursions within
+        the neighborhood?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - I need more information
+      required: true
+    - id: 12
+      name: consent_for_distant_excursions
+      label: Consent for Distant Excursions
+      hint: Do you consent to your child participating in excursions outside the local
+        area?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Case by case basis
+      required: true
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions_during_excursions
+      label: Medical Conditions Relevant to Excursions
+      hint: List any medical conditions staff should be aware of during excursions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mobility_accommodations
+      label: Mobility Accommodations Needed
+      hint: Does your child require any mobility accommodations during excursions?
+      type: select_one
+      options:
+      - No accommodations needed
+      - Stroller required
+      - Wheelchair accessible transport
+      - Frequent rest breaks
+      - Other
+      required: true
+    - id: 17
+      name: transportation_consent
+      label: Transportation Consent
+      hint: Do you consent to your child being transported by approved childcare vehicles?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Only for distant excursions
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any additional comments or concerns regarding excursions
+      type: text
+      options: []
+      required: false

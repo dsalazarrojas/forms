@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reopening On Duty Form
+    pages:
+    - id: 1
+      name: hotel_reopening_on_duty_form
+      label: Hotel Reopening On Duty Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_distancing_precautions
+      label: Social Distancing Precautions
+      hint: List specific precautions such as plexiglass screens, hand sanitizer stations
+        etc.
+      type: select_multiple
+      options:
+      - Hand Sanitizer Stations
+      - Plexiglass Screens
+      - Temperature Check
+      - Social Distancing Signage
+      required: true
+    - id: 3
+      name: safety_precautions
+      label: Safety Precautions
+      hint: List specific precautions such as PPE, cleaning supplies etc.
+      type: select_multiple
+      options:
+      - Personal Protective Equipment (PPE)
+      - Cleaning Supplies
+      - Contactless Delivery
+      - Disinfection Supplies
+      required: true
+    - id: 4
+      name: employee_safety
+      label: Employee Safety Precautions
+      hint: List specific precautions for employees, such as masks, gloves, etc.
+      type: select_multiple
+      options:
+      - Face Masks
+      - Gloves
+      - Hand Sanitizer
+      required: true
+    - id: 5
+      name: guest_safety
+      label: Guest Safety Precautions
+      hint: List specific precautions for guests, such as mask policies etc.
+      type: select_multiple
+      options:
+      - Face Mask Policy
+      - Hand Sanitizer Stations
+      - Temperature Check
+      required: true
+    - id: 6
+      name: cleaning_and_disinfecting
+      label: Cleaning and Disinfecting
+      hint: List specific procedures for cleaning and disinfecting the premises
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_wellness
+      label: Employee Wellness
+      hint: List specific precautions for employees, such as mental health days off
+        etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: List emergency contact information, such as 911 etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reopening_confirmation
+      label: Reopening Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Retail Customer Service Report
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_service_officer
+      label: Customer Service Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_officer_id
+      label: Customer Service Officer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Order Issue''}'
+      - '{''label'': ''Product Return''}'
+      - '{''label'': ''Customer Complaint''}'
+      required: false
+    - id: 12
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Resolved''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Awaiting Response''}'
+      required: false
+    - id: 15
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Successful Resolution''}'
+      - '{''label'': ''Customer Satisfied''}'
+      - '{''label'': ''Improvement''}'
+      required: false
+    - id: 16
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_service_officer_comment
+      label: Customer Service Officer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: incident_video
+      label: Incident Video
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sales_associate
+      label: Sales Associate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sales Associate''}'
+      - '{''label'': ''Customer Support''}'
+      - '{''label'': ''Store Manager''}'
+      - '{''label'': ''Regional Manager''}'
+      required: false

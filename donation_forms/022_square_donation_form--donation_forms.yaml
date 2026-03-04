@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: donation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''one_time''}'
+      - '{''id'': 2, ''label'': ''recurring''}'
+      required: false
+    - id: 4
+      name: frequency_duration
+      label: frequency_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: donor_name
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_amount_currency
+      label: donation_amount_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: donor_address
+      label: donor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: donation_frequency_type
+      label: donation_frequency_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''weekly''}'
+      - '{''id'': 2, ''label'': ''monthly''}'
+      - '{''id'': 3, ''label'': ''annually''}'
+      required: false
+    - id: 13
+      name: donation_frequency_start_date
+      label: donation_frequency_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: donation_frequency_end_date
+      label: donation_frequency_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: donation_frequency_end_reason
+      label: donation_frequency_end_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: donor_phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: frequency_donation_amount
+      label: frequency_donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: frequency_donation_currency
+      label: frequency_donation_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: true
+    - id: 20
+      name: frequency_donation_note
+      label: frequency_donation_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: frequency_donation_frequency_type
+      label: frequency_donation_frequency_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''weekly''}'
+      - '{''id'': 2, ''label'': ''monthly''}'
+      - '{''id'': 3, ''label'': ''annually''}'
+      required: false
+    - id: 22
+      name: frequency_donation_end_date
+      label: frequency_donation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: frequency_donation_end_reason
+      label: frequency_donation_end_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: frequency_donation_end_comment
+      label: frequency_donation_end_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: frequency_donation_total_donated
+      label: frequency_donation_total_donated
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Scanning Subscription Cancellation Form
+    pages:
+    - id: 1
+      name: cancel_subscription
+      label: cancel_subscription
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: confirm_cancellation
+      label: confirm_cancellation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: cancellation_date
+      label: cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false

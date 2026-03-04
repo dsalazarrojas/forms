@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Shipping Eligibility Request Form
+    pages:
+    - id: 1
+      name: free_shipping_eligibility_request_form
+      label: free_shipping_eligibility_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shipping_type
+      label: shipping_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_speed
+      label: shipping_speed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shipping_weight
+      label: shipping_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipping_status
+      label: shipping_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,201 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baby Names Survey
+    pages:
+      - id: 1
+        name: parent_name_1
+        label: Parent or Guardian One Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: parent_name_2
+        label: Parent or Guardian Two Name
+        hint: Full name or leave blank if not applicable
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For sending survey results
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: baby_gender
+        label: Baby Gender
+        hint: Do you know the gender
+        type: select_one
+        options:
+          - Boy
+          - Girl
+          - Twins or Multiples
+          - Keeping it a surprise
+        required: true
+      - id: 5
+        name: due_date
+        label: Due Date or Birth Date
+        hint: Expected or actual birth date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: last_name
+        label: Baby Last Name
+        hint: Will baby have your last name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: name_style_preference
+        label: Name Style Preference
+        hint: What style of names do you prefer
+        type: select_one
+        options:
+          - Traditional
+          - Modern
+          - Unique or Uncommon
+          - Classic
+          - Nature-inspired
+          - International
+          - No preference
+        required: true
+      - id: 8
+        name: name_origin_preference
+        label: Name Origin Preference
+        hint: Select preferred cultural origins
+        type: select_multiple
+        options:
+          - English
+          - Spanish
+          - French
+          - Italian
+          - Irish
+          - Scottish
+          - Hebrew
+          - Greek
+          - Latin
+          - German
+          - Scandinavian
+          - Asian
+          - African
+          - Any origin
+        required: true
+      - id: 9
+        name: name_length_preference
+        label: Name Length Preference
+        hint: How long should the name be
+        type: select_one
+        options:
+          - Short, 1 to 2 syllables
+          - Medium, 3 to 4 syllables
+          - Long, 5 plus syllables
+          - No preference
+        required: true
+      - id: 10
+        name: middle_name_plan
+        label: Middle Name Plan
+        hint: Will you give a middle name
+        type: select_one
+        options:
+          - Yes, one middle name
+          - Yes, two middle names
+          - No middle name
+          - Undecided
+        required: true
+      - id: 11
+        name: family_naming_tradition
+        label: Family Naming Tradition
+        hint: Any family names to honor
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: boy_name_options
+        label: Boy Name Options
+        hint: List boy names you are considering
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: girl_name_options
+        label: Girl Name Options
+        hint: List girl names you are considering
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: favorite_boy_name
+        label: Favorite Boy Name
+        hint: Your top choice for a boy
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: favorite_girl_name
+        label: Favorite Girl Name
+        hint: Your top choice for a girl
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: name_meaning_importance
+        label: Name Meaning Importance
+        hint: How important is the meaning of the name
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Not important
+        required: true
+      - id: 17
+        name: nickname_preference
+        label: Nickname Preference
+        hint: Do you mind if name gets shortened
+        type: select_one
+        options:
+          - Prefer names with nickname options
+          - Dislike nicknames
+          - Do not care
+        required: true
+      - id: 18
+        name: sibling_name_matching
+        label: Sibling Name Matching
+        hint: Should name match siblings
+        type: select_one
+        options:
+          - Yes, should match style
+          - No, each name is unique
+          - Not applicable
+        required: false
+      - id: 19
+        name: name_pronunciation
+        label: Pronunciation Concerns
+        hint: Do you want easy to pronounce name
+        type: select_one
+        options:
+          - Yes, must be easy to pronounce
+          - Somewhat important
+          - Not important, unique is fine
+        required: true
+      - id: 20
+        name: additional_preferences
+        label: Additional Preferences or Notes
+        hint: Any other thoughts on baby names
+        type: text
+        options: []
+        required: false

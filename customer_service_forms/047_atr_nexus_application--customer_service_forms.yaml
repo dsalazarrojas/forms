@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: ATR Nexus Application
+    pages:
+    - id: 1
+      name: applicant_information_section
+      label: Applicant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Current email for account notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: residential_address
+      label: Residential Address
+      hint: Current home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: City, state, and postal code of your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      required: true
+    - id: 9
+      name: employer_name
+      label: Employer Name
+      hint: Name of your current employer (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: position_title
+      label: Position Title
+      hint: Your job title or role
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: annual_income
+      label: Annual Income Range
+      hint: Select your approximate annual income range
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000-$50,000
+      - $50,000-$75,000
+      - $75,000-$100,000
+      - $100,000-$150,000
+      - Over $150,000
+      required: false
+    - id: 12
+      name: purpose_of_application
+      label: Purpose of Application
+      hint: Why are you applying for ATR Nexus?
+      type: select_one
+      options:
+      - Personal Use
+      - Business Use
+      - Travel Convenience
+      - Frequent Traveler Program
+      - Other
+      required: true
+    - id: 13
+      name: previous_application
+      label: Previous Application History
+      hint: Have you applied for similar services before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: criminal_history
+      label: Criminal History Declaration
+      hint: Do you have any criminal convictions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: travel_frequency
+      label: International Travel Frequency
+      hint: How often do you travel internationally?
+      type: select_one
+      options:
+      - Rarely
+      - Once a year
+      - Several times a year
+      - Monthly
+      - Weekly
+      required: false
+    - id: 16
+      name: countries_visited
+      label: Countries Visited in Last 5 Years
+      hint: List countries you have visited in the past 5 years
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_information
+      label: Additional Information
+      hint: Any other information relevant to your application
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: Do you agree to the terms and conditions of ATR Nexus?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Confirmation Email Issue Report Form
+    pages:
+    - id: 1
+      name: order_confirmation_email_issue_report_form_order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: order_confirmation_email_issue_report_form_customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_confirmation_email_issue_report_form_order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Open
+      - On hold
+      - Closed
+      - Cancelled
+      - Awaiting customer
+      - Issued
+      - Failed
+      required: false
+    - id: 4
+      name: order_confirmation_email_issue_report_form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: order_confirmation_email_issue_report_form_support_agent
+      label: Support Agent
+      hint: null
+      type: text
+      options: []
+      required: false

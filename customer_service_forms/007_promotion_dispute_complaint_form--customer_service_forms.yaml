@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotion_dispute_complaint_form
+    pages:
+    - id: 1
+      name: customer_dispute
+      label: customer_dispute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: promotion_details
+      label: promotion_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint
+      label: complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_info
+      label: business_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_details
+      label: review_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: dispute_status
+      label: dispute_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open'', ''value'': ''Open''}'
+      - '{''label'': ''Resolved'', ''value'': ''Resolved''}'
+      - '{''label'': ''Closed'', ''value'': ''Closed''}'
+      required: false
+    - id: 9
+      name: resolution_outcome
+      label: resolution_outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''label'': ''Denied'', ''value'': ''denied''}'
+      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

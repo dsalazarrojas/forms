@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Declaration Form
+    pages:
+    - id: 1
+      name: patient_declaration_form
+      label: Patient Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history_other
+      label: other_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_treatment
+      label: consent_to_treatment
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: patient_declaration_form_notes
+      label: patient_declaration_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_declaration_form_signature
+      label: patient_declaration_form_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_declaration_form_dated
+      label: patient_declaration_form_dated
+      hint: null
+      type: date
+      options: []
+      required: false

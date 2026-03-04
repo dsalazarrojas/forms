@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Request Form
+    pages:
+    - id: 1
+      name: sample_request_form
+      label: sample_request_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ecommerce_form_type
+      label: form_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Product''}'
+      - '{''id'': 2, ''label'': ''Service''}'
+      required: false
+    - id: 3
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: example_request
+      label: example_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

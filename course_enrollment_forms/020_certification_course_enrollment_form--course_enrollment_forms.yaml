@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Course Enrollment Form
+    pages:
+    - id: 1
+      name: enrollment_date
+      label: Enrollment Date
+      hint: Date of enrollment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: Email for course communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Student date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: certification_program
+      label: Certification Program
+      hint: Which certification program are you enrolling in
+      type: select_one
+      options:
+      - Project Management Professional
+      - Certified Public Accountant
+      - Human Resources Certification
+      - IT Security Certification
+      - Teaching Certification
+      - Healthcare Certification
+      - Other
+      required: true
+    - id: 8
+      name: course_level
+      label: Course Level
+      hint: Level of certification course
+      type: select_one
+      options:
+      - Foundation level
+      - Intermediate level
+      - Advanced level
+      - Expert level
+      required: true
+    - id: 9
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: learning_format
+      label: Learning Format
+      hint: Preferred method of instruction
+      type: select_one
+      options:
+      - Online self-paced
+      - Online instructor-led
+      - In-person classroom
+      - Hybrid blended
+      required: true
+    - id: 11
+      name: prior_experience
+      label: Prior Experience
+      hint: Do you have prior experience in this field
+      type: select_one
+      options:
+      - No prior experience
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      required: true
+    - id: 12
+      name: education_background
+      label: Educational Background
+      hint: Highest level of education completed
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Graduate degree
+      required: true
+    - id: 13
+      name: employer_name
+      label: Employer Name
+      hint: Current employer if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employer_sponsored
+      label: Employer Sponsored
+      hint: Is your employer sponsoring this enrollment
+      type: select_one
+      options:
+      - Yes - Fully sponsored
+      - Yes - Partially sponsored
+      - No - Self-funded
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the course
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Employer invoice
+      - Payment plan
+      - Financial aid
+      required: true
+    - id: 16
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any accommodations
+      type: select_one
+      options:
+      - No accommodations needed
+      - Extended test time
+      - Accessible seating
+      - Sign language interpreter
+      - Other
+      required: true
+    - id: 17
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Please specify your accommodation needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of program awareness
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Employer referral
+      - Friend or colleague
+      - Advertisement
+      - Previous student
+      - Other
+      required: false
+    - id: 19
+      name: career_goals
+      label: Career Goals
+      hint: How will this certification help your career
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: I have read and agree to the enrollment terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 21
+      name: refund_policy
+      label: Refund Policy Acknowledgment
+      hint: I understand the refund policy
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I do not understand
+      required: true
+    - id: 22
+      name: student_signature
+      label: Student Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of enrollment
+      type: date
+      options: []
+      required: true

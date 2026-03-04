@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Videographer Training Course Selection
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: training_interest
+      label: Training Interest
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Interest 1'', ''label'': ''Interest 1''}'
+      - '{''value'': ''Interest 2'', ''label'': ''Interest 2''}'
+      - '{''value'': ''Interest 3'', ''label'': ''Interest 3''}'
+      required: true
+    - id: 4
+      name: training_availability
+      label: Training Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: training_dates
+      label: Training Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: training_price
+      label: Training Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_id
+      label: Course ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_id
+      label: Workshop ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: studio_id
+      label: Studio ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_id
+      label: School ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: organizer_id
+      label: Organizer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: organizer_name
+      label: Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 22
+      name: course_type
+      label: Course Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 23
+      name: course_category
+      label: Course Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 24
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 25
+      name: course_language
+      label: Course Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 26
+      name: course_hours
+      label: Course Hours
+      hint: null
+      type: number
+      options: []
+      required: false

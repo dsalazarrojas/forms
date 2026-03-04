@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: resort_complaint_form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Food''}'
+      - '{''id'': 2, ''value'': ''Room''}'
+      - '{''id'': 3, ''value'': ''Service''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stay_date
+      label: Stay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Lesson Quote Request
+    pages:
+    - id: 1
+      name: dance_lesson_quote_request_1
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dance_lesson_quote_request_2
+      label: Lesson Type
+      hint: Select one or more lesson types
+      type: select_multiple
+      options:
+      - Ballet
+      - Jazz
+      - Tap
+      - Hip Hop
+      - Pilates
+      - Ballroom
+      - Tap/Jazz
+      - Jazz/Hip Hop
+      required: true
+    - id: 3
+      name: dance_lesson_quote_request_3
+      label: Lesson Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: dance_lesson_quote_request_4
+      label: Lesson Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dance_lesson_quote_request_5
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: dance_lesson_quote_request_6
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: dance_lesson_quote_request_7
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dance_lesson_quote_request_8
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: dance_lesson_quote_request_9
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dance_lesson_quote_request_10
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: dance_lesson_quote_request_11
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true

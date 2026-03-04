@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Endowment Donation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: University Endowment Donation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Donor'', ''label'': ''Individual Donor''}'
+      - '{''value'': ''Organization'', ''label'': ''Organization''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Once'', ''label'': ''One Time''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''Quarterly'', ''label'': ''Quarterly''}'
+      - '{''value'': ''Yearly'', ''label'': ''Yearly''}'
+      required: true
+    - id: 7
+      name: additional_donations
+      label: Additional Donations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
+      - '{''value'': ''Credit Card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''Check'', ''label'': ''Check''}'
+      required: true
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

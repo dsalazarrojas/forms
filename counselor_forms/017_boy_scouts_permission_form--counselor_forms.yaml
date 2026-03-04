@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boy Scouts Permission Form
+    pages:
+    - id: 1
+      name: section_header_youth
+      label: -- Youth Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: youth_name
+      label: Youth Full Name
+      hint: Scout name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: youth_date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: scout_rank
+      label: Scout Rank
+      hint: Current rank
+      type: select_one
+      options:
+      - Lion Scout
+      - Tiger Scout
+      - Cub Scout
+      - Boy Scout
+      - Venturing Scout
+      - Senior Scout
+      - Explorer
+      - Other
+      required: true
+    - id: 5
+      name: troop_number
+      label: Troop Number
+      hint: Scout troop identification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_parent
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: Parent Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Parent Phone Number
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_event
+      label: -- Event or Activity Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: activity_name
+      label: Activity or Event Name
+      hint: Scout outing or activity
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: activity_description
+      label: Activity Description
+      hint: What the activity entails
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: activity_dates
+      label: Activity Dates
+      hint: When activity takes place
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: activity_location
+      label: Activity Location
+      hint: Where activity will occur
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_health
+      label: -- Health and Safety Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Known Allergies
+      hint: Food, medication, environmental
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Asthma, diabetes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Current Medications
+      hint: List medications youth takes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: If parent unavailable
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: permission_grant
+      label: I grant permission for youth participation
+      hint: Check to authorize activity
+      type: select_one
+      options:
+      - I grant permission
+      - I do not grant permission
+      required: true

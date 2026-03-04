@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Academy Enrollment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Please use a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: class_level
+      label: Class Level
+      hint: Select a class level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 6
+      name: class_frequency
+      label: Class Frequency
+      hint: Select all applicable classes
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: class_interest
+      label: Class Interest
+      hint: Select a class interest
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: student_parent_consent
+      label: Parent/Guardian Consent
+      hint: Parent/Guardian consent is required
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_diet_restrictions
+      label: Student's dietary restrictions
+      hint: Select any dietary restrictions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: student_medical_info
+      label: Student's Medical Info
+      hint: Select any medical information
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: student_allergies
+      label: Student's Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: teacher_name
+      label: Teacher's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: teacher_email
+      label: Teacher's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: teacher_phone
+      label: Teacher's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: class_start_date
+      label: Class Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: teacher_experience
+      label: Teacher Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: teacher_degree
+      label: Teacher's Degree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: teacher_certifications
+      label: Teacher Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: class_end_date
+      label: Class End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true

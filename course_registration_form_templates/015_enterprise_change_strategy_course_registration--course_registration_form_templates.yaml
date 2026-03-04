@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enterprise Change Strategy Course Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_agreements
+      label: Policy Agreements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_selection
+      label: Select Course
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Course 1'', ''value'': 1}'
+      - '{''label'': ''Course 2'', ''value'': 2}'
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: Participant E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: session_email
+      label: Session E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ceramics Course Feedback Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Completion Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: student_email
+        label: Email Address
+        hint: Email for follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: course_name
+        label: Course Name
+        hint: Which course are you evaluating
+        type: select_one
+        options:
+          - Introduction to Ceramics
+          - Wheel Throwing Level 1
+          - Wheel Throwing Level 2
+          - Hand Building Techniques
+          - Advanced Ceramics
+          - Glazing and Surface Design
+          - Sculptural Ceramics
+          - Private Lessons
+        required: true
+      - id: 5
+        name: course_dates
+        label: Course Dates
+        hint: When did you take this course
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: instructor_name
+        label: Instructor Name
+        hint: Name of your course instructor
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied were you with the course
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: instructor_rating
+        label: Instructor Rating
+        hint: Rate your instructor
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: instructor_knowledge
+        label: Instructor Knowledge
+        hint: The instructor demonstrated strong technical knowledge
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 10
+        name: instructor_support
+        label: Instructor Support
+        hint: The instructor provided adequate individual attention
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 11
+        name: course_materials
+        label: Course Materials Quality
+        hint: Rate the quality of materials provided
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: facility_rating
+        label: Studio Facility Rating
+        hint: Rate the studio facilities and equipment
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: skill_improvement
+        label: Skill Improvement
+        hint: How much did your ceramics skills improve
+        type: select_one
+        options:
+          - Significantly improved
+          - Moderately improved
+          - Slightly improved
+          - No improvement
+          - Skills decreased
+        required: true
+      - id: 14
+        name: course_pace
+        label: Course Pace
+        hint: How was the pacing of the course
+        type: select_one
+        options:
+          - Too slow
+          - Just right
+          - Too fast
+        required: true
+      - id: 15
+        name: course_difficulty
+        label: Course Difficulty
+        hint: How would you rate the difficulty level
+        type: select_one
+        options:
+          - Too easy
+          - Appropriate
+          - Too difficult
+        required: true
+      - id: 16
+        name: value_for_money
+        label: Value for Money
+        hint: Was the course worth the cost
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 17
+        name: recommend_to_others
+        label: Recommend to Others
+        hint: Would you recommend this course to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 18
+        name: enroll_again
+        label: Enroll in Another Course
+        hint: Would you take another course with us
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 19
+        name: best_aspect
+        label: Best Aspect of the Course
+        hint: What did you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you would like to share
+        type: text
+        options: []
+        required: false

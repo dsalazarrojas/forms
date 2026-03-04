@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hiphop Dance Registration Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: crew_members
+      label: Crew Members
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      - Member 4
+      - Member 5
+      - Member 6
+      - Member 7
+      - Member 8
+      - Member 9
+      - Member 10
+      required: true
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

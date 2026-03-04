@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Discharge Form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: Date of hospital discharge
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID/Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hospital_name
+      label: Hospital/Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: admission_date
+      label: Admission Date
+      hint: Date patient was admitted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: icu_admission
+      label: Was Patient Admitted to ICU?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: icu_duration
+      label: Number of Days in ICU
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mechanical_ventilation
+      label: Mechanical Ventilation Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: ventilation_duration
+      label: Duration of Mechanical Ventilation
+      hint: Number of days
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: discharge_disposition
+      label: Discharge Disposition
+      hint: Where is the patient being discharged to?
+      type: select_one
+      options:
+      - Home
+      - Skilled Nursing Facility
+      - Long-term Acute Care Hospital
+      - Rehabilitation Center
+      - Hospice
+      - Other facility
+      required: true
+    - id: 12
+      name: isolation_clearance
+      label: Patient Cleared to Discontinue Isolation
+      hint: Can the patient end isolation precautions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - With Precautions
+      required: true
+    - id: 13
+      name: isolation_instructions
+      label: Isolation Instructions
+      hint: Describe any recommended isolation measures
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: discharge_instructions_given
+      label: Discharge Instructions Provided
+      hint: Did patient/caregiver receive written instructions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Verbal only
+      required: true
+    - id: 15
+      name: medications_prescribed
+      label: Medications Prescribed at Discharge
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_equipment_needed
+      label: Medical Equipment Needed at Home
+      hint: Oxygen, nebulizer, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_care_scheduled
+      label: Follow-up Care Appointment Scheduled
+      hint: Is there a scheduled follow-up?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Patient will schedule
+      required: true
+    - id: 18
+      name: follow_up_provider
+      label: Follow-up Provider Name
+      hint: Physician or healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Recommended Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: home_health_referral
+      label: Home Health Referral Provided
+      hint: Is home health care being arranged?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Patient declined
+      required: false
+    - id: 21
+      name: home_health_agency
+      label: Home Health Agency Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: warning_signs
+      label: Warning Signs to Seek Emergency Care
+      hint: When patient should return to hospital
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: physical_restrictions
+      label: Physical Activity Restrictions
+      hint: Describe any limitations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: caregiver_support
+      label: Caregiver Support Arranged
+      hint: Does patient have support at home?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In progress
+      required: false
+    - id: 25
+      name: mental_health_referral
+      label: Mental Health or Counseling Referral
+      hint: COVID-19 recovery support offered?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Patient declined
+      required: false
+    - id: 26
+      name: discharging_physician
+      label: Discharging Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true

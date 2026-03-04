@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Donation Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_type
+      label: Donation type
+      hint: null
+      type: select_one
+      options:
+      - Hotel stay
+      - Monetary
+      - Goods
+      required: false
+    - id: 6
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_description
+      label: Event description
+      hint: Enter a description of the event
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer
+      label: Event organizer
+      hint: Enter the name of the event organizer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_organizer_email
+      label: Event organizer email
+      hint: Enter the email of the event organizer
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: event_organizer_phone
+      label: Event organizer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organizer_address
+      label: Event organizer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donation_amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: donation_frequency
+      label: Donation frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple times
+      - Ongoing
+      required: false
+    - id: 16
+      name: donor_notes
+      label: Donor notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

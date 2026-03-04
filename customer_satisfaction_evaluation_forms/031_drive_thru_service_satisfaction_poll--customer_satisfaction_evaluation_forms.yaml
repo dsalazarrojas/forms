@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: DriveThruServiceSatisfactionPoll
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speed
+      label: How would you rate our service speed?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very fast''}'
+      - '{''label'': ''Fast''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Slow''}'
+      - '{''label'': ''Very slow''}'
+      required: false
+    - id: 3
+      name: accuracy
+      label: How accurate were our orders?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very accurate''}'
+      - '{''label'': ''Mostly accurate''}'
+      - '{''label'': ''Somewhat accurate''}'
+      - '{''label'': ''Not very accurate''}'
+      - '{''label'': ''Not at all accurate''}'
+      required: false
+    - id: 4
+      name: staff_experience
+      label: How would you rate our staff's service?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: cleanliness
+      label: Cleanliness of the store
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very clean''}'
+      - '{''label'': ''Mostly clean''}'
+      - '{''label'': ''Somewhat clean''}'
+      - '{''label'': ''Not very clean''}'
+      - '{''label'': ''Not at all clean''}'
+      required: false
+    - id: 6
+      name: order
+      label: How would you rate your satisfaction with your order?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Any comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: employee
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false

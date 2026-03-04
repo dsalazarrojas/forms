@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beekeeping Hive Declaration Form
+    pages:
+    - id: 1
+      name: section_beekeeper_info
+      label: -- Beekeeper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: beekeeper_full_name
+      label: Beekeeper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_number
+      label: Beekeeper Registration Number
+      hint: As issued by the Department of Agriculture
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_apiary_location
+      label: -- Apiary Location and Hive Count --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: apiary_site_address
+      label: Apiary Site Physical Address or GPS Coordinates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: number_of_active_hives
+      label: Number of Active Hives
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: hive_type
+      label: Primary Hive Type
+      hint: null
+      type: select_one
+      options:
+      - Langstroth
+      - Top Bar
+      - Warre
+      - Flow Hive
+      - Other
+      required: true
+    - id: 10
+      name: property_owner_consent
+      label: Do you own the property where hives are located?
+      hint: If no, ensure you have owner consent
+      type: select_one
+      options:
+      - true
+      - No - Consent obtained
+      required: true
+    - id: 11
+      name: section_health_reporting
+      label: -- Hive Health and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: disease_observed
+      label: Have you observed any of these diseases in the last 6 months?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - American Foulbrood (AFB)
+      - European Foulbrood (EFB)
+      - Varroa Mite Infestation
+      - Nosema
+      - Chalkbrood
+      - None Observed
+      required: true
+    - id: 13
+      name: treatment_history_summary
+      label: Summary of Recent Treatments
+      hint: e.g. Mite treatments, feeding, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: swarm_activity_noted
+      label: Significant swarm activity noted this season?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: section_certification
+      label: -- Certification and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: declaration_agreement
+      label: I certify that this hive declaration is accurate to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 17
+      name: declaration_date
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true

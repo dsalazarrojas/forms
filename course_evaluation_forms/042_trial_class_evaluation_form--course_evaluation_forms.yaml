@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trial Class Evaluation Form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: instructor_knowledge
+      label: Instructor Knowledge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Educational Institution''}'
+      - '{''label'': ''Training Center''}'
+      - '{''label'': ''Fitness Studio''}'
+      required: true
+    - id: 4
+      name: trial_class_structure
+      label: Trial Class Structure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

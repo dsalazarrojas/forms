@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boy Scouts Rank Advancement Form
+    pages:
+    - id: 1
+      name: scout_first_name
+      label: Scout First Name
+      hint: Scout first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: scout_last_name
+      label: Scout Last Name
+      hint: Scout last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: troop_number
+      label: Troop Number
+      hint: Your troop number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scout_rank_current
+      label: Current Rank
+      hint: Current rank held
+      type: select_one
+      options:
+      - Scout
+      - Tenderfoot
+      - Second Class
+      - First Class
+      - Star
+      - Life
+      - Eagle
+      required: true
+    - id: 5
+      name: rank_advancing_to
+      label: Rank Advancing To
+      hint: Rank being earned
+      type: select_one
+      options:
+      - Scout
+      - Tenderfoot
+      - Second Class
+      - First Class
+      - Star
+      - Life
+      - Eagle
+      required: true
+    - id: 6
+      name: scoutmaster_conference_date
+      label: Scoutmaster Conference Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: scoutmaster_name
+      label: Scoutmaster Name
+      hint: Name of scoutmaster
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: board_of_review_date
+      label: Board of Review Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: board_of_review_members
+      label: Board of Review Members
+      hint: Names of board members
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: time_in_rank
+      label: Time in Current Rank
+      hint: How long in current rank
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 11
+      name: merit_badges_earned
+      label: Merit Badges Earned
+      hint: Number earned for this rank
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: merit_badge_list
+      label: Merit Badge List
+      hint: List badges earned
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_hours
+      label: Service Hours Completed
+      hint: Number of hours
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: service_project_description
+      label: Service Project Description
+      hint: Describe project
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: leadership_position
+      label: Leadership Position
+      hint: Position held if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: leadership_duration
+      label: Leadership Duration
+      hint: How long in position
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: outdoor_participation
+      label: Outdoor Participation
+      hint: Number of outings
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: camping_nights
+      label: Camping Nights
+      hint: Total nights camping
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: physical_fitness
+      label: Physical Fitness
+      hint: Fitness goals met
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: citizenship_requirements
+      label: Citizenship Requirements
+      hint: Completed citizenship requirements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: personal_management
+      label: Personal Management
+      hint: Personal management requirements met
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: communications_requirements
+      label: Communications Requirements
+      hint: Communications requirements met
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other requirements completed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: unit_leader_approval
+      label: Unit Leader Approval
+      hint: Unit leader name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: unit_leader_signature
+      label: Unit Leader Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: committee_chair_name
+      label: Committee Chair Name
+      hint: Name of committee chair
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: committee_chair_signature
+      label: Committee Chair Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: scout_signature
+      label: Scout Signature
+      hint: Scout signs form
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Parent or guardian signs
+      type: text
+      options: []
+      required: true

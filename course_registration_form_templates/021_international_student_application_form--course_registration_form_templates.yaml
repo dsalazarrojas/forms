@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Student Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: passport_details
+      label: Passport Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_data
+      label: Contact Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: degree
+      label: Degree
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: selected_course
+      label: Select Course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: further_comments
+      label: Further Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true

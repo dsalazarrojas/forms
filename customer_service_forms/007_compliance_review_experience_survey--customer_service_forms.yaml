@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Review Experience Survey
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Survey Introduction --
+        hint: Help us improve our review process by answering the following
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional for anonymous responses
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: service_date
+        label: Service date
+        hint: Date of the review interaction
+        type: date
+        options: []
+        required: false
+      - id: 4
+        name: clarity_of_information
+        label: Clarity of information provided
+        hint: How clear were the review findings
+        type: select_one
+        options: [Very clear, Somewhat clear, Not clear]
+        required: true
+      - id: 5
+        name: professionalism
+        label: Professionalism of staff
+        hint: Rate staff professionalism
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 6
+        name: timeliness
+        label: Timeliness of the review
+        hint: How timely was the review process
+        type: select_one
+        options: [Very timely, Adequate, Delayed]
+        required: true
+      - id: 7
+        name: communication_quality
+        label: Communication quality
+        hint: Were communications helpful and clear
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 8
+        name: overall_satisfaction
+        label: Overall satisfaction
+        hint: Overall satisfaction rating
+        type: select_one
+        options: [5, 4, 3, 2, 1]
+        required: true
+      - id: 9
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Provide any recommended improvements
+        type: text
+        options: []
+        required: false

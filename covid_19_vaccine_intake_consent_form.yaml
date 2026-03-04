@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid-19-vaccine-intake-consent-form
+    pages:
+    - id: 1
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: patient-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: immunized_info
+      label: immunized-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vaccine_info
+      label: vaccine-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consent_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_dose
+      label: vaccine-dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_type
+      label: vaccine-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pfizer'', ''value'': ''pfizer''}'
+      - '{''label'': ''Moderna'', ''value'': ''moderna''}'
+      required: true
+    - id: 9
+      name: vaccine_manufacturer
+      label: vaccine-manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: side_effects
+      label: side-effects
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: medical-conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High Blood Pressure'', ''value'': ''high-blood-pressure''}'
+      - '{''label'': ''Diabetes'', ''value'': ''diabetes''}'
+      - '{''label'': ''Asthma'', ''value'': ''asthma''}'
+      required: false
+    - id: 12
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_conditions_other
+      label: other-medical-conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: emergency-contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact2
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact3
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

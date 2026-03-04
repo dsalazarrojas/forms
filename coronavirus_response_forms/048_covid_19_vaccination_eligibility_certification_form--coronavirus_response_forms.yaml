@@ -1,0 +1,312 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Eligibility Certification Form
+    pages:
+    - id: 1
+      name: certification_date
+      label: Certification Date
+      hint: Date of certification
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: age_category
+      label: What is your age category
+      hint: Age range
+      type: select_one
+      options:
+      - Under 5 years
+      - 5-11 years
+      - 12-17 years
+      - 18-24 years
+      - 25-34 years
+      - 35-44 years
+      - 45-54 years
+      - 55-64 years
+      - 65-74 years
+      - 75 years or older
+      required: true
+    - id: 13
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: healthcare_worker_details
+      label: Describe your healthcare role
+      hint: Job details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: essential_worker_type
+      label: What type of essential work do you do
+      hint: Work type
+      type: select_one
+      options:
+      - First responder
+      - Teacher or school staff
+      - Grocery store worker
+      - Food service worker
+      - Public transit worker
+      - Postal worker
+      - Manufacturing worker
+      - Agriculture worker
+      - Childcare provider
+      - Other
+      required: false
+    - id: 17
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Cancer
+      - Chronic kidney disease
+      - COPD
+      - Heart conditions
+      - Obesity
+      - Diabetes type 2
+      - Immunocompromised state
+      - Sickle cell disease
+      - Smoking history
+      - Pregnancy
+      required: true
+    - id: 18
+      name: condition_details
+      label: Please specify your medical conditions
+      hint: Condition details
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: long_term_care_resident
+      label: Do you live in a long-term care facility
+      hint: LTC residence
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: correctional_facility_resident
+      label: Do you live in a correctional facility
+      hint: Facility residence
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: homeless_status
+      label: Are you currently experiencing homelessness
+      hint: Housing status
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: disability_status
+      label: Do you have a disability
+      hint: Disability status
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 23
+      name: household_high_risk
+      label: Do you live with someone who is high-risk
+      hint: Household risk
+      type: select_one
+      options:
+      - true
+      - false
+      - I live alone
+      required: true
+    - id: 24
+      name: pregnancy_status
+      label: Are you currently pregnant
+      hint: Pregnancy status
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 25
+      name: previous_covid_infection
+      label: Have you previously tested positive for COVID-19
+      hint: Infection history
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 26
+      name: previous_infection_date
+      label: When did you test positive
+      hint: Approximate date
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: current_vaccination_status
+      label: What is your current COVID-19 vaccination status
+      hint: Vaccine status
+      type: select_one
+      options:
+      - Not vaccinated
+      - First dose received
+      - Fully vaccinated
+      - Booster received
+      required: true
+    - id: 28
+      name: eligibility_category
+      label: Based on your responses you may be eligible under which category
+      hint: Eligibility category
+      type: select_one
+      options:
+      - Age-based eligibility
+      - Healthcare worker
+      - Essential worker
+      - Medical condition
+      - Long-term care resident
+      - Other congregate setting
+      - Not sure
+      required: true
+    - id: 29
+      name: supporting_documentation
+      label: Do you have supporting documentation
+      hint: Proof of eligibility
+      type: select_one
+      options:
+      - Yes I will provide
+      - No but can obtain
+      - No documentation available
+      required: true
+    - id: 30
+      name: documentation_type
+      label: What documentation can you provide
+      hint: Document type
+      type: select_multiple
+      options:
+      - Government ID
+      - Employee ID
+      - Pay stub
+      - Letter from employer
+      - Medical records
+      - Insurance card
+      - Utility bill
+      - None available
+      required: false
+    - id: 31
+      name: certification_statement
+      label: I certify that the information provided is true and accurate to the best
+        of my knowledge
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I certify
+      - No I cannot certify
+      required: true
+    - id: 32
+      name: applicant_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

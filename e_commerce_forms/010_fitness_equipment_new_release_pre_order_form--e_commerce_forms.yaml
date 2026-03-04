@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Equipment New Release Pre Order Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first name
+      hint: First name of the customer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last name
+      hint: Last name of the customer
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Email address of the customer
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Phone number of the customer
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of the order
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: Time of the order
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: Shipping address of the customer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Payment method of the customer
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - PayPal
+      - Stripe
+      required: false
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: More payment details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: Delivery preferences of the customer
+      type: select_one
+      options:
+      - Home delivery
+      - Store pickup
+      - In-store pickup
+      required: false
+    - id: 12
+      name: retailer_details
+      label: Retailer Details
+      hint: Details about the retailer
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: store_name
+      label: Store Name
+      hint: Store name of the retailer
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: store_address
+      label: Store Address
+      hint: Store address of the retailer
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gym_name
+      label: Gym Name
+      hint: Gym name of the retailer
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: gym_address
+      label: Gym Address
+      hint: Gym address of the retailer
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: store_type
+      label: Store Type
+      hint: Type of store
+      type: select_one
+      options:
+      - Online store
+      - Offline store
+      - Both
+      required: false
+    - id: 18
+      name: retailer_type
+      label: Retailer Type
+      hint: Type of retailer
+      type: select_one
+      options:
+      - Gym
+      - Retailer
+      - Online store
+      required: false
+    - id: 19
+      name: quantity
+      label: Quantity
+      hint: Quantity of the product
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: price
+      label: Price
+      hint: Price of the product
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_price
+      label: Total Price
+      hint: Total price of the order
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: product_description
+      label: Product Description
+      hint: Description of the product
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: retailer_comment
+      label: Retailer Comment
+      hint: Comments from the retailer
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_comment
+      label: Customer Comment
+      hint: Comments from the customer
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

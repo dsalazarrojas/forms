@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Donation Giving Form
+    pages:
+    - id: 1
+      name: donor_full_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: header_gift_info
+      label: -- My Gift --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: gift_amount
+      label: Gift Amount
+      hint: Enter numeric amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fund_selection
+      label: Designate My Gift To
+      hint: null
+      type: select_one
+      options:
+      - General Operating Fund
+      - Missions
+      - Building Renewal
+      - Music and Worship
+      - Childrens Ministry
+      required: true
+    - id: 6
+      name: recursive_gift_agreement
+      label: I would like to set this up as a recurring gift
+      hint: null
+      type: select_one
+      options:
+      - No - One time only
+      - Yes - Every Week
+      - Yes - Every Month
+      required: true
+    - id: 7
+      name: cover_fees
+      label: Would you like to cover the 2.9% processing fee?
+      hint: This ensures 100% of your gift goes to the church
+      type: select_one
+      options:
+      - Yes - Add fee to my total
+      - No thanks
+      required: true
+    - id: 8
+      name: header_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city_state_zip
+      label: City, State, and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employer_matching
+      label: Does your employer offer gift matching?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - I don't know
+      required: false
+    - id: 13
+      name: gift_notes
+      label: Notes or Special Designation Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: final_submission_consent
+      label: I authorize this transaction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 15
+      name: donation_timestamp
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

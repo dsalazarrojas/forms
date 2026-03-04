@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Agapita Declaration Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor name
+      hint: For contact tracing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visit_date
+      label: Visit date
+      hint: Date of visit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: health_declaration
+      label: I declare I have no COVID symptoms
+      hint: Please be honest for safety
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 4
+      name: recent_travel
+      label: Recent travel history
+      hint: Travel outside local area in past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: contact_with_cases
+      label: Contact with confirmed cases
+      hint: Close contact within 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: temperature
+      label: Temperature reading
+      hint: Optional measured temperature
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature reference
+      hint: Typed name serves as signature
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Any additional health notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Testimonial Form
+    pages:
+    - id: 1
+      name: customer_testimonial_form
+      label: Customer Testimonial Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_testimonial_form_rating
+      label: How satisfied were you?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all satisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat dissatisfied''}'
+      - '{''value'': 5, ''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 3
+      name: testimonial
+      label: testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: testimonial_message
+      label: testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: testimonial_photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommended_your_business
+      label: Have you recommended our business to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      - '{''value'': 3, ''label'': ''Unanswered''}'
+      required: false
+    - id: 9
+      name: why_didnt_recommend
+      label: Why didn't you recommend our business?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: how_did_we_improve
+      label: How can we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: testimonial_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

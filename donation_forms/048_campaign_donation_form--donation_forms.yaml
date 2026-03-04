@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Donation Form
+    pages:
+    - id: 1
+      name: donor_contact_info_header
+      label: -- Donor Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_full_name_don
+      label: Donor Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email_address_don
+      label: Email Address
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone_number_don
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donor_mailing_address_don
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donation_details_header
+      label: -- Donation and Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount_selection
+      label: Donation Amount (USD)
+      hint: Choose an amount or enter other
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1,000
+      - Other
+      required: true
+    - id: 8
+      name: donation_amount_custom
+      label: Other Amount
+      hint: Enter amount if Other selected above
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_frequency_pref
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Gift
+      - Monthly Recurring
+      - Quarterly Recurring
+      required: true
+    - id: 10
+      name: payment_method_don
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer (ACH)
+      required: true
+    - id: 11
+      name: political_compliance_header
+      label: -- Compliance Information --
+      hint: Required for political campaign donations
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: donor_occupation_don
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: donor_employer_name_don
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: donor_employer_city_state
+      label: Employer City and State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contribution_limits_acknowledgement
+      label: Acknowledgment of Contribution Limits
+      hint: I certify that this donation does not exceed legal limits
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - Other
+      required: true
+    - id: 16
+      name: citizen_status_certification
+      label: U.S. Citizen - Green Card Holder Certification
+      hint: I certify that I am a U.S. citizen or lawfully admitted permanent resident
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 17
+      name: donation_date_timestamp
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: marketing_opt_in_don
+      label: Opt-in for Campaign Updates
+      hint: Keep me informed on our progress
+      type: select_one
+      options:
+      - Yes - I want updates
+      - No - Thank you
+      required: false
+    - id: 19
+      name: donor_comments_public_optional
+      label: Public Comment (Optional)
+      hint: This may be displayed on our donation wall
+      type: text
+      options: []
+      required: false

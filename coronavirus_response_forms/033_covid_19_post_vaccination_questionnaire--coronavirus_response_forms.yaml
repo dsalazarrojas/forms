@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Post Vaccination Questionnaire
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: side_effects
+      label: side_effects
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 3
+      name: vaccine_dosage
+      label: vaccine_dosage
+      hint: in milligrams
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: medication_allergies
+      label: allergies
+      hint: List any allergies
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_site
+      label: site
+      hint: null
+      type: select_one
+      options:
+      - arm
+      - leg
+      - abdomen
+      - chest
+      required: false

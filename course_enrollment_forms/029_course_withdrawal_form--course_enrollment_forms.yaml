@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Withdrawal Form
+    pages:
+    - id: 1
+      name: course_withdrawal_form_course
+      label: course_withdrawal_form_course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_for_withdrawal
+      label: reason_for_withdrawal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_last_attendance
+      label: date_of_last_attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_last_attendance
+      label: time_of_last_attendance
+      hint: null
+      type: time
+      options: []
+      required: false

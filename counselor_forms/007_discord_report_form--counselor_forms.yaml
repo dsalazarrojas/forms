@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: discord report form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: username
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_reason
+      label: Report Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: screenshot_url
+      label: Screenshot URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: screenshot_file
+      label: Screenshot File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: channel_link
+      label: Channel Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_report_reason
+      label: User Reported Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 101, ''label'': ''Spamming'', ''name'': ''spamming''}'
+      - '{''id'': 102, ''label'': ''Trolling'', ''name'': ''trolling''}'
+      - '{''id'': 103, ''label'': ''Harassment'', ''name'': ''harassment''}'
+      - '{''id'': 104, ''label'': ''Inappropriate Content'', ''name'': ''in_appropriate_content''}'
+      - '{''id'': 105, ''label'': ''Self Promotion'', ''name'': ''self_promotion''}'
+      - '{''id'': 106, ''label'': ''None of the above'', ''name'': ''none_of_the_above''}'
+      required: false
+    - id: 11
+      name: moderator_notes
+      label: Moderator Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: channel_id
+      label: Channel ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: user_message
+      label: User Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: moderator_action
+      label: Moderator Action
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 201, ''label'': ''Accept'', ''name'': ''accept''}'
+      - '{''id'': 202, ''label'': ''Reject'', ''name'': ''reject''}'
+      - '{''id'': 203, ''label'': ''Hold'', ''name'': ''hold''}'
+      required: true
+    - id: 16
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_username
+      label: User Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_discriminator
+      label: User Discriminator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_avatar
+      label: User Avatar
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: guild_name
+      label: Guild Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guild_id
+      label: Guild ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: channel_name
+      label: Channel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: channel_id
+      label: Channel ID
+      hint: null
+      type: number
+      options: []
+      required: false

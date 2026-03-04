@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Transfer Form
+    pages:
+    - id: 1
+      name: transfer_details
+      label: Transfer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transfer_from_member
+      label: Transfer From
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Member1''}'
+      - '{''id'': 2, ''label'': ''Member2''}'
+      - '{''id'': 3, ''label'': ''Member3''}'
+      required: false
+    - id: 3
+      name: transfer_to_member
+      label: Transfer To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Member1''}'
+      - '{''id'': 2, ''label'': ''Member2''}'
+      - '{''id'': 3, ''label'': ''Member3''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_transferred
+      label: Date Transferred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transfer_status
+      label: Transfer Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Completed''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transfer_by
+      label: Transfer By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments_transfer
+      label: Comments Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: notes_transfer
+      label: Notes Transfer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_transfer
+      label: Email Transfer
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_transfer
+      label: Phone Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: address_transfer
+      label: Address Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false

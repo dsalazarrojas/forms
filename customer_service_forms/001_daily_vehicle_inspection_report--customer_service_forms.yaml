@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Report
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle ID
+      hint: Enter vehicle ID
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Company Vehicle
+      - Private Vehicle
+      - Company-Owned Vehicle
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Enter vehicle model
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inspection_item_1
+      label: Inspection Item 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_item_2
+      label: Inspection Item 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspection_item_3
+      label: Inspection Item 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

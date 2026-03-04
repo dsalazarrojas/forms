@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Support Team
+    pages:
+    - id: 1
+      name: support_header
+      label: Contact Support Team
+      hint: We are here to help
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_category
+      label: Issue Category
+      hint: Select category
+      type: select_one
+      options:
+      - Technical Support
+      - Account Access
+      - Billing Issue
+      - Product Question
+      - Feature Request
+      - Bug Report
+      - Other
+      required: true
+    - id: 7
+      name: product
+      label: Product or Service
+      hint: Which product
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      - Enterprise Plan
+      - Free Plan
+      - Other
+      required: true
+    - id: 8
+      name: issue_summary
+      label: Issue Summary
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issue_details
+      label: Detailed Description
+      hint: Full details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: occurrence
+      label: When Does Issue Occur
+      hint: Frequency
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Sometimes
+      - Rarely
+      - One Time
+      required: true
+    - id: 11
+      name: browser_device
+      label: Browser or Device
+      hint: What are you using
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: error_code
+      label: Error Code or Message
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: steps_to_reproduce
+      label: Steps to Reproduce
+      hint: How to replicate
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachments
+      label: Attach Screenshots
+      hint: Optional files
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: priority
+      label: Priority Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Low - General Question
+      - Medium - Feature Not Working
+      - High - Major Feature Broken
+      - Critical - System Down
+      required: true
+    - id: 16
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How to respond
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Chat
+      required: true
+    - id: 17
+      name: availability
+      label: Best Time to Contact
+      hint: When available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false

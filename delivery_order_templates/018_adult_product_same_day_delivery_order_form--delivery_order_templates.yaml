@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Product Same Day Delivery Order Form
+    pages:
+    - id: 1
+      name: order_information
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for delivery
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Required for driver contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery address
+      hint: Include apartment or suite number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_items
+      label: Order items and quantities
+      hint: List items separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: Select available options
+      type: select_one
+      options:
+      - Card on delivery
+      - Prepaid card
+      - Mobile payment
+      required: true
+    - id: 7
+      name: delivery_time_window
+      label: Preferred delivery time window
+      hint: Provide preferred time range
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special delivery instructions
+      hint: Gate codes or leave at door notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: same_day_service_fee
+      label: Same day service fee acknowledged
+      hint: Acknowledge extra charge if applicable
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: order_date
+      label: Order date
+      hint: Date of order submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Job Application Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_info
+      label: Driver Info
+      hint: Please provide information about yourself
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: license_number
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - License
+      - Non-Licence
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Allstate
+      - Geico
+      - State Farm
+      required: false
+    - id: 12
+      name: insurance_policy_start
+      label: Insurance Policy Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: insurance_policy_end
+      label: Insurance Policy End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Old
+      required: false
+    - id: 15
+      name: driver_experience
+      label: Driver Experience
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_height
+      label: Vehicle Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_length_in_feet
+      label: Vehicle Length in Feet
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_wheel_base
+      label: Vehicle Wheel Base
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_track
+      label: Vehicle Track
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_overall_length
+      label: Vehicle Overall Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: vehicle_gross_weight
+      label: Vehicle Gross Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Save and Submit
+      required: false

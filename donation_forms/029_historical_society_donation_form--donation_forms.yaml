@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: historical_society_donation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: donor_type
+      label: Donor Type
+      hint: Individual or Organization
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency of Donations
+      hint: One time or Recurring
+      type: select_multiple
+      options:
+      - One time
+      - Recurring
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_method_other
+      label: Other Payment Method
+      hint: Please specify
+      type: text
+      options: []
+      required: false

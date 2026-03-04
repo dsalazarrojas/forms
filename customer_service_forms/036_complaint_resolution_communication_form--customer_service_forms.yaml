@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Communication Form
+    pages:
+    - id: 1
+      name: communication_date
+      label: Communication Date
+      hint: Date of communication
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: complaint_id
+      label: Complaint ID
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: communication_type
+      label: Type of Communication
+      hint: How are you communicating
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Video call
+      - In-person meeting
+      - Live chat
+      - Text message
+      - Letter
+      - Other
+      required: true
+    - id: 7
+      name: communication_direction
+      label: Communication Direction
+      hint: Who initiated
+      type: select_one
+      options:
+      - Outbound - we contacted customer
+      - Inbound - customer contacted us
+      - Scheduled - planned communication
+      required: true
+    - id: 8
+      name: representative_name
+      label: Representative Name
+      hint: Who communicated
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: representative_department
+      label: Representative Department
+      hint: Which department
+      type: select_one
+      options:
+      - Customer Service
+      - Technical Support
+      - Billing
+      - Sales
+      - Management
+      - Other
+      required: true
+    - id: 10
+      name: communication_purpose
+      label: Purpose of Communication
+      hint: Why are you communicating
+      type: select_one
+      options:
+      - Initial acknowledgment
+      - Status update
+      - Information gathering
+      - Resolution proposal
+      - Final resolution
+      - Follow-up
+      - Escalation handling
+      - Other
+      required: true
+    - id: 11
+      name: topics_discussed
+      label: Topics Discussed
+      hint: What was covered
+      type: select_multiple
+      options:
+      - Complaint details
+      - Investigation findings
+      - Resolution options
+      - Compensation discussion
+      - Policy explanation
+      - Process improvements
+      - Timeline discussion
+      - Other
+      required: true
+    - id: 12
+      name: customer_concerns
+      label: Customer Concerns Expressed
+      hint: What concerns did they raise
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_emotional_state
+      label: Customer Emotional State
+      hint: How did they seem
+      type: select_one
+      options:
+      - Very upset or angry
+      - Frustrated
+      - Concerned
+      - Calm
+      - Satisfied
+      - Very pleased
+      required: true
+    - id: 14
+      name: information_provided
+      label: Information Provided to Customer
+      hint: What did you share
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_feedback
+      label: Customer Feedback
+      hint: What feedback did they give
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agreements_reached
+      label: Agreements Reached
+      hint: What was agreed upon
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: action_items
+      label: Action Items
+      hint: What needs to be done
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: action_items_owner
+      label: Action Items Owner
+      hint: Who is responsible
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: action_items_deadline
+      label: Action Items Deadline
+      hint: When due
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: next_steps
+      label: Next Steps
+      hint: What happens next
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: Is more contact needed
+      type: select_one
+      options:
+      - Yes - scheduled
+      - Yes - pending
+      - No - case complete
+      - No - customer requested no contact
+      required: true
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to contact again
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_method
+      label: Follow-up Method
+      hint: How will you follow up
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Video call
+      - In-person
+      - Other
+      - Not applicable
+      required: false
+    - id: 24
+      name: escalation_needed
+      label: Escalation Needed
+      hint: Does this need management
+      type: select_one
+      options:
+      - Yes - escalate now
+      - Maybe - under review
+      - No - can handle
+      required: true
+    - id: 25
+      name: escalation_reason
+      label: Escalation Reason
+      hint: Why escalate
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: communication_outcome
+      label: Communication Outcome
+      hint: Result of communication
+      type: select_one
+      options:
+      - Fully resolved
+      - Progress made
+      - No progress
+      - Situation worsened
+      - Pending further action
+      required: true
+    - id: 27
+      name: notes
+      label: Additional Notes
+      hint: Other observations
+      type: text
+      options: []
+      required: false

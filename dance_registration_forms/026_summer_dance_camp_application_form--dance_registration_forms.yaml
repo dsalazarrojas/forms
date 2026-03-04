@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Dance Camp Application Form
+    pages:
+    - id: 1
+      name: summer_dance_camp_application_form_first_page
+      label: Summer Dance Camp Application Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: summer_dance_camp_application_form_second_page
+      label: Parent/Guardian Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Parent'', ''value'': ''parent''}'
+      - '{''id'': 2, ''label'': ''Guardian'', ''value'': ''guardian''}'
+      required: false
+    - id: 3
+      name: summer_dance_camp_application_form_third_page
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: summer_dance_camp_application_form_fourth_page
+      label: Payment
+      hint: Accept fee payments by card
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: summer_dance_camp_application_form_fifth_page
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

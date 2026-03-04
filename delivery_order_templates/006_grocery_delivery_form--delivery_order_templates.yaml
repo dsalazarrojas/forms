@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grocery Delivery Form
+    pages:
+    - id: 1
+      name: delivery_order_form
+      label: delivery_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_details_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_details_email
+      label: customer_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Paypal
+      required: true
+    - id: 6
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: delivery_email
+      label: delivery_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: delivery_phone
+      label: delivery_phone
+      hint: null
+      type: text
+      options: []
+      required: false

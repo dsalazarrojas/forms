@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Cause Preference Poll
+    pages:
+    - id: 1
+      name: donation_form_donor_cause_preference_poll
+      label: Donor Preference Poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_cause
+      label: What is the cause you prefer to support
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: cause_priority
+      label: How important is this cause to you
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: How often do you make donations
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: cause_comment
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: contact_method_frequency
+      label: How often do you want to be contacted
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_frequency
+      label: How often do you want to be contacted by e-mail
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: phone_frequency
+      label: How often do you want to be contacted by phone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

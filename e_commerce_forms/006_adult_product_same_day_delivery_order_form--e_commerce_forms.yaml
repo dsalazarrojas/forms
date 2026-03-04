@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Product Same Day Delivery Order Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete address for same-day delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: apartment_suite
+      label: Apartment/Suite Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special instructions for delivery driver
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_details_section
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: product_selection
+      label: Product Selection
+      hint: Choose the adult products you wish to order
+      type: select_multiple
+      options:
+      - Lubricants
+      - Contraceptives
+      - Sexual wellness products
+      - Erotic literature
+      - Adult toys
+      - Intimate apparel
+      - Other
+      required: true
+    - id: 10
+      name: quantity_requested
+      label: Quantity Requested
+      hint: Number of units for each selected product
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: preferred_delivery_time
+      label: Preferred Delivery Time
+      hint: When would you like to receive your order
+      type: select_one
+      options:
+      - Morning (9AM-12PM)
+      - Afternoon (12PM-5PM)
+      - Evening (5PM-8PM)
+      - Anytime Today
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for your order
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Delivery
+      - Digital Wallet
+      required: true
+    - id: 13
+      name: age_verification
+      label: Age Verification
+      hint: I confirm that I am 18 years or older
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requests for your order
+      type: text
+      options: []
+      required: false

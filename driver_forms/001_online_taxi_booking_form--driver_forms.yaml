@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-taxi-booking-form
+    pages:
+    - id: 1
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_fare
+      label: select-fare
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Free'', ''label'': ''Free''}'
+      - '{''value'': ''Paid'', ''label'': ''Paid''}'
+      required: true
+    - id: 3
+      name: select_trip
+      label: choose-trip
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''One-way'', ''label'': ''One way''}'
+      - '{''value'': ''Round-trip'', ''label'': ''Round trip''}'
+      - '{''value'': ''Oneway'', ''label'': ''One way''}'
+      required: true
+    - id: 4
+      name: pickup
+      label: pick-up-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: dropoff
+      label: dropoff-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

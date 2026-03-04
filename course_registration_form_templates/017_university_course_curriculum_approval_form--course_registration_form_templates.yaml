@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Course Curriculum Approval Form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: curriculum_approval_date
+      label: Curriculum Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: course_instructor
+      label: Course Instructor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: committee_members
+      label: Committee Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: committee_chair
+      label: Committee Chair
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: faculty_feedback
+      label: Faculty Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: committee_feedback
+      label: Committee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: curriculum_changes
+      label: Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: false
+    - id: 11
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: comments_from_committee
+      label: Comments from Committee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments_from_instructor
+      label: Comments from Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_from_faculty
+      label: Comments from Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: course_registration_date
+      label: Course Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: course_institution
+      label: Course Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: course_number
+      label: Course Number
+      hint: null
+      type: text
+      options: []
+      required: false

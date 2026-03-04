@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Learning In Higher Education Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Enter your university student ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: University Email Address
+      hint: Enter your student email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Select your current status
+      type: select_one
+      options:
+      - Full-time Undergraduate
+      - Part-time Undergraduate
+      - Full-time Graduate
+      - Part-time Graduate
+      - Non-degree Student
+      required: true
+    - id: 6
+      name: academic_year
+      label: Academic Year
+      hint: Select your current year
+      type: select_one
+      options:
+      - First Year
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Other
+      required: true
+    - id: 7
+      name: major_field
+      label: Major or Field of Study
+      hint: Enter your primary major
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_selection
+      label: Civic Learning Program
+      hint: Select the program you wish to register for
+      type: select_one
+      options:
+      - Community Engagement Certificate
+      - Public Policy Internship
+      - Service Learning Course
+      - Civic Research Project
+      - Leadership Development Program
+      - Voter Education Initiative
+      required: true
+    - id: 9
+      name: semester_term
+      label: Semester or Term
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Session
+      - Winter Term
+      required: true
+    - id: 10
+      name: credit_hours
+      label: Desired Credit Hours
+      hint: How many credits will you enroll for
+      type: select_one
+      options:
+      - 1 credit
+      - 2 credits
+      - 3 credits
+      - 4 credits
+      - Non-credit
+      required: true
+    - id: 11
+      name: prior_experience
+      label: Do you have prior civic engagement experience
+      hint: Volunteer work, activism, or community service
+      type: select_one
+      options:
+      - Extensive experience
+      - Some experience
+      - Limited experience
+      - No experience
+      required: true
+    - id: 12
+      name: experience_description
+      label: Describe Your Civic Experience
+      hint: Briefly describe any relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: learning_goals
+      label: What are your learning goals
+      hint: What do you hope to gain from this program
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: community_interest
+      label: Which community issues interest you most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Education Equity
+      - Environmental Justice
+      - Food Security
+      - Housing and Homelessness
+      - Healthcare Access
+      - Criminal Justice Reform
+      - Economic Development
+      - Youth Development
+      - Senior Services
+      - Disability Rights
+      required: true
+    - id: 15
+      name: schedule_preference
+      label: Preferred Schedule
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Morning classes
+      - Afternoon classes
+      - Evening classes
+      - Weekend activities
+      - Flexible schedule
+      required: true
+    - id: 16
+      name: transportation_method
+      label: How will you travel to community sites
+      hint: Select your primary transportation
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Public Transportation
+      - Bicycle or Walking
+      - University Shuttle
+      - Carpool
+      - Need transportation assistance
+      required: true
+    - id: 17
+      name: advisor_name
+      label: Academic Advisor Name
+      hint: Enter your advisors full name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Information
+      hint: Any accommodations or special needs
+      type: text
+      options: []
+      required: false

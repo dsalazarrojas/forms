@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physics Exercises Feedback Form
+    pages:
+    - id: 1
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_number
+      label: Question Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_type
+      label: Feedback Type
+      hint: Select the feedback type
+      type: select_one
+      options:
+      - '{''label'': ''Not Applicable''}'
+      - '{''label'': ''General Comments''}'
+      - '{''label'': ''Problem Solving''}'
+      - '{''label'': ''Physics Knowledge''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: problem_statement
+      label: Problem Statement
+      hint: Describe the problem or assignment here
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_answer
+      label: Student Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: Describe how you will help or improve this problem or assignment
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: peer_feedback
+      label: Peer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_team_feedback
+      label: Course Team Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

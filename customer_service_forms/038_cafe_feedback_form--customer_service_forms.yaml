@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Feedback Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit date
+      hint: Date of experience
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: Order number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_rating
+      label: Service rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: product_quality
+      label: Product quality rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cleanliness
+      label: Cleanliness rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: likely_to_return
+      label: Likely to return
+      hint: Select likelihood
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      required: true
+    - id: 8
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Ideas to improve service or menu
+      type: text
+      options: []
+      required: false

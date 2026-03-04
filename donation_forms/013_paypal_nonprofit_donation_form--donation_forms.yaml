@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Nonprofit Donation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: donation_frequency_options
+      label: How often do you donate?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: amount
+      label: Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: frequency_option
+      label: How often?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: frequency_options
+      label: How often?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 12
+      name: campaign_id
+      label: Campaign ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: campaign_url
+      label: Campaign URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: donation_status_options
+      label: Donation Status
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: email_confirmation_options
+      label: Email Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 20
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: terms_and_conditions_options
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: payment_method_options
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_status_label
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: false

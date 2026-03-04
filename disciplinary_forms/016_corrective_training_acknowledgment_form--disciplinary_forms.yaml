@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corrective Training Acknowledgment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: follow_report_date
+      label: Follow-up Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: follow_report_status
+      label: Follow-up Report Status
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 8
+      name: follow_report_notes
+      label: Follow-up Report Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_complete_date
+      label: Form Complete Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: followups
+      label: Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 14
+      name: followup_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: training_completed
+      label: Training Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: training_status_update
+      label: Training Status Update
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 17
+      name: follow_report_frequency
+      label: Follow-up Report Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: follow_report_last_followup
+      label: Last Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: follow_report_last_followup_time
+      label: Last Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_report
+      label: Follow Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 24
+      name: followup_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 25
+      name: followup_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

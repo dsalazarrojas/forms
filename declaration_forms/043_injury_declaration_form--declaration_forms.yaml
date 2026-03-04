@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Injury Declaration Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: injury_date
+      label: Injury Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: injury_time
+      label: Injury Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_injuries
+      label: Other Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

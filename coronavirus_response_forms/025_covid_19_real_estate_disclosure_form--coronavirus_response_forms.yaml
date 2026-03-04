@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Real Estate Disclosure Form
+    pages:
+    - id: 1
+      name: property_addr_text
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name_full
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: transaction_role_cat
+      label: Relationship to Transaction
+      hint: null
+      type: select_one
+      options:
+      - Buyer
+      - Seller
+      - Tenant
+      - Landlord
+      - Other
+      required: true
+    - id: 4
+      name: disclosure_date_val
+      label: Disclosure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_risk_ack
+      label: -- Risk Acknowledgment --
+      hint: Important information regarding physical property visits
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: risk_tours_ack
+      label: I acknowledge the inherent risks of COVID-19 exposure during physical
+        property tours
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 7
+      name: ppe_agreement
+      label: I agree to wear required Personal Protective Equipment (PPE) during all
+        tours
+      hint: e.g. face mask, gloves
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: no_diagnosis_cert
+      label: I certify that I have not been diagnosed with COVID-19 in the last 14
+        days
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 9
+      name: no_symptoms_cert
+      label: I certify that I have not experienced any COVID-19 symptoms in the last
+        14 days
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 10
+      name: liability_waiver_ack
+      label: I waive and release the Agent and Brokerage from liability related to
+        COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - Other
+      required: true
+    - id: 11
+      name: agent_name_val
+      label: Realtor or Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: agent_brokerage_val
+      label: Brokerage Name
+      hint: null
+      type: text
+      options: []
+      required: true

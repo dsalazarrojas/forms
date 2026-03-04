@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Subscription Sample Order Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Online Subscription Sample Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: Subscription Details
+      hint: Select a plan
+      type: select_one
+      options:
+      - '{''value'': ''Subscription Plan 1''}'
+      - '{''value'': ''Subscription Plan 2''}'
+      - '{''value'': ''Subscription Plan 3''}'
+      required: false
+    - id: 3
+      name: form_3
+      label: Plan Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: Number of Subscriptions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: subscription_type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 8
+      name: form_8
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank Draft''}'
+      required: false
+    - id: 9
+      name: form_9
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: form_11
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: form_12
+      hint: null
+      type: text
+      options: []
+      required: false

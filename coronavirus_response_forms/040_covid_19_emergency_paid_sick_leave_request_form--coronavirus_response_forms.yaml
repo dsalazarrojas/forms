@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Emergency Paid Sick Leave Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Direct Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date you are submitting this request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_type
+      label: Type of Leave Requested
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 Illness
+      - COVID-19 Exposure Quarantine
+      - Care for Family Member with COVID
+      - Childcare Closure due to COVID
+      - School Closure due to COVID
+      - Other COVID-related
+      required: true
+    - id: 8
+      name: leave_start_date
+      label: Leave Start Date
+      hint: When do you need to begin your leave?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: leave_end_date
+      label: Anticipated Leave End Date
+      hint: When do you expect to return?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_days_requested
+      label: Total Days of Leave Requested
+      hint: Number of workdays
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Explain why you need paid sick leave
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: covid_status
+      label: COVID-19 Status
+      hint: Your current health situation
+      type: select_one
+      options:
+      - Tested positive for COVID-19
+      - Symptoms consistent with COVID-19
+      - Awaiting test results
+      - Exposed to someone with COVID-19
+      - Caring for someone with COVID-19
+      - Other
+      required: true
+    - id: 13
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: test_date
+      label: COVID-19 Test Date
+      hint: If tested
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      - Not tested
+      - Prefer not to disclose
+      required: false
+    - id: 16
+      name: healthcare_provider_contact
+      label: Healthcare Provider Name
+      hint: Doctor or clinic treating you
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: return_to_work_date
+      label: Expected Return to Work Date
+      hint: When can you return to work?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: paid_leave_available
+      label: Paid Sick Leave Balance
+      hint: Approximate days available
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: work_from_home_possible
+      label: Can You Work From Home During This Period?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial/Limited
+      - Not applicable
+      required: false
+    - id: 20
+      name: coverage_plan
+      label: Coverage Plan During Absence
+      hint: How will your work responsibilities be covered?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: essential_information
+      label: Essential Information for Coverage
+      hint: Important details for coverage staff
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: household_members_quarantine
+      label: Number of Household Members Also Quarantining
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: financial_hardship
+      label: Are You Experiencing Financial Hardship?
+      hint: Due to unpaid leave shortage
+      type: select_one
+      options:
+      - No hardship
+      - Mild hardship
+      - Significant hardship
+      - Prefer not to answer
+      required: false
+    - id: 24
+      name: additional_support_needed
+      label: Additional Support or Resources Needed?
+      hint: Employee assistance, benefits, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case we need to reach you
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

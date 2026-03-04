@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Interest Form
+    pages:
+    - id: 1
+      name: interested_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: interested_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: interested_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - No preference
+      required: true
+    - id: 5
+      name: interest_section
+      label: -- Vaccination Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: interested_vaccine
+      label: I am interested in receiving the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 7
+      name: vaccine_timeline
+      label: When would you like to be vaccinated
+      hint: null
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 1 week
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      - Not sure yet
+      required: false
+    - id: 8
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      - Unsure
+      required: true
+    - id: 9
+      name: dose_type
+      label: What dose are you looking for
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Unsure
+      required: true
+    - id: 10
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65-74
+      - 75+
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: health_section
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: health_conditions
+      label: Do you have health conditions that put you at higher risk
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: condition_description
+      label: If yes, describe your conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: prior_covid
+      label: Have you had COVID-19 before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: prior_vaccine
+      label: Have you received COVID-19 vaccine before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: prior_vaccine_type
+      label: If yes, which vaccine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: concerns_section
+      label: -- Concerns and Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: vaccine_concerns
+      label: Do you have concerns about the vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: concern_description
+      label: If yes, describe your concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: information_needed
+      label: What additional information would help you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: follow_up_section
+      label: -- Follow-Up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: contact_consent
+      label: I consent to be contacted about vaccine availability
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: newsletter_signup
+      label: I would like to receive vaccine information updates
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

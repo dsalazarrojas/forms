@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 1C Vaccination Registration Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_initial
+      label: Middle Initial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Must be 40-64 years old
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_eligibility
+      label: -- Phase 1C Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: eligibility_reason
+      label: Why are you eligible for Phase 1C?
+      hint: null
+      type: select_one
+      options:
+      - Age 40-64 with high-risk conditions
+      - Essential worker not covered in other phases
+      - Both
+      required: true
+    - id: 15
+      name: high_risk_conditions
+      label: High-Risk Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Cancer
+      - Chronic kidney disease
+      - COPD
+      - Diabetes
+      - Heart disease
+      - Immunocompromised
+      - Obesity
+      - Pregnancy
+      - Other
+      required: false
+    - id: 16
+      name: essential_worker_role
+      label: Essential Worker Role
+      hint: null
+      type: select_one
+      options:
+      - Transportation
+      - Food and agriculture
+      - Utility worker
+      - Construction
+      - Communications
+      - Education
+      - Other essential
+      - Not applicable
+      required: false
+    - id: 17
+      name: section_health_info
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vaccine_reaction_history
+      label: History of severe vaccine reactions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 21
+      name: previous_covid_vaccine
+      label: Previous COVID-19 vaccine doses received
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1 dose
+      - 2 doses
+      - 3+ doses
+      required: true
+    - id: 22
+      name: section_attestation
+      label: -- Attestation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: certify_eligibility
+      label: I certify I meet Phase 1C eligibility requirements
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: vaccinate_consent
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

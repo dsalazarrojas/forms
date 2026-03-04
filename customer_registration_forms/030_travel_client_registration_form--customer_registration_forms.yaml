@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_client_registration_form
+    pages:
+    - id: 1
+      name: travel_client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: Contact details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_info
+      label: arrival_info
+      hint: null
+      type: select_multiple
+      options:
+      - Driving
+      - Flying
+      - Boating
+      - Biking
+      - Walking
+      required: true
+    - id: 4
+      name: air_travel
+      label: air_travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flight_details
+      label: flight_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cruise_details
+      label: cruise_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false

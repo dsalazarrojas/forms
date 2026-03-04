@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driving Availability Form
+    pages:
+    - id: 1
+      name: trip_start_time
+      label: trip_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: trip_end_time
+      label: trip_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: trip_start_date
+      label: trip_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trip_end_date
+      label: trip_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: available_days
+      label: available_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: driving_location
+      label: driving_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trip_type
+      label: trip_type
+      hint: null
+      type: select_one
+      options:
+      - Road trip
+      - Long drive
+      - Commute
+      required: false
+    - id: 8
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Van
+      required: false
+    - id: 9
+      name: driver_availability
+      label: driver_availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 12
+      name: driver_phone
+      label: driver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: driver_email
+      label: driver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: driving_experience
+      label: driving_experience
+      hint: null
+      type: select_one
+      options:
+      - New driver
+      - Experienced
+      required: false
+    - id: 15
+      name: driving_license
+      label: driving_license
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: driving_license_state
+      label: driving_license_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: vehicle_license
+      label: vehicle_license
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_seats
+      label: vehicle_seats
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: vehicle_plate
+      label: vehicle_plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

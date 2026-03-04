@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Empowerment Program Donation
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor name
+      hint: Individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For tax receipt and communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: amount
+      label: Donation amount
+      hint: Enter numeric amount
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_purpose
+      label: Donation purpose
+      hint: Select focus area for donation
+      type: select_one
+      options:
+      - Training and education
+      - Micro grants
+      - Operational support
+      - General fund
+      required: false
+    - id: 5
+      name: recurring
+      label: Set up recurring donation
+      hint: Choose recurrence
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 6
+      name: anonymous
+      label: Make donation anonymous
+      hint: Choose to not display donor name
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Distribution Report Form
+    pages:
+    - id: 1
+      name: distribution_date
+      label: Distribution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monetary''}'
+      - '{''id'': 2, ''name'': ''In-Kind''}'
+      - '{''id'': 3, ''name'': ''Goods''}'
+      required: false
+    - id: 5
+      name: distribution_status
+      label: Distribution Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Shipped''}'
+      - '{''id'': 2, ''name'': ''In Transit''}'
+      - '{''id'': 3, ''name'': ''Not Yet Shipped''}'
+      - '{''id'': 4, ''name'': ''Cancelled''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false

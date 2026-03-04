@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 3 Vaccination Registration Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Phase 3 includes ages 16-39 and certain essential workers
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_eligibility
+      label: -- Phase 3 Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: eligibility_category
+      label: Which Phase 3 category applies to you?
+      hint: null
+      type: select_one
+      options:
+      - Age 16-39 years
+      - Essential worker - moderate exposure risk
+      - Both
+      required: true
+    - id: 14
+      name: essential_industry
+      label: Essential Industry (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - Food service
+      - Hair salon and barbershop
+      - Transportation
+      - Construction
+      - Retail
+      - Education
+      - Communications
+      - Other essential
+      - Not applicable
+      required: false
+    - id: 15
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_medical_info
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: health_conditions
+      label: Do you have underlying health conditions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 18
+      name: condition_details
+      label: List your health conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vaccine_history
+      label: Previous COVID-19 vaccine doses
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1 dose
+      - 2 doses
+      - 3+ doses
+      required: true
+    - id: 22
+      name: section_agreement
+      label: -- Agreement and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: understand_eligibility
+      label: I confirm I meet Phase 3 eligibility criteria
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: vaccine_consent
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: understand_vaccine_info
+      label: I have received vaccine information and understand it
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

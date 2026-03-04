@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-consumer-complaint-and-demand-form
+    pages:
+    - id: 1
+      name: complaint
+      label: Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: demand
+      label: Demand
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: channel
+      label: Channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: modified_at
+      label: Modified At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: created_by_name
+      label: Created By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: modified_by_name
+      label: Modified By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to_name
+      label: Assigned To Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: created_at_time
+      label: Created At Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: modified_at_time
+      label: Modified At Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: attachment_name
+      label: Attachment Name
+      hint: null
+      type: text
+      options: []
+      required: false

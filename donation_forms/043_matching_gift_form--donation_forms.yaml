@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Matching Gift Form
+    pages:
+    - id: 1
+      name: donation_request
+      label: Donation Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: matching_gift_type
+      label: Matching Gift Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Matching'', ''label'': ''Matching''}'
+      - '{''id'': 2, ''name'': ''Challenge'', ''label'': ''Challenge''}'
+      - '{''id'': 3, ''name'': ''None'', ''label'': ''None''}'
+      required: false
+    - id: 6
+      name: matching_amount
+      label: Matching Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: match_request
+      label: Match Request
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CMS
+    pages:
+      - id: 1
+        name: customer_name
+        label: Customer name
+        hint: Full name of the customer
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_method
+        label: Preferred contact method
+        hint: How should we reach the customer
+        type: select_one
+        options:
+          - Phone
+          - Email
+          - SMS
+        required: false
+      - id: 3
+        name: issue_type
+        label: Issue type
+        hint: Category of the customer issue
+        type: select_one
+        options:
+          - Billing
+          - Product
+          - Service
+          - Technical
+          - Other
+        required: true
+      - id: 4
+        name: issue_description
+        label: Issue description
+        hint: Describe the problem in detail
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: order_number
+        label: Order number
+        hint: If related to a purchase include order number
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: urgency
+        label: Urgency level
+        hint: Select how urgent the issue is
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: false
+      - id: 7
+        name: assigned_agent
+        label: Assigned agent
+        hint: For internal use to note who is handling the case
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: resolution_notes
+        label: Resolution notes
+        hint: Notes on steps taken to resolve the issue
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: resolution_status
+        label: Resolution status
+        hint: Current status of the ticket
+        type: select_one
+        options:
+          - Open
+          - In progress
+          - Resolved
+          - Closed
+        required: true
+      - id: 10
+        name: closed_date
+        label: Closed date
+        hint: Date issue was closed if applicable
+        type: date
+        options: []
+        required: false

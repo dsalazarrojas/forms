@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Customer Experience Assessment Form
+    pages:
+    - id: 1
+      name: customer_experience
+      label: customer_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_frustration
+      label: customer_frustration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: retail_services
+      label: retail_services
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: retail_competitor
+      label: retail_competitor
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

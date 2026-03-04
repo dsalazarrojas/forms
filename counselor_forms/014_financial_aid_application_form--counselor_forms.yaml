@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Aid Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_aid_year
+      label: Financial Aid Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: financial_aid_type
+      label: Financial Aid Type
+      hint: null
+      type: select_one
+      options:
+      - Pell Grant
+      - Federal Work-Study
+      - Direct Loans
+      - Other
+      required: false
+    - id: 4
+      name: financial_aid_amount
+      label: Financial Aid Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: financial_aid_reason
+      label: Financial Aid Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: Please enter your student ID number
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_application
+      label: Date of Application
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

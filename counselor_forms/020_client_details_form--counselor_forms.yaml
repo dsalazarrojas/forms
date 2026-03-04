@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Details Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: For records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: false
+    - id: 11
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Domestic Partnership
+      required: false
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: Current job
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_level
+      label: Education Level
+      hint: Highest completed
+      type: select_one
+      options:
+      - High School or Less
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Other
+      required: false
+    - id: 15
+      name: counselor_name
+      label: Assigned Counselor
+      hint: Your counselor name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_type
+      label: Service Type Needed
+      hint: What services do you need?
+      type: select_one
+      options:
+      - Individual Counseling
+      - Couples Counseling
+      - Family Counseling
+      - Group Therapy
+      - Crisis Intervention
+      - Assessment Only
+      - Other
+      required: true
+    - id: 17
+      name: presenting_issue
+      label: Primary Issue or Concern
+      hint: What brings you here?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: previous_counseling
+      label: Have You Had Counseling Before?
+      hint: Previous experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: current_stressors
+      label: Current Stressors
+      hint: What is causing stress?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: support_system
+      label: Do You Have a Support System?
+      hint: Family, friends, community
+      type: select_one
+      options:
+      - Strong Support
+      - Some Support
+      - Limited Support
+      - No Support
+      required: true
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Physician Referral
+      - Friend or Family
+      - Website
+      - Social Media
+      - Insurance Company
+      - Other
+      required: true
+    - id: 25
+      name: availability
+      label: Available Days and Times
+      hint: When can you meet?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: true

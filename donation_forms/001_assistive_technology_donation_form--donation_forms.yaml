@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assistive Technology Donation Form
+    pages:
+    - id: 1
+      name: donor_information
+      label: Donor Information
+      hint: Please provide your contact details
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: We will send a receipt to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: If donating on behalf of an organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_type
+      label: Type of Donation
+      hint: Select the type of assistive technology you are donating
+      type: select_one
+      options:
+      - Wheelchair
+      - Hearing Aid
+      - Screen Reader Software
+      - Communication Device
+      - Mobility Equipment
+      - Other Medical Equipment
+      - Monetary Donation
+      required: true
+    - id: 6
+      name: device_condition
+      label: Condition of Equipment
+      hint: Only applicable for physical equipment donations
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Good Condition
+      - Fair Condition
+      - Needs Repair
+      required: false
+    - id: 7
+      name: device_description
+      label: Equipment Description
+      hint: Please describe the equipment including brand, model, and specifications
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: estimated_value
+      label: Estimated Value in USD
+      hint: Approximate value for tax deduction purposes
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_amount
+      label: Monetary Donation Amount
+      hint: If making a monetary donation, enter amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: preferred_delivery
+      label: Preferred Delivery Method
+      hint: How would you like to deliver the donation
+      type: select_one
+      options:
+      - Drop Off at Facility
+      - Schedule Pickup
+      - Mail or Ship
+      - Other
+      required: true
+    - id: 11
+      name: donation_date
+      label: Preferred Donation Date
+      hint: When would you like to make the donation
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: recipient_preference
+      label: Recipient Preference
+      hint: Do you have a preference for who receives the donation
+      type: select_one
+      options:
+      - No Preference
+      - Children
+      - Adults
+      - Veterans
+      - Disaster Relief
+      required: false
+    - id: 13
+      name: tax_receipt_needed
+      label: Tax Receipt Required
+      hint: Would you like a tax-deductible receipt
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Would you like to receive updates about our programs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

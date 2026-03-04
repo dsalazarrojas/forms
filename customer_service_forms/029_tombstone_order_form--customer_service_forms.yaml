@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tombstone Order Form
+    pages:
+    - id: 1
+      name: customer_service_forms
+      label: Customer Service Forms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tombstone_order_form
+      label: tombstone order form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_of_death
+      label: date of death
+      hint: null
+      type: date
+      options: []
+      required: false

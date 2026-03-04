@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Report YBM
+    pages:
+    - id: 1
+      name: incident_report_ybm
+      label: incident_report_ybm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_time_zone
+      label: incident_time_zone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: incident_time_zone_options
+      label: incident_time_zone
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reporter_name
+      label: incident_reporter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reporter_role
+      label: incident_reporter_role
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: incident_reporter_email
+      label: incident_reporter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_phone
+      label: incident_reporter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: incident_comment
+      label: incident_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: incident_category
+      label: incident_category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: incident_priority
+      label: incident_priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: incident_assignee
+      label: incident_assignee
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: incident_escalate_to
+      label: incident_escalate_to
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

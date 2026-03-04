@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Analysis Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purchase_frequency
+      label: How often do you buy from us?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: favorite_product
+      label: What is your favorite product?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 9
+      name: purchase_date
+      label: When did you last purchase from us?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: purchase_time
+      label: What time of day do you like to shop?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: customer_satisfaction
+      label: How satisfied are you with our service?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

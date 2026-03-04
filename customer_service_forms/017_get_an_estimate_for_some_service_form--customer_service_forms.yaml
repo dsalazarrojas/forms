@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: get_an_estimate_for_some_service_form
+    pages:
+    - id: 1
+      name: get_an_estimate_for_some_service_form_page_1
+      label: get_an_estimate_for_some_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_details
+      label: service_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Customer 1''}'
+      - '{''id'': 2, ''label'': ''Customer 2''}'
+      - '{''id'': 3, ''label'': ''Customer 3''}'
+      required: false
+    - id: 4
+      name: get_an_estimate
+      label: get_an_estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_hours
+      label: service_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: get_estimate_for
+      label: get_estimate_for
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Today''}'
+      - '{''id'': 2, ''label'': ''Tomorrow''}'
+      - '{''id'': 3, ''label'': ''Next 7 Days''}'
+      required: false
+    - id: 7
+      name: service_address
+      label: service_address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Chat Jimmy''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_notes
+      label: service_notes
+      hint: null
+      type: text
+      options: []
+      required: false

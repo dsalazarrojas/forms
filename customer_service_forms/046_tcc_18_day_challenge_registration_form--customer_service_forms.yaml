@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: tcc_18_day_challenge_registration_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_settings
+      label: Settings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_enquiry_email
+      label: Enquiry Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_enquiry_notification_1
+      label: Notification 1
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: form_enquiry_notification_2
+      label: Notification 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_publish
+      label: Publish
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

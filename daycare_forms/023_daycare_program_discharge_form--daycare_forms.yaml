@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Program Discharge Form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_discharge
+      label: Reason For Discharge
+      hint: Please explain why the child is being discharged.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: caregiver_contact_information
+      label: Caregiver Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: discharge_signature
+      label: Discharge Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: child_gender
+      label: Child Gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: caregiver_email
+      label: Caregiver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: caregiver_phone_number
+      label: Caregiver Phone Number
+      hint: Please enter the 10 digit phone number of the primary contact.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Complete''}'
+      - '{''label'': ''Incomplete''}'
+      required: false
+    - id: 13
+      name: daycare_name
+      label: Daycare Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: daycare_address
+      label: Daycare Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: daycare_phone_number
+      label: Daycare Phone Number
+      hint: Please enter the 10 digit phone number of the daycare.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mandatory Vaccination Survey
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_vaccination
+      label: Date Of Vaccination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: dosage_vaccination
+      label: Dosage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_administered
+      label: Vaccine Administered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_last_updated
+      label: Date Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_compliance
+      label: Patient Compliance
+      hint: null
+      type: select_multiple
+      options:
+      - Compliance 1
+      - Compliance 2
+      - Compliance 3
+      - Compliance 4
+      - Compliance 5
+      required: true
+    - id: 11
+      name: vaccination_certificate
+      label: Vaccination Certificate
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_contact
+      label: Email Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_contact
+      label: Phone Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fax_contact
+      label: Fax Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address_contact
+      label: Address Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_provider_contact
+      label: Medical Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_last_contact
+      label: Date Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_provider_signature
+      label: Medical Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: vaccination_administered_date
+      label: Vaccination Administered Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: vaccination_administered_by
+      label: Vaccination Administered By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: patient_vaccination_status
+      label: Patient Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Form Template
+    pages:
+    - id: 1
+      name: customer_feedback_form
+      label: Customer Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_feedback
+      label: How can we improve?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

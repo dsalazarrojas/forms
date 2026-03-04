@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Attestation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: travel_attestation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: travel_attestation_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Coronavirus Response Forms
+      - General Forms
+      - Other Forms
+      required: false
+    - id: 4
+      name: form_file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_category_2
+      label: subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_questions
+      label: questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_file_2
+      label: file2
+      hint: null
+      type: text
+      options: []
+      required: false

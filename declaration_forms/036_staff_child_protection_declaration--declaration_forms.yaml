@@ -1,0 +1,61 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Staff Child Protection Declaration
+    pages:
+    - id: 1
+      name: staff_child_protection_declaration_form
+      label: Staff Child Protection Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acknowledge_policies
+      label: Acknowledge Policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'I understand and agree to the following policies:'
+      - I have read and understand the policies and procedures.
+      - I understand that I am expected to report any concerns or suspicions of child
+        abuse or neglect.
+      required: false
+    - id: 3
+      name: declare_protection_declaration
+      label: Declare Protection Declaration
+      hint: null
+      type: select_one
+      options:
+      - I declare that I am aware of the child protection policies and procedures
+        of the organization
+      - I am not aware of the child protection policies and procedures of the organization
+      required: false
+    - id: 4
+      name: report_concerns
+      label: Report Concerns
+      hint: Please report any concerns or suspicions of child abuse or neglect to
+        our organization's Child Protection Officer.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: declare_declared
+      label: Declared
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Miscarriage Discharge Tracking Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: follow_up_plan
+      label: follow_up_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_contact
+      label: patient_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: doctor_contact
+      label: doctor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_follow_up_date
+      label: next_follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false

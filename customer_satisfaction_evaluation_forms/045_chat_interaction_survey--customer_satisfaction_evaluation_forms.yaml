@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chat Interaction Survey
+    pages:
+      - id: 1
+        name: section_customer_info
+        label: -- Your Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: For follow-up communication
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: chat_date
+        label: Date of Chat Interaction
+        hint: When did you chat with us
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: agent_name
+        label: Name of Chat Agent
+        hint: If you remember the agent's name
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_issue
+        label: -- Chat Issue Resolution --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: issue_type
+        label: Type of Issue Addressed
+        hint: What was the chat about
+        type: select_one
+        options: ["Product Support", "Billing Question", "Account Issue", "General Inquiry", "Complaint", "Other"]
+        required: true
+      - id: 8
+        name: issue_resolved
+        label: Was Your Issue Resolved
+        hint: Did we solve your problem
+        type: select_one
+        options: ["Yes, Fully Resolved", "Partially Resolved", "Not Resolved", "No Issue to Resolve"]
+        required: true
+      - id: 9
+        name: resolution_satisfaction
+        label: Satisfaction with Resolution
+        hint: How satisfied with the outcome
+        type: select_one
+        options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+        required: true
+      - id: 10
+        name: section_agent
+        label: -- Agent Performance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: agent_friendliness
+        label: Agent Friendliness
+        hint: How friendly was the agent
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 12
+        name: agent_knowledge
+        label: Agent Knowledge and Competence
+        hint: Did agent know their job
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 13
+        name: agent_responsiveness
+        label: Agent Responsiveness
+        hint: How quickly did agent respond
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 14
+        name: agent_professionalism
+        label: Agent Professionalism
+        hint: Professional conduct
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: false
+      - id: 15
+        name: section_experience
+        label: -- Overall Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: chat_ease
+        label: Ease of Using Chat Interface
+        hint: How easy was the chat to use
+        type: select_one
+        options: ["Very Easy", "Easy", "Moderate", "Difficult"]
+        required: false
+      - id: 17
+        name: chat_speed
+        label: Speed of Chat Response
+        hint: How fast were the responses
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Slow"]
+        required: true
+      - id: 18
+        name: overall_experience
+        label: Overall Chat Experience
+        hint: Rate your complete experience
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 19
+        name: section_likelihood
+        label: -- Future Intent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: recommend_chat
+        label: Would You Use Chat Support Again
+        hint: Will you use chat next time
+        type: select_one
+        options: ["Definitely Yes", "Probably Yes", "Maybe", "Probably No", "Definitely No"]
+        required: true
+      - id: 21
+        name: recommend_others
+        label: Would You Recommend Chat Support to Others
+        hint: Will you tell friends about us
+        type: select_one
+        options: ["Definitely", "Probably", "Maybe", "Probably Not", "Definitely Not"]
+        required: false
+      - id: 22
+        name: section_feedback
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: what_went_well
+        label: What Went Well
+        hint: Positive aspects of the chat
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: improvements
+        label: Suggestions for Improvement
+        hint: How we can improve
+        type: text
+        options: []
+        required: false

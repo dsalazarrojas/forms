@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Customer Registration Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_type
+      label: Customer Type
+      hint: Select your customer category
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Government
+      - Non-Profit
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_info_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_registration_number
+      label: Business Registration Number
+      hint: License or registration ID
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Manufacturing
+      - Services
+      - Education
+      - Other
+      required: false
+    - id: 11
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: false
+    - id: 12
+      name: website
+      label: Company Website
+      hint: Your business website URL
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_section
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: preferences_section
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text Message
+      required: true
+    - id: 21
+      name: communication_frequency
+      label: How often would you like to hear from us?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - As needed only
+      required: false
+    - id: 22
+      name: services_interested
+      label: Services you are interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Products
+      - Consulting
+      - Support Services
+      - Training
+      - Maintenance
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,255 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Biology Lesson Feedback Survey
+    pages:
+      - id: 1
+        name: student_information
+        label: Student Information
+        hint: Optional - provide your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Name
+        hint: Your name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: grade_level
+        label: Grade Level
+        hint: Your current grade
+        type: select_one
+        options:
+          - 9th Grade
+          - 10th Grade
+          - 11th Grade
+          - 12th Grade
+          - College/University
+          - Other
+        required: false
+      - id: 4
+        name: lesson_information
+        label: Lesson Information
+        hint: About today's biology lesson
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: lesson_topic
+        label: Lesson Topic
+        hint: What topic was covered
+        type: select_one
+        options:
+          - Cell Biology
+          - Genetics
+          - Evolution
+          - Ecology
+          - Human Anatomy
+          - Plant Biology
+          - Microbiology
+          - Biochemistry
+          - Other
+        required: true
+      - id: 6
+        name: lesson_date
+        label: Lesson Date
+        hint: When was this lesson
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall satisfaction with the lesson
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: lesson_clarity
+        label: Lesson Clarity
+        hint: How clear was the lesson content
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 9
+        name: pacing
+        label: Lesson Pacing
+        hint: How was the pace of the lesson
+        type: select_one
+        options:
+          - Too Slow
+          - Just Right
+          - Too Fast
+          - Very Too Fast
+        required: true
+      - id: 10
+        name: engagement_level
+        label: Engagement Level
+        hint: How engaged did you feel during the lesson
+        type: select_one
+        options:
+          - Very Engaged
+          - Engaged
+          - Somewhat Engaged
+          - Not Very Engaged
+          - Not Engaged At All
+        required: true
+      - id: 11
+        name: material_understanding
+        label: Understanding of Material
+        hint: How well do you understand the material
+        type: select_one
+        options:
+          - Excellent Understanding
+          - Good Understanding
+          - Fair Understanding
+          - Poor Understanding
+          - No Understanding
+        required: true
+      - id: 12
+        name: teaching_effectiveness
+        label: Teaching Effectiveness
+        hint: Rate the effectiveness of teaching methods
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Not Very Effective
+          - Ineffective
+        required: true
+      - id: 13
+        name: visual_aids
+        label: Visual Aids and Materials
+        hint: How helpful were visual aids
+        type: select_one
+        options:
+          - Very Helpful
+          - Helpful
+          - Somewhat Helpful
+          - Not Helpful
+          - No Visual Aids Used
+        required: true
+      - id: 14
+        name: difficulty_level
+        label: Difficulty Level
+        hint: How difficult was the lesson content
+        type: select_one
+        options:
+          - Too Easy
+          - Easy
+          - Just Right
+          - Difficult
+          - Too Difficult
+        required: true
+      - id: 15
+        name: participation_opportunity
+        label: Opportunity for Participation
+        hint: Did you have enough opportunity to participate
+        type: select_one
+        options:
+          - Yes - More Than Enough
+          - Yes - Adequate
+          - Neutral
+          - No - Not Enough
+          - No - None At All
+        required: true
+      - id: 16
+        name: what_helped_learning
+        label: What Helped Your Learning Most
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Lecture Explanation
+          - Visual Diagrams
+          - Hands-on Activities
+          - Group Discussions
+          - Practice Problems
+          - Videos or Animations
+          - Textbook Readings
+          - Nothing Helped
+        required: true
+      - id: 17
+        name: what_hindered_learning
+        label: What Hindered Your Learning
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Nothing - Everything Was Good
+          - Too Much Information
+          - Too Fast Paced
+          - Too Slow Paced
+          - Unclear Explanations
+          - Distractions
+          - Lack of Examples
+          - Technical Issues
+        required: true
+      - id: 18
+        name: topics_needing_review
+        label: Topics Needing More Review
+        hint: What concepts need more explanation
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: suggestions_for_improvement
+        label: Suggestions for Improvement
+        hint: How could this lesson be improved
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you would like to share
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: would_recommend
+        label: Would You Recommend This Lesson Format
+        hint: To other students
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 22
+        name: interest_in_subject
+        label: Interest in Biology After This Lesson
+        hint: Has your interest changed
+        type: select_one
+        options:
+          - Increased Significantly
+          - Increased Slightly
+          - No Change
+          - Decreased Slightly
+          - Decreased Significantly
+        required: true

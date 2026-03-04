@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pile Driving Compliance Affidavit
+    pages:
+    - id: 1
+      name: pile_driving_work_details
+      label: Pile driving work details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pile_driving_compliance_affidavit
+      label: Pile driving compliance affidavit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: signed_attestation
+      label: Signed attestation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

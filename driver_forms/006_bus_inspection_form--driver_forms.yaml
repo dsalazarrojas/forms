@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Inspection Form
+    pages:
+    - id: 1
+      name: inspection_details
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date inspection was performed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_id
+      label: Inspector ID
+      hint: Employee or certification ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_information
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bus_number
+      label: Bus Number
+      hint: Fleet identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_plate
+      label: License Plate
+      hint: Vehicle registration plate
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_make_model
+      label: Make and Model
+      hint: Manufacturer and model name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: odometer_reading
+      label: Odometer Reading
+      hint: Current mileage
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: exterior_inspection
+      label: -- Exterior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: body_condition
+      label: Body Condition
+      hint: Overall exterior condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Repair
+      - Poor
+      required: true
+    - id: 13
+      name: paint_condition
+      label: Paint and Graphics
+      hint: Paint finish and decals condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Touch-up
+      - Poor
+      required: true
+    - id: 14
+      name: window_condition
+      label: Windows and Glass
+      hint: All windows functional and intact
+      type: select_one
+      options:
+      - Functional
+      - Minor Issues
+      - Major Issues
+      - Not Acceptable
+      required: true
+    - id: 15
+      name: lights_inspection
+      label: Lights Operational
+      hint: Headlights, taillights, interior lights
+      type: select_one
+      options:
+      - All Operational
+      - Some Non-functional
+      - Multiple Issues
+      - Not Acceptable
+      required: true
+    - id: 16
+      name: tires_condition
+      label: Tires Condition
+      hint: Tire tread and condition
+      type: select_one
+      options:
+      - Good
+      - Acceptable
+      - Needs Replacement Soon
+      - Needs Immediate Replacement
+      required: true
+    - id: 17
+      name: interior_inspection
+      label: -- Interior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: seats_upholstery
+      label: Seats and Upholstery
+      hint: Condition of passenger seating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Repair
+      - Poor
+      required: true
+    - id: 19
+      name: flooring
+      label: Flooring Condition
+      hint: Interior floor status
+      type: select_one
+      options:
+      - Clean and Good
+      - Acceptable
+      - Needs Cleaning
+      - Needs Repair
+      - Poor
+      required: true
+    - id: 20
+      name: safety_equipment
+      label: Safety Equipment Present
+      hint: Fire extinguishers, first aid kits, etc
+      type: select_one
+      options:
+      - All Present and Functional
+      - Present but Needs Inspection
+      - Missing Items
+      - Not Acceptable
+      required: true
+    - id: 21
+      name: mechanical_systems
+      label: -- Mechanical Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: engine_condition
+      label: Engine Condition
+      hint: Overall engine status
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Service
+      - Poor
+      required: true
+    - id: 23
+      name: transmission
+      label: Transmission
+      hint: Transmission operation
+      type: select_one
+      options:
+      - Smooth
+      - Acceptable
+      - Needs Adjustment
+      - Needs Repair
+      - Poor
+      required: true
+    - id: 24
+      name: brakes_system
+      label: Brakes System
+      hint: Brake performance and condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Service
+      - Needs Urgent Repair
+      required: true
+    - id: 25
+      name: issues_notes
+      label: Issues Found and Notes
+      hint: Describe any maintenance needs or issues
+      type: text
+      options: []
+      required: false

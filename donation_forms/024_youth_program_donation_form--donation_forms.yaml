@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: youth_program_donation_form
+    pages:
+    - id: 1
+      name: form_details
+      label: form_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_time
+      label: donation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Payment Method 1
+      - Payment Method 2
+      - Payment Method 3
+      required: false
+    - id: 8
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: donor_phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false

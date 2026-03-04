@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Install Agreement
+    pages:
+    - id: 1
+      name: pre_install_agreement_form
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Individual'', ''label'': ''Individual''}'
+      - '{''value'': ''Business'', ''label'': ''Business''}'
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: install_date
+      label: Install Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: install_time
+      label: Install Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: installation_notes
+      label: Installation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

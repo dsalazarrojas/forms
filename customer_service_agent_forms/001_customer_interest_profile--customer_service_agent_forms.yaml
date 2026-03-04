@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Interest Profile
+    pages:
+    - id: 1
+      name: profile_page
+      label: customer_interest_profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_interests
+      label: interests
+      hint: null
+      type: select_multiple
+      options:
+      - Computers
+      - Mobile Phones
+      - Electronics
+      - Music
+      required: false
+    - id: 4
+      name: customer_phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Computers
+      - Mobile Phones
+      - Electronics
+      - Music
+      required: true
+    - id: 8
+      name: customer_subcategory
+      label: subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''Computers'': ''Desktops''}'
+      - '{''Mobile Phones'': ''Smartphones''}'
+      - '{''Electronics'': ''Televisions''}'
+      - '{''Music'': ''Instruments''}'
+      required: true

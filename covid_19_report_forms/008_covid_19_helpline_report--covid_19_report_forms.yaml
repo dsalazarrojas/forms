@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Helpline Report
+    pages:
+    - id: 1
+      name: section_caller_information
+      label: -- Caller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: caller_name
+      label: Caller's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: caller_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: caller_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: caller_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: call_date
+      label: Date of Call
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: call_time
+      label: Time of Call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: section_complaint_details
+      label: -- Complaint and Concern Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: complaint_type
+      label: Type of Complaint
+      hint: null
+      type: select_one
+      options:
+      - Health symptoms
+      - Access to testing
+      - Vaccination questions
+      - Healthcare facility issue
+      - Financial assistance
+      - Mental health concern
+      - Other
+      required: true
+    - id: 10
+      name: complaint_description
+      label: Detailed Description of Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: symptom_details
+      label: If health related, describe symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_suggested_treatment
+      label: -- Recommended Treatment and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: treatment_recommended
+      label: Treatment or Support Recommended
+      hint: null
+      type: select_multiple
+      options:
+      - Testing recommended
+      - Medical evaluation needed
+      - Vaccination guidance
+      - Mental health support
+      - Financial assistance referral
+      - Community resources
+      - Home care instructions
+      required: false
+    - id: 14
+      name: treatment_notes
+      label: Details of Recommended Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_follow_up
+      label: -- Follow-up and Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_needed
+      label: Does this caller require follow-up?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: follow_up_date
+      label: Recommended Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: resolution_status
+      label: Current Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - In progress
+      - Pending further action
+      - Referred to specialist
+      required: true
+    - id: 19
+      name: section_reporter_info
+      label: -- Helpline Staff Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: staff_name
+      label: Helpline Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cab Evaluation Form
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle ID
+      hint: Taxi or cab identification number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: license_plate
+      label: License Plate Number
+      hint: Vehicle registration plate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of person conducting evaluation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: Year, make, and model of cab
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Overall state of vehicle exterior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs repair
+      required: true
+    - id: 8
+      name: interior_condition
+      label: Interior Condition
+      hint: Overall state of vehicle interior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs cleaning
+      required: true
+    - id: 9
+      name: tire_condition
+      label: Tire Condition
+      hint: State of all tires including spare
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair - monitor
+      - Poor - replace soon
+      - Critical - replace immediately
+      required: true
+    - id: 10
+      name: brake_system
+      label: Brake System
+      hint: Condition of braking system
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs service
+      - Unsafe - do not operate
+      required: true
+    - id: 11
+      name: engine_performance
+      label: Engine Performance
+      hint: Engine condition and performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs service
+      - Critical
+      required: true
+    - id: 12
+      name: lights_and_signals
+      label: Lights and Signals
+      hint: All exterior lights functioning
+      type: select_one
+      options:
+      - All working
+      - Minor issues
+      - Multiple issues
+      - Critical - needs immediate repair
+      required: true
+    - id: 13
+      name: ac_heating
+      label: AC and Heating
+      hint: Climate control system status
+      type: select_one
+      options:
+      - Both working
+      - AC only
+      - Heat only
+      - Neither working
+      - Not applicable
+      required: true
+    - id: 14
+      name: safety_equipment
+      label: Safety Equipment
+      hint: Fire extinguisher, first aid, etc.
+      type: select_one
+      options:
+      - All present and valid
+      - Present but expired
+      - Missing items
+      - Not inspected
+      required: true
+    - id: 15
+      name: meter_condition
+      label: Taximeter Condition
+      hint: Meter functionality and calibration
+      type: select_one
+      options:
+      - Working properly
+      - Minor issues
+      - Needs calibration
+      - Not working
+      required: true
+    - id: 16
+      name: issues_found
+      label: Issues Found
+      hint: List any problems discovered
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: repairs_needed
+      label: Repairs Needed
+      hint: Describe required repairs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_status
+      label: Vehicle Status After Evaluation
+      hint: Is vehicle approved for service
+      type: select_one
+      options:
+      - Approved for service
+      - Approved with minor repairs
+      - Restricted service
+      - Out of service - requires repair
+      required: true
+    - id: 19
+      name: next_evaluation_date
+      label: Next Evaluation Date
+      hint: When should next inspection occur
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations or notes
+      type: text
+      options: []
+      required: false

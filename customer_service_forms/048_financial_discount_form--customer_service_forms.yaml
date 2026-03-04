@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Discount Form
+    pages:
+    - id: 1
+      name: customer_service_forms_financial_discount_form
+      label: Financial Discount Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_forms_financial_discount_form_customer_id
+      label: Customer Id
+      hint: Enter Customer Id
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_service_forms_financial_discount_form_code
+      label: Discount Code
+      hint: Enter Discount Code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_forms_financial_discount_form_code_type
+      label: Code Type
+      hint: Type of Discount Code
+      type: select_one
+      options:
+      - Percentage
+      - Fixed
+      - Dollar Amount
+      required: false
+    - id: 5
+      name: customer_service_forms_financial_discount_form_amount
+      label: Amount
+      hint: Enter Amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_forms_financial_discount_form_amount_type
+      label: Amount Type
+      hint: Type of Amount
+      type: select_multiple
+      options:
+      - Percentage
+      - Fixed
+      - Dollar Amount
+      required: false
+    - id: 7
+      name: customer_service_forms_financial_discount_form_date
+      label: Date
+      hint: Enter Date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_forms_financial_discount_form_time
+      label: Time
+      hint: Enter Time
+      type: time
+      options: []
+      required: false

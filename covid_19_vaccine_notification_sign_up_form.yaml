@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid-19-vaccine-notification-sign-up-form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''7-1'', ''label'': ''Option 1''}'
+      - '{''id'': ''7-2'', ''label'': ''Option 2''}'
+      - '{''id'': ''7-3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''8-1'', ''label'': ''Option 1''}'
+      - '{''id'': ''8-2'', ''label'': ''Option 2''}'
+      - '{''id'': ''8-3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 9
+      name: select_one_date
+      label: Select One Date
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''9-1'', ''label'': ''Jan 1 2022''}'
+      - '{''id'': ''9-2'', ''label'': ''Jan 15 2022''}'
+      required: false
+    - id: 10
+      name: select_multiple_date
+      label: Select Multiple Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''10-1'', ''label'': ''Jan 1 2022''}'
+      - '{''id'': ''10-2'', ''label'': ''Jan 15 2022''}'
+      required: false

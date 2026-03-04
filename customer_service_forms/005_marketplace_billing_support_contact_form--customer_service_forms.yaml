@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Billing Support Contact Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_inquiries
+      label: Billing Inquiries
+      hint: Please provide detailed information about the issue
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: marketplace_information
+      label: Marketplace Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: marketplace_id
+      label: Marketplace ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''General Inquiry''}'
+      - '{''label'': ''Billing Issue''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Billing''}'
+      - '{''label'': ''General''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 10
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

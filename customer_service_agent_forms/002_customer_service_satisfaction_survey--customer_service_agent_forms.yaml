@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: customer_service_satisfaction_survey
+      label: How satisfied are you with our service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_satisfaction_level
+      label: What was your experience like during your interaction with us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_service_agent
+      label: Who did you speak with during your interaction?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very satisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 3, ''label'': ''Not satisfied''}'
+      required: false
+    - id: 4
+      name: customer_service_satisfaction_why
+      label: What could we improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_service_satisfaction_what_we_did
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_satisfaction_what_we_could_do
+      label: What could we do better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_satisfaction_who_contacted
+      label: Who contacted you?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: customer_service_satisfaction_additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_satisfaction_satisfaction_level_2
+      label: How would you rate your satisfaction level?
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_satisfaction_what_we_did_2
+      label: What did we do well 2?
+      hint: null
+      type: text
+      options: []
+      required: false

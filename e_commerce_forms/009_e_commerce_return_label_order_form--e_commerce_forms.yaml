@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_return_label_order_form
+    pages:
+    - id: 1
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_return
+      label: Reason for Return
+      hint: null
+      type: select_one
+      options:
+      - Product Defective
+      - Item Not As Described
+      - Incorrect Item Sent
+      - Order Cancellation
+      - Other
+      required: true
+    - id: 4
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Return Requested
+      - Partially Refunded
+      - Fully Refunded
+      - Refunded and Reshipped
+      - Closed
+      required: true
+    - id: 5
+      name: return_photo
+      label: Attach Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_notes
+      label: Return Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ship_method
+      label: Ship Method
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Express
+      - chartInstance
+      required: true
+    - id: 8
+      name: ship_carrier
+      label: Ship Carrier
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - FedEx
+      - UPS
+      required: true
+    - id: 9
+      name: ship_tracking_number
+      label: Ship Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: true

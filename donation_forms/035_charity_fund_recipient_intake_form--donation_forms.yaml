@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fund Recipient Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For eligibility
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: household_size
+      label: Household Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: dependents
+      label: Number of Dependents
+      hint: Children or others
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: employment_status
+      label: Employment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Student
+      required: true
+    - id: 10
+      name: monthly_income
+      label: Total Monthly Income
+      hint: Before taxes
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 to $2000
+      - $2001 to $3000
+      - $3001 to $4000
+      - $4001 to $5000
+      - Over $5000
+      required: true
+    - id: 11
+      name: assistance_type
+      label: Type of Assistance Needed
+      hint: What you need
+      type: select_multiple
+      options:
+      - Emergency rent assistance
+      - Utility bill assistance
+      - Food assistance
+      - Medical expense help
+      - Transportation help
+      - Educational support
+      - Clothing assistance
+      - Other
+      required: true
+    - id: 12
+      name: assistance_amount
+      label: Amount of Assistance Needed
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Immediate emergency
+      - Very urgent
+      - Urgent
+      - Somewhat urgent
+      - Not urgent
+      required: true
+    - id: 14
+      name: situation_description
+      label: Describe Your Situation
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_expenses
+      label: Major Monthly Expenses
+      hint: Rent utilities etc
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: other_assistance
+      label: Other Assistance Received
+      hint: From other sources
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporting_documents
+      label: Can You Provide Supporting Documents
+      hint: Bills statements etc
+      type: select_one
+      options:
+      - Yes I can provide
+      - Some documents
+      - No documents available
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Social services
+      - Community organization
+      - Friend or family
+      - Website
+      - Religious organization
+      - Other
+      required: false
+    - id: 19
+      name: consent_verification
+      label: Consent to Verify Information
+      hint: Background check
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

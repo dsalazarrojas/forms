@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Export Declaration Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: declaration_details
+      label: Declaration Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: export_date
+      label: Export Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: note
+      options: []
+      required: false

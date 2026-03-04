@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Order Form Template WorldPay UK
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_billing
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_postcode
+      label: Post Code
+      hint: UK postcode
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: same_as_billing
+      label: Shipping address same as billing?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: shipping_address
+      label: Shipping Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_items
+      label: -- Order Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - T-shirt
+      - Dress
+      - Shirt
+      - Jeans
+      - Jacket
+      - Sweater
+      - Accessories
+      - Other
+      required: true
+    - id: 16
+      name: item_description
+      label: Item Description
+      hint: Name or reference code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 18
+      name: colour
+      label: Colour
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: price_per_unit
+      label: Price Per Unit - GBP
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_delivery
+      label: -- Delivery Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_option
+      label: Delivery Option
+      hint: null
+      type: select_one
+      options:
+      - Standard delivery - 5-7 days
+      - Next day delivery
+      - Express delivery - 2-3 days
+      - Special delivery
+      required: true
+    - id: 23
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: section_terms
+      label: -- Order Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: terms_accepted
+      label: I accept the terms and conditions
+      hint: By proceeding, you agree to our policies
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: user_satisfaction_analysis_report_form
+    pages:
+    - id: 1
+      name: report_form
+      label: User Satisfaction Analysis Report Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: user_comments
+      label: Emacs Users Comments
+      hint: Please provide a brief description of the issue or concern you have with
+        your account.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: category_2
+      label: Category 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

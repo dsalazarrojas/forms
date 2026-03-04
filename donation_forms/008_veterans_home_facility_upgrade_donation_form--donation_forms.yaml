@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: VETERANS_HOME_UPGRADE_DONATION_FORM
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Check''}'
+      - '{''id'': 3, ''label'': ''Credit Card''}'
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Frequency of Donation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''One-time''}'
+      - '{''id'': 2, ''label'': ''Repeating''}'
+      required: false
+    - id: 5
+      name: donation_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: donation_comment
+      label: Donation Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: donation_amount_other
+      label: Other Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Check''}'
+      - '{''id'': 3, ''label'': ''Credit Card''}'
+      required: false

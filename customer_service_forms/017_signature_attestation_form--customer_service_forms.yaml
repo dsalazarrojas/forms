@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signature Attestation Form
+    pages:
+    - id: 1
+      name: signature_requester_name
+      label: Signature Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature_requester_title
+      label: Signature Requester Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signature_requester_email
+      label: Signature Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: signee_name
+      label: Signee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signee_title
+      label: Signee Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: signee_email
+      label: Signee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: signature_requester_organization
+      label: Signature Requester Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signee_organization
+      label: Signee Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_requester_date
+      label: Signature Requester Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: signee_date
+      label: Signee Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: signature_requester_time
+      label: Signature Requester Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: signee_time
+      label: Signee Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: signee_phone
+      label: Signee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_requester_phone
+      label: Signature Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_requester_signature
+      label: Signature Requester Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signee_signature
+      label: Signee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_requester_comments
+      label: Signature Requester Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signee_comments
+      label: Signee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_requester_attestation_status
+      label: Signature Requester Attestation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: true
+    - id: 20
+      name: signee_attestation_status
+      label: Signee Attestation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: true
+    - id: 21
+      name: signature_requester_reason
+      label: Signature Requester Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signee_reason
+      label: Signee Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_requester_notes
+      label: Signature Requester Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signee_notes
+      label: Signee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_requester_signature_id
+      label: Signature Requester Signature ID
+      hint: null
+      type: text
+      options: []
+      required: false

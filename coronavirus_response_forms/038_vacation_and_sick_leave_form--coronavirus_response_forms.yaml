@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation And Sick Leave Form
+    pages:
+    - id: 1
+      name: vacation_dates
+      label: Vacation dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: number_of_days
+      label: Number of days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_absence
+      label: Reason for absence
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Sick
+      - Personal
+      - Family
+      - Other
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: select_multiple
+      options:
+      - Employee ID 1
+      - Employee ID 2
+      - Employee ID 3
+      - Employee ID 4
+      - Employee ID 5
+      - Employee ID 6
+      required: false
+    - id: 7
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: manager_phone
+      label: Manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form submitted by
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      - Employee
+      required: false
+    - id: 11
+      name: submitted_by_email
+      label: Submitted by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by_phone
+      label: Submitted by phone
+      hint: null
+      type: text
+      options: []
+      required: false

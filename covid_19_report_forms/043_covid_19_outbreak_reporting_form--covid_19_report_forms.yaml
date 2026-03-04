@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Outbreak Reporting Form
+    pages:
+    - id: 1
+      name: facility_header
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Nursing Home
+      - School
+      - Office
+      - Retail
+      - Food Service
+      - Manufacturing
+      - Other
+      required: true
+    - id: 4
+      name: address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporting_contact
+      label: Reporting Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: outbreak_header
+      label: -- Outbreak Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: outbreak_start_date
+      label: Outbreak Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: confirmed_cases
+      label: Number of Confirmed Cases
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: suspected_cases
+      label: Number of Suspected Cases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: deaths
+      label: Number of Deaths Related to COVID-19
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: hospitalizations
+      label: Number of Hospitalizations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: icu_admissions
+      label: Number of ICU Admissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: ventilator_use
+      label: Number on Mechanical Ventilation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: population_header
+      label: -- Population Affected --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_population
+      label: Total Population in Facility
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: attack_rate
+      label: Attack Rate percentage
+      hint: Confirmed cases per total population
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: staff_affected
+      label: Number of Staff Members Affected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: residents_affected
+      label: Number of Residents or Clients Affected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: response_header
+      label: -- Response Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: measures_taken
+      label: Measures taken to contain outbreak
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Isolation of Positive Cases
+      - Quarantine of Contacts
+      - Enhanced Cleaning
+      - Testing Program
+      - Vaccination Campaign
+      - Staffing Adjustments
+      - Visitation Restrictions
+      - Other
+      required: true
+    - id: 24
+      name: external_support
+      label: External support requested
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: support_received
+      label: Type of support received
+      hint: null
+      type: text
+      options: []
+      required: false

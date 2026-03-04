@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Costume Measurement Form
+    pages:
+    - id: 1
+      name: actor_name
+      label: Actor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: measurement_taken_by
+      label: Measurement Taken By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bust
+      label: Bust
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: waist
+      label: Waist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hip_circumference
+      label: Hip Circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sleeve_length
+      label: Sleeve Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pant_length
+      label: Pant Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shoe_size
+      label: Shoe Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: body_type
+      label: Body Type
+      hint: null
+      type: select_one
+      options:
+      - Petite
+      - Average
+      - Tall
+      - Athletic
+      - Petite
+      - Average
+      - Tall
+      - Athletic
+      required: false
+    - id: 12
+      name: clothing_size
+      label: Clothing Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false

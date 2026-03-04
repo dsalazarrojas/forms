@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_employee_screening_form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: screening_question_1
+      label: Have you recently traveled to an affected area?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: screening_question_2
+      label: Have you been in contact with someone with symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - option_4
+      - option_5
+      required: false
+    - id: 4
+      name: screening_question_3
+      label: Have you experienced any symptoms?
+      hint: null
+      type: select_one
+      options:
+      - option_6
+      - option_7
+      required: true
+    - id: 5
+      name: date_of_symptoms
+      label: Date of symptoms
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: employee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_info
+      label: Supervisor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: screening_question_4
+      label: Have you been tested positive?
+      hint: null
+      type: select_one
+      options:
+      - option_8
+      - option_9
+      required: true
+    - id: 11
+      name: result
+      label: Result
+      hint: null
+      type: note
+      options: []
+      required: true

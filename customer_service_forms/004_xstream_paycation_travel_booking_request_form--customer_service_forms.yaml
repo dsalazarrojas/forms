@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Xstream Paycation Travel Booking Request Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_travel_date
+      label: preferred_travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_length
+      label: travel_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_message
+      label: Client Message
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Incubator Mentorship Donation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donation_amount
+      label: Donations
+      hint: Enter the amount of your one-time or recurring gift
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - One Time
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_name
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: how_did_you_find_us
+      label: How Did You Hear About Us
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: other_info
+      label: Other Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_find_us
+      label: How Did You Find Us
+      hint: null
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Friend
+      - Other
+      required: false
+    - id: 19
+      name: other_source
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_source_info
+      label: Other Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit_button
+      label: Donate Now
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_confirmation
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: phone_confirmation
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree with the terms and conditions
+      - Yes, I understand that by donating, I am providing my name, address and other
+        information to Tech Incubator and its affiliates, in order to be able to provide
+        me with further updates on my donations.
+      - No, I do not agree
+      required: false
+    - id: 25
+      name: submit_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

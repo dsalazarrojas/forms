@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Schedule Overview
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: shift_coverage
+      label: Shift Coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scheduled_hours
+      label: Scheduled Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: internal_comments
+      label: Internal Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      - Option 11
+      - Option 12
+      - Option 13
+      - Option 14
+      - Option 15
+      required: true
+    - id: 14
+      name: assigned_support
+      label: Assigned Support
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: assigned_it
+      label: Assigned IT
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 16
+      name: shift_status
+      label: Shift Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 17
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 18
+      name: notes_internal
+      label: Notes Internal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes_external
+      label: Notes External
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_external_notes
+      label: Contact External Notes
+      hint: null
+      type: text
+      options: []
+      required: false

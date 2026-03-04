@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: iptv_service_feedback_survey
+    pages:
+    - id: 1
+      name: iptv_service_satisfaction
+      label: IPTV Service Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: iptv_provider
+      label: IPTV Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: channel
+      label: Channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: channel_quality
+      label: Channel Quality
+      hint: On a scale of 1-5, what's your rating for the quality of our channels?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: video_content
+      label: Video Content
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: service_availability
+      label: Service Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: On a scale of 1-5, how would you rate your overall experience with our
+        IPTV service?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: Share your ideas on how we can improve our service.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: iptv_service_satisfaction
+      label: Would you recommend our IPTV service to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

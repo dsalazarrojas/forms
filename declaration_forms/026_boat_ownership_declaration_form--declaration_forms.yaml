@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Ownership Declaration Form
+    pages:
+    - id: 1
+      name: declarant_name
+      label: Declarant Name
+      hint: Full legal name of owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: declarant_email
+      label: Declarant Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: declarant_phone
+      label: Declarant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: street_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: boat_hull_id
+      label: Boat Hull ID (HIN)
+      hint: Hull identification number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: boat_length
+      label: Boat Length
+      hint: Length in feet
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: boat_type
+      label: Boat Type
+      hint: Select boat category
+      type: select_one
+      options:
+      - Bowrider
+      - Cabin Cruiser
+      - Center Console
+      - Deck Boat
+      - Fishing Boat
+      - Pontoon
+      - Sailboat
+      - Ski Boat
+      - Yacht
+      - Other
+      required: true
+    - id: 14
+      name: boat_color
+      label: Boat Color
+      hint: Primary color
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: engine_make
+      label: Engine Make
+      hint: Engine manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: engine_model
+      label: Engine Model
+      hint: Engine model
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: engine_serial_number
+      label: Engine Serial Number
+      hint: Engine identification
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ownership_type
+      label: Ownership Type
+      hint: Type of ownership
+      type: select_one
+      options:
+      - Sole Owner
+      - Joint Owners
+      - Partnership
+      - Corporation
+      - LLC
+      - Trust
+      required: true
+    - id: 19
+      name: co_owner_name
+      label: Co-Owner Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: purchase_date
+      label: Date of Purchase
+      hint: When did you acquire the boat?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: purchase_price
+      label: Purchase Price
+      hint: Amount paid
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: title_number
+      label: Title Number
+      hint: If titled
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: registration_number
+      label: Registration Number
+      hint: Current registration
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lien_holder
+      label: Lien Holder
+      hint: If there is a loan
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ownership_percentage
+      label: Ownership Percentage
+      hint: Your percentage of ownership
+      type: select_one
+      options:
+      - 100%
+      - 50%
+      - Less than 50%
+      - Other
+      required: true
+    - id: 26
+      name: declaration_statement
+      label: Declaration Statement
+      hint: I declare that I am the legal owner
+      type: select_one
+      options:
+      - Yes, I Declare
+      - false
+      required: true
+    - id: 27
+      name: declarant_signature
+      label: Declarant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: notary_required
+      label: Notary Required
+      hint: Does this need notarization?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

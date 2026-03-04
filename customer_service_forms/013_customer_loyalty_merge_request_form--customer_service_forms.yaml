@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_loyalty_merge_request_form
+    pages:
+    - id: 1
+      name: customer_id
+      label: customerid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: customername
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_id_2
+      label: customerid2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_type
+      label: accounttype
+      hint: null
+      type: select_one
+      options:
+      - loyalty
+      - rewards
+      - account
+      required: false
+    - id: 8
+      name: account_status
+      label: accountstatus
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 9
+      name: account_manager
+      label: account_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_email
+      label: customeremail
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: customerphone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: request_date
+      label: requestdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: merge_status
+      label: mergestatus
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - declined
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: email_status
+      label: emailstatus
+      hint: null
+      type: select_one
+      options:
+      - sent
+      - notsent
+      - error
+      required: false
+    - id: 16
+      name: merge_notes
+      label: mergerequests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: request_date_time
+      label: requestdatet
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: customer_loyalty
+      label: customerloyalty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: account_number
+      label: accountnumber
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes_1
+      label: notes1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes_2
+      label: notes2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: email_1
+      label: email1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: email_2
+      label: email2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: merge_notes_1
+      label: mergenotes1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: merge_notes_2
+      label: mergenotes2
+      hint: null
+      type: text
+      options: []
+      required: true

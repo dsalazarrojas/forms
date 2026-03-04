@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 School Reporting Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: Full school name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_district
+      label: School District
+      hint: District name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_address
+      label: School Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: school_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_phone
+      label: School Phone
+      hint: Main office number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: principal_name
+      label: Principal Name
+      hint: School principal
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: principal_email
+      label: Principal Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: reporter_name
+      label: Reporter Name
+      hint: Person submitting report
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reporter_title
+      label: Reporter Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reporter_email
+      label: Reporter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: total_student_enrollment
+      label: Total Student Enrollment
+      hint: Current enrollment
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_staff_count
+      label: Total Staff Count
+      hint: All employees
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: learning_model
+      label: Current Learning Model
+      hint: Instruction mode
+      type: select_one
+      options:
+      - Fully in-person
+      - Hybrid
+      - Fully remote
+      - Virtual academy option
+      required: true
+    - id: 17
+      name: students_vaccinated_count
+      label: Number of Students Fully Vaccinated
+      hint: Completed vaccination series
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: students_vaccinated_percentage
+      label: Student Vaccination Percentage
+      hint: Approximate percentage
+      type: select_one
+      options:
+      - 0-25%
+      - 26-50%
+      - 51-75%
+      - 76-90%
+      - 91-100%
+      required: true
+    - id: 19
+      name: staff_vaccinated_count
+      label: Number of Staff Fully Vaccinated
+      hint: Completed vaccination series
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: staff_vaccinated_percentage
+      label: Staff Vaccination Percentage
+      hint: Approximate percentage
+      type: select_one
+      options:
+      - 0-25%
+      - 26-50%
+      - 51-75%
+      - 76-90%
+      - 91-100%
+      required: true
+    - id: 21
+      name: vaccine_clinic_hosted
+      label: Has your school hosted a vaccine clinic
+      hint: On-site vaccination
+      type: select_one
+      options:
+      - Yes multiple clinics
+      - Yes one clinic
+      - No but planning to
+      - No not planning to
+      required: true
+    - id: 22
+      name: positive_cases_students_week
+      label: Number of Student Positive Cases This Week
+      hint: New cases in past 7 days
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: positive_cases_staff_week
+      label: Number of Staff Positive Cases This Week
+      hint: New cases in past 7 days
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: quarantine_students
+      label: Number of Students Currently in Quarantine
+      hint: Current quarantine count
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: quarantine_staff
+      label: Number of Staff Currently in Quarantine
+      hint: Current quarantine count
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: classroom_closures
+      label: Number of Classroom Closures This Week
+      hint: Due to COVID-19
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: safety_measures
+      label: What safety measures are in place
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mask requirement
+      - Social distancing
+      - Enhanced cleaning
+      - Hand hygiene stations
+      - Health screening
+      - Improved ventilation
+      - Cohorting
+      - Outdoor activities
+      - None
+      required: true
+    - id: 28
+      name: outbreak_response
+      label: Is your school currently in outbreak response mode
+      hint: Outbreak status
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Other information
+      type: text
+      options: []
+      required: false

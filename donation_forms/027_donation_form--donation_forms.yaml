@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: donatoin_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One-time
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: false
+    - id: 4
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - category1
+      - category2
+      - category3
+      - category4
+      - category5
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Reset
+      required: false

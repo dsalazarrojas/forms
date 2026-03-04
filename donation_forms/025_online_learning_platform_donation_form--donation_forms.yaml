@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Learning Platform Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - One-time
+      required: false
+    - id: 7
+      name: frequency_note
+      label: Frequency Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_donated
+      label: Date Donated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_donated
+      label: Time Donated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      required: false
+    - id: 11
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: false

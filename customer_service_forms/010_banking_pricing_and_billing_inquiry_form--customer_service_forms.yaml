@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Pricing And Billing Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name as registered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Best contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Last 4 digits of account
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: Type of account you have
+      type: select_one
+      options:
+      - Checking Account
+      - Savings Account
+      - Money Market
+      - CD Account
+      - Credit Card
+      required: true
+    - id: 7
+      name: inquiry_category
+      label: Inquiry Category
+      hint: What is your question about?
+      type: select_one
+      options:
+      - Account Fees
+      - Service Charges
+      - Interest Rates
+      - Billing Statement
+      - Fee Waiver Request
+      - Account Upgrade Pricing
+      - Other Billing Question
+      required: true
+    - id: 8
+      name: specific_fee_question
+      label: Specific Fee or Charge Question
+      hint: What fee or charge are you asking about?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: fee_amount
+      label: Fee Amount in Question
+      hint: How much is the fee or charge?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: transaction_date
+      label: Transaction or Charge Date
+      hint: When did this charge appear?
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: billing_statement_period
+      label: Billing Statement Period
+      hint: Which statement shows this charge?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fee_description
+      label: Detailed Description of the Issue
+      hint: Explain your billing concern
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: fee_unexpected
+      label: Was This Fee Unexpected?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 14
+      name: previous_inquiry
+      label: Have You Inquired About This Before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: previous_reference
+      label: Previous Inquiry Reference Number
+      hint: If applicable, provide reference number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pricing_comparison
+      label: Are You Comparing Our Pricing to Other Banks?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: desired_outcome
+      label: What Resolution Are You Seeking?
+      hint: What would resolve this inquiry?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: account_good_standing
+      label: Is Your Account in Good Standing?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 19
+      name: customer_since
+      label: How Long Have You Been a Customer?
+      hint: Select your tenure
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months - 1 year
+      - 1 - 3 years
+      - 3 - 5 years
+      - 5+ years
+      required: false
+    - id: 20
+      name: contact_preference
+      label: Preferred Contact Method for Response
+      hint: How should we respond to you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      required: true

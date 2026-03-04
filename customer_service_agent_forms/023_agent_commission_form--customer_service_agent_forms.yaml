@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Commission Form
+    pages:
+    - id: 1
+      name: agent_full_name
+      label: Agent Full Name
+      hint: Enter the full name of the agent
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agent_id
+      label: Agent ID
+      hint: Enter the unique identifier for the agent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_email
+      label: Agent Email
+      hint: Enter the agent's email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period
+      label: Reporting Period
+      hint: Enter the month/year for which commission is being calculated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: commission_calculation_date
+      label: Commission Calculation Date
+      hint: Enter the date when the commission was calculated
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: sales_transactions_header
+      label: -- Sales Transactions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: transaction_count
+      label: Number of Transactions
+      hint: Enter the total number of transactions completed by the agent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_sales_amount
+      label: Total Sales Amount
+      hint: Enter the total dollar amount of all sales
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: commission_rate
+      label: Commission Rate (%)
+      hint: Enter the commission rate applicable to the agent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: base_commission_amount
+      label: Base Commission Amount
+      hint: Enter the base commission amount before adjustments
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: commission_adjustments_header
+      label: -- Commission Adjustments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: performance_bonus
+      label: Performance Bonus
+      hint: Enter any performance bonuses earned
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: penalty_deductions
+      label: Penalty Deductions
+      hint: Enter any deductions due to penalties
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: referral_bonuses
+      label: Referral Bonuses
+      hint: Enter any bonuses from referrals
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: other_adjustments
+      label: Other Adjustments
+      hint: Enter any other commission adjustments
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_commission_earned
+      label: Total Commission Earned
+      hint: Enter the total commission after all adjustments
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: commission_payment_status
+      label: Commission Payment Status
+      hint: What is the status of the commission payment?
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Processing
+      - On Hold
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will the commission be paid?
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Wire Transfer
+      - Other
+      required: true
+    - id: 19
+      name: payment_date
+      label: Expected Payment Date
+      hint: Enter the expected date of commission payment
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: manager_approval
+      label: Manager Approval
+      hint: Has a manager approved this commission calculation?
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Rejected
+      required: true
+    - id: 21
+      name: manager_name
+      label: Manager Name
+      hint: Enter the name of the approving manager
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Additional Notes
+      hint: Any additional notes about the commission calculation
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_review_submission_feedback_form
+    pages:
+    - id: 1
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_text
+      label: Feedback Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''rating_1'', ''label'': 1}'
+      - '{''id'': 7, ''name'': ''rating_2'', ''label'': 2}'
+      - '{''id'': 8, ''name'': ''rating_3'', ''label'': 3}'
+      - '{''id'': 9, ''name'': ''rating_4'', ''label'': 4}'
+      - '{''id'': 10, ''name'': ''rating_5'', ''label'': 5}'
+      required: true
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

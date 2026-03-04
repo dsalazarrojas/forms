@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: moderna_covid_19_vaccine_consent_form_cpesn--coronavirus_response_forms
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccine_manufacturer
+      label: Vaccine Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - Sputnik
+      - Pfizer
+      - AstraZeneca
+      - Moderna
+      required: false
+    - id: 3
+      name: consent_to_terms_and_conditions
+      label: Consent To Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to the terms and conditions of the vaccination process.
+      - I do not agree to the terms and conditions of the vaccination process.
+      required: false
+    - id: 4
+      name: vaccine_details
+      label: Vaccine Details
+      hint: null
+      type: select_multiple
+      options:
+      - Do you have a fever over 100.4F?
+      - Do you have a history of severe allergic reactions to vaccines?
+      - Do you have a bleeding disorder or are you taking medications that interfere
+        with clottingประก?
+      - Do you have a history of autoimmune disorders?
+      required: false
+    - id: 5
+      name: vaccine_screening_questions
+      label: Vaccine Screening Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Do you have a history of severe allergies?
+      - Do you have a history of seizures or convulsions?
+      - Do you have a history of heart disease or heart condition?
+      required: false
+    - id: 6
+      name: vaccine_administration
+      label: Vaccine Administration
+      hint: null
+      type: select_multiple
+      options:
+      - How long will the vaccination take?
+      - What are your vaccination options (in armประก?
+      required: false
+    - id: 7
+      name: patient_contact_information
+      label: Patient Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: terms_and_conditions
+      label: Terms And Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to the terms and conditions of the vaccination process.
+      - I do not agree to the terms and conditions of the vaccination process.
+      required: false
+    - id: 9
+      name: vaccine_dosage
+      label: Vaccine Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: patient_consent_note
+      label: prophets note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone_number
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Allocation Complaint Form
+    pages:
+    - id: 1
+      name: complaint_description
+      label: Describe your complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_id
+      label: Donor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_date
+      label: Complaint date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: donation_type
+      label: Donation type
+      hint: 'Select one:'
+      type: select_one
+      options:
+      - Donation
+      - Grant
+      - Other
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description_of_issue
+      label: Description of issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_of_resolution
+      label: Description of resolution
+      hint: Please provide a detailed description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: complainant_name
+      label: Complainant name
+      hint: null
+      type: text
+      options: []
+      required: false

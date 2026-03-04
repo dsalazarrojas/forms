@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Marketplace Customer Support Contact Request
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Technical Support'', ''value'': ''Technical Support''}'
+      - '{''id'': 2, ''label'': ''General Inquiries'', ''value'': ''General Inquiries''}'
+      required: true
+    - id: 3
+      name: inquiry_subject
+      label: Inquiry Subject
+      hint: Enter a brief description of your issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inquiry_detail
+      label: Inquiry Detail
+      hint: Tell us more about your issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: best_time_for_response
+      label: Best Time for Response
+      hint: How quickly do you need a response from us?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''As soon as possible'', ''value'': ''As soon as possible''}'
+      - '{''id'': 2, ''label'': ''Within a few hours'', ''value'': ''Within a few
+        hours''}'
+      - '{''id'': 3, ''label'': ''Later today'', ''value'': ''Later today''}'
+      - '{''id'': 4, ''label'': ''Later tomorrow'', ''value'': ''Later tomorrow''}'
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow-up Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_id
+      label: Customer ID
+      hint: If you have a customer ID or account number, please enter it
+      type: text
+      options: []
+      required: false

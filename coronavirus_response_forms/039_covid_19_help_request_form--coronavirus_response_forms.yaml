@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Help Request Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_town
+      label: City or Town
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Type of Assistance Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assistance_type
+      label: Type of Assistance Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial assistance
+      - Grocery delivery
+      - Medical supplies
+      - Mental health support
+      - Housing support
+      - Childcare
+      - Employment assistance
+      - Transportation
+      - Other
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Situation Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: situation_description
+      label: Describe Your Situation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: covid_impact
+      label: How COVID-19 Has Affected You
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_4
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: household_size
+      label: Household Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: dependent_children
+      label: Number of Dependent Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: elderly_dependents
+      label: Number of Elderly Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Income and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-employed
+      - Retired
+      - Student
+      - Other
+      required: true
+    - id: 19
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: savings_available
+      label: Savings Available
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - More than 6 months
+      required: true
+    - id: 21
+      name: section_header_6
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: health_conditions
+      label: Existing Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: covid_status
+      label: COVID-19 Status
+      hint: null
+      type: select_one
+      options:
+      - Never had COVID-19
+      - Currently have COVID-19
+      - Previously had COVID-19
+      - Unsure
+      required: false
+    - id: 24
+      name: urgency_level
+      label: Level of Urgency
+      hint: null
+      type: select_one
+      options:
+      - Immediate crisis
+      - Urgent
+      - Important
+      - Can wait
+      required: true
+    - id: 25
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

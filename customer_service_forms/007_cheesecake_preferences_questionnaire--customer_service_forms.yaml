@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheesecake Preferences Questionnaire
+    pages:
+    - id: 1
+      name: cheesecake_intro
+      label: -- Cheesecake Preferences Survey --
+      hint: Help us understand your cheesecake preferences
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 7
+      name: cheesecake_frequency
+      label: How often do you eat cheesecake?
+      hint: null
+      type: select_one
+      options:
+      - Several times per week
+      - Once a week
+      - 2-3 times per month
+      - Once a month
+      - A few times per year
+      - Rarely
+      required: true
+    - id: 8
+      name: preferred_flavors
+      label: Your favorite cheesecake flavors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Classic New York
+      - Chocolate
+      - Strawberry
+      - Caramel
+      - Cheesecake Brownie
+      - Raspberry
+      - Tiramisu
+      - Turtle Cheesecake
+      - Cookies and Cream
+      - Salted Caramel
+      required: true
+    - id: 9
+      name: crust_preference
+      label: Crust preference
+      hint: null
+      type: select_one
+      options:
+      - Graham Cracker
+      - Chocolate Cookie
+      - Vanilla Wafer
+      - Oreo
+      - No Crust
+      - No Preference
+      required: true
+    - id: 10
+      name: texture_preference
+      label: Texture preference
+      hint: null
+      type: select_one
+      options:
+      - Dense and rich
+      - Light and fluffy
+      - Creamy and smooth
+      - Slightly grainy
+      - No preference
+      required: true
+    - id: 11
+      name: topping_preference
+      label: Favorite cheesecake toppings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fruit sauce
+      - Chocolate sauce
+      - Caramel sauce
+      - Fresh berries
+      - Nuts
+      - Whipped cream
+      - Graham cracker crumbs
+      - Chocolate chips
+      - Plain no toppings
+      required: false
+    - id: 12
+      name: serving_temperature
+      label: How do you prefer your cheesecake served?
+      hint: null
+      type: select_one
+      options:
+      - Chilled from refrigerator
+      - Room temperature
+      - Slightly warmed
+      - Frozen
+      - No preference
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Low-sugar
+      - Nut-free
+      - Other
+      required: false
+    - id: 14
+      name: cheesecake_occasion
+      label: When do you typically enjoy cheesecake?
+      hint: null
+      type: select_multiple
+      options:
+      - Dessert after dinner
+      - Special occasions
+      - Birthday celebrations
+      - Holiday gatherings
+      - As a treat
+      - Coffee break snack
+      - Other
+      required: true
+    - id: 15
+      name: packaging_preference
+      label: Preferred cheesecake packaging
+      hint: null
+      type: select_one
+      options:
+      - Individual slice
+      - Whole cake
+      - Sampler pack
+      - No preference
+      required: true
+    - id: 16
+      name: price_range
+      label: Price range you are willing to pay per slice
+      hint: null
+      type: select_one
+      options:
+      - Under 5 dollars
+      - 5-8 dollars
+      - 8-12 dollars
+      - 12-15 dollars
+      - Over 15 dollars
+      required: true
+    - id: 17
+      name: purchase_location
+      label: Where do you usually buy cheesecake?
+      hint: null
+      type: select_multiple
+      options:
+      - Bakery
+      - Restaurant
+      - Grocery store
+      - Online
+      - Homemade
+      - Specialty food shop
+      required: true
+    - id: 18
+      name: new_flavor_interest
+      label: Would you be interested in trying new cheesecake flavors?
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not particularly interested
+      - Not interested
+      required: true
+    - id: 19
+      name: suggestions
+      label: Do you have any suggestions for new cheesecake flavors?
+      hint: null
+      type: text
+      options: []
+      required: false

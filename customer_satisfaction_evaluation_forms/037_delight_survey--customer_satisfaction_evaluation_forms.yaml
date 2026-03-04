@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delight Survey
+    pages:
+    - id: 1
+      name: pra_pan
+      label: how_was_it
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: customer_service
+      label: customer-service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_satisfaction
+      label: prophets-satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfaction level 1
+      - Satisfaction level 2
+      - Satisfaction level 3
+      - Satisfaction level 4
+      - Satisfaction level 5
+      - Satisfaction level 6
+      required: false
+    - id: 4
+      name: customer_satisfaction
+      label: customer-satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_visited
+      label: date-visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_visited
+      label: time-visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_name
+      label: employee-name
+      hint: null
+      type: select_one
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: false

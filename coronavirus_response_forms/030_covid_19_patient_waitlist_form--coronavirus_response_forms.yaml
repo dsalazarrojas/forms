@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Waitlist Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: existing_patient
+      label: Are you an existing patient?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: patient_id
+      label: Patient ID (if existing)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_appointment_request
+      label: -- Appointment Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - General check-up
+      - COVID-19 related
+      - Follow-up
+      - Testing
+      - Vaccination
+      - Consultation
+      - Other
+      required: true
+    - id: 10
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning - 8am-12pm
+      - Afternoon - 12pm-5pm
+      - Evening - 5pm-8pm
+      - Any time
+      required: false
+    - id: 12
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Telehealth
+      - No preference
+      required: true
+    - id: 13
+      name: section_health_status
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: covid_symptoms
+      label: Do you have COVID-19 symptoms?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 15
+      name: symptom_description
+      label: Describe your symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: covid_diagnosis
+      label: Have you tested positive for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Uncertain
+      required: true
+    - id: 17
+      name: close_contact
+      label: Have you been exposed to COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 18
+      name: section_waitlist_priority
+      label: -- Waitlist Priority --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Appointment Urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Soon
+      - Urgent
+      - Emergency
+      required: true
+    - id: 20
+      name: special_needs
+      label: Any special accommodations needed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_contact_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Both email and phone
+      required: true
+    - id: 23
+      name: waitlist_date
+      label: Waitlist Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

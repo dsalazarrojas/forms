@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Session Record
+    pages:
+    - id: 1
+      name: session_basic_info
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_id
+      label: Client ID
+      hint: Your internal reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: session_duration
+      label: Session Duration (in minutes)
+      hint: How long was the session?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Session
+      - Group Session
+      - Family Session
+      - Initial Consultation
+      - Follow-up Session
+      - Crisis Session
+      - Other
+      required: true
+    - id: 8
+      name: session_location
+      label: Session Location or Method
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Phone Call
+      - Video Call
+      - Other
+      required: true
+    - id: 9
+      name: facilitator_info
+      label: -- Facilitator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facilitator_name
+      label: Facilitator or Practitioner Name
+      hint: Who conducted the session?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: co_facilitator
+      label: Co-Facilitator (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_content
+      label: -- Session Content and Topics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: topics_covered
+      label: Topics or issues discussed in this session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: goals_addressed
+      label: Progress toward established goals
+      hint: How did the client progress on their stated goals?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: key_insights
+      label: Key insights or breakthroughs in this session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_participation
+      label: -- Client Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: participation_level
+      label: Client participation level in this session
+      hint: null
+      type: select_one
+      options:
+      - Not Engaged
+      - Minimally Engaged
+      - Moderately Engaged
+      - Well Engaged
+      - Highly Engaged
+      required: true
+    - id: 18
+      name: emotional_state
+      label: Client emotional state during session
+      hint: null
+      type: select_one
+      options:
+      - Distressed
+      - Anxious
+      - Neutral
+      - Positive
+      - Empowered
+      required: false
+    - id: 19
+      name: homework_given
+      label: Was homework or tasks assigned?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: homework_description
+      label: Describe the assigned task or homework
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: homework_completion
+      label: Previous homework completion status
+      hint: Did they complete last session's assignment?
+      type: select_one
+      options:
+      - Not Applicable
+      - Not Completed
+      - Partially Completed
+      - Completed
+      - Completed and Discussed
+      required: false
+    - id: 22
+      name: observations_section
+      label: -- Observations and Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: behavioral_observations
+      label: Behavioral observations or changes noted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: strengths_noted
+      label: Client strengths or positive attributes observed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: areas_of_concern
+      label: Areas of concern or challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: risk_assessment
+      label: Any risk or safety concerns?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      required: false
+    - id: 27
+      name: follow_up_section
+      label: -- Follow-up and Action Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: next_session_date
+      label: Scheduled next session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: follow_up_actions
+      label: Follow-up actions or recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: referrals_made
+      label: Were any referrals made?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 31
+      name: referral_details
+      label: Details of any referrals
+      hint: null
+      type: text
+      options: []
+      required: false

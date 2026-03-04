@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Leave Form
+    pages:
+    - id: 1
+      name: employee_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Direct Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: leave_details
+      label: -- Leave Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: leave_type
+      label: Type of Leave Requested
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 Infection
+      - Exposure to COVID-19
+      - Quarantine
+      - Close Contact Isolation
+      - Caregiver for Family
+      - Vaccination Recovery
+      - Mental Health
+      - Other
+      required: true
+    - id: 11
+      name: leave_start_date
+      label: Start Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: leave_end_date
+      label: Expected End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: total_days
+      label: Number of Days Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: paid_unpaid
+      label: Paid or Unpaid Leave
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partial
+      required: true
+    - id: 15
+      name: reason_section
+      label: -- Reason for Leave --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: detailed_reason
+      label: Detailed Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_certification
+      label: Medical Certification Attached
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: certification_type
+      label: Type of Certification
+      hint: null
+      type: select_one
+      options:
+      - Doctor\'s Note
+      - Test Results
+      - Quarantine Order
+      - Other
+      required: false
+    - id: 19
+      name: work_section
+      label: -- Work Arrangements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: work_from_home
+      label: Can work from home during leave
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 21
+      name: coverage
+      label: Work coverage arranged
+      hint: null
+      type: select_one
+      options:
+      - true
+      - In Progress
+      - false
+      required: true
+    - id: 22
+      name: coverage_person
+      label: Person covering responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_section
+      label: -- Manager Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: manager_approval
+      label: Manager Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Conditionally Approved
+      - Denied
+      required: true
+    - id: 25
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

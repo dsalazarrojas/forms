@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Donation Form
+    pages:
+    - id: 1
+      name: donation_form_1
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount_1
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency_1
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One-time''}'
+      - '{''id'': 2, ''label'': ''Recurring''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: donation_frequency_2
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''One-time''}'
+      - '{''id'': 2, ''label'': ''Recurring''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 5
+      name: donation_method_1
+      label: Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank transfer''}'
+      required: false
+    - id: 6
+      name: donation_currency_1
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''CAD''}'
+      required: false
+    - id: 7
+      name: donation_currency_2
+      label: Currency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''CAD''}'
+      required: false
+    - id: 8
+      name: donation_note_1
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted_by_1
+      label: Submitted by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_at_1
+      label: Submitted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_ip_address_1
+      label: IP address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted_user_agent_1
+      label: User agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted_referrer_1
+      label: Referrer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_referrer_url_1
+      label: Referrer URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_country_1
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_submitted_state_1
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted_city_1
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_submitted_zip_1
+      label: ZIP/Postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted_phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submitted_currency_1
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''CAD''}'
+      required: false
+    - id: 21
+      name: form_submitted_frequency_1
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''One-time''}'
+      - '{''id'': 2, ''label'': ''Recurring''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 22
+      name: form_submitted_method_1
+      label: Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Credit card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank transfer''}'
+      required: false
+    - id: 23
+      name: form_submitted_note_1
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted_by_1
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_at_1
+      label: Submitted at
+      hint: null
+      type: time
+      options: []
+      required: false

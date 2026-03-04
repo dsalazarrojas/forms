@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver's Eye Test Form Template
+    pages:
+    - id: 1
+      name: driver_form_page_1
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_license_state
+      label: prophets State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: driver_license_expire_date
+      label: License Expire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: driver_eye_visual_field_1
+      label: Eye Visual Field 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: driver_eye_visual_field_2
+      label: Eye Visual Field 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: driver_eye_visual_field_3
+      label: Eye Visual Field minimalist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: driver_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: driver_form_signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: driver_signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noodle Order Form
+    pages:
+    - id: 1
+      name: noodle_form
+      label: Noodle Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: noodle_price
+      label: Noodle Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: noodle_image
+      label: Noodle Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: payment_gateway_other
+      label: Other Payment Gateway
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false

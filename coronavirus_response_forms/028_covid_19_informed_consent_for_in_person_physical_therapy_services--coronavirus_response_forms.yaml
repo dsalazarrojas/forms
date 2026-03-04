@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_19_informed_consent_for_in_person_physical_therapy_services
+    pages:
+    - id: 1
+      name: medical_condition
+      label: What Is Your Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''Arthritis'', ''Back Pain'', ''Broken bones'', ''etc.'']}'
+      - Other
+      required: false
+    - id: 2
+      name: contact_method
+      label: How Do You Wish To Be Contacted
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Phone, Email, Text message''}'
+      - Other
+      required: true
+    - id: 3
+      name: patient_name
+      label: What Is Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship To Patient
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Mother, Father, Brother, Sister, Spouse, Son, Daughter, Friend''}'
+      - Other
+      required: false
+    - id: 8
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

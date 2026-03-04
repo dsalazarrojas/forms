@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRIPCS Health Screening
+    pages:
+    - id: 1
+      name: screening_date
+      label: Date of Screening
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: person_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fever
+      label: Temperature 100.4 Fahrenheit or Higher
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: temperature
+      label: Current Temperature Reading
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cough
+      label: New or Worsening Cough
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: shortness_of_breath
+      label: Shortness of Breath
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: loss_taste_smell
+      label: Loss of Taste or Smell
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: other_symptoms
+      label: Other COVID-19-Like Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: covid_diagnosis
+      label: Diagnosed with COVID-19 in Past 14 Days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: covid_contact
+      label: Close Contact with COVID-19 Case
+      hint: Within past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 16
+      name: quarantine_isolation
+      label: Currently Under Quarantine or Isolation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: screening_outcome
+      label: Health Screening Outcome
+      hint: Based on responses above
+      type: select_one
+      options:
+      - Cleared - may proceed
+      - Not cleared - must isolate
+      - Conditional - follow-up required
+      required: true
+    - id: 18
+      name: isolation_required
+      label: Isolation Required
+      hint: null
+      type: select_one
+      options:
+      - Yes, isolation recommended
+      - No isolation needed
+      - Conditional isolation
+      required: false
+    - id: 19
+      name: follow_up_instructions
+      label: Follow-Up Instructions Provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: screening_staff_name
+      label: Screened By - Staff Name
+      hint: Name of screening personnel
+      type: text
+      options: []
+      required: true

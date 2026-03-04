@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Center Front Desk Daily Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: vaccination_center_name
+      label: Vaccination Center Name
+      hint: Facility name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: center_address
+      label: Center Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: center_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: center_state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: center_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: center_phone
+      label: Center Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporter_name
+      label: Front Desk Staff Name
+      hint: Staff member name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reporter_title
+      label: Staff Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shift_type
+      label: Shift Type
+      hint: Work shift
+      type: select_one
+      options:
+      - Morning shift
+      - Afternoon shift
+      - Evening shift
+      - Full day
+      required: true
+    - id: 11
+      name: shift_start_time
+      label: Shift Start Time
+      hint: When shift began
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: shift_end_time
+      label: Shift End Time
+      hint: When shift ended
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: total_appointments_scheduled
+      label: Total Appointments Scheduled Today
+      hint: Number of appointments
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_walk_ins
+      label: Total Walk-in Patients
+      hint: Walk-in count
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_patients_registered
+      label: Total Patients Registered
+      hint: Total registrations
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: patients_informed_about_vaccine
+      label: Number of People Informed About Vaccine
+      hint: Education provided
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: patients_vaccinated
+      label: Number of Patients Vaccinated
+      hint: Vaccinations given
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: first_doses_administered
+      label: First Doses Administered
+      hint: Count of first doses
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: second_doses_administered
+      label: Second Doses Administered
+      hint: Count of second doses
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: booster_doses_administered
+      label: Booster Doses Administered
+      hint: Count of boosters
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: no_shows
+      label: Number of No-Show Appointments
+      hint: Missed appointments
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: cancellations
+      label: Number of Cancellations
+      hint: Canceled appointments
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: rescheduled_appointments
+      label: Number of Rescheduled Appointments
+      hint: Rescheduled count
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: vaccine_types_available
+      label: Vaccine Types Available Today
+      hint: Available vaccines
+      type: select_multiple
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      - Bivalent booster
+      - Updated booster
+      required: true
+    - id: 25
+      name: vaccine_inventory_status
+      label: Vaccine Inventory Status
+      hint: Supply level
+      type: select_one
+      options:
+      - Adequate supply
+      - Running low
+      - Critical shortage
+      - Out of stock
+      required: true
+    - id: 26
+      name: staffing_level
+      label: Staffing Level
+      hint: Staff availability
+      type: select_one
+      options:
+      - Fully staffed
+      - Adequately staffed
+      - Short-staffed
+      - Critically short-staffed
+      required: true
+    - id: 27
+      name: equipment_issues
+      label: Any Equipment Issues
+      hint: Technical problems
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Major issues
+      - Critical issues
+      required: true
+    - id: 28
+      name: equipment_issues_description
+      label: Describe Equipment Issues
+      hint: Problem details
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: patient_complaints
+      label: Number of Patient Complaints
+      hint: Complaint count
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: patient_compliments
+      label: Number of Patient Compliments
+      hint: Compliment count
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: adverse_events_reported
+      label: Number of Adverse Events Reported
+      hint: Adverse event count
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: special_incidents
+      label: Any Special Incidents
+      hint: Notable events
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: sign_up_list_status
+      label: Sign-up List Status
+      hint: Appointment availability
+      type: select_one
+      options:
+      - Open for bookings
+      - Filling up quickly
+      - Nearly full
+      - Completely booked
+      required: true
+    - id: 34
+      name: next_day_capacity
+      label: Next Day Appointment Capacity
+      hint: Available slots
+      type: select_one
+      options:
+      - Many slots available
+      - Some slots available
+      - Few slots available
+      - No slots available
+      required: true
+    - id: 35
+      name: additional_notes
+      label: Additional Notes
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Manager name
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: staff_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

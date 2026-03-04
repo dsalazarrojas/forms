@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: DIY Lease Course Feedback
+    pages:
+    - id: 1
+      name: course_evaluation_form
+      label: course-evaluation-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_name
+      label: course name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_structure
+      label: course structure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

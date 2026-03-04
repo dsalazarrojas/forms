@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Orphanage Donation Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_input_5
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_input_6
+      label: Donor Type
+      hint: Select a donor type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: user_input_7
+      label: Donor Type Options
+      hint: null
+      type: select_multiple
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 8
+      name: user_input_8
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: user_input_9
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: user_input_10
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user_input_11
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

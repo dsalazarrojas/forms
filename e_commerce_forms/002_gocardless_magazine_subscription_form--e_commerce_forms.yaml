@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: GoCardless Magazine Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Florida
+      required: true
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: card_number
+      label: Card Number
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - Diners
+      required: true
+    - id: 9
+      name: expiry_date
+      label: Expiry
+      hint: MM/YY or MM/YY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: cvv2
+      label: CVV2
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: true
+    - id: 11
+      name: cvc
+      label: CVC
+      hint: 3 or 4 digit
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: amount
+      label: Amount
+      hint: in USD
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - biweekly
+      - yearly
+      - monthly
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      - Credit Card
+      required: true
+    - id: 15
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - One Time Payment
+      - Recurring Payment
+      required: true
+    - id: 16
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_payment_date
+      label: Next Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Failed
+      required: true
+    - id: 19
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Cancelled
+      required: true
+    - id: 20
+      name: card_brand
+      label: Card Brand
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: true
+    - id: 21
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Gift
+      required: true
+    - id: 22
+      name: bank_account_number
+      label: Bank Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: bank_routing_number
+      label: Bank Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: bank_branch
+      label: Bank Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: bank_iban
+      label: Bank IBAN
+      hint: null
+      type: text
+      options: []
+      required: false

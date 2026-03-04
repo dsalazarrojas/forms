@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Demographic Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: sex_at_birth
+      label: Sex Assigned at Birth
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Intersex
+      required: true
+    - id: 7
+      name: race
+      label: Race
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Other Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 8
+      name: ethnicity
+      label: Ethnicity
+      hint: Select one
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: true
+    - id: 9
+      name: preferred_language
+      label: Preferred Language
+      hint: For communications
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Tagalog
+      - French
+      - Arabic
+      - Other
+      required: true
+    - id: 10
+      name: interpreter_needed
+      label: Do you need an interpreter
+      hint: Language assistance
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: county
+      label: County
+      hint: County of residence
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: household_size
+      label: How many people live in your household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: children_under_18
+      label: How many children under 18 live in your household
+      hint: Number of children
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: adults_over_65
+      label: How many adults 65 or older live in your household
+      hint: Number of seniors
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: employment_status
+      label: Current Employment Status
+      hint: Work status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      - Unable to work
+      - Other
+      required: true
+    - id: 22
+      name: occupation
+      label: Occupation
+      hint: Job or profession
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: work_location
+      label: Where do you primarily work
+      hint: Work environment
+      type: select_one
+      options:
+      - At home remotely
+      - In an office
+      - In a healthcare facility
+      - In a retail store
+      - In a school
+      - In a restaurant
+      - Outdoors
+      - Other
+      required: true
+    - id: 26
+      name: insurance_status
+      label: Do you have health insurance
+      hint: Insurance coverage
+      type: select_one
+      options:
+      - Yes private insurance
+      - Yes Medicaid
+      - Yes Medicare
+      - Yes VA benefits
+      - No uninsured
+      required: true
+    - id: 27
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Liver disease
+      - Immunocompromised
+      - Pregnancy
+      - Smoking history
+      required: true
+    - id: 28
+      name: vaccination_status
+      label: What is your COVID-19 vaccination status
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 29
+      name: pcr_test_consent
+      label: I consent to receive a COVID-19 PCR test
+      hint: Testing consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 30
+      name: data_collection_consent
+      label: I consent to the collection of my demographic and health information
+        for public health purposes
+      hint: Data collection consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 31
+      name: results_delivery_consent
+      label: I consent to receive my test results via my preferred contact method
+      hint: Results consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 32
+      name: hipaa_acknowledgment
+      label: I acknowledge receipt of the HIPAA Privacy Notice
+      hint: HIPAA acknowledgment
+      type: select_one
+      options:
+      - Yes acknowledged
+      - No not received
+      required: true
+    - id: 33
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

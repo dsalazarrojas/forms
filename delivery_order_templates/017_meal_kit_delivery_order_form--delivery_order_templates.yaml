@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Kit Delivery Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meal_type
+      label: Meal Type
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Chicken
+      - Veggie
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: billing_info
+      label: Billing Info
+      hint: null
+      type: text
+      options: []
+      required: false

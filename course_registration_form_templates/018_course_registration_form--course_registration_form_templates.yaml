@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program
+      label: Program
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: Enter a date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: Enter a time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: Add any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course
+      label: Course
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_email
+      label: Confirm Email
+      hint: Confirm your email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: confirm_phone
+      label: Confirm Phone
+      hint: Confirm your phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: program_note
+      label: Program Note
+      hint: Add any additional program note
+      type: note
+      options: []
+      required: false

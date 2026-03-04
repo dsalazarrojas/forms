@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ecommerce Shopping Experience Feedback Form
+    pages:
+    - id: 1
+      name: form_start_screen
+      label: Start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_product
+      label: Rate The Product
+      hint: How would you rate the product you purchased?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_shipping
+      label: Rate The Shipping
+      hint: How would you rate the shipping experience?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_payment
+      label: Rate The Payment
+      hint: How would you rate the payment process?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_form
+      label: Feedback Form
+      hint: Please provide any additional feedback
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_end_screen
+      label: Done
+      hint: null
+      type: text
+      options: []
+      required: false

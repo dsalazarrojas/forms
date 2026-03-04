@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Reference Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reference_purpose
+      label: Purpose of Reference
+      hint: What is this reference for
+      type: select_one
+      options:
+      - Employment
+      - Educational program
+      - Volunteer position
+      - Housing application
+      - Legal proceeding
+      - Professional certification
+      - Other
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Where the reference will be sent
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_contact
+      label: Contact Person Name
+      hint: Recipient of the reference
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_deadline
+      label: Submission Deadline
+      hint: When is the reference due
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: relationship_type
+      label: How do you know the requester
+      hint: Your relationship
+      type: select_one
+      options:
+      - Former supervisor
+      - Former colleague
+      - Teacher or professor
+      - Mentor
+      - Community leader
+      - Family friend
+      - Other
+      required: true
+    - id: 9
+      name: relationship_duration
+      label: How long have you known them
+      hint: Duration of relationship
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 10
+      name: work_qualities
+      label: Work qualities to highlight
+      hint: Select relevant strengths
+      type: select_multiple
+      options:
+      - Reliability
+      - Leadership
+      - Teamwork
+      - Problem solving
+      - Communication
+      - Work ethic
+      - Creativity
+      - Attention to detail
+      required: false
+    - id: 11
+      name: character_qualities
+      label: Character qualities to highlight
+      hint: Select personal strengths
+      type: select_multiple
+      options:
+      - Integrity
+      - Honesty
+      - Compassion
+      - Responsibility
+      - Perseverance
+      - Humility
+      - Patience
+      - Optimism
+      required: false
+    - id: 12
+      name: specific_examples
+      label: Would you like to provide specific examples
+      hint: Should the reference include anecdotes
+      type: select_one
+      options:
+      - Yes definitely
+      - Yes if helpful
+      - Not necessary
+      required: true
+    - id: 13
+      name: reference_format
+      label: Preferred reference format
+      hint: How should it be delivered
+      type: select_one
+      options:
+      - Written letter
+      - Email
+      - Online form
+      - Phone call
+      - Video testimonial
+      required: true
+    - id: 14
+      name: additional_context
+      label: Additional context or information
+      hint: Anything else the referee should know
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_permission
+      label: May we follow up with questions
+      hint: Permission for additional contact
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

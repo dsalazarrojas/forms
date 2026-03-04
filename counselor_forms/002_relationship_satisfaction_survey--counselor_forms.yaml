@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Satisfaction Survey
+    pages:
+    - id: 1
+      name: relationship_satisfaction_survey
+      label: What is your overall sense of the relationship between you and your partner?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship_satisfaction_survey_1
+      label: What do you value most in your relationship?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Trust''}'
+      - '{''label'': ''Intimacy''}'
+      - '{''label'': ''Shared interests''}'
+      required: true
+    - id: 3
+      name: relationship_satisfaction_survey_2
+      label: relationship satisfaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: relationship_satisfaction_survey_3
+      label: How would you rate the overall quality of your relationship?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: relationship_satisfaction_survey_4
+      label: Do you feel supported by your partner?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: relationship_satisfaction_survey_5
+      label: Do you feel heard by your partner?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: relationship_satisfaction_survey_6
+      label: Do you feel understood by your partner?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: relationship_satisfaction_survey_7
+      label: How important is it to you that your partner has feelings of guilt or
+        shame?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all important''}'
+      - '{''label'': ''Somewhat important''}'
+      - '{''label'': ''Very important''}'
+      required: false
+    - id: 9
+      name: relationship_satisfaction_survey_8
+      label: How often do you have conflicts or disagreements with your partner?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: relationship_satisfaction_survey_9
+      label: How long have you been in the relationship?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: relationship_satisfaction_survey_10
+      label: Has there been a point in the relationship where things were really tough?
+      hint: null
+      type: date
+      options: []
+      required: false

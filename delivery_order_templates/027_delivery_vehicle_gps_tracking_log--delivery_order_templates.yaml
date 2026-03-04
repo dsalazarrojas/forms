@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Vehicle GPS Tracking Log
+    pages:
+    - id: 1
+      name: delivery_vehicles
+      label: Delivery Vehiccles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tracking_log
+      label: Tracking Log
+      hint: Enter tracking log details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Delivered
+      - Delayed
+      - Cancelled
+      required: true
+    - id: 4
+      name: route_details
+      label: Route Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_location
+      label: Vehicle Location
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: trip_distance
+      label: Trip Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_trips
+      label: Total Trips
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: average_speed
+      label: Average Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_driver
+      label: Assigned Driver
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - John
+      - Jenny
+      required: true
+    - id: 11
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Truck
+      - Car
+      - Van
+      required: true
+    - id: 12
+      name: trip_duration
+      label: Trip Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: trip_notes
+      label: Trip Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email_notification
+      label: email_notification
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: weather_condition
+      label: weather_condition
+      hint: null
+      type: select_one
+      options:
+      - Sunny
+      - Rainy
+      - Cloudy
+      required: true
+    - id: 18
+      name: road_condition
+      label: Road Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Poor
+      required: true

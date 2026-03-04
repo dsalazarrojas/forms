@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hot And Cold Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Hot And Cold Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: immediate_feelings
+      label: Immediate Feelings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: immediate_feelings_score
+      label: Immediate Feelings Score
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: immediate_feelings_comments
+      label: Immediate Feelings Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reflective_feelings
+      label: Reflective Feelings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reflective_feelings_score
+      label: Reflective Feelings Score
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reflective_feelings_comments
+      label: Reflective Feelings Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: immediate_suggestions
+      label: Immediate Suggestions
+      hint: What do you suggest we do next?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: immediate_suggestions_comments
+      label: Immediate Suggestions Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cold_suggestions
+      label: Cold Suggestions
+      hint: What do you suggest we do after a while?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cold_suggestions_comments
+      label: Cold Suggestions Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: What category is this feedback related to?
+      hint: null
+      type: select_one
+      options:
+      - Customer Service
+      - Product
+      - Other
+      required: false
+    - id: 13
+      name: category_comments
+      label: Category Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_question
+      label: How often would you like us to follow up with you?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Frequently
+      - Always
+      required: false
+    - id: 15
+      name: follow_up_question_comments
+      label: Follow Up Question Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_comments
+      label: Email Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: phone_comments
+      label: Phone Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: category_other
+      label: Category Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_question_other
+      label: Follow Up Question Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: category_other_comments
+      label: Category Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

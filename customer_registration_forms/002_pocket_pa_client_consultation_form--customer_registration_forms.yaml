@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pocket PA Client Consultation Form
+    pages:
+    - id: 1
+      name: new_client
+      label: New Client
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      required: false
+    - id: 3
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Skincare
+      - Haircutting
+      - Makeup
+      required: false
+    - id: 4
+      name: appointment
+      label: Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: services_description
+      label: Services Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

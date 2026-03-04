@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donate For Education Using E.Check.Net
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donations Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: donor_name
+      hint: Enter donor name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: donor_email
+      hint: Enter donor email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: donation_amount
+      hint: Enter donation amount
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: check_number
+      label: check_number
+      hint: E.Check.Net check number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: e_check
+      label: E.Check.Net
+      hint: E.Check.Net option to transfer funds
+      type: select_one
+      options:
+      - E.Check.Net option 1
+      - E.Check.Net option 2
+      - E.Check.Net option 3
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

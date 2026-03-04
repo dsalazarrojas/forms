@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Specimen Referral Form For COVID 19
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: specimen_info
+      label: specimen-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: specimen_status
+      label: specimen-status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''New''}'
+      - '{''id'': 2, ''value'': ''Old''}'
+      required: false
+    - id: 4
+      name: specimen_type
+      label: specimen-type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Swab''}'
+      - '{''id'': 2, ''value'': ''Tissue''}'
+      - '{''id'': 3, ''value'': ''Blood''}'
+      required: false
+    - id: 5
+      name: specimen_collected
+      label: specimen-collected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: collected_time
+      label: collected-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: specimen_sent_to_lab
+      label: specimen-sent-to-lab
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 8
+      name: specimen_arrival_time
+      label: specimen-arrival-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: specimen_status_updated
+      label: specimen-status-updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: specimen_receipt_date
+      label: specimen-receipt-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: specimen_result_received
+      label: specimen-result-received
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 12
+      name: specimen_result_date
+      label: specimen-result-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contact_info_collected
+      label: contact-info-collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_info_collected
+      label: patient-info-collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: laboratory_info_collected
+      label: laboratory-info-collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: specimen_collected_by
+      label: specimen-collected-by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Centre''}'
+      - '{''id'': 2, ''value'': ''Laboratory''}'
+      required: false
+    - id: 17
+      name: laboratory_name
+      label: laboratory-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: laboratory_contact
+      label: laboratory-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: laboratory_address
+      label: laboratory-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: specimen_transported_by
+      label: specimen-transported-by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 21
+      name: transport_method
+      label: transport-method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Car''}'
+      - '{''id'': 2, ''value'': ''Bike''}'
+      required: false
+    - id: 22
+      name: specimen_transported_to
+      label: specimen-transported-to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Laboratory''}'
+      - '{''id'': 2, ''value'': ''Centre''}'
+      required: false
+    - id: 23
+      name: transport_date
+      label: transport-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: transport_time
+      label: transport-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: transport_vehicle
+      label: transport-vehicle
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Car''}'
+      - '{''id'': 2, ''value'': ''Bike''}'
+      required: false

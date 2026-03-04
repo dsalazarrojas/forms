@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: musical_training_application_form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: personal_info
+      label: personal_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: skills
+      label: musical_skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: musical_history
+      label: musical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appointment
+      label: appointment
+      hint: null
+      type: select_one
+      options:
+      - Slot 1
+      - Slot 2
+      - Slot 3
+      required: true
+    - id: 7
+      name: slot
+      label: slot
+      hint: null
+      type: select_multiple
+      options:
+      - Slot 1
+      - Slot 2
+      - Slot 3
+      required: true
+    - id: 8
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: skills_list
+      label: skills_list
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Singing
+      required: false
+    - id: 13
+      name: instruments
+      label: instruments
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Violin
+      required: true
+    - id: 14
+      name: experience
+      label: musical_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: musical_history_details
+      label: musical_history_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: musical_education
+      label: musical_education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: music_style
+      label: music_style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: musical_instruments
+      label: musical_instruments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: musical_formation
+      label: musical_formation
+      hint: null
+      type: select_multiple
+      options:
+      - Formation 1
+      - Formation 2
+      - Formation 3
+      required: false
+    - id: 20
+      name: musical_background
+      label: musical_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: musical_references
+      label: musical_references
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: musical_goals
+      label: musical_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: musical_formation_background
+      label: musical_formation_background
+      hint: null
+      type: select_multiple
+      options:
+      - Background 1
+      - Background 2
+      - Background 3
+      required: false
+    - id: 24
+      name: agreement2
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 25
+      name: note2
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

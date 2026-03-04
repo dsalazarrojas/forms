@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Campaign Fund Form
+    pages:
+    - id: 1
+      name: campaign_intro
+      label: -- Support Our Blood Donation Campaign --
+      hint: Your contribution saves lives
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contribution_type
+      label: Contribution Type
+      hint: null
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly commitment
+      - Annual pledge
+      required: true
+    - id: 7
+      name: contribution_amount
+      label: Donation Amount
+      hint: null
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1,000
+      - Other
+      required: true
+    - id: 8
+      name: custom_amount
+      label: Custom Amount (if other)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 10
+      name: is_corporate_donation
+      label: Is this a corporate donation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: company_name
+      label: Company Name
+      hint: If corporate donation
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_awareness
+      label: How did you learn about this campaign?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Website
+      - Word of Mouth
+      - Advertisement
+      - Other
+      required: false
+    - id: 13
+      name: campaign_goal
+      label: What campaign aspect motivated you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: public_recognition
+      label: Allow public recognition of donation?
+      hint: null
+      type: select_one
+      options:
+      - Yes, list my name
+      - Yes, but anonymous
+      - No public recognition
+      required: true
+    - id: 15
+      name: recurring_preference
+      label: Recurring donation preferences
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 16
+      name: tax_receipt_needed
+      label: Tax receipt needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true

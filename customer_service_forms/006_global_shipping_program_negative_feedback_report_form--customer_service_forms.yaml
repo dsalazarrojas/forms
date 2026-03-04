@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Shipping Program Negative Feedback Report Form
+    pages:
+    - id: 1
+      name: base_info
+      label: Base Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_info
+      label: Order Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_desc
+      label: Issue Description
+      hint: Provide details about the issue.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: image
+      label: Image
+      hint: Attach an image of the issue
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      required: false
+    - id: 8
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Air
+      - Other
+      required: false
+    - id: 9
+      name: shipping_speed
+      label: Shipping Speed
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Expedited
+      - Priority
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: Please provide any further comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: Add any additional notes about this submission
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: followup
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      - 4 days
+      - 5 days
+      - 6 days
+      - 7 days
+      - 8 days
+      - 9 days
+      - 10 days
+      required: false

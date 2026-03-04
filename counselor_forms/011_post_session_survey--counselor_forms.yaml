@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Session Survey
+    pages:
+    - id: 1
+      name: session_survey_participants
+      label: Session Survey Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rating_of_seminar
+      label: Rating of Seminar
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_of_counselor
+      label: Rating of Counselor
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: seminar_title
+      label: Seminar Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: seminar_date
+      label: Seminar Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: seminar_time
+      label: Seminar Time
+      hint: null
+      type: time
+      options: []
+      required: false

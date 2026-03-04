@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Quality Feedback Form
+    pages:
+    - id: 1
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dessert_taste
+      label: Dessert Taste
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: appearance
+      label: Appearance
+      hint: null
+      type: select_one
+      options:
+      - Apple Pie
+      - Cherry Pie
+      - Pecan Pie
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: would_contact
+      label: Would Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: promotion_interest
+      label: Promotion Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: service_rating
+      label: Service Rating
+      hint: null
+      type: number
+      options: []
+      required: true

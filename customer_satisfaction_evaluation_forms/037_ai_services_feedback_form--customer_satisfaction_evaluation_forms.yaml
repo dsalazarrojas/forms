@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Services Feedback Form
+    pages:
+    - id: 1
+      name: --service_details--
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_used
+      label: AI service used
+      hint: Select the service you are reviewing
+      type: select_one
+      options:
+      - Chat assistant
+      - Recommendation engine
+      - Automation bot
+      - Custom model
+      required: true
+    - id: 5
+      name: satisfaction_rating
+      label: Overall satisfaction
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reliability_rating
+      label: Reliability of the service
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: value_for_money
+      label: Value for money
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: major_issues
+      label: Major issues encountered
+      hint: Describe any critical problems
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: improvement_suggestions
+      label: Suggestions for improvement
+      hint: Specific ideas or feature requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommend_to_others
+      label: Would you recommend this service to others
+      hint: Select one
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true

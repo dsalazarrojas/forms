@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Proposal Submission Form
+    pages:
+    - id: 1
+      name: proposer_info_header
+      label: -- Proposer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposer_name
+      label: Proposer Name
+      hint: Person submitting the proposal
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposer_title
+      label: Title or Position
+      hint: Professor, Instructor, Department, etc.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: proposer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: proposer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_header
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_name
+      label: Proposed Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_code
+      label: Proposed Course Code or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: course_description
+      label: Course Description
+      hint: Brief overview of course content and purpose
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Introductory
+      - Intermediate
+      - Advanced
+      - Graduate
+      - Professional Development
+      - Other
+      required: true
+    - id: 12
+      name: credit_hours
+      label: Number of Credit Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: prerequisites
+      label: Prerequisites or Required Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: objectives_header
+      label: -- Learning Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: learning_objectives
+      label: Student Learning Objectives
+      hint: What will students learn and be able to do
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assessment_methods
+      label: Assessment Methods
+      hint: How will student learning be evaluated
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: schedule_header
+      label: -- Schedule and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: semester_offered
+      label: Semester Course Will Be Offered
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Winter
+      - Multiple semesters
+      - Other
+      required: true
+    - id: 19
+      name: meeting_schedule
+      label: Meeting Schedule
+      hint: Days and times per week
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: class_capacity
+      label: Expected Class Capacity
+      hint: Maximum number of students
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: resources_header
+      label: -- Resources and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: required_resources
+      label: Required Resources or Equipment
+      hint: Classroom technology, lab space, materials, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: budget_needs
+      label: Budget or Funding Needs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: textbooks_materials
+      label: Required Textbooks or Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: justification_header
+      label: -- Justification and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: course_justification
+      label: Justification for Offering This Course
+      hint: Why is this course needed
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: expected_impact
+      label: Expected Impact on Students and Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: approval_status
+      label: Ready for Submission to Committee
+      hint: null
+      type: select_one
+      options:
+      - Yes, ready
+      - No, needs revision
+      required: true

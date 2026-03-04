@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Travel Declaration Form For Visitors
+    pages:
+    - id: 1
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: visitor_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: nationality
+      label: Nationality
+      hint: Country of citizenship
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: passport_number
+      label: Passport Number
+      hint: Passport ID
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: home_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_state_or_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: home_country
+      label: Country
+      hint: Home country
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: home_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: travel_purpose
+      label: Purpose of Visit
+      hint: Why visiting
+      type: select_one
+      options:
+      - Tourism or vacation
+      - Business
+      - Visit family or friends
+      - Medical treatment
+      - Education
+      - Work assignment
+      - Transit
+      - Other
+      required: true
+    - id: 16
+      name: destination_address
+      label: Address During Stay
+      hint: Where staying
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: destination_city
+      label: Destination City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: destination_state
+      label: Destination State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: destination_zip
+      label: Destination ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: arrival_date
+      label: Arrival Date
+      hint: When arriving
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: departure_date
+      label: Departure Date
+      hint: When leaving
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: flight_or_transport_number
+      label: Flight or Transport Number
+      hint: Transportation details
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: countries_visited_14_days
+      label: List all countries visited in the past 14 days
+      hint: Travel history
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: current_symptoms
+      label: Are you currently experiencing any COVID-19 symptoms
+      hint: Health screening
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 25
+      name: symptom_list
+      label: Which symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 26
+      name: positive_test_14_days
+      label: Have you tested positive for COVID-19 in the past 14 days
+      hint: Recent test
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 27
+      name: close_contact_exposure
+      label: Have you been in close contact with a confirmed COVID-19 case in the
+        past 14 days
+      hint: Exposure history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 28
+      name: vaccination_status
+      label: What is your COVID-19 vaccination status
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 29
+      name: vaccine_brand
+      label: Vaccine Brand or Manufacturer
+      hint: If vaccinated
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: vaccine_dates
+      label: Dates of Vaccination
+      hint: All doses
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: quarantine_acknowledgment
+      label: I agree to follow all quarantine requirements if applicable
+      hint: Quarantine agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 32
+      name: health_monitoring_agreement
+      label: I agree to monitor my health for COVID-19 symptoms during my stay
+      hint: Health monitoring
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 33
+      name: contact_information_accuracy
+      label: I certify that the contact information provided is accurate for contact
+        tracing purposes
+      hint: Information accuracy
+      type: select_one
+      options:
+      - Yes I certify
+      - No I cannot certify
+      required: true
+    - id: 34
+      name: truthfulness_declaration
+      label: I declare that the information provided is true and accurate
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I declare
+      - No I cannot declare
+      required: true
+    - id: 35
+      name: visitor_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

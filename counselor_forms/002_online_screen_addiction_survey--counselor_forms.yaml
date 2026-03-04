@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_screen_addiction_survey
+    pages:
+    - id: 1
+      name: first_screening
+      label: First Screening
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: screening_2
+      label: Screening 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: harmful_behaviors
+      label: Harmful Behaviors
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': None, ''label'': ''Harmful behavior 1''}'
+      - '{''options'': None, ''label'': ''Harmful behavior 2''}'
+      - '{''options'': None, ''label'': ''Harmful behavior 3''}'
+      required: true
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: screen_addiction
+      label: Screen Addiction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: impact_on_lifestyle
+      label: Impact on Lifestyle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: screen_addiction_risk
+      label: Screen Addiction Risk
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: screen_time
+      label: Screen Time
+      hint: null
+      type: time
+      options: []
+      required: false

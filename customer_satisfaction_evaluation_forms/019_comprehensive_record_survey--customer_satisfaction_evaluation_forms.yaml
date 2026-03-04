@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Record Survey
+    pages:
+      - id: 1
+        name: section_survey_intro
+        label: -- Customer Experience Survey --
+        hint: Help us improve by answering these questions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: service_received
+        label: Service received
+        hint: Which service did you use
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: satisfaction_level
+        label: Satisfaction level
+        hint: Rate your satisfaction
+        type: select_one
+        options: [Very satisfied, Satisfied, Neutral, Dissatisfied, Very dissatisfied]
+        required: true
+      - id: 5
+        name: ease_of_access
+        label: Ease of access
+        hint: How easy was it to access the service
+        type: select_one
+        options: [Very easy, Easy, Moderate, Difficult]
+        required: true
+      - id: 6
+        name: staff_helpfulness
+        label: Staff helpfulness
+        hint: Rate helpfulness of staff
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 7
+        name: issue_resolved
+        label: Issue resolved
+        hint: Was your issue resolved to your satisfaction
+        type: select_one
+        options: [Yes, Partially, No]
+        required: true
+      - id: 8
+        name: likelihood_to_recommend
+        label: Likelihood to recommend
+        hint: Would you recommend to others
+        type: select_one
+        options: [Definitely, Probably, Maybe, Unlikely]
+        required: true
+      - id: 9
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback to help us improve
+        type: text
+        options: []
+        required: false

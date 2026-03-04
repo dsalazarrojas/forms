@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_sponsor_donation_form
+    pages:
+    - id: 1
+      name: donator_name
+      label: Donator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Donator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5, ''name'': ''funding'', ''label'': ''Funding'', ''value'': ''Funding''}'
+      - '{''id'': 6, ''name'': ''donation'', ''label'': ''Donation'', ''value'': ''Donation''}'
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

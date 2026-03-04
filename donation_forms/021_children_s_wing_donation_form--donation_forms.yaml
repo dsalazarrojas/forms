@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Wing Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: Name of individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor Email
+      hint: Email for donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_designation
+      label: Designation
+      hint: Specify purpose or program for donation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recurring_donation
+      label: Make Donation Recurring
+      hint: Choose frequency if recurring
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 6
+      name: tribute_gift
+      label: Is this a Tribute Gift
+      hint: Provide honoree details if applicable
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment type
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 8
+      name: anonymous_gift
+      label: Make Donation Anonymous
+      hint: Select if donor wishes to remain anonymous
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: receipt_preference
+      label: Receipt Preference
+      hint: Email or postal mailing
+      type: select_one
+      options:
+      - Email
+      - Postal Mail
+      required: true

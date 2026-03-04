@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Learning Center Course Membership Form
+    pages:
+    - id: 1
+      name: learner_details
+      label: Learner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language_preferences
+      label: Language Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: course_selection
+      label: Course Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: staff_contact
+      label: Staff Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: application_details
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

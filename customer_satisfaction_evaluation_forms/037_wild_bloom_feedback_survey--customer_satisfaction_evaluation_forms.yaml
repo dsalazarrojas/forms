@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wild Bloom Feedback Survey
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_experience
+      label: What was your experience with our products?
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Not satisfied
+      - 2 - Somewhat satisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very satisfied
+      required: false
+    - id: 3
+      name: product_quality
+      label: How do you rate the quality of our products?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very poor
+      - 2 - Somewhat poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
+      required: false
+    - id: 4
+      name: customer_service
+      label: How do you rate our customer service?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very poor
+      - 2 - Somewhat poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
+      required: false
+    - id: 5
+      name: price
+      label: What do you think is the optimal price for our products?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Do you have any additional feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - SMS/Text Message
+      - In-app Message
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Confidentiality Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: group_leader
+      label: Group Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confidentiality_agreement_2
+      label: Confidentiality Agreement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false

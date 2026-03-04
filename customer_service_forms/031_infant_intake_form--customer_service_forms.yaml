@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infant Intake Form
+    pages:
+    - id: 1
+      name: infant_intake_form
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: infant_intake_form_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: infant_intake_form_date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: infant_intake_form_weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: infant_intake_form_height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: infant_intake_form_age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: infant_intake_form_contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: infant_intake_form_additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: infant_intake_form_primary_caregiver
+      label: primary_caregiver
+      hint: null
+      type: select_one
+      options:
+      - Infant Mom
+      - Infant Dad
+      - Other
+      required: true
+    - id: 10
+      name: infant_intake_form_language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      - Arabic
+      - French
+      - German
+      - Other
+      required: true
+    - id: 11
+      name: infant_intake_form_is_pregnant
+      label: is_pregnant
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: infant_intake_form_pregnant_days
+      label: pregnant_days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: infant_intake_form_pregnant_weeks
+      label: pregnant_weeks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: infant_intake_form_due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: infant_intake_form_pregnancy_status
+      label: pregnancy_status
+      hint: null
+      type: select_one
+      options:
+      - Singleton
+      - Twins
+      - Other
+      - Multiple birth
+      required: true
+    - id: 16
+      name: infant_intake_form_first_language_learned
+      label: first_language_learned
+      hint: null
+      type: select_multiple
+      options:
+      - Infant Mom
+      - Infant Dad
+      - Other
+      required: true
+    - id: 17
+      name: infant_intake_form_last_name_of_pregnancy
+      label: last_name_of_pregnancy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: infant_intake_form_phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: infant_intake_form_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: infant_intake_form_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: infant_intake_form_language_preference
+      label: language_preference
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other
+      - French
+      - German
+      - Arabic
+      required: true
+    - id: 22
+      name: infant_intake_form_additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: infant_intake_form_additional_phone_numbers
+      label: additional_phone_numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: infant_intake_form_additional_emails
+      label: additional_emails
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: infant_intake_form_additional_urls
+      label: additional_urls
+      hint: null
+      type: text
+      options: []
+      required: false

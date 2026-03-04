@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_customer_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: desired_property_type
+      label: Desired property type
+      hint: null
+      type: select_multiple
+      options:
+      - Single family home
+      - Townhouse
+      - Condo
+      - Apartment
+      - Land
+      required: false
+    - id: 8
+      name: desired_property_price_range
+      label: Desired property price range
+      hint: null
+      type: select_one
+      options:
+      - Under 250000
+      - 250000-499999
+      - 500000-749999
+      - 750000-999999
+      - 1000000-2499999
+      - 2500000 or more
+      required: true
+    - id: 9
+      name: preferred_location
+      label: Preferred location
+      hint: null
+      type: text
+      options: []
+      required: false

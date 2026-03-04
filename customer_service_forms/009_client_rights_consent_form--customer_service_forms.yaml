@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Rights Consent Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Client Rights Acknowledgment and Consent Form
+      hint: Please review and acknowledge your understanding of client rights
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_consent
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: rights_overview
+      label: -- Your Rights as a Client --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: right_to_know
+      label: I acknowledge my right to receive clear information about services and
+        policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: right_to_communication
+      label: I acknowledge my right to regular and clear communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: right_to_transparency
+      label: I acknowledge my right to understand fees and pricing structure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: right_to_quality
+      label: I acknowledge my right to quality service delivery
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: privacy_section
+      label: -- Privacy and Data Protection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: privacy_consent
+      label: I consent to the collection and use of my personal information as described
+        in our privacy policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: data_sharing_consent
+      label: I consent to data sharing with necessary service providers and partners
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: communication_consent
+      label: I consent to be contacted regarding services, updates, and relevant communications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: communication_methods
+      label: I consent to receive communications via - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - In-Person
+      required: true
+    - id: 16
+      name: marketing_consent
+      label: I consent to receive promotional and marketing communications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: compliance_section
+      label: -- Compliance and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: terms_agreement
+      label: I have read and agree to the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: policy_agreement
+      label: I have read and agree to the Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: dispute_resolution
+      label: I understand and agree to the dispute resolution procedures outlined
+        in our agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: liability_acknowledgment
+      label: I acknowledge that I have read the liability and limitation of liability
+        clauses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: acknowledgements
+      label: -- Final Acknowledgements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: understand_rights
+      label: I understand all my rights and responsibilities as a client
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: questions_answered
+      label: All my questions have been answered to my satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - I have questions
+      required: true
+    - id: 25
+      name: client_questions
+      label: If you have questions, please describe them here
+      hint: null
+      type: text
+      options: []
+      required: false

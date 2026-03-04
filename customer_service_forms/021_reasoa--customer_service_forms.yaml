@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reasoa
+    pages:
+    - id: 1
+      name: form_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one_field
+      label: select_one_field
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''value1''}'
+      - '{''value'': ''value2''}'
+      - '{''value'': ''value3''}'
+      required: false
+    - id: 8
+      name: select_multiple_fields
+      label: select_multiple_fields
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''value1''}'
+      - '{''value'': ''value2''}'
+      - '{''value'': ''value3''}'
+      required: true
+    - id: 9
+      name: select_one_field2
+      label: select_one_field2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''value1''}'
+      - '{''value'': ''value2''}'
+      required: false
+    - id: 10
+      name: note_field
+      label: note_field
+      hint: null
+      type: note
+      options: []
+      required: false

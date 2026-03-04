@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: BEST Seint Color Match
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For sending your color match results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skin_tone
+      label: Skin Tone
+      hint: Select your natural skin tone
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Light
+      - Medium
+      - Tan
+      - Deep
+      - Very Deep
+      required: true
+    - id: 5
+      name: skin_undertone
+      label: Skin Undertone
+      hint: What undertone do you have
+      type: select_one
+      options:
+      - Cool
+      - Warm
+      - Neutral
+      - Olive
+      - Not sure
+      required: true
+    - id: 6
+      name: eye_color
+      label: Eye Color
+      hint: Natural eye color
+      type: select_one
+      options:
+      - Blue
+      - Green
+      - Hazel
+      - Brown
+      - Gray
+      - Other
+      required: true
+    - id: 7
+      name: hair_color
+      label: Hair Color
+      hint: Current hair color
+      type: select_one
+      options:
+      - Platinum Blonde
+      - Blonde
+      - Light Brown
+      - Medium Brown
+      - Dark Brown
+      - Black
+      - Red
+      - Gray or White
+      - Color Treated
+      required: true
+    - id: 8
+      name: sun_reaction
+      label: How Does Your Skin React to Sun
+      hint: Do you burn or tan easily
+      type: select_one
+      options:
+      - Always burn, never tan
+      - Burn easily, tan minimally
+      - Sometimes burn, gradually tan
+      - Tan easily, rarely burn
+      - Never burn, always tan
+      required: true
+    - id: 9
+      name: foundation_history
+      label: Foundation Shades Previously Used
+      hint: List brands and shades that worked well
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coverage_preference
+      label: Coverage Preference
+      hint: How much coverage do you prefer
+      type: select_one
+      options:
+      - Light and natural
+      - Medium coverage
+      - Full coverage
+      - Buildable
+      required: true
+    - id: 11
+      name: skin_type
+      label: Skin Type
+      hint: Select your skin type
+      type: select_one
+      options:
+      - Dry
+      - Normal
+      - Combination
+      - Oily
+      - Sensitive
+      - Mature
+      required: true
+    - id: 12
+      name: skin_concerns
+      label: Skin Concerns
+      hint: Select any concerns to address
+      type: select_multiple
+      options:
+      - Acne or breakouts
+      - Redness
+      - Dark spots
+      - Fine lines
+      - Large pores
+      - Dullness
+      - Uneven texture
+      - None
+      required: true
+    - id: 13
+      name: preferred_finish
+      label: Preferred Finish
+      hint: How do you want your makeup to look
+      type: select_one
+      options:
+      - Matte
+      - Natural
+      - Dewy
+      - Radiant
+      required: true
+    - id: 14
+      name: photo_upload
+      label: Upload Clear Face Photo
+      hint: Natural lighting, no makeup preferred
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details to help with color matching
+      type: text
+      options: []
+      required: false

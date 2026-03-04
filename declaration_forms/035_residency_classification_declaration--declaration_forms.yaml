@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residency Classification Declaration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: residency_status
+      label: Residency Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Student''}'
+      - '{''id'': 2, ''label'': ''Worker''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: purpose_of_stay
+      label: Purpose of Stay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: proof_of_address
+      label: Proof of Address
+      hint: null
+      type: text
+      options: []
+      required: false

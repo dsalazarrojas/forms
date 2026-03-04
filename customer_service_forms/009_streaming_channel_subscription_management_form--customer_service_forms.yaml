@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Channel Subscription Management Form
+    pages:
+    - id: 1
+      name: streaming_channel_subscription_preferences
+      label: Streaming Channel Subscription Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan_change
+      label: Plan Change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notification_choices
+      label: Notification Choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: customer_service_team_contact
+      label: Contact Customer Service Team
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: subscription_update_notification
+      label: Subscription Update Notification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: plan_change_reason
+      label: Reason for Plan Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notification_frequency
+      label: Notification Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: streaming_channel_subscription_management_notes
+      label: Streaming Channel Subscription Management Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_team_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_team_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_team_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

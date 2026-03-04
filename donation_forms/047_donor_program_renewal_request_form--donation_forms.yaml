@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Program Renewal Request Form
+    pages:
+    - id: 1
+      name: donor_program_renewal_request_form
+      label: Donor Program Renewal Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_program_renewal_request_form_first_name
+      label: Donor First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_program_renewal_request_form_last_name
+      label: Donor Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_program_renewal_request_form_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: donor_program_renewal_request_form_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_program_renewal_request_form_program
+      label: Donor Program
+      hint: null
+      type: select_one
+      options:
+      - Donor Program
+      - Another Program
+      - Another Program
+      required: false
+    - id: 7
+      name: donor_program_renewal_request_form_renewal_frequency
+      label: Renewal Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: false
+    - id: 8
+      name: donor_program_renewal_request_form_renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: donor_program_renewal_request_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

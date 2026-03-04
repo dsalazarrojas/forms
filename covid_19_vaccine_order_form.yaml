@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID-19 Vaccine Order Form
+    pages:
+    - id: 1
+      name: vaccine_order
+      label: vaccine_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_vaccination
+      label: date_of_vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_vaccination
+      label: time_of_vaccination
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vaccine_type
+      label: vaccine_type
+      hint: null
+      type: select_one
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: phone
+      options: []
+      required: false

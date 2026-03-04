@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Package Selector
+    pages:
+    - id: 1
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - TikTok
+      - LinkedIn
+      - Twitter
+      required: false
+    - id: 2
+      name: package_plan
+      label: Package Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: details
+      label: Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: select_one
+      options:
+      - Payment Method
+      - Payment Status
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false

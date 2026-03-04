@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Financial Assistance Application Form For Veterinarians
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date you are submitting this application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Veterinarian Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: veterinary_license
+      label: Veterinary License Number
+      hint: Your state veterinary license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: license_state
+      label: License State
+      hint: State where you are licensed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: specialization
+      label: Area of Specialization
+      hint: Large animal, small animal, exotic, etc.
+      type: select_one
+      options:
+      - Small Animal (companion pets)
+      - Large Animal (equine, livestock)
+      - Exotic Animals
+      - Mixed Animal
+      - Avian
+      - Aquatic
+      - Zoo Medicine
+      - Other
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: practice_name
+      label: Veterinary Practice Name
+      hint: Name of your clinic or practice
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: practice_owner
+      label: Are You the Practice Owner?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - No - Associate Veterinarian
+      - No - Employed Veterinarian
+      - No - Contract Veterinarian
+      required: true
+    - id: 14
+      name: practice_type
+      label: Type of Practice
+      hint: null
+      type: select_one
+      options:
+      - Private Practice
+      - Corporate Clinic
+      - University
+      - Government/Public Health
+      - Other
+      required: true
+    - id: 15
+      name: practice_location
+      label: Practice Location
+      hint: Urban, suburban, rural
+      type: select_one
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      required: false
+    - id: 16
+      name: annual_income_before_covid
+      label: Annual Income Before COVID-19
+      hint: Approximate pre-pandemic income
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: current_annual_income
+      label: Current Annual Income
+      hint: Estimated income for current year
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: income_reduction_percentage
+      label: Percentage of Income Lost
+      hint: Due to COVID-19 impact
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: covid_impact_details
+      label: How Has COVID-19 Impacted Your Practice?
+      hint: Describe the specific impact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: business_challenges
+      label: Business Challenges Faced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Loss of revenue/client base
+      - Emergency closures
+      - Supply chain disruptions
+      - Staff layoffs
+      - Reduced hours
+      - Increased expenses
+      - Practice closure threat
+      - Other
+      required: false
+    - id: 21
+      name: monthly_practice_expenses
+      label: Average Monthly Practice Expenses
+      hint: Rent, utilities, staff, supplies, etc.
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: employees_count
+      label: Number of Employees
+      hint: Staff employed by your practice
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: employees_laid_off
+      label: Employees Laid Off Due to COVID-19
+      hint: Number of staff affected
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: business_loan
+      label: Outstanding Business Loan
+      hint: Approximate balance
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: personal_savings
+      label: Personal Savings Available
+      hint: Approximate amount in savings
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: personal_debt
+      label: Personal Debts
+      hint: Student loans, credit cards, etc.
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: assistance_received
+      label: Financial Assistance Already Received
+      hint: PPP loan, government grants, etc.
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: assistance_amount
+      label: Total Assistance Received
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: assistance_requested
+      label: Amount of Assistance Requested
+      hint: How much do you need?
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: assistance_use
+      label: How Will You Use the Financial Assistance?
+      hint: Describe intended use of funds
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: hardship_statement
+      label: Statement of Financial Hardship
+      hint: Explain your financial situation
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: recovery_timeline
+      label: Expected Recovery Timeline
+      hint: When do you expect to recover income?
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      - Uncertain
+      required: false

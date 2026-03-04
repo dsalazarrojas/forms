@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Walk In COVID 19 Testing Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: home address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_card_number
+      label: insurance card number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_results
+      label: test results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_referral
+      label: doctor referral
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: doctor_phone_number
+      label: doctor phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: test_date
+      label: test date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_of_collection
+      label: time of collection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: sample_type
+      label: sample type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: result_type
+      label: result type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: test_site
+      label: test site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_office
+      label: medical office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_id
+      label: patient id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_result_status
+      label: test result status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: test_result_date
+      label: test result date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: lab_result
+      label: lab result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_condition
+      label: patient condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lab_result_status
+      label: lab result status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: lab_result_date
+      label: lab result date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: test_result_comment
+      label: test result comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: test_result_comment2
+      label: test result comment2
+      hint: null
+      type: text
+      options: []
+      required: false

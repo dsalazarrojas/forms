@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drama Academy Class Registration Form
+    pages:
+    - id: 1
+      name: new_student
+      label: New Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: drama_course
+      label: Drama Course
+      hint: null
+      type: select_one
+      options:
+      - Course A
+      - Course B
+      - Course C
+      required: false
+    - id: 8
+      name: class_level
+      label: Class Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: class_start
+      label: Class Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: class_end
+      label: Class End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: total_classes
+      label: Total Classes
+      hint: null
+      type: select_multiple
+      options:
+      - One
+      - Two
+      - Three
+      - Four
+      - Five
+      required: false

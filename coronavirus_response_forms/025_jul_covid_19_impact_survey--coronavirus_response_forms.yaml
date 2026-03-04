@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: JUL COVID 19 Impact Survey
+    pages:
+    - id: 1
+      name: survey_name
+      label: Survey Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''male''}'
+      - '{''option'': ''female''}'
+      - '{''option'': ''other''}'
+      required: false
+    - id: 5
+      name: health_status_general
+      label: Health Status General
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: have_symptoms
+      label: Have Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': False}'
+      - '{''option'': True}'
+      required: true
+    - id: 7
+      name: income_change
+      label: Income Change
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Working full-time''}'
+      - '{''option'': ''Working part-time''}'
+      - '{''option'': ''Furloughed/layed off''}'
+      - '{''option'': ''Unemployed''}'
+      required: true
+    - id: 9
+      name: social_connectivity
+      label: Social Connectivity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''In person''}'
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Video call''}'
+      - '{''option'': ''Other''}'
+      required: true
+    - id: 10
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Facebook''}'
+      - '{''option'': ''Twitter''}'
+      - '{''option'': ''Instagram''}'
+      - '{''option'': ''Other''}'
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receptionist AI Feedback Form
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: receptionist_service
+      label: Receptionist Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: friendliness_service
+      label: Friendliness of Service
+      hint: null
+      type: select_multiple
+      options:
+      - Very Friendly
+      - Friendly
+      - Neutral
+      - Unfriendly
+      required: false
+    - id: 5
+      name: receptionist_response_time
+      label: Receptionist Response Time
+      hint: null
+      type: select_one
+      options:
+      - Fast
+      - Medium
+      - Slow
+      required: false
+    - id: 6
+      name: receptionist_professionalism
+      label: Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Very Professional
+      - Somewhat Professional
+      - Not Professional
+      required: false
+    - id: 7
+      name: receptionist_knowledge
+      label: Receptionist Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Extremely Knowledgeable
+      - Somewhat Knowledgeable
+      - Not Knowledgeable
+      required: false
+    - id: 8
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: improvement_requests
+      label: Improvement Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

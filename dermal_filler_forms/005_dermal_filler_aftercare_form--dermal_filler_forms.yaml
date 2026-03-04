@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: dermal_filler_aftercare_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: aftercare_advice
+      label: Aftercare Advice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_appointments
+      label: Follow Up Appointments
+      hint: null
+      type: select_multiple
+      options:
+      - 1 hour
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false

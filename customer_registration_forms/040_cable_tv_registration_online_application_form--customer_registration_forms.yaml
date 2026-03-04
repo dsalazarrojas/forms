@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cable TV Registration Online Application Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Subscriber Information --
+      hint: New Subscription Application
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: for credit verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: identification_number
+      label: Govt Issued ID Number (SSN/DL)
+      hint: last 4 digits only
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: installation_details_header
+      label: -- Service Installation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: installation_address
+      label: Installation Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dwelling_type
+      label: Type of Residence
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment/Condo
+      - Townhouse
+      - Commercial Office
+      required: true
+    - id: 10
+      name: owner_renter_status
+      label: Status
+      hint: renters may need landlord permission
+      type: select_one
+      options:
+      - Owner
+      - Renter
+      required: true
+    - id: 11
+      name: package_selection_header
+      label: -- Package and Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: base_channel_package
+      label: Base Channel Package
+      hint: null
+      type: select_one
+      options:
+      - Basic Economy
+      - Standard Digital
+      - Preferred Plus
+      - Ultimate Platinum
+      required: true
+    - id: 13
+      name: add_on_packs
+      label: Premium Add-on Packs
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - HBO Max
+      - Showtime
+      - Sports Tier
+      - International Channels
+      - Adult Tier
+      required: false
+    - id: 14
+      name: receiver_count
+      label: Number of TV Receivers/Boxes Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: billing_header
+      label: -- Billing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: billing_cycle_pref
+      label: Preferred Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annual - 10 percent discount
+      required: true
+    - id: 17
+      name: auto_pay_enrollment
+      label: Enroll in Paperless Billing and Auto-pay
+      hint: save 5 dollars per month
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: electronic_signature
+      label: Electronic Signature (Type Full Name)
+      hint: by typing your name you agree to the service contract
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

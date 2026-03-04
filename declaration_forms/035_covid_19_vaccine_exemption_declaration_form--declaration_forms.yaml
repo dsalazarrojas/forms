@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid-19-vaccine-exemption-declaration-form
+    pages:
+    - id: 1
+      name: medical_practitioner
+      label: Medical Practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_exemption
+      label: Reason for Exemption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exemption_status
+      label: Exemption Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: date_of_last_vaccination
+      label: Date of Last Vax
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_doctor
+      label: Patient Doctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false

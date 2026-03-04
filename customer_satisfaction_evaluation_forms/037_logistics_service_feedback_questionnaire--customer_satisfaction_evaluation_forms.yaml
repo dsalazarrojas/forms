@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: logistics_service_feedback_questionnaire
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: logistics_service
+      label: logistics_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

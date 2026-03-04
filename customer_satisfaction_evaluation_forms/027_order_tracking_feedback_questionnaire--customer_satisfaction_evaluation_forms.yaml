@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Order Tracking Feedback Questionnaire
+    pages:
+    - id: 1
+      name: customer_experience
+      label: How was your overall experience?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_details
+      label: What was the product you ordered?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_tracking
+      label: How did we track your order?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: communication
+      label: How would you rate our communication?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: order_status
+      label: What was your order status update frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 6
+      name: feedback_on_tracking
+      label: Did we provide sufficient tracking information?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: tracking_effectiveness
+      label: How effective was the tracking?
+      hint: null
+      type: select_one
+      options:
+      - Very
+      - Somewhat
+      - Not Very
+      - Not At All
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

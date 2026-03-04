@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Notice Form
+    pages:
+    - id: 1
+      name: notice_date
+      label: Notice Date
+      hint: Date of notice
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vaccination_status
+      label: What is your vaccination status
+      hint: Vaccine status
+      type: select_one
+      options:
+      - Received first dose only
+      - Received second dose
+      - Fully vaccinated with booster
+      - Received updated booster
+      required: true
+    - id: 13
+      name: first_dose_date
+      label: First Dose Date
+      hint: When received
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: first_dose_location
+      label: First Dose Location
+      hint: Where received
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_dose_brand
+      label: First Dose Vaccine Brand
+      hint: Vaccine type
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      - Other
+      - Not sure
+      required: false
+    - id: 16
+      name: second_dose_date
+      label: Second Dose Date
+      hint: When received
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: second_dose_location
+      label: Second Dose Location
+      hint: Where received
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: second_dose_brand
+      label: Second Dose Vaccine Brand
+      hint: Vaccine type
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      - Other
+      - Not sure
+      - Not applicable
+      required: false
+    - id: 19
+      name: booster_dose_date
+      label: Booster Dose Date
+      hint: When received
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: booster_dose_location
+      label: Booster Dose Location
+      hint: Where received
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: booster_dose_brand
+      label: Booster Dose Vaccine Brand
+      hint: Vaccine type
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      - Bivalent booster
+      - Updated booster
+      - Other
+      - Not sure
+      - Not applicable
+      required: false
+    - id: 22
+      name: vaccination_card_available
+      label: Do you have your vaccination card
+      hint: Card availability
+      type: select_one
+      options:
+      - Yes I have it
+      - No lost or misplaced
+      - No never received
+      required: true
+    - id: 23
+      name: vaccination_provider_name
+      label: Vaccination Provider Name
+      hint: Who administered
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vaccination_provider_phone
+      label: Vaccination Provider Phone
+      hint: Provider contact
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: purpose_of_notice
+      label: Why are you submitting this notice
+      hint: Submission reason
+      type: select_one
+      options:
+      - Employment requirement
+      - School requirement
+      - Travel documentation
+      - Event attendance
+      - Personal records
+      - Healthcare provider request
+      - Government requirement
+      - Other
+      required: true
+    - id: 26
+      name: organization_requesting
+      label: Organization Requesting Documentation
+      hint: Company or school
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: side_effects_experienced
+      label: Did you experience any side effects
+      hint: Side effects
+      type: select_multiple
+      options:
+      - None
+      - Injection site pain
+      - Fatigue
+      - Headache
+      - Muscle aches
+      - Chills
+      - Fever
+      - Nausea
+      - Swollen lymph nodes
+      - Other
+      required: false
+    - id: 28
+      name: side_effects_severity
+      label: How severe were the side effects
+      hint: Severity level
+      type: select_one
+      options:
+      - No side effects
+      - Mild - barely noticeable
+      - Moderate - noticeable but manageable
+      - Severe - impacted daily activities
+      required: false
+    - id: 29
+      name: additional_dose_interest
+      label: Are you interested in receiving additional doses when eligible
+      hint: Future vaccination
+      type: select_one
+      options:
+      - Yes definitely
+      - Yes probably
+      - Maybe not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 30
+      name: information_accuracy
+      label: I certify that the information provided is true and accurate
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I certify
+      - No I cannot certify
+      required: true
+    - id: 31
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

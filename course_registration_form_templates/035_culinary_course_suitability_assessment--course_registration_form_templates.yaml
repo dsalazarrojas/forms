@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Course Suitability Assessment
+    pages:
+    - id: 1
+      name: prospective_student_info
+      label: Prospective Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''No Experience''}'
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 3
+      name: learning_needs
+      label: Learning Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      - '{''label'': ''Expert''}'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Full-Time''}'
+      - '{''label'': ''Part-Time''}'
+      - '{''label'': ''Online''}'
+      required: false
+    - id: 5
+      name: availability_details
+      label: Availability Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_culinary_field
+      label: Preferred Culinary Field
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Pastry''}'
+      - '{''label'': ''Meat''}'
+      - '{''label'': ''Seafood''}'
+      - '{''label'': ''Bakery''}'
+      - '{''label'': ''Dessert''}'
+      - '{''label'': ''Restaurant''}'
+      - '{''label'': ''Food Safety''}'
+      required: false
+    - id: 7
+      name: preferred_culinary_field_details
+      label: Preferred Culinary Field Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: culinary_school_info
+      label: Culinary School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_info
+      label: Instructor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: course_recommendation
+      label: Course Recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 11
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

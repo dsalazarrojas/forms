@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Gift Assistance Contact Form
+    pages:
+    - id: 1
+      name: customer_gift_inquiry
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_inquiry_name
+      label: Gift Inquirer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gift_inquiry_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: gift_inquiry_telephone
+      label: Telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gift_inquiry_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gift_inquiry_gift_type
+      label: Gift Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Gift Card''}'
+      - '{''id'': 2, ''name'': ''Product''}'
+      - '{''id'': 3, ''name'': ''Service''}'
+      required: true
+    - id: 7
+      name: gift_inquiry_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gift_inquiry_card_type
+      label: Card Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Visa''}'
+      - '{''id'': 2, ''name'': ''Mastercard''}'
+      - '{''id'': 3, ''name'': ''Discover''}'
+      - '{''id'': 4, ''name'': ''Amex''}'
+      required: true
+    - id: 9
+      name: gift_inquiry_merchant
+      label: Merchant
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Amazon''}'
+      - '{''id'': 2, ''name'': ''eBay''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 10
+      name: gift_inquiry_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: gift_inquiry_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: gift_inquiry_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: gift_inquiry_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: gift_inquiry_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

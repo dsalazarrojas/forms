@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billing Cycle And Payment Due Date Inquiry Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Enter your account details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: Email associated with your account
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for follow-up
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_number
+      label: Account Number
+      hint: Your customer account number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inquiry_type
+      label: Inquiry Type
+      hint: What is your inquiry about
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_category
+      label: Category of Inquiry
+      hint: Select the type of billing question
+      type: select_one
+      options:
+      - Billing Cycle Question
+      - Payment Due Date Question
+      - Both Cycle and Due Date
+      - Payment History Question
+      - Account Statement Request
+      - Other Billing Question
+      required: true
+    - id: 9
+      name: billing_cycle_question
+      label: Billing Cycle Question
+      hint: What would you like to know about your billing cycle
+      type: select_one
+      options:
+      - When does my billing cycle start
+      - When does my billing cycle end
+      - Can I change my billing cycle
+      - Why was I billed on this date
+      - How often am I billed
+      - Other
+      required: false
+    - id: 10
+      name: due_date_question
+      label: Due Date Question
+      hint: What would you like to know about payment due dates
+      type: select_one
+      options:
+      - When is my next payment due
+      - Can I change my due date
+      - What happens if I pay late
+      - Is there a grace period
+      - How is the due date determined
+      - Other
+      required: false
+    - id: 11
+      name: current_billing_cycle
+      label: Current Billing Cycle
+      hint: Do you know your current billing cycle
+      type: select_one
+      options:
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
+      - Annually
+      - Not Sure
+      required: true
+    - id: 12
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you with answers
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS Text Message
+      - Mail
+      required: true
+    - id: 13
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: Best time to reach you
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Any Time
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this inquiry
+      type: select_one
+      options:
+      - Low - General Question
+      - Medium - Need Answer Soon
+      - High - Payment Due Soon
+      - Critical - Payment Issue
+      required: true
+    - id: 15
+      name: specific_question
+      label: Your Specific Question
+      hint: Please describe your billing or payment question in detail
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference invoice number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: invoice_date
+      label: Invoice Date
+      hint: Date on the invoice in question
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_amount
+      label: Payment Amount in Question
+      hint: Amount related to your inquiry
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: previous_contact
+      label: Previous Contact
+      hint: Have you contacted us about this before
+      type: select_one
+      options:
+      - No - First Time Contact
+      - Yes - Within Last Week
+      - Yes - Within Last Month
+      - Yes - More Than a Month Ago
+      required: true
+    - id: 20
+      name: previous_reference
+      label: Previous Reference Number
+      hint: Case or ticket number if previously contacted
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information that may help
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notification_preference
+      label: Notification Preference
+      hint: How would you like to be notified of updates
+      type: select_one
+      options:
+      - Email Updates
+      - SMS Updates
+      - Phone Call Only
+      - No Updates Needed
+      required: true
+    - id: 23
+      name: authorization
+      label: Authorization
+      hint: Confirm you are authorized to inquire about this account
+      type: select_one
+      options:
+      - I am authorized to inquire about this account
+      - I confirm the information provided is accurate
+      required: true

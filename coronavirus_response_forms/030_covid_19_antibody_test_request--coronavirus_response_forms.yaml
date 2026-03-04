@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Antibody Test Request
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Member ID
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_request
+      label: Reason for Test Request
+      hint: Why do you want this test
+      type: select_one
+      options:
+      - Previous symptoms - never tested
+      - Known exposure - now asymptomatic
+      - Curiosity about immunity
+      - Work requirement
+      - Travel requirement
+      - Research study
+      - Other
+      required: true
+    - id: 15
+      name: symptom_history
+      label: Have You Had Symptoms
+      hint: COVID-19 related symptoms
+      type: select_one
+      options:
+      - Yes - Currently symptomatic
+      - Yes - Recently symptomatic
+      - Yes - In past weeks
+      - No - Never symptomatic
+      required: true
+    - id: 16
+      name: symptoms_experienced
+      label: Symptoms Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      - None
+      required: true
+    - id: 17
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When did symptoms start
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: known_exposure
+      label: Known COVID-19 Exposure
+      hint: Close contact with positive case
+      type: select_one
+      options:
+      - Yes - Within 14 days
+      - Yes - More than 14 days ago
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: previous_test
+      label: Previous COVID-19 Test
+      hint: Have you been tested before
+      type: select_one
+      options:
+      - Yes - PCR Positive
+      - Yes - PCR Negative
+      - Yes - Antigen Positive
+      - Yes - Antigen Negative
+      - No - Never tested
+      required: true
+    - id: 20
+      name: previous_test_date
+      label: Previous Test Date
+      hint: When was your last test
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: high_risk_condition
+      label: High Risk Medical Condition
+      hint: Increases COVID-19 risk
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 22
+      name: healthcare_worker
+      label: Are You a Healthcare Worker
+      hint: Essential worker status
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like to come
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Time of day
+      type: select_one
+      options:
+      - Morning - 8 AM to 12 PM
+      - Afternoon - 12 PM to 4 PM
+      - Evening - 4 PM to 7 PM
+      - Any Time
+      required: true
+    - id: 25
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you arrive
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Public Transportation
+      - Walk
+      - Ride Share
+      - Need Assistance
+      required: false
+    - id: 26
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need testing
+      type: select_one
+      options:
+      - Routine
+      - Somewhat Urgent
+      - Urgent
+      - Very Urgent
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

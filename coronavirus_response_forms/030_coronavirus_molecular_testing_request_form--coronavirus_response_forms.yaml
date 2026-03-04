@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Molecular Testing Request Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: test_center
+      label: Test Center
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sample_receipt_date
+      label: Sample Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: sample_receipt_time
+      label: Sample Receipt Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: sample_receipt_date
+      label: Sample Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false

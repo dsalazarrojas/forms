@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Information Request Form
+    pages:
+    - id: 1
+      name: online_information_request_form
+      label: Online Information Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name of the individual or organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - Environmental Design
+      - Landscaping
+      - Treatment
+      required: true
+    - id: 7
+      name: services_other
+      label: Other Services
+      hint: If the above services does not apply, please specify
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: materials_training
+      label: Materials or Training Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Materials
+      - Training
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traveler Affidavit Form
+    pages:
+    - id: 1
+      name: traveler_affidavit_form
+      label: Traveler Affidavit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_details
+      label: Travel Details
+      hint: Please provide the following details of your trip.
+      type: select_multiple
+      options:
+      - United States
+      - United States
+      - United States
+      - United States
+      - United States
+      - Other
+      required: true
+    - id: 3
+      name: traveler_name
+      label: Traveler Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_origin
+      label: Travel Origin
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - School
+      - Other
+      required: true
+    - id: 8
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - School
+      - Other
+      required: true
+    - id: 9
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: return_location
+      label: Return Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      - Business
+      - Pleasure
+      required: true
+    - id: 15
+      name: travel_documentation
+      label: Travel Documentation
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - ID Card
+      - Driver's License
+      required: true
+    - id: 16
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: travel_document_type
+      label: Travel Document Type
+      hint: null
+      type: select_one
+      options:
+      - ID Card
+      - Passport
+      - Visa
+      required: true
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

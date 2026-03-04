@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Response Fund Application Form
+    pages:
+    - id: 1
+      name: applying_org_name
+      label: Applying Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: legal_status_cat
+      label: Legal Status
+      hint: null
+      type: select_one
+      options:
+      - 501(c)(3) Nonprofit
+      - Government Agency
+      - Community Group (Fiscal Sponsor required)
+      - Other
+      required: true
+    - id: 3
+      name: contact_person_full
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title_val
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email_addr
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone_no
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_area_text
+      label: Geographic Area Served
+      hint: List counties, cities, or neighborhoods
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: funding_category_cat
+      label: Primary Funding Category
+      hint: null
+      type: select_one
+      options:
+      - Frontline Healthcare
+      - Basic Needs (Food/Housing)
+      - Small Business Support
+      - Education/Youth
+      - Mental Health
+      required: true
+    - id: 9
+      name: amount_requested_val
+      label: Amount Requested ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: project_summary_text
+      label: Brief Project Summary
+      hint: Describe how these funds will address COVID-19 related needs (max 250
+        words)
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expected_outcomes_text
+      label: Expected Outcomes
+      hint: What do you hope to achieve with this funding?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: accuracy_cert_yn
+      label: I certify that the information provided is accurate and authorized by
+        the organization
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true
+    - id: 13
+      name: electronic_sig_name
+      label: Authorized Representative Signature
+      hint: null
+      type: text
+      options: []
+      required: true

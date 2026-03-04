@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ayurveda Nutrition Assessment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ayurvedic_constitution
+      label: Ayurvedic Constitution (Dosha)
+      hint: Are you familiar with Ayurvedic body types?
+      type: select_one
+      options:
+      - Vata (Air-Ether)
+      - Pitta (Fire-Water)
+      - Kapha (Water-Earth)
+      - Dual Constitution
+      - Unsure
+      required: false
+    - id: 6
+      name: primary_health_concerns
+      label: Primary Health Concerns
+      hint: What are your main health issues?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Include allergies, intolerances, and preferences
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meals_per_day
+      label: How many meals do you typically eat per day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: meal_times
+      label: Approximate meal times
+      hint: What time do you usually eat breakfast, lunch, dinner?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: water_intake
+      label: Daily water intake
+      hint: How much water do you drink per day (in ounces)?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: digestion_issues
+      label: Do you experience digestive issues?
+      hint: Include bloating, gas, constipation, etc.
+      type: select_multiple
+      options:
+      - Bloating
+      - Gas
+      - Constipation
+      - Diarrhea
+      - Acid reflux
+      - Heaviness
+      - Loss of appetite
+      - None
+      required: false
+    - id: 12
+      name: energy_levels
+      label: Energy levels throughout the day
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      - Irregular
+      required: false
+    - id: 13
+      name: sleep_quality
+      label: Sleep quality
+      hint: How is your sleep?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 14
+      name: stress_level
+      label: Current stress level
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 15
+      name: exercise_frequency
+      label: Exercise frequency
+      hint: How often do you exercise?
+      type: select_one
+      options:
+      - Never
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-6 times per week
+      - Daily
+      required: false
+    - id: 16
+      name: current_diet_description
+      label: Describe your current diet
+      hint: What types of foods do you usually eat?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nutritional_goals
+      label: What are your nutritional goals?
+      hint: What would you like to achieve?
+      type: text
+      options: []
+      required: false

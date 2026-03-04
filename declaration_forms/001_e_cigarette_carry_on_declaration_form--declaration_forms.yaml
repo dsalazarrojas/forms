@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: e cigarette carry on declaration form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: e_cigarette_info
+      label: E Cigarette Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confirmation
+      label: Confirmation
+      hint: Please confirm that the information is accurate
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: e_cigarette_declaration
+      label: E Cigarette Declaration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: airline_signature
+      label: Airline Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_documentation
+      label: Travel Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

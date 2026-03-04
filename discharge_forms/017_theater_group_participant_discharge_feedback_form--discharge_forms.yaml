@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Group Participant Discharge Feedback Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Welcome to the discharge feedback form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: participant info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: discharge_date
+      label: Discharge Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: discharge_time
+      label: Discharge Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_departure
+      label: Reason for Departure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit and send the form
+      - Save as draft
+      required: true

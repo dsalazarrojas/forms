@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: nail_technician_client_consultation_form
+    pages:
+    - id: 1
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: preferred_service
+      label: Preferred Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''manicure''}'
+      - '{''id'': 2, ''name'': ''pedicure''}'
+      - '{''id'': 3, ''name'': ''polish''}'
+      - '{''id'': 4, ''name'': ''nail_extension''}'
+      required: true
+    - id: 3
+      name: nail_care_frequency
+      label: Nail Care Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: nail_care_budget
+      label: Nail Care Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

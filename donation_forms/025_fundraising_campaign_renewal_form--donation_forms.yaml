@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: fundraising_campaign_renewal_form
+    pages:
+    - id: 1
+      name: donor_information
+      label: donor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_details
+      label: campaign_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: renewal_info
+      label: renewal_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 15
+      name: donation_method
+      label: donation_method
+      hint: null
+      type: select_multiple
+      options:
+      - check
+      - bank_transfer
+      - online
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: campaign_id
+      label: campaign_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: campaign_name
+      label: campaign_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: campaign_start_date
+      label: campaign_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: campaign_end_date
+      label: campaign_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: frequency_start
+      label: frequency_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: frequency_end
+      label: frequency_end
+      hint: null
+      type: date
+      options: []
+      required: false

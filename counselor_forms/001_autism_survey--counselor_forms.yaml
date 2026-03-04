@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autism Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: Respondent Information
+      hint: Please provide your basic information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Your current age in years
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: A valid email where we can reach you
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_autism
+      label: Relationship to Autism
+      hint: How does autism relate to you
+      type: select_one
+      options:
+      - I have autism
+      - Family member has autism
+      - Friend has autism
+      - Healthcare provider
+      - Educator
+      - Other
+      required: true
+    - id: 6
+      name: living_situation
+      label: Current Living Situation
+      hint: Who do you currently live with
+      type: select_one
+      options:
+      - Live alone
+      - Live with family
+      - Live with roommates
+      - Live with partner
+      - Group home
+      - Other
+      required: true
+    - id: 7
+      name: openness_to_living_together
+      label: Openness to Living with Someone with Autism
+      hint: How open would you be to living with someone who has autism
+      type: select_one
+      options:
+      - Very open
+      - Somewhat open
+      - Neutral
+      - Somewhat hesitant
+      - Very hesitant
+      required: true
+    - id: 8
+      name: social_life_concerns
+      label: Social Life Concerns
+      hint: What concerns do you have about your social life
+      type: select_multiple
+      options:
+      - Less time for friends
+      - Difficulty hosting gatherings
+      - Misunderstandings with visitors
+      - Noise or routine disruptions
+      - No concerns
+      - Other
+      required: false
+    - id: 9
+      name: support_experience
+      label: Previous Support Experience
+      hint: Have you supported someone with autism before
+      type: select_one
+      options:
+      - Yes extensively
+      - Yes occasionally
+      - No but interested
+      - No and not interested
+      required: true
+    - id: 10
+      name: communication_comfort
+      label: Communication Comfort Level
+      hint: How comfortable are you with different communication styles
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Somewhat comfortable
+      - Not comfortable
+      required: true
+    - id: 11
+      name: routine_flexibility
+      label: Routine Flexibility
+      hint: How flexible are you with daily routines
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Prefer structure
+      - Need strict routine
+      required: true
+    - id: 12
+      name: sensory_environment_preferences
+      label: Sensory Environment Preferences
+      hint: What sensory considerations are important to you
+      type: select_multiple
+      options:
+      - Quiet spaces
+      - Controlled lighting
+      - Minimal clutter
+      - Predictable sounds
+      - Private areas
+      - None specific
+      required: false
+    - id: 13
+      name: community_resources_awareness
+      label: Community Resources Awareness
+      hint: Are you aware of autism support resources in your community
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Not aware
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts you would like to share
+      type: text
+      options: []
+      required: false

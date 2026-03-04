@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pretrip Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_damage
+      label: Vehicle Damage
+      hint: Check for any damage or defects
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: select_multiple
+      options:
+      - Driver
+      - Mechanic
+      - Owner
+      required: true
+    - id: 4
+      name: pretrip_checklist
+      label: Pre-trip Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: vehicle_equipment
+      label: Vehicle Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pretrip_inspection
+      label: Pre-trip Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: text
+      options: []
+      required: false

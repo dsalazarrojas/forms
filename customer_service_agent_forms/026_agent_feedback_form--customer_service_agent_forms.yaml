@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Feedback Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agent_name
+      label: Agent Name
+      hint: Enter the name of the agent you worked with
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Type of Service
+      hint: What type of service did you receive from the agent?
+      type: select_one
+      options:
+      - Buying
+      - Selling
+      - Renting
+      - Property Management
+      - Consultation
+      - Other
+      required: true
+    - id: 6
+      name: transaction_date
+      label: Transaction Date
+      hint: Enter the date of the transaction or service
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: overall_satisfaction_header
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: How satisfied are you with the agent's service overall?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: communication_rating
+      label: Communication Rating
+      hint: How would you rate the agent's communication skills?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: responsiveness_rating
+      label: Responsiveness Rating
+      hint: How responsive was the agent to your inquiries?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: professionalism_rating
+      label: Professionalism Rating
+      hint: How would you rate the agent's professionalism?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: knowledge_expertise_rating
+      label: Knowledge and Expertise Rating
+      hint: How knowledgeable was the agent about the market/process?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: negotiation_skills_rating
+      label: Negotiation Skills Rating
+      hint: How would you rate the agent's negotiation skills?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: false
+    - id: 14
+      name: punctuality_rating
+      label: Punctuality Rating
+      hint: How punctual was the agent for appointments?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: feedback_details_header
+      label: -- Feedback Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: what_did_you_like_most
+      label: What Did You Like Most?
+      hint: What did you like most about working with this agent?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could the agent improve on?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: would_you_recommend
+      label: Would You Recommend This Agent?
+      hint: Would you recommend this agent to friends or family?
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about your experience with the agent
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: likelihood_to_use_again
+      label: Likelihood to Use Again
+      hint: How likely are you to use this agent again in the future?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true

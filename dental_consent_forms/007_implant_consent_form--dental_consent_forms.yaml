@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: implant_consent_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: date_of_consent
+      label: Date Of Consent
+      hint: Please enter the date of consent
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: doctor_license
+      label: Doctor License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: clinic_license
+      label: Clinic License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: patient_date_of_birth
+      label: Patient Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: surgical_record
+      label: Surgical Record
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: other_medical_info
+      label: Other Medical Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: Please enter the emergency contact number
+      type: text
+      options: []
+      required: false

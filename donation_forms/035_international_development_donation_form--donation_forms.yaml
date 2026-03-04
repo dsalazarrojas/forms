@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Development Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - Agriculture
+      - Education
+      - Housing
+      - Water
+      - Health
+      - Other
+      required: false
+    - id: 5
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - In progress
+      - Completed
+      - Not Started
+      required: false
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: recurring
+      label: recurring
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donor_name
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donor_organization
+      label: donor_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_title
+      label: donor_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false

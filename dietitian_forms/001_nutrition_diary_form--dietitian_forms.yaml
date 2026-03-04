@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Diary Form
+    pages:
+    - id: 1
+      name: nutrition_diary_form_1
+      label: morning_intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: nutrition_diary_form_2
+      label: daily_intake
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: nutrition_diary_form_3
+      label: habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: nutrition_diary_form_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

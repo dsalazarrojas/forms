@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personality Quiz Template
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_question_1
+      label: How do you feel about mornings?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: quiz_question_2
+      label: How do you feel about evenings?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: quiz_question_3
+      label: How do you feel about weekends?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: quiz_question_4
+      label: What do you do on weekdays?
+      hint: null
+      type: select_one
+      options:
+      - Very busy
+      - Fairly busy
+      - Not too busy
+      required: false
+    - id: 6
+      name: quiz_question_5
+      label: What time do you go to sleep?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: quiz_question_6
+      label: What do you do in your free time?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quiz_question_7
+      label: What do you do on weekends?
+      hint: null
+      type: select_one
+      options:
+      - Very busy
+      - Fairly busy
+      - Not too busy
+      required: false
+    - id: 9
+      name: quiz_question_8
+      label: What time do you wake up?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: result
+      label: What can I tell you about yourself?
+      hint: This is the result of your personality quiz!
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: user_job
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      required: false
+    - id: 18
+      name: user_interests
+      label: What are your interests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_language
+      label: What is your language?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 20
+      name: user_language_other
+      label: Other languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_education
+      label: What is your education?
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Some college
+      - College
+      - Postgraduate
+      required: false
+    - id: 22
+      name: user_occupation
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_occupation_other
+      label: Other occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

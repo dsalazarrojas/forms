@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Feedback Questionnaire
+    pages:
+    - id: 1
+      name: donation_forms_form
+      label: Donation Forms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donord_feedback
+      label: Donor Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not at all satisfied
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: questions
+      label: Questions
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: donation
+      label: Donation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Never
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: social_media
+      label: Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: social_media_url
+      label: Social Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email_optin
+      label: Email Opt-in
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: email_optin_message
+      label: Email Opt-in Message
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_product_delivery_satisfaction_survey
+    pages:
+    - id: 1
+      name: delivery_experience
+      label: How was your delivery experience
+      hint: Tell us about your delivery experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_quality
+      label: What was the quality of the product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_satisfaction
+      label: How satisfied are you with the product
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied'', ''value'': 5}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': 4}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat Dissatisfied'', ''value'': 2}'
+      - '{''label'': ''Very Dissatisfied'', ''value'': 1}'
+      required: false
+    - id: 4
+      name: delivery_speed
+      label: How fast was the delivery speed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: How clear were our communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Clear'', ''value'': 5}'
+      - '{''label'': ''Somewhat Clear'', ''value'': 4}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat Unclear'', ''value'': 2}'
+      - '{''label'': ''Not Clear'', ''value'': 1}'
+      required: false
+    - id: 6
+      name: product_price
+      label: How reasonable was the price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: delivery_punctuality
+      label: How fast was the delivery
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On Time'', ''value'': ''on_time''}'
+      - '{''label'': ''Late'', ''value'': ''late''}'
+      - '{''label'': ''Not on Time'', ''value'': ''not_on_time''}'
+      required: false
+    - id: 8
+      name: product_reliability
+      label: How reliable is the product
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Reliable'', ''value'': 5}'
+      - '{''label'': ''Somewhat Reliable'', ''value'': 4}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat Unreliable'', ''value'': 2}'
+      - '{''label'': ''Not Reliable'', ''value'': 1}'
+      required: false
+    - id: 9
+      name: communication_frequency
+      label: How often did we contact you
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Often'', ''value'': 5}'
+      - '{''label'': ''Somewhat Often'', ''value'': 4}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat Not Often'', ''value'': 2}'
+      - '{''label'': ''Not Often'', ''value'': 1}'
+      required: false
+    - id: 10
+      name: product_quality_complaints
+      label: What was the quality of the product after using it
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''No Complaints'', ''value'': ''no_complaints''}'
+      - '{''label'': ''Some Complaints'', ''value'': ''some_complaints''}'
+      - '{''label'': ''Many Complaints'', ''value'': ''many_complains''}'
+      required: false
+    - id: 11
+      name: delivery_speed_complaints
+      label: How fast was the delivery after using the product
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On Time'', ''value'': ''on_time''}'
+      - '{''label'': ''Late'', ''value'': ''late''}'
+      - '{''label'': ''Not on Time'', ''value'': ''not_on_time''}'
+      required: false

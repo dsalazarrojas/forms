@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Treatment Intake Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Full legal name for records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient DOB
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone for appointment updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Main reason for seeking chiropractic care
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: symptom_duration
+      label: Symptom Duration
+      hint: How long symptoms have been present
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pain_severity
+      label: Pain Severity
+      hint: Rate pain on a 0 to 10 scale
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: relevant_history
+      label: Relevant Medical History
+      hint: Past conditions or surgeries that affect care
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_medications
+      label: Current Medications
+      hint: List medications and dosages
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: For urgent contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent_treatment
+      label: Consent to Treatment
+      hint: Confirm understanding and consent to care
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true

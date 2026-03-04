@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: delivery_service_satisfaction_feedback_form
+    pages:
+    - id: 1
+      name: delivery_service_satisfaction_feedback_form_page
+      label: What was the quality of the service you received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_service_satisfaction_feedback_form_rating
+      label: How would you rate our service
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: delivery_service_satisfaction_feedback_form_comments
+      label: What was your experience with the delivery
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: delivery_service_satisfaction_feedback_form_improvement
+      label: How can we improve our service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_service_satisfaction_feedback_form_category
+      label: Which category best describes your experience
+      hint: null
+      type: select_multiple
+      options:
+      - courier
+      - retail
+      - logistics
+      required: false
+    - id: 6
+      name: delivery_service_satisfaction_feedback_form_email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: delivery_service_satisfaction_feedback_form_phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false

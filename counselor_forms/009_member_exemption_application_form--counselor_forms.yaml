@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: member_exemption_application_form
+    pages:
+    - id: 1
+      name: member_exemption_application_form_page_1
+      label: member_exemption_application_form_page_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_exemption_application_form_first_name
+      label: member_exemption_application_form_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_exemption_application_form_last_name
+      label: member_exemption_application_form_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_exemption_application_form_email
+      label: member_exemption_application_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: member_exemption_application_form_phone
+      label: member_exemption_application_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: member_exemption_application_form_member_type
+      label: member_exemption_application_form_member_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: member_exemption_application_form_exemption_reason
+      label: member_exemption_application_form_exemption_reason
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      required: true
+    - id: 8
+      name: member_exemption_application_form_exemption_reason_other
+      label: member_exemption_application_form_exemption_reason_other
+      hint: null
+      type: text
+      options: []
+      required: false

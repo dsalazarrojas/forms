@@ -1,0 +1,61 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Symptom Checking Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Fatigue
+      - Coughing
+      - Chest pain
+      - Headache
+      - Loss of taste or smell
+      - Nausea or vomiting
+      - Dizziness or lightheadedness
+      - Difficulty breathing
+      - Confusion or difficulty concentrating
+      - Muscle or body aches
+      - Severe pain
+      - Sore Throat
+      - Shortness of breath
+      - Diarrhea
+      - Runny nose or stuffy nose
+      - Coughing up blood
+      required: false
+    - id: 3
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Family member with COVID-19 symptoms
+      - Close contact with someone with COVID-19
+      - Recent travel to a COVID-19 hotspot
+      - Recent exposure to someone with COVID-19
+      - Recent international travel in the past 2 weeks
+      - Recent cruise ship travel
+      required: true

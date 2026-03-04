@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policy Change Notification Form
+    pages:
+    - id: 1
+      name: company_policy_changes
+      label: Policy Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employees_affected
+      label: Employees Affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: policy_change_date
+      label: Policy Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Screening Disclosure Form
+    pages:
+    - id: 1
+      name: section_patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: visit_date
+      label: Scheduled Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_covid_screening
+      label: -- COVID-19 Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fever_or_chills
+      label: Have you had fever or chills in the past 24 hours?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: cough_symptoms
+      label: Have you had a cough in the past 24 hours?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: breathing_difficulty
+      label: Have you had difficulty breathing in the past 24 hours?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: taste_smell_loss
+      label: Have you lost your sense of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: muscle_fatigue
+      label: Have you had muscle or body aches and fatigue?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: section_exposure
+      label: -- COVID-19 Exposure History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: positive_diagnosis
+      label: Have you been diagnosed positive for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - In the past 14 days
+      required: true
+    - id: 15
+      name: close_contact
+      label: Have you been in close contact with a person diagnosed with COVID-19?
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 16
+      name: travel_affected_area
+      label: Have you traveled to a COVID-19 affected area recently?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: section_consent
+      label: -- Consent and Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: confirm_responses
+      label: I confirm my responses are true and accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: understand_disclosure
+      label: I understand the information provided in this form
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: consent_screening
+      label: I consent to COVID-19 screening before my appointment
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 21
+      name: disclosure_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

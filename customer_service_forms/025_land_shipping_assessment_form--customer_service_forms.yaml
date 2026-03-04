@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Land Shipping Assessment Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info_shipper
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_info
+      label: Assessment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Next Day''}'
+      - '{''label'': ''Two Days''}'
+      - '{''label'': ''Three Days''}'
+      required: false
+    - id: 6
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Air''}'
+      - '{''label'': ''Ground''}'
+      - '{''label'': ''Rail''}'
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Credit''}'
+      - '{''label'': ''PayPal''}'
+      required: false
+    - id: 8
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Text''}'
+      required: false
+    - id: 9
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''24/7''}'
+      - '{''label'': ''8/5''}'
+      - '{''label'': ''9/10''}'
+      required: false
+    - id: 10
+      name: estimated_delivery
+      label: Estimated Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: actual_delivery
+      label: Actual Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Unpaid''}'
+      - '{''label'': ''Partially Paid''}'
+      required: false
+    - id: 13
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

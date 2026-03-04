@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Efficiency Program Complaint Form
+    pages:
+    - id: 1
+      name: customer_complaint
+      label: Customer Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_efficiency_program_complaint
+      label: Energy Efficiency Program Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_services
+      label: Program Services
+      hint: Select multiple
+      type: select_multiple
+      options:
+      - Energy Savings
+      - Rebates
+      - Energy Audits
+      required: false
+    - id: 4
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: energy_type
+      label: Energy Type
+      hint: null
+      type: select_one
+      options:
+      - Electric
+      - Gas
+      - Other
+      required: true
+    - id: 10
+      name: service_area
+      label: Service Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_email
+      label: Customer Service Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_service_phone
+      label: Customer Service Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_committed_to
+      label: Date Committed To
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: customer_service_hours
+      label: Customer Service Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: is_escalated
+      label: Is Escalated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: is_resolved
+      label: Is Resolved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: customer_service_notes
+      label: Customer Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Travel Declaration Form For Parents
+    pages:
+    - id: 1
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: child_gender
+      label: Child Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 14
+      name: school_name
+      label: School Name
+      hint: Child's school
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: child_grade
+      label: Child Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 16
+      name: travel_purpose
+      label: Purpose of Travel
+      hint: Why traveling
+      type: select_one
+      options:
+      - Family vacation
+      - Visit family or relatives
+      - Educational trip
+      - Sports or competition
+      - Medical treatment
+      - Relocation
+      - Other
+      required: true
+    - id: 17
+      name: travel_destination
+      label: Travel Destination
+      hint: Where traveling to
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: travel_departure_date
+      label: Departure Date
+      hint: When leaving
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: travel_return_date
+      label: Return Date
+      hint: When returning
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: travel_method
+      label: Method of Travel
+      hint: Transportation
+      type: select_one
+      options:
+      - Personal vehicle
+      - Airplane
+      - Train
+      - Bus
+      - Cruise ship
+      - Other
+      required: true
+    - id: 21
+      name: international_travel
+      label: Is this international travel
+      hint: Travel type
+      type: select_one
+      options:
+      - No domestic only
+      - Yes international
+      required: true
+    - id: 22
+      name: countries_visited
+      label: List Countries Visited
+      hint: All countries
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: child_symptoms
+      label: Is your child currently experiencing any COVID-19 symptoms
+      hint: Health screening
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 24
+      name: child_symptom_list
+      label: Which symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 25
+      name: household_positive
+      label: Has anyone in your household tested positive for COVID-19 in the past
+        14 days
+      hint: Household cases
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 26
+      name: child_vaccination_status
+      label: What is your child's COVID-19 vaccination status
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Not eligible yet
+      - Prefer not to say
+      required: false
+    - id: 27
+      name: quarantine_compliance
+      label: I agree to follow all quarantine and testing requirements upon return
+      hint: Quarantine agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 28
+      name: school_notification
+      label: I will notify the school if we test positive for COVID-19 during or after
+        travel
+      hint: Notification agreement
+      type: select_one
+      options:
+      - Yes I will notify
+      - No I will not notify
+      required: true
+    - id: 29
+      name: return_to_school_date
+      label: Expected Return to School Date
+      hint: When child returns
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: parent_signature_date
+      label: Parent or Guardian Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

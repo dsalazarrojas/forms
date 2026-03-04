@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: ASD Technology Support Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email
+      hint: Your email (optional, for follow-up)
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: support_request_date
+      label: Support Request Date
+      hint: When did you request support?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: support_issue_type
+      label: Support Issue Type
+      hint: What type of technology support did you request?
+      type: select_one
+      options: ["Software Problem", "Hardware Issue", "Setup Assistance", "Training Request", "Feature Inquiry", "Bug Report", "Other"]
+      required: true
+    - id: 5
+      name: support_channel_used
+      label: Support Channel Used
+      hint: How did you reach out for support?
+      type: select_one
+      options: ["Phone", "Email", "Live Chat", "Ticket System", "In-Person", "Other"]
+      required: true
+    - id: 6
+      name: response_time_satisfaction
+      label: Response Time Satisfaction
+      hint: How satisfied were you with the response time?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 7
+      name: technician_knowledge
+      label: Technician Knowledge
+      hint: How would you rate the technician's knowledge?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 8
+      name: solution_effectiveness
+      label: Solution Effectiveness
+      hint: How effective was the solution provided?
+      type: select_one
+      options: ["Completely Resolved", "Mostly Resolved", "Partially Resolved", "Did Not Resolve", "Made Things Worse"]
+      required: true
+    - id: 9
+      name: communication_clarity
+      label: Communication Clarity
+      hint: How clear was the communication during support?
+      type: select_one
+      options: ["Very Clear", "Clear", "Neutral", "Unclear", "Very Unclear"]
+      required: true
+    - id: 10
+      name: overall_support_satisfaction
+      label: Overall Support Satisfaction
+      hint: How satisfied were you with the overall support experience?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 11
+      name: support_staff_professionalism
+      label: Support Staff Professionalism
+      hint: How would you rate the professionalism of the support staff?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 12
+      name: follow_up_necessary
+      label: Follow-up Necessary
+      hint: Did your issue require follow-up support?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 13
+      name: would_recommend_support
+      label: Would Recommend Support
+      hint: Would you recommend our technology support to others?
+      type: select_one
+      options: ["Definitely Yes", "Probably Yes", "Neutral", "Probably No", "Definitely No"]
+      required: true
+    - id: 14
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other feedback about the technology support experience?
+      type: text
+      options: []
+      required: false

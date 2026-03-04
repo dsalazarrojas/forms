@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Eating Habits Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_often_dose_you_eat
+      label: How Often Do You Eat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_preferred
+      label: Food Preferred
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Vegetarian''}'
+      - '{''id'': 3, ''label'': ''Vegan''}'
+      - '{''id'': 4, ''label'': ''Omnivore''}'
+      required: false
+    - id: 4
+      name: what_food_groups_do_you_eat_most_days_a_week
+      label: What Food Groups Do You Eat Most Days A Week
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Fruits''}'
+      - '{''id'': 3, ''label'': ''Vegetables''}'
+      - '{''id'': 4, ''label'': ''Protein''}'
+      - '{''id'': 5, ''label'': ''Grains''}'
+      required: false
+    - id: 5
+      name: what_time_do_you_usually_start_your_meal
+      label: What Time Do You Usualy Start Your Meal
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: do_you_usually_finish_your_meal
+      label: Do You Usualy Finish Your Meal
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: have_you_ever_sought_professional_help_for_your_eating_habits
+      label: Have You Ever Sought Professional Help For Your Eating Habits
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: false
+    - id: 8
+      name: how_do_you_feel_when_you_cannot_eat_your_preferred_food
+      label: How Do You Feel When You Cannot Eat Your Preferred Food
+      hint: null
+      type: note
+      options: []
+      required: false

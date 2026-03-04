@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Happiness Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: happiness_level
+      label: How happy are you?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very Unhappy''}'
+      - '{2: ''Somewhat Unhappy''}'
+      - '{3: ''Neutral''}'
+      - '{4: ''Somewhat Happy''}'
+      - '{5: ''Very Happy''}'
+      required: true
+    - id: 6
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: are_you_satisfied
+      label: Are you Satisfied?
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 8
+      name: comments_on_satisfaction
+      label: Comments on Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

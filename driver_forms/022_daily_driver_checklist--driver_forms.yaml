@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_driver_checklist
+    pages:
+    - id: 1
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_maintenance
+      label: vehicle_maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Driver''}'
+      - '{''value'': ''Rider''}'
+      - '{''value'': ''Passenger''}'
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: vehicle_location
+      label: Vehicle Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_status
+      label: Driver Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 7
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accumulation Declaration Form
+    pages:
+    - id: 1
+      name: declarant_full_name
+      label: Declarant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tax_id_or_ssn
+      label: Tax ID or SSN
+      hint: Identification for tax purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: declaration_type
+      label: Declaration Type
+      hint: Reason for this filing
+      type: select_one
+      options:
+      - Annual Asset Update
+      - New Account Opening
+      - Regulatory Audit
+      required: true
+    - id: 4
+      name: asset_header
+      label: -- Declared Assets --
+      hint: Provide approximate valuations in USD
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: cash_and_equivalents
+      label: Cash and Equivalents
+      hint: Liquid assets
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: real_estate_holdings
+      label: Real Estate Holdings
+      hint: Estimated market value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: investment_securities
+      label: Investment Securities
+      hint: Stocks, bonds, etc.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: other_tangible_assets
+      label: Other Tangible Assets
+      hint: Vehicles, jewelry, etc.
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: source_of_funds_explanation
+      label: Source of Funds Explanation
+      hint: How were these assets accumulated?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: valuation_as_of_date
+      label: Valuation As Of Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: legal_header
+      label: -- Legal Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: truthfulness_confirmation
+      label: I declare the above information is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I so declare
+      - false
+      required: true
+    - id: 13
+      name: digital_signature
+      label: Digital Signature
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_of_declaration
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true

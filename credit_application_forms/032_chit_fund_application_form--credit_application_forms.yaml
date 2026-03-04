@@ -1,0 +1,454 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chit Fund Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 8
+      name: number_of_dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: How to reach you
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: permanent_address
+      label: Permanent Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_address
+      label: Current Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: identification
+      label: Identification
+      hint: Official ID details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: id_type
+      label: Type of ID
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - Driver's license
+      - National ID
+      - Voter ID
+      - Other government ID
+      required: true
+    - id: 16
+      name: id_number
+      label: ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: id_issue_date
+      label: ID Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: id_expiry_date
+      label: ID Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: employment_information
+      label: Employment Information
+      hint: Your work details
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-employed
+      - Business owner
+      - Retired
+      - Unemployed
+      required: true
+    - id: 21
+      name: occupation
+      label: Occupation
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: years_employed
+      label: Years at Current Job
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: income_proof
+      label: Can you provide proof of income
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: chit_fund_details
+      label: Chit Fund Details
+      hint: Your preferences
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: chit_fund_group
+      label: Preferred Chit Fund Group
+      hint: null
+      type: select_one
+      options:
+      - Group A - 10,000
+      - Group B - 25,000
+      - Group C - 50,000
+      - Group D - 100,000
+      - Group E - 250,000
+      - Not sure
+      required: true
+    - id: 30
+      name: chit_duration
+      label: Preferred Duration
+      hint: null
+      type: select_one
+      options:
+      - 12 months
+      - 20 months
+      - 24 months
+      - 40 months
+      - No preference
+      required: true
+    - id: 31
+      name: monthly_installment
+      label: Preferred Monthly Installment
+      hint: Amount you can pay
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: prize_preference
+      label: When would you like to receive the prize amount
+      hint: null
+      type: select_one
+      options:
+      - First month
+      - Early (months 2-10)
+      - Middle (months 11-20)
+      - Late (months 21-end)
+      - No preference
+      - Through auction
+      required: true
+    - id: 33
+      name: nomination_details
+      label: Nomination Details
+      hint: Beneficiary information
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: nominee_name
+      label: Nominee Name
+      hint: Beneficiary
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: nominee_relationship
+      label: Relationship to Nominee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: nominee_address
+      label: Nominee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: guarantor_information
+      label: Guarantor Information
+      hint: Required for approval
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: guarantor_name
+      label: Guarantor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: guarantor_address
+      label: Guarantor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: guarantor_phone
+      label: Guarantor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: guarantor_occupation
+      label: Guarantor Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: bank_details
+      label: Bank Details
+      hint: For transactions
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: branch_name
+      label: Branch Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Savings
+      - Current
+      - Joint
+      required: true
+    - id: 48
+      name: ifsc_code
+      label: IFSC Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: references
+      label: References
+      hint: Personal references
+      type: note
+      options: []
+      required: false
+    - id: 50
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 54
+      name: declaration
+      label: Declaration
+      hint: Your agreement
+      type: note
+      options: []
+      required: false
+    - id: 55
+      name: information_true
+      label: I declare that all information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - Yes, I declare
+      - false
+      required: true
+    - id: 56
+      name: agree_terms
+      label: I agree to abide by the chit fund rules and regulations
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 57
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 58
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

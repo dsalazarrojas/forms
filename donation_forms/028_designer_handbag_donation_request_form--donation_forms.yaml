@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer Handbag Donation Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: handbag_info
+      label: Handbag Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: handbag_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Handbag1
+      - Handbag2
+      - Handbag3
+      required: false
+    - id: 7
+      name: handbag_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - New
+      - Gently Used
+      required: false
+    - id: 10
+      name: donation_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Accepted
+      - Declined
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_on
+      label: Submitter Information
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: photo_url
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: text
+      options: []
+      required: false

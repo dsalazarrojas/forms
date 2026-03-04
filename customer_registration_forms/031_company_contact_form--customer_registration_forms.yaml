@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Contact Form
+    pages:
+    - id: 1
+      name: name
+      label: Full name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company name
+      hint: Organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: For our reply
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_type
+      label: Inquiry type
+      hint: Nature of your message
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Partnership
+      - Other
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: Describe your inquiry
+      type: text
+      options: []
+      required: true

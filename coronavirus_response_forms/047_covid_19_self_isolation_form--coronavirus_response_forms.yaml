@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Isolation Form
+    pages:
+    - id: 1
+      name: employee_name_full
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_dept_text
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_name_val
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: isolation_reason_cat
+      label: Reason for Self-Isolation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed COVID-19 Positive
+      - Symptoms Present
+      - Close Contact with Positive Case
+      - Household Exposure
+      - Returning from High-Risk Area
+      required: true
+    - id: 5
+      name: isolation_start_date
+      label: Start Date of Isolation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: isolation_end_est
+      label: Estimated End Date of Isolation
+      hint: Minimum 10-14 days depending on policy
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: wfh_status_yn
+      label: Are you capable and planning to work from home during isolation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 8
+      name: symptoms_present_yn
+      label: Are you currently experiencing COVID-19 symptoms?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: pos_test_date_val
+      label: Date of Positive Test
+      hint: Leave blank if not tested or negative
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: check_in_email_addr
+      label: Contact Email for Daily Health Check-ins
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: company_policy_ack_yn
+      label: I have read and agree to follow the company COVID-19 leave policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 12
+      name: info_accuracy_cert
+      label: I certify the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

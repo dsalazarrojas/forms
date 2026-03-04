@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Village Outreach Donation Form
+    pages:
+    - id: 1
+      name: outreach_location
+      label: Outreach Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: frequency
+      label: Frequency of Donation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency_options
+      label: Donation Frequency Options
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

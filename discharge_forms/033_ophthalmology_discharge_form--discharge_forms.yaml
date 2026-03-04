@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: ophthalmology_discharge_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ophthalmology_discharge
+      label: Ophthalmology Discharge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: aftercare_guidance
+      label: Aftercare
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: clinic_info
+      label: Clinic Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: surgeon_info
+      label: Surgeon Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_instructions
+      label: Patient Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: clinic_staff
+      label: Clinic Staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false

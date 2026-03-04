@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: upspring_resource_collaborative_order_form
+    pages:
+    - id: 1
+      name: family_members
+      label: family_members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_type
+      label: family_type
+      hint: null
+      type: select_one
+      options:
+      - Foster
+      - Individual
+      - Family with minor children
+      - Family with adult children
+      - Family with adult and minor children
+      required: false
+    - id: 3
+      name: family_status
+      label: family_status
+      hint: null
+      type: select_multiple
+      options:
+      - Homeless
+      - At risk of homelessness
+      - Homeless and at risk
+      - Not homeless
+      - In crisis
+      required: false
+    - id: 4
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: household_size
+      label: household_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: requested_items
+      label: requested_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_type
+      label: item_type
+      hint: null
+      type: select_multiple
+      options:
+      - Bedding (Beds, Mattress, Box Springs)
+      - Kitchen items (Dishes, Pots and Pans, Utensils)
+      - Kitchen items
+      - Linens
+      - Small appliances (Toaster, Hair Dryer, ect)
+      - Other
+      required: false
+    - id: 8
+      name: item_condition
+      label: item_condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Gently used
+      - Other
+      required: false
+    - id: 9
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: select_one
+      options:
+      - 1 - Eastside
+      - 2 - Northside
+      - 3 - Westside
+      - 4 - Other
+      required: false
+    - id: 10
+      name: pickup_method
+      label: pickup_method
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: false
+    - id: 11
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

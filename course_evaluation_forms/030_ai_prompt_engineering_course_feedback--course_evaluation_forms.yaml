@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Prompt Engineering Course Feedback
+    pages:
+    - id: 1
+      name: --course_information--
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_date
+      label: Course date
+      hint: Date of attended session
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: instructor_effectiveness
+      label: Instructor effectiveness
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: course_content_quality
+      label: Course content quality
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: practical_exercises
+      label: Usefulness of practical exercises
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: learning_outcomes_met
+      label: Did the course meet your learning outcomes
+      hint: Select one
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 8
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: Specific recommendations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: would_recommend
+      label: Would you recommend this course
+      hint: Select one
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

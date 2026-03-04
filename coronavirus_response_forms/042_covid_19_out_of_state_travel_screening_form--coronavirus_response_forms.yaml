@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Out Of State Travel Screening Form
+    pages:
+    - id: 1
+      name: traveler_header
+      label: -- Traveler Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: residence_state
+      label: State of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_header
+      label: -- Travel Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: travel_origin
+      label: Where Did You Travel From
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: travel_states
+      label: States Visited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: travel_mode
+      label: Transportation Mode
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Car
+      - Train
+      - Bus
+      - Other
+      required: true
+    - id: 12
+      name: return_date
+      label: Date of Return
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: high_risk_area
+      label: Traveled to COVID-19 high-risk area
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 14
+      name: health_section
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: covid_symptoms
+      label: Any COVID-19 symptoms currently
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: symptoms_list
+      label: Symptoms if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fever
+      label: Temperature above 100.4F in past 24 hours
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: symptoms_during_travel
+      label: Symptoms developed during travel
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: exposure_during_travel
+      label: Exposed to confirmed COVID-19 during travel
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 20
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: true
+    - id: 21
+      name: quarantine_header
+      label: -- Quarantine Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: quarantine_willing
+      label: Willing to quarantine if required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: quarantine_duration
+      label: Quarantine duration if required
+      hint: In days
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: testing_willing
+      label: Willing to be tested
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true

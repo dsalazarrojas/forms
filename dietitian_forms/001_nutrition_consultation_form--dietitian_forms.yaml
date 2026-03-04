@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: nutrition consultation form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_contact_number
+      label: Patient Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: reason_for_consultation
+      label: Reason for Consultation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: consultation_time
+      label: Consultation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: consultation_duration
+      label: Consultation Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: goals_description
+      label: Goals Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: goals_date
+      label: Goals Date
+      hint: null
+      type: date
+      options: []
+      required: true

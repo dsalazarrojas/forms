@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid-19-viewer-survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics_page
+      label: demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: questions_page
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      required: true
+    - id: 5
+      name: comments_page
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_page
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_page
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Counselor Recommendation Form
+    pages:
+    - id: 1
+      name: counselor_name
+      label: Counselor Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: counselor_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: counselor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: counselor_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_address
+      label: School Address
+      hint: School address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_counseling
+      label: Years as School Counselor
+      hint: Experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-15 years
+      - Over 15 years
+      required: true
+    - id: 8
+      name: student_name
+      label: Student Full Name
+      hint: Name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: student_email
+      label: Student Email
+      hint: Applicant email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: student_graduation_year
+      label: Student Graduation Year
+      hint: When they graduate
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: In what capacity
+      type: select_one
+      options:
+      - School Counselor
+      - College Counselor
+      - Academic Advisor
+      - Other
+      required: true
+    - id: 12
+      name: years_known_student
+      label: How Long Have You Known the Student
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-3 years
+      - 3-4 years
+      - Over 4 years
+      required: true
+    - id: 13
+      name: frequency_of_contact
+      label: Frequency of Contact with Student
+      hint: How often you meet
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - As Needed
+      - Occasionally
+      required: true
+    - id: 14
+      name: academic_performance
+      label: Academic Performance Rating
+      hint: Compared to peers
+      type: select_one
+      options:
+      - Top 5 Percent
+      - Top 10 Percent
+      - Top 25 Percent
+      - Top 50 Percent
+      - Below Average
+      required: true
+    - id: 15
+      name: academic_rigor
+      label: Course Rigor Rating
+      hint: Challenge level of courses
+      type: select_one
+      options:
+      - Most Rigorous Available
+      - Very Rigorous
+      - Rigorous
+      - Average
+      - Less Rigorous
+      required: true
+    - id: 16
+      name: personal_qualities
+      label: Personal Qualities Rating
+      hint: Character assessment
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 17
+      name: leadership
+      label: Leadership Qualities Rating
+      hint: Leadership potential
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 18
+      name: extracurricular_involvement
+      label: Extracurricular Involvement Rating
+      hint: Activities participation
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 19
+      name: community_service
+      label: Community Service Involvement
+      hint: Volunteer work
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      - Not Involved
+      required: true
+    - id: 20
+      name: resilience
+      label: Resilience Rating
+      hint: Handles challenges
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 21
+      name: student_strengths
+      label: Student Top Strengths
+      hint: What are they best at
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: student_growth
+      label: Areas of Growth
+      hint: How have they developed
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: challenges_overcome
+      label: Challenges the Student Has Overcome
+      hint: Any obstacles
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_context
+      label: Context About Your School
+      hint: School profile information
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: student_rank
+      label: How Does Student Rank Among Peers
+      hint: In your experience
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: college_readiness
+      label: College Readiness Assessment
+      hint: Are they prepared
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: recommendation_level
+      label: Overall Recommendation Level
+      hint: How strongly do you recommend
+      type: select_one
+      options:
+      - Recommend With Highest Enthusiasm
+      - Recommend Strongly
+      - Recommend
+      - Recommend With Reservations
+      - Cannot Recommend
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: counselor_signature
+      label: Counselor Certification
+      hint: I certify this recommendation is accurate
+      type: select_one
+      options:
+      - Yes I Certify
+      - Other
+      required: true

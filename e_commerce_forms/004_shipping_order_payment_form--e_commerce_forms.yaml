@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_order_payment_form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash on Delivery''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      required: true
+    - id: 6
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

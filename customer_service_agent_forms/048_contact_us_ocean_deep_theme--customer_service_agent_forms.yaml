@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Ocean Deep Theme
+    pages:
+    - id: 1
+      name: header
+      label: -- Customer Service Contact --
+      hint: Use this form to reach our customer service team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email used for replies
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional phone for urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_category
+      label: Inquiry category
+      hint: Select the category of your inquiry
+      type: select_one
+      options:
+      - Billing
+      - Technical support
+      - Account
+      - Other
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: Describe your issue or question
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: urgency
+      label: Urgency level
+      hint: Select how quickly you need assistance
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should our team reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: false
+    - id: 9
+      name: additional_information
+      label: Additional information
+      hint: Any other details to help our team
+      type: text
+      options: []
+      required: false

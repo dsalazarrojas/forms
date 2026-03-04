@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Discharge Summary Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: hospice_name
+      label: Hospice Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_record_number_2
+      label: Medical Record Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: hospice_address
+      label: Hospice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_number_3
+      label: Medical Record Number 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: medical_history_3
+      label: Medical History 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_note
+      label: Physician Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hospice_discharge_notes
+      label: Hospice Discharge Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_4
+      label: Medical History 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: discharge_diagnosis
+      label: Discharge Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: hospice_provider_id
+      label: Hospice Provider ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history_5
+      label: Medical History 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physician_signature_2
+      label: Physician Signature 2
+      hint: null
+      type: text
+      options: []
+      required: false

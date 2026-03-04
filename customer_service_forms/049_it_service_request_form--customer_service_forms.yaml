@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_service_request_form
+    pages:
+    - id: 1
+      name: it_service_request_type
+      label: Service Request Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: Enter your contact details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_request_time
+      label: Service Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional comments about your request
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

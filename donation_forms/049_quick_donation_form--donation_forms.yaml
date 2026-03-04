@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quick Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_fund
+      label: select_fund
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''donation-fund-1'', ''value'': ''Fund 1''}'
+      - '{''name'': ''donation-fund-2'', ''value'': ''Fund 2''}'
+      - '{''name'': ''donation-fund-3'', ''value'': ''Fund 3''}'
+      required: false
+    - id: 3
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donator_message
+      label: message_to_organizations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donators_affiliation
+      label: affiliation
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''affiliation-1'', ''value'': ''Affiliation 1''}'
+      - '{''name'': ''affiliation-2'', ''value'': ''Affiliation 2''}'
+      - '{''name'': ''affiliation-3'', ''value'': ''Affiliation 3''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: custom_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false

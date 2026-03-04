@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Survey
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quality_rating
+      label: quality_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: purchase_experience
+      label: purchase_experience
+      hint: null
+      type: text
+      options: []
+      required: false

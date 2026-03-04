@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instrument Flight Training Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: flight_school
+      label: flight school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor
+      label: instructor name
+      hint: null
+      type: select_one
+      options:
+      - Instructor 1
+      - Instructor 2
+      - Instructor 3
+      required: true
+    - id: 6
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: schedule
+      label: schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 9
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false

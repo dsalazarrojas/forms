@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remark Request Form
+    pages:
+    - id: 1
+      name: remark_request_form
+      label: Remark Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: remarks
+      label: Remarks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_remarks
+      label: Reason for Remark
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_document
+      label: Supporting Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Workplace Safety Checklist Form
+    pages:
+    - id: 1
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: temperature_check
+      label: temperature_check
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Under 100.4°F (Under 38°C)''}'
+      - '{''label'': ''100.4°F or higher (38°C or higher)''}'
+      required: false
+    - id: 5
+      name: face_mask_worn
+      label: face_mask_worn
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: physical_distancing
+      label: physical_distancing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Maintaining 6 feet distance''}'
+      - '{''label'': ''Not maintaining 6 feet distance''}'
+      required: false
+    - id: 7
+      name: hand_hygiene
+      label: hand_hygiene
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wearing hand sanitizer''}'
+      - '{''label'': ''Not wearing hand sanitizer''}'
+      required: false
+    - id: 8
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Fever''}'
+      - '{''label'': ''Cough''}'
+      - '{''label'': ''Sore throat''}'
+      required: false
+    - id: 9
+      name: exposure_contact
+      label: exposure_contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''No contact''}'
+      - '{''label'': ''Exposed to someone with COVID-19''}'
+      - '{''label'': ''Exposed to someone with a high risk behavior''}'
+      required: false
+    - id: 10
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fully vaccinated''}'
+      - '{''label'': ''Partly vaccinated''}'
+      - '{''label'': ''Not vaccinated''}'
+      required: false
+    - id: 11
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: next_shift_start_time
+      label: next_shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false

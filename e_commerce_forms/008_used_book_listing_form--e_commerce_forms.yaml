@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Used Book Listing Form
+    pages:
+    - id: 1
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: isbn
+      label: Isbn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: edition
+      label: Edition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: publisher
+      label: Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pages
+      label: Pages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: image_url
+      label: Image Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Book
+      - Textbook
+      - Novel
+      - Non
+      - Fiction
+      - Non
+      - Fiction
+      - Other
+      required: false
+    - id: 11
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Book
+      - Text
+      - Novel
+      - Non
+      - Fiction
+      - Other
+      required: false
+    - id: 12
+      name: date_listed
+      label: Date Listed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: used_condition
+      label: Used Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Waiver Form
+    pages:
+    - id: 1
+      name: form_id
+      label: dance_class_waiver_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: dance_class_waiver_form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: dance_class_waiver_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: dance_class_waiver_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Parent''}'
+      - '{''id'': 2, ''label'': ''Guardian''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: emergency_contact_other
+      label: emergency_contact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_note
+      label: emergency_contact_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Allergies/Phobias''}'
+      - '{''id'': 2, ''label'': ''Asthma''}'
+      - '{''id'': 3, ''label'': ''Broken Bones/Injuries''}'
+      - '{''id'': 4, ''label'': ''Cancer''}'
+      - '{''id'': 5, ''label'': ''Epilepsy''}'
+      - '{''id'': 6, ''label'': ''Heart Condition''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: medical_condition_details
+      label: medical_condition_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name_2
+      label: emergency_contact_name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone_2
+      label: emergency_contact_phone_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship_2
+      label: emergency_contact_relationship_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Parent''}'
+      - '{''id'': 2, ''label'': ''Guardian''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: emergency_contact_other_2
+      label: emergency_contact_other_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_address_2
+      label: emergency_contact_address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_note_2
+      label: emergency_contact_note_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition_2
+      label: medical_condition_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Allergies/Phobias''}'
+      - '{''id'': 2, ''label'': ''Asthma''}'
+      - '{''id'': 3, ''label'': ''Broken Bones/Injuries''}'
+      - '{''id'': 4, ''label'': ''Cancer''}'
+      - '{''id'': 5, ''label'': ''Epilepsy''}'
+      - '{''id'': 6, ''label'': ''Heart Condition''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: medical_condition_2_details
+      label: medical_condition_2_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: waiver
+      label: waiver
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Survey
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - Contact via Email
+      - Contact via Phone
+      - Contact via SMS
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

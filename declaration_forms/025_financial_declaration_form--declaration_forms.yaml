@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Declaration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_assistance
+      label: Financial Assistance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: required_fields
+      label: Required Fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: declaration_time
+      label: Declaration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: declaration_note
+      label: Declaration Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

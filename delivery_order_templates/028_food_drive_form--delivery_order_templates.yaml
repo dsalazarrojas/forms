@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Drive Form
+    pages:
+    - id: 1
+      name: delivery_order_template
+      label: Delivery Order Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_item
+      label: Food
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Apples''}'
+      - '{''id'': 2, ''name'': ''Bananas''}'
+      - '{''id'': 3, ''name'': ''Carrots''}'
+      required: true
+    - id: 3
+      name: toiletries
+      label: Toiletries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Toothpaste''}'
+      - '{''id'': 2, ''name'': ''Soap''}'
+      - '{''id'': 3, ''name'': ''Toilet Paper''}'
+      required: false
+    - id: 4
+      name: baby_items
+      label: Baby Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Diapers''}'
+      - '{''id'': 2, ''name'': ''Formula''}'
+      - '{''id'': 3, ''name'': ''Baby Wipes''}'
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: help
+      label: Help
+      hint: null
+      type: text
+      options: []
+      required: false

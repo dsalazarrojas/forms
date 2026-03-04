@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: support_ticket_intake_form
+    pages:
+    - id: 1
+      name: customer_inquiry
+      label: Customer Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: Please describe the issue in detail
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: Please provide your contact details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_request
+      label: Customer Service Request
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Technical Support''}'
+      - '{''id'': 2, ''name'': ''Non-Tech Support''}'
+      required: true
+    - id: 5
+      name: support_request_date
+      label: Support Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: support_request_time
+      label: Support Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: true
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_request
+      label: Customer Request
+      hint: null
+      type: text
+      options: []
+      required: false

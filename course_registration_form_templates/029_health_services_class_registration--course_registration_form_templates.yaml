@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: health-services-class-registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: class_description
+      label: Class Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

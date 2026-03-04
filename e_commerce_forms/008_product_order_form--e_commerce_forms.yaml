@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: order form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_info
+      label: shipping info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: review
+      label: review
+      hint: Your feedback is important
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_method
+      label: shipping method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''option1'', ''label'': ''option 1''}'
+      - '{''id'': 11, ''name'': ''option2'', ''label'': ''option 2''}'
+      - '{''id'': 12, ''name'': ''option3'', ''label'': ''option 3''}'
+      required: false
+    - id: 6
+      name: payment_info
+      label: payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_note
+      label: order note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false

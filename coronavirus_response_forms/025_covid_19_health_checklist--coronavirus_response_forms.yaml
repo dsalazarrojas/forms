@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_19_health_checklist
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle or body aches
+      - Diarrhea
+      - Sore Throat
+      - Runny nose or stuffed up nose
+      - Dizziness or disorientation
+      - Nausea or vomiting
+      - Headache
+      - Loss of appetite
+      - Sore Throat
+      - Loss of taste or smell
+      - Runny eyes
+      - Chest pain
+      - Difficulty breathing
+      - Loss of smell
+      - Loss of taste
+      - Confusion
+      - Abnormal fatigue
+      - Confusion
+      - Shortness of breath
+      - Cough
+      required: true
+    - id: 3
+      name: contact_details
+      label: Have you had contact with anyone with COVID-19
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - Yes - family or close contact
+      - Yes - friend or acquaintance
+      - Yes - coworker
+      - Yes - other
+      required: true
+    - id: 4
+      name: travel_history
+      label: Have you traveled internationally
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - Yes - domestic
+      - Yes - international
+      - Yes - multiple countries
+      required: true
+    - id: 5
+      name: travel_details
+      label: Recent International Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_dates
+      label: Recent International Travel History Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_countries
+      label: Countries Visited
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: symptoms_onset
+      label: When did you first notice your symptoms
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: employee_health
+      label: Employee Health
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_status
+      label: Employee status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employee_location
+      label: Where are you located
+      hint: null
+      type: text
+      options: []
+      required: true

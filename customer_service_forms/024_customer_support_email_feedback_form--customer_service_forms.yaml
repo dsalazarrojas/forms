@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support Email Feedback Form
+    pages:
+    - id: 1
+      name: customer_support_email_feedback_form
+      label: Customer Support Email Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_interaction
+      label: Customer Service Interaction
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email
+      hint: 'Format: yourname@domain.com'
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: 123-456-7890 or 123.456.7890'
+      type: text
+      options: []
+      required: false

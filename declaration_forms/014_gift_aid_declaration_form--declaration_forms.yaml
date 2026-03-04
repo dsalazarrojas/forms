@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Aid Declaration Form
+    pages:
+    - id: 1
+      name: gift_aid_declaration_form
+      label: Gift Aid Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: taxpayer_id
+      label: Taxpayer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: taxpayer_name
+      label: Taxpayer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: taxpayer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: charity_name
+      label: Charity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: charity_registration
+      label: Charity Registration
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''1''}'
+      - '{2: ''2''}'
+      - '{3: ''3''}'
+      - '{4: ''4''}'
+      required: true
+    - id: 7
+      name: gift_value
+      label: Gift value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gift_value_currency
+      label: Gift value (currency)
+      hint: null
+      type: select_one
+      options:
+      - GBP
+      - EUR
+      - USD
+      required: false
+    - id: 9
+      name: gift_value_date
+      label: Gift value date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: total_gift_amount
+      label: Total gift amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: donor_declaration
+      label: Donor Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: taxpayer_signature
+      label: Taxpayer Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: declaration_status
+      label: Declaration status
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Pending''}'
+      - '{2: ''Declined''}'
+      - '{3: ''Accepted''}'
+      required: false
+    - id: 14
+      name: charity_declaration
+      label: Charity Declaration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: charity_declaration_date
+      label: Charity Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false

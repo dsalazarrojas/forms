@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Play Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_information
+      label: -- Sponsor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name
+      hint: Individual or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Organization
+      - Foundation
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: play_selection
+      label: -- Play Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: play_title
+      label: Which play would you like to sponsor
+      hint: null
+      type: select_one
+      options:
+      - Shakespeare Classics
+      - Modern Dramas
+      - Comedy Series
+      - Musical Theater
+      - Adaptations
+      required: true
+    - id: 12
+      name: performance_dates
+      label: Preferred Performance Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Opening Night
+      - Friday Performances
+      - Saturday Performances
+      - Sunday Matinee
+      - All Performances
+      required: true
+    - id: 13
+      name: sponsorship_level
+      label: -- Sponsorship Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sponsorship_tier
+      label: Sponsorship Tier
+      hint: null
+      type: select_one
+      options:
+      - Bronze - 500 dollars
+      - Silver - 1000 dollars
+      - Gold - 2500 dollars
+      - Platinum - 5000 dollars
+      - Custom Amount
+      required: true
+    - id: 15
+      name: custom_amount
+      label: Custom Sponsorship Amount
+      hint: If you selected custom amount
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: benefits_section
+      label: -- Recognition and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: recognition_preference
+      label: How would you like to be recognized
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Program listing
+      - Website listing
+      - Social media mention
+      - Announcement from stage
+      - Private recognition
+      required: false
+    - id: 18
+      name: tickets_requested
+      label: Number of complimentary tickets requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vip_experience
+      label: Interested in VIP experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 22
+      name: payment_timing
+      label: When can you make the donation
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within one week
+      - Within two weeks
+      - Before opening night
+      required: true
+    - id: 23
+      name: tax_section
+      label: -- Tax Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: tax_receipt
+      label: Mailing address for tax receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_support
+      label: Would you like to provide additional support
+      hint: Props, costumes, technical equipment
+      type: text
+      options: []
+      required: false

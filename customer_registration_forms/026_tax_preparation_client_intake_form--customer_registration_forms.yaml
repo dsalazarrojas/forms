@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparation Client Intake Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tax_return_date
+      label: tax_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: is_self_employed
+      label: is_self_employed
+      hint: null
+      type: select_one
+      options:
+      - Self Employed
+      - Not Self Employed
+      required: false
+    - id: 9
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: number
+      options: []
+      required: false

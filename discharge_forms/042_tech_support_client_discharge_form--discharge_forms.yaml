@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tech Support Client Discharge Form
+    pages:
+    - id: 1
+      name: tech_support_client_discharge_form
+      label: Discharge Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: support_ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Clients Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_confirmation
+      label: Client Confirmation
+      hint: This form helps the client confirm the resolution of the issue.
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: false
+    - id: 5
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Satisfied'', ''value'': 1}'
+      - '{''label'': ''Unsatisfied'', ''value'': 2}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tech_support_agent
+      label: Tech Support Agent
+      hint: null
+      type: text
+      options: []
+      required: false

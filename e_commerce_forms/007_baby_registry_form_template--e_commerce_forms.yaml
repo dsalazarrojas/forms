@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baby Registry Form Template
+    pages:
+      - id: 1
+        name: registry_details
+        label: -- Registry Information --
+        hint: Help your friends and family find the perfect gifts
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: parent_names
+        label: Names of Parents-to-be
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: expected_due_date
+        label: Expected Due Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: baby_gender_info
+        label: Is the baby's gender a surprise?
+        hint: null
+        type: select_one
+        options:
+          - It's a Boy
+          - It's a Girl
+          - We're waiting to find out!
+        required: true
+      - id: 5
+        name: nursery_theme
+        label: Nursery Theme or Color Palette
+        hint: e.g., Woodland, Stars, Pastels
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: clothing_sizes
+        label: Clothing Sizes Needed
+        hint: null
+        type: select_multiple
+        options:
+          - Newborn
+          - 0-3 Months
+          - 3-6 Months
+          - 6-9 Months
+          - 9-12 Months
+          - 12 Months +
+        required: false
+      - id: 7
+        name: diaper_preferences
+        label: Diapering Preferences
+        hint: null
+        type: select_one
+        options:
+          - Disposable
+          - Cloth
+          - Open to both
+        required: false
+      - id: 8
+        name: essential_items_list
+        label: Top 5 Most Needed Items
+        hint: List your priority items here
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: shipping_address
+        label: Shipping Address for Gifts
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: registry_public_visibility
+        label: Registry Visibility
+        hint: null
+        type: select_one
+        options:
+          - Public (Searchable)
+          - Private (Link only)
+        required: true
+      - id: 11
+        name: additional_registry_links
+        label: Other Registry Links (Amazon, Target, etc.)
+        hint: null
+        type: text
+        options: []
+        required: false

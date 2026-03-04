@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Styled Textbox And Responsive
+    pages:
+    - id: 1
+      name: greeting
+      label: Customer Service Contact
+      hint: Reach out to our support team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_id
+      label: Customer ID
+      hint: Account number if known
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_type
+      label: Issue Type
+      hint: Category of issue
+      type: select_one
+      options:
+      - Account Issue
+      - Billing Question
+      - Product Support
+      - Service Request
+      - Technical Problem
+      - General Inquiry
+      required: true
+    - id: 7
+      name: product_service
+      label: Product or Service
+      hint: Which product
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      - Service Package
+      - Other
+      required: true
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: Describe the problem
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: steps_taken
+      label: Steps Already Taken
+      hint: What have you tried
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: error_message
+      label: Error Message
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 12
+      name: availability
+      label: Best Time to Contact
+      hint: When available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: false
+    - id: 13
+      name: priority_level
+      label: Priority Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 14
+      name: screenshots
+      label: Screenshots Available
+      hint: Do you have screenshots
+      type: select_one
+      options:
+      - Yes - Will Attach
+      - Yes - Will Send Later
+      - false
+      required: false

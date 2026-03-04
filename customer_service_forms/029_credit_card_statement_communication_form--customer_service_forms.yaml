@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_statement_communication_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Credit Card Statement Communication Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transaction_date
+      label: transaction date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: transaction_amount
+      label: transaction amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transaction_details
+      label: transaction details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dispute_type
+      label: dispute type
+      hint: null
+      type: select_multiple
+      options:
+      - Dispute Type
+      - Dispute Reason
+      - Dispute Description
+      required: false
+    - id: 11
+      name: dispute_description
+      label: dispute description
+      hint: null
+      type: text
+      options: []
+      required: false

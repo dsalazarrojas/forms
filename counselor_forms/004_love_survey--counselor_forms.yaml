@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Love Survey
+    pages:
+    - id: 1
+      name: love_survey_form
+      label: What do you like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: love_survey_date
+      label: When do you want to start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: love_survey_time
+      label: At what time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: love_survey_counselor
+      label: Love Counselor
+      hint: null
+      type: select_one
+      options:
+      - Counselor 1
+      - Counselor 2
+      - Counselor 3
+      required: true
+    - id: 5
+      name: love_survey_location
+      label: Where do you want to go
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: love_survey_note
+      label: Additional note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: love_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: love_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: love_survey_required
+      label: Required fields must be filled
+      hint: null
+      type: select_multiple
+      options:
+      - Love Counselor
+      - Additional note
+      - Email
+      - Phone
+      required: true
+    - id: 10
+      name: love_survey_emojis
+      label: Do you have any Emojis?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      required: false

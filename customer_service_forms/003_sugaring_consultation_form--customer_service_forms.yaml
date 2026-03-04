@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugaring Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: expected_length
+      label: Expected Length of Sugaring Treatment
+      hint: Please specify in centimeters
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: areas_to_focus_on
+      label: Areas to Focus On
+      hint: Select multiple areas
+      type: select_multiple
+      options:
+      - Chest
+      - Back
+      - Shoulders
+      - Abdomen
+      - Thighs
+      - Arms
+      required: true
+    - id: 7
+      name: frequency_of_sugaring
+      label: How often do you want to have sugaring treatments?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 8
+      name: expected_treatment_length_in_minutes
+      label: Expected Length of Treatment
+      hint: Please specify in minutes
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_sugar_therapist
+      label: Preferred Sugaring Therapist
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: areas_of_concern
+      label: Areas of Concern
+      hint: Select multiple areas
+      type: select_multiple
+      options:
+      - Other
+      - Other
+      required: false
+    - id: 12
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment_preferences
+      label: Treatment Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

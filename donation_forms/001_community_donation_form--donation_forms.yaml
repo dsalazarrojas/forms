@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Donation Form
+    pages:
+    - id: 1
+      name: section_donor_info
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send your receipt here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_donation_details
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: Select an amount or enter below
+      type: select_one
+      options:
+      - $10.00
+      - $25.00
+      - $50.00
+      - $100.00
+      - Other
+      required: true
+    - id: 8
+      name: custom_amount
+      label: Other Amount
+      hint: Enter amount if you selected Other
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Annually
+      required: true
+    - id: 10
+      name: designated_fund
+      label: Designated Fund
+      hint: Where should your donation go?
+      type: select_one
+      options:
+      - General Fund
+      - Youth Programs
+      - Senior Services
+      - Community Gardens
+      - Emergency Relief
+      required: true
+    - id: 11
+      name: anonymous_donation
+      label: Keep this donation anonymous
+      hint: If yes, your name will not be listed in our annual report
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: donor_comments
+      label: Comments or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: acknowledgement
+      label: I confirm this donation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

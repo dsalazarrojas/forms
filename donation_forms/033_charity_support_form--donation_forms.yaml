@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Support Form
+    pages:
+    - id: 1
+      name: section_supporter_info
+      label: -- Supporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For receipts and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_support_type
+      label: -- Support Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: support_method
+      label: How Would You Like to Support Us
+      hint: Your preferred way to help
+      type: select_one
+      options:
+      - Monetary Donation
+      - In-Kind Donation
+      - Volunteering
+      - Sponsorship
+      - Advocacy
+      - Multiple Ways
+      required: true
+    - id: 10
+      name: section_donation
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 13
+      name: donation_focus
+      label: What Should Your Donation Support
+      hint: General or specific program
+      type: select_one
+      options:
+      - General Operations
+      - Specific Program
+      - Emergency Fund
+      - Building Fund
+      - Donor Choice
+      required: false
+    - id: 14
+      name: section_impact
+      label: -- Impact and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: impact_interest
+      label: Areas of Greatest Interest
+      hint: What causes matter most to you
+      type: select_multiple
+      options:
+      - Youth Programs
+      - Senior Services
+      - Health Care
+      - Education
+      - Community Outreach
+      - Environmental
+      - Hunger Relief
+      required: false
+    - id: 16
+      name: motivation
+      label: What Motivated Your Support
+      hint: Why are you supporting this charity
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_recognition
+      label: -- Recognition and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: recognition_preferred
+      label: How Would You Like to Be Recognized
+      hint: Public or anonymous
+      type: select_one
+      options:
+      - Public Recognition
+      - Private Recognition
+      - Anonymous
+      - Do Not Recognize
+      required: false
+    - id: 19
+      name: future_communication
+      label: I Want to Receive Updates About the Charity
+      hint: Stay informed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: tax_receipt
+      label: I Need a Tax Receipt
+      hint: For tax deduction purposes
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: support_date
+      label: Date of Support
+      hint: Today's date
+      type: date
+      options: []
+      required: true

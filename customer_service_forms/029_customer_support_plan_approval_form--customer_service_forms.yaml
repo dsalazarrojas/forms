@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_support_plan_approval_form
+    pages:
+    - id: 1
+      name: customer_support_plan
+      label: Customer Support Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_request
+      label: Client Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_plan
+      label: Support Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_support_plan_approval_status
+      label: Customer Support Plan Approval Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_support_plan_note
+      label: Customer Support Plan Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_request_note
+      label: Client Request Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approval_comment
+      label: Approval Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_support_plan_note
+      label: Customer Support Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_support_plan_status
+      label: Customer Support Plan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

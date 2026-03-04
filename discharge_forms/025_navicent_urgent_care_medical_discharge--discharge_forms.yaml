@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: navicentUrgentCareMedicalDischarge
+    pages:
+    - id: 1
+      name: patientid
+      label: patientid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patientdob
+      label: patientsdob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patientname
+      label: patientsname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patientsex
+      label: patientssex
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: patientsaddressstreet
+      label: patientsaddressstreet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patientsaddresscity
+      label: patientsaddresscity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patientsaddressstate
+      label: patientsaddressstate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: patientsaddresspostalzip
+      label: patientsaddresspostalzip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patientsaddressphone
+      label: patientsaddressphone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patientsmedicallastname
+      label: patientsmedicallastname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patientsmedicarenumber
+      label: patientsmedicarenumber
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patientsdiagnosis
+      label: patientsdiagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: patientscondition
+      label: patientscondition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: patientsreasonfordischarge
+      label: patientsreasonfordischarge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: patientsdischargedate
+      label: patientsdischargedate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: patientsdischargedoctor
+      label: patientsdischargedoctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: patientsdischargedateofdischarge
+      label: patientsdischargedateofdischarge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: patientsdischargedoctorname
+      label: patientsdischargedoctorname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: patientsreasonfordoctorvisit
+      label: patientsreasonfordoctorvisit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patientsvisitcount
+      label: patientsvisitcount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: patientsdiagnosiscode
+      label: patientsdiagnosiscode
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: patientsicdcodes
+      label: patientsicdcodes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: patientsdischargeduration
+      label: patientsdischargeduration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: patientsdischargestatus
+      label: patientsdischargestatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: patientsfollowupinstructions
+      label: patientsfollowupinstructions
+      hint: null
+      type: text
+      options: []
+      required: true

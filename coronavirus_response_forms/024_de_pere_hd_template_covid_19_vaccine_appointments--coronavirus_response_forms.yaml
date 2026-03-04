@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: de_pere_hd_template_covid_19_vaccine_appointments
+    pages:
+    - id: 1
+      name: appointment_details
+      label: Vaccine Appointment Scheduling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vaccine_type_select_jj
+      label: J&J
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vaccine_type_select_moderna
+      label: Moderna
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vaccine_type_select_pfizer
+      label: Pfizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: first_dose
+      label: First Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: second_dose
+      label: Second Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: dose_interval
+      label: Dose Interval
+      hint: null
+      type: text
+      options: []
+      required: false

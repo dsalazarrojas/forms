@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Authorization Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: select_one
+      options:
+      - Return
+      - Replacement
+      - Refund
+      - Store Credit
+      - Other
+      required: false
+    - id: 5
+      name: attachment_files
+      label: attachment_files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_id
+      label: order_id
+      hint: Enter the order ID number
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: order_date
+      hint: Enter the date of the order
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_return_2
+      label: reason_for_return_2
+      hint: null
+      type: text
+      options: []
+      required: false

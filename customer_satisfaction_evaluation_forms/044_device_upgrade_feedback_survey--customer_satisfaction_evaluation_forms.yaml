@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Upgrade Feedback Survey
+    pages:
+    - id: 1
+      name: device_upgrade_feedback
+      label: device_upgrade_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_upgrade
+      label: reason_for_upgrade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommended_improvements
+      label: recommended_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

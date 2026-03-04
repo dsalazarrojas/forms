@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_evaluation_form_for_supervisors
+    pages:
+    - id: 1
+      name: employee_performance
+      label: employee_performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_issues
+      label: mental_health_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: supervisor_comments
+      label: supervisor_comments
+      hint: null
+      type: note
+      options: []
+      required: false

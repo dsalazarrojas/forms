@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Lighting Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: If business customer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For quote and communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For consultation scheduling
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_address
+      label: Service Address
+      hint: Where lights will be installed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: What type of property
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Apartment Condo
+      - Commercial Office Building
+      - Commercial Retail Store
+      - Restaurant
+      - Religious Building
+      - Municipal Building
+      - HOA Common Areas
+      - Other
+      required: true
+    - id: 10
+      name: section_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: building_height
+      label: Building Height
+      hint: Approximate stories or feet
+      type: select_one
+      options:
+      - Single story
+      - Two stories
+      - Three stories
+      - Four or more stories
+      - Not sure
+      required: true
+    - id: 12
+      name: square_footage
+      label: Approximate Square Footage
+      hint: Size of area to decorate
+      type: select_one
+      options:
+      - Under 1500 sq ft
+      - 1500-3000 sq ft
+      - 3000-5000 sq ft
+      - 5000-10000 sq ft
+      - Over 10000 sq ft
+      required: false
+    - id: 13
+      name: desired_light_types
+      label: Desired Light Types
+      hint: What do you want installed
+      type: select_multiple
+      options:
+      - Roof line lights
+      - Tree wrapping
+      - Bush and shrub lights
+      - Window frames
+      - Garland with lights
+      - Icicle lights
+      - Net lights
+      - Pathway markers
+      - Inflatable decorations
+      - Lighted sculptures
+      - Custom display
+      required: true
+    - id: 14
+      name: section_design_preferences
+      label: -- Design Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: color_scheme
+      label: Color Scheme Preference
+      hint: What colors do you prefer
+      type: select_one
+      options:
+      - Warm White
+      - Cool White
+      - Multicolor Traditional
+      - Blue and White Winter
+      - Gold and White Elegant
+      - Red and Green Classic
+      - Custom Combination
+      required: true
+    - id: 16
+      name: style_preference
+      label: Style Preference
+      hint: Overall aesthetic
+      type: select_one
+      options:
+      - Traditional Classic
+      - Modern Minimalist
+      - Extravagant Over-the-top
+      - Elegant Sophisticated
+      - Whimsical Fun
+      - Natural Rustic
+      - No preference
+      required: true
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for installation
+      type: select_one
+      options:
+      - Under 500
+      - 500-1000
+      - 1000-2500
+      - 2500-5000
+      - 5000-10000
+      - Over 10000
+      - Not sure yet
+      required: true
+    - id: 18
+      name: section_budget
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: installation_start_date
+      label: Desired Installation Start
+      hint: When should we begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: removal_date
+      label: Desired Removal Date
+      hint: When should we take down
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: maintenance_needed
+      label: Maintenance Service
+      hint: Do you want maintenance during season
+      type: select_one
+      options:
+      - Yes full maintenance included
+      - Yes emergency only
+      - No I will handle issues
+      - Not sure
+      required: true
+    - id: 22
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: previous_experience
+      label: Previous Professional Experience
+      hint: Have you used this service before
+      type: select_one
+      options:
+      - Yes multiple times
+      - Yes once
+      - No first time
+      - Had bad experience before
+      required: true
+    - id: 24
+      name: inspiration_photos
+      label: Inspiration Photos
+      hint: Share any reference images
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - Previous Customer
+      - Online Search
+      - Advertisement
+      - Drive-by Saw Display
+      - Other
+      required: false
+    - id: 27
+      name: consultation_preference
+      label: Consultation Preference
+      hint: How would you like to consult
+      type: select_one
+      options:
+      - In-person onsite visit
+      - Video call virtual
+      - Phone consultation
+      - Email quote only
+      required: true

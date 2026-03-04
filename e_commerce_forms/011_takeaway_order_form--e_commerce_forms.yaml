@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Takeaway Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: take_away
+      label: Take Away
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pickup
+      label: Pickup
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      - Self Collect
+      required: false
+    - id: 8
+      name: menu
+      label: Menu
+      hint: null
+      type: select_multiple
+      options:
+      - Burger 1
+      - Burger 2
+      - Burger 3
+      - Burger 4
+      - Burger 5
+      - Burger 6
+      - Burger 7
+      - Burger 8
+      - Burger 9
+      - Burger 10
+      - Burger 11
+      - Burger 12
+      - Burger 13
+      - Burger 14
+      - Burger 15
+      - Burger 16
+      - Burger 17
+      - Burger 18
+      - Burger 19
+      - Burger 20
+      - Burger 21
+      - Burger 22
+      - Burger 23
+      - Burger 24
+      - Burger 25
+      required: false
+    - id: 9
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      required: false

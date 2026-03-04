@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ada Bible Church Donation Form - Paypal Standard
+    pages:
+    - id: 1
+      name: donor_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For your tax-deductible receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Mailing Address
+      hint: Required for year-end tax statements
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donation_details_header
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_fund
+      label: Designation / Fund
+      hint: Where should your gift be applied?
+      type: select_one
+      options:
+      - General Fund / Tithes
+      - Missions / Global Outreach
+      - Benevolence / Local Need
+      - Youth and Children's Ministry
+      - Building Fund
+      - Other (Specify in comments)
+      required: true
+    - id: 8
+      name: donation_amount
+      label: Donation Amount ($)
+      hint: Enter the amount you wish to give
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: donation_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Gift
+      - Weekly Recurring
+      - Bi-weekly Recurring
+      - Monthly Recurring
+      required: true
+    - id: 10
+      name: campus_location
+      label: Home Campus
+      hint: null
+      type: select_one
+      options:
+      - Cascade Campus
+      - East Paris Campus
+      - Kentwood Campus
+      - North Central Campus
+      - Global / Online
+      required: true
+    - id: 11
+      name: payment_header
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_processor_ack
+      label: Proceed to PayPal for secure processing
+      hint: You will be redirected to PayPal to complete your donation
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: tribute_gift
+      label: Is this gift in honor or memory of someone?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - In Honor of
+      - Yes - In Memory of
+      required: false
+    - id: 14
+      name: tribute_name
+      label: Tribute Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Comments or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tax_ack
+      label: I understand this is a voluntary donation to a non-profit organization
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

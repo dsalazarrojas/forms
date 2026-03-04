@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Client Intake Form
+    pages:
+    - id: 1
+      name: client_personal_header
+      label: -- New Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For appointment reminders and promotions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Walk-in
+      - Word of Mouth
+      - Social Media (Instagram/Facebook)
+      - Google Search
+      - Local Advertisement
+      required: true
+    - id: 6
+      name: grooming_pref_header
+      label: -- Grooming Preferences --
+      hint: Help us understand your style
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hair_type
+      label: Your Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily / Kinky
+      - Thinning / Fine
+      required: true
+    - id: 8
+      name: scalp_condition
+      label: Scalp Condition / Concerns
+      hint: e.g., Dryness, Dandruff, Psoriasis, Sensitivity
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergies_header
+      label: -- Health and Safety --
+      hint: For your safety during treatments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: chemical_allergies
+      label: Known Allergies to Hair Products or Chemicals?
+      hint: e.g., Latex, Fragrances, Dyes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication_notes
+      label: Are you taking any medications that affect skin or hair?
+      hint: e.g., Accutane, Blood Thinners
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: style_history_header
+      label: -- Service History and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: last_haircut_date
+      label: When was your last professional haircut?
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 weeks ago
+      - 2-4 weeks ago
+      - 1-2 months ago
+      - Over 2 months ago
+      required: true
+    - id: 14
+      name: desired_look
+      label: Describe your desired look
+      hint: e.g., Low fade with pompadour, short all over, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: services_interested
+      label: Services you are interested in today
+      hint: null
+      type: select_multiple
+      options:
+      - Standard Haircut
+      - Beard Trim / Shaping
+      - Straight Razor Shave
+      - Gray Blending / Color
+      - Hair and Scalp Treatment
+      - Nose / Ear Waxing
+      required: true
+    - id: 16
+      name: frequency_of_visit
+      label: How often do you typically get a haircut?
+      hint: null
+      type: select_one
+      options:
+      - Every week
+      - Every 2-3 weeks
+      - Once a month
+      - Occasionally
+      required: true
+    - id: 17
+      name: terms_acceptance
+      label: Cancellation and Late Policy Agreement
+      hint: I agree to provide 24 hours notice for cancellations
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: true

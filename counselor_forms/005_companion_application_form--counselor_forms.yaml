@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Companion Application Form
+    pages:
+    - id: 1
+      name: companion_personal_details
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal name as it appears on your passport
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include country code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: passport_country
+      label: Passport Issuing Country
+      hint: Needed for visa coordination
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_experience_level
+      label: Travel Experience Level
+      hint: How much international travel experience do you have?
+      type: select_one
+      options:
+      - Novice (Few trips)
+      - Moderate (Frequent travel)
+      - Expert (Extensive global travel)
+      required: true
+    - id: 7
+      name: languages_spoken
+      label: Languages Spoken Fluently
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - German
+      - Japanese
+      - Other
+      required: true
+    - id: 8
+      name: medical_training_status
+      label: Do you have any medical or first aid training?
+      hint: e.g., CPR, EMT, Wilderness First Aid
+      type: select_one
+      options:
+      - Yes, certified
+      - Yes, basic knowledge
+      - No training
+      required: true
+    - id: 9
+      name: availability_preference
+      label: General Availability
+      hint: When are you most available for companion assignments?
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Overnight stays
+      - Long-term assignments (1 week+)
+      required: true
+    - id: 10
+      name: previous_companion_experience
+      label: Previous Companion Experience
+      hint: Briefly describe any similar roles you have held
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: references_contact
+      label: Reference Contact Information
+      hint: Provide name and phone/email for one professional reference
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: background_check_consent
+      label: Background Check Consent
+      hint: I consent to a comprehensive background check as part of the application
+        process.
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 13
+      name: application_date
+      label: Date of Application
+      hint: Select today's date
+      type: date
+      options: []
+      required: true

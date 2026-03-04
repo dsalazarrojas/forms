@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: IGo4less Customer Registration Form
+    pages:
+    - id: 1
+      name: customer_form
+      label: customer_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: customer_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 8
+      name: address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Item Screening Declaration Form
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - events
+      - other
+      required: false
+    - id: 2
+      name: item_details
+      label: Item Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_number
+      label: Item Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - inactive
+      - cancelled
+      required: false
+    - id: 6
+      name: item_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      - Category 4
+      - Category 5
+      - Category 6
+      - Category 7
+      - Category 8
+      - Category 9
+      - Category 10
+      required: false
+    - id: 7
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: declaration_time
+      label: Declaration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

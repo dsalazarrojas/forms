@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: zyia_birthday_club_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vip_group
+      label: VIP Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_message
+      label: Special Message
+      hint: null
+      type: text
+      options: []
+      required: false

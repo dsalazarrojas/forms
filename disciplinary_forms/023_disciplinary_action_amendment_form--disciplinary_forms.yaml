@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Action Amendment Form
+    pages:
+    - id: 1
+      name: amendment_form
+      label: amendment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amended_disciplinary_action_id
+      label: amended-disciplinary-action-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_amendment
+      label: reason-for-amendment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amended_disciplinary_action_date
+      label: amended-disciplinary-action-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amended_disciplinary_action_time
+      label: amended-disciplinary-action-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: user_id
+      label: user-id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: user_name
+      label: user-name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: user_title
+      label: user-title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manager_id
+      label: manager-id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: manager_title
+      label: manager-title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: employee_id
+      label: employee-id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: amended_disciplinary_action_details
+      label: amended-disciplinary-action-details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

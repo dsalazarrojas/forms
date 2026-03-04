@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Refund Claim Form
+    pages:
+    - id: 1
+      name: donation_claim_form
+      label: Refund Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: refund_reason
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false

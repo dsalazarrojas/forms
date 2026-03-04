@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Health Declaration Form
+    pages:
+    - id: 1
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Legal name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_name
+      label: Student Full Name
+      hint: Legal name of student
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_dob
+      label: Student Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: student_grade
+      label: Student Grade Level
+      hint: Current or upcoming grade
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: Name of school
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy or member ID
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Doctor name and practice
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: physician_phone
+      label: Physician Phone Number
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: immunization_status
+      label: Immunization Status
+      hint: Are immunizations up to date
+      type: select_one
+      options:
+      - Yes, up to date
+      - In progress
+      - No, not up to date
+      - Medical exemption
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Known Medical Conditions
+      hint: List any chronic conditions
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: Include food, medication, insect, environmental
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: List all medications with dosages
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_authorization
+      label: Medication Administration Authorization
+      hint: Can school staff administer medication if needed
+      type: select_one
+      options:
+      - Yes, authorized
+      - No, not authorized
+      required: true
+    - id: 18
+      name: physical_activity_restrictions
+      label: Physical Activity Restrictions
+      hint: Any limitations for PE or sports
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_one
+      label: Emergency Contact One Name and Phone
+      hint: Primary emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_two
+      label: Emergency Contact Two Name and Phone
+      hint: Secondary emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: health_services_consent
+      label: Consent for School Health Services
+      hint: I consent to my child receiving school health services
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 22
+      name: information_accuracy
+      label: Information Accuracy Declaration
+      hint: I declare this information is accurate
+      type: select_one
+      options:
+      - Yes, information is accurate
+      - No, information is not accurate
+      required: true
+    - id: 23
+      name: signature_date
+      label: Date Signed
+      hint: Date of this declaration
+      type: date
+      options: []
+      required: true

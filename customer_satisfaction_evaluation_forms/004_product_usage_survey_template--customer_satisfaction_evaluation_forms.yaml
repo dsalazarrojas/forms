@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: product usage survey template
+    pages:
+    - id: 1
+      name: page_one
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_two
+      label: product usage
+      hint: Tell us about your experience with our product
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_three
+      label: rating
+      hint: How would you rate your experience with our product
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page_four
+      label: contact info
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - both
+      required: false
+    - id: 5
+      name: page_five
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: page_six
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: page_seven
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: page_eight
+      label: product usage survey template category
+      hint: null
+      type: select_multiple
+      options:
+      - product usage survey templates
+      - customer satisfaction evaluation forms
+      required: false
+    - id: 9
+      name: page_nine
+      label: product usage survey template description
+      hint: null
+      type: text
+      options: []
+      required: false

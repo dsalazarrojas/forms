@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Intake Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_info
+      label: Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: Message To Therapist
+      hint: Write your message here
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: massage_options
+      label: Choose Massage Therapist
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: signature
+      label: Patient Signature
+      hint: Please sign below to confirm
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: therapist_signature
+      label: Therapist Signature
+      hint: Please sign below to confirm
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: massage_fees
+      label: Massage Fees
+      hint: null
+      type: number
+      options: []
+      required: false

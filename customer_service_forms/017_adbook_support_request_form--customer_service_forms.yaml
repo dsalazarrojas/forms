@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AdBook Support Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person reporting issue
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For updates on the ticket
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_or_service
+      label: Product or service affected
+      hint: Name or identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_summary
+      label: Issue summary
+      hint: Short description of the problem
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: steps_to_reproduce
+      label: Steps to reproduce
+      hint: Provide steps or test case
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: severity
+      label: Severity level
+      hint: How severely it impacts operations
+      type: select_one
+      options: [Low, Medium, High, Critical]
+      required: true
+    - id: 8
+      name: attachments_description
+      label: Attachments description
+      hint: Screenshots logs or files included
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should support reach you
+      type: select_one
+      options: [Email, Phone, Slack]
+      required: true
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Any other helpful context
+      type: text
+      options: []
+      required: false

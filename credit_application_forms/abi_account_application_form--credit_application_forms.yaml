@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ABI Account Application Form
+    pages:
+    - id: 1
+      name: section_header_app_info
+      label: '--- Applicant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name as shown on official ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Primary contact email (will be used for correspondence)
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code, e.g., +1 555 555 5555
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: national_id
+      label: National ID / Passport number
+      hint: Passport, national ID, or government-issued identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Home address
+      hint: Street, city, state/province, postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: application_date
+      label: Application date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: document_type
+      label: Type of application
+      hint: Select the application category
+      type: select_one
+      options:
+      - New application
+      - Renewal
+      - Transfer
+      - Amendment
+      required: true
+    - id: 10
+      name: account_type
+      label: Desired account type
+      hint: Choose the primary account purpose
+      type: select_one
+      options:
+      - Personal
+      - Business
+      - Joint
+      required: true
+    - id: 11
+      name: employment_status
+      label: Employment status
+      hint: Select current employment situation
+      type: select_one
+      options:
+      - Employed
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 12
+      name: employer_name
+      label: Employer / Company name
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: annual_income
+      label: Approximate annual income
+      hint: Enter gross annual income in local currency
+      type: decimal
+      options: []
+      required: false
+    - id: 14
+      name: number_of_dependents
+      label: Number of dependents
+      hint: Count people financially dependent on you
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: supporting_documents
+      label: Supporting documents provided
+      hint: Select all documents included with this application
+      type: select_multiple
+      options:
+      - Proof of ID
+      - Proof of Address
+      - Income Statement
+      - Bank Statement
+      - Reference Letter
+      - Other
+      required: false
+    - id: 16
+      name: consent
+      label: Consent to terms and data use
+      hint: Applicant must agree to proceed
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments or supporting details
+      hint: Provide any extra information helpful for processing
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_signature
+      label: '--- Signature and Declaration ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: applicant_signature
+      label: Applicant signature (typed full name)
+      hint: Type your full name to serve as a digital signature
+      type: text
+      options: []
+      required: true

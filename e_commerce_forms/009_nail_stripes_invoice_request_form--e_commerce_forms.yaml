@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Stripes Invoice Request Form
+    pages:
+    - id: 1
+      name: stripe_order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stripe_name
+      label: Stripe Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: stripe_price
+      label: Stripe Price
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Preference Questionnaire
+    pages:
+    - id: 1
+      name: food_preference_questionnaire
+      label: What are your dietary preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Dairy
+      - Gluten-free
+      - Vegan
+      - Vegetarian
+      required: false
+    - id: 3
+      name: special_diets
+      label: Do you have any special diets
+      hint: null
+      type: select_multiple
+      options:
+      - I have diabetes
+      - I have a food allergy
+      - I am a vegetarian
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Acknowledgment Form
+    pages:
+    - id: 1
+      name: acknowledgment_date
+      label: Acknowledgment Date
+      hint: Date of acknowledgment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: complaint_id
+      label: Complaint ID
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complaint_date
+      label: Original Complaint Date
+      hint: When was complaint filed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_category
+      label: Complaint Category
+      hint: Type of complaint
+      type: select_one
+      options:
+      - Product Quality
+      - Service Quality
+      - Billing Issue
+      - Delivery Problem
+      - Customer Service
+      - Technical Issue
+      - Policy Concern
+      - Staff Behavior
+      - Other
+      required: true
+    - id: 8
+      name: complaint_summary
+      label: Complaint Summary
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: resolution_date
+      label: Resolution Date
+      hint: When was it resolved
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: resolution_method
+      label: Resolution Method
+      hint: How was it resolved
+      type: select_one
+      options:
+      - Refund issued
+      - Replacement provided
+      - Service corrected
+      - Credit applied
+      - Apology provided
+      - Policy exception made
+      - Process improved
+      - Other
+      required: true
+    - id: 11
+      name: resolution_description
+      label: Resolution Description
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: compensation_offered
+      label: Compensation Offered
+      hint: Was anything provided
+      type: select_one
+      options:
+      - Yes - full refund
+      - Yes - partial refund
+      - Yes - credit
+      - Yes - replacement
+      - Yes - discount on future
+      - No compensation
+      - Not applicable
+      required: true
+    - id: 13
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Value if applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_acceptance
+      label: Customer Accepts Resolution
+      hint: Do you accept this resolution
+      type: select_one
+      options:
+      - Yes - fully satisfied
+      - Yes - acceptable
+      - Reluctantly yes
+      - No - not satisfied
+      - No - want to escalate
+      required: true
+    - id: 15
+      name: satisfaction_rating
+      label: Satisfaction with Resolution
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 16
+      name: handling_rating
+      label: Satisfaction with Handling
+      hint: How was complaint handled
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: communication_rating
+      label: Communication Rating
+      hint: Quality of communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 18
+      name: timeliness_rating
+      label: Timeliness Rating
+      hint: Speed of resolution
+      type: select_one
+      options:
+      - Excellent - very fast
+      - Good - reasonable
+      - Fair - acceptable
+      - Poor - too slow
+      - Very poor - unacceptably slow
+      required: true
+    - id: 19
+      name: would_recommend
+      label: Would You Recommend Us
+      hint: Based on this experience
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 20
+      name: will_continue_business
+      label: Will You Continue Business
+      hint: Will you use us again
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 21
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_contact
+      label: May We Contact You
+      hint: For follow-up survey
+      type: select_one
+      options:
+      - Yes - email
+      - Yes - phone
+      - No - do not contact
+      required: true
+    - id: 23
+      name: customer_signature
+      label: Customer Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: representative_name
+      label: Company Representative
+      hint: Who handled your complaint
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: representative_signature
+      label: Representative Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: false

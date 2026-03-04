@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team T Shirt Order Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_email
+      label: team_email
+      hint: Enter your team's email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team
+      label: Team Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 5
+      name: team_color
+      label: Team Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 6
+      name: team_quantity
+      label: Team Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: team_note
+      label: Team Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: user_email
+      label: User Name
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user_quantity
+      label: User Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      required: true
+    - id: 15
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: team_discount
+      label: Team Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: user_discount
+      label: User Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: team_city
+      label: Team City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_state
+      label: Team State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: team_zip
+      label: Team Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: team_country
+      label: Team Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: team_currency
+      label: Team Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: team_order_notes
+      label: Team Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: team_shipping_method
+      label: Team Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - Ground
+      - Air
+      required: true
+    - id: 29
+      name: team_status
+      label: Team Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Transit
+      - Shipped
+      required: false
+    - id: 30
+      name: team_shipping_cost
+      label: Team Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: dsr_mumbai
+    pages:
+    - id: 1
+      name: sales_period
+      label: Sales Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sales_team
+      label: sales_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sales_person
+      label: sales_person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sales_region
+      label: sales_region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sales_date
+      label: sales_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sales_time
+      label: sales_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sales_amount
+      label: sales_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sales_note
+      label: sales_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sales_email
+      label: sales_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sales_phone
+      label: sales_phone
+      hint: null
+      type: text
+      options: []
+      required: false

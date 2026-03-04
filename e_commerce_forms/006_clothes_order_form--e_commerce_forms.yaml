@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothes Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_delivery
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State - Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_clothing
+      label: -- Clothing Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: clothing_type
+      label: Type of Clothing
+      hint: null
+      type: select_one
+      options:
+      - Coat
+      - Jacket
+      - Shirt
+      - Pants
+      - Dress
+      - Skirt
+      - Sweater
+      - Other
+      required: true
+    - id: 13
+      name: color_preference
+      label: Color Preference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: true
+    - id: 15
+      name: chest_measurement
+      label: Chest Measurement - Inches
+      hint: Measure across the widest part
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: length_measurement
+      label: Length Measurement - Inches
+      hint: From shoulder to hem
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sleeve_length
+      label: Sleeve Length - Inches
+      hint: From shoulder seam to wrist
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: waist_measurement
+      label: Waist Measurement - Inches
+      hint: For pants or fitted items
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: quantity
+      label: Quantity
+      hint: Number of items to order
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: material_preference
+      label: Material Preference
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Polyester
+      - Wool
+      - Silk
+      - Blend
+      - No preference
+      required: false
+    - id: 21
+      name: section_order
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any customization or preferences
+      type: text
+      options: []
+      required: false

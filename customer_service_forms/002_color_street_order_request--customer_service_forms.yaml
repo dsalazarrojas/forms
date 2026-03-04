@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Request
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date of order request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_header_wishlist
+      label: -- Product Wishlist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_collection
+      label: Preferred Collection
+      hint: Which Color Street collection interests you most
+      type: select_one
+      options:
+      - Classic Collection
+      - Glitter Collection
+      - Matte Collection
+      - Shimmer Collection
+      - Seasonal Collection
+      - Limited Edition
+      required: true
+    - id: 7
+      name: favorite_shades
+      label: Favorite Shades
+      hint: List your favorite Color Street shades
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity_requested
+      label: Total Quantity Requested
+      hint: Number of nail strip sets desired
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: specific_shade_1
+      label: First Choice Shade
+      hint: Your top priority shade
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: specific_shade_2
+      label: Second Choice Shade
+      hint: Your backup shade preference
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: specific_shade_3
+      label: Third Choice Shade
+      hint: Your third choice
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_shipping
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_preference
+      label: Shipping Preference
+      hint: Desired shipping speed
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Pick Up In Person
+      required: true
+    - id: 15
+      name: gift_message
+      label: Gift Message
+      hint: Optional message for gift orders
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any additional comments or requests
+      type: text
+      options: []
+      required: false

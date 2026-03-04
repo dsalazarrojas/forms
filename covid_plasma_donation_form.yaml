@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Untitled Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: COVID Plasma Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''No Condition''}'
+      - '{''id'': 2, ''label'': ''Condition 1''}'
+      - '{''id'': 3, ''label'': ''Condition 2''}'
+      required: false
+    - id: 7
+      name: blood_type
+      label: blood_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''AB''}'
+      - '{''id'': 4, ''label'': ''O''}'
+      required: false
+    - id: 8
+      name: hospital_location
+      label: hospital_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_donation
+      label: consent_to_donation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Mail''}'
+      required: false
+    - id: 13
+      name: privacy_agreement
+      label: privacy_agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 14
+      name: hipaa_compliance
+      label: hipaa_compliance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false

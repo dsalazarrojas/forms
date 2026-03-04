@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Self Certification Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: certification_section
+      label: -- Self-Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: qualification_type
+      label: Reason for Vaccine Eligibility
+      hint: null
+      type: select_one
+      options:
+      - Healthcare worker
+      - Essential worker
+      - Age 65 or older
+      - High-risk medical condition
+      - Caregiver for elderly or at-risk
+      - Other qualifying reason
+      required: true
+    - id: 7
+      name: detailed_qualification
+      label: Detailed Description of Qualification
+      hint: Explain why you qualify for vaccination
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employer_name
+      label: Employer or Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_role
+      label: Your Role or Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: health_section
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: health_condition
+      label: High-risk medical condition
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_symptoms
+      label: Currently experiencing COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: fever_present
+      label: Currently have a fever
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: positive_test_recent
+      label: Tested positive for COVID-19 in past 3 months
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: allergies_section
+      label: -- Allergies and Contraindications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vaccine_allergies
+      label: Known allergies to vaccine components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: severe_reactions
+      label: History of anaphylaxis or severe allergic reactions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: pregnancy_section
+      label: -- Pregnancy Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pregnant
+      label: Currently pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 20
+      name: breastfeeding
+      label: Currently breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 21
+      name: prior_vaccine_section
+      label: -- Prior COVID-19 Vaccination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: prior_vaccine
+      label: Previously received COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: prior_doses
+      label: Number of doses received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: prior_vaccine_type
+      label: Vaccine type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: certification_section2
+      label: -- Certification Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: certify_truthfulness
+      label: I certify under penalty of perjury that the above information is true
+        and accurate
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - I do not certify
+      required: true
+    - id: 27
+      name: certify_understanding
+      label: I understand providing false information may result in penalties
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 28
+      name: certify_qualification
+      label: I meet the eligibility requirements for vaccination
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - I do not certify
+      required: true
+    - id: 29
+      name: authorization_section
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: digital_signature
+      label: Digital Signature or Full Name as Signature
+      hint: By typing your name, you certify this statement
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: certification_date
+      label: Date of Certification
+      hint: null
+      type: date
+      options: []
+      required: true

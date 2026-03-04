@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: skincare_new_customer_consultation_form
+    pages:
+    - id: 1
+      name: new_customer
+      label: New Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_info
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skin_details
+      label: Skin Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skincare_goals
+      label: Skincare Goals
+      hint: null
+      type: select_one
+      options:
+      - goals
+      - Other
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_terms
+      label: Consent To Terms
+      hint: null
+      type: select_one
+      options:
+      - yes_no
+      - Other
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_goals
+      label: Treatment Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - no_yes
+      - Other
+      required: false
+    - id: 10
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: select_one
+      options:
+      - normal_acne_sensitive_aging_etc
+      - Other
+      required: false
+    - id: 11
+      name: medical_condition_details
+      label: Medical Condition Details
+      hint: null
+      type: text
+      options: []
+      required: false

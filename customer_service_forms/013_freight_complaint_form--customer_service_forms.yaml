@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Complaint Form
+    pages:
+    - id: 1
+      name: shipping_issue
+      label: Shipping Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_delivered
+      label: Date Delivered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_delivered
+      label: Time Delivered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_company
+      label: Contact Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_service
+      label: Shipping Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: company_signature
+      label: Company Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

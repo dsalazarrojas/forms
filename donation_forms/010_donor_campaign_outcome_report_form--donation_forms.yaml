@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Campaign Outcome Report Form
+    pages:
+    - id: 1
+      name: campaign_outcome
+      label: campaign_outcome
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 2
+      name: campaign_performance
+      label: campaign_performance
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: donor_feedback
+      label: donor_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_name
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nonprofit_name
+      label: nonprofit_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: campaign_start_date
+      label: campaign_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: campaign_end_date
+      label: campaign_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

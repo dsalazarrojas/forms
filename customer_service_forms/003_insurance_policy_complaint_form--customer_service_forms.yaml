@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Policy Complaint Form
+    pages:
+    - id: 1
+      name: customer_service_forms
+      label: Customer Service Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''General''}'
+      - '{''value'': ''Medical''}'
+      - '{''value'': ''Policy''}'
+      required: false
+    - id: 4
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_description
+      label: complaint_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_form
+      label: customer_service_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

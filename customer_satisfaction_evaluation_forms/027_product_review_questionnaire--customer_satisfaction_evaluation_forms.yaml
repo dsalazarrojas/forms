@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Questionnaire
+    pages:
+    - id: 1
+      name: customer_survey
+      label: Customer Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 4
+      name: review_text
+      label: Review Text
+      hint: Write your review here
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

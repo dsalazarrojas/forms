@@ -1,0 +1,324 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Survey
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Alumni Survey Introduction --
+      hint: Thank you for participating in this survey. Your feedback helps us improve
+        alumni services.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_demographics
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Optional - for follow-up contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Optional - for follow-up contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Optional - for prize drawing
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: degree_type
+      label: Degree Type
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Certificate Program
+      required: true
+    - id: 8
+      name: major_field
+      label: Major/Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_career
+      label: -- Career Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Unemployed - Seeking
+      - Unemployed - Not Seeking
+      - Retired
+      - Student
+      required: true
+    - id: 11
+      name: career_field
+      label: Current Career Field
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Business
+      - Engineering
+      - Arts
+      - Government
+      - Nonprofit
+      - Other
+      required: false
+    - id: 12
+      name: career_preparation_rating
+      label: How well did your education prepare you for your career
+      hint: 1 being poorly prepared and 5 being excellently prepared
+      type: select_one
+      options:
+      - 1 - Poorly Prepared
+      - 2 - Below Average
+      - 3 - Adequately Prepared
+      - 4 - Well Prepared
+      - 5 - Excellently Prepared
+      required: true
+    - id: 13
+      name: section_satisfaction
+      label: -- Satisfaction Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction with Alma Mater
+      hint: 1 being very dissatisfied and 5 being very satisfied
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 15
+      name: academic_quality_rating
+      label: Academic Quality Rating
+      hint: 1 being poor and 5 being excellent
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 16
+      name: faculty_support_rating
+      label: Faculty Support Rating
+      hint: 1 being poor and 5 being excellent
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 17
+      name: campus_resources_rating
+      label: Campus Resources Rating
+      hint: 1 being poor and 5 being excellent
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: section_engagement
+      label: -- Alumni Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: event_attendance_frequency
+      label: How often do you attend alumni events
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Very Often
+      required: true
+    - id: 20
+      name: event_types_interested
+      label: Types of events you would like to see
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Networking Events
+      - Professional Development
+      - Social Gatherings
+      - Sports Events
+      - Cultural Events
+      - Educational Workshops
+      - Family-Friendly Events
+      - Volunteer Opportunities
+      required: false
+    - id: 21
+      name: donation_status
+      label: Have you made donations to the institution
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - No - Never
+      - Considering
+      required: true
+    - id: 22
+      name: volunteer_interest
+      label: Interest in Volunteering
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Neutral
+      - Not Interested
+      required: true
+    - id: 23
+      name: mentorship_interest
+      label: Willingness to Mentor Current Students
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Maybe - Tell me more
+      - No - Not able to
+      required: false
+    - id: 24
+      name: section_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Social Media
+      - Postal Mail
+      required: true
+    - id: 26
+      name: communication_frequency
+      label: Desired Communication Frequency
+      hint: How often would you like to hear from us
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Only for major events
+      required: true
+    - id: 27
+      name: social_media_platforms
+      label: Social Media Platforms You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Facebook
+      - LinkedIn
+      - Twitter/X
+      - Instagram
+      - TikTok
+      - YouTube
+      - None
+      required: false
+    - id: 28
+      name: section_feedback
+      label: -- Open Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: most_valuable_aspect
+      label: What was the most valuable aspect of your education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: areas_for_improvement
+      label: What areas need improvement
+      hint: Please be specific
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: would_recommend
+      label: Would you recommend this institution to others
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Yes - Probably
+      - Neutral
+      - Probably Not
+      - Definitely Not
+      required: true

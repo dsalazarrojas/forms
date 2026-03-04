@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Course Evaluation Form
+    pages:
+    - id: 1
+      name: course_code
+      label: Course Code or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: semester
+      label: Semester or Term
+      hint: Spring, Fall, Summer, etc.
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      required: true
+    - id: 4
+      name: year
+      label: Academic Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: Optional - remains anonymous if blank
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_expected
+      label: Expected Grade in This Course
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - F
+      - Not Sure
+      required: true
+    - id: 8
+      name: course_difficulty
+      label: Overall Course Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Appropriately Challenging
+      - Very Challenging
+      - Overwhelming
+      required: true
+    - id: 9
+      name: workload_assessment
+      label: Workload Assessment
+      hint: null
+      type: select_one
+      options:
+      - Too Light
+      - Appropriate
+      - Heavy
+      - Excessive
+      required: true
+    - id: 10
+      name: course_organization
+      label: Course Organization and Structure
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: learning_objectives_clarity
+      label: Clarity of Learning Objectives
+      hint: Were course goals clear
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Not Clear
+      required: true
+    - id: 12
+      name: material_relevance
+      label: Relevance of Course Material
+      hint: null
+      type: select_one
+      options:
+      - Very Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 13
+      name: teaching_effectiveness
+      label: Instructor Teaching Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: instructor_accessibility
+      label: Instructor Accessibility and Availability
+      hint: null
+      type: select_one
+      options:
+      - Very Accessible
+      - Accessible
+      - Somewhat Accessible
+      - Not Accessible
+      required: true
+    - id: 15
+      name: feedback_quality
+      label: Quality of Feedback on Assignments
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: assignment_quality
+      label: Quality and Relevance of Assignments
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: exam_fairness
+      label: Fairness of Exams and Assessments
+      hint: null
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Somewhat Fair
+      - Unfair
+      required: true
+    - id: 18
+      name: would_recommend
+      label: Would you recommend this course
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 19
+      name: would_take_again
+      label: Would you take another course with this instructor
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 20
+      name: course_strengths
+      label: Strengths of the Course
+      hint: What was done well
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: course_improvements
+      label: Areas for Course Improvement
+      hint: What could be improved
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

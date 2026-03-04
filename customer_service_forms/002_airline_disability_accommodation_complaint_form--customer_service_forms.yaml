@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Disability Accommodation Complaint Form
+    pages:
+    - id: 1
+      name: section_request_overview
+      label: -- Complaint Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complainant_name
+      label: Complainant name
+      hint: Full name of person submitting complaint
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for updates regarding this complaint
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Contact phone number
+      hint: Optional phone for follow up
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flight_number
+      label: Flight number
+      hint: Flight affected by the accommodation issue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_date
+      label: Date of travel
+      hint: Date when the accommodation was needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: disability_type
+      label: Disability type
+      hint: Select the category that best applies
+      type: select_one
+      options:
+      - Mobility
+      - Sensory
+      - Cognitive
+      - Medical
+      - Other
+      required: true
+    - id: 8
+      name: accommodation_requested
+      label: Accommodation requested
+      hint: Describe the accommodation that was requested
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: accommodation_provided
+      label: Accommodation provided
+      hint: Indicate whether accommodation was provided
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 10
+      name: incident_description
+      label: Incident description
+      hint: Provide detailed account of the issue including staff interactions
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: outcome_sought
+      label: Outcome sought
+      hint: Choose one or more desired resolutions
+      type: select_multiple
+      options:
+      - Refund
+      - Rebooking
+      - Policy change
+      - Apology
+      - Other
+      required: false
+    - id: 12
+      name: follow_up_required
+      label: Follow up required
+      hint: Would you like customer service to contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

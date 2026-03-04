@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camera Repair Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Name of the person requesting repair
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: Number for status updates
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact Email
+      hint: Email to send repair confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: camera_model
+      label: Camera Model
+      hint: Make and model of camera needing repair
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: serial_number
+      label: Serial Number
+      hint: Device serial number if available
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: problem_description
+      label: Problem Description
+      hint: Describe the symptoms or damage
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: urgency
+      label: Urgency Level
+      hint: How quickly service is needed
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - Emergency
+      required: true
+    - id: 8
+      name: preferred_dropoff_date
+      label: Preferred Drop Off Date
+      hint: Date you plan to bring the camera in
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: consent_repair_estimate
+      label: Consent to Perform Diagnostic and Provide Estimate
+      hint: Permission to run diagnostics and provide cost estimate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for the repair team
+      type: text
+      options: []
+      required: false

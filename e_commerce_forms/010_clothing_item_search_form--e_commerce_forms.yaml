@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Item Search Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional - for recommendations
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_item_type
+      label: -- What Are You Looking For? --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_category
+      label: Clothing Category
+      hint: null
+      type: select_one
+      options:
+      - Tops
+      - Bottoms
+      - Dresses
+      - Outerwear
+      - Shoes
+      - Accessories
+      - Undergarments
+      - Activewear
+      required: true
+    - id: 7
+      name: specific_item
+      label: Specific Item Type
+      hint: Examples - t-shirt, jeans, blazer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_style
+      label: Style Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Casual
+      - Business
+      - Athletic
+      - Formal
+      - Vintage
+      - Contemporary
+      - Minimalist
+      required: true
+    - id: 9
+      name: section_sizing
+      label: -- Size and Fit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: size
+      label: Size Needed
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - One size fits all
+      required: true
+    - id: 11
+      name: fit_preference
+      label: Fit Preference
+      hint: null
+      type: select_one
+      options:
+      - Slim fit
+      - Regular fit
+      - Relaxed fit
+      - Oversized
+      - No preference
+      required: false
+    - id: 12
+      name: section_details
+      label: -- Design Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: color_preference
+      label: Color Preference
+      hint: Separate multiple by commas
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pattern_preference
+      label: Pattern Preference
+      hint: null
+      type: select_one
+      options:
+      - Solid
+      - Stripes
+      - Plaid
+      - Floral
+      - Geometric
+      - Other
+      - No preference
+      required: false
+    - id: 15
+      name: material_preference
+      label: Material Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Cotton
+      - Polyester
+      - Wool
+      - Silk
+      - Denim
+      - Linen
+      - Blend
+      - Any
+      required: false
+    - id: 16
+      name: sleeve_length
+      label: Sleeve Length
+      hint: null
+      type: select_one
+      options:
+      - Sleeveless
+      - Short sleeve
+      - Long sleeve
+      - Three-quarter
+      - No preference
+      required: false
+    - id: 17
+      name: section_budget
+      label: -- Budget and Brand --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: budget_range
+      label: Budget Range - USD
+      hint: null
+      type: select_one
+      options:
+      - Under 25
+      - 25-50
+      - 50-100
+      - 100-200
+      - 200+
+      required: true
+    - id: 19
+      name: brand_preference
+      label: Brand Preference
+      hint: Preferred brands or designers
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_occasion
+      label: -- Occasion and Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: occasion
+      label: What is this for?
+      hint: null
+      type: select_multiple
+      options:
+      - Everyday wear
+      - Work
+      - Special event
+      - Exercise
+      - Travel
+      - Other
+      required: true
+    - id: 22
+      name: section_additional
+      label: -- Additional Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_requirements
+      label: Any special requirements or preferences?
+      hint: Allergen-free, sustainable, etc
+      type: text
+      options: []
+      required: false

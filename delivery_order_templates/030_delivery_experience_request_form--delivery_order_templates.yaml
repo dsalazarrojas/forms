@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Experience Request Form
+    pages:
+    - id: 1
+      name: delivery_experience_request_form
+      label: delivery_experience_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_team_member
+      label: delivery_team_member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: delivery_order_number
+      label: delivery_order_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: delivery_rating
+      label: delivery_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: delivery_comments
+      label: delivery_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_contact
+      label: customer_service_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_service_email
+      label: customer_service_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: customer_service_phone
+      label: customer_service_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_issues
+      label: delivery_issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_service_rating
+      label: delivery_service_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: delivery_service_comments
+      label: delivery_service_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_rating
+      label: delivery_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: delivery_service_rating_average
+      label: delivery_service_rating_average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: delivery_service_level
+      label: delivery_service_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 18
+      name: delivery_comments
+      label: delivery_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_satisfaction
+      label: delivery_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 20
+      name: customer_service_satisfaction
+      label: customer_service_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 21
+      name: customer_service_rating
+      label: customer_service_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: customer_service_comments
+      label: customer_service_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: assigned_user_id
+      label: assigned_user_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

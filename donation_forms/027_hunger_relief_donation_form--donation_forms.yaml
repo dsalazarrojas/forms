@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunger Relief Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hunger_relief_amount
+      label: Hunger Relief Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_currency
+      label: Donation Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USD''}'
+      - '{''label'': ''EUR''}'
+      - '{''label'': ''GBP''}'
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

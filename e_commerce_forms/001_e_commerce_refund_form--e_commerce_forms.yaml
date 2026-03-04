@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Refund Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: refund_request
+      label: Refund Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: return_address
+      label: Return Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: return_reason
+      label: Return Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: return_notes
+      label: Return Notes
+      hint: null
+      type: text
+      options: []
+      required: false

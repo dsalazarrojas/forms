@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Evaluation Road Test Form
+    pages:
+    - id: 1
+      name: driver_evaluation_road_test_form
+      label: Driver Evaluation Road Test Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Bus
+      required: false
+    - id: 6
+      name: student_score
+      label: Student Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: instructor_score
+      label: Instructor Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 10
+      name: completed_on
+      label: Completed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: instructor_comments
+      label: Instructor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false

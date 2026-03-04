@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Package Order Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company or Organization Name
+      hint: Name of the business placing order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Department ordering breakfast
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete delivery address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: Date breakfast should be delivered
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: What time should breakfast arrive
+      type: select_one
+      options:
+      - 7 AM - 8 AM
+      - 8 AM - 9 AM
+      - 9 AM - 10 AM
+      - 10 AM - 11 AM
+      - 11 AM - 12 PM
+      required: true
+    - id: 9
+      name: number_of_people
+      label: Number of People
+      hint: How many people to feed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: package_type
+      label: Breakfast Package Type
+      hint: Select package option
+      type: select_one
+      options:
+      - Light Continental - 7 USD per person
+      - Standard Package - 12 USD per person
+      - Premium Deluxe - 18 USD per person
+      - Vegan Special - 15 USD per person
+      - Custom Package
+      required: true
+    - id: 11
+      name: package_components
+      label: Package Components
+      hint: What items should be included
+      type: select_multiple
+      options:
+      - Fresh pastries
+      - Bread and bagels
+      - Cold cuts and cheese
+      - Fresh fruit
+      - Yogurt
+      - Cereals
+      - Juice and beverages
+      - Coffee and tea service
+      required: true
+    - id: 12
+      name: dietary_options
+      label: Dietary Variations Needed
+      hint: Select any dietary accommodations
+      type: select_multiple
+      options:
+      - Gluten-free options
+      - Vegan items
+      - Dairy-free options
+      - Nut-free items
+      - Keto-friendly
+      - Low-sugar
+      required: false
+    - id: 13
+      name: serving_style
+      label: Serving Style
+      hint: How should breakfast be served
+      type: select_one
+      options:
+      - Buffet style
+      - Plated service
+      - Individual boxes
+      - Combination
+      required: true
+    - id: 14
+      name: serving_ware
+      label: Serving Ware
+      hint: Prefer disposable or reusable
+      type: select_one
+      options:
+      - Disposable
+      - Reusable
+      - Combination
+      required: false
+    - id: 15
+      name: beverages_service
+      label: Beverage Service
+      hint: Type of beverage service
+      type: select_one
+      options:
+      - Self-serve beverages
+      - Attendant served
+      - No beverage service
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any special considerations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: setup_cleanup
+      label: Setup and Cleanup
+      hint: Do you need setup and cleanup
+      type: select_one
+      options:
+      - Drop-off only
+      - Setup included
+      - Full service with cleanup
+      required: false
+    - id: 18
+      name: estimated_budget
+      label: Estimated Total Budget
+      hint: Your budget range
+      type: select_one
+      options:
+      - Under 100
+      - 100 - 250
+      - 250 - 500
+      - 500 - 1000
+      - 1000+
+      required: false

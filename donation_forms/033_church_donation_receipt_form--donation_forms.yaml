@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Donation Receipt Form
+    pages:
+    - id: 1
+      name: header_church_admin
+      label: -- Church Administration Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: receipt_number
+      label: Receipt Number
+      hint: Internal tracking ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_processed
+      label: Date Processed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: processor_name
+      label: Processed By (Staff Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: header_donor_details
+      label: -- Donor and Gift Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donor_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_id
+      label: Donor ID (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_date_actual
+      label: Date of Actual Contribution
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: amount_received
+      label: Total Amount Received ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_type
+      label: Method of Contribution
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Electronic Transfer
+      - Stock/Security
+      - Other In-Kind
+      required: true
+    - id: 11
+      name: check_number
+      label: Check Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fund_credited
+      label: Fund Credited
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Building
+      - Missions
+      - Youth
+      - Scholarship
+      - Other
+      required: true
+    - id: 13
+      name: goods_services_disclaimer
+      label: No goods or services were provided in exchange for this gift
+      hint: null
+      type: select_one
+      options:
+      - Confirmed - Full Tax Deduction
+      - Partially Deductible (list below)
+      required: true
+    - id: 14
+      name: non_deductible_amount
+      label: Value of Goods/Services Provided (if any)
+      hint: Enter 0 if none
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: administrator_signature_confirmed
+      label: Signature of Authorized Officer
+      hint: Type name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: send_copy_to_donor
+      label: Send copy of this receipt to donor email?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Send Immediately
+      - No - Manual File Only
+      required: true
+    - id: 17
+      name: donor_email_receipt
+      label: Donor Email for Receipt
+      hint: null
+      type: email
+      options: []
+      required: false

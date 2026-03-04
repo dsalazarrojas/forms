@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: postcard_order_form
+    pages:
+    - id: 1
+      name: select_product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Orange
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: make_payment
+      label: Make Payment
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Cheque
+      - Credit Card
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

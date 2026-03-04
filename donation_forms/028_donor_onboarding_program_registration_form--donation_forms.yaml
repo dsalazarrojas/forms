@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Onboarding Program Registration Form
+    pages:
+    - id: 1
+      name: onboarding_form
+      label: onboarding-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donor_preferences
+      label: donor-preferences
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: communication_choice
+      label: communication-choice
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      required: true
+    - id: 7
+      name: donation_frequency
+      label: donation-frequency
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: donation_amount
+      label: donation-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_method
+      label: donation-method
+      hint: null
+      type: select_one
+      options:
+      - option6
+      - option7
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: donor_status
+      label: donor-status
+      hint: null
+      type: select_one
+      options:
+      - option8
+      - option9
+      required: true
+    - id: 13
+      name: onboarding_date
+      label: onboarding-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: onboarding_time
+      label: onboarding-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: confirmation_date
+      label: confirmation-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_date
+      label: follow-up-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_time
+      label: follow-up-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_method
+      label: follow-up-method
+      hint: null
+      type: select_one
+      options:
+      - option10
+      - option11
+      required: false
+    - id: 19
+      name: follow_up_frequency
+      label: follow-up-frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: follow-up-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: notes2
+      label: notes2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_time
+      label: confirmation-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_confirm
+      label: follow-up-confirm
+      hint: null
+      type: select_one
+      options:
+      - option12
+      - option13
+      required: false
+    - id: 24
+      name: donor_id
+      label: donor-id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_date
+      label: submission-date
+      hint: null
+      type: date
+      options: []
+      required: true

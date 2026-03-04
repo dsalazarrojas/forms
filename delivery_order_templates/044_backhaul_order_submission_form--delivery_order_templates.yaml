@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backhaul Order Submission Form
+    pages:
+    - id: 1
+      name: carrier_name
+      label: Carrier or Company Name
+      hint: Name of carrier company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Name of dispatcher or contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mc_number
+      label: MC Number
+      hint: Motor carrier number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dot_number
+      label: DOT Number
+      hint: Department of Transportation ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pickup_location
+      label: Pickup Location
+      hint: Full address for pickup
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pickup_date
+      label: Pickup Date
+      hint: When can you pick up
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: pickup_time
+      label: Pickup Time Window
+      hint: Available time for pickup
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: delivery_location
+      label: Delivery Location
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_date
+      label: Delivery Date
+      hint: When will you deliver
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: delivery_time
+      label: Delivery Time Window
+      hint: Available time for delivery
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: trailer_type
+      label: Trailer Type
+      hint: Select equipment type
+      type: select_one
+      options:
+      - Dry Van
+      - Refrigerated
+      - Flatbed
+      - Step Deck
+      - Lowboy
+      - Power Only
+      - Box Truck
+      - Other
+      required: true
+    - id: 14
+      name: trailer_length
+      label: Trailer Length
+      hint: Select length
+      type: select_one
+      options:
+      - 24 feet
+      - 28 feet
+      - 40 feet
+      - 45 feet
+      - 48 feet
+      - 53 feet
+      - Other
+      required: true
+    - id: 15
+      name: load_type
+      label: Load Type
+      hint: Select cargo type
+      type: select_one
+      options:
+      - General Freight
+      - Produce
+      - Beverages
+      - Building Materials
+      - Machinery
+      - Consumer Goods
+      - Food Products
+      - Other
+      required: true
+    - id: 16
+      name: weight
+      label: Load Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: number_of_pallets
+      label: Number of Pallets
+      hint: Total pallet count
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: temperature_required
+      label: Temperature Control Required
+      hint: Is refrigeration needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: temperature_setting
+      label: Temperature Setting
+      hint: Required temperature if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: loading_requirements
+      label: Loading Requirements
+      hint: Select any special requirements
+      type: select_multiple
+      options:
+      - Liftgate required
+      - Forklift available
+      - Driver assist load
+      - Team load
+      - Drop and hook
+      - Live load
+      - Appointment required
+      required: true
+    - id: 21
+      name: rate_requested
+      label: Rate Requested
+      hint: Your rate in dollars
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_accessories
+      label: Additional Comments or Instructions
+      hint: Any special notes for this load
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true

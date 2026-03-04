@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Grid Frame Theme
+    pages:
+    - id: 1
+      name: section_sender
+      label: -- Sender Details --
+      hint: Please fill out the form below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Your Email
+      hint: We'll use this for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Your Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subject_header
+      label: Inquiry Subject
+      hint: null
+      type: select_one
+      options:
+      - General Question
+      - Technical Support
+      - Billing Inquiry
+      - Feedback
+      - Request Call Back
+      - Partnership
+      - Careers
+      required: true
+    - id: 7
+      name: section_message
+      label: -- Your Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: message_details
+      label: Message / Description of the Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_needed
+      label: Do you require a response to this message?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: preferred_contact_method
+      label: How should we contact you?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - No preference
+      required: true
+    - id: 11
+      name: newsletter_opt_in
+      label: Sign up for our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Advertisement
+      - Other
+      required: false

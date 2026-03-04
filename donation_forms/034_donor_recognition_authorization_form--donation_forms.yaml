@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Recognition Authorization Form
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recognition_preferences
+      label: Recognition Preferences
+      hint: null
+      type: select_one
+      options:
+      - Donor Name
+      - Organization Name
+      - Both
+      required: false
+    - id: 7
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - LinkedIn
+      required: false
+    - id: 8
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: acknowledgement_frequency
+      label: Acknowledgement Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 10
+      name: acknowledgement_method
+      label: Acknowledgement Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Mail
+      - Social Media
+      required: false
+    - id: 11
+      name: other_organisation
+      label: Other Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_organisation_details
+      label: Other Organisation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatgeoff
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Nutrition Specialist Program Application
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Pet Nutritionist
+      - Veterinarian
+      - Pet Food Manufacturer
+      required: false
+    - id: 3
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Pet Nutritionist
+      - Veterinary
+      - Pet Food
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_certification
+      label: Training & Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Pet Nutritionist
+      - Veterinary
+      - Pet Food
+      required: false
+    - id: 8
+      name: motivation_statement
+      label: Motivation Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false

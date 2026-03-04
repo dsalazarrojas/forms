@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: CS Sample Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your business or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: sample_type
+      label: Type of Sample Requested
+      hint: What product or sample you want
+      type: select_one
+      options:
+      - Product sample
+      - Material sample
+      - Service demonstration
+      - Free trial
+      - Consultation
+      - Other
+      required: true
+    - id: 7
+      name: product_interest
+      label: Specific Product or Service Interested In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sample_quantity
+      label: Number of Samples Requested
+      hint: How many samples
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: intended_use
+      label: Intended Use of Sample
+      hint: How will you use this sample
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_timeline
+      label: Expected Timeline for Decision
+      hint: When will you evaluate and decide
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Longer than 3 months
+      - Undecided
+      required: false
+    - id: 11
+      name: business_interest
+      label: Level of Business Interest
+      hint: How likely are you to purchase
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Maybe
+      - Unlikely
+      - Just exploring
+      required: true
+    - id: 12
+      name: estimated_volume
+      label: Estimated Purchase Volume
+      hint: If you were to buy
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: annual_budget
+      label: Estimated Annual Budget
+      hint: Approximate budget for this category
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-25000
+      - 25000-50000
+      - Over 50000
+      - Not determined
+      required: false
+    - id: 14
+      name: decision_maker
+      label: Are You the Decision Maker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial decision-maker
+      required: true
+    - id: 15
+      name: shipping_address
+      label: Shipping Address
+      hint: Where sample should be sent
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: special_requirements
+      label: Special Requirements or Instructions
+      hint: Delivery preferences, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Either email or phone
+      required: true
+    - id: 19
+      name: follow_up_permission
+      label: Permission to Follow Up
+      hint: Can we contact you about your sample
+      type: select_one
+      options:
+      - Yes, contact me
+      - No follow-up needed
+      - Email only
+      - Phone only
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

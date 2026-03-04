@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Portal Feedback Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Client Portal Feedback Survey
+      hint: Help us improve our client portal by sharing your experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_id
+      label: Client ID or Account Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage_frequency
+      label: How Often Do You Use the Client Portal
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Once a week
+      - 2-3 times per month
+      - Once a month
+      - Rarely
+      - First time user
+      required: true
+    - id: 4
+      name: primary_use_case
+      label: What Do You Primarily Use the Portal For
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - View Account Information
+      - Make Payments
+      - Submit Support Tickets
+      - Download Documents
+      - Upload Files
+      - Schedule Appointments
+      - View Reports
+      - Send Messages
+      - Track Orders or Projects
+      - Other
+      required: true
+    - id: 5
+      name: ease_of_login
+      label: How Easy Is It to Log In to the Portal
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 6
+      name: navigation_ease
+      label: How Easy Is It to Navigate the Portal
+      hint: Finding what you need
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 7
+      name: page_load_speed
+      label: How Would You Rate Page Load Speed
+      hint: null
+      type: select_one
+      options:
+      - Very Fast
+      - Fast
+      - Acceptable
+      - Slow
+      - Very Slow
+      required: true
+    - id: 8
+      name: mobile_experience
+      label: How Would You Rate the Mobile Experience
+      hint: If you have used mobile
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Have Not Used Mobile
+      required: false
+    - id: 9
+      name: feature_satisfaction
+      label: How Satisfied Are You with Available Features
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 10
+      name: most_used_feature
+      label: Which Feature Do You Use Most
+      hint: null
+      type: select_one
+      options:
+      - Dashboard
+      - Payments
+      - Messaging
+      - Document Library
+      - Reports
+      - Support
+      - Settings
+      - Other
+      required: true
+    - id: 11
+      name: least_used_feature
+      label: Which Feature Do You Use Least
+      hint: null
+      type: select_one
+      options:
+      - Dashboard
+      - Payments
+      - Messaging
+      - Document Library
+      - Reports
+      - Support
+      - Settings
+      - Other
+      - I Use All Features
+      required: false
+    - id: 12
+      name: missing_features
+      label: What Features Are Missing That You Would Like
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dark Mode
+      - Customizable Dashboard
+      - Mobile App
+      - Two-Factor Authentication
+      - Export Options
+      - Notifications
+      - Chat Support
+      - Video Tutorials
+      - API Access
+      - Other
+      required: false
+    - id: 13
+      name: security_confidence
+      label: How Confident Are You in the Portal Security
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Very Confident
+      - Not Confident At All
+      required: true
+    - id: 14
+      name: information_findability
+      label: How Easy Is It to Find Information You Need
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 15
+      name: support_responsiveness
+      label: How Would You Rate Support Responsiveness
+      hint: If you have contacted support
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Have Not Contacted Support
+      required: false
+    - id: 16
+      name: overall_satisfaction
+      label: Overall How Satisfied Are You with the Client Portal
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 17
+      name: net_promoter_score
+      label: How Likely Are You to Recommend This Portal to Others
+      hint: 0 means not at all likely 10 means extremely likely
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: biggest_frustration
+      label: What Is Your Biggest Frustration with the Portal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: biggest_strength
+      label: What Do You Like Most About the Portal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: improvement_suggestions
+      label: What Improvements Would You Suggest
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_feedback
+      label: Additional Comments or Feedback
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_permission
+      label: May We Contact You for Follow-up Questions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: follow_up_email
+      label: Email for Follow-up
+      hint: If yes provide email
+      type: email
+      options: []
+      required: false

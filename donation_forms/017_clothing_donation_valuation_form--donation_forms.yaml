@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Donation Valuation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: Full name of person donating
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_id
+      label: Donor ID
+      hint: Identification number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_date
+      label: Donation Date
+      hint: Date of donation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_items
+      label: -- Item Descriptions --
+      hint: Details about each clothing item
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: item_quantity
+      label: Total Number of Items
+      hint: How many items are in this donation
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: item_category
+      label: Primary Category of Items
+      hint: null
+      type: select_one
+      options:
+      - Everyday wear
+      - Designer or premium brands
+      - Vintage or specialty
+      - Athletic or activewear
+      - Business or professional
+      - Wedding or formal
+      - Seasonal items
+      - Mixed categories
+      required: true
+    - id: 7
+      name: item_description
+      label: Item-by-Item Description
+      hint: List each item with type, brand, size
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_condition
+      label: -- Overall Condition Assessment --
+      hint: Rate the condition of items
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: overall_condition
+      label: Overall Condition of Donation
+      hint: null
+      type: select_one
+      options:
+      - Like new, never worn
+      - Excellent condition
+      - Good condition
+      - Fair condition
+      - Poor condition
+      required: true
+    - id: 10
+      name: condition_details
+      label: Condition Details
+      hint: Stains, damage, repairs needed, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_valuation
+      label: -- Valuation Details --
+      hint: Estimated value of donated items
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: valuation_method
+      label: Valuation Method Used
+      hint: How are values determined
+      type: select_one
+      options:
+      - Fair market value
+      - Thrift store pricing
+      - Retail replacement cost
+      - Professional appraisal
+      - Donor estimate
+      - Other
+      required: true
+    - id: 13
+      name: retail_value
+      label: Estimated Retail Value
+      hint: Original purchase price or equivalent
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: fair_market_value
+      label: Fair Market Value
+      hint: What item would sell for today
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_brands
+      label: -- Brand Information --
+      hint: Brand details for valuation
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: high_end_brands
+      label: Any high-end or designer brands included
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple designer items
+      - Yes, some designer items
+      - No designer brands
+      - Unknown
+      required: true
+    - id: 17
+      name: brand_list
+      label: List of Notable Brands
+      hint: Any premium or recognizable brands
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_special
+      label: -- Special Items --
+      hint: Any particularly valuable items
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: special_items
+      label: Any special or valuable items included
+      hint: Wedding dress, fur coat, rare vintage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_item_value
+      label: Estimated Value of Special Items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_payment
+      label: -- Valuation and Payment --
+      hint: Compensation details
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: total_valuation
+      label: Total Appraised Value
+      hint: Total value of entire donation
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: appraisal_method
+      label: Appraised by
+      hint: null
+      type: select_one
+      options:
+      - Donor self-appraisal
+      - Staff assessment
+      - Professional appraiser
+      - Committee review
+      - Other method
+      required: true
+    - id: 24
+      name: tax_deduction_eligible
+      label: Eligible for tax deduction
+      hint: null
+      type: select_one
+      options:
+      - Yes, eligible
+      - No, not eligible
+      - Requires documentation
+      - Unknown
+      required: true
+    - id: 25
+      name: appraiser_notes
+      label: Appraiser Notes and Comments
+      hint: Any additional valuation information
+      type: text
+      options: []
+      required: false

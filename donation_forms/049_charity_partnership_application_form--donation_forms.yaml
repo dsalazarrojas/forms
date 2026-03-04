@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Partnership Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_first_name
+      label: Contact First Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - 501c3 nonprofit
+      - 501c4 organization
+      - Foundation
+      - Corporate foundation
+      - Government agency
+      - Faith-based organization
+      - Other
+      required: true
+    - id: 7
+      name: ein_number
+      label: EIN or Tax ID
+      hint: Tax identification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_address
+      label: Organization Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: website
+      label: Website URL
+      hint: Your website
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: year_established
+      label: Year Established
+      hint: Founding year
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: mission_statement
+      label: Mission Statement
+      hint: Your mission
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: partnership_type
+      label: Type of Partnership Sought
+      hint: What you want
+      type: select_multiple
+      options:
+      - Funding partnership
+      - Program collaboration
+      - Event co-sponsorship
+      - Resource sharing
+      - Advocacy partnership
+      - Research collaboration
+      - Other
+      required: true
+    - id: 13
+      name: funding_amount
+      label: Funding Amount Requested
+      hint: If applicable
+      type: select_one
+      options:
+      - Under $10000
+      - $10000 to $25000
+      - $25001 to $50000
+      - $50001 to $100000
+      - Over $100000
+      - Not seeking funding
+      required: false
+    - id: 14
+      name: project_description
+      label: Project or Program Description
+      hint: What you propose
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_population
+      label: Target Population
+      hint: Who you serve
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: timeline
+      label: Project Timeline
+      hint: Duration
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: Impact goals
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: budget_overview
+      label: Budget Overview
+      hint: Financial summary
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: prior_partnerships
+      label: Prior Partnerships
+      hint: Past collaborations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documents
+      label: Can You Provide Supporting Documents
+      hint: 990 forms audits etc
+      type: select_one
+      options:
+      - Yes will submit
+      - Yes available on request
+      - false
+      required: true
+    - id: 21
+      name: references
+      label: Professional References
+      hint: Names and contacts
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

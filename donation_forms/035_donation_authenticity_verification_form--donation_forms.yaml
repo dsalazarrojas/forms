@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: donation_authenticity_verification_form
+    pages:
+    - id: 1
+      name: donorname
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donoremail
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donordocumentation
+      label: Donor Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donationdate
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: donationamount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: donormethod
+      label: Donor Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Card''}'
+      - '{''id'': 2, ''value'': ''Check''}'
+      - '{''id'': 3, ''value'': ''ACH''}'
+      required: false
+    - id: 7
+      name: donornotes
+      label: Donor Notes
+      hint: null
+      type: note
+      options: []
+      required: false

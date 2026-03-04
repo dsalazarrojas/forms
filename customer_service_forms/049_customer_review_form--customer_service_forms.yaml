@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_review_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our customer review form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendation
+      label: Would you recommend us
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 13
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Internet Service Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - DSL
+      - Fiber
+      - Cable
+      required: true
+    - id: 3
+      name: service_location
+      label: Service Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Business
+      - Mobile
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 7
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: technician_comment
+      label: Technician Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Meal Program Donation Form
+    pages:
+    - id: 1
+      name: section_donor_info
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Optional contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_donation
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: How much would you like to donate
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One time or recurring
+      type: select_one
+      options:
+      - One-Time Donation
+      - Monthly Recurring
+      - Annual Recurring
+      - Quarterly
+      required: true
+    - id: 12
+      name: donation_purpose
+      label: What Does Your Donation Support
+      hint: General support or specific program
+      type: select_one
+      options:
+      - General Meal Program
+      - Breakfast Program
+      - Lunch Program
+      - Dinner Program
+      - Weekend Meals
+      - Emergency Meals
+      required: false
+    - id: 13
+      name: meals_provided
+      label: Approximate Number of Meals Funded
+      hint: Your contribution provides this many meals
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 16
+      name: cardholder_name
+      label: Cardholder Name
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: card_last_four
+      label: Card Last Four Digits
+      hint: XXXX
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: receipt_request
+      label: I Want a Tax Receipt
+      hint: For tax purposes
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: newsletter_signup
+      label: I Want to Receive Program Updates
+      hint: Get information about meals program
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: donation_date
+      label: Date of Donation
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: WhatsYourLoveLanguageQuiz
+    pages:
+    - id: 1
+      name: intro
+      label: what_s_your_love_language_quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: love_language
+      label: love_language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: quality_of_time_spent
+      label: quality_of_time_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gifts_and_gestures
+      label: gifts_and_gestures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: acts_of_service
+      label: acts_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: words_of_affirmation
+      label: words_of_affirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

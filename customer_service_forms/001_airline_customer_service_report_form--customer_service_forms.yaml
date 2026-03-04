@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Customer Service Report Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: passenger_name
+      label: Passenger name
+      hint: Full legal name as on booking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Provide an email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: Include country code if outside local region
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flight_number
+      label: Flight number
+      hint: Example AA1234 or BA567
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_date
+      label: Date of travel
+      hint: Date passenger traveled or date of incident
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: issue_category
+      label: Issue category
+      hint: Select the primary category that best describes the issue
+      type: select_one
+      options:
+      - Baggage
+      - Seating
+      - Crew
+      - Delays
+      - Accessibility
+      - Other
+      required: true
+    - id: 8
+      name: incident_location
+      label: Incident location
+      hint: Gate, Boarding, Onboard, Lounge or specific area
+      type: select_one
+      options:
+      - Gate
+      - Boarding
+      - Onboard
+      - Lounge
+      - Other
+      required: true
+    - id: 9
+      name: incident_description
+      label: Incident description
+      hint: Provide a clear summary of what occurred and relevant times
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: severity
+      label: Severity of issue
+      hint: Select how serious the issue was perceived
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 11
+      name: desired_resolution
+      label: Desired resolution
+      hint: What outcome would you like from customer service
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_involved
+      label: Staff involved if known
+      hint: Names or descriptions of crew or staff involved
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_required
+      label: Follow up required
+      hint: Select yes to request proactive follow up
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

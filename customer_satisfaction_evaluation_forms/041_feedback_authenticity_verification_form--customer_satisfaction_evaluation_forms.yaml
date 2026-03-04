@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Authenticity Verification Form
+    pages:
+    - id: 1
+      name: customer_satisfaction_evaluation_form
+      label: Customer Satisfaction Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: feedback_form
+      label: Feedback
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: authenticity_verification
+      label: Authenticity Verification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_contact_info
+      label: Customer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_satisfaction_evaluation
+      label: Customer Satisfaction Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: customer_feedback_authenticity
+      label: Customer Feedback Authenticity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

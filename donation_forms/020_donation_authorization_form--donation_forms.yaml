@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Authorization Form
+    pages:
+    - id: 1
+      name: donation_1
+      label: Donation Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_2
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit_donation
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_email
+      label: Donor Email
+      hint: Enter a valid email address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contribution_amount
+      label: Contribution Amount
+      hint: Enter a valid contribution amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contribution_method
+      label: Payment Method
+      hint: Check, Bank Draft, or Credit/Debit
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: driver_id
+      label: Driver ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Ford
+      - Honda
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engine_condition
+      label: Engine Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: transmission_condition
+      label: Transmission Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: brakes_condition
+      label: Brakes Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: suspension_condition
+      label: Suspension Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: steering_condition
+      label: Steering Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: tires_condition
+      label: Tires Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: lights_condition
+      label: Lights Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: battery_condition
+      label: Battery Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: body_condition
+      label: Body Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: glass_condition
+      label: Glass Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: seat_condition
+      label: Seat Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: accessories_condition
+      label: Accessories Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      - Off Road
+      required: false
+    - id: 21
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: Name of person assigned to complete the inspection
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_inspection_form_completed
+      label: Vehicle Inspection Form Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - In Progress
+      required: false

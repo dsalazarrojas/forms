@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardconnect Donate For Education Payment Form
+    pages:
+    - id: 1
+      name: donor_information
+      label: -- DONOR INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_postal_code
+      label: Zip or postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: donation_information
+      label: -- DONATION INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: donation_amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: donation_frequency
+      label: Donation frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Donation
+      - Monthly Recurring
+      - Quarterly
+      - Annual
+      - Other
+      required: true
+    - id: 15
+      name: donation_focus
+      label: Which education cause would you like to support?
+      hint: null
+      type: select_one
+      options:
+      - Primary Education
+      - Secondary Education
+      - Higher Education
+      - Vocational Training
+      - Special Education
+      - Rural Education
+      - All Programs
+      - Other
+      required: true
+    - id: 16
+      name: target_region
+      label: Target region for impact
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - National
+      - International
+      - Africa
+      - Asia
+      - South America
+      - Middle East
+      - No Preference
+      required: false
+    - id: 17
+      name: donor_preferences
+      label: -- DONOR PREFERENCES --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: anonymous_donation
+      label: Make this an anonymous donation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: recognition_preference
+      label: Recognition preference
+      hint: null
+      type: select_one
+      options:
+      - Public Recognition
+      - Private Recognition
+      - No Recognition Needed
+      required: false
+    - id: 20
+      name: impact_updates
+      label: I want to receive impact updates and reports
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: communication_method
+      label: Preferred communication method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text Message
+      - No Preference
+      required: false
+    - id: 22
+      name: tax_deductible
+      label: Tax receipt requested?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: employer_match
+      label: Will your employer match this donation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 24
+      name: donation_message
+      label: Special message or dedication (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Any additional information or questions?
+      hint: null
+      type: text
+      options: []
+      required: false

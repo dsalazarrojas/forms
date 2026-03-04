@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Readiness Declaration Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: health_and_safety_precautions
+      label: Health and Safety Precautions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wash hands frequently''}'
+      - '{''label'': ''Wear a face mask''}'
+      - '{''label'': ''Keep distance from others''}'
+      - '{''label'': ''Get tested''}'
+      required: false
+    - id: 4
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_declaration
+      label: Health Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_to_work
+      label: Return to Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

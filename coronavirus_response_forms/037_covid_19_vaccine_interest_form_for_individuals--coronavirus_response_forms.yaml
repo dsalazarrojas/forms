@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Interest Form For Individuals
+    pages:
+    - id: 1
+      name: individual_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_preference_section
+      label: -- Communication Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      - No preference
+      required: true
+    - id: 7
+      name: interest_section
+      label: -- Vaccine Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interested_vaccine
+      label: Are you interested in receiving COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Unsure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 9
+      name: timeline_preference
+      label: Timeline for Vaccination
+      hint: null
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      - Not sure yet
+      required: false
+    - id: 10
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      - Unsure
+      required: true
+    - id: 11
+      name: dose_number
+      label: Which Dose Are You Interested In
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Unsure
+      - Multiple doses
+      required: true
+    - id: 12
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-29
+      - 30-39
+      - 40-49
+      - 50-59
+      - 60-69
+      - 70-79
+      - 80+
+      required: true
+    - id: 14
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to answer
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: health_section
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: health_risk_status
+      label: Do you consider yourself at higher risk
+      hint: Due to age, health conditions, occupation, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: risk_factors
+      label: What are your risk factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: chronic_conditions
+      label: Have chronic health conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 22
+      name: condition_list
+      label: List any chronic conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prior_covid
+      label: Have you had COVID-19 before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: prior_vaccination
+      label: Have you received COVID-19 vaccine before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: prior_vaccine_type
+      label: If yes, which vaccine and when
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: concerns_section
+      label: -- Concerns and Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: main_concerns
+      label: Main concerns about vaccination
+      hint: null
+      type: select_multiple
+      options:
+      - Safety
+      - Side effects
+      - Effectiveness
+      - Allergies
+      - Personal beliefs
+      - Lack of information
+      - Medical contraindications
+      - Cost
+      - Accessibility
+      - Other
+      required: false
+    - id: 28
+      name: concerns_details
+      label: Describe your concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: information_needs
+      label: What information would help you decide
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: follow_up_consent
+      label: I consent to be contacted about vaccine availability
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

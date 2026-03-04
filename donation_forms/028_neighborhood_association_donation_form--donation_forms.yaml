@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighborhood Association Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: frequency_hint
+      label: How often do you plan to donate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 13
+      name: donor_type
+      label: Donor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Resident
+      - Business
+      - Organization
+      required: true
+    - id: 14
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true

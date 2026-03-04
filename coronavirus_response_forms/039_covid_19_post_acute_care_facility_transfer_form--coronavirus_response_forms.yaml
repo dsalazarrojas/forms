@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Post Acute Care Facility Transfer Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_transfer_details
+      label: -- Transfer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sending_facility
+      label: Sending Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: receiving_facility
+      label: Receiving Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: transfer_reason
+      label: Reason for Transfer
+      hint: null
+      type: select_one
+      options:
+      - Recovery and rehabilitation
+      - Long-term care
+      - Skilled nursing
+      - Home health
+      - Hospice
+      - Psychiatric care
+      - Other
+      required: true
+    - id: 12
+      name: section_covid_status
+      label: -- COVID-19 Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: covid_diagnosis
+      label: COVID-19 Diagnosis Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed positive
+      - Suspected
+      - Recovering
+      - Recovered
+      - Exposure risk
+      - No COVID-19
+      required: true
+    - id: 14
+      name: test_date
+      label: Last COVID-19 Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: test_result
+      label: Last Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Not tested
+      required: false
+    - id: 16
+      name: isolation_required
+      label: Isolation Precautions Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: section_medical_summary
+      label: -- Medical Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recent_procedures
+      label: Recent Medical Procedures or Treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: discharge_summary
+      label: Hospital Discharge Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_receiving_facility
+      label: -- Receiving Facility Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_care_instructions
+      label: Special Care Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_appointments
+      label: Follow-up Appointments Scheduled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_authorization
+      label: -- Authorization and Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: attending_physician
+      label: Attending Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: transfer_date_completed
+      label: Transfer Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

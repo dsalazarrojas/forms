@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Company Address And Details
+    pages:
+    - id: 1
+      name: company_info
+      label: -- Company Information --
+      hint: Company address and contact details are shown for reference
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Your company or organization name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact person name
+      hint: Name of person at your company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Company phone number or personal contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_address
+      label: Company address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Inquiry type
+      hint: Select the nature of your message
+      type: select_one
+      options:
+      - General inquiry
+      - Customer support
+      - Partnership
+      - Media request
+      - Other
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: Provide details of your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_contact
+      label: Preferred contact method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 10
+      name: map_note
+      label: Company location shown on map
+      hint: Use the map to verify our location
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional information
+      hint: Any other details to help us respond
+      type: text
+      options: []
+      required: false

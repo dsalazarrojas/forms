@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Options Declaration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: stock_option_type
+      label: Stock Option Type
+      hint: null
+      type: select_one
+      options:
+      - Stock Options
+      - Stock Grants
+      - Stock Awards
+      required: false
+    - id: 5
+      name: option_type
+      label: Option Type
+      hint: null
+      type: select_multiple
+      options:
+      - Stock Options
+      - Stock Grants
+      - Stock Awards
+      required: false
+    - id: 6
+      name: option_status
+      label: Option Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 7
+      name: option_amount
+      label: Option Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: option_value
+      label: Option Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: option_start_date
+      label: Option Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: option_end_date
+      label: Option End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: option_exercise_date
+      label: Option Exercise Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: option_price
+      label: Option Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: option_vesting_date
+      label: Option Vesting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: option_expiration_date
+      label: Option Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: option_exercise_price
+      label: Option Exercise Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: option_termination_date
+      label: Option Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: option_termination_reason
+      label: Option Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: option_reissue_date
+      label: Option Reissue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: option_reissue_price
+      label: Option Reissue Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: option_revesting_date
+      label: Option Revesting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: option_iqo_date
+      label: Option IQO Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: option_iqo_status
+      label: Option IQO Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 23
+      name: option_iqo_price
+      label: Option IQO Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: option_ipo_date
+      label: Option IPO Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: option_iqo_termination_date
+      label: Option IQO Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false

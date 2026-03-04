@@ -1,0 +1,260 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Business Continuity Checklist
+    pages:
+      - id: 1
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this self-assessment
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: business_name
+        label: Business Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: business_type
+        label: Type of Business
+        hint: Industry or sector
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_lead
+        label: Assessment Lead Name
+        hint: Person completing this checklist
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: note_health_measures
+        label: -- Health and Safety Measures --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: covid_policy_established
+        label: COVID-19 policies and procedures established
+        hint: Documented policies in place
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: true
+      - id: 7
+        name: sanitization_protocol
+        label: Regular sanitization protocol implemented
+        hint: Surfaces, equipment cleaned regularly
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: true
+      - id: 8
+        name: ppe_supplies
+        label: Adequate PPE supplies available
+        hint: Masks, gloves, sanitizers stocked
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 9
+        name: distancing_measures
+        label: Social distancing measures implemented
+        hint: Modified workspaces for distance
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 10
+        name: isolation_area
+        label: Isolation area designated for sick employees
+        hint: Separate space available
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 11
+        name: health_screening
+        label: Employee health screening protocol
+        hint: Temperature checks, questionnaires
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 12
+        name: note_staff_continuity
+        label: -- Staffing and Continuity --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: remote_work_capable
+        label: Remote work capabilities established
+        hint: VPN, cloud systems, communication tools
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 14
+        name: cross_training
+        label: Critical role cross-training completed
+        hint: Multiple people trained for key positions
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 15
+        name: succession_plan
+        label: Succession plan documented
+        hint: Plan for key personnel absence
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 16
+        name: communication_plan
+        label: Employee communication plan activated
+        hint: Regular updates and guidelines shared
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 17
+        name: note_operations
+        label: -- Operations and Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: critical_supplies
+        label: Critical supplies backup obtained
+        hint: Extra inventory, alternative suppliers
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: true
+      - id: 19
+        name: IT_backup
+        label: IT systems backup and recovery tested
+        hint: Data backups, disaster recovery plan
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 20
+        name: vendor_communication
+        label: Vendor and supplier communication maintained
+        hint: Confirmed ability to receive essential supplies
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 21
+        name: note_financial
+        label: -- Financial and Legal --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: financial_reserves
+        label: Financial reserves assessed
+        hint: Cash flow, emergency funds identified
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 23
+        name: insurance_coverage
+        label: Business insurance coverage verified
+        hint: Updated policies for pandemic-related losses
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 24
+        name: assistance_programs
+        label: Eligible assistance programs identified
+        hint: PPP, SBA loans, grants researched
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 25
+        name: legal_review
+        label: Legal and compliance requirements reviewed
+        hint: With legal counsel
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "In progress"
+        required: false
+      - id: 26
+        name: overall_readiness
+        label: Overall Business Continuity Readiness
+        hint: How prepared is your business?
+        type: select_one
+        options:
+          - "Fully prepared"
+          - "Mostly prepared"
+          - "Partially prepared"
+          - "Not prepared"
+        required: true
+      - id: 27
+        name: priority_actions
+        label: Top Priority Actions Needed
+        hint: List critical items to address
+        type: text
+        options: []
+        required: false

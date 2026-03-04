@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Documentation Information Request Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_id_number
+      label: Client ID or Account Number
+      hint: Your account identifier
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: For verification purposes
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: request_type
+      label: Type of Documentation Requested
+      hint: What documents do you need?
+      type: select_one
+      options:
+      - Account Statements
+      - Tax Documents
+      - Service Records
+      - Treatment Records
+      - Financial Reports
+      - Correspondence Records
+      - Certificates
+      - Other
+      required: true
+    - id: 8
+      name: document_period_start
+      label: Document Period Start Date
+      hint: Beginning of date range
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: document_period_end
+      label: Document Period End Date
+      hint: End of date range
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: specific_documents
+      label: Specific Documents Needed
+      hint: List exact documents
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: request_purpose
+      label: Purpose of Request
+      hint: Why do you need these?
+      type: select_one
+      options:
+      - Personal Records
+      - Tax Preparation
+      - Legal Proceedings
+      - Insurance Claim
+      - Loan Application
+      - Employment Verification
+      - Other
+      required: true
+    - id: 12
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How should we send documents?
+      type: select_one
+      options:
+      - Email
+      - Secure Portal
+      - Mail
+      - Fax
+      - In Person Pickup
+      required: true
+    - id: 13
+      name: mailing_address
+      label: Mailing Address
+      hint: If sending by mail
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need them?
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Expedited (2-3 business days)
+      - Rush (24-48 hours)
+      - Same Day
+      required: true
+    - id: 15
+      name: fee_acknowledgment
+      label: I Understand There May Be Fees for This Request
+      hint: Fee acknowledgment
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 16
+      name: authorization_statement
+      label: I Authorize the Release of These Documents to Me
+      hint: Release authorization
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true
+    - id: 17
+      name: third_party_release
+      label: Are Documents Being Released to a Third Party?
+      hint: If not to you directly
+      type: select_one
+      options:
+      - No, To Me Only
+      - Yes, To Third Party
+      required: true
+    - id: 18
+      name: third_party_name
+      label: Third Party Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: third_party_relationship
+      label: Third Party Relationship
+      hint: How are they related to you?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 21
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

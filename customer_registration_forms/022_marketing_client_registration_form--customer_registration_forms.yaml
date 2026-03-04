@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Client Registration Form
+    pages:
+    - id: 1
+      name: client_registration_form
+      label: Client Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Google Ads
+      - Email Marketing
+      - Print/Outdoor
+      - Referral
+      - Other
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_or_service
+      label: Product/Service
+      hint: null
+      type: select_multiple
+      options:
+      - Houses
+      - Apartments
+      - Condos
+      - Land
+      - Other
+      required: false
+    - id: 9
+      name: interested_in
+      label: Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Buy
+      - Rent
+      - Sell
+      - Lease
+      - Other
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: lead_source_other
+      label: Lead Source Other
+      hint: Lead source other (please enter text description)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lead_source_other_desc
+      label: Lead Source Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

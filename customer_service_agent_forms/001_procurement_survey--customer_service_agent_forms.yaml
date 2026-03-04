@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Procurement Survey
+    pages:
+    - id: 1
+      name: procurement_survey_customer_service_agent_forms
+      label: Customer Service Forms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: procurement_survey_customer_service_agent_forms_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Customer Service Agent Forms
+      - Customer Service Forms
+      - Product Forms
+      required: false
+    - id: 3
+      name: procurement_survey_customer_service_agent_forms_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: procurement_survey_customer_service_agent_forms_product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: procurement_survey_customer_service_agent_forms_service
+      label: Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: procurement_survey_customer_service_agent_forms_pricing
+      label: Pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: procurement_survey_customer_service_agent_forms_please_enter_your_email
+      label: Please Enter Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: procurement_survey_customer_service_agent_forms_please_enter_your_phone
+      label: Please Enter Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false

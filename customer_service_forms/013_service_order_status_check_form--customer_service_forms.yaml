@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Order Status Check Form
+    pages:
+    - id: 1
+      name: service_order_status_check_form_page_1
+      label: service_order_status_check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_order_status_check_form_page_1_service_order_id
+      label: service order id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: service_order_status_check_form_page_1_service_order_date
+      label: service order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_order_status_check_form_page_1_service_order_time
+      label: service order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: service_order_status_check_form_page_1_service_order_status
+      label: service order status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: service_order_status_check_form_page_1_service_requester
+      label: service requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_order_status_check_form_page_1_service_requester_email
+      label: service requester email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: service_order_status_check_form_page_1_service_requester_phone
+      label: service requester phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_order_status_check_form_page_1_additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

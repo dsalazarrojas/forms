@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Welcome Call Processing Form
+    pages:
+    - id: 1
+      name: new_guest
+      label: New Guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: room_allocation
+      label: Room Allocation
+      hint: null
+      type: select_one
+      options:
+      - Double Room
+      - Suite
+      - Single Room
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: crm_sync
+      label: CRM Sync
+      hint: null
+      type: select_multiple
+      options:
+      - Salesforce
+      - Zendesk
+      - Other
+      required: false
+    - id: 9
+      name: crm_sync_other
+      label: Other CRM
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: welcome_call_status
+      label: Welcome Call Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Required
+      required: false
+    - id: 12
+      name: sync_with_other_platform
+      label: Sync with Other Platform
+      hint: null
+      type: select_multiple
+      options:
+      - Google Drive
+      - Dropbox
+      - Other
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Billing Form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_info
+      label: billing info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''label'': ''submit''}'
+      - Other
+      required: false
+    - id: 4
+      name: other_fields
+      label: other fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_info
+      label: course info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_2
+      label: submit 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''credit card'', ''label'': ''credit card''}'
+      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''paypal''}'
+      - '{''id'': 3, ''name'': ''bank transfer'', ''label'': ''bank transfer''}'
+      required: false
+    - id: 8
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_3
+      label: submit 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''label'': ''submit''}'
+      - Other
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Copyright Declaration Form
+    pages:
+    - id: 1
+      name: copyright_holder
+      label: Copyright Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: copyright_name
+      label: Copyright Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: copyright_date
+      label: Copyright Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: content_description
+      label: Content Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: copyright_type
+      label: Copyright Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: owner_details
+      label: Owner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_contact
+      label: Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: false

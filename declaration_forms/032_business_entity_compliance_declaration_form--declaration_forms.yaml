@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Compliance Declaration Form
+    pages:
+    - id: 1
+      name: entity_information
+      label: -- Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_name
+      label: Entity Name
+      hint: Legal entity name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Entity Type
+      hint: Type of business structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietor
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: tax_id
+      label: Tax ID
+      hint: Federal tax identification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Principal place of business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of this declaration
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: declaring_officer
+      label: Declaring Officer
+      hint: Name of authorized person
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: compliance_checklist
+      label: -- Compliance Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: tax_compliance
+      label: Tax Compliance
+      hint: All taxes filed and paid?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: true
+    - id: 10
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: All regulations followed?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: true
+    - id: 11
+      name: financial_reporting
+      label: Financial Reporting Compliance
+      hint: Financial reports current?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: true
+    - id: 12
+      name: employee_compliance
+      label: Employment Law Compliance
+      hint: All employment laws followed?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: true
+    - id: 13
+      name: environmental_compliance
+      label: Environmental Compliance
+      hint: Environmental regulations met?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: false
+    - id: 14
+      name: safety_compliance
+      label: Health and Safety Compliance
+      hint: All safety standards met?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: true
+    - id: 15
+      name: licensing
+      label: Licensing Requirements
+      hint: All licenses current?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: true
+    - id: 16
+      name: non_compliance_items
+      label: -- Non-Compliance Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: non_compliant_areas
+      label: Areas of Non-Compliance
+      hint: Any areas not compliant?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: remediation_plan
+      label: Remediation Plan
+      hint: How will you address non-compliance?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: remediation_timeline
+      label: Remediation Timeline
+      hint: When will compliance be achieved?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: declaration_statement
+      label: -- Declaration Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: declare_compliance
+      label: I Declare That This Entity is in Compliance
+      hint: Do you certify compliance?
+      type: select_one
+      options:
+      - Yes, Fully Compliant
+      - Substantially Compliant with Plan
+      - No
+      required: true
+    - id: 22
+      name: penalties_disclaimer
+      label: False Declaration Penalties Understood
+      hint: Understand penalties?
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No
+      required: true

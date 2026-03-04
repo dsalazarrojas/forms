@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_student_intake_agreement
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - Healthy
+      - Unhealthy
+      - Asymptomatic
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: testing_status
+      label: Testing Status
+      hint: null
+      type: select_one
+      options:
+      - Tested Negative
+      - Tested Positive
+      - Not Tested
+      required: false
+    - id: 7
+      name: quarantine_status
+      label: Quarantine Status
+      hint: null
+      type: select_one
+      options:
+      - In Quarantine
+      - Not In Quarantine
+      - N/A
+      required: false
+    - id: 8
+      name: travel_restrictions
+      label: Travel Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_tracing
+      label: Contact Tracing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share_info
+      label: Consent to Share Info
+      hint: Check boxes for each option
+      type: select_multiple
+      options:
+      - School
+      - Parents
+      - Healthcare Provider
+      required: false
+    - id: 11
+      name: consent_to_track_location
+      label: Consent to Track Location
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: consent_to_share_health_info
+      label: Consent to Share Health Info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: consent_to_use_camera
+      label: Consent to Use Camera
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: consent_to_share_health_data
+      label: Consent to Share Health Data
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: consent_to_share_location_info
+      label: Consent to Share Location Info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: consent_to_share_medical_history
+      label: Consent to Share Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship with Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_notes
+      label: Emergency Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: healthcare_provider_address
+      label: Healthcare Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false

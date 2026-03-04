@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Customer Service Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: E Commerce Customer Service Report Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Please provide a brief description of the issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: true
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: 'Format: john.doe@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: 123-123-1234'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agent_message
+      label: Agent Message
+      hint: null
+      type: text
+      options: []
+      required: false

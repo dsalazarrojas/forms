@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Declination Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee or Individual Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employer_section
+      label: -- Employer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employer_name
+      label: Employer or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department or Division
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declination_section
+      label: -- Declination Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: declination_statement
+      label: I choose to decline the COVID-19 vaccine at this time
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 12
+      name: declination_reason
+      label: Primary Reason for Declination
+      hint: null
+      type: select_one
+      options:
+      - Personal choice
+      - Medical contraindication
+      - Pregnancy or planning pregnancy
+      - Breastfeeding
+      - Prior COVID-19 infection
+      - Allergies or sensitivities
+      - Religious or philosophical beliefs
+      - Safety concerns
+      - Other
+      required: true
+    - id: 13
+      name: reason_explanation
+      label: Explain your reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: acknowledge_section
+      label: -- Acknowledgment of Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: acknowledge_risks
+      label: I acknowledge the risks of not being vaccinated
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 16
+      name: understand_policies
+      label: I understand my employer's vaccination policies and consequences
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 17
+      name: future_vaccination
+      label: I may reconsider vaccination in the future
+      hint: null
+      type: select_one
+      options:
+      - Yes, possibly
+      - No, I will not
+      - Unsure
+      required: false
+    - id: 18
+      name: testing_section
+      label: -- Testing and Precautions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: willing_testing
+      label: I will comply with required testing protocols
+      hint: If applicable
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Not applicable
+      required: true
+    - id: 20
+      name: willing_masking
+      label: I will comply with masking requirements if needed
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Not applicable
+      required: true
+    - id: 21
+      name: willing_distancing
+      label: I will comply with physical distancing if required
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Not applicable
+      required: true
+    - id: 22
+      name: liability_section
+      label: -- Legal and Liability Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: release_liability
+      label: I release my employer and healthcare provider from liability
+      hint: null
+      type: select_one
+      options:
+      - I release
+      - I do not release
+      required: true
+    - id: 24
+      name: voluntary_declination
+      label: This declination is completely voluntary and not coerced
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 25
+      name: copy_for_employee
+      label: I want a copy of this declination form
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: signature_date
+      label: Date of Declination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness or Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false

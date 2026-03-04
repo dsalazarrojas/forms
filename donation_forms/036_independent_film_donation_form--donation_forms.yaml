@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Film Donation Form
+    pages:
+    - id: 1
+      name: donation_form_inputs
+      label: donation-form-inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_1_1
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_1_2
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_1_3
+      label: Project URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_1_4
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Project Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 6
+      name: form_1_5
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_1_6
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - GBP
+      - JPY
+      required: true
+    - id: 8
+      name: form_1_7
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 9
+      name: form_1_8
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_1_9
+      label: Recipient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_1_10
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: form_1_11
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_1_12
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_1_13
+      label: form-1-13
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

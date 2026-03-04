@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Concierge Appointment Form
+    pages:
+    - id: 1
+      name: concierge_header
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: To contact you on the day of service
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address for Concierge Service
+      hint: Where the concierge should meet you
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: Select your preferred day
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: Select your preferred time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: concierge_service_type
+      label: Type of Concierge Service Needed
+      hint: What kind of assistance do you require?
+      type: select_one
+      options:
+      - Vehicle Pickup/Drop-off
+      - Maintenance Coordination
+      - Car Detailing Service
+      - Detailing and Valet
+      - Title and Registration Help
+      - Parts Acquisition
+      required: true
+    - id: 9
+      name: car_make_model
+      label: Car Make and Model
+      hint: What kind of car is the concierge working on?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: car_year
+      label: Car Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_vin_concierge
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_vin_concierge_location
+      label: Vehicle Location at Home
+      hint: (e.g., Garage, Driveway, Street)
+      type: select_one
+      options:
+      - Garage
+      - Driveway
+      - Street Parking
+      - Parking Garage
+      - Business Lot
+      required: true
+    - id: 13
+      name: keys_access_instructions
+      label: Keys and Access Instructions
+      hint: How will the concierge access your vehicle?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_service_requests
+      label: Any additional service requests or instructions?
+      hint: Provide more details for the concierge
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_info
+      label: Emergency Contact Information
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: concierge_acknowledgement
+      label: I acknowledge the concierge service fees
+      hint: Fee details sent after confirmation
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: signature_confirmation
+      label: Type your name for signature confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

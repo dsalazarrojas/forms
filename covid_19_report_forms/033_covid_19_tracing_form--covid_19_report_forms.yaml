@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Tracing Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: exposure
+      label: Exposure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Sick''}'
+      - '{''value'': ''Recovering''}'
+      required: true
+    - id: 11
+      name: medical_attendance
+      label: Medical Attendance
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: medical_attendance_date
+      label: Medical Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: true

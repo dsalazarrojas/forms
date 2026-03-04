@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Save The Trees Donation Form
+    pages:
+    - id: 1
+      name: save_the_trees_donation_form_page_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: save_the_trees_donation_form_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: save_the_trees_donation_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: save_the_trees_donation_form_email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: save_the_trees_donation_form_phone
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: save_the_trees_donation_form_donation_amount
+      label: Donation Amount
+      hint: Enter your donation amount
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: save_the_trees_donation_form_donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 8
+      name: save_the_trees_donation_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

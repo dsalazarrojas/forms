@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Facility Comfort Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: spa_facility_condition
+      label: spa_facility_condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: temperature_control
+      label: temperature_control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: ambiance
+      label: ambiance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: spa_facility_condition_humidity
+      label: humidity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: spa_facility_condition_lighting
+      label: lighting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: spa_facility_condition_noise
+      label: noise
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: spa_facility_condition_clarity
+      label: clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: spa_facility_condition_air_quality
+      label: air_quality
+      hint: null
+      type: number
+      options: []
+      required: false

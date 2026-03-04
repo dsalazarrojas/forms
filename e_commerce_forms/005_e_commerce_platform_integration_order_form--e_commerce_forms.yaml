@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_platform_integration_order_form
+    pages:
+    - id: 1
+      name: platform_details
+      label: Platform Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: integration_method
+      label: Integration Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''API''}'
+      - '{''value'': ''SDK''}'
+      - '{''value'': ''Custom Code''}'
+      - '{''value'': ''API and SDK''}'
+      required: false
+    - id: 3
+      name: platform_id
+      label: Platform ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: platform_name
+      label: Platform Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: platform_url
+      label: Platform URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: integration_notes
+      label: Integration Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: api_key
+      label: API Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: api_key_type
+      label: API Key Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Public''}'
+      - '{''value'': ''Private''}'
+      - '{''value'': ''Server-to-Server''}'
+      required: false
+    - id: 9
+      name: api_key_info
+      label: API Key Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: integration_status
+      label: Integration Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Failed''}'
+      required: false
+    - id: 11
+      name: integration_date
+      label: Integration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''UTC''}'
+      - '{''value'': ''EST''}'
+      - '{''value'': ''EST5EDT''}'
+      - '{''value'': ''CST''}'
+      - '{''value'': ''PST''}'
+      required: false
+    - id: 13
+      name: timezone_offset
+      label: Time Zone Offset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: timezone_name
+      label: Time Zone Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Declaration Of Suitability Form
+    pages:
+    - id: 1
+      name: declaration_of_suitability_form
+      label: declaration_of_suitability_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: placement
+      label: placement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: activities
+      label: activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: signed_at
+      label: signed_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role_ids
+      label: role_ids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: false

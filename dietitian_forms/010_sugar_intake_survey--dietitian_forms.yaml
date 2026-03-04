@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugar Intake Survey
+    pages:
+    - id: 1
+      name: sugar_intake
+      label: Sugar Intake
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: frequency_of_sugar_consumption
+      label: sugar_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: added_sugars
+      label: added_sugars
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: daily_sugar_intake
+      label: daily_sugar_intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

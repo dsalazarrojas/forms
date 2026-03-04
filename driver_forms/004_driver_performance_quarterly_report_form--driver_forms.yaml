@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Performance Quarterly Report Form
+    pages:
+    - id: 1
+      name: driver_performance_quarterly_report_form
+      label: Driver Performance Quarterly Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_quarter
+      label: Performance Quarter
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 4
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: performance_score
+      label: Performance Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: performance_comments
+      label: Performance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Purchase Order Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_1_price
+      label: Product 1 Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_1_quantity
+      label: Product 1 Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_2_price
+      label: Product 2 Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_2_quantity
+      label: Product 2 Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_3_price
+      label: Product 3 Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_3_quantity
+      label: Product 3 Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address_1
+      label: Shipping Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address_2
+      label: Shipping Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: paypal_email
+      label: PayPal Email
+      hint: Enter your PayPal email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: paypal_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      required: false
+    - id: 15
+      name: paypal_currency
+      label: Currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - CNY
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 17
+      name: paypal_total
+      label: PayPal Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: paypal_shipping_cost
+      label: PayPal Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: paypal_handling_cost
+      label: PayPal Handling Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: paypal_tax
+      label: PayPal Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: paypal_discount
+      label: PayPal Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: paypal_note
+      label: PayPal Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: paypal_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 24
+      name: paypal_success
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: paypal_failure
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

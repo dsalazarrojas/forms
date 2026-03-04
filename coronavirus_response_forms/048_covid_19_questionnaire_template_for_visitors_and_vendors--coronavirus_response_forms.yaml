@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Questionnaire Template For Visitors And Vendors
+    pages:
+    - id: 1
+      name: section_visitor_details
+      label: -- Visitor or Vendor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visitor_type
+      label: Type of Visit
+      hint: null
+      type: select_one
+      options:
+      - Vendor or supplier
+      - Client or customer
+      - Service provider
+      - Delivery
+      - Contractor
+      - Guest
+      - Other
+      required: true
+    - id: 7
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_health_screening
+      label: -- Health Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fever
+      label: Do you have a fever or elevated temperature?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 10
+      name: cough
+      label: Do you have a cough or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: sore_throat
+      label: Do you have a sore throat or body aches?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: taste_smell
+      label: Have you lost your sense of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: section_exposure_history
+      label: -- Exposure History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: covid_diagnosis
+      label: Have you tested positive for COVID-19 in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 15
+      name: close_contact
+      label: Have you been in close contact with a COVID-19 positive person?
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 16
+      name: travel_exposure
+      label: Have you traveled to a high-risk COVID-19 area recently?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: section_attestation
+      label: -- Visitor Attestation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: accurate_answers
+      label: I confirm that my answers are truthful and accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: follow_safety
+      label: I agree to follow all facility safety guidelines during my visit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: mask_compliance
+      label: I agree to wear a mask if required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - As needed
+      required: true
+    - id: 21
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true

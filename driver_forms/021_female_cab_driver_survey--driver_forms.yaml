@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Female Cab Driver Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: Female Cab Driver Survey
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: driving_history
+      label: driving_history
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''1-5 Years'', ''value'': ''5 years''}'
+      - '{''id'': 2, ''label'': ''5-10 Years'', ''value'': ''10 years''}'
+      - '{''id'': 3, ''label'': ''More than 10 Years'', ''value'': ''more than 10
+        years''}'
+      required: false
+    - id: 6
+      name: work_hours
+      label: Hours Worked
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than 2 hours'', ''value'': ''less than 2''}'
+      - '{''id'': 2, ''label'': ''2-10 hours'', ''value'': ''2-10 hours''}'
+      - '{''id'': 3, ''label'': ''More than 10 hours'', ''value'': ''more than 10
+        hours''}'
+      required: false
+    - id: 7
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tips
+      label: Tips
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sedan'', ''value'': ''sedan''}'
+      - '{''id'': 2, ''label'': ''SUV'', ''value'': ''suv''}'
+      - '{''id'': 3, ''label'': ''Truck'', ''value'': ''truck''}'
+      - '{''id'': 4, ''label'': ''Motorcycle'', ''value'': ''motorcycle''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male'', ''value'': ''male''}'
+      - '{''id'': 2, ''label'': ''Female'', ''value'': ''female''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false

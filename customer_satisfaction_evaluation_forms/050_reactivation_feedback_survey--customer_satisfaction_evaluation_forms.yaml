@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reactivation Feedback Survey
+    pages:
+    - id: 1
+      name: reactivation_feedback_survey_page1
+      label: reactivation_feedback_survey_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_support_experience
+      label: customer_support_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_to_fill_out_survey
+      label: time_to_fill_out_survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: how_much_time_spent_survey
+      label: how_much_time_spent_survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: would_recommend
+      label: would_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: reactivation_method
+      label: reactivation_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: job_title_other
+      label: job_title_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: reactivation_survey_important
+      label: reactivation_survey_important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 23
+      name: reactivation_survey_easy_to_fill
+      label: reactivation_survey_easy_to_fill
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: reactivation_survey_helpful
+      label: reactivation_survey_helpful
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: comments_important
+      label: comments_important
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_option
+      label: Delivery Option
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: time_period
+      label: Time Period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 18
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 19
+      name: email_client
+      label: Email Client
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: phone_client
+      label: Phone Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: file_client
+      label: File Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: upload_file_client
+      label: Upload File Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: select_multiple_client
+      label: Select Multiple Client
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 24
+      name: decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: true

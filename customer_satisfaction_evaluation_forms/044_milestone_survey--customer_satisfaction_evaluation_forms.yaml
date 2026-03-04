@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milestone Survey
+    pages:
+    - id: 1
+      name: milestone_survey_form
+      label: Milestone survey form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: Customer satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''name'': ''Very good'', ''label'': ''Very good''}'
+      - '{''id'': 12, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 13, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      required: false
+    - id: 3
+      name: milestone_survey_date
+      label: Milestone survey date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: milestone_survey_time
+      label: Milestone survey time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: milestone_survey_note
+      label: Milestone survey note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_satisfaction_evaluation
+      label: Customer satisfaction evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: minimalist_survey
+      label: Minimalist survey
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 31, ''name'': ''Very good'', ''label'': ''Very good''}'
+      - '{''id'': 32, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 33, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      required: false
+    - id: 8
+      name: milestone_survey_phone
+      label: Milestone survey phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: milestone_survey_email
+      label: Milestone survey email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: milestone_survey_address
+      label: Milestone survey address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: milestone_survey_city
+      label: Milestone survey city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: milestone_survey_country
+      label: Milestone survey country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 41, ''name'': ''Thailand'', ''label'': ''Thailand''}'
+      - '{''id'': 42, ''name'': ''USA'', ''label'': ''USA''}'
+      - '{''id'': 43, ''name'': ''Australia'', ''label'': ''Australia''}'
+      required: false

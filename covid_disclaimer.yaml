@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID Disclaimer
+    pages:
+    - id: 1
+      name: user_input_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: user_input_5
+      label: confirm_email_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_input_6
+      label: agree
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''I have been fully vaccinated''}'
+      - '{''text'': ''I have received one dose''}'
+      - '{''text'': ''I have received no vaccination''}'
+      required: false
+    - id: 7
+      name: user_input_7
+      label: agree_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_input_8
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: user_input_9
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

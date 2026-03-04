@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer And Contract Details Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_type
+      label: contract_type
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      required: true
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contract_status
+      label: contract_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: contract_notes
+      label: contract_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_address2
+      label: customer_address2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_country
+      label: customer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contract_start_time
+      label: contract_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: contract_end_time
+      label: contract_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_postal_code
+      label: customer_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_country_code
+      label: customer_country_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contract_description
+      label: contract_description
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Daycare Reservation Form
+    pages:
+    - id: 1
+      name: reservation_form
+      label: Reservation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_details
+      label: Dog Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_selected
+      label: Services Selected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_service
+      label: Date Of Service
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_service
+      label: Time Of Service
+      hint: null
+      type: time
+      options: []
+      required: false

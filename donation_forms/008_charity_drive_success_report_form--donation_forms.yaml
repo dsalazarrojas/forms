@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Drive Success Report Form
+    pages:
+    - id: 1
+      name: section_report_summary
+      label: -- Report Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_event_name
+      label: Name of Charity Drive
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_fundraising_stats
+      label: -- Fundraising Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_funds_raised
+      label: Total Funds Raised ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: number_of_donors
+      label: Total Number of Donors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: goal_attained
+      label: Was the fundraising goal met
+      hint: null
+      type: select_one
+      options:
+      - Goal Exceeded
+      - Goal Met
+      - Goal Not Met
+      required: true
+    - id: 9
+      name: section_engagement_stats
+      label: -- Participant Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_hours_total
+      label: Total Volunteer Hours Logged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: new_supporter_count
+      label: Number of First-Time Supporters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_reach_est
+      label: Estimated People Reached
+      hint: Through marketing and outreach
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_analysis
+      label: -- Performance Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: top_success_factors
+      label: What were the top success factors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: major_challenges
+      label: Major Challenges Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: donor_satisfaction_summary
+      label: Summary of Donor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: future_recommendations
+      label: Recommendations for Future Drives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true

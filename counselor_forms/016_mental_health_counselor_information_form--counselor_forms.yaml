@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Counselor Information Form
+    pages:
+    - id: 1
+      name: mental_health_counselor_information_form
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_condition
+      label: client_mental_health_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health_counselor_relationship
+      label: counselor_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mental_health_counselor_certifications
+      label: mental_health_counselor_certifications
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''LCSW''}'
+      - '{''value'': ''LPCC''}'
+      - '{''value'': ''LMFT''}'
+      - '{''value'': ''LMFT-Associate''}'
+      - '{''value'': ''MFT''}'
+      - '{''value'': ''MFT-Associate''}'
+      - '{''value'': ''MFT-Assistant''}'
+      required: false
+    - id: 6
+      name: mental_health_counselor_experience
+      label: mental_health_counselor_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mental_health_counselor_education
+      label: mental_health_counselor_education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_counselor_licensing
+      label: mental_health_counselor_licensing
+      hint: null
+      type: text
+      options: []
+      required: false

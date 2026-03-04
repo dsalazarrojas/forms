@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pledge Form
+    pages:
+    - id: 1
+      name: section_pledger_info
+      label: -- Pledger Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_pledge_commitment
+      label: -- Pledge Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pledge_text
+      label: I pledge to do the following to fight COVID-19
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_commitments
+      label: -- My Commitments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: stay_home_sick
+      label: I will stay home when I am sick
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: wear_mask
+      label: I will wear a mask when around others
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: social_distance
+      label: I will practice social distancing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: hand_hygiene
+      label: I will maintain proper hand hygiene
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: vaccination
+      label: I will get vaccinated when eligible
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 18
+      name: section_additional_actions
+      label: -- Additional Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_commitments
+      label: Other ways I will help fight COVID-19
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: spread_awareness
+      label: I will help spread awareness and accurate information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: support_vulnerable
+      label: I will support vulnerable populations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: section_signature
+      label: -- Pledge Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: pledge_date
+      label: Pledge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: agreement
+      label: I solemnly pledge to follow through with these commitments
+      hint: null
+      type: select_one
+      options:
+      - Yes, I pledge
+      - No, I do not pledge
+      required: true

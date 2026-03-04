@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Price Tracking Form
+    pages:
+    - id: 1
+      name: fuel_price_tracking_form
+      label: Fuel Price Tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Diesel''}'
+      - '{''id'': 2, ''label'': ''Petrol''}'
+      - '{''id'': 3, ''label'': ''Hydrogen''}'
+      required: false
+    - id: 3
+      name: price_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false

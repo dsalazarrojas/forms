@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heavy Vehicle Rescue Course Feedback
+    pages:
+    - id: 1
+      name: course_ratings
+      label: Course Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: improvement_notes
+      label: Improvement Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

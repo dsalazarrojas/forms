@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Decathlon Sponsorship Form
+    pages:
+    - id: 1
+      name: section_sponsor_details
+      label: -- Sponsor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor name
+      hint: Individual or organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for sponsorship correspondence
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For invoice and communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sponsorship_level
+      label: Sponsorship level
+      hint: Select the level of sponsorship
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - Custom
+      required: true
+    - id: 6
+      name: sponsorship_amount
+      label: Sponsorship amount
+      hint: Enter pledged amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: recognition_preference
+      label: Recognition preference
+      hint: How the sponsor wishes to be recognized
+      type: select_multiple
+      options:
+      - Program materials
+      - Website
+      - Event signage
+      - Social media
+      - No public recognition
+      required: false
+    - id: 8
+      name: payment_method
+      label: Preferred payment method
+      hint: Choose preferred payment method
+      type: select_one
+      options:
+      - Bank transfer
+      - Check
+      - Credit card
+      - Invoice
+      required: true
+    - id: 9
+      name: billing_address
+      label: Billing address
+      hint: Address for invoicing
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes or instructions
+      hint: Any special requests or terms
+      type: text
+      options: []
+      required: false

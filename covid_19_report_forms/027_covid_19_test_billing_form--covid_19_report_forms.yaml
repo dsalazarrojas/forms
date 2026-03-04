@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Test Billing Form
+    pages:
+    - id: 1
+      name: billing_date
+      label: Billing Date
+      hint: Date of billing
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: insurance_policy_number
+      label: Policy or Member ID Number
+      hint: Insurance ID
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_group_number
+      label: Group Number
+      hint: Group ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: If different from patient
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: policy_holder_dob
+      label: Policy Holder Date of Birth
+      hint: If different from patient
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: policy_holder_relationship
+      label: Relationship to Patient
+      hint: Policy holder relationship
+      type: select_one
+      options:
+      - Self
+      - Spouse
+      - Parent
+      - Child
+      - Other
+      required: false
+    - id: 18
+      name: secondary_insurance
+      label: Do you have secondary insurance
+      hint: Additional coverage
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: secondary_insurance_provider
+      label: Secondary Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: secondary_policy_number
+      label: Secondary Policy Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_type_billed
+      label: Type of COVID-19 Test
+      hint: Test performed
+      type: select_one
+      options:
+      - PCR molecular test
+      - Rapid antigen test
+      - Rapid PCR test
+      - Antibody test
+      - Home collection test
+      required: true
+    - id: 22
+      name: test_date
+      label: Date of Test
+      hint: When test was performed
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: ordering_provider_npi
+      label: Ordering Provider NPI Number
+      hint: National Provider Identifier
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: billing_code
+      label: CPT or Billing Code
+      hint: Procedure code
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: diagnosis_code
+      label: ICD-10 Diagnosis Code
+      hint: Diagnosis code
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: test_reason
+      label: Reason for Test
+      hint: Medical necessity
+      type: select_one
+      options:
+      - Symptomatic patient
+      - Close contact exposure
+      - Pre-procedure screening
+      - Healthcare worker screening
+      - Travel requirement
+      - Work requirement
+      - School requirement
+      - Patient request
+      required: true
+    - id: 27
+      name: insurance_authorization
+      label: Was prior authorization obtained
+      hint: Pre-authorization
+      type: select_one
+      options:
+      - Not required
+      - Yes obtained
+      - No not obtained
+      - Pending
+      required: false
+    - id: 28
+      name: authorization_number
+      label: Authorization Number
+      hint: If obtained
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: patient_responsibility
+      label: Patient Financial Responsibility
+      hint: Amount owed by patient
+      type: select_one
+      options:
+      - No patient responsibility - fully covered
+      - Copay only
+      - Deductible applies
+      - Coinsurance applies
+      - Self-pay - no insurance
+      required: true
+    - id: 30
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will patient pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - HSA or FSA card
+      - Check
+      - Cash
+      - Payment plan
+      required: false
+    - id: 31
+      name: billing_address_same
+      label: Is billing address same as home address
+      hint: Address confirmation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: billing_address
+      label: Billing Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Billing Information
+      hint: Other details
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: financial_responsibility_agreement
+      label: I agree to pay any charges not covered by insurance
+      hint: Financial agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Feedback Follow Up Checklist
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interaction_date
+      label: Date of Interaction
+      hint: When did the interaction occur?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interaction_type
+      label: Type of Interaction
+      hint: What type of contact?
+      type: select_one
+      options:
+      - Phone Call
+      - Email Exchange
+      - In Person Meeting
+      - Video Conference
+      - Support Ticket
+      - Live Chat
+      - Other
+      required: true
+    - id: 7
+      name: staff_member
+      label: Staff Member Who Assisted
+      hint: Who helped you?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_resolved
+      label: Was Your Issue Resolved?
+      hint: Resolution status
+      type: select_one
+      options:
+      - Yes, Completely
+      - Yes, Partially
+      - No, Still Pending
+      - No Resolution Needed
+      required: true
+    - id: 9
+      name: resolution_satisfaction
+      label: Satisfaction With Resolution
+      hint: How satisfied are you?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 10
+      name: response_time
+      label: Response Time Rating
+      hint: How quickly did we respond?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: staff_professionalism
+      label: Staff Professionalism Rating
+      hint: Professional behavior
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: staff_knowledge
+      label: Staff Knowledge Rating
+      hint: How knowledgeable was the staff?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: communication_clarity
+      label: Communication Clarity Rating
+      hint: How clear was the communication?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: follow_up_needed
+      label: Is Follow-Up Needed?
+      hint: Additional action required?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: follow_up_type
+      label: Type of Follow-Up Needed
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_timeline
+      label: Expected Follow-Up Timeline
+      hint: When should we follow up?
+      type: select_one
+      options:
+      - Within 24 Hours
+      - Within 48 Hours
+      - Within 1 Week
+      - Within 2 Weeks
+      - No Rush
+      - Not Applicable
+      required: false
+    - id: 17
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can we do better?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: Your overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: likely_to_return
+      label: How Likely Are You to Contact Us Again?
+      hint: Future interaction
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 21
+      name: checklist_completion_date
+      label: Checklist Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

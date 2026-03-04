@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mid Semester Course Evaluation Form
+    pages:
+    - id: 1
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learning_experience
+      label: Learning Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 4-Star
+      - 5-Star
+      - 3-Star
+      - 2-Star
+      - 1-Star
+      required: false
+    - id: 3
+      name: timely_course_improvement
+      label: Timely Course Improvement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: midterm_assessment
+      label: Midterm Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_improvement
+      label: How can we improve the course
+      hint: Please provide specific details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: instructor_support
+      label: Instructor Support
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: course_format
+      label: Course Format
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: false
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 10
+      name: course_materials
+      label: Course Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: instructor_presence
+      label: Instructor Presence
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: peer_presence
+      label: Peer Presence
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: course_structure
+      label: Course Structure
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: learning_outcome
+      label: Overall Learning Outcome
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: future_planning
+      label: Future Course Planning
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

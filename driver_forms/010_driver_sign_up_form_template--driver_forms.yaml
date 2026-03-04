@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_sign_up_form_template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your company email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: license_number
+      label: License Number
+      hint: Enter your driver license number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: Upload your resume
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: driving_license_number
+      label: Driving License Number
+      hint: Enter your driving license number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Select your vehicle type
+      type: select_one
+      options:
+      - '{''label'': ''Car'', ''value'': ''car''}'
+      - '{''label'': ''Truck'', ''value'': ''truck''}'
+      - '{''label'': ''Tractor'', ''value'': ''tractor''}'
+      - '{''label'': ''Motorcycle'', ''value'': ''motorcycle''}'
+      required: false

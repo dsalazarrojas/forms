@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Service Center Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Family Support
+      - Child Support
+      - Parenting
+      - Other
+      required: true
+    - id: 7
+      name: family_status
+      label: Family Status
+      hint: null
+      type: select_multiple
+      options:
+      - Married
+      - Single
+      - Widowed
+      - Divorced
+      - Separated
+      required: false
+    - id: 8
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: family_size
+      label: Family Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: family_income
+      label: Family Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: participant_age_range
+      label: Participant Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 0-5
+      - 6-12
+      - 13-18
+      - 19-24
+      - 25-44
+      - 45-64
+      - 65+
+      required: false
+    - id: 16
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 17
+      name: participant_gender_range
+      label: Participant Gender Range
+      hint: null
+      type: select_multiple
+      options:
+      - Boy
+      - Girl
+      - Non-Binary
+      required: false
+    - id: 18
+      name: participant_race
+      label: Participant Race
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black or African American
+      - Asian
+      - Native Hawaiian or Other Pacific Islander
+      - American Indian or Alaska Native
+      - Some Other Race
+      - Multi-Racial
+      required: false
+    - id: 19
+      name: participant_ethnicity
+      label: Participant Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Not Hispanic or Latino
+      - Hispanic or Latino
+      required: false
+    - id: 20
+      name: participant_income_range
+      label: Participant Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $20,000
+      - $20,000 - $34,999
+      - $35,000 - $49,999
+      - $50,000 - $64,999
+      - $65,000 - $79,999
+      - $80,000 or more
+      required: false
+    - id: 21
+      name: participant_employment_status
+      label: Participant Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Unemployed
+      - Retired
+      - Student
+      - Disabled
+      - Other
+      required: false
+    - id: 22
+      name: participant_education
+      label: Participant Education
+      hint: null
+      type: select_multiple
+      options:
+      - Less than High School
+      - High School Grad
+      - Some College
+      - College Grad
+      - Post-Grad
+      - Other
+      required: false
+    - id: 23
+      name: participant_marital_status
+      label: Participant Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - Never Married
+      - Married
+      - Widowed
+      - Divorced
+      - Separated
+      required: false
+    - id: 24
+      name: participant_lived_in_county
+      label: Participant Lived In County
+      hint: null
+      type: select_multiple
+      options:
+      - Alameda
+      - Contra Costa
+      - San Francisco
+      - Other Counties
+      required: false
+    - id: 25
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other Language
+      required: false

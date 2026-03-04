@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Project Donation Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''Card Number'': [''Visa'', ''Mastercard'', ''American Express'']}'
+      - '{''Bank Transfer'': [''Online Banking'', ''Mobile Banking'']}'
+      - Cash
+      - Cheque
+      - Other
+      required: false
+    - id: 8
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state_province
+      label: state_province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - Canada
+      - United States
+      - Mexico
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

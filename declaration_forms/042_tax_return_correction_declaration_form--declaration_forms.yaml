@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_return_correction_declaration_form
+    pages:
+    - id: 1
+      name: tax_return_correction_declaration
+      label: tax return correction declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_return_corrections
+      label: tax return corrections
+      hint: null
+      type: select_multiple
+      options:
+      - correction_1
+      - correction_2
+      required: false
+    - id: 3
+      name: tax_return_correction_reason
+      label: tax return correction reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tax_return_correction_details
+      label: tax return correction details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: taxpayer_signature
+      label: taxpayer signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_return_correction_requestor
+      label: tax return correction requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: tax_return_correction_date
+      label: tax return correction date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tax_return_correction_time
+      label: tax return correction time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: tax_return_correction_status
+      label: tax return correction status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - declined
+      required: true
+    - id: 12
+      name: tax_return_corrections_comments
+      label: tax return corrections comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tax_return_correction_requester_signature
+      label: tax return correction requestor signature
+      hint: null
+      type: text
+      options: []
+      required: false

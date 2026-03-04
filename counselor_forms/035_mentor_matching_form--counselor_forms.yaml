@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Mentor Matching Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: Number of sessions in the matching process
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_goals
+      label: Session Goals
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: mentor_expertise
+      label: Mentor Expertise
+      hint: null
+      type: select_multiple
+      options:
+      - field1
+      - field2
+      - field3
+      required: false
+    - id: 4
+      name: matching_criteria
+      label: Matching Criteria
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: session_scheduling
+      label: Session Scheduling
+      hint: Date of first session
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_scheduling
+      label: Time Scheduling
+      hint: Time of first session
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: session_notes
+      label: Session Notes
+      hint: Session notes for the mentor and mentee
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mentee_feedback
+      label: Mentee Feedback
+      hint: Feedback from the mentee after the session
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mentee_comments
+      label: Mentee Comments
+      hint: Comments from the mentee after the session
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mentor_feedback
+      label: Mentor Feedback
+      hint: Feedback from the mentor after the session
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_completion
+      label: Form Completion
+      hint: Comments on the completion of the form
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus 19 Health Declaration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: travel_history
+      label: Travel history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_name
+      label: Healthcare provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_phone
+      label: Healthcare provider phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_email
+      label: Healthcare provider email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_address
+      label: Healthcare provider address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_number
+      label: Emergency contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_history_1
+      label: Travel history 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_history_2
+      label: Travel history 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_history_3
+      label: Travel history 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: healthcare_provider_notes
+      label: Healthcare provider notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_signature
+      label: Patient signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: healthcare_provider_signature
+      label: Healthcare provider signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: healthcare_provider_license_number
+      label: Healthcare provider license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider_license_state
+      label: Healthcare provider license state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider_license_number_issued
+      label: Healthcare provider license number issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: healthcare_provider_address
+      label: Healthcare provider address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - I have read the declaration and I am aware that I am not under any obligation
+        to make a false statement
+      - I have not read the declaration
+      required: true

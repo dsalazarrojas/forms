@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_user_satisfaction_evaluation_form
+    pages:
+    - id: 1
+      name: customer_service
+      label: Customer service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resolution
+      label: Resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

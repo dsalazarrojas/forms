@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dependent Details Declaration Form
+    pages:
+    - id: 1
+      name: dependent_info
+      label: dependent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Spouse''}'
+      - Parent
+      - Child
+      - Partner
+      - Other
+      required: false
+    - id: 3
+      name: dependent_name
+      label: dependent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dependent_dob
+      label: dependent_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: dependent_ssn
+      label: dependent_ssn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dependent_occupation
+      label: dependent_occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dependent_education
+      label: dependent_education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dependent_education_level
+      label: dependent_education_level
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''High school''}'
+      - College
+      - University
+      required: false
+    - id: 9
+      name: dependent_employment_status
+      label: dependent_employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Working''}'
+      - Not Working
+      - Disabled
+      required: false
+    - id: 10
+      name: dependent_income
+      label: dependent_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: document_upload_1
+      label: document_upload_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: document_upload_2
+      label: document_upload_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: e_signature_1
+      label: e_signature_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: e_signature_2
+      label: e_signature_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

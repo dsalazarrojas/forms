@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial_advisory_discharge_form
+    pages:
+    - id: 1
+      name: end_of_relationship
+      label: end_of_relationship
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: financial_institution
+      label: financial_institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: institution_id
+      label: institution_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: financial_institution_type
+      label: financial_institution_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: advisory_discharge_date
+      label: advisory_discharge_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: advisory_discharge_note
+      label: advisory_discharge_note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false

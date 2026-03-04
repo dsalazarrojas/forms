@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Complaint Form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_description
+      label: complaint_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 101, ''name'': ''Technical Issue'', ''value'': ''Technical Issue''}'
+      - '{''id'': 102, ''name'': ''Non-Technical Issue'', ''value'': ''Non-Technical
+        Issue''}'
+      - '{''id'': 103, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: complaint_category
+      label: complaint_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 201, ''name'': ''Customer Support'', ''value'': ''Customer Support''}'
+      - '{''id'': 202, ''name'': ''Sales'', ''value'': ''Sales''}'
+      - '{''id'': 203, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: text
+      options: []
+      required: false

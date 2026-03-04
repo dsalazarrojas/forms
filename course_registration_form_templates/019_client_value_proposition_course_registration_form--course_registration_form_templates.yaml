@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Value Proposition Course Registration Form
+    pages:
+    - id: 1
+      name: personal_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization/Company
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_section
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: course_format
+      label: Preferred course format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Hybrid
+      - Self-paced
+      required: true
+    - id: 11
+      name: start_date
+      label: Preferred start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: experience_section
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: experience_level
+      label: Your experience level with this topic
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: background
+      label: Relevant background or skills
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: goals_section
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: course_goals
+      label: What do you hope to achieve from this course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: specific_topics
+      label: Specific topics you want to cover
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: motivation_section
+      label: -- Motivation and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_course
+      label: Why are you interested in this course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: commitment_level
+      label: How committed are you to completing this course?
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 21
+      name: time_availability
+      label: Hours per week available for coursework
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: additional_questions
+      label: Additional questions or comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

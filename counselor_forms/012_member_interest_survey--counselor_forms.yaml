@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Interest Survey
+    pages:
+    - id: 1
+      name: page_one
+      label: page_one
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_preferences
+      label: member_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: select_events
+      label: what_events_are_you_interested_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: select_programs
+      label: what_programs_are_you_interested_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: section_trends
+      label: trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: select_services
+      label: what_services_are_you_interested_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: section_communication
+      label: communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_events
+      label: events
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: section_programs_2
+      label: program
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

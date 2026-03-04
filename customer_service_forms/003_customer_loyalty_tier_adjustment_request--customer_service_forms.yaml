@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Tier Adjustment Request
+    pages:
+    - id: 1
+      name: customer_loyalty_tier_adjustment_request
+      label: Customer Loyalty Tier Adjustment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loyalty_tier_id
+      label: loyalty_tier_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loyalty_tier_name
+      label: loyalty_tier_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_adjustment
+      label: reason_for_adjustment
+      hint: null
+      type: select_one
+      options:
+      - '1: Tier 1'
+      - '2: Tier 2'
+      - '3: Tier 3'
+      - '4: Tier 4'
+      - '5: Tier 5'
+      required: false
+    - id: 5
+      name: adjustment_amount
+      label: adjustment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: current_loyalty_tier
+      label: current_loyalty_tier
+      hint: null
+      type: select_one
+      options:
+      - '1: Tier 1'
+      - '2: Tier 2'
+      - '3: Tier 3'
+      - '4: Tier 4'
+      - '5: Tier 5'
+      required: false
+    - id: 7
+      name: new_loyalty_tier
+      label: new_loyalty_tier
+      hint: null
+      type: select_one
+      options:
+      - '1: Tier 1'
+      - '2: Tier 2'
+      - '3: Tier 3'
+      - '4: Tier 4'
+      - '5: Tier 5'
+      required: false
+    - id: 8
+      name: date_of_change
+      label: date_of_change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_change
+      label: time_of_change
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

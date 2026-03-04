@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fin Order Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fin_type
+      label: fin_type
+      hint: null
+      type: select_multiple
+      options:
+      - Fin Type 1
+      - Fin Type 2
+      - Fin Type 3
+      - Fin Type 4
+      - Fin Type 5
+      required: false
+    - id: 8
+      name: fin_color
+      label: fin_color
+      hint: null
+      type: select_one
+      options:
+      - Color 1
+      - Color 2
+      - Color 3
+      - Color 4
+      required: true
+    - id: 9
+      name: fin_size
+      label: fin_size
+      hint: null
+      type: select_one
+      options:
+      - Size 1
+      - Size 2
+      - Size 3
+      - Size 4
+      required: true
+    - id: 10
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: order_note
+      label: order_note
+      hint: null
+      type: text
+      options: []
+      required: false

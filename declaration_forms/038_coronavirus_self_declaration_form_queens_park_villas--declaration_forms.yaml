@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_self_declaration_form_queens_park_villas
+    pages:
+    - id: 1
+      name: coronavirus_self_declaration_form_queens_park_villas
+      label: coronavirus_self_declaration_form_queens_park_villas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coronavirus_self_declaration_form_queens_park_villas_page_1
+      label: declaration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1
+      label: declaration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_1
+      label: have_covid_symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_2
+      label: travel_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_3
+      label: fever
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_4
+      label: contact
+      hint: null
+      type: select_multiple
+      options:
+      - No contacts
+      - Has some contacts
+      - Many contacts
+      required: false
+    - id: 8
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_5
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_6
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_7
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: coronavirus_self_declaration_form_queens_park_villas_form_1_question_8
+      label: travel_country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Other
+      required: false

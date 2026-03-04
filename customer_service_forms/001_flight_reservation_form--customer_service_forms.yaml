@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Reservation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flight_number
+      label: Flight Number
+      hint: prophets
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''AA123''}'
+      - '{''id'': 2, ''name'': ''AA456''}'
+      required: true
+    - id: 6
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: travel_class
+      label: Travel Class
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Economy''}'
+      - '{''id'': 2, ''name'': ''Business''}'
+      - '{''id'': 3, ''name'': ''First Class''}'
+      required: true
+    - id: 10
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: arrival_port
+      label: Arrival Port
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: departure_port
+      label: Departure Port
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''On Time''}'
+      - '{''id'': 2, ''name'': ''Delayed''}'
+      - '{''id'': 3, ''name'': ''Boarding Closed''}'
+      required: true
+    - id: 18
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: passenger_type
+      label: Passenger Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

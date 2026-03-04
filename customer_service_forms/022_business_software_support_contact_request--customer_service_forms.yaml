@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Software Support Contact Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Full Name
+      hint: Name of support requester
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Your email for support contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account or Customer Number
+      hint: Your account ID if available
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_issue_type
+      label: Type of Support Issue
+      hint: What kind of issue do you have
+      type: select_one
+      options:
+      - Technical Issue
+      - Feature Request
+      - Bug Report
+      - Account Problem
+      - Billing Question
+      - General Inquiry
+      - Performance Issue
+      required: true
+    - id: 7
+      name: software_product
+      label: Software Product
+      hint: Which product are you using
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: software_version
+      label: Software Version
+      hint: What version are you running
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: How urgent is this issue
+      type: select_one
+      options:
+      - Critical - System Down
+      - High - Major Issue
+      - Medium - Moderate Impact
+      - Low - Minor Issue
+      required: true
+    - id: 10
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: error_message
+      label: Error Message or Code
+      hint: Any error messages received
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: steps_to_reproduce
+      label: Steps to Reproduce Issue
+      hint: How can we reproduce this issue
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: operating_system
+      label: Operating System
+      hint: What OS are you using
+      type: select_one
+      options:
+      - Windows
+      - Mac OS
+      - Linux
+      - iOS
+      - Android
+      - Web Browser
+      required: false
+    - id: 14
+      name: browser_type
+      label: Browser Type
+      hint: If web-based, what browser
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Other
+      required: false
+    - id: 15
+      name: attachments
+      label: Attachments or Screenshots
+      hint: Attach files to help explain the issue
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_contact_preference
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      - No Contact Needed
+      required: true
+    - id: 17
+      name: available_for_followup
+      label: Available for Follow-up
+      hint: When are you available
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: request_submission_date
+      label: Support Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

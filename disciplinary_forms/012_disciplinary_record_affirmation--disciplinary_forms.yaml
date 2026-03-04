@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Record Affirmation
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: 24h format
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - verbal warning
+      - written warning
+      - suspension
+      - termination
+      required: false
+    - id: 6
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_participants
+      label: Incident Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - pending
+      - pending review
+      required: false
+    - id: 9
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_taken_by
+      label: Action Taken by
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - supervisor
+      - manager
+      required: false
+    - id: 11
+      name: disciplinary_record_id
+      label: Disciplinary Record ID
+      hint: null
+      type: number
+      options: []
+      required: false

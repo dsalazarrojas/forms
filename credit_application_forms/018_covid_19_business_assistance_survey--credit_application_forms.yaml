@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Business Assistance Survey
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_owner_name
+      label: Business Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: business_phone
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Type of Business
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Food and Beverage
+      - Professional Services
+      - Manufacturing
+      - Healthcare
+      - Education
+      - Hospitality
+      - Other
+      required: true
+    - id: 6
+      name: business_location
+      label: Business Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: annual_revenue_before_covid
+      label: Annual Revenue Before COVID-19
+      hint: Approximate annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: covid_impact_level
+      label: Impact of COVID-19 on Business
+      hint: null
+      type: select_one
+      options:
+      - Severely affected
+      - Moderately affected
+      - Slightly affected
+      - No impact
+      - Positive impact
+      required: true
+    - id: 10
+      name: revenue_loss_percentage
+      label: Estimated Revenue Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: operational_changes
+      label: Operational Changes Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Temporary closure
+      - Reduced hours
+      - Shift to remote work
+      - Reduced staff
+      - Supply chain disruptions
+      - Increased operational costs
+      - None
+      required: true
+    - id: 12
+      name: financial_assistance_needed
+      label: Type of Financial Assistance Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emergency loan
+      - Grant
+      - Payroll assistance
+      - Rent assistance
+      - Utility assistance
+      - Equipment support
+      - Other
+      required: true
+    - id: 13
+      name: assistance_received
+      label: Have you received any pandemic assistance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: assistance_type
+      label: Type of Assistance Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: challenges_faced
+      label: Main Challenges Faced
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recovery_timeline
+      label: Expected Recovery Timeline
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - Longer than 2 years
+      - Uncertain
+      required: true
+    - id: 17
+      name: support_needed
+      label: What support would help most?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: future_outlook
+      label: Business Outlook
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very negative
+      required: true

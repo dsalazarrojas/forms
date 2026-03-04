@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: disaster_preparedness_kit_donation_form
+    pages:
+    - id: 1
+      name: donor_details
+      label: donor_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_supply
+      label: emergency_supply
+      hint: null
+      type: select_one
+      options:
+      - Water
+      - Food
+      - First Aid Kit
+      - Tent
+      - Battery Kit
+      - Personal Protective Equipment
+      - Other
+      - 'Other ( specify: )'
+      required: true
+    - id: 6
+      name: other_supplies
+      label: other_supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - In-person
+      - Other
+      required: true
+    - id: 9
+      name: confirmation_method
+      label: confirmation_method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - In-person
+      - Other
+      required: false
+    - id: 10
+      name: other_confirmation_method
+      label: other_confirmation_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_acknowledges_donation
+      label: donor_acknowledges_donation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true

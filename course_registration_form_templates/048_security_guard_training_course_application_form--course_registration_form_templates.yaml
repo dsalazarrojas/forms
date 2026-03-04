@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Guard Training Course Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: course_start_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: security_guard_license_number
+      label: Security Guard License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: security_guard_training_course
+      label: Security Guard Training Course
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Training
+      - Advanced Training
+      - Specialized Training
+      required: false

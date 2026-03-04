@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Questionnaire
+    pages:
+    - id: 1
+      name: relationship_feelings
+      label: Relationship Feelings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_interests
+      label: partner_interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: relationship_type
+      label: relationship_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Romantic''}'
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Friend''}'
+      required: true
+    - id: 4
+      name: partner_satisfaction
+      label: partner_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: relationship_length
+      label: relationship_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: conflict_type
+      label: conflict_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feelings_type
+      label: feelings_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Happy''}'
+      - '{''label'': ''Sad''}'
+      - '{''label'': ''Neutral''}'
+      required: true
+    - id: 8
+      name: feelings_frequency
+      label: feelings_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: feelings_intensity
+      label: feelings_intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: relationship_duration
+      label: relationship_duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: feelings_description
+      label: feelings_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feelings_important
+      label: feelings_important
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 13
+      name: partner_feelings
+      label: partner_feelings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: relationship_quality
+      label: relationship_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 15
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: feelings_satisfied
+      label: feelings_satisfied
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: feelings_important
+      label: feelings_important
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 18
+      name: relationship_quality_status
+      label: relationship_quality_status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 19
+      name: feelings_duration
+      label: feelings_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: feelings_frequency_status
+      label: feelings_frequency_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: feelings_type_status
+      label: feelings_type_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: feelings_frequency_type
+      label: feelings_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: relationship_duration_status
+      label: relationship_duration_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: feelings_description_status
+      label: feelings_description_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: partner_feelings_status
+      label: partner_feelings_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

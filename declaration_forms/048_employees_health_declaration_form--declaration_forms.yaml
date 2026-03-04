@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employees Health Declaration Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Healthy''}'
+      - '{''id'': 200, ''label'': ''Sick''}'
+      required: false
+    - id: 5
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 300, ''label'': ''Active''}'
+      - '{''id'': 400, ''label'': ''Inactive''}'
+      - '{''id'': 500, ''label'': ''Retired''}'
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

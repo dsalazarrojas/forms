@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Cleanup Donation Form
+    pages:
+    - id: 1
+      name: environmental_cleanup_donation_form_1
+      label: Environmental
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: environmental_cleanup_donation_form_2
+      label: Cleanup
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: environmental_cleanup_donation_form_3
+      label: Initiative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: environmental_cleanup_donation_form_4
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: environmental_cleanup_donation_form_5
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: environmental_cleanup_donation_form_6
+      label: Payment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: environmental_cleanup_donation_form_7
+      label: Donation
+      hint: null
+      type: date
+      options: []
+      required: false

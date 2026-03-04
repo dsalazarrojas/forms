@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: intervention planning form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: client info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: family_history
+      label: family history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mental_health
+      label: mental health
+      hint: null
+      type: select_one
+      options:
+      - none
+      - current
+      - history
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: substance_history
+      label: substance history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_planning
+      label: treatment planning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: family_dynamics
+      label: family dynamics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: social_support
+      label: social support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: intervention_plan
+      label: intervention plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assessment
+      label: assessment
+      hint: null
+      type: select_one
+      options:
+      - none
+      - 'yes'
+      - unknown
+      required: false
+    - id: 13
+      name: follow_up
+      label: follow up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: follow up frequency
+      hint: daily
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_method
+      label: follow up method
+      hint: null
+      type: text
+      options: []
+      required: false

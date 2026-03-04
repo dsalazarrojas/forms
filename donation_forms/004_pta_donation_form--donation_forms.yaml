@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: pta_donation_form
+    pages:
+    - id: 1
+      name: donater_name
+      label: Donater Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: purpose_donation
+      label: Purpose of Donation
+      hint: null
+      type: select_one
+      options:
+      - School Programs
+      - School Events
+      - Other
+      required: true
+    - id: 6
+      name: donation_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_donated
+      label: Time of Donation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: method_donation
+      label: Method of Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Online Payment
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: amount_donated_us
+      label: Amount Donated (USD)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: amount_donated_can
+      label: Amount Donated (CAN)
+      hint: null
+      type: number
+      options: []
+      required: false

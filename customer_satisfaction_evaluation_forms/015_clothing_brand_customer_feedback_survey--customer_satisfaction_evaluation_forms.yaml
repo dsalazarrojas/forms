@@ -1,0 +1,276 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Brand Customer Feedback Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Optional - can be anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For future surveys and updates
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: section_purchase
+      label: -- Your Recent Purchase --
+      hint: Tell us about your last purchase
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you buy from us
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: purchase_location
+      label: Where did you purchase
+      hint: null
+      type: select_one
+      options:
+      - Online store
+      - Physical retail store
+      - Pop-up shop
+      - Third-party retailer
+      - Social media
+      required: true
+    - id: 6
+      name: item_type
+      label: Type of Item Purchased
+      hint: null
+      type: select_one
+      options:
+      - Shirt or Blouse
+      - Pants or Jeans
+      - Dress
+      - Jacket or Coat
+      - Accessory
+      - Shoes
+      - Activewear
+      - Other
+      required: true
+    - id: 7
+      name: section_product
+      label: -- Product Quality --
+      hint: Rate the quality of your purchase
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_quality
+      label: How would you rate the product quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 9
+      name: fit_satisfaction
+      label: How satisfied are you with the fit
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: material_quality
+      label: How would you rate the material quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: durability_expectation
+      label: How durable do you expect this item to be
+      hint: null
+      type: select_one
+      options:
+      - Very durable
+      - Somewhat durable
+      - Average durability
+      - Not very durable
+      - Likely to wear out quickly
+      required: true
+    - id: 12
+      name: value_for_money
+      label: Do you feel the price was good value
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Overpriced
+      - Very overpriced
+      required: true
+    - id: 13
+      name: section_experience
+      label: -- Shopping Experience --
+      hint: Rate your overall shopping experience
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ease_of_shopping
+      label: How easy was it to find what you needed
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 15
+      name: website_app_experience
+      label: Website or app experience was user-friendly
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: false
+    - id: 16
+      name: checkout_process
+      label: Checkout process was smooth and secure
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 17
+      name: shipping_speed
+      label: Shipping speed met your expectations
+      hint: null
+      type: select_one
+      options:
+      - Much faster than expected
+      - Faster than expected
+      - As expected
+      - Slower than expected
+      - Much slower than expected
+      required: true
+    - id: 18
+      name: packaging_quality
+      label: How would you rate the packaging
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 19
+      name: section_brand
+      label: -- Brand and Loyalty --
+      hint: Your thoughts on the brand
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: brand_perception
+      label: Overall impression of the brand
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 21
+      name: recommend_brand
+      label: Would you recommend us to others
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 22
+      name: repeat_purchase
+      label: Likelihood of purchasing again
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Uncertain
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 23
+      name: favorite_aspects
+      label: What do you like most about our brand
+      hint: null
+      type: select_multiple
+      options:
+      - Product quality
+      - Style or design
+      - Price point
+      - Sustainability
+      - Customer service
+      - Brand values
+      - Other
+      required: false
+    - id: 24
+      name: improvement_suggestions
+      label: What could we improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Any additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Awareness Course Submission
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Participant first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Participant last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Email for course materials
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address for certificate mailing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: course_type
+      label: Course Type
+      hint: Which course are you registering for?
+      type: select_one
+      options:
+      - Basic Alcohol Awareness
+      - Advanced Alcohol Education
+      - DUI/DWI Education Program
+      - Underage Drinking Prevention
+      - Workplace Alcohol Awareness
+      - Server/Seller Training
+      required: true
+    - id: 9
+      name: course_reason
+      label: Reason for Course
+      hint: Why are you taking this course?
+      type: select_one
+      options:
+      - Court-ordered
+      - Employer requirement
+      - School requirement
+      - Personal education
+      - License reinstatement
+      - Probation requirement
+      required: true
+    - id: 10
+      name: court_case_number
+      label: Court Case Number
+      hint: If court-ordered, enter case number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_course_date
+      label: Preferred Course Date
+      hint: When would you like to attend?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_course_time
+      label: Preferred Course Time
+      hint: Morning or afternoon session?
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (1 PM - 5 PM)
+      - Evening (6 PM - 9 PM)
+      - Full Day (9 AM - 5 PM)
+      - Online self-paced
+      required: true
+    - id: 13
+      name: course_format
+      label: Course Format
+      hint: How would you like to take the course?
+      type: select_one
+      options:
+      - In-person classroom
+      - Live online webinar
+      - Self-paced online
+      - Hybrid
+      required: true
+    - id: 14
+      name: language_preference
+      label: Language Preference
+      hint: Preferred language for instruction
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: true
+    - id: 15
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility requirements?
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair access
+      - Sign language interpreter
+      - Large print materials
+      - Hearing assistance
+      - Extra time for tests
+      - Other
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the course?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Court voucher
+      - Employer payment
+      - Self-pay
+      required: true
+    - id: 17
+      name: course_fee
+      label: Course Fee
+      hint: Total amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Source of referral
+      type: select_one
+      options:
+      - Court referral
+      - Attorney referral
+      - Employer
+      - Internet search
+      - Friend/Family
+      - Social media
+      - Other
+      required: false
+    - id: 19
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: Do you agree to the course terms?
+      type: select_one
+      options:
+      - Yes, I agree to all terms
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: cancellation_policy_acknowledgment
+      label: Cancellation Policy Acknowledgment
+      hint: Have you read the cancellation policy?
+      type: select_one
+      options:
+      - Yes, I understand the policy
+      - No, I need to review it
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

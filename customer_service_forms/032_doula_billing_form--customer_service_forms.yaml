@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doula Billing Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: doula_name
+      label: Doula Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hourly_rate
+      label: Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: services_rendered
+      label: Services Rendered
+      hint: null
+      type: select_one
+      options:
+      - Prenatal Visits
+      - Birth Planning Sessions
+      - Postpartum Support
+      required: false
+    - id: 9
+      name: services_rendered_other
+      label: Other Services
+      hint: null
+      type: select_multiple
+      options:
+      - Prenatal Visits
+      - Birth Planning Sessions
+      - Postpartum Support
+      - Other
+      required: false
+    - id: 10
+      name: total_charges
+      label: Total Charges
+      hint: null
+      type: number
+      options: []
+      required: false

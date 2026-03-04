@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extracurricular Class Registration Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: extracurricular_class_selection
+      label: Extracurricular Class Selection
+      hint: Select all activities related to your passion or hobbies
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: course_details
+      label: Course Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_id
+      label: Course ID
+      hint: Enter the course ID
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_start_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: course_end_date
+      label: Course End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

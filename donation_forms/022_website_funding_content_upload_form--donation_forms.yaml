@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Funding Content Upload Form
+    pages:
+    - id: 1
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Donation Forms''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false

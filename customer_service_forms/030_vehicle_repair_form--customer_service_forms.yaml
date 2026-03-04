@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_repair_form
+    pages:
+    - id: 1
+      name: vehicle_problem
+      label: Vehicle Problem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: problem_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: vehicle_license_plate
+      label: License Plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_problem_location
+      label: Problem Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: repair_services
+      label: Repair Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: reviewer_date
+      label: Reviewer Date
+      hint: null
+      type: date
+      options: []
+      required: true

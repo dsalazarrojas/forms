@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clean Energy Transition Course Registration
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Institution
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title or Position
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_course
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: course_selection
+      label: Course Selection
+      hint: Which course are you registering for
+      type: select_one
+      options:
+      - Introduction to Clean Energy Transition
+      - Renewable Energy Technologies
+      - Solar Energy Systems Design
+      - Wind Energy Fundamentals
+      - Energy Storage Solutions
+      - Sustainable Transportation
+      - Green Building and Energy Efficiency
+      - Climate Policy and Finance
+      - Carbon Management and Trading
+      - Complete Certificate Program
+      required: true
+    - id: 11
+      name: course_format_preference
+      label: Course Format Preference
+      hint: How would you like to attend
+      type: select_one
+      options:
+      - Online - Self-paced
+      - Online - Live virtual sessions
+      - In-person - On campus
+      - Hybrid - Combination of online and in-person
+      required: true
+    - id: 12
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_zone
+      label: Your Time Zone
+      hint: What time zone are you in
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_background
+      label: -- Educational and Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: highest_education
+      label: Highest Level of Education
+      hint: What is your highest educational qualification
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate or PhD
+      - Professional Certification
+      - Other
+      required: true
+    - id: 16
+      name: field_of_study
+      label: Field of Study
+      hint: What was your major or field of study
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: How many years of work experience do you have
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - Over 15 years
+      required: true
+    - id: 18
+      name: industry_sector
+      label: Industry Sector
+      hint: Which industry do you work in
+      type: select_one
+      options:
+      - Energy or Utilities
+      - Engineering or Construction
+      - Government or Public Sector
+      - Education or Research
+      - Finance or Investment
+      - Consulting
+      - Manufacturing
+      - Technology
+      - Nonprofit or NGO
+      - Other
+      - Not Currently Employed
+      required: true
+    - id: 19
+      name: clean_energy_experience
+      label: Clean Energy Experience
+      hint: What is your experience in clean energy
+      type: select_one
+      options:
+      - Extensive - Work in clean energy sector
+      - Moderate - Some clean energy projects
+      - Limited - Basic knowledge only
+      - None - New to clean energy
+      required: true
+    - id: 20
+      name: section_header_payment
+      label: -- Registration and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration category
+      type: select_one
+      options:
+      - Individual - Full Price
+      - Individual - Early Bird Discount
+      - Student - With Verification
+      - Nonprofit or Government - Discounted
+      - Corporate Group - 3 or More
+      - Scholarship Recipient
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Purchase Order
+      - Invoice Request
+      - Scholarship or Sponsor
+      required: true
+    - id: 23
+      name: employer_sponsorship
+      label: Employer Sponsorship
+      hint: Is your employer sponsoring this course
+      type: select_one
+      options:
+      - Yes - Full sponsorship
+      - Yes - Partial sponsorship
+      - No - Self-funded
+      required: false
+    - id: 24
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you hope to achieve from this course
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accessibility accommodations
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: how_did_you_hear
+      label: How Did You Hear About This Course
+      hint: How did you learn about this program
+      type: select_one
+      options:
+      - University or Institution Website
+      - Social Media
+      - Email Newsletter
+      - Colleague or Friend Referral
+      - Professional Association
+      - Online Search
+      - Conference or Event
+      - Other
+      required: false
+    - id: 28
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: May we send you information about related programs
+      type: select_one
+      options:
+      - Yes - I would like to receive updates
+      - No - Do not send marketing communications
+      required: true
+    - id: 29
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you accept the terms and conditions
+      type: select_one
+      options:
+      - Yes - I accept the terms and conditions
+      - No - I do not accept
+      required: true

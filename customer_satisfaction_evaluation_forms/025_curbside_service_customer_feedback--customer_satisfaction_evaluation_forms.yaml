@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curbside Service Customer Feedback
+    pages:
+    - id: 1
+      name: curbside_service_customer_feedback
+      label: Curbside Service Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      required: false
+    - id: 3
+      name: feedback_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_permission
+      label: Contact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: curbside_visit_details
+      label: Curbside Visit Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: curbside_service_staff
+      label: Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: curbside_service_staff_rating
+      label: Staff Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      required: false
+    - id: 11
+      name: curbside_service_staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: curbside_visit_date
+      label: Curbside Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: curbside_service_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 18
+      name: communication_level
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: curbside_service_team
+      label: Curbside Service Team
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

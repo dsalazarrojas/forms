@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Dessert Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cake_type
+      label: Cake type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: cake_design
+      label: Cake design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cake_color
+      label: Cake color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: custom_text
+      label: Custom text
+      hint: null
+      type: text
+      options: []
+      required: false

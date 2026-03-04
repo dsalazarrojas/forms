@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Quote Publication Consent Form
+    pages:
+    - id: 1
+      name: donor_quote_publication_consent_form_1
+      label: Donor Quote Publication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: quote_consent
+      label: Quote Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quote_permission_signed
+      label: Quote Permission Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_signature
+      label: Email Signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_permission_signed
+      label: Donor Permission Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: donor_quote_publication_consent_form_2
+      label: Donor Quote Publication Consent Form 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

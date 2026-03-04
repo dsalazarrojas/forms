@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packing Cube Set Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment
+      label: payment_method
+      hint: null
+      type: time
+      options: []
+      required: false

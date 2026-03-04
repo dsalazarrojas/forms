@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Financial Statement Form
+    pages:
+    - id: 1
+      name: personal_financial_statement
+      label: financial_status
+      hint: Provide an overview of your financial status
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assets_total
+      label: total_assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: assets_cash
+      label: cash_and_savings
+      hint: Please list all cash and savings accounts
+      type: select_multiple
+      options:
+      - cash
+      - savings
+      required: true
+    - id: 4
+      name: assets_real_estate
+      label: real_estate
+      hint: List all real estate holdings (e.g. home, investment properties)
+      type: select_multiple
+      options:
+      - home
+      - investment_property
+      required: true
+    - id: 5
+      name: assets_other
+      label: other_assets
+      hint: List all other assets (e.g. 401(k), stocks, bonds, etc.)
+      type: select_multiple
+      options:
+      - 401(k)
+      - stocks
+      - bonds
+      - etc
+      required: false
+    - id: 6
+      name: liabilities_total
+      label: total_liabilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: liabilities_debt
+      label: debt_1
+      hint: List all debt with a balance over $100,000
+      type: select_multiple
+      options:
+      - debt_1
+      - debt_2
+      - debt_3
+      required: true
+    - id: 8
+      name: liabilities_other
+      label: other_liabilities
+      hint: List all other debt and liabilities (e.g. tax debt, utility bills, etc.)
+      type: select_multiple
+      options:
+      - tax_debt
+      - utility_bills
+      - etc
+      required: false
+    - id: 9
+      name: date
+      label: date_statement
+      hint: Date of the current or most recent financial statement
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_year
+      label: time_of_year
+      hint: Time of year financial statement is for
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: true
+    - id: 11
+      name: income
+      label: income
+      hint: Annual income for the year
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: signature_date
+      hint: Date of signature
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: Signature
+      type: text
+      options: []
+      required: false

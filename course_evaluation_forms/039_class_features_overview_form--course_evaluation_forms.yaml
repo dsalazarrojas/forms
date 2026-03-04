@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Features Overview Form
+    pages:
+      - id: 1
+        name: class_name
+        label: Class or Course Name
+        hint: Official class name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: class_code
+        label: Course Code
+        hint: e.g. CS101
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Academic department
+        type: select_one
+        options:
+          - Mathematics
+          - Science
+          - English
+          - History
+          - Arts
+          - Technology
+          - Business
+          - Languages
+          - Physical Education
+          - Other
+        required: true
+      - id: 4
+        name: instructor_name
+        label: Instructor Name
+        hint: Primary instructor
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: instructor_credentials
+        label: Instructor Credentials
+        hint: Degrees, certifications
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: class_description
+        label: Class Description
+        hint: Brief overview of the class
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: learning_objectives
+        label: Learning Objectives
+        hint: What students will learn
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: credit_hours
+        label: Credit Hours
+        hint: Number of credits
+        type: select_one
+        options:
+          - 1 credit
+          - 2 credits
+          - 3 credits
+          - 4 credits
+          - 5 credits
+          - Non-credit
+        required: true
+      - id: 9
+        name: class_level
+        label: Class Level
+        hint: Difficulty level
+        type: select_one
+        options:
+          - Introductory
+          - Intermediate
+          - Advanced
+          - Graduate level
+          - All levels welcome
+        required: true
+      - id: 10
+        name: prerequisites
+        label: Prerequisites
+        hint: Required prior knowledge or classes
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: class_format
+        label: Class Format
+        hint: How is it delivered
+        type: select_one
+        options:
+          - In-person lecture
+          - Online synchronous
+          - Online asynchronous
+          - Hybrid or blended
+          - Lab-based
+          - Seminar or discussion
+        required: true
+      - id: 12
+        name: class_schedule
+        label: Class Schedule
+        hint: When is it offered
+        type: select_multiple
+        options:
+          - Monday mornings
+          - Monday afternoons
+          - Tuesday mornings
+          - Tuesday afternoons
+          - Wednesday mornings
+          - Wednesday afternoons
+          - Thursday mornings
+          - Thursday afternoons
+          - Friday mornings
+          - Friday afternoons
+          - Weekend classes
+        required: true
+      - id: 13
+        name: class_duration
+        label: Class Duration
+        hint: Length of each session
+        type: select_one
+        options:
+          - 30 minutes
+          - 45 minutes
+          - 1 hour
+          - 1.5 hours
+          - 2 hours
+          - 3+ hours
+        required: true
+      - id: 14
+        name: total_weeks
+        label: Total Weeks
+        hint: Course length
+        type: select_one
+        options:
+          - 4 weeks
+          - 6 weeks
+          - 8 weeks
+          - 10 weeks
+          - 12 weeks
+          - 16 weeks (semester)
+          - Other
+        required: true
+      - id: 15
+        name: class_size
+        label: Maximum Class Size
+        hint: Number of students
+        type: select_one
+        options:
+          - Under 10 students
+          - 10-20 students
+          - 21-30 students
+          - 31-50 students
+          - Over 50 students
+        required: true
+      - id: 16
+        name: assessment_methods
+        label: Assessment Methods
+        hint: How students are evaluated
+        type: select_multiple
+        options:
+          - Exams
+          - Quizzes
+          - Projects
+          - Papers or essays
+          - Presentations
+          - Participation
+          - Lab work
+          - Portfolio
+        required: true
+      - id: 17
+        name: materials_required
+        label: Required Materials
+        hint: Textbooks, supplies, etc.
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: technology_requirements
+        label: Technology Requirements
+        hint: Computer, software, etc.
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: special_features
+        label: Special Features
+        hint: Unique aspects of this class
+        type: select_multiple
+        options:
+          - Guest speakers
+          - Field trips
+          - Hands-on projects
+          - Industry partnerships
+          - Research opportunities
+          - Internship component
+          - Study abroad option
+          - Certification included
+        required: false
+      - id: 20
+        name: career_relevance
+        label: Career Relevance
+        hint: How this class helps your career
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: student_testimonials
+        label: Student Testimonials
+        hint: Quotes from past students
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_information
+        label: Additional Information
+        hint: Any other details
+        type: text
+        options: []
+        required: false

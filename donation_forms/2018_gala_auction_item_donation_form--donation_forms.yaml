@@ -1,0 +1,212 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2018 Gala Auction Item Donation Form
+    pages:
+    - id: 1
+      name: section_header_donor_info
+      label: '--- Donor Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send receipts
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional contact number
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_donation_details
+      label: '--- Donation Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_description
+      label: Item description
+      hint: Brief description of the donated item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_condition
+      label: Item condition
+      hint: Select the best description of item condition
+      type: select_one
+      options:
+      - New
+      - Like new
+      - Good
+      - Fair
+      - Poor
+      - Other
+      required: true
+    - id: 9
+      name: estimated_value
+      label: Estimated value
+      hint: Estimated market value
+      type: decimal
+      options: []
+      required: false
+    - id: 10
+      name: donation_type
+      label: Donation type
+      hint: Type of donation
+      type: select_one
+      options:
+      - Physical
+      - Digital
+      - Service
+      required: true
+    - id: 11
+      name: payment_amount
+      label: Amount
+      hint: Enter the total amount
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: payment_date
+      label: Payment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - PayPal
+      - Check
+      - Cash
+      required: true
+    - id: 14
+      name: payment_purpose
+      label: Purpose of payment
+      hint: E.g., Silent Auction
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: invoice_number
+      label: Invoice or reference number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pickup_location
+      label: Pickup location
+      hint: Preferred pickup method
+      type: select_one
+      options:
+      - In-person pickup
+      - Shipping
+      - Drop box
+      required: true
+    - id: 17
+      name: pickup_date
+      label: Pickup date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: pickup_time
+      label: Pickup time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: special_storage_requirements
+      label: Special storage requirements
+      hint: Any special storage needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_to_photograph
+      label: Consent to photograph
+      hint: Will the item be photographed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: agreement_to_terms
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: tax_deductible
+      label: Tax deductible
+      hint: Is the donation tax deductible?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: donation_receipt_email
+      label: Receipt email address
+      hint: Email to send receipt
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any additional info
+      type: text
+      options: []
+      required: false

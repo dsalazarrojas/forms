@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Operations Efficiency Course Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_selection
+      label: Select Courses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: registration_date
+      label: Registration Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claims Service Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: delays
+      label: Delays
+      hint: null
+      type: select_multiple
+      options:
+      - No Delays
+      - Delays, but minor
+      - Significant Delays
+      required: false
+    - id: 5
+      name: communication_level
+      label: Communication Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Frequent
+      - Occasional
+      - Never
+      required: false
+    - id: 7
+      name: resolution_level
+      label: Resolution Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: resolution_speed
+      label: Resolution Speed
+      hint: null
+      type: select_multiple
+      options:
+      - Fast
+      - Slow
+      required: false
+    - id: 9
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In person
+      required: false
+    - id: 14
+      name: contact_method_additional
+      label: Additional Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

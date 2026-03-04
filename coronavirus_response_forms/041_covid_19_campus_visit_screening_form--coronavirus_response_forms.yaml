@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Campus Visit Screening Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For contact tracing
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_visit
+      label: Date of Visit
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: Arrival time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Why are you visiting
+      type: select_one
+      options:
+      - Business meeting
+      - Campus tour
+      - Delivery
+      - Maintenance or repair
+      - Guest speaker
+      - Research collaboration
+      - Other
+      required: true
+    - id: 7
+      name: destination_building
+      label: Destination Building
+      hint: Which building are you visiting
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: host_name
+      label: Host Name
+      hint: Who are you visiting
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: host_department
+      label: Host Department
+      hint: Department or office
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_temperature
+      label: Current Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: symptoms_check
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea
+      required: true
+    - id: 12
+      name: known_exposure
+      label: Known COVID-19 Exposure
+      hint: In past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: recent_positive_test
+      label: Recent Positive Test
+      hint: In past 10 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: false
+    - id: 15
+      name: travel_history
+      label: Recent Travel
+      hint: In past 14 days
+      type: select_one
+      options:
+      - No travel
+      - Domestic travel
+      - International travel
+      required: true
+    - id: 16
+      name: campus_access_areas
+      label: Campus Areas to Access
+      hint: Where will you go
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long will you stay
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - Full day
+      required: true
+    - id: 18
+      name: vehicle_information
+      label: Vehicle Information
+      hint: License plate number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parking_location
+      label: Parking Location
+      hint: Where will you park
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: campus_policies_acknowledged
+      label: Campus Policies Acknowledged
+      hint: Mask and distancing rules
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - false
+      required: true
+    - id: 21
+      name: mask_agreement
+      label: Mask Agreement
+      hint: I will wear a mask
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 22
+      name: contact_tracing_consent
+      label: Contact Tracing Consent
+      hint: Information may be used
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 23
+      name: health_declaration
+      label: Health Declaration
+      hint: I declare information is accurate
+      type: select_one
+      options:
+      - Yes I Declare
+      - false
+      required: true
+    - id: 24
+      name: time_of_departure
+      label: Time of Departure
+      hint: To be completed when leaving
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: visitor_signature
+      label: Visitor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: screener_name
+      label: Screener Name
+      hint: Staff name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: screener_signature
+      label: Screener Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: entry_approved
+      label: Entry Approved
+      hint: Screener decision
+      type: select_one
+      options:
+      - Yes - Approved
+      - No - Denied
+      - Pending supervisor review
+      required: false

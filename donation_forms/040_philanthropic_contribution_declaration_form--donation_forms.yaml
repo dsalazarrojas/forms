@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: philanthropic_contribution_declaration_form
+    pages:
+    - id: 1
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: non_citizen_status
+      label: non_citizen_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''US citizen''}'
+      - '{''label'': ''Legal Permanent Resident''}'
+      - '{''label'': ''Non-US Citizen''}'
+      required: true
+    - id: 4
+      name: non_citizen_residency_status
+      label: non_citizen_residency_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Legal Permanent Resident''}'
+      - '{''label'': ''Conditional Resident''}'
+      - '{''label'': ''Asylum''}'
+      required: true
+    - id: 5
+      name: gift_type
+      label: gift_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Property''}'
+      - '{''label'': ''Stock''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: recipient_entity
+      label: recipient_entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_name
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_address
+      label: donor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recipient_address
+      label: recipient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gift_value
+      label: gift_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: gift_description
+      label: gift_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_death
+      label: date_of_death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: donor_relationship
+      label: donor_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: donor_affiliation
+      label: donor_affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gift_purpose
+      label: gift_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: gift_frequency
+      label: gift_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''One-time''}'
+      - '{''label'': ''Ongoing''}'
+      - '{''label'': ''Unknown''}'
+      required: true
+    - id: 19
+      name: gift_frequency_other_description
+      label: gift_frequency_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: gift_recipient_entity_type
+      label: gift_recipient_entity_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: gift_recipient_entity_name
+      label: gift_recipient_entity_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: gift_recipient_entity_address
+      label: gift_recipient_entity_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: gift_recipient_entity_nickname
+      label: gift_recipient_entity_nickname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: gift_recipient_entity_tax_id
+      label: gift_recipient_entity_tax_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: gift_recipient_entity_ein
+      label: gift_recipient_entity_ein
+      hint: null
+      type: text
+      options: []
+      required: false

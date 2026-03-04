@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Care Experience Survey
+    pages:
+    - id: 1
+      name: hair_care_experience_survey
+      label: hair_care_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hair_care_service
+      label: hair_care_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Good''}'
+      - '{''id'': 11, ''label'': ''Fair''}'
+      - '{''id'': 12, ''label'': ''Bad''}'
+      required: false
+    - id: 3
+      name: hair_care_price
+      label: hair_care_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: hair_care_product_quality
+      label: hair_care_product_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hair_care_services_value
+      label: hair_care_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hair_care_experience_rating
+      label: hair_care_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''label'': 5}'
+      - '{''id'': 21, ''label'': 4}'
+      - '{''id'': 22, ''label'': 3}'
+      - '{''id'': 23, ''label'': 2}'
+      - '{''id'': 24, ''label'': 1}'
+      - '{''id'': 25, ''label'': None}'
+      required: false
+    - id: 7
+      name: hair_care_willingness
+      label: hair_care_willingness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hair_care_recommendation
+      label: hair_care_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

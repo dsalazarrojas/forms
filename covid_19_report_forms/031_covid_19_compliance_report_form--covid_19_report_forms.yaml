@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Compliance Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of this compliance report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: What month or quarter is this report for?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_name
+      label: Facility Name
+      hint: Name of healthcare facility
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_type
+      label: Facility Type
+      hint: Hospital, clinic, nursing home, etc.
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Nursing Home
+      - Long-term Care
+      - Doctor's Office
+      - Urgent Care
+      - Pharmacy
+      - Other
+      required: true
+    - id: 5
+      name: reporting_official
+      label: Reporting Official Name
+      hint: Person responsible for this report
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: official_title
+      label: Official Title
+      hint: Position of reporting official
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_employees
+      label: Total Number of Employees
+      hint: Employees required to comply with vaccine mandate
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: fully_vaccinated
+      label: Fully Vaccinated Employees
+      hint: Completed primary series
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: partially_vaccinated
+      label: Partially Vaccinated Employees
+      hint: Incomplete series
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: unvaccinated
+      label: Unvaccinated Employees
+      hint: No vaccination doses received
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: exemptions_medical
+      label: Medical Exemptions Granted
+      hint: Employees approved for medical exemption
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: exemptions_religious
+      label: Religious Exemptions Granted
+      hint: Employees approved for religious exemption
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: booster_doses
+      label: Employees with Booster Doses
+      hint: Employees who received booster shot
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vaccination_deadline
+      label: Vaccination Deadline
+      hint: Date by which employees must comply
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: compliance_percentage
+      label: Compliance Percentage
+      hint: Current compliance rate
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: enforcement_actions
+      label: Enforcement Actions Taken
+      hint: Discipline, termination, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_exemption_requests
+      label: Pending Medical Exemption Requests
+      hint: Number of requests under review
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: religious_exemption_requests
+      label: Pending Religious Exemption Requests
+      hint: Number of requests under review
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: testing_protocol
+      label: Testing Protocol for Unvaccinated Employees
+      hint: Frequency, type of tests required
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: positive_cases
+      label: COVID-19 Cases Among Employees
+      hint: Cases reported in reporting period
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: outbreaks
+      label: Outbreaks Reported
+      hint: Number of workplace outbreaks
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: challenges
+      label: Compliance Challenges
+      hint: Describe any obstacles to compliance
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: improvements
+      label: Improvements Made
+      hint: Actions taken to improve compliance
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: certification
+      label: I certify that this information is accurate
+      hint: Check to confirm accuracy
+      type: select_one
+      options:
+      - I certify
+      - I do not certify
+      required: true

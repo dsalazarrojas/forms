@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: zero_discrimination_policy_declaration_form
+    pages:
+    - id: 1
+      name: i_agree
+      label: i_agree
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: i_declare
+      label: do_declare
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: i_would_prefer
+      label: do_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      - '{''option3'': ''option3''}'
+      required: false
+    - id: 4
+      name: i_understand
+      label: do_understand
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      - '{''option3'': ''option3''}'
+      required: false
+    - id: 5
+      name: i_will
+      label: do_will
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      - '{''option3'': ''option3''}'
+      required: false
+    - id: 6
+      name: i_have_understood
+      label: have_understood
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      - '{''option3'': ''option3''}'
+      required: false
+    - id: 7
+      name: i_will_have_understood
+      label: will_have_understood
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      - '{''option3'': ''option3''}'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

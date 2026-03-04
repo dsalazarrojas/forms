@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Marketplace Customer Support Contact Request
+    pages:
+    - id: 1
+      name: customer_support_request
+      label: Customer Support Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_priority
+      label: customer_priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: customer_department
+      label: customer_department
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Technical
+      - Sales
+      - Finance
+      - Other
+      required: true
+    - id: 8
+      name: customer_support_request
+      label: customer_support_request
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: customer_follow_up
+      label: customer_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: customer_support_agent
+      label: customer_support_agent
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - John Smith
+      required: true
+    - id: 11
+      name: customer_comment
+      label: customer_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_support_response
+      label: customer_support_response
+      hint: null
+      type: date
+      options: []
+      required: false

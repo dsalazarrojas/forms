@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depreciation Form
+    pages:
+    - id: 1
+      name: asset_list
+      label: Asset List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: asset_date_acquired
+      label: Asset Date Acquired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: asset_depreciation_rate
+      label: Asset Depreciation Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: asset_depreciation_period
+      label: Asset Depreciation Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: asset_depreciation_value
+      label: Asset Depreciation Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: asset_last_value
+      label: Asset Last Value
+      hint: null
+      type: number
+      options: []
+      required: false

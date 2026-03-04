@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Ward Donation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Emergency Ward Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''once''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''annually''}'
+      required: true
+    - id: 7
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Mail''}'
+      - '{''value'': ''In Person''}'
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank Transfer''}'
+      required: true
+    - id: 9
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

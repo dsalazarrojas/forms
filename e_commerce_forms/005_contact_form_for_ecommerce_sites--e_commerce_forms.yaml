@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form For Ecommerce Sites
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: Full name associated with the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_number
+      label: Order number
+      hint: Provide order reference if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email used for the order
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Contact number for urgent issues
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_contact
+      label: Reason for contact
+      hint: Select the reason for your message
+      type: select_one
+      options:
+      - Complaint
+      - Suggestion
+      - Feedback
+      - Enquiry
+      - Delay order
+      required: true
+    - id: 6
+      name: product_affected
+      label: Product affected
+      hint: Item name or SKU
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_of_issue
+      label: Description of issue
+      hint: Provide details to help us resolve the issue
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_resolution
+      label: Preferred resolution
+      hint: What outcome would you prefer
+      type: select_one
+      options:
+      - Refund
+      - Replacement
+      - Store credit
+      - Technical support
+      - Other
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping address
+      hint: If issue relates to delivery
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: best_time_to_contact
+      label: Best time to contact
+      hint: Time window for follow up
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_files_note
+      label: Attach photos or files via email
+      hint: Use email for larger attachments
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else you would like to add
+      type: text
+      options: []
+      required: false

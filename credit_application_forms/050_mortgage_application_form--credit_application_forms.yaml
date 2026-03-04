@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_info
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loan_info
+      label: Loan Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: income_info
+      label: Income Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: asset_info
+      label: Asset Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_info
+      label: Employment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_history
+      label: Employment History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: loan_offer
+      label: Loan Offer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: applicant_employment_status
+      label: Applicant Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''full-time'', ''label'': ''Full-time''}'
+      - '{''value'': ''part-time'', ''label'': ''Part-time''}'
+      - '{''value'': ''retired'', ''label'': ''Retired''}'
+      - '{''value'': ''unemployed'', ''label'': ''Unemployed''}'
+      required: false
+    - id: 11
+      name: applicant_employment_length
+      label: Length of Employment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: loan_terms
+      label: Loan Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: applicant_income
+      label: Applicant Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: applicant_age
+      label: Applicant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: employment_years
+      label: Employment Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: loan_terms_frequency
+      label: Loan Terms Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''fixed'', ''label'': ''Fixed''}'
+      - '{''value'': ''variable'', ''label'': ''Variable''}'
+      required: false
+    - id: 20
+      name: loan_terms_payment
+      label: Loan Terms Payment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''quarterly'', ''label'': ''Quarterly''}'
+      required: false
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

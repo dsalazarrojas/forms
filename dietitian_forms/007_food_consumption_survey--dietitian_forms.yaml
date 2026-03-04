@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Consumption Survey
+    pages:
+    - id: 1
+      name: fast_food_consumption_frequency
+      label: Fast Food Consumption Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fast_food_consumption_amount
+      label: Fast Food Consumption Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: food_frequency
+      label: Food Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 31, ''name'': ''Never'', ''label'': ''Never''}'
+      - '{''id'': 32, ''name'': ''Less than once a week'', ''label'': ''Less than
+        once a week''}'
+      - '{''id'': 32, ''name'': ''1-2 times a week'', ''label'': ''1-2 times a week''}'
+      - '{''id'': 33, ''name'': ''3-4 times a week'', ''label'': ''3-4 times a week''}'
+      - '{''id'': 34, ''name'': ''5 or more times a week'', ''label'': ''5 or more
+        times a week''}'
+      required: false
+    - id: 4
+      name: food_amount
+      label: Food Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 51, ''name'': ''Fast Food'', ''label'': ''Fast Food''}'
+      - '{''id'': 52, ''name'': ''Fruits'', ''label'': ''Fruits''}'
+      - '{''id'': 52, ''name'': ''Vegetables'', ''label'': ''Vegetables''}'
+      - '{''id'': 52, ''name'': ''Meat'', ''label'': ''Meat''}'
+      - '{''id'': 52, ''name'': ''Dairy'', ''label'': ''Dairy''}'
+      - '{''id'': 52, ''name'': ''Baked Goods'', ''label'': ''Baked Goods''}'
+      required: false
+    - id: 6
+      name: food_group
+      label: Food Group
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 61, ''name'': ''Sweets'', ''label'': ''Sweets''}'
+      - '{''id'': 61, ''name'': ''Fruits'', ''label'': ''Fruits''}'
+      - '{''id'': 61, ''name'': ''Vegetables'', ''label'': ''Vegetables''}'
+      - '{''id'': 61, ''name'': ''Meat'', ''label'': ''Meat''}'
+      - '{''id'': 61, ''name'': ''Dairy'', ''label'': ''Dairy''}'
+      - '{''id'': 61, ''name'': ''Baked Goods'', ''label'': ''Baked Goods''}'
+      required: true
+    - id: 7
+      name: food_frequency_time
+      label: Fast Food Consumption Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: fast_food_consumption_date
+      label: Fast Food Consumption Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: other_foods_consumed
+      label: Other Foods Consumed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

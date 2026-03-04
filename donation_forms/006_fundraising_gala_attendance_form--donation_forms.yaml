@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Gala Attendance Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Volunteer
+      - Donor
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_dress_code
+      label: event dress code
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Casual
+      - Other
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Vegan
+      - Vegetarian
+      - Gluten-free
+      - Dairy-free
+      - Pescatarian
+      required: false
+    - id: 10
+      name: dietary_restrictions_other
+      label: dietary restrictions other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guest_attendee
+      label: guest attendee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: guest_attendee
+      label: guest attendee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

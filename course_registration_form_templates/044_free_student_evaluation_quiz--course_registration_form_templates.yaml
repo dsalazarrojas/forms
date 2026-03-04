@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_student_evaluation_quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quiz_datetime
+      label: Quiz Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quiz_time
+      label: Quiz Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: instructor_email
+      label: Instructor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''tool1''}'
+      - '{''id'': 2, ''label'': ''tool2''}'
+      - '{''id'': 2, ''label'': ''tool3''}'
+      - '{''id'': 3, ''label'': ''tool4''}'
+      required: false
+    - id: 14
+      name: selected_tool
+      label: Selected Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''tool1''}'
+      - '{''id'': 2, ''label'': ''tool2''}'
+      - '{''id'': 3, ''label'': ''tool3''}'
+      - '{''id'': 4, ''label'': ''tool4''}'
+      required: false

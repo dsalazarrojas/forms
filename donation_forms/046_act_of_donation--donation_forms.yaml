@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Act Of Donation
+    pages:
+    - id: 1
+      name: donation_header
+      label: -- Act of Donation of a Motor Vehicle --
+      hint: This form documents the transfer of a vehicle without monetary payment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: donor_full_name
+      label: Donor Full Name
+      hint: Name of person giving the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donee_header
+      label: -- Donee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donee_full_name
+      label: Donee Full Name
+      hint: Name of person receiving the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donee_address
+      label: Donee Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_header
+      label: -- Vehicle Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g., Ford, Toyota
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: e.g., F-150, Camry
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: vin_number
+      label: VIN Number
+      hint: 17-digit Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: estimated_value_at_time_of_donation
+      label: Estimated Value at Time of Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: donation_purpose
+      label: Donation Purpose
+      hint: null
+      type: select_one
+      options:
+      - Family Transfer
+      - Charitable Gift
+      - Other
+      required: true
+    - id: 16
+      name: donor_signature
+      label: Donor Signature
+      hint: Type name to sign as donor
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: donee_signature
+      label: Donee Signature
+      hint: Type name to sign as recipient
+      type: text
+      options: []
+      required: true

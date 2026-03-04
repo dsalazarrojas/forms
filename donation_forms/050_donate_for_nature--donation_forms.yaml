@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donate For Nature
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - AUD
+      required: false
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 9
+      name: donation_message
+      label: Donation Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_donation
+      label: Confirm Donation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_donation_info
+      label: Additional Donation Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_donation_info
+      label: Confirm Donation Info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: agree_terms
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

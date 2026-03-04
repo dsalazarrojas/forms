@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Facility Access Agreement, Assumption Of Risk And Waiver Of Liability
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: facility_name
+      label: Facility Name
+      hint: Name of the facility you will access
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_type
+      label: Facility Type
+      hint: Gym, office, venue, etc.
+      type: select_one
+      options:
+      - Commercial Office
+      - Fitness Center
+      - Event Venue
+      - Healthcare Facility
+      - Educational Institution
+      - Recreational Facility
+      - Other
+      required: true
+    - id: 12
+      name: access_reason
+      label: Reason for Facility Access
+      hint: Purpose of your visit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: visit_start_date
+      label: Scheduled Visit Start Date
+      hint: When do you plan to visit?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: visit_end_date
+      label: Scheduled Visit End Date
+      hint: When will your access end?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: covid_risk_acknowledgment
+      label: I acknowledge COVID-19 is a serious respiratory illness
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 16
+      name: transmission_risk
+      label: I understand COVID-19 can spread through close contact
+      hint: Despite facility precautions
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 17
+      name: assumption_of_risk
+      label: I assume the risk of COVID-19 exposure
+      hint: Including potential illness, hospitalization, or death
+      type: select_one
+      options:
+      - I assume this risk
+      - I do not assume this risk
+      - Have questions
+      required: true
+    - id: 18
+      name: precautions_understood
+      label: I understand facility COVID-19 precautions
+      hint: Masking, distancing, sanitizing, capacity limits
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 19
+      name: symptom_attestation
+      label: I do not currently have COVID-19 symptoms
+      hint: Fever, cough, shortness of breath, loss of taste/smell
+      type: select_one
+      options:
+      - I attest
+      - I have symptoms
+      - Not sure
+      required: true
+    - id: 20
+      name: exposure_declaration
+      label: I have not been exposed to COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I may have been exposed
+      - Not sure
+      required: true
+    - id: 21
+      name: test_positive_declaration
+      label: I have not tested positive for COVID-19 in the past 10 days
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I tested positive
+      - Prefer not to answer
+      required: true
+    - id: 22
+      name: quarantine_declaration
+      label: I am not currently under quarantine or isolation
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I am under quarantine
+      - Not sure
+      required: true
+    - id: 23
+      name: liability_waiver
+      label: I release the facility from liability for COVID-19
+      hint: To the extent permitted by law
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 24
+      name: indemnification
+      label: I indemnify the facility for COVID-19 related claims
+      hint: I will not sue the facility for COVID-19 exposure
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 25
+      name: compliance_agreement
+      label: I agree to comply with all facility safety guidelines
+      hint: Masking, distancing, testing, symptom reporting
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 26
+      name: information_accuracy
+      label: I certify that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Information is not accurate
+      - Uncertain
+      required: true
+    - id: 27
+      name: final_consent
+      label: I consent to facility access under these terms
+      hint: By agreeing, you accept all liability waivers
+      type: select_one
+      options:
+      - I fully consent
+      - I do not consent
+      - Need more time to review
+      required: true

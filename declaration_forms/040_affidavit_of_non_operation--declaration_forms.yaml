@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affidavit Of Non Operation
+    pages:
+    - id: 1
+      name: vehicle_owner_header
+      label: -- Vehicle Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name (Registered Owner)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Current Address
+      hint: Street, City, State, Zip.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_license
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: make
+      label: Vehicle Make
+      hint: e.g., Toyota, Ford.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: model
+      label: Vehicle Model
+      hint: e.g., Camry, F-150.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vin
+      label: Vehicle Identification Number (VIN)
+      hint: 17 characters.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: non_operation_header
+      label: -- Declaration of Non-Operation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reason_non_op
+      label: Reason for Non-Operation
+      hint: Why is the vehicle not being driven?
+      type: select_one
+      options:
+      - Vehicle is in storage
+      - Vehicle is being repaired
+      - Vehicle is not currently insured
+      - Owner is out of country
+      - Other
+      required: true
+    - id: 13
+      name: storage_location
+      label: Storage Location Address
+      hint: Where is the vehicle kept?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: non_op_start_date
+      label: Non-Operation Start Date
+      hint: When did you stop driving it?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: sworn_statement_header
+      label: -- Sworn Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: oath
+      label: Oath
+      hint: I certify under penalty of perjury that the vehicle has not been operated
+        on public highways during the period specified.
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: signature
+      label: Signature
+      hint: Digital Signature.
+      type: select_one
+      options:
+      - Signed
+      - Other
+      required: true

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counselor Evaluation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: client@example.com
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_1
+      label: Q1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating_2
+      label: Q2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating_3
+      label: Q3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating_4
+      label: Q4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_5
+      label: Q5
+      hint: null
+      type: number
+      options: []
+      required: false

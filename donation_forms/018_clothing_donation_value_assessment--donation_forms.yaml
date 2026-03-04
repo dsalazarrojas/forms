@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Donation Value Assessment
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_donation
+      label: -- Donation Overview --
+      hint: General information about your donation
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: When you are donating
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_items
+      label: Total Number of Items
+      hint: How many clothing items are you donating
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_categories
+      label: -- Item Categories --
+      hint: Types of clothing included
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_categories
+      label: Categories of Clothing
+      hint: null
+      type: select_multiple
+      options:
+      - Dresses
+      - Pants and jeans
+      - Shirts and blouses
+      - Jackets and coats
+      - Sweaters and cardigans
+      - Skirts
+      - Suits
+      - Accessories
+      - Shoes
+      - Other
+      required: true
+    - id: 9
+      name: section_condition
+      label: -- Condition Assessment --
+      hint: Overall condition of items
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: condition_rating
+      label: Overall Condition Rating
+      hint: null
+      type: select_one
+      options:
+      - Like new - never worn
+      - Excellent - minimal wear
+      - Good - some wear
+      - Fair - notable wear
+      - Poor - significant wear
+      required: true
+    - id: 11
+      name: condition_notes
+      label: Specific Condition Notes
+      hint: Any stains, damage, repairs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cleaning_status
+      label: Items are clean
+      hint: null
+      type: select_one
+      options:
+      - Yes, freshly cleaned
+      - Yes, clean
+      - Some items need cleaning
+      - Not cleaned
+      required: true
+    - id: 13
+      name: section_brands
+      label: -- Brand and Quality Information --
+      hint: Brand details for valuation
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: designer_brands
+      label: Any designer or premium brand items
+      hint: null
+      type: select_one
+      options:
+      - Yes, several designer items
+      - Yes, some designer items
+      - No designer brands
+      - Unknown
+      required: true
+    - id: 15
+      name: brands_list
+      label: List Any Notable Brands
+      hint: Designer, premium, or recognizable brands
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_valuation
+      label: -- Initial Value Assessment --
+      hint: Your estimate of item values
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: original_cost
+      label: Estimated Original Retail Value
+      hint: What items cost when new
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: fair_market_value
+      label: Estimated Fair Market Value Today
+      hint: What items would sell for now
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: value_confidence
+      label: Confidence in Your Valuation
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Uncertain
+      required: true
+    - id: 20
+      name: section_special
+      label: -- Special Items --
+      hint: Any particularly valuable pieces
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: special_items_included
+      label: Any special or valuable items
+      hint: Designer pieces, vintage, wedding wear, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_items_value
+      label: Estimated Value of Special Items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_receipts
+      label: -- Documentation --
+      hint: Supporting information
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: original_receipts
+      label: Do you have original receipts or pricing
+      hint: null
+      type: select_one
+      options:
+      - Yes, have receipts
+      - Some receipts available
+      - No receipts
+      - Not applicable
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

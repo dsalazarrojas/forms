@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: driving_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Driving Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driving_habits
+      label: driving_habits
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Weekday
+      - Weekend
+      required: false
+    - id: 4
+      name: driving_habits_time
+      label: driving_habits_time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: driving_hours
+      label: driving_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_mileage
+      label: vehicle_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: driving_frequency
+      label: driving_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 10
+      name: driving_route
+      label: driving_route
+      hint: null
+      type: text
+      options: []
+      required: false

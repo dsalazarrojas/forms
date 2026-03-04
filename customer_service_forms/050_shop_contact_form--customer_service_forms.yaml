@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shop Contact Form
+    pages:
+    - id: 1
+      name: shop_contact_form_1
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shop_contact_form_2
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shop_email
+      label: shop_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: shop_phone
+      label: shop_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shop_subject
+      label: shop_subject
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shop_message
+      label: shop_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shop_send_email
+      label: shop_send_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shop_name
+      label: shop_name
+      hint: null
+      type: text
+      options: []
+      required: false

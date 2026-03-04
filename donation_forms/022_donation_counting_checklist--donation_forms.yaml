@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Counting Checklist
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: donation_date
+      label: Date of donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: donation_time
+      label: Time of donation
+      hint: null
+      type: time
+      options: []
+      required: false

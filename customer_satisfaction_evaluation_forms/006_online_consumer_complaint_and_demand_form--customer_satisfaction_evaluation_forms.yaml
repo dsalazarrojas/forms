@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-consumer-complaint-and-demand-form
+    pages:
+    - id: 1
+      name: customer_complaint_and_demand
+      label: Customer Complaint and Demand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_need
+      label: What Services Do You Need
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 3
+      name: complaint_type
+      label: What Type Of Complaint
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 4
+      name: complaint_detail
+      label: Complaint Detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

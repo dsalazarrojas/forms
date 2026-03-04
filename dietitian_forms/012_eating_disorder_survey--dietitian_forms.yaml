@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: eating_disorder_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: eating_habits
+      label: Eating Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Restrictive Anorexia''}'
+      - '{''label'': ''Binge Eating''}'
+      - '{''label'': ''No Symptoms''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: eating_disorder_diagnosis
+      label: Eating Disorder Diagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Anorexia Nervosa''}'
+      - '{''label'': ''Binge Eating Disorder''}'
+      - '{''label'': ''Avoidant/Restrictive Food Intake Disorder''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''No Diagnosis''}'
+      required: false
+    - id: 5
+      name: eating_habits_frequency
+      label: Eating Habits Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: food_aversion
+      label: Food Aversion
+      hint: How often do you experience food aversion?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: food_frequency
+      label: Food Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weight_loss
+      label: Weight Loss
+      hint: How much weight have you lost?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: weight_gain
+      label: Weight Gain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weight
+      label: Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_last_meal
+      label: Date Of Last Meal
+      hint: Date of last meal
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_last_meal
+      label: Time Of Last Meal
+      hint: Time of last meal
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: doctor_visits
+      label: Doctor Visits
+      hint: How often do you visit the doctor?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medication
+      label: Medication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 16
+      name: hospital_visits
+      label: Hospital Visits
+      hint: How often do you visit the hospital?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_doctor_visits
+      label: Other Doctor Visits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_doctor_visits_frequency
+      label: Other Doctor Visits Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: emergency_room_visits
+      label: Emergency Room Visits
+      hint: How often do you visit the emergency room?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_room_visits_frequency
+      label: Emergency Room Visits Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Anorexia Nervosa''}'
+      - '{''label'': ''Binge Eating Disorder''}'
+      - '{''label'': ''Avoidant/Restrictive Food Intake Disorder''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: family_history_frequency
+      label: Family History Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: friends
+      label: Friends
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Close''}'
+      - '{''label'': ''Distant''}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: friends_frequency
+      label: Friends Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

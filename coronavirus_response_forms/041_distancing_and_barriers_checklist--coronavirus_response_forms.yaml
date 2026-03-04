@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: distancing_and_barriers_checklist
+    pages:
+    - id: 1
+      name: form_1
+      label: Social Distancing Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: barriers
+      label: Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Physical Barriers
+      - PPE
+      - Signage
+      - Signaling
+      - Other
+      required: true
+    - id: 3
+      name: form_3
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: form_4
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: form_5
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: form_7
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: form_8
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: form_9
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: form_10
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

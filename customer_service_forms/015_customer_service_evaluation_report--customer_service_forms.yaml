@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Evaluation Report
+    pages:
+    - id: 1
+      name: customer_service_request
+      label: Customer Service Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Phone Call''}'
+      - '{''id'': 2, ''text'': ''Email''}'
+      - '{''id'': 3, ''text'': ''Chat''}'
+      required: false
+    - id: 3
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rating_comment
+      label: rating_comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Very Dissatisfied''}'
+      - '{''id'': 2, ''text'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 3, ''text'': ''Neutral''}'
+      - '{''id'': 4, ''text'': ''Somewhat Satisfied''}'
+      - '{''id'': 5, ''text'': ''Very Satisfied''}'
+      required: false
+    - id: 9
+      name: date_of_interaction
+      label: date_of_interaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_interaction
+      label: time_of_interaction
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: agent_email
+      label: agent_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: agent_phone
+      label: agent_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: agent_feedback
+      label: agent_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_feedback
+      label: supervisor_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_feedback
+      label: manager_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

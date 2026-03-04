@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: delivery_service_intake_form
+    pages:
+    - id: 1
+      name: delivery_service_intake_form_info
+      label: delivery_service_intake_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: contact
+      hint: null
+      type: select_one
+      options:
+      - First and last name
+      - Phone number
+      - Email address
+      - Physical address
+      required: false
+    - id: 3
+      name: address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: estimated_delivery
+      label: estimated_delivery_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_level
+      label: service_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

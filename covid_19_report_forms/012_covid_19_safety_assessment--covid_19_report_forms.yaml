@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Safety Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: Facility or Business Name
+      hint: Name of location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_address
+      label: Facility Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_type
+      label: Type of Facility
+      hint: Business category
+      type: select_one
+      options:
+      - Office building
+      - Retail store
+      - Restaurant or cafe
+      - Healthcare facility
+      - School or daycare
+      - Gym or fitness center
+      - Entertainment venue
+      - Religious institution
+      - Manufacturing facility
+      - Warehouse
+      - Other
+      required: true
+    - id: 8
+      name: assessor_name
+      label: Assessor Name
+      hint: Person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assessor_title
+      label: Assessor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: total_occupancy
+      label: Maximum Occupancy
+      hint: Maximum number of people allowed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_occupancy_limit
+      label: Current Occupancy Limit
+      hint: Reduced capacity limit
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: entrance_screening
+      label: Is health screening conducted at entrances
+      hint: Entry screening
+      type: select_one
+      options:
+      - Yes for all visitors and employees
+      - Yes for visitors only
+      - Yes for employees only
+      - false
+      required: true
+    - id: 13
+      name: mask_policy
+      label: What is your mask policy
+      hint: Face covering requirements
+      type: select_one
+      options:
+      - Required for everyone at all times
+      - Required for unvaccinated individuals
+      - Required in specific areas only
+      - Recommended but not required
+      - No mask policy
+      required: true
+    - id: 14
+      name: mask_supply_available
+      label: Are masks available for those who need them
+      hint: Mask availability
+      type: select_one
+      options:
+      - Yes free of charge
+      - Yes for purchase
+      - false
+      required: true
+    - id: 15
+      name: hand_sanitizer_stations
+      label: Are hand sanitizer stations available
+      hint: Sanitizer availability
+      type: select_one
+      options:
+      - Yes throughout the facility
+      - Yes at entrances only
+      - Yes in restrooms only
+      - false
+      required: true
+    - id: 16
+      name: cleaning_frequency
+      label: How often are high-touch surfaces cleaned
+      hint: Cleaning schedule
+      type: select_one
+      options:
+      - Multiple times per day
+      - Once per day
+      - Weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 17
+      name: ventilation_system
+      label: What type of ventilation system is in place
+      hint: HVAC system
+      type: select_one
+      options:
+      - Central HVAC with HEPA filtration
+      - Central HVAC with standard filters
+      - Window or wall units
+      - Natural ventilation only
+      - Not sure
+      required: true
+    - id: 18
+      name: social_distancing_markers
+      label: Are social distancing markers in place
+      hint: Floor markings
+      type: select_one
+      options:
+      - Yes throughout the facility
+      - Yes in high-traffic areas only
+      - Yes at checkout areas only
+      - false
+      required: true
+    - id: 19
+      name: plexiglass_barriers
+      label: Are plexiglass barriers installed
+      hint: Protective barriers
+      type: select_one
+      options:
+      - Yes at all service counters
+      - Yes at some locations
+      - false
+      required: true
+    - id: 20
+      name: employee_health_policy
+      label: What is your employee sick leave policy
+      hint: Health policy
+      type: select_one
+      options:
+      - Paid sick leave available
+      - Unpaid sick leave available
+      - No formal policy
+      - Not sure
+      required: true
+    - id: 21
+      name: employee_vaccination_policy
+      label: What is your employee vaccination policy
+      hint: Vaccination requirements
+      type: select_one
+      options:
+      - Required for all employees
+      - Required with medical or religious exemptions
+      - Encouraged but not required
+      - No policy
+      required: true
+    - id: 22
+      name: positive_case_protocol
+      label: Do you have a protocol for handling positive cases
+      hint: Outbreak response
+      type: select_one
+      options:
+      - Yes written protocol in place
+      - Yes informal protocol
+      - No protocol
+      required: true
+    - id: 23
+      name: contact_tracing_cooperation
+      label: Will you cooperate with contact tracing efforts
+      hint: Health department cooperation
+      type: select_one
+      options:
+      - Yes fully cooperate
+      - Yes with limitations
+      - false
+      required: true
+    - id: 24
+      name: signage_posted
+      label: Is COVID-19 safety signage posted
+      hint: Informational signage
+      type: select_one
+      options:
+      - Yes prominently displayed
+      - Yes in some areas
+      - false
+      required: true
+    - id: 25
+      name: compliance_issues
+      label: Are there any compliance issues or concerns
+      hint: Areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: improvement_plan
+      label: What improvements are planned
+      hint: Action items
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: next_assessment_date
+      label: Next Assessment Date
+      hint: Follow-up date
+      type: date
+      options: []
+      required: false

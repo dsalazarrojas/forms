@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Supplies Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Legal name or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business or Salon Name
+      hint: If ordering for a business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: license_number
+      label: Professional License Number
+      hint: Cosmetology or business license number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: If different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_category
+      label: Order Category
+      hint: Primary category of products
+      type: select_one
+      options:
+      - Hair Care Products
+      - Hair Color Products
+      - Styling Products
+      - Nail Care Products
+      - Skincare Products
+      - Makeup Products
+      - Tools and Equipment
+      - Salon Furniture
+      - Sanitation Supplies
+      - Mixed Order
+      required: true
+    - id: 9
+      name: hair_care_items
+      label: Hair Care Items
+      hint: Select hair care products needed
+      type: select_multiple
+      options:
+      - Shampoo
+      - Conditioner
+      - Deep Conditioner
+      - Hair Mask
+      - Leave-In Conditioner
+      - Hair Oil
+      - Scalp Treatment
+      - None
+      required: false
+    - id: 10
+      name: styling_items
+      label: Styling Products
+      hint: Select styling products needed
+      type: select_multiple
+      options:
+      - Hairspray
+      - Gel
+      - Mousse
+      - Hair Wax
+      - Pomade
+      - Heat Protectant
+      - Texturizing Spray
+      - Dry Shampoo
+      - None
+      required: false
+    - id: 11
+      name: hair_color_items
+      label: Hair Color Products
+      hint: Select color products needed
+      type: select_multiple
+      options:
+      - Permanent Color
+      - Demi-Permanent Color
+      - Bleach
+      - Developer
+      - Toner
+      - Color Remover
+      - Highlights Kit
+      - None
+      required: false
+    - id: 12
+      name: nail_care_items
+      label: Nail Care Products
+      hint: Select nail products needed
+      type: select_multiple
+      options:
+      - Nail Polish
+      - Gel Polish
+      - Acrylic Powder
+      - Acrylic Liquid
+      - Nail Tips
+      - Nail Glue
+      - Cuticle Oil
+      - Base Coat
+      - Top Coat
+      - None
+      required: false
+    - id: 13
+      name: tools_needed
+      label: Tools and Equipment
+      hint: Select tools needed
+      type: select_multiple
+      options:
+      - Hair Dryer
+      - Flat Iron
+      - Curling Iron
+      - Clippers
+      - Scissors
+      - Combs
+      - Brushes
+      - Nail Drill
+      - UV Lamp
+      - None
+      required: false
+    - id: 14
+      name: quantity_discount
+      label: Quantity Discount Tier
+      hint: Based on order total
+      type: select_one
+      options:
+      - Standard Pricing
+      - Bronze (5 percent off $500+)
+      - Silver (10 percent off $1000+)
+      - Gold (15 percent off $2500+)
+      - Platinum (20 percent off $5000+)
+      required: true
+    - id: 15
+      name: shipping_method
+      label: Shipping Method
+      hint: Select shipping speed
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Expedited Shipping (2-3 days)
+      - Express Shipping (1-2 days)
+      - Overnight Shipping
+      - Local Pickup
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Business Check
+      - Purchase Order
+      - Net 30 Account
+      required: true
+    - id: 17
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If paying by PO
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_notes
+      label: Order Notes
+      hint: Additional information about your order
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: estimated_total
+      label: Estimated Order Total
+      hint: Approximate total before shipping
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: I agree to all terms and conditions
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 22
+      name: return_policy
+      label: Return Policy Acknowledgment
+      hint: I understand the return policy
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 23
+      name: order_date
+      label: Order Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

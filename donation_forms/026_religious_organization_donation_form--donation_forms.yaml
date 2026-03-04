@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Organization Donation Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Recurring
+      required: false
+    - id: 5
+      name: donation_frequency_other
+      label: Donation Frequency Other
+      hint: If Recurring, specify a frequency other than One-Time
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - Card Number
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: donor_email
+      label: Donor Email
+      hint: The email of the donor
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Direct Bank Transfer
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Recurring
+      required: false
+    - id: 11
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: donation_note
+      label: Donation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processed
+      required: false
+    - id: 15
+      name: donor_country
+      label: Donor Country
+      hint: The country of the donor
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false

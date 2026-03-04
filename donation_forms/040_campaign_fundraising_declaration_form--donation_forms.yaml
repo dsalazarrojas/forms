@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Fundraising Declaration Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer Name
+      hint: Name of person filing the declaration
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization or Campaign
+      hint: Campaign or group conducting fundraising
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: total_raised
+      label: Total Amount Raised
+      hint: Amount collected during the reporting period
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: fundraiser_period
+      label: Fundraiser Period
+      hint: Dates covering the fundraising activity
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donor_count
+      label: Number of Donors
+      hint: Count of individual donors
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: major_donors
+      label: Major Donors
+      hint: List of major donor names if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: use_of_funds
+      label: Intended Use of Funds
+      hint: How the raised funds will be utilized
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: compliance_confirmed
+      label: Compliance Confirmed
+      hint: Confirm compliance with fundraising rules
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: authorized_signature
+      label: Authorized Signature Name
+      hint: Name of person authorizing this declaration
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other explanatory information
+      type: text
+      options: []
+      required: false

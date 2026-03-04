@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Application Submissions
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: applicant_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: interested_pet_name
+      label: Pet You Are Interested In
+      hint: Name or ID of the pet
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pet_preference_reason
+      label: Why Are You Interested in This Pet
+      hint: Tell us about your interest
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_pet_experience
+      label: Previous Pet Experience
+      hint: Describe your experience with animals
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: why_adopting_now
+      label: Why Are You Adopting Now
+      hint: What motivates your adoption
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: home_environment
+      label: Describe Your Home Environment
+      hint: Details about your living space
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: daily_care_plan
+      label: Daily Care Plan for Pet
+      hint: How will you care for the pet daily
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: veterinary_care
+      label: Veterinary Care Commitment
+      hint: Will you provide regular vet care
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, if needed
+      - Probably
+      - Unsure
+      required: true
+    - id: 16
+      name: lifestyle_activity
+      label: Your Lifestyle and Activity Level
+      hint: Description of your daily activities
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pet_behavior_concerns
+      label: Any Pet Behavior Concerns or Special Needs
+      hint: Are there any challenges you can handle
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: references_available
+      label: References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: agree_follow_up
+      label: Agree to Follow-up Contact
+      hint: Permission for us to check in
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_agreement
+      label: Agreement Acceptance
+      hint: Do you agree to our adoption agreement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

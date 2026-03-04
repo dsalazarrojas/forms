@@ -1,0 +1,319 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Credit Application
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dba
+      label: DBA (Doing Business As)
+      hint: Trade name if different
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Government
+      required: true
+    - id: 4
+      name: federal_tax_id
+      label: Federal Tax ID (EIN)
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state_of_incorporation
+      label: State of Incorporation
+      hint: Where business is incorporated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: year_established
+      label: Year Established
+      hint: Year business started
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_header_business_contact
+      label: -- Business Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: Complete business address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_phone
+      label: Business Phone
+      hint: Primary business number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_email
+      label: Business Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: business_website
+      label: Business Website
+      hint: Company website URL
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_principal_owner
+      label: -- Principal Owner --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: owner_name
+      label: Owner Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: owner_title
+      label: Owner Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: owner_ssn
+      label: Owner SSN
+      hint: Social Security Number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: owner_date_of_birth
+      label: Owner Date of Birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: owner_home_address
+      label: Owner Home Address
+      hint: Personal address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: owner_phone
+      label: Owner Phone
+      hint: Personal phone number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_header_financial_info
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Gross annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: years_in_business
+      label: Years in Current Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 23
+      name: section_header_credit_request
+      label: -- Credit Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: credit_amount_requested
+      label: Credit Amount Requested
+      hint: Amount of credit needed
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: credit_purpose
+      label: Purpose of Credit
+      hint: Why do you need credit
+      type: select_one
+      options:
+      - Working Capital
+      - Equipment Purchase
+      - Inventory
+      - Expansion
+      - Real Estate
+      - Debt Consolidation
+      - Other
+      required: true
+    - id: 26
+      name: desired_payment_terms
+      label: Desired Payment Terms
+      hint: Preferred terms
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      - Monthly Installments
+      - Custom
+      required: true
+    - id: 27
+      name: section_header_trade_references
+      label: -- Trade References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: reference_1_name
+      label: Trade Reference 1
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: reference_1_account
+      label: Reference 1 Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: reference_2_name
+      label: Trade Reference 2
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: reference_2_account
+      label: Reference 2 Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_header_bank_references
+      label: -- Bank References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: bank_name
+      label: Bank Name
+      hint: Primary banking institution
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: bank_account_number
+      label: Bank Account Number
+      hint: Account number
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: bank_routing_number
+      label: Bank Routing Number
+      hint: Routing number
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: section_header_agreements
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: credit_check_authorization
+      label: Credit Check Authorization
+      hint: I authorize credit check
+      type: select_one
+      options:
+      - Yes I Authorize
+      - No I Do Not Authorize
+      required: true
+    - id: 40
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 41
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

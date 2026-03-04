@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Returns Coordinator Feedback Form
+    pages:
+    - id: 1
+      name: return_case_details
+      label: Return Case Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_communication
+      label: customer communication
+      hint: How did you communicate with the customer?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: communication_method
+      label: communication_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution_outcome
+      label: Resolution Outcome
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: customer_feedback
+      label: Customer Feedback
+      hint: How would you rate the customer's feedback?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: Time Spent
+      hint: How much time did you spend in total to resolve the case?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: internal_issues
+      label: Internal Issues
+      hint: Were there any internal issues that impacted resolution?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

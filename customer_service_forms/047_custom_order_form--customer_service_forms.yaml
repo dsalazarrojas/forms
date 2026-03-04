@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - On-Hold
+      - On-Process
+      - Done
+      - Cancelled
+      required: false
+    - id: 10
+      name: assign_to
+      label: Assign To
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jack
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false

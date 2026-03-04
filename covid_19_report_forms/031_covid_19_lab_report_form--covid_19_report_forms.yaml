@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Lab Report Form
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Lab Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: report_id
+      label: Lab Report ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lab_name
+      label: Laboratory Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pathologist_name
+      label: Pathologist or Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: sample_header
+      label: -- Sample Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Nasopharyngeal Swab
+      - Oropharyngeal Swab
+      - Sputum
+      - Blood
+      - Bronchoalveolar Lavage
+      - Other
+      required: true
+    - id: 13
+      name: sample_collection_date
+      label: Sample Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: sample_collection_time
+      label: Sample Collection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: sample_received_date
+      label: Sample Received Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: test_section
+      label: -- Test Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - RT-PCR
+      - Rapid Antigen
+      - Antibody
+      - Antigen
+      - Other
+      required: true
+    - id: 18
+      name: test_method
+      label: Test Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: result_section
+      label: -- Test Result --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Invalid
+      required: true
+    - id: 21
+      name: ct_value
+      label: CT Value if applicable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: viral_load
+      label: Viral Load if tested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: result_interpretation
+      label: Result Interpretation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: recommendation
+      label: Clinical Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quality_control
+      label: Quality Control Passed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

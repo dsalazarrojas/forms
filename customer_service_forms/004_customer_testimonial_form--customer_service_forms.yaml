@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Testimonial Form
+    pages:
+    - id: 1
+      name: testimonial_form
+      label: What is your overall experience with our business?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testimonial
+      label: Please write testimonial about our company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: testimonial_score
+      label: Rate your experience with our company
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recommended
+      label: Would you recommend our business?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 5
+      name: email_address
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false

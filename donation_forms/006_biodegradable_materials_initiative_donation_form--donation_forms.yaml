@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biodegradable Materials Initiative Donation Form
+    pages:
+    - id: 1
+      name: donation_header
+      label: -- Donor Information --
+      hint: Help support our biodegradable materials initiative
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor name
+      hint: Full name for tax receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email address
+      hint: We will send a donation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: Donation amount
+      hint: Enter amount in your currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_type
+      label: Donation type
+      hint: One time or recurring
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: Select payment method
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      - Mobile payment
+      required: true
+    - id: 7
+      name: address
+      label: Mailing address
+      hint: Optional for receipts
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tribute_option
+      label: Tribute option
+      hint: Donate in honor of someone
+      type: select_one
+      options:
+      - false
+      - Yes in honor of
+      - Yes in memory of
+      required: false
+    - id: 9
+      name: message
+      label: Message or dedication
+      hint: Optional message for acknowledgment
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_note
+      label: Consent for use of donation
+      hint: Donations support research and outreach
+      type: note
+      options: []
+      required: true

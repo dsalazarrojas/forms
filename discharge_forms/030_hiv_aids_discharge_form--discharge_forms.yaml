@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: HIV/AIDS Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: select_one
+      options:
+      - 123 Main St, Anytown USA 12345
+      - 456 Oak Ave, USA
+      required: false
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: care_instructions
+      label: Care Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_contact
+      label: Next Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_address
+      label: Doctor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Stable
+      - Recovering
+      - Deceased
+      required: false
+    - id: 16
+      name: doctor_facility
+      label: Doctor Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      - Jane
+      required: false
+    - id: 18
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: select_one
+      options:
+      - Discharge for Medical Reasons
+      - Discharge for Non Medical Reasons
+      - Other
+      required: false
+    - id: 21
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: discharge_date_time
+      label: Discharge Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: true

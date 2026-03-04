@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pledge Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: pledge_frequency
+      label: Frequency of Giving
+      hint: 'Select one: weekly, biweekly, monthly'
+      type: select_one
+      options:
+      - weekly
+      - biweekly
+      - monthly
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pledge_amount_in_words
+      label: Pledge Amount in Words
+      hint: null
+      type: text
+      options: []
+      required: false

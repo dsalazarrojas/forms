@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: form_title
+      label: customer_feedback_monitoring_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question
+      label: feedback_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: overall_satisfaction
+      hint: On a scale from 0 to 10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_message
+      label: feedback_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category 1'', ''value'': ''Category 1''}'
+      - Other
+      required: false
+    - id: 10
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Subcategory 1'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Subcategory 2'', ''value'': 2}'
+      required: false
+    - id: 11
+      name: note
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false

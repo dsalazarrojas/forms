@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Connectivity Survey Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internet_speed
+      label: Internet Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: network_stability
+      label: Network Stability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: internet_coverage
+      label: Internet Coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: device_usage
+      label: Device Usage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

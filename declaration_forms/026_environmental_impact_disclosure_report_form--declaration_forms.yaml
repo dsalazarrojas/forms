@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmentalimpactdisclosurereportform
+    pages:
+    - id: 1
+      name: environmentalimpactdisclosurereportformpage
+      label: Environmental Impact Disclosure Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: environmentalimpactdisclosurereportformpage
+      label: Environmental Impact Disclosure Report Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: projectdetails
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: companyinformation
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contactinformation
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: projectlocation
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: projecttype
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - construction
+      - mining
+      - agriculture
+      - manufacturing
+      - transportation
+      - energy
+      - waste management
+      - other
+      required: true
+    - id: 8
+      name: startdate
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: enddate
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: environmentalimpact
+      label: Environmental Impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: measures
+      label: Measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: projectstatus
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - completed
+      - cancelled
+      required: true

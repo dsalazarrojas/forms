@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: program_name
+      label: Program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_date
+      label: Program date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: program_length
+      label: Program length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_score
+      label: Evaluation score
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: evaluation_comment
+      label: Evaluation comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_satisfaction
+      label: How satisfied are you with the program?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: program_improvement_area
+      label: What area for improvement would you suggest?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: program_recommendation
+      label: Would you recommend this program to others?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

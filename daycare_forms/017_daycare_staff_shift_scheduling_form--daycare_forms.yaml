@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Staff Shift Scheduling Form
+    pages:
+    - id: 1
+      name: schedule_shifts
+      label: Schedule Shifts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_availability
+      label: Staff Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shift_types
+      label: Shift Types
+      hint: null
+      type: select_one
+      options:
+      - Shift A
+      - Shift B
+      - Shift C
+      required: false
+    - id: 4
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

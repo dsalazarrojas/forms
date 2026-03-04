@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quiz Form With A Calculated Number Of Correct Answers
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What does a healthy diet look like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Eating a variety of fruits and vegetables''}'
+      - '{''id'': 2, ''label'': ''Avoiding junk food''}'
+      - '{''id'': 3, ''label'': ''Eating lots of protein''}'
+      - '{''id'': 4, ''label'': ''Eating too much sugar''}'
+      required: true
+    - id: 3
+      name: question_2
+      label: How many fruits do you consume per day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: question_3
+      label: What is your height?
+      hint: Feet and inches
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: calculation
+      label: Calculate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: result
+      label: Number of Correct Answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: thanks
+      label: Thank you
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

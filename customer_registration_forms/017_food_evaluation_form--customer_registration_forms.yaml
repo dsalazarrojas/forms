@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_quality
+      label: food quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: taste
+      label: taste
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service
+      label: service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: environment
+      label: environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: will_visit_again
+      label: will visit again
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: will_recommend
+      label: will recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

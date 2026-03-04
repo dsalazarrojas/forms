@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Recourse Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_appeal
+      label: reason_for_appeal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: academic_record
+      label: Academic Record
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: university_email
+      label: University Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 8
+      name: department_involved
+      label: Department Involved
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Engineering
+      - Science
+      - Arts
+      required: true
+    - id: 9
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

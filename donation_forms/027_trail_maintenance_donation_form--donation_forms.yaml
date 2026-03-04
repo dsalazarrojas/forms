@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trail Maintenance Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: purpose_donated
+      label: Purpose Donated
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Trail maintenance''}'
+      - '{''value'': ''Trail improvements''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One Time''}'
+      - '{''value'': ''Recurring''}'
+      required: false
+    - id: 5
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

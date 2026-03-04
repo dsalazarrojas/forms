@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Epidemic Response Fund Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''One-time Donation''}'
+      - '{''id'': 2, ''name'': ''Monthly Support''}'
+      - '{''id'': 3, ''name'': ''Recurring Support''}'
+      required: false
+    - id: 6
+      name: frequency_donation
+      label: Frequency of Donation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''One-time''}'
+      - '{''id'': 2, ''name'': ''Monthly''}'
+      - '{''id'': 3, ''name'': ''Quarterly''}'
+      - '{''id'': 4, ''name'': ''Annually''}'
+      required: false
+    - id: 7
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''Bank Draft''}'
+      - '{''id'': 3, ''name'': ''ACH''}'
+      required: false
+    - id: 8
+      name: address1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

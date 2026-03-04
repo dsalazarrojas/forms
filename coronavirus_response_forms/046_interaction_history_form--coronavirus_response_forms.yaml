@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interaction History Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_date_of_visit
+      label: patient-date-of-visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_location
+      label: patient-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_provider_name
+      label: healthcare-provider-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: visit-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: interaction
+      label: interaction
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare
+      - Contact
+      - Discussion
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: app_connected
+      label: app-connected
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: app_name
+      label: app-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: patient-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: patient-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_phone_type
+      label: patient-phone-type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Landline
+      required: false
+    - id: 13
+      name: patient_phone_number
+      label: patient-phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_relationship
+      label: patient-relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_notes
+      label: patient-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: provider_name
+      label: provider-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: provider_email
+      label: provider-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: provider_phone
+      label: provider-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: provider_phone_type
+      label: provider-phone-type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Landline
+      required: false
+    - id: 20
+      name: provider_phone_number
+      label: provider-phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: provider_notes
+      label: provider-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_medical_notes
+      label: patient-medical-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: provider_medical_notes
+      label: provider-medical-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: provider_relationship
+      label: provider-relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by
+      label: form-submitted-by
+      hint: null
+      type: text
+      options: []
+      required: false

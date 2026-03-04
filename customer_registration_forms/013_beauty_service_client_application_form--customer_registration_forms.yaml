@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Service Client Application Form
+    pages:
+    - id: 1
+      name: section_personal_details
+      label: -- Client Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_health_info
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Do you have any medical conditions we should be aware of?
+      hint: e.g. diabetes, heart conditions, high blood pressure
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: Do you have any allergies?
+      hint: Especially to latex, scents, or chemicals
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pregnancy_status
+      label: Are you currently pregnant?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: false
+    - id: 11
+      name: skin_type
+      label: What is your skin type?
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      required: true
+    - id: 12
+      name: section_consent_terms
+      label: -- Consent and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: treatment_consent
+      label: I consent to receive beauty treatments and understand the results may
+        vary
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 14
+      name: cancellation_terms
+      label: I agree to the salon's cancellation and rescheduling terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: promotional_consent
+      label: I wish to receive promotional emails and offers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

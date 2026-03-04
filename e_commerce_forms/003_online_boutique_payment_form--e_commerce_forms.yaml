@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Boutique Payment Form
+    pages:
+    - id: 1
+      name: online_boutique_payment_form
+      label: Online
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: true
+    - id: 3
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Refunded''}'
+      required: true
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Authorize.net''}'
+      required: true
+    - id: 15
+      name: order_notes_2
+      label: Order Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: order_comments_2
+      label: Order Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_name_2
+      label: Customer Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_email_2
+      label: Customer Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: customer_phone_2
+      label: Customer Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_address_2
+      label: Customer Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 22
+      name: order_notes_3
+      label: Order Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: order_comments_3
+      label: Order Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_name_3
+      label: Customer Name 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Refunded''}'
+      required: true

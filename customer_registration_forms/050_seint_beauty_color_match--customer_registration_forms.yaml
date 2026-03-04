@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: seint_beauty_color_match
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: color_match_image
+      label: upload_color_match_image
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: customer_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: color_match_seint_id
+      label: seint_color_match_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: color_match_seint_type
+      label: seint_color_match_type
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      - orange
+      - yellow
+      - purple
+      required: false
+    - id: 9
+      name: color_match_seint_color
+      label: seint_color_match
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      - orange
+      - yellow
+      - purple
+      required: false
+    - id: 10
+      name: color_match_seint_other_color
+      label: seint_other_color
+      hint: ประก
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      - orange
+      - yellow
+      - purple
+      required: false
+    - id: 11
+      name: color_match_seint_image
+      label: seint_color_match_image
+      hint: null
+      type: text
+      options: []
+      required: false

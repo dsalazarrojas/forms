@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Vendor Complaint Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendors
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - Vender 1
+      - Vender 2
+      - Vender 3
+      required: true
+    - id: 3
+      name: complain
+      label: Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: market_id
+      label: Market Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complainant_id
+      label: Complainant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vendor_id
+      label: Vendor ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: action
+      label: Action
+      hint: null
+      type: select_one
+      options:
+      - Report to Market
+      - Report to Vendors
+      - Report to Both
+      required: true
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 12
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

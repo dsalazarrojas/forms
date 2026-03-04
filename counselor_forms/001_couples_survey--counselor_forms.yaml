@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couple Survey
+    pages:
+    - id: 1
+      name: couple_dynamics
+      label: Couple Dynamics
+      hint: null
+      type: select_multiple
+      options:
+      - Calm and peaceful
+      - Stable and stable
+      - Unpredictable
+      - Stressful
+      required: false
+    - id: 2
+      name: conflict_frequency
+      label: Conflict Frequency
+      hint: How often do they argue?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: couple_dynamics_frequency
+      label: Couple Dynamics Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: love_level
+      label: Love Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 5
+      name: partner_closeness
+      label: Partner Closeness
+      hint: null
+      type: select_multiple
+      options:
+      - Very close
+      - Close
+      - Somewhat close
+      - Somewhat distant
+      - Distant
+      required: false
+    - id: 6
+      name: couple_dynamics_3
+      label: Couple Dynamics 3
+      hint: null
+      type: select_multiple
+      options:
+      - Happy
+      - Neutral
+      - Sad
+      required: false
+    - id: 7
+      name: couple_dynamics_4
+      label: Couple Dynamics 4
+      hint: null
+      type: select_multiple
+      options:
+      - Calm
+      - Tense
+      - Chaotic
+      required: false
+    - id: 8
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Dating
+      - In a relationship
+      - Married
+      required: false
+    - id: 9
+      name: love_languages
+      label: Love Languages
+      hint: null
+      type: select_multiple
+      options:
+      - Words of affirmation
+      - Quality time
+      - Quality gifts
+      - Quality touch
+      - Quality experiences
+      required: false

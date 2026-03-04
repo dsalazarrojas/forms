@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Quotation Form
+    pages:
+    - id: 1
+      name: section_organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: org_name
+      label: Organization Name
+      hint: Name of the nonprofit or charity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: org_contact_person
+      label: Contact Person
+      hint: Who should we contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: org_email
+      label: Email Address
+      hint: Organization email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: org_phone
+      label: Phone Number
+      hint: Contact telephone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: org_address
+      label: Organization Address
+      hint: Complete physical address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_event_requirements
+      label: -- Event Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: Type of Event
+      hint: What kind of charity event is this
+      type: select_one
+      options:
+      - Gala
+      - Fundraiser Dinner
+      - Auction
+      - Fun Run
+      - Concert
+      - Conference
+      - Workshop
+      - Other
+      required: true
+    - id: 9
+      name: event_date
+      label: Proposed Event Date
+      hint: When will this event take place
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: venue_requirement
+      label: Venue Needed
+      hint: Do you need help with venue selection
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Already Selected
+      required: true
+    - id: 12
+      name: catering_needed
+      label: Catering Required
+      hint: Will food and beverage be needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: estimated_budget
+      label: Estimated Budget Range
+      hint: What is your budget in dollars
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_services_requested
+      label: -- Services and Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: services_needed
+      label: Services You Need a Quote For
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Venue Rental
+      - Catering
+      - Audio-Visual Equipment
+      - Event Planning
+      - Staffing
+      - Decorations
+      - Transportation
+      - Printing
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests or Requirements
+      hint: Any unique needs for your event
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_requirements
+      label: Accessibility Accommodations Needed
+      hint: Wheelchair access, hearing assistance, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_goal
+      label: Primary Goal or Fundraising Target
+      hint: What are you trying to raise or accomplish
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quote_deadline
+      label: When Do You Need This Quote
+      hint: By what date do you need our estimate
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

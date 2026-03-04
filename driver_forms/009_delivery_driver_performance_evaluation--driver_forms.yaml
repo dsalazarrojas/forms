@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Driver Performance Evaluation
+    pages:
+    - id: 1
+      name: shift_details
+      label: shift_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_shift_id
+      label: delivery_shift_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: route_details
+      label: route_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_location
+      label: delivery_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_signature
+      label: supervisor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_signature
+      label: driver_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: route_plan
+      label: route_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: route_id
+      label: route_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: total_miles
+      label: total_miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: average_speed
+      label: average_speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_stops
+      label: total_stops
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_breaks
+      label: total_breaks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_drops
+      label: total_drops
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: route_type
+      label: route_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: driver_id
+      label: driver_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: delivery_type
+      label: delivery_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: shift_hours
+      label: shift_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: date
+      options: []
+      required: false

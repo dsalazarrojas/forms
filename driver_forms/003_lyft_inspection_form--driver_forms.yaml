@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lyft Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year_of_purchase
+      label: Vehicle Year of Purchase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_registration_status
+      label: Vehicle Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: vehicle_maintenance_status
+      label: Vehicle Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: vehicle_maintenance_last_date
+      label: Vehicle Maintenance Last Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_maintenance_frequency
+      label: Vehicle Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Utilization Monitoring Form
+    pages:
+    - id: 1
+      name: donation_form_data_1
+      label: Donor Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_info_2
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_3
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_4
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number_5
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_type_6
+      label: Donor Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Individual''}'
+      - '{''option_2'': ''Corporate''}'
+      - '{''option_3'': ''Foundation''}'
+      required: false
+    - id: 7
+      name: donation_amount_7
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: allocation_method_8
+      label: Allocation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Direct''}'
+      - '{''option_2'': ''Indirect''}'
+      - '{''option_3'': ''Other''}'
+      required: false
+    - id: 9
+      name: impact_9
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''High''}'
+      - '{''option_2'': ''Medium''}'
+      - '{''option_3'': ''Low''}'
+      required: false
+    - id: 10
+      name: notes_10
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_11
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_12
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_13
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by_14
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approved_by_15
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewed_by_16
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approved_on_17
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: created_on_18
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_on_19
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_by_20
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_at_21
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submitted_on_22
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_23
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_status_24
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Pending''}'
+      - '{''option_2'': ''Approved''}'
+      - '{''option_3'': ''Rejected''}'
+      required: false
+    - id: 25
+      name: review_comments_25
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false

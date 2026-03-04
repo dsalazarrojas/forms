@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: disciplinary_action_communication_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: disciplinary_action
+      label: Disciplinary Action
+      hint: null
+      type: select_one
+      options:
+      - Warning
+      - Suspension
+      - Termination
+      required: false
+    - id: 9
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: terminated_date
+      label: Terminated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: disciplinary_form_signature
+      label: Disciplinary Form Signature
+      hint: null
+      type: text
+      options: []
+      required: false

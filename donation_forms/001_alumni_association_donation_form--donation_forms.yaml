@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Association Donation Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Please enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: graduation_year
+      label: Graduation Year
+      hint: Year you graduated from our institution
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send your receipt here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_donation_details
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_designation
+      label: Donation Designation
+      hint: Where should your gift be applied?
+      type: select_one
+      options:
+      - General Fund
+      - Scholarship Fund
+      - Athletics Program
+      - Research Initiatives
+      - Arts and Culture
+      required: true
+    - id: 9
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 10
+      name: anonymous_donation
+      label: Would you like this donation to be anonymous?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Any specific instructions for your gift
+      type: text
+      options: []
+      required: false

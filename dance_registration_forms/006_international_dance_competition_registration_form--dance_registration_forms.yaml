@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Dance Competition Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: studio_details
+      label: studio_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact
+      hint: Enter the name and contact number of the adult who will be responsible
+        for the participant during the event.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dancer_info
+      label: dancer_info
+      hint: Enter details about the participant and their experience in the relevant
+        style of dance.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: style_preferences
+      label: style_preferences
+      hint: Select all styles that your dancer is proficient in.
+      type: select_multiple
+      options:
+      - Ballet
+      - Hip-Hop
+      - Jazz
+      - Tap
+      - Contemporary
+      - Ballroom
+      - Lyrical
+      required: true
+    - id: 7
+      name: competition_preferences
+      label: competition_preferences
+      hint: Select which dance style(s) you will be competing in at the event.
+      type: select_multiple
+      options:
+      - Solo
+      - Duet
+      - Group
+      required: true
+    - id: 8
+      name: performance_time
+      label: performance_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: performance_date
+      label: performance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: age_group
+      label: age_group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: dancer_id
+      label: dancer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: Phone number of emergency contact person
+      type: text
+      options: []
+      required: false

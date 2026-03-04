@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braintree Online Donation Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt and communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_zip
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: false
+    - id: 10
+      name: donation_amount_preset
+      label: Donation Amount
+      hint: Select amount
+      type: select_one
+      options:
+      - $10
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1,000
+      - Other amount
+      required: true
+    - id: 11
+      name: donation_amount_custom
+      label: Custom Amount
+      hint: Enter your donation amount
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: donation_type
+      label: Donation Type
+      hint: Type of donation
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly recurring
+      - Annual recurring
+      required: true
+    - id: 13
+      name: fund_designation
+      label: Fund Designation
+      hint: Where should your donation go
+      type: select_one
+      options:
+      - General Fund
+      - Capital Campaign
+      - Scholarship Fund
+      - Program Support
+      - Emergency Fund
+      - Memorial Fund
+      - Where most needed
+      required: true
+    - id: 14
+      name: honor_memory
+      label: Honor or Memory
+      hint: Is this donation in honor or memory
+      type: select_one
+      options:
+      - false
+      - In honor of
+      - In memory of
+      required: true
+    - id: 15
+      name: honoree_name
+      label: Honoree Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notification_sent
+      label: Send Notification
+      hint: Should we notify the honoree or family
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: notification_email
+      label: Notification Email
+      hint: Email for notification
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: employer_name
+      label: Employer Name
+      hint: For matching gift eligibility
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: matching_gift_eligible
+      label: Matching Gift
+      hint: Is your employer matching donations
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank account (ACH)
+      required: true
+    - id: 21
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_expiry
+      label: Card Expiry
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: card_cvv
+      label: Card CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: anonymous_gift
+      label: Anonymous Gift
+      hint: Would you like to remain anonymous
+      type: select_one
+      options:
+      - No, use my name
+      - Yes, fully anonymous
+      - Anonymous to public only
+      required: true
+    - id: 25
+      name: receipt_delivery
+      label: Receipt Delivery
+      hint: How should we send your receipt
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Both
+      required: true
+    - id: 26
+      name: newsletter_opt_in
+      label: Newsletter Opt-In
+      hint: Receive updates on our impact
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: false
+    - id: 27
+      name: sms_opt_in
+      label: SMS Opt-In
+      hint: Receive text updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: donor_message
+      label: Your Message
+      hint: Why are you supporting our cause
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: campaign_code
+      label: Campaign Code
+      hint: If you have a referral or campaign code
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 31
+      name: privacy_policy
+      label: Privacy Policy
+      hint: I have read the privacy policy
+      type: select_one
+      options:
+      - I have read
+      - I have not read
+      required: true
+    - id: 32
+      name: donor_signature
+      label: Donor Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: donation_date
+      label: Donation Date
+      hint: Date of donation
+      type: date
+      options: []
+      required: true

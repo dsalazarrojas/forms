@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery & Install Wizard
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: installation_type
+      label: Installation Type
+      hint: null
+      type: select_one
+      options:
+      - In-home Installation
+      - Off-site Installation
+      required: true
+    - id: 8
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: customer_contact_method
+      label: Customer Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - In-app
+      required: true
+    - id: 11
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false

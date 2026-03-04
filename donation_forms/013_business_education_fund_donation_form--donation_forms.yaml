@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Education Fund Donation Form
+    pages:
+    - id: 1
+      name: donor_section
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For donation receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_type
+      label: Donor Type
+      hint: Are you donating as an individual or business?
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Organization
+      - Foundation
+      required: true
+    - id: 6
+      name: business_name
+      label: Business Name (if applicable)
+      hint: Your company or organization name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_section
+      label: -- Mailing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: donation_section
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: donation_amount
+      label: Donation Amount
+      hint: How much would you like to donate?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring?
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 16
+      name: donation_designation
+      label: Fund Designation
+      hint: How would you like to direct your donation?
+      type: select_one
+      options:
+      - General Education Fund
+      - Scholarship Program
+      - Career Training
+      - Student Support Services
+      - Undirected
+      required: false
+    - id: 17
+      name: payment_section
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Wire Transfer
+      required: true
+    - id: 19
+      name: tax_id
+      label: Tax ID or EIN (for business donors)
+      hint: For tax documentation purposes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preferences_section
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recognition
+      label: Would you like to be recognized as a donor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Anonymously
+      required: true
+    - id: 22
+      name: update_frequency
+      label: How often should we contact you with updates?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - No contact - annual report only
+      required: false
+    - id: 23
+      name: interest_areas
+      label: Interest areas
+      hint: What aspects interest you most?
+      type: select_multiple
+      options:
+      - Scholarships
+      - Skill Development
+      - Mentorship Programs
+      - Career Services
+      - Technology Access
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any message or special requests?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: I agree to the terms and conditions
+      hint: You must accept to complete your donation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

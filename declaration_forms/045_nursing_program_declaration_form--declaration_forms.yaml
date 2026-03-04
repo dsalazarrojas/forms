@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Program Declaration Form
+    pages:
+    - id: 1
+      name: user_email
+      label: user email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_phone
+      label: user phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_start_date
+      label: program start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_end_date
+      label: program end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_location
+      label: program location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_type
+      label: program type
+      hint: null
+      type: select_one
+      options:
+      - BSc
+      - Diploma
+      - Certificate
+      required: false
+    - id: 8
+      name: program_length
+      label: program length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: program_status
+      label: program status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 10
+      name: program_details
+      label: program details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: program_english_language
+      label: program english language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 12
+      name: program_language_other
+      label: other language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_other_language
+      label: other languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_address
+      label: user address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_city
+      label: user city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_state
+      label: user state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_country
+      label: user country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_postal_code
+      label: user post code
+      hint: null
+      type: text
+      options: []
+      required: false

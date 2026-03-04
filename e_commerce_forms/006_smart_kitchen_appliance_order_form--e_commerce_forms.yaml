@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: smart_kitchen_appliance_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: items
+      label: Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''item1'', ''value'': 10}'
+      - '{''id'': 2, ''name'': ''item2'', ''value'': 20}'
+      - '{''id'': 3, ''name'': ''item3'', ''value'': 30}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_contact
+      label: Shipping Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit_card'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''cash'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''check'', ''value'': 3}'
+      required: false
+    - id: 12
+      name: confirm_order
+      label: Confirm Order
+      hint: Please confirm your order
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: terms
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: save_order
+      label: Save Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: view_order
+      label: View Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: delete_order
+      label: Delete Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: update_order
+      label: Update Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: confirm_update
+      label: Confirm Update
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

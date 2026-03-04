@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Test Result Submission Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submitter_type
+      label: Who is submitting this result
+      hint: Submitter category
+      type: select_one
+      options:
+      - Patient or individual
+      - Healthcare provider
+      - Testing facility
+      - Laboratory
+      - Parent or guardian
+      - Employer
+      - School administrator
+      required: true
+    - id: 3
+      name: submitter_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submitter_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submitter_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submitter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_gender
+      label: Patient Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: Patient Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: test_date
+      label: Date of Test
+      hint: When tested
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: test_result
+      label: Test Result
+      hint: Result status
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Presumptive positive
+      - Inconclusive
+      - Invalid
+      required: true
+    - id: 15
+      name: test_type
+      label: Type of Test
+      hint: Test method
+      type: select_one
+      options:
+      - PCR molecular test
+      - Rapid antigen test
+      - Rapid PCR test
+      - Home test kit
+      - Antibody test
+      - Other
+      required: true
+    - id: 16
+      name: test_brand
+      label: Test Brand or Manufacturer
+      hint: Test kit brand
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: specimen_type
+      label: Specimen Type
+      hint: Sample type
+      type: select_one
+      options:
+      - Nasopharyngeal swab
+      - Anterior nasal swab
+      - Mid-turbinate swab
+      - Oropharyngeal swab
+      - Saliva
+      - Other
+      required: true
+    - id: 18
+      name: collection_date
+      label: Specimen Collection Date
+      hint: When sample was collected
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: collection_time
+      label: Specimen Collection Time
+      hint: Time of collection
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: testing_facility_name
+      label: Testing Facility Name
+      hint: Lab or clinic name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: testing_facility_address
+      label: Testing Facility Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: testing_facility_city
+      label: Testing Facility City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: testing_facility_state
+      label: Testing Facility State
+      hint: State
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: testing_facility_zip
+      label: Testing Facility ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: testing_facility_phone
+      label: Testing Facility Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: ordering_provider_name
+      label: Ordering Provider Name
+      hint: Healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: ordering_provider_npi
+      label: Ordering Provider NPI
+      hint: National Provider Identifier
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: result_report_date
+      label: Date Result Was Reported
+      hint: When results were issued
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: test_result_document
+      label: Upload Test Result Document
+      hint: Photo, scan, or PDF
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: submitter_attestation
+      label: I attest that the information and test result submitted is true and accurate
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I attest
+      - No I cannot attest
+      required: true
+    - id: 32
+      name: submitter_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

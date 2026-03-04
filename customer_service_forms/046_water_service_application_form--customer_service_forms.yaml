@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Service Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: water_usage
+      label: Water Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_requests
+      label: Service Requests
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Agricultural
+      required: false
+    - id: 9
+      name: service_requests_other
+      label: Service Requests Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false

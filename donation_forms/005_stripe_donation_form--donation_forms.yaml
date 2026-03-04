@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: donation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: currency_options
+      label: currency_options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: currency_options
+      label: currency_options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stripe_token
+      label: stripe_token
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stripe_publishable_secret
+      label: stripe_publishable_secret
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: currency_options_2
+      label: currency_options_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: currency_options_2
+      label: currency_options_2
+      hint: null
+      type: text
+      options: []
+      required: false

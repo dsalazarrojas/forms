@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_installation_customer_feedback
+    pages:
+    - id: 1
+      name: customer_feedback_form
+      label: Post Installation Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: installation_rating
+      label: Overall Satisfaction
+      hint: On a scale from 1-5, rate how satisfied are you with our service?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_reasons
+      label: What factors influenced your satisfaction?
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Please enter your comments here
+      type: note
+      options: []
+      required: false

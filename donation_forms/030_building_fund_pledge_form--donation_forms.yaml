@@ -1,0 +1,305 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Fund Pledge Form
+    pages:
+    - id: 1
+      name: pledge_header
+      label: -- Building Fund Pledge --
+      hint: Help support our building project with your generous pledge
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, state, and ZIP code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_type
+      label: -- Donor Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donor_category
+      label: Donor category
+      hint: null
+      type: select_one
+      options:
+      - Individual donor
+      - Family/household
+      - Business/corporation
+      - Foundation
+      - Non-profit organization
+      - Trust/estate
+      - Other
+      required: true
+    - id: 9
+      name: organization_name
+      label: Organization name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: membership_status
+      label: Membership or affiliation status
+      hint: null
+      type: select_one
+      options:
+      - Active member
+      - Former member
+      - Friend/supporter
+      - New supporter
+      - Corporate partner
+      - Other
+      required: false
+    - id: 11
+      name: pledge_amount
+      label: -- Pledge Amount --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_pledge
+      label: Total pledge amount
+      hint: Full amount you intend to pledge
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: pledge_option
+      label: How would you like to pledge?
+      hint: null
+      type: select_one
+      options:
+      - Single lump sum
+      - Multiple installments
+      - Monthly pledges
+      - Quarterly pledges
+      - Annual pledge
+      required: true
+    - id: 14
+      name: payment_schedule
+      label: -- Payment Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: first_payment
+      label: First payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: first_payment_date
+      label: First payment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: payment_frequency
+      label: Payment frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time payment
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Custom schedule
+      required: true
+    - id: 18
+      name: payment_duration
+      label: Duration of pledge
+      hint: How long you will make payments
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_payment
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Recurring automatic transfer
+      - Other
+      required: true
+    - id: 21
+      name: recognition_level
+      label: -- Recognition and Giving Levels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: recognition_preference
+      label: Recognition preference
+      hint: How you would like to be recognized
+      type: select_one
+      options:
+      - Public recognition preferred
+      - Recognition optional
+      - Anonymous donation
+      - Corporate recognition preferred
+      required: true
+    - id: 23
+      name: donor_naming
+      label: Name as it should appear
+      hint: Leave blank if same as above
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: giving_level
+      label: Giving level
+      hint: Pledge category/recognition tier
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: dedication
+      label: -- Dedication and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: dedication_option
+      label: Would you like to dedicate this pledge?
+      hint: In memory or honor of someone
+      type: select_one
+      options:
+      - Yes, in honor of
+      - Yes, in memory of
+      - No dedication
+      required: false
+    - id: 27
+      name: dedication_name
+      label: Name for dedication
+      hint: Person to honor or remember
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: project_interest
+      label: Specific areas of building project to support
+      hint: null
+      type: select_multiple
+      options:
+      - General building fund
+      - Specific facility/room
+      - Equipment and furnishings
+      - Technology infrastructure
+      - Accessibility features
+      - Environmental sustainability
+      - Community programs
+      - Other
+      required: false
+    - id: 29
+      name: donor_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: company_match
+      label: Does your employer match donations?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Not applicable
+      required: false
+    - id: 31
+      name: tax_id
+      label: Tax ID or EIN (if applicable)
+      hint: For organizational donors
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: newsletter
+      label: -- Communications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: newsletter_opt_in
+      label: Receive project updates
+      hint: null
+      type: select_one
+      options:
+      - Yes, via email
+      - Yes, via phone
+      - Yes, either method
+      - No, unsubscribe
+      required: false
+    - id: 34
+      name: pledge_agreement
+      label: I agree to the pledge terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 35
+      name: additional_pledge_info
+      label: Additional comments or questions
+      hint: null
+      type: text
+      options: []
+      required: false

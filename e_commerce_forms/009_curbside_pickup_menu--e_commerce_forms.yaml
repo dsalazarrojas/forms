@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curbside Pickup Menu
+    pages:
+    - id: 1
+      name: menu_item_id
+      label: menu_item_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: price
+      label: price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: image_url
+      label: image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: menu_item_type
+      label: menu_item_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''type1''}'
+      - '{''id'': 2, ''label'': ''type2''}'
+      - '{''id'': 3, ''label'': ''type3''}'
+      required: false
+    - id: 6
+      name: price_range
+      label: price_range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''range1''}'
+      - '{''id'': 2, ''label'': ''range2''}'
+      required: false
+    - id: 7
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: menu_image
+      label: menu_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false

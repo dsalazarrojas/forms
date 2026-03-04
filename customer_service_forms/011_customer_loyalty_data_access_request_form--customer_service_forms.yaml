@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Data Access Request Form
+    pages:
+    - id: 1
+      name: customer_loyalty_data_access_request
+      label: Customer Loyal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_data_access_request
+      label: Customer Data Access Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_access
+      label: Date Access
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_access
+      label: Time Access
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_data_access_request_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

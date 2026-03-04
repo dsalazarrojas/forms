@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paymentwall Product Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: Order Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Shipped''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 7
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 13
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false

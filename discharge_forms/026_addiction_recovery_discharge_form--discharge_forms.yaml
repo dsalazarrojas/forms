@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Addiction Recovery Discharge Form
+    pages:
+    - id: 1
+      name: --discharge_summary
+      label: -- Discharge Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: admission_date
+      label: Admission date
+      hint: Date patient entered program
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: discharge_date
+      label: Discharge date
+      hint: Date of discharge from program
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_discharge
+      label: Reason for discharge
+      hint: Completion transfer against advice other
+      type: select_one
+      options: [Completed program, Transferred, Against advice, Other]
+      required: true
+    - id: 6
+      name: condition_at_discharge
+      label: Condition at discharge
+      hint: Brief clinical summary at discharge
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_plan
+      label: Follow up plan
+      hint: Appointments medications aftercare referrals
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: support_contacts
+      label: Support contacts and resources
+      hint: Names and phone numbers for aftercare
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discharge_instructions_given
+      label: Discharge instructions given
+      hint: Confirm patient received written instructions
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 10
+      name: discharging_clinician
+      label: Discharging clinician name
+      hint: Clinician completing discharge
+      type: text
+      options: []
+      required: true

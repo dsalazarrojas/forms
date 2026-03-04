@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Student Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: question1
+      label: question 1
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 4
+      name: question2
+      label: question 2
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 5
+      name: question3
+      label: question 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: question4
+      label: question 4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question5
+      label: question 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question6
+      label: question 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question7
+      label: question 7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question8
+      label: question 8
+      hint: null
+      type: number
+      options: []
+      required: false

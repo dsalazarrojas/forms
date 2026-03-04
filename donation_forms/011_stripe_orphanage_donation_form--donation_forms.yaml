@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Orphanage Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Stripe''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Bank Transfer''}'
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''General Donation''}'
+      - '{''name'': ''Monthly Subscription''}'
+      - '{''name'': ''Recurring Donation''}'
+      required: false
+    - id: 6
+      name: recurring_donation_frequency
+      label: Recurring Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Daily''}'
+      - '{''name'': ''Monthly''}'
+      - '{''name'': ''Quarterly''}'
+      - '{''name'': ''Annually''}'
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_donation
+      label: Confirm Donation
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false

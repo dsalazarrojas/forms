@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheap Sports Jersey Payment Form With Sofort
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your full name as it appears on your card
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send your order confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For order updates and delivery notifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: jersey_selection
+      label: Select Jersey
+      hint: Choose your preferred sports jersey
+      type: select_one
+      options:
+      - Football Jersey - Home
+      - Football Jersey - Away
+      - Basketball Jersey
+      - Baseball Jersey
+      - Soccer Jersey
+      - Hockey Jersey
+      required: true
+    - id: 5
+      name: jersey_size
+      label: Jersey Size
+      hint: Select your preferred size
+      type: select_one
+      options:
+      - Small (S)
+      - Medium (M)
+      - Large (L)
+      - Extra Large (XL)
+      - 2XL
+      - 3XL
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of jerseys to purchase
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: custom_name
+      label: Custom Name on Jersey
+      hint: Optional - Add a name to the back of the jersey
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: custom_number
+      label: Custom Number
+      hint: Optional - Add a number to the jersey
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Germany
+      - France
+      - Australia
+      - Other
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: Select Sofort for instant card payment
+      type: select_one
+      options:
+      - Sofort
+      - Credit Card
+      - Debit Card
+      required: true
+    - id: 14
+      name: card_number
+      label: Card Number
+      hint: Enter your card number for Sofort payment
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expiry_date
+      label: Expiry Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cvv
+      label: CVV
+      hint: 3-digit security code on back of card
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: order_notes
+      label: Order Notes
+      hint: Any special instructions for your order
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_accepted
+      label: I accept the terms and conditions
+      hint: By checking this box you agree to our refund policy
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

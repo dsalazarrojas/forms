@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Discharge Form
+    pages:
+    - id: 1
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainer_license_number
+      label: Trainer License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dog_id
+      label: Dog ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: dog_weight
+      label: Dog Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trainer_notes
+      label: Trainer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_notes
+      label: Owner Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: true
+    - id: 11
+      name: dog_condition
+      label: Dog Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Healthy
+      - Injured
+      - Diseased
+      required: true

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_donation_forms
+    pages:
+    - id: 1
+      name: donor_details
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: card_details
+      label: Credit Card Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: select_donation_fund
+      label: Select a Fund
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: select_donation_fund_label
+      label: Select a Fund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_donation_frequency
+      label: How often would you like to donate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

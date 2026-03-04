@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutor Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: 'Format: XXX-XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course
+      label: Course
+      hint: Select one course
+      type: select_one
+      options:
+      - Math 101
+      - English 101
+      - Science 101
+      required: true
+    - id: 5
+      name: homework_question
+      label: Homework Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tutor_preferred_language
+      label: Preferred Language
+      hint: Select all languages you can work with
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Arabic
+      - Chinese
+      required: false
+    - id: 7
+      name: tutor_subject
+      label: Tutor Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Tutor
+      - Both
+      required: true
+    - id: 11
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: assigned_group
+      label: Assigned Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

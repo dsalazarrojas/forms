@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Micro Donation Form For Local Charities
+    pages:
+    - id: 1
+      name: user_name
+      label: UserName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: DonationAmount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_frequency
+      label: DonationFrequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: true
+    - id: 5
+      name: payment_gateway
+      label: PaymentGateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      required: true
+    - id: 6
+      name: charity_name
+      label: CharityName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: charity_address
+      label: CharityAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: charity_phone
+      label: CharityPhoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_message
+      label: UserMessage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: terms_of_service
+      label: TermsOfService
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

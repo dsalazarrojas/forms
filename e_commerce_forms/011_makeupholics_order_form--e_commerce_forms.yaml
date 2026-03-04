@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeupholics Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: order_total
+      label: Order Total
+      hint: The total cost of the order
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Cash
+      - Transfer
+      required: false
+    - id: 7
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Placed
+      - Delivered
+      - Cancelled
+      required: false
+    - id: 9
+      name: customer_comments
+      label: Customer Comments
+      hint: Any comments for the order
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: Any extra notes about the order
+      type: text
+      options: []
+      required: false

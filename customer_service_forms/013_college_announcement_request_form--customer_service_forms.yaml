@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Announcement Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person submitting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department or Organization
+      hint: Your department or student organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_title
+      label: Event Title
+      hint: Name of the event to announce
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When will the event occur
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Where will the event take place
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_building
+      label: Building or Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_category
+      label: Event Category
+      hint: Type of event
+      type: select_one
+      options:
+      - Academic
+      - Student Organization
+      - Sports
+      - Cultural
+      - Career Fair
+      - Social
+      - Fundraiser
+      - Other
+      required: true
+    - id: 12
+      name: event_description
+      label: Event Description
+      hint: Detailed description of the event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: Approximate attendance
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: is_open_to_public
+      label: Is this event open to the general public
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited Access
+      required: true
+    - id: 15
+      name: registration_required
+      label: Registration Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: registration_link
+      label: Registration Link or Process
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: admission_cost
+      label: Admission Cost
+      hint: Free or ticket price
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_person
+      label: Event Contact Person
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_email_event
+      label: Contact Email for Event
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: flyer_included
+      label: Event Flyer or Image Included
+      hint: Do you have promotional material
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: announcement_deadline
+      label: Announcement Deadline
+      hint: When should this be published
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: special_requirements
+      label: Special Announcements or Requirements
+      hint: Any special considerations
+      type: text
+      options: []
+      required: false

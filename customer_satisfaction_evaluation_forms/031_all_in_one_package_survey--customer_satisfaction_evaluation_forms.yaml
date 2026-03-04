@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: All In One Package Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you purchase?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: package_name
+      label: Package Purchased
+      hint: Which package?
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Deluxe Package
+      - Enterprise Package
+      - Custom Package
+      required: true
+    - id: 6
+      name: package_value
+      label: Package Value
+      hint: Price range
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $101-$250
+      - $251-$500
+      - $501-$1000
+      - Over $1000
+      required: true
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: value_for_money
+      label: Value for Money
+      hint: Rate the value
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 9
+      name: package_contents_rating
+      label: Package Contents Rating
+      hint: Rate what was included
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: quality_rating
+      label: Quality Rating
+      hint: Rate product/service quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: delivery_rating
+      label: Delivery/Setup Rating
+      hint: Rate delivery process
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      - Not applicable
+      required: false
+    - id: 12
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: Rate support received
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      - Not applicable
+      required: false
+    - id: 13
+      name: ease_of_purchase
+      label: Ease of Purchase
+      hint: How easy was it to buy?
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Average
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 14
+      name: met_expectations
+      label: Met Expectations
+      hint: Did it meet your expectations?
+      type: select_one
+      options:
+      - Exceeded expectations
+      - Met expectations
+      - Somewhat met expectations
+      - Did not meet expectations
+      - Far below expectations
+      required: true
+    - id: 15
+      name: would_recommend
+      label: Would Recommend
+      hint: Recommend to others?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 16
+      name: would_purchase_again
+      label: Would Purchase Again
+      hint: Buy again?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 17
+      name: best_feature
+      label: Best Feature
+      hint: What did you like most?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: missing_features
+      label: Missing Features
+      hint: What would you add?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comparison_to_competitors
+      label: Comparison to Competitors
+      hint: How does it compare?
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      - First purchase, no comparison
+      required: false
+    - id: 21
+      name: usage_frequency
+      label: Usage Frequency
+      hint: How often do you use it?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Not yet used
+      required: true
+    - id: 22
+      name: issues_encountered
+      label: Issues Encountered
+      hint: Any problems?
+      type: select_multiple
+      options:
+      - None
+      - Quality issues
+      - Delivery problems
+      - Missing items
+      - Instructions unclear
+      - Customer service issues
+      - Other
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: How Was Your Experience With Us?
+    pages:
+    - id: 1
+      name: rate_experience
+      label: Rate Your Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: rating
+      label: What was your rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: comments
+      label: What are your comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Do you want to be contacted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: additional_feedback
+      label: Any Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name_held
+      label: Name (Held)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_held
+      label: Email (Held)
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,372 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Customer Data Sheet
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Customer first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Customer last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: alternate_contact
+      label: Alternate Contact Number
+      hint: Secondary phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_registered
+      label: Date Registered
+      hint: When did the customer register
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: customer_id
+      label: Customer ID Number
+      hint: Assigned customer identification number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_location
+      label: -- Service Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_address
+      label: Service Address
+      hint: Address where cleaning is performed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Residential - House
+      - Residential - Apartment
+      - Residential - Condo
+      - Residential - Townhouse
+      - Commercial - Office
+      - Commercial - Retail
+      - Commercial - Restaurant
+      - Commercial - Medical
+      - Other
+      required: true
+    - id: 15
+      name: access_code
+      label: Access Code or Key Instructions
+      hint: How do cleaners access the property
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_preferences
+      label: -- Cleaning Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: service_frequency
+      label: Service Frequency
+      hint: How often is service provided
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - One-Time
+      - Irregular or As Needed
+      required: true
+    - id: 18
+      name: preferred_day_of_week
+      label: Preferred Day of Week
+      hint: Which day is preferred
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 19
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: What time works best
+      type: select_one
+      options:
+      - Early Morning (7am - 9am)
+      - Morning (9am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Late Afternoon (4pm - 7pm)
+      - Evening (7pm - 9pm)
+      - Any Time
+      required: true
+    - id: 20
+      name: cleaning_products_preference
+      label: Cleaning Products Preference
+      hint: What type of products should be used
+      type: select_one
+      options:
+      - Standard Products
+      - Eco-Friendly or Green Products
+      - Hypoallergenic Products
+      - Customer Provides Products
+      - No Preference
+      required: true
+    - id: 21
+      name: areas_of_focus
+      label: Areas Requiring Extra Attention
+      hint: Which areas need special focus
+      type: select_multiple
+      options:
+      - Kitchen
+      - Bathrooms
+      - Bedrooms
+      - Living Areas
+      - Floors
+      - Windows
+      - Baseboards
+      - Appliances
+      - Dusting
+      - All Areas Equally
+      required: true
+    - id: 22
+      name: areas_to_avoid
+      label: Areas to Avoid or Exclude
+      hint: Any areas cleaners should not enter
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_household
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: number_of_occupants
+      label: Number of Household Members
+      hint: How many people live in the home
+      type: select_one
+      options:
+      - 1 person
+      - 2 people
+      - 3-4 people
+      - 5-6 people
+      - 7 or more people
+      required: false
+    - id: 25
+      name: children_in_home
+      label: Children in Home
+      hint: Are there children in the home
+      type: select_one
+      options:
+      - No Children
+      - Yes - Infants or Toddlers
+      - Yes - School Age
+      - Yes - Teenagers
+      - Yes - Mixed Ages
+      required: false
+    - id: 26
+      name: pets_in_home
+      label: Pets in Home
+      hint: What pets live in the home
+      type: select_multiple
+      options:
+      - No Pets
+      - Dogs
+      - Cats
+      - Birds
+      - Fish
+      - Small Animals (Hamsters, etc.)
+      - Reptiles
+      - Other
+      required: true
+    - id: 27
+      name: pet_care_instructions
+      label: Pet Care Instructions
+      hint: Any instructions about pets during cleaning
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_health_safety
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: allergies_or_sensitivities
+      label: Allergies or Chemical Sensitivities
+      hint: Any allergies in the household
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: mobility_issues
+      label: Mobility Issues or Accessibility Needs
+      hint: Any accessibility considerations
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: security_system
+      label: Security System Information
+      hint: Is there a security system to disarm
+      type: select_one
+      options:
+      - No Security System
+      - Yes - Code Will Be Provided
+      - Yes - Cleaner Will Be Met to Disarm
+      - Other Arrangements
+      required: true
+    - id: 32
+      name: section_header_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer or ACH
+      - Check
+      - Cash
+      - Online Payment Platform
+      required: true
+    - id: 34
+      name: billing_address
+      label: Billing Address
+      hint: If different from service address
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: invoice_email
+      label: Invoice Email Address
+      hint: Where should invoices be sent
+      type: email
+      options: []
+      required: true
+    - id: 36
+      name: section_header_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - Mobile App Notification
+      - No Preference
+      required: true
+    - id: 38
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: May we send you promotional offers
+      type: select_one
+      options:
+      - Yes - Send me special offers and updates
+      - No - Service communications only
+      required: true
+    - id: 39
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - Online Search
+      - Advertisement
+      - Direct Mail
+      - Previous Customer
+      - Other
+      required: false
+    - id: 40
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false

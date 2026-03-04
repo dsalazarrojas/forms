@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grill Cover Feedback Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: What is your relationship with the grill cover?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Customer''}'
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: product_satisfaction
+      label: How satisfied are you with the grill cover?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 3
+      name: ease_of_use
+      label: How easy is the grill cover to use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Easy''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Difficult''}'
+      required: false
+    - id: 4
+      name: grill_cover_performance
+      label: How well does the grill cover perform?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: product_suggestions
+      label: Do you have any product suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

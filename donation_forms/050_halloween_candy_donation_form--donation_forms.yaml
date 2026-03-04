@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: halloween_candy_donation_form
+    pages:
+    - id: 1
+      name: donation_location
+      label: Donation Location
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''home''}'
+      - store
+      - other
+      required: false
+    - id: 2
+      name: number_of_children
+      label: Number of children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: type_of_candy
+      label: Type of Candy
+      hint: null
+      type: select_multiple
+      options:
+      - M&M's
+      - Reese's Pieces
+      - Starburst
+      - Sour Patch Kids
+      - Snickers
+      - Skor
+      - 3 Musketeers
+      required: false
+    - id: 4
+      name: amount_of_candy
+      label: Amount of Candy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

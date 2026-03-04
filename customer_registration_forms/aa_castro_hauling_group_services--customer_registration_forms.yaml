@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AA CASTRO Hauling Group Services
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Provide a number we can reach you at
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification purposes
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Leave blank if you prefer not to disclose
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Full street address, city, state, ZIP
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number for the emergency contact
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: experience_level
+      label: Experience level
+      hint: How experienced are you with moving/hauling?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: false
+    - id: 11
+      name: section_header_service
+      label: '--- Service Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_type
+      label: Type of service requested
+      hint: Choose the primary service
+      type: select_one
+      options:
+      - Residential move
+      - Commercial move
+      - Storage
+      - Delivery
+      - Pickup
+      required: true
+    - id: 13
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How would you like us to reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: true
+    - id: 14
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: When is the best time to call or text you?
+      type: select_one
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-6pm)
+      - Evening (6pm-10pm)
+      - Anytime
+      required: true
+    - id: 15
+      name: insurance_required
+      label: Insurance coverage required?
+      hint: Do you need us to provide insurance for the haul?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: vehicle_type
+      label: Vehicle type (if applicable)
+      hint: Select the vehicle you will use for the haul
+      type: select_one
+      options:
+      - Truck
+      - Van
+      - Box truck
+      - Trailer
+      - None
+      required: false
+    - id: 17
+      name: number_of_items
+      label: Estimated number of items
+      hint: Approximate count of items to move
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: move_date
+      label: Desired move date
+      hint: Pick the earliest date you can schedule
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: e.g., fragile items, tight spaces, heavy equipment
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: Do you accept our terms and conditions?
+      hint: By selecting 'Yes', you agree to our service agreement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Service Feedback Form
+    pages:
+    - id: 1
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 5}'
+      - '{''label'': 4}'
+      - '{''label'': 3}'
+      - '{''label'': 2}'
+      - '{''label'': 1}'
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Additional Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_5
+      label: Rating 5
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: rating_4
+      label: Rating 4
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: category_5
+      label: Category 5
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 5''}'
+      - '{''label'': ''Option 6''}'
+      - '{''label'': ''Option 7''}'
+      required: false
+    - id: 16
+      name: category_4
+      label: Category 4
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 8''}'
+      - '{''label'': ''Option 9''}'
+      - '{''label'': ''Option 10''}'
+      required: false

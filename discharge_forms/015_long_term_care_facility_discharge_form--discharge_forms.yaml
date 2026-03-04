@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long Term Care Facility Discharge Form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: next_step
+      label: next_step
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: resident_information
+      label: resident_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: discharge_instructions
+      label: discharge_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resident_signature_date
+      label: resident_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: facility_signature_date
+      label: facility_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resident_name
+      label: resident_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resident_id
+      label: resident_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: discharge_facility
+      label: discharge_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_residence
+      label: next_residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: discharge_date_time
+      label: discharge_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: next_provider
+      label: next_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: discharge_location
+      label: discharge_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_step_instructions
+      label: next_step_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_responsible_party
+      label: facility_responsible_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resident_status
+      label: resident_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_responsible_party_name
+      label: facility_responsible_party_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_responsible_party_phone
+      label: facility_responsible_party_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_provider_name
+      label: next_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_provider_phone
+      label: next_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: text
+      options: []
+      required: false

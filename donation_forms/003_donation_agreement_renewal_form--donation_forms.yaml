@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Agreement Renewal Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: gift_frequency
+      label: Gift Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: false
+    - id: 6
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: renewal_term
+      label: Renewal Term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Draft
+      - Bank Transfer
+      required: false
+    - id: 10
+      name: gift_frequency_other
+      label: Other (Gift Frequency)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_frequency_other
+      label: Other (Payment Frequency)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: donation_amount_other
+      label: Other (Donation Amount)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: renewal_term_other
+      label: Other (Renewal Term)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreement_signed
+      label: Signed Agreement
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Not Signed
+      required: false
+    - id: 16
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - Donor Agreement
+      - Pledge Agreement
+      - Grant Agreement
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mail Delivery Form
+    pages:
+    - id: 1
+      name: recipient_name
+      label: Enter recipient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: sender_name
+      label: Enter sender name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sender_company
+      label: Sender company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sender_address
+      label: Sender address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: package_contents
+      label: Package contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: package_tracking_number
+      label: Package tracking number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_status
+      label: Delivery status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Delivered
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

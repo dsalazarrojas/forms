@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Shipping Feedback Survey
+    pages:
+    - id: 1
+      name: shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - UPS
+      - FedEx
+      - DHL
+      - Other
+      required: false
+    - id: 2
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Late
+      - Unknown
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      required: false
+    - id: 6
+      name: package_condition
+      label: Package Condition
+      hint: null
+      type: select_one
+      options:
+      - In Good Condition
+      - Damaged
+      - Missing Parts
+      required: false
+    - id: 7
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - Box
+      - Envelope
+      - Other
+      required: false
+    - id: 8
+      name: package_value
+      label: Package Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipping_speed
+      label: Shipping Speed
+      hint: null
+      type: select_one
+      options:
+      - Fast
+      - Slow
+      - Unknown
+      required: false
+    - id: 10
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Unclear
+      - Unknown
+      required: false

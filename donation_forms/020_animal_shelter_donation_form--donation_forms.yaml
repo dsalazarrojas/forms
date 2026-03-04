@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: Full name or organization
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Optional contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_address
+      label: Street Address
+      hint: For tax receipt if needed
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_type
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - One-Time Donation
+      - Monthly Recurring
+      - Quarterly Recurring
+      - Annual Recurring
+      - Memorial or Tribute
+      - Corporate Matching
+      - In-Kind Donation
+      required: true
+    - id: 9
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: designated_fund
+      label: Designate Your Donation To
+      hint: Where should your gift be used
+      type: select_one
+      options:
+      - Where Needed Most
+      - Medical Care Fund
+      - Food and Supplies
+      - Facility Maintenance
+      - Emergency Rescue Fund
+      - Spay and Neuter Program
+      - Senior Animal Care
+      - Puppy and Kitten Program
+      - Behavioral Rehabilitation
+      - Other
+      required: true
+    - id: 11
+      name: designated_other
+      label: Other Designation
+      hint: If other specified
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: honor_memory
+      label: Is This Donation In Honor or Memory of Someone
+      hint: null
+      type: select_one
+      options:
+      - Yes - In Honor
+      - Yes - In Memory
+      - false
+      required: false
+    - id: 13
+      name: honoree_name
+      label: Honoree Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notification_contact
+      label: Should We Send Notification to Honoree Family
+      hint: null
+      type: select_one
+      options:
+      - Yes - Email
+      - Yes - Mail
+      - No Thank You
+      required: false
+    - id: 15
+      name: notification_email
+      label: Notification Email
+      hint: If yes provide email
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check by Mail
+      - Cryptocurrency
+      required: true
+    - id: 17
+      name: card_type
+      label: Card Type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 18
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: expiration_date
+      label: Expiration Date
+      hint: MM-YYYY
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cvv
+      label: Security Code
+      hint: CVV on back of card
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_address
+      label: Billing Address
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employer_name
+      label: Employer Name
+      hint: For matching gift
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: matching_gift
+      label: Is Your Employer Matching This Donation
+      hint: null
+      type: select_one
+      options:
+      - Yes - Will Submit
+      - Yes - Already Submitted
+      - false
+      - Not Eligible
+      required: false
+    - id: 24
+      name: receipt_preference
+      label: Tax Receipt Preference
+      hint: null
+      type: select_one
+      options:
+      - Email Receipt
+      - Mail Receipt
+      - No Receipt Needed
+      required: true
+    - id: 25
+      name: newsletter_signup
+      label: Would You Like to Receive Our Newsletter
+      hint: Stay updated on our work
+      type: select_one
+      options:
+      - Yes Please
+      - No Thank You
+      required: false
+    - id: 26
+      name: communication_preferences
+      label: How May We Contact You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No Contact Please
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_acceptance
+      label: I Agree to the Donation Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Agree
+      - Other
+      required: true

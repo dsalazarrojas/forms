@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaints, Compliments And Feedback Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Provide an email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional phone contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interaction_date
+      label: Interaction date
+      hint: Date of the service interaction
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interaction_channel
+      label: Interaction channel
+      hint: Select the channel used
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In Person
+      required: true
+    - id: 7
+      name: feedback_type
+      label: Feedback type
+      hint: Choose the type of feedback
+      type: select_one
+      options:
+      - Complaint
+      - Compliment
+      - Suggestion
+      - Other
+      required: true
+    - id: 8
+      name: details_of_feedback
+      label: Details of feedback
+      hint: Describe your experience in detail
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: resolution_sought
+      label: Resolution sought
+      hint: State desired outcome if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: permission_for_follow_up
+      label: Permission for follow up
+      hint: May we contact you to discuss this feedback
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: overall_rating
+      label: Overall rating
+      hint: Rate overall experience from 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_evaluation_form
+    pages:
+    - id: 1
+      name: item_name
+      label: Item name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reliability_rating
+      label: Reliability rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: value_rating
+      label: Value for money rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ease_of_use
+      label: Ease of use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - Other
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Smart Grid Information Collection Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: customer_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_last_name
+      label: customer_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: utility_metering
+      label: utility_metering
+      hint: null
+      type: select_one
+      options:
+      - Utility A
+      - Utility B
+      - Utility C
+      required: false
+    - id: 7
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meter_reading
+      label: meter_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: usage_period
+      label: usage_period
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 10
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 14
+      name: assigned_to_id
+      label: assigned_to_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: utility
+      label: utility
+      hint: null
+      type: select_one
+      options:
+      - Utility A
+      - Utility B
+      - Utility C
+      required: false
+    - id: 16
+      name: utility_type
+      label: utility_type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 17
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - Status A
+      - Status B
+      - Status C
+      required: false

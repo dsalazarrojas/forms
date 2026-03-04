@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Page
+    pages:
+    - id: 1
+      name: page_title
+      label: Contact Us Page
+      hint: Customer service contact
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_id
+      label: Account ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_reason
+      label: Reason for Contact
+      hint: Select category
+      type: select_one
+      options:
+      - Account Inquiry
+      - Billing Question
+      - Product Support
+      - Service Issue
+      - General Question
+      - Complaint
+      required: true
+    - id: 7
+      name: product_related
+      label: Product or Service
+      hint: Which one
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      - Service Plan
+      - Not Applicable
+      required: false
+    - id: 8
+      name: issue_summary
+      label: Issue Summary
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issue_details
+      label: Detailed Description
+      hint: Full details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: previous_contact
+      label: Have You Contacted Us Before
+      hint: Previous contact
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: reference_id
+      label: Previous Reference ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_response
+      label: Preferred Response
+      hint: How to contact
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 13
+      name: availability
+      label: Best Time to Reach You
+      hint: When available
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 5pm
+      - Evening - 5pm to 8pm
+      - Weekend
+      required: false

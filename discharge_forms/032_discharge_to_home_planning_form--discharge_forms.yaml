@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discharge To Home Planning Form
+    pages:
+    - id: 1
+      name: discharge_to_home_planning_form
+      label: Discharge to home planning form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_identifier
+      label: patient_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_discharge
+      label: date_of_discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_discharge
+      label: time_of_discharge
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_schedule
+      label: follow_up_schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: care_plan
+      label: care_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_provider
+      label: follow_up_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_contact_phone
+      label: follow_up_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_contact_email
+      label: follow_up_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

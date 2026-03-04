@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Development Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_department
+      label: Current Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_position
+      label: Current Position or Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenure_years
+      label: Years with Company
+      hint: How long have you worked here?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: career_satisfaction
+      label: Overall Career Satisfaction
+      hint: How satisfied are you with your current role?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 7
+      name: growth_opportunity
+      label: Do you see growth opportunities in your current role?
+      hint: null
+      type: select_one
+      options:
+      - Yes - strong opportunities
+      - Some - limited opportunities
+      - No - very limited
+      - Unsure
+      required: true
+    - id: 8
+      name: career_aspirations
+      label: What are your long-term career aspirations?
+      hint: Where do you see yourself in 5 years?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: promotion_interest
+      label: Are you interested in a promotion or advancement?
+      hint: null
+      type: select_one
+      options:
+      - Yes - promotion within current department
+      - Yes - promotion to different department
+      - Yes - lateral move for new skills
+      - No - content in current role
+      - Unsure
+      required: true
+    - id: 10
+      name: skills_gaps
+      label: What Skills Do You Want to Develop?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technical or software skills
+      - Leadership and management
+      - Communication and presentation
+      - Project management
+      - Industry-specific expertise
+      - Problem-solving abilities
+      - Customer service
+      - Sales skills
+      - Data analysis
+      - Other professional skills
+      required: true
+    - id: 11
+      name: training_needs
+      label: Training or Development Needs
+      hint: What training would help your career growth?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_learning
+      label: Preferred Learning Methods
+      hint: How do you prefer to learn new skills?
+      type: select_multiple
+      options:
+      - In-person workshops or seminars
+      - Online courses or webinars
+      - One-on-one coaching or mentoring
+      - On-the-job training
+      - Self-paced learning materials
+      - Group team training
+      - Certification programs
+      required: true
+    - id: 13
+      name: mentorship_interest
+      label: Interest in Mentorship
+      hint: Would you like a mentor or mentee opportunity?
+      type: select_one
+      options:
+      - Yes - I want a mentor
+      - Yes - I want to mentor someone
+      - Both
+      - No - not interested
+      required: true
+    - id: 14
+      name: networking_goals
+      label: Networking and Professional Development Goals
+      hint: Conferences, associations, professional events?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: barriers_to_growth
+      label: Barriers to Career Growth
+      hint: What obstacles prevent advancement?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_support
+      label: Does Your Manager Support Your Development?
+      hint: null
+      type: select_one
+      options:
+      - Yes - very supportive
+      - Somewhat - some support
+      - Minimal - little support
+      - No - not supportive
+      required: true
+    - id: 17
+      name: company_resources
+      label: Are You Aware of Company Development Resources?
+      hint: Tuition reimbursement, training programs, career paths?
+      type: select_one
+      options:
+      - Yes - aware and using them
+      - Yes - aware but not using them
+      - No - not aware
+      required: true
+    - id: 18
+      name: certification_interest
+      label: Interested in Professional Certifications?
+      hint: e.g., MBA, PMP, AWS, etc.
+      type: select_one
+      options:
+      - Yes - considering one
+      - Yes - already pursuing
+      - Maybe - need more information
+      - No - not interested
+      required: false
+    - id: 19
+      name: certification_type
+      label: What Certifications Are You Interested In?
+      hint: Specific credentials or qualifications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: industry_change
+      label: Considering a Career Change Within the Industry?
+      hint: Different role, department, or function?
+      type: select_one
+      options:
+      - Yes - definitely
+      - Maybe - open to opportunities
+      - No - content with current path
+      required: true
+    - id: 21
+      name: work_life_balance
+      label: Work-Life Balance Satisfaction
+      hint: How well does work fit with personal life?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs improvement
+      - Unsustainable
+      required: false
+    - id: 22
+      name: flexible_arrangements
+      label: Are Flexible Work Arrangements Important to You?
+      hint: Remote work, flexible hours, part-time?
+      type: select_one
+      options:
+      - Yes - essential
+      - Yes - important
+      - Somewhat - nice to have
+      - No - not important
+      required: false
+    - id: 23
+      name: career_goals_timeline
+      label: Timeline for Career Goals
+      hint: When do you want to achieve your goals?
+      type: select_one
+      options:
+      - 1-2 years
+      - 3-5 years
+      - 5+ years
+      - No specific timeline
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any other career development topics you want to discuss?
+      type: text
+      options: []
+      required: false

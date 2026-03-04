@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Self Declaration Form
+    pages:
+    - id: 1
+      name: traveler_full_name
+      label: Traveler Full Name
+      hint: As it appears on your passport
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: passport_id_number
+      label: Passport or National ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_flight
+      label: -- Flight and Travel Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: airline_name
+      label: Airline Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: departure_airport
+      label: Departure Airport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: arrival_airport
+      label: Arrival Airport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: travel_purpose
+      label: Purpose of Travel
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Tourism/Leisure
+      - Family Visit
+      - Education/Study
+      - Resident Return
+      required: true
+    - id: 12
+      name: section_declaration
+      label: -- Health and Customs Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: health_status
+      label: I confirm I have no infectious disease symptoms
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - I have symptoms
+      required: true
+    - id: 14
+      name: restricted_items
+      label: Are you carrying any restricted or prohibited items?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (List in comments)
+      required: true
+    - id: 15
+      name: currency_declaration
+      label: Are you carrying currency exceeding 10,000 USD or equivalent?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: comments_declaration
+      label: Additional Declaration Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: acknowledgment_truth
+      label: I declare that all information provided is true and correct
+      hint: Providing false information may lead to legal action
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

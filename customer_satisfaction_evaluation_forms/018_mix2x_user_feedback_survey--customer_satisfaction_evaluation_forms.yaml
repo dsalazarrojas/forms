@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mix2X User Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: user_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: product_quality
+      hint: null
+      type: select_one
+      options:
+      - option_2
+      - option_3
+      - option_4
+      required: true
+    - id: 4
+      name: question_3
+      label: product_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: true
+    - id: 5
+      name: question_4
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_5
+      label: question_5
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: question_6
+      label: question_6
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: question_7
+      label: question_7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: question_8
+      label: question_8
+      hint: null
+      type: select_one
+      options:
+      - option_5
+      - option_6
+      - option_7
+      - option_8
+      required: true
+    - id: 12
+      name: question_9
+      label: question_9
+      hint: null
+      type: select_multiple
+      options:
+      - option_9
+      - option_10
+      - option_11
+      - option_12
+      required: true
+    - id: 13
+      name: question_10
+      label: question_10
+      hint: null
+      type: text
+      options: []
+      required: false

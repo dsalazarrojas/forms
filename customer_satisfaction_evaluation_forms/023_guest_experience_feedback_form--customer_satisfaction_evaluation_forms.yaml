@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Experience Feedback Form
+    pages:
+    - id: 1
+      name: customer_satisfaction_form
+      label: Customer Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_form
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Rating: Very Good'
+      - 'Rating: Good'
+      - 'Rating: Neutral'
+      - 'Rating: Bad'
+      - 'Rating: Very Bad'
+      required: false
+    - id: 3
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: Be specific and provide details.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: how_did_you_feel_during_your_visit
+      label: How Did You Feel During Your Visit
+      hint: null
+      type: select_one
+      options:
+      - Very Happy
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very Unsatisfied
+      required: false
+    - id: 5
+      name: what_were_the_most_important_factors_for_you
+      label: What Were The Most Important Factors For You
+      hint: null
+      type: select_multiple
+      options:
+      - Cleanliness
+      - Friendliness
+      - Price
+      - Food Quality
+      - Service Quality
+      required: false
+    - id: 6
+      name: how_did_you_get_to_our_location
+      label: How Did You Get To Our Location
+      hint: null
+      type: select_one
+      options:
+      - Public Transport
+      - Walk
+      - Ride-hailing
+      - Drove
+      - Other
+      required: false
+    - id: 7
+      name: how_did_you_leave_our_location
+      label: How Did You Leave Our Location
+      hint: null
+      type: select_one
+      options:
+      - Public Transport
+      - Walk
+      - Ride-hailing
+      - Drove
+      - Other
+      required: false
+    - id: 8
+      name: do_you_recommend_our_location_to_others
+      label: Do You Recommend Our Location To Others
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 9
+      name: would_you_like_to_receive_promotions
+      label: Would You Like To Receive Promotions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

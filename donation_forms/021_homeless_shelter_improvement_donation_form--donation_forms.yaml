@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeless Shelter Improvement Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: recurring_donations
+      label: Recurring Donations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: one_time_donations
+      label: One-Time Donations
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1 month''}'
+      - '{''value'': ''3 months''}'
+      - '{''value'': ''6 months''}'
+      required: true
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: true
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shelter_upgrades
+      label: Shelter Upgrades
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Shelter Renovations''}'
+      - '{''value'': ''Furniture and Supplies''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

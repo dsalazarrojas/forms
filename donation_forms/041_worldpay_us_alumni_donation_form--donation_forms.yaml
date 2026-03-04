@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: worldpay_us_alumni_donation_form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount_given
+      label: Amount Given
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: gift_frequency
+      label: Gift Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 4
+      name: gift_frequency_other
+      label: If Other, specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gift_frequency_other_value
+      label: Gift Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gift_frequency_other_value2
+      label: Gift Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gift_frequency_monthly_frequency
+      label: Monthly Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Other (please specify)
+      required: true
+    - id: 13
+      name: payment_method_other
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: security_code
+      label: Security Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: gift_frequency_quarterly_frequency
+      label: Quarterly Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 18
+      name: amount_given2
+      label: Amount Given
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: donation_method
+      label: Method of Donation
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 20
+      name: gift_frequency_monthly_frequency2
+      label: Monthly Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 21
+      name: gift_frequency_quarterly_frequency2
+      label: Quarterly Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 22
+      name: payment_method2
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Other (please specify)
+      required: true
+    - id: 23
+      name: month_of_donation
+      label: Month of Donations
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 24
+      name: gift_frequency_monthly_frequency3
+      label: Monthly Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 25
+      name: month_of_donation2
+      label: Month of Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      required: true

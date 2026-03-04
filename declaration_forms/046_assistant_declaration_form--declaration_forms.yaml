@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assistant Declaration Form
+    pages:
+    - id: 1
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assistant_name
+      label: Assistant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assistant_id
+      label: Assistant ID
+      hint: Employee or staff number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Work department
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Who you report to
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_name
+      label: Assignment Name
+      hint: Task or project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assignment_description
+      label: Assignment Description
+      hint: What you will do
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assignment_start_date
+      label: Assignment Start Date
+      hint: When begins
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: assignment_end_date
+      label: Assignment End Date
+      hint: When ends
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: declaration_type
+      label: Declaration Type
+      hint: What kind
+      type: select_one
+      options:
+      - New Assignment Declaration
+      - Role Change Declaration
+      - Responsibility Acknowledgment
+      - Conflict of Interest Declaration
+      - Confidentiality Declaration
+      required: true
+    - id: 14
+      name: duties_understood
+      label: Do You Understand Your Duties
+      hint: Clear on responsibilities
+      type: select_one
+      options:
+      - Yes - Fully Understood
+      - Mostly - Some Clarification Needed
+      - No - Need Full Explanation
+      required: true
+    - id: 15
+      name: resources_available
+      label: Are Necessary Resources Available
+      hint: Tools and support
+      type: select_one
+      options:
+      - Yes - All Available
+      - Some - Need Additional
+      - No - Need Full Support
+      required: true
+    - id: 16
+      name: timeline_feasible
+      label: Is Assignment Timeline Feasible
+      hint: Can you complete
+      type: select_one
+      options:
+      - Yes - Realistic
+      - Yes - With Adjustments
+      - No - Need Extension
+      required: true
+    - id: 17
+      name: potential_conflicts
+      label: Are There Potential Conflicts
+      hint: Other commitments
+      type: select_one
+      options:
+      - No Conflicts
+      - Minor Conflicts
+      - Major Conflicts
+      required: true
+    - id: 18
+      name: conflicts_description
+      label: Describe Any Conflicts
+      hint: Explain issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confidentiality_agreement
+      label: Do You Agree to Maintain Confidentiality
+      hint: Keep information private
+      type: select_one
+      options:
+      - Yes I Agree
+      - 'No'
+      required: true
+    - id: 20
+      name: ethical_standards
+      label: Do You Agree to Uphold Ethical Standards
+      hint: Follow code of conduct
+      type: select_one
+      options:
+      - Yes I Agree
+      - 'No'
+      required: true
+    - id: 21
+      name: reporting_requirements
+      label: Do You Understand Reporting Requirements
+      hint: Know when to report
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: training_completed
+      label: Have You Completed Required Training
+      hint: Prerequisite courses
+      type: select_one
+      options:
+      - Yes - All Training
+      - Some - In Progress
+      - No - Need Training
+      required: true
+    - id: 23
+      name: questions_concerns
+      label: Do You Have Questions or Concerns
+      hint: Anything unclear
+      type: select_one
+      options:
+      - No - All Clear
+      - Yes - Minor Questions
+      - Yes - Major Concerns
+      required: true
+    - id: 24
+      name: questions_description
+      label: Describe Questions or Concerns
+      hint: Explain what
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: commitment_statement
+      label: I Commit to Fulfilling This Assignment
+      hint: Promise to complete
+      type: select_one
+      options:
+      - Yes I Commit
+      - 'No'
+      required: true
+    - id: 26
+      name: accuracy_statement
+      label: I Declare This Information Is Accurate
+      hint: Confirm truthfulness
+      type: select_one
+      options:
+      - Yes I Declare
+      - 'No'
+      required: true
+    - id: 27
+      name: assistant_signature
+      label: Assistant Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type name to approve
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: hr_acknowledgment
+      label: HR Acknowledgment
+      hint: HR approval
+      type: select_one
+      options:
+      - Acknowledged
+      - Pending
+      - Not Required
+      required: true

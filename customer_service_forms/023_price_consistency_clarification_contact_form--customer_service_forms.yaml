@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: price-consistency-clarification-contact-form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description of Price Discrepancy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: best_number_to_contact
+      label: Best Number to Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_preferred_language
+      label: Customer Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Español
+      - Français
+      required: true
+    - id: 7
+      name: customer_preferred_currency
+      label: Customer Preferred Currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: true
+    - id: 8
+      name: customer_comment
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: internal_representation
+      label: Internal Representation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_name_alias
+      label: Customer Name Alias
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email_alias
+      label: Customer Email Alias
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone_alias
+      label: Customer Phone Alias
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_date_of_last_contact
+      label: Customer Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: customer_time_of_last_contact
+      label: Customer Time of Last Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: customer_last_contact_channel
+      label: Customer Last Contact Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In-person
+      required: false
+    - id: 16
+      name: customer_last_contact_method
+      label: Customer Last Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 17
+      name: customer_preferred_channel
+      label: Customer Preferred Contact Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 18
+      name: customer_preferred_contact_method
+      label: Customer Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 19
+      name: customer_relevant_details
+      label: Relevant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: price_alias
+      label: Price Alias
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: customer_preferred_currency_alias
+      label: Customer Preferred Currency Alias
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reason_for_contact
+      label: Reason for Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy Eating Survey
+    pages:
+    - id: 1
+      name: survey_frequency
+      label: What frequency is this survey about?
+      hint: 'null'
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      - yearly
+      required: false
+    - id: 2
+      name: food_consumption
+      label: What is your typical food consumption?
+      hint: 'null'
+      type: select_multiple
+      options:
+      - fruits
+      - vegetables
+      - grains
+      - dairy
+      - meat
+      required: false
+    - id: 3
+      name: water_intake
+      label: How much water do you drink each day?
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exercise_frequency
+      label: What frequency do you exercise?
+      hint: 'null'
+      type: select_one
+      options:
+      - rarely
+      - sometimes
+      - often
+      - daily
+      required: false
+    - id: 5
+      name: sleep_duration
+      label: How many hours do you sleep each night?
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: meal_frequency
+      label: How often do you eat meals?
+      hint: 'null'
+      type: select_one
+      options:
+      - less than 3
+      - 3-5
+      - 6-9
+      - more than 9
+      required: false
+    - id: 7
+      name: physical_activity
+      label: Do you have any physical activity?
+      hint: 'null'
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 8
+      name: dietician_recommendation
+      label: Would you like a dietitian's recommendation?
+      hint: 'null'
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email address
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: 'null'
+      type: text
+      options: []
+      required: false

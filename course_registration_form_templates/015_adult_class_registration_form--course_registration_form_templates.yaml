@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Class Registration Form
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Students must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_course
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: course_title
+      label: Course Title
+      hint: Select the course you wish to enroll in
+      type: select_one
+      options:
+      - Digital Literacy
+      - Conversational Spanish
+      - Introduction to Yoga
+      - Financial Planning
+      - Photography Basics
+      - Cooking for Beginners
+      required: true
+    - id: 8
+      name: session_preference
+      label: Session Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning 9am-12pm
+      - Afternoon 1pm-4pm
+      - Evening 6pm-9pm
+      required: true
+    - id: 9
+      name: days_available
+      label: Days Available
+      hint: Select all that work for your schedule
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: true
+    - id: 10
+      name: section_goals
+      label: -- Background and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: previous_experience_in_topic
+      label: Previous Experience in Topic
+      hint: Describe any relevant skills or classes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: primary_learning_goal
+      label: Primary Learning Goal
+      hint: What do you hope to achieve by the end of this course?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: how_did_you_hear_about_us
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend or Referral
+      - Print Ad
+      - Other
+      required: false
+    - id: 14
+      name: section_payment
+      label: -- Payment and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: registration_fee_status
+      label: Registration Fee Status
+      hint: Select your payment method
+      type: select_one
+      options:
+      - Paid online
+      - Pay in person
+      - Request scholarship
+      required: true
+    - id: 16
+      name: agree_to_attendance_policy
+      label: Agree to Attendance Policy
+      hint: Attendance at 80% of classes is required for certification
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

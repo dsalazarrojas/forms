@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Relief Donation Form
+    pages:
+    - id: 1
+      name: donatetitle
+      label: Insurance Relief Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: donationtype
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - Insurance Coverage
+      - Other
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirmemail
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: confirmphone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

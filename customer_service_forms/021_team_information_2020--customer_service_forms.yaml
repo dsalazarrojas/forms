@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Information 2020
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - Team Member
+      - Team Member
+      - Team Member
+      required: false
+    - id: 3
+      name: team_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: team_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

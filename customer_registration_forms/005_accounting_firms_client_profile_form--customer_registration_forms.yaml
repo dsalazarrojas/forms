@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Firms Client Profile Form
+    pages:
+    - id: 1
+      name: company_legal_name
+      label: Company Legal Name
+      hint: Full legal name of the client company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_trading_name
+      label: Company Trading Name
+      hint: Name the company operates under if different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of the main contact person at the company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_position
+      label: Primary Contact Position
+      hint: Job title of the main contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Business email of the main contact person
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Direct phone number of the main contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Complete business address including street, city, state, and postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_tax_id
+      label: Company Tax ID
+      hint: Federal tax identification number or equivalent
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Business Type
+      hint: Legal structure of the business
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-profit
+      - Government Entity
+      required: true
+    - id: 10
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry the company operates in
+      type: select_one
+      options:
+      - Healthcare
+      - Retail
+      - Manufacturing
+      - Technology
+      - Finance
+      - Education
+      - Real Estate
+      - Professional Services
+      - Other
+      required: true
+    - id: 11
+      name: annual_revenue_range
+      label: Annual Revenue Range
+      hint: Approximate annual revenue of the company
+      type: select_one
+      options:
+      - Under $100K
+      - $100K - $500K
+      - $500K - $1M
+      - $1M - $5M
+      - $5M - $25M
+      - Over $25M
+      required: true
+    - id: 12
+      name: employee_count
+      label: Number of Employees
+      hint: Total number of employees in the company
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: accounting_services_needed
+      label: Accounting Services Needed
+      hint: Select all accounting services required
+      type: select_multiple
+      options:
+      - Bookkeeping
+      - Payroll Processing
+      - Tax Preparation
+      - Financial Statements
+      - Audit Services
+      - Business Advisory
+      - Other
+      required: false
+    - id: 14
+      name: preferred_communication_method
+      label: Preferred Communication Method
+      hint: How would you prefer to receive updates and communications
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Conference
+      - In-Person Meeting
+      - Mail
+      required: false

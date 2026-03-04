@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nephrology Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dialysis_treatment
+      label: Dialysis Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nephrology_specialist
+      label: Nephrology Specialist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_conditions
+      label: Other Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: laboratory_info
+      label: Laboratory Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: other_appointments
+      label: Other Appointments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false

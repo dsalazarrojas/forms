@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Product Satisfaction Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Optional - your name for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you purchase the product
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: product_purchased
+      label: Product Purchased
+      hint: Which Color Street product did you buy
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shade_name
+      label: Shade Name
+      hint: Name of the nail strip shade
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_satisfaction
+      label: -- Satisfaction Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with your purchase
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 7
+      name: ease_of_application
+      label: Ease of Application Rating
+      hint: How easy was it to apply the nail strips
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 8
+      name: wear_duration
+      label: How Long Did They Last
+      hint: Number of days the nail strips lasted
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: color_accuracy
+      label: Color Accuracy
+      hint: Did the color match what you expected
+      type: select_one
+      options:
+      - Exactly as Expected
+      - Close to Expected
+      - Somewhat Different
+      - Very Different
+      required: true
+    - id: 10
+      name: section_header_quality
+      label: -- Product Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: quality_rating
+      label: Quality Rating
+      hint: Rate the overall quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: value_for_money
+      label: Value for Money
+      hint: Do you feel the product was worth the price
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 13
+      name: would_recommend
+      label: Would You Recommend
+      hint: Would you recommend Color Street to others
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: repurchase_likelihood
+      label: Likelihood to Repurchase
+      hint: How likely are you to buy again
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 15
+      name: best_feature
+      label: Best Feature
+      hint: What did you like most about the product
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could we improve
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: telecommunictions_network_coverage_customer_satisfaction_survey
+    pages:
+    - id: 1
+      name: telecom_network_coverage
+      label: Telecom Network Coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: network_coverage
+      label: Network Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 4
+      name: coverage_area
+      label: Coverage Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_issues
+      label: Communication Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false
+    - id: 7
+      name: billing_issues
+      label: Billing Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false
+    - id: 8
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: Please share your feedback
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Outreach Donation Form
+    pages:
+    - id: 1
+      name: donor_full_name
+      label: Donor full name
+      hint: Please enter the full legal name of the donor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor email address
+      hint: For donation receipts and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Donor phone number
+      hint: Optional, used for urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation amount
+      hint: Enter the donation amount in your local currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_frequency
+      label: Donation frequency
+      hint: Choose one if recurring donation
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 6
+      name: donation_designation
+      label: Donation designation or program
+      hint: Specify the project or program for this gift or leave blank for general
+        fund
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Street address, city, state, postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Select preferred payment option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      - Online payment
+      required: true
+    - id: 9
+      name: acknowledgement_opt_in
+      label: Opt in for acknowledgement and updates
+      hint: Receive newsletters and impact reports
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes or instructions
+      hint: Any special instructions related to the donation
+      type: text
+      options: []
+      required: false

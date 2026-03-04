@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Interaction Evaluation Form
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interaction_channel
+      label: Interaction Channel
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Phone
+      - Chat
+      - Video
+      - Other
+      required: false
+    - id: 4
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - In Progress
+      - Not Applicable
+      required: false
+    - id: 5
+      name: customer_feeling
+      label: Customer Feeling
+      hint: null
+      type: select_multiple
+      options:
+      - Angry
+      - Neutral
+      - Happy
+      required: false
+    - id: 6
+      name: customer_satisfaction_score
+      label: Customer Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

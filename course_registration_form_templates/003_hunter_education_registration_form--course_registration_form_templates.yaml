@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunter Education Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: utah_license
+      label: Utah License
+      hint: null
+      type: select_one
+      options:
+      - Utah resident
+      - Non-resident
+      required: false

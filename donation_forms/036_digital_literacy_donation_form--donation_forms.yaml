@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Literacy Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Select how you want to pay
+      type: select_multiple
+      options:
+      - Card
+      - Check
+      - Bank Transfer
+      required: false
+    - id: 4
+      name: frequency_of_donation
+      label: Frequency of Donation
+      hint: How often do you plan to donate?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 5
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_preference
+      label: Contact Preference
+      hint: How would you like to be contacted?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

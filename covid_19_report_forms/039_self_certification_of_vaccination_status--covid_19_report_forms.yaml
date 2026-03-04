@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Certification Of Vaccination Status
+    pages:
+    - id: 1
+      name: employer_information
+      label: Employer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccine_status
+      label: Vaccine Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fully Vaccinated''}'
+      - '{''label'': ''Partially Vaccinated''}'
+      - '{''label'': ''Not Vaccinated''}'
+      required: false
+    - id: 4
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vaccine_dose_number
+      label: Vaccine Dose Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vaccine_manufacturer
+      label: Vaccine Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Check In Form
+    pages:
+    - id: 1
+      name: pickup_date
+      label: Pickup date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: pickup_time
+      label: Pickup time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: dropoff_date
+      label: Dropoff date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: dropoff_time
+      label: Dropoff time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: driver
+      label: Driver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Jimmy''}'
+      - '{''id'': 2, ''name'': ''John''}'
+      - '{''id'': 3, ''name'': ''Bob''}'
+      required: true
+    - id: 6
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip_code
+      label: Zip code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_number
+      label: Vehicle number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_plate_number
+      label: Vehicle plate number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: remarks_important
+      label: Remarks
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 21
+      name: notes_important
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Pickup''}'
+      - '{''id'': 2, ''name'': ''Dropoff''}'
+      - '{''id'': 3, ''name'': ''Both''}'
+      required: false
+    - id: 22
+      name: vehicle_type
+      label: Vehicle type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Van''}'
+      - '{''id'': 2, ''name'': ''Car''}'
+      - '{''id'': 3, ''name'': ''Truck''}'
+      required: true
+    - id: 23
+      name: assigned_user
+      label: Assigned user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Jimmy''}'
+      - '{''id'': 2, ''name'': ''John''}'
+      - '{''id'': 3, ''name'': ''Bob''}'
+      required: false
+    - id: 24
+      name: vehicle_status
+      label: Vehicle status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Available''}'
+      - '{''id'': 2, ''name'': ''Not available''}'
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

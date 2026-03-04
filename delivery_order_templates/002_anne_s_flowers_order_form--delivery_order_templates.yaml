@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anne's Flowers Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_details_header
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: flower_arrangement_type
+      label: Flower Arrangement Type
+      hint: Select the type of arrangement you want
+      type: select_one
+      options:
+      - Birthday Bouquet
+      - Anniversary Special
+      - Get Well Soon
+      - Sympathy Arrangement
+      - Custom Design
+      required: true
+    - id: 7
+      name: arrangement_size
+      label: Arrangement Size
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Deluxe
+      - Premium
+      required: true
+    - id: 8
+      name: specific_flower_preferences
+      label: Specific Flower Preferences
+      hint: E.g., Roses, Lilies, Tulips, etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: delivery_time_slot
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (9AM - 12PM)
+      - Afternoon (12PM - 4PM)
+      - Evening (4PM - 7PM)
+      required: true
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address including city and zip code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: card_message
+      label: Card Message
+      hint: Write the message to be included with the flowers
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: E.g., Gate code, leave at front door, etc.
+      type: text
+      options: []
+      required: false

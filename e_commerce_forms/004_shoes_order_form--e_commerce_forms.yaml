@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shoes Order Form
+    pages:
+    - id: 1
+      name: design
+      label: What is your design preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: size
+      label: What is your shoe size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: How many pairs of shoes do you want to buy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: further_requests
+      label: Do you have any further requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_name
+      label: What is the recipient's name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_address
+      label: What is the delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: How do you want to pay
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank
+      - PayPal
+      - Credit Card
+      - Other
+      required: false
+    - id: 11
+      name: payment_details
+      label: Provide payment details
+      hint: null
+      type: text
+      options: []
+      required: false

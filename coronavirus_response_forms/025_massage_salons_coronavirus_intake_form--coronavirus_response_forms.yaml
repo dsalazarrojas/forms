@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Salons Coronavirus Intake Form
+    pages:
+    - id: 1
+      name: salon_details
+      label: Salon Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Healthy'', ''value'': ''Healthy''}'
+      - '{''name'': ''Not Healthy'', ''value'': ''Not Healthy''}'
+      - '{''name'': ''Underlying Condition'', ''value'': ''Underlying Condition''}'
+      - '{''name'': ''Underlying Condition with a Fever'', ''value'': ''Underlying
+        Condition with a Fever''}'
+      - '{''name'': ''Underlying Condition with Fever and Shortness of Breath'', ''value'':
+        ''Underlying Condition with Fever and Shortness of Breath''}'
+      - '{''name'': ''Underlying Condition with Fever, Shortness of Breath, and Chest
+        Pain'', ''value'': ''Underlying Condition with Fever, Shortness of Breath,
+        and Chest Pain''}'
+      - '{''name'': ''Hospitalized with COVID-19'', ''value'': ''Hospitalized with
+        COVID-19''}'
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recent_travel
+      label: Recent Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recent_interaction
+      label: Recent Interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Not Vaccinated'', ''value'': ''Not Vaccinated''}'
+      - '{''name'': ''Partially Vaccinated'', ''value'': ''Partially Vaccinated''}'
+      - '{''name'': ''Fully Vaccinated'', ''value'': ''Fully Vaccinated''}'
+      - '{''name'': ''Vaccinated and Boosted'', ''value'': ''Vaccinated and Boosted''}'
+      required: false
+    - id: 11
+      name: covid19_test_results
+      label: COVID-19 Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Positive'', ''value'': ''Positive''}'
+      - '{''name'': ''Negative'', ''value'': ''Negative''}'
+      - '{''name'': ''Unknown'', ''value'': ''Unknown''}'
+      required: false
+    - id: 12
+      name: symptoms_2
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: test_result_date
+      label: Test Result Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: test_result_time
+      label: Test Result Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: medical_attention_required
+      label: Medical Attention Required
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': False, ''value'': False}'
+      - '{''name'': True, ''value'': True}'
+      required: false
+    - id: 16
+      name: medical_attention_provided
+      label: Medical Attention Provided
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': False, ''value'': False}'
+      - '{''name'': True, ''value'': True}'
+      required: false
+    - id: 17
+      name: follow_up_visit
+      label: Follow-Up Visit
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Not Scheduled'', ''value'': ''Not Scheduled''}'
+      - '{''name'': ''Scheduled'', ''value'': ''Scheduled''}'
+      - '{''name'': ''Completed'', ''value'': ''Completed''}'
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false

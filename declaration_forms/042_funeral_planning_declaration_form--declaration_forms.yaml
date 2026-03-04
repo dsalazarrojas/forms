@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: funeral planning declaration form
+    pages:
+    - id: 1
+      name: funeral_home
+      label: Funeral Home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: next_of_kin
+      label: Next Of Kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_deceased
+      label: Name Of Deceased
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_death
+      label: Date Of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_death
+      label: Time Of Death
+      hint: null
+      type: time
+      options: []
+      required: false

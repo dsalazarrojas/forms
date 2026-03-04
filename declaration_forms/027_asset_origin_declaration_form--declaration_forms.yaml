@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Origin Declaration Form
+    pages:
+    - id: 1
+      name: declarant_name
+      label: Declarant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: declarant_id
+      label: Declarant ID
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: asset_description
+      label: Asset Description
+      hint: What is the asset
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - Real Estate
+      - Vehicle
+      - Financial Asset
+      - Business Interest
+      - Personal Property
+      - Intellectual Property
+      - Other
+      required: true
+    - id: 7
+      name: asset_value
+      label: Asset Value
+      hint: Estimated worth
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: acquisition_date
+      label: Date of Acquisition
+      hint: When obtained
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: origin_type
+      label: Origin Type
+      hint: How was asset obtained
+      type: select_one
+      options:
+      - Purchase
+      - Inheritance
+      - Gift
+      - Investment Income
+      - Business Income
+      - Employment Income
+      - Lottery or Prize
+      - Other
+      required: true
+    - id: 10
+      name: purchase_price
+      label: Purchase Price
+      hint: If purchased
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: seller_name
+      label: Seller Name
+      hint: From whom purchased
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seller_relationship
+      label: Seller Relationship
+      hint: Relation to you
+      type: select_one
+      options:
+      - Unrelated Third Party
+      - Family Member
+      - Friend
+      - Business Associate
+      - Employer
+      - Not Applicable
+      required: false
+    - id: 13
+      name: funding_source
+      label: Funding Source
+      hint: Where did money come from
+      type: select_one
+      options:
+      - Personal Savings
+      - Bank Loan
+      - Family Loan
+      - Investment Returns
+      - Business Profits
+      - Insurance Proceeds
+      - Other
+      required: true
+    - id: 14
+      name: inheritance_details
+      label: Inheritance Details
+      hint: If inherited
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: deceased_name
+      label: Deceased Name
+      hint: If inherited
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: relationship_to_deceased
+      label: Relationship to Deceased
+      hint: If inherited
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gift_details
+      label: Gift Details
+      hint: If received as gift
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: donor_name
+      label: Donor Name
+      hint: Who gave the gift
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: donor_relationship
+      label: Donor Relationship
+      hint: Relation to you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: List attachments
+      type: select_multiple
+      options:
+      - Purchase Agreement
+      - Title Deed
+      - Bank Statement
+      - Loan Agreement
+      - Will or Trust Document
+      - Gift Letter
+      - Appraisal Report
+      - None
+      required: true
+    - id: 21
+      name: documents_description
+      label: Documents Description
+      hint: Describe attachments
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: legal_obligations
+      label: Are There Legal Obligations
+      hint: Restrictions on asset
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: obligations_description
+      label: Obligations Description
+      hint: Describe restrictions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tax_implications
+      label: Are There Tax Implications
+      hint: Tax consequences
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 25
+      name: accuracy_declaration
+      label: I Declare This Information Is Accurate
+      hint: Confirm truthfulness
+      type: select_one
+      options:
+      - Yes I Declare
+      - 'No'
+      required: true
+    - id: 26
+      name: legal_consequences_understood
+      label: I Understand Legal Consequences
+      hint: Know penalties for false info
+      type: select_one
+      options:
+      - Yes I Understand
+      - 'No'
+      required: true
+    - id: 27
+      name: declarant_signature
+      label: Declarant Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false

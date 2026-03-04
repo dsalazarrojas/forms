@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pantry Food Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Enter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Enter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Enter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Enter address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: items
+      label: Select items
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      - item4
+      - item5
+      required: false
+    - id: 6
+      name: quantity
+      label: Select quantity
+      hint: null
+      type: select_one
+      options:
+      - '{''item1'': 1}'
+      - '{''item2'': 2}'
+      - '{''item3'': 3}'
+      required: false
+    - id: 7
+      name: date
+      label: Select date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Select time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evaluation Survey Form
+    pages:
+    - id: 1
+      name: school_experience
+      label: School Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quality_of_education
+      label: Quality Of Education
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: suggestions_for_improvement
+      label: Suggestions For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_graduated
+      label: Date Graduated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: graduation_month
+      label: Graduation Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: graduation_day
+      label: Graduation Day
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: attended_school
+      label: Attended School
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: attended_program
+      label: Attended Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: contact_school
+      label: Contact School
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: graduation_month_year
+      label: Graduation Month Year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: graduation_start_date
+      label: Graduation Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: attended_school_start_date
+      label: Attended School Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: attended_program_start_date
+      label: Attended Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: graduation_end_date
+      label: Graduation End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: attended_school_end_date
+      label: Attended School End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: attended_program_end_date
+      label: Attended Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: graduation_length_of_program
+      label: Graduation Length Of Program
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - Between 1-2 years
+      - Between 2-5 years
+      - More than 5 years
+      required: true
+    - id: 22
+      name: attended_program_length_of_time
+      label: Attended Program Length Of Time
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - Between 1-2 months
+      - Between 1-3 months
+      - Between 4-6 months
+      - Between 7-12 months
+      - More than 1 year
+      required: true
+    - id: 23
+      name: graduation_month_of_program
+      label: Graduation Month Of Program
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 24
+      name: graduated
+      label: Graduated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: graduation_year_of_program
+      label: Graduation Year Of Program
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

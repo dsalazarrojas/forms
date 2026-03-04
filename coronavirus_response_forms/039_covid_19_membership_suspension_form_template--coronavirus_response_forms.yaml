@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Membership Suspension Form Template
+    pages:
+    - id: 1
+      name: member_header
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_id
+      label: Membership ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: member_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Bronze
+      - Premium
+      - Standard
+      - Other
+      required: true
+    - id: 7
+      name: suspension_header
+      label: -- Suspension Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: suspension_reason
+      label: Reason for Suspension
+      hint: null
+      type: select_one
+      options:
+      - Health Concern
+      - Positive Test
+      - Exposure
+      - Financial Hardship
+      - Relocation
+      - Personal Request
+      - Other
+      required: true
+    - id: 9
+      name: reason_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suspension_start_date
+      label: Suspension Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: suspension_end_date
+      label: Expected Suspension End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: suspension_duration
+      label: Duration of Suspension
+      hint: In months
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: benefits_header
+      label: -- Benefits During Suspension --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: freeze_fees
+      label: Freeze Membership Fees
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 15
+      name: reactivation_terms
+      label: -- Reactivation Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reactivation_process
+      label: Reactivation Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: fee_waived
+      label: Reactivation Fees Waived
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: auto_reactivation
+      label: Automatic Reactivation on End Date
+      hint: null
+      type: select_one
+      options:
+      - Yes, Auto-Reactivate
+      - No, Manual Reactivation
+      required: true
+    - id: 19
+      name: return_confirmation
+      label: -- Return Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: return_to_facility
+      label: Member will return to facility before reactivation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 21
+      name: health_check_required
+      label: Health screening required before return
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: acknowledgment
+      label: I acknowledge suspension terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - No, I Do Not Acknowledge
+      required: true
+    - id: 23
+      name: request_date
+      label: Suspension Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

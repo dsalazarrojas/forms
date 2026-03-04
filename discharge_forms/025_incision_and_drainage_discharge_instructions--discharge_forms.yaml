@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: incision-and-drainage-discharge-instructions
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: surgeon
+      label: Surgeon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incision_site
+      label: Incision Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incision_site_photos
+      label: Incision Site Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: questionnaire_sign
+      label: Questionnaire Sign
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

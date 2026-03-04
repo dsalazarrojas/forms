@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Update Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Website Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: update_type
+      label: Update Type
+      hint: null
+      type: select_one
+      options:
+      - urgent
+      - minor
+      - major
+      required: true
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agency_contact
+      label: Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: note_input
+      label: Note Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: note_text
+      label: Note Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: note_date
+      label: Note Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: note_time
+      label: Note Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: note_select_one
+      label: Note Select One
+      hint: null
+      type: select_one
+      options:
+      - urgent
+      - minor
+      - major
+      required: false
+    - id: 24
+      name: note_select_multiple
+      label: Note Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - urgent
+      - minor
+      - major
+      required: false
+    - id: 25
+      name: note_email
+      label: Note Email
+      hint: null
+      type: email
+      options: []
+      required: false

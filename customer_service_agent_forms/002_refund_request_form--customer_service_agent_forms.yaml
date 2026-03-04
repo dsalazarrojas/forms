@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Request Form
+    pages:
+    - id: 1
+      name: customer_service_agent_forms_customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_agent_forms_reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_service_agent_forms_refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_agent_forms_customer_service_agent
+      label: Customer Service Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Agent 1''}'
+      - '{''value'': ''Agent 2''}'
+      - '{''value'': ''Agent 3''}'
+      required: false
+    - id: 5
+      name: customer_service_agent_forms_customer_service_agent_comments
+      label: Customer Service Agent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_agent_forms_customer_approval
+      label: Customer Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approve''}'
+      - '{''value'': ''Decline''}'
+      required: false
+    - id: 7
+      name: customer_service_agent_forms_customer_refund_status
+      label: Customer Refund Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      required: false
+    - id: 8
+      name: customer_service_agent_forms_customer_service_agent_notes
+      label: Customer Service Agent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_agent_forms_refund_request_date
+      label: Refund Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_agent_forms_refunded_amount
+      label: Refunded Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_agent_forms_agent_refund_comments
+      label: Agent Refund Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_service_agent_forms_customer_refund_type
+      label: Customer Refund Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full Refund''}'
+      - '{''value'': ''Partial Refund''}'
+      required: false

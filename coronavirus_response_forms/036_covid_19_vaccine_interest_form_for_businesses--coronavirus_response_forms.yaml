@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Interest Form For Businesses
+    pages:
+    - id: 1
+      name: business_name
+      label: Business or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Business or Organization
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Healthcare
+      - Manufacturing
+      - Education
+      - Government
+      - Non-profit
+      - Small business
+      - Large corporation
+      - Other
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_info_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_phone
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_count
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vaccination_section
+      label: -- Vaccination Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: interested_vaccination_program
+      label: Interest in on-site vaccination program for employees
+      hint: null
+      type: select_one
+      options:
+      - Yes, very interested
+      - Yes, somewhat interested
+      - Unsure
+      - Not interested
+      required: true
+    - id: 16
+      name: expected_participating
+      label: Estimated number of employees who would participate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vaccination_timeline
+      label: Preferred Timeline for Vaccination Program
+      hint: null
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 1-2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      required: true
+    - id: 18
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - Multiple types
+      - No preference
+      required: true
+    - id: 19
+      name: logistics_section
+      label: -- Program Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_location
+      label: Preferred Location for Vaccination
+      hint: null
+      type: select_one
+      options:
+      - On-site at business
+      - Off-site clinic or pharmacy
+      - Mobile vaccination unit
+      - Healthcare provider location
+      - Multiple locations
+      - Flexible
+      required: true
+    - id: 21
+      name: facility_available
+      label: Facility available on-site for vaccinations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need to discuss
+      required: false
+    - id: 22
+      name: vaccination_hours
+      label: Preferred Hours for Vaccination Program
+      hint: null
+      type: select_one
+      options:
+      - During business hours
+      - Before business hours
+      - After business hours
+      - Flexible
+      - Weekends
+      required: true
+    - id: 23
+      name: paid_time_off
+      label: Provide paid time off for vaccination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: support_section
+      label: -- Support and Assistance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: government_support
+      label: Type of support needed from government
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Vaccine supply
+      - Healthcare personnel
+      - Educational materials
+      - Logistical support
+      - Financial assistance
+      - Other
+      required: false
+    - id: 26
+      name: challenges
+      label: Anticipated challenges for program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: specific_needs
+      label: Specific accommodations or needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: follow_up
+      label: We would like a follow-up discussion
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_service_feedback_form
+    pages:
+    - id: 1
+      name: public_service_feedback
+      label: What did we do well
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: public_service_feedback
+      label: what could we improve
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_area
+      label: service_area
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 5
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: public_service_feedback
+      label: public_service_feedback
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: public_service_time
+      label: public_service_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: public_service_feedback_rating
+      label: public_service_feedback_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: public_service_satisfaction
+      label: public_service_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: false

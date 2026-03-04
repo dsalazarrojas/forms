@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anytime Fitness Vaccine Exemption Declaration
+    pages:
+    - id: 1
+      name: member_name
+      label: Member full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_id
+      label: Membership ID number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_location
+      label: Facility location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: declaration_date
+      label: Declaration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: exemption_type
+      label: Type of exemption requested
+      hint: Select reason
+      type: select_one
+      options:
+      - Medical exemption
+      - Religious exemption
+      - Personal/philosophical exemption
+      required: true
+    - id: 9
+      name: medical_exemption_details
+      label: If medical - describe medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_provider_documentation
+      label: Medical provider documentation provided?
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will provide
+      - No documentation
+      required: false
+    - id: 11
+      name: religious_exemption_details
+      label: If religious - describe your religious beliefs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: religious_organization
+      label: Religious organization or community
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: philosophical_exemption_details
+      label: If philosophical - describe your beliefs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_exemption
+      label: Have you requested exemptions elsewhere?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to answer
+      required: false
+    - id: 15
+      name: acknowledgment_health_risk
+      label: I acknowledge the health risks of not being vaccinated
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 16
+      name: acknowledgment_spread_risk
+      label: I acknowledge I may spread disease to others
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 17
+      name: acknowledgment_facility_policy
+      label: I understand and accept the facility policy
+      hint: null
+      type: select_one
+      options:
+      - I understand and accept
+      - I do not accept
+      required: true
+    - id: 18
+      name: testing_willingness
+      label: Willingness to undergo regular health screening
+      hint: If required by facility
+      type: select_one
+      options:
+      - Yes, willing
+      - No, not willing
+      - Depends on screening type
+      required: true
+    - id: 19
+      name: facility_notice_understanding
+      label: I understand facility may require additional measures
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 20
+      name: declaration_true
+      label: I declare the information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, true and accurate
+      - false
+      required: true

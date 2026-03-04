@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contribution Form
+    pages:
+    - id: 1
+      name: contributor_name
+      label: Contributor Full Name
+      hint: Legal name of the contributor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contributor_address
+      label: Contributor Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contributor_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contributor_state
+      label: State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contributor_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contributor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contributor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_employment_info
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: employer_name
+      label: Employer Name
+      hint: Name of your employer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employer_address
+      label: Employer Address
+      hint: Business address of employer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: occupation
+      label: Occupation
+      hint: Your job title or profession
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_contribution_details
+      label: -- Contribution Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contribution_amount
+      label: Contribution Amount
+      hint: Dollar amount of contribution
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: contribution_date
+      label: Contribution Date
+      hint: Date of contribution
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: contribution_type
+      label: Type of Contribution
+      hint: Nature of the contribution
+      type: select_one
+      options:
+      - Monetary Donation
+      - In-Kind Services
+      - Fundraising Event
+      - Bundled Contribution
+      - Other
+      required: true
+    - id: 16
+      name: contribution_purpose
+      label: Purpose of Contribution
+      hint: What is this contribution for
+      type: select_one
+      options:
+      - Campaign Support
+      - General Fund
+      - Specific Initiative
+      - Event Sponsorship
+      - Other
+      required: true
+    - id: 17
+      name: section_payment_method
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Method of Payment
+      hint: How will you make this contribution
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - Wire Transfer
+      - Cash
+      - In-Kind
+      - Other
+      required: true
+    - id: 19
+      name: check_number
+      label: Check Number
+      hint: If paying by check
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: card_type
+      label: Credit Card Type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 21
+      name: section_legal_compliance
+      label: -- Legal Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: us_citizen
+      label: Are you a US citizen or permanent resident
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: funds_own
+      label: Are these funds your own
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: not_reimbursed
+      label: Will you NOT be reimbursed for this contribution
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: federal_limit_compliance
+      label: I understand federal contribution limits apply
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: section_source_of_funds
+      label: -- Source of Funds --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: source_of_funds
+      label: Source of Funds
+      hint: Where do these funds originate
+      type: select_one
+      options:
+      - Personal Savings
+      - Salary
+      - Investment Returns
+      - Business Profits
+      - Loan
+      - Gift
+      - Other
+      required: true
+    - id: 28
+      name: source_details
+      label: Source Details
+      hint: Please explain if other
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_recipient
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: recipient_name
+      label: Recipient Name
+      hint: Name of candidate or committee
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: recipient_type
+      label: Recipient Type
+      hint: Type of recipient organization
+      type: select_one
+      options:
+      - Political Candidate
+      - Political Action Committee
+      - Political Party
+      - Advocacy Group
+      - Other
+      required: true
+    - id: 32
+      name: section_certification
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: information_accurate
+      label: I certify that all information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: legal_age
+      label: I am at least 18 years of age
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: signature_date
+      label: Signature Date
+      hint: Date of certification
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

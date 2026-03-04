@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Request Form
+    pages:
+    - id: 1
+      name: donation_request
+      label: Donation Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - One-Time
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Card
+      - EFT
+      - Bank Account
+      - Wire Transfer
+      required: true
+    - id: 7
+      name: message
+      label: Additional Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: select_multiple
+      options:
+      - Age 18-24
+      - Age 25-34
+      - Age 35-44
+      - Age 45-54
+      - Age 55+
+      required: true

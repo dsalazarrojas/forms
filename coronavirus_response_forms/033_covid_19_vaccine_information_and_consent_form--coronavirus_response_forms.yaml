@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Information And Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: information_section
+      label: -- Vaccine Information Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: received_fact_sheet
+      label: I received the vaccine fact sheet
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: understand_vaccine_type
+      label: I understand the vaccine type to be administered
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 8
+      name: understand_benefits
+      label: I understand the vaccine benefits
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: understand_risks
+      label: I understand the known risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: unknown_risks
+      label: I acknowledge potential unknown risks exist
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: alternatives_section
+      label: -- Alternatives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: understand_alternatives
+      label: I understand alternative options are available
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 13
+      name: understand_consequences
+      label: I understand the consequences of declining vaccination
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 14
+      name: medical_history_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: I have disclosed all medical conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: medications_disclosed
+      label: I have disclosed all medications
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: allergies_disclosed
+      label: I have disclosed all allergies
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: pregnancy_disclosed
+      label: I have accurately reported pregnancy status
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Not applicable
+      required: true
+    - id: 19
+      name: screening_section
+      label: -- Pre-Vaccination Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: feel_well
+      label: I am feeling well and not acutely ill
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: no_fever
+      label: I do not have a fever or elevated temperature
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: no_covid_symptoms
+      label: I am not experiencing COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: recent_vaccine_disclosure
+      label: I disclose any recent vaccinations
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Not applicable
+      required: true
+    - id: 24
+      name: consent_section
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: voluntary_participation
+      label: I voluntarily choose to be vaccinated
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 26
+      name: informed_decision
+      label: I make this decision based on complete information
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 27
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - I have additional questions
+      required: true
+    - id: 28
+      name: right_to_refuse
+      label: I understand I can refuse without penalty
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 29
+      name: authorization_section
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: authorize_vaccination
+      label: I authorize the healthcare provider to vaccinate me
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 31
+      name: witness_healthcare_provider
+      label: Administering Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

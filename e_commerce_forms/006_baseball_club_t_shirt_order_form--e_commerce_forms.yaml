@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Club T Shirt Order Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_division
+      label: Team division or league
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Design Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shirt_color
+      label: Shirt color preference
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Gray
+      - Navy
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Orange
+      - Custom
+      required: true
+    - id: 9
+      name: design_type
+      label: Design type
+      hint: null
+      type: select_one
+      options:
+      - Team Logo Only
+      - Full Front Design
+      - Front and Back Design
+      - Sleeve Print
+      - Custom Design
+      required: true
+    - id: 10
+      name: logo_provided
+      label: Do you have a logo or design file?
+      hint: null
+      type: select_one
+      options:
+      - Yes - File Attached
+      - Yes - Will Provide Later
+      - No - Need Design Help
+      required: true
+    - id: 11
+      name: additional_design_notes
+      label: Additional design notes or specifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_3
+      label: -- Sizing and Quantities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_quantity
+      label: Total number of shirts needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: size_breakdown
+      label: Size breakdown (XS, S, M, L, XL, XXL quantities)
+      hint: Provide count for each size
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shirt_style
+      label: Shirt style preference
+      hint: null
+      type: select_one
+      options:
+      - Basic T-Shirt
+      - Performance/Moisture-Wicking
+      - V-Neck
+      - Long Sleeve
+      - Premium Cotton
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: player_names
+      label: Do you want player names/numbers on back?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some Players Only
+      required: false
+    - id: 18
+      name: printing_method
+      label: Preferred printing method
+      hint: null
+      type: select_one
+      options:
+      - Screen Print
+      - Digital Print
+      - Embroidery
+      - Heat Transfer
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Delivery and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: delivery_date
+      label: Requested delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: budget_range
+      label: Approximate budget per shirt
+      hint: null
+      type: select_one
+      options:
+      - Under $10
+      - $10-$15
+      - $15-$20
+      - $20-$30
+      - Over $30
+      required: false
+    - id: 23
+      name: submit_confirmation
+      label: I confirm this order information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

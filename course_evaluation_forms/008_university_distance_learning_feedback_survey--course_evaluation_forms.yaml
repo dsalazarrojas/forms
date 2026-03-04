@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Distance Learning Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: University Distance Learning Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_questions
+      label: How often do you log in to the online learning platform?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: communication_support
+      label: How often do you feel supported by instructors and staff?
+      hint: null
+      type: select_one
+      options:
+      - Almost always
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 4
+      name: technical_issues
+      label: How often do you encounter technical issues while accessing online course
+        materials?
+      hint: null
+      type: select_multiple
+      options:
+      - Audio and video not working
+      - Audio not working
+      - Video not working
+      - Other
+      required: false
+    - id: 5
+      name: support_services
+      label: How often do you use online support services (e.g., email, phone, chat)?
+      hint: null
+      type: select_one
+      options:
+      - Almost always
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: feedback_frequency
+      label: How often do you give feedback on online courses?
+      hint: null
+      type: select_one
+      options:
+      - Almost always
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: course_quality
+      label: How would you rate the quality of your online courses?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: learning_support
+      label: How often do you feel you have received adequate help from instructors
+        and staff?
+      hint: null
+      type: select_multiple
+      options:
+      - Almost always
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: support_services_quality
+      label: How often do you rate the quality of online support services (e.g., email,
+        phone, chat)?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: overall_experience
+      label: What is your overall experience with the online courses?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Do you have any additional comments regarding your online course experience?
+      hint: null
+      type: note
+      options: []
+      required: false

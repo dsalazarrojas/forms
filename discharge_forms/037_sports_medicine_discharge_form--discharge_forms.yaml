@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sports Medicine Discharge Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: return_to_activity_instruction
+      label: Return to Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: physical_status
+      label: Physical Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Active with restriction''}'
+      - '{''value'': ''Non-Active''}'
+      - '{''value'': ''Non-Active with restriction''}'
+      - '{''value'': ''Unable to perform''}'
+      required: true
+    - id: 4
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Rest and Ice''}'
+      - '{''value'': ''Stretching and Mobilization''}'
+      - '{''value'': ''Activity modification''}'
+      - '{''value'': ''Activity cessation''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 5
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Not scheduled''}'
+      required: true
+    - id: 8
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: athletic_injury_report
+      label: Athletic Injury Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_injury_report
+      label: Other Injury Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: concussion_protocol
+      label: Concussion Protocol
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Not required''}'
+      required: true
+    - id: 14
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true

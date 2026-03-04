@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: (P) Recovered After Testing Positive Form
+    pages:
+    - id: 1
+      name: header_section
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name as it appears on identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Contact number where you can be reached
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Current address
+      hint: Street address, city, state, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: test_info_section
+      label: '--- Test Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: test_date
+      label: Date of positive COVID-19 test
+      hint: The date when your sample was collected
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: test_type
+      label: Type of test performed
+      hint: null
+      type: select_one
+      options:
+      - PCR Test
+      - Rapid Antigen Test
+      - Antibody Test
+      - Other
+      required: true
+    - id: 10
+      name: test_location
+      label: Location where test was conducted
+      hint: Hospital, clinic, pharmacy, or testing center name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: symptoms_section
+      label: '--- Symptom History ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: experienced_symptoms
+      label: Did you experience COVID-19 symptoms?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Uncertain
+      required: true
+    - id: 13
+      name: symptom_onset_date
+      label: Date symptoms first appeared
+      hint: If you had symptoms, when did they start
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: symptoms_list
+      label: Which symptoms did you experience? (select all that apply)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Body aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 15
+      name: recovery_section
+      label: '--- Recovery Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: symptom_resolution_date
+      label: Date symptoms resolved (if applicable)
+      hint: When did your symptoms end
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: isolation_end_date
+      label: Date you ended isolation period
+      hint: When were you cleared to end isolation
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: medical_clearance
+      label: Have you received medical clearance to return to work?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: false
+    - id: 19
+      name: employer_info_section
+      label: '--- Employer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: employer_name
+      label: Name of employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: employer_contact_person
+      label: Contact person at workplace
+      hint: Supervisor, HR representative, or manager name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: employer_phone
+      label: Workplace contact phone number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 23
+      name: return_to_work_date
+      label: Planned return to work date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other relevant information for your return to work documentation
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: certification_section
+      label: '--- Certification ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: certification_statement
+      label: I certify that the information provided is accurate to the best of my
+        knowledge
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispute Resolution Fund Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor name
+      hint: Individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor email
+      hint: Where receipt will be sent
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation amount
+      hint: Enter numeric amount
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment method
+      hint: Select a payment option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      required: true
+    - id: 5
+      name: allocation_preference
+      label: Allocation preference
+      hint: Choose where funds should be used
+      type: select_one
+      options:
+      - Mediation services
+      - Legal aid support
+      - Community education
+      - General fund
+      required: false
+    - id: 6
+      name: anonymous
+      label: Make donation anonymous
+      hint: Opt to remain anonymous publicly
+      type: select_one
+      options:
+      - Yes make anonymous
+      - No display name
+      required: false

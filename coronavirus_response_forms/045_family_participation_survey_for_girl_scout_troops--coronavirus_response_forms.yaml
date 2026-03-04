@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Participation Survey For Girl Scout Troops
+    pages:
+    - id: 1
+      name: in_person_meetings
+      label: In person meetings
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Virtual
+      required: true
+    - id: 2
+      name: level_of_comfort
+      label: Level of comfort
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: activities
+      label: Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Indoor
+      - Outdoor
+      - Virtual
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comfort_level
+      label: Comfort level
+      hint: How would you rate your level of comfort regarding in person activities?
+      type: select_one
+      options:
+      - Not Comfortable
+      - Somewhat Comfortable
+      - Comfortable
+      - Very Comfortable
+      - Extremely Comfortable
+      required: true
+    - id: 8
+      name: troop_meetings
+      label: Troop meetings
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - As scheduled
+      - Less frequently
+      required: true
+    - id: 9
+      name: activities_frequency
+      label: Activities frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Occasionally
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

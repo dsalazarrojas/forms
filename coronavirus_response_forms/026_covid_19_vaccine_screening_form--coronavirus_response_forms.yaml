@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Screening Form
+    pages:
+    - id: 1
+      name: screen_employee_header
+      label: -- Employee Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: screen_employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: screen_employee_id
+      Label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: screen_department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: screen_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: screen_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: screen_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: screen_eligibility_header
+      label: -- Eligibility Screening --
+      hint: Determine vaccination eligibility
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: screen_vaccine_interest
+      Label: Are You Interested in the COVID-19 Vaccine
+      hint: Your interest in vaccination
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: true
+    - id: 10
+      name: screen_age_group
+      label: Age Group
+      hint: Your age category
+      type: select_one
+      options:
+        - Under 18
+        - 18-30
+        - 31-50
+        - 51-65
+        - 65+
+      required: true
+    - id: 11
+      name: screen_on_site_work
+      Label: Do You Work On-Site Regularly
+      hint: Frequency of on-site work
+      type: select_one
+      options:
+        - Yes, full-time on-site
+        - Yes, part-time on-site
+        - Hybrid schedule
+        - Remote only
+      required: true
+    - id: 12
+      name: screen_priority_group
+      label: Priority Group Status
+      hint: Any priority status for vaccination
+      type: select_one
+      options:
+        - Healthcare worker
+        - Essential worker
+        - First responder
+        - General employee
+      required: true
+    - id: 13
+      name: screen_medical_header
+      Label: -- Medical Screening --
+      hint: Health information for screening
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: screen_health_conditions
+      label: Do You Have Any Health Conditions
+      hint: Chronic health conditions
+      type: select_one
+      options:
+        - No conditions
+        - Yes, have conditions
+        - Prefer Not to Say
+      required: true
+    - id: 15
+      name: screen_conditions_list
+      Label: If Yes, Please List Your Conditions
+      hint: List your health conditions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: screen_immunocompromised
+      label: Are You Immunocompromised
+      hint: Do you have a weakened immune system
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+        - Prefer Not to Say
+      required: true
+    - id: 17
+      name: screen_allergies
+      Label: Vaccine Component Allergies
+      hint: Allergies to vaccine ingredients
+      type: select_one
+      options:
+        - No known allergies
+        - Have allergies
+        - Unsure
+      required: true
+    - id: 18
+      name: screen_allergy_details
+      label: If You Have Allergies, Please Describe
+      hint: Details about your allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: screen_current_illness
+      Label: Currently Ill with Acute Illness
+      hint: Any current acute illness or fever
+      type: select_one
+      options:
+        - No acute illness
+        - Yes, currently ill
+        - Unsure
+      required: true
+    - id: 20
+      name: screen_covid_status_header
+      label: -- COVID-19 Status --
+      hint: Previous COVID-19 infection
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: screen_had_covid
+      Label: Have You Had COVID-19 Previously
+      hint: Any previous COVID-19 infection
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: true
+    - id: 22
+      name: screen_covid_date
+      label: Date of COVID-19 Infection
+      hint: When did you have COVID-19
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: screen_previous_vaccines
+      Label: Previous COVID-19 Vaccine Doses
+      hint: How many doses have you received
+      type: integer
+      options: []
+      required: true
+    - id: 24
+      name: screen_vaccination_eligibility
+      label: Vaccination Eligibility Status
+      hint: Based on screening, are you eligible
+      type: select_one
+      options:
+        - Eligible for vaccination
+        - Needs further evaluation
+        - Not eligible at this time
+        - Refer to physician
+      required: true
+    - id: 25
+      name: screen_provider_notes
+      Label: Provider Notes
+      hint: Any additional notes from screener
+      type: text
+      options: []
+      required: false

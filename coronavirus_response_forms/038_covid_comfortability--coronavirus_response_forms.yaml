@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Comfortability
+    pages:
+    - id: 1
+      name: comfort_employee_header
+      label: -- Employee Information --
+      hint: Please provide your information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: comfort_employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: comfort_employee_id
+      Label: Employee ID
+      hint: Your employee number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: comfort_department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comfort_email
+      Label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: comfort_survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: comfort_onsite_header
+      Label: -- On-Site Work Comfort --
+      hint: Your comfort level about on-site work
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comfort_onsite_level
+      label: How Comfortable Are You Working On-Site
+      hint: Your comfort level
+      type: select_one
+      options:
+        - Very comfortable
+        - Comfortable
+        - Neutral
+        - Uncomfortable
+        - Very uncomfortable
+      required: true
+    - id: 9
+      name: comfort_office_safety
+      Label: Do You Feel Safe in the Office
+      hint: Your perception of office safety
+      type: select_one
+      options:
+        - Very safe
+        - Safe
+        - Somewhat safe
+        - Unsafe
+        - Very unsafe
+      required: true
+    - id: 10
+      name: comfort_safety_measures
+      label: Are Current Safety Measures Adequate
+      hint: Masks, distancing, cleaning protocols
+      type: select_one
+      options:
+        - Very adequate
+        - Adequate
+        - Somewhat adequate
+        - Inadequate
+        - Very inadequate
+      required: true
+    - id: 11
+      name: comfort_public_transit_header
+      Label: -- Commuting Comfort --
+      hint: Your comfort with commuting
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comfort_public_transit
+      label: How Comfortable Are You Using Public Transit
+      hint: For your commute to work
+      type: select_one
+      options:
+        - Very comfortable
+        - Comfortable
+        - Neutral
+        - Uncomfortable
+        - Very uncomfortable
+        - Not applicable
+      required: false
+    - id: 13
+      name: comfort_commute_method
+      Label: Your Primary Commute Method
+      hint: How you get to work
+      type: select_one
+      options:
+        - Personal vehicle
+        - Public transit
+        - Walk or bike
+        - Carpool
+        - Remote - no commute
+        - Other
+      required: false
+    - id: 14
+      name: comfort_meetings_header
+      label: -- In-Person Meetings Comfort --
+      hint: Your comfort with meetings
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: comfort_small_meetings
+      Label: Comfort with Small In-Person Meetings
+      hint: Groups of under 10 people
+      type: select_one
+      options:
+        - Very comfortable
+        - Comfortable
+        - Neutral
+        - Uncomfortable
+        - Very uncomfortable
+      required: true
+    - id: 16
+      name: comfort_large_meetings
+      label: Comfort with Large In-Person Meetings
+      hint: Groups of 20 or more people
+      type: select_one
+      options:
+        - Very comfortable
+        - Comfortable
+        - Neutral
+        - Uncomfortable
+        - Very uncomfortable
+      required: true
+    - id: 17
+      name: comfort_work_setup_header
+      Label: -- Work Arrangement Preferences --
+      hint: Your preference for work location
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: comfort_preferred_arrangement
+      label: Preferred Work Arrangement
+      hint: How you prefer to work
+      type: select_one
+      options:
+        - Full on-site
+        - Hybrid - 3-4 days on-site
+        - Hybrid - 1-2 days on-site
+        - Full remote
+        - Flexible
+      required: true
+    - id: 19
+      name: comfort_workstation_spacing
+      Label: Do You Have Adequate Workstation Spacing
+      hint: Space between desks
+      type: select_one
+      options:
+        - Yes, very adequate
+        - Adequate
+        - Somewhat adequate
+        - Inadequate
+        - Very inadequate
+      required: true
+    - id: 20
+      name: comfort_management_support_header
+      label: -- Management Support --
+      hint: Your perception of management support
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: comfort_management_support
+      Label: Do You Feel Supported by Management
+      hint: Manager support for your concerns
+      type: select_one
+      options:
+        - Very supported
+        - Supported
+        - Neutral
+        - Not supported
+        - Very unsupported
+      required: true
+    - id: 22
+      name: comfort_communication_clarity
+      label: Is COVID-19 Communication Clear
+      hint: Clarity of company communications
+      type: select_one
+      options:
+        - Very clear
+        - Clear
+        - Somewhat clear
+        - Unclear
+        - Very unclear
+      required: true
+    - id: 23
+      name: comfort_improvements_header
+      Label: -- Suggested Improvements --
+      hint: What would improve your comfort
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comfort_improvement_suggestions
+      label: What Would Improve Your Comfort at Work
+      hint: Any suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comfort_additional_comments
+      Label: Additional Comments or Concerns
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

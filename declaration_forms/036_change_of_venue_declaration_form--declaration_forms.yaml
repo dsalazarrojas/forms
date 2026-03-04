@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Venue Declaration Form
+    pages:
+    - id: 1
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Original Event Date
+      hint: When is the event scheduled
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: organizer_name
+      label: Event Organizer Name
+      hint: Person responsible for event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organizer_contact
+      label: Organizer Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: original_venue_name
+      label: Original Venue Name
+      hint: Current venue location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: original_venue_address
+      label: Original Venue Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: original_venue_contact
+      label: Original Venue Contact
+      hint: Venue contact information
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: original_capacity
+      label: Original Venue Capacity
+      hint: Number of guests accommodated
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: change_reason
+      label: Reason for Venue Change
+      hint: Why is venue changing
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: new_venue_name
+      label: New Venue Name
+      hint: New venue location
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_venue_address
+      label: New Venue Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_venue_contact
+      label: New Venue Contact
+      hint: Venue contact information
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: new_venue_capacity
+      label: New Venue Capacity
+      hint: Number of guests accommodated
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: change_effective_date
+      label: Change Effective Date
+      hint: When venue change takes effect
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: parking_change
+      label: Parking Situation Changed
+      hint: Parking details different
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 17
+      name: accessibility_change
+      label: Accessibility Features Changed
+      hint: Wheelchair access or other needs
+      type: select_one
+      options:
+      - Better
+      - Same
+      - Worse
+      - Not Applicable
+      required: false
+    - id: 18
+      name: attendee_notification
+      label: Attendees Have Been Notified
+      hint: Have guests been informed
+      type: select_one
+      options:
+      - 'Yes'
+      - In Progress
+      - Planned
+      - 'No'
+      required: true
+    - id: 19
+      name: insurance_update
+      label: Insurance and Permits Updated
+      hint: Updated venue insurance
+      type: select_one
+      options:
+      - 'Yes'
+      - In Progress
+      - Not Required
+      - 'No'
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

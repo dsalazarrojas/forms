@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lockdown Food Order Form
+    pages:
+    - id: 1
+      name: menu_item_1
+      label: Menu Item 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity_1
+      label: Quantity 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: menu_item_2
+      label: Menu Item 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity_2
+      label: Quantity 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: user@example.com
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_comment
+      label: Order Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Cancel''}'
+      required: false
+    - id: 10
+      name: menu_item_3
+      label: Burger
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Chicken''}'
+      - '{''id'': 2, ''label'': ''Fish''}'
+      - '{''id'': 3, ''label'': ''Veggie''}'
+      required: false
+    - id: 11
+      name: menu_item_4
+      label: Pizza
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pepperoni''}'
+      - '{''id'': 2, ''label'': ''Mushroom''}'
+      - '{''id'': 3, ''label'': ''Veggie''}'
+      required: false
+    - id: 12
+      name: menu_item_5
+      label: Salads
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Tomato''}'
+      - '{''id'': 2, ''label'': ''Cucumber''}'
+      - '{''id'': 3, ''label'': ''Avocado''}'
+      required: false
+    - id: 13
+      name: menu_item_6
+      label: Burgers
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beef''}'
+      - '{''id'': 2, ''label'': ''Chicken''}'
+      - '{''id'': 3, ''label'': ''Veggie''}'
+      required: false
+    - id: 14
+      name: menu_item_7
+      label: Sandwiches
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''BLT''}'
+      - '{''id'': 2, ''label'': ''Grilled Cheese''}'
+      - '{''id'': 3, ''label'': ''Ham''}'
+      required: false
+    - id: 15
+      name: menu_item_8
+      label: Drinks
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Water''}'
+      - '{''id'': 2, ''label'': ''Juice''}'
+      - '{''id'': 3, ''label'': ''Coffee''}'
+      required: false
+    - id: 16
+      name: menu_item_9
+      label: Desserts
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pie''}'
+      - '{''id'': 2, ''label'': ''Cake''}'
+      - '{''id'': 3, ''label'': ''Ice Cream''}'
+      required: false
+    - id: 17
+      name: order_note
+      label: Order Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: menu_item_10
+      label: Sushi
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Salmon''}'
+      - '{''id'': 2, ''label'': ''Tuna''}'
+      - '{''id'': 3, ''label'': ''Veggie''}'
+      required: false
+    - id: 19
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: submit_comment
+      label: Submit Comment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': "I''m Done"}'
+      - '{''id'': 2, ''label'': ''Save and Exit''}'
+      required: false
+    - id: 21
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Confirm''}'
+      - '{''id'': 2, ''label'': ''Cancel''}'
+      required: false
+    - id: 22
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Complete''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false

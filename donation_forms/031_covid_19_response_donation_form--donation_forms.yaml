@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Response Donation Form
+    pages:
+    - id: 1
+      name: donor_name_full
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone_no
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount_val
+      label: Donation Amount ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_freq_cat
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 6
+      name: payment_method_cat
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 7
+      name: billing_address_text
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: donation_dedication_text
+      label: Dedication (Optional)
+      hint: In honor or memory of someone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recognition_pref_cat
+      label: Recognition Preference
+      hint: How would you like your gift acknowledged?
+      type: select_one
+      options:
+      - Publish my name
+      - I wish to remain anonymous
+      required: true
+    - id: 10
+      name: employer_match_yn
+      label: Does your employer offer a matching gift program?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - I don't know
+      required: false
+    - id: 11
+      name: terms_donation_agree
+      label: I agree to the terms and conditions and privacy policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true

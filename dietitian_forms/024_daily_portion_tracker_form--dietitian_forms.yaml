@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_portion_tracker_form
+    pages:
+    - id: 1
+      name: daily_portion
+      label: Daily Portion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: food_name
+      label: Food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: portion_size_grams
+      label: Grams
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: portion_size_ml
+      label: ML
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: portion_size_cups
+      label: Cups
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: portion_size_tablespoons
+      label: Tablespoons
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: portion_size_ounces
+      label: Ounces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: portion_size_pounds
+      label: Pounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: food_frequency
+      label: Food Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Beverage
+      - Fruits
+      - Vegetable
+      - Fats
+      - Sweets
+      - Protein
+      - Grains
+      required: false
+    - id: 11
+      name: food_group
+      label: Food Group
+      hint: null
+      type: select_one
+      options:
+      - Fruits
+      - Vegetable
+      - Fats
+      - Sweets
+      - Protein
+      - Grains
+      required: false
+    - id: 12
+      name: tracking_date
+      label: Tracking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: tracking_time
+      label: Tracking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

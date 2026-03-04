@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Loyalty Program Survey Form
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Customer Satisfactions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stay_experience
+      label: Stay Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Overall Satisfaction
+      - Service Quality
+      - Cleanliness
+      - Food Quality
+      required: false
+    - id: 3
+      name: staff_interactions
+      label: Staff Interactions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: loyalty_program_member
+      label: Loyalty Program Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: satisfaction_with_hotel
+      label: Satisfaction With Hotel
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: satisfaction_with_program
+      label: Satisfaction With Hotel Loyalty Program
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Informed Consent To Treat Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: treatment_date
+      label: Date of Treatment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Diagnosis and Treatment Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: covid_diagnosis_status
+      label: COVID-19 Diagnosis Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed positive
+      - Suspected COVID-19
+      - Exposure concern
+      - Other respiratory illness
+      required: true
+    - id: 10
+      name: proposed_treatment
+      label: Proposed Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: treatment_rationale
+      label: Rationale for Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: chronic_conditions
+      label: Chronic Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: treatment_explained
+      label: Treatment has been fully explained to me
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: benefits_understood
+      label: I understand the expected benefits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: risks_understood
+      label: I understand the potential risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: alternatives_discussed
+      label: Alternative treatments have been discussed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: consent_to_treatment
+      label: I consent to the proposed treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: understanding_acknowledged
+      label: I understand that I can withdraw consent at any time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: consent_signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true

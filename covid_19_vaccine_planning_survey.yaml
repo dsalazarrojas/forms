@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_19_vaccine_planning_survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: Which type of facility?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: vaccination_equipment
+      label: What type of equipment or tools do you have in the facility?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: vaccine_storage_conditions
+      label: What are the storage conditions in the facility?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_country
+      label: Facility Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: has_pandemic_vaccine_plan
+      label: Has a Pandemic Vaccine Plan?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: has_equipment_to_store_vaccines
+      label: Have the necessary equipment to store vaccines?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: facility_capacity
+      label: Facility Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: total_vaccines_to_store
+      label: Total Vaccines to Store
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: store_vaccine_capacity
+      label: Store Vaccine Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: store_vaccine_capacity_notes
+      label: Store Vaccine Capacity Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: facility_pandemic_capacity
+      label: Facility Pandemic Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: pandemics
+      label: Pandemics
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: pandemics_stored_vaccines
+      label: Pandemics Stored Vaccines
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: facility_pandemic_equipment
+      label: Facility Pandemic Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: facility_pandemic_storage
+      label: Facility Pandemic Storage
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: facility_pandemic_plan
+      label: Facility Pandemic Plan
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: pandemics_stored_vaccines
+      label: Pandemics Stored Vaccines
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: vaccination_program
+      label: Vaccination Program
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: vaccination_vaccine
+      label: Vaccination Vaccine
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 23
+      name: pandemics_vaccines_stored
+      label: Pandemics Vaccines Stored
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: pandemics_stored_vaccines_notes
+      label: Pandemics Stored Vaccines Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

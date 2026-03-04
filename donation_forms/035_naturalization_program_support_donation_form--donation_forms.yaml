@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: naturalization_program_support_donation_form
+    pages:
+    - id: 1
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: donation_note
+      label: donation_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: donor_organization
+      label: donor_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: donor_type
+      label: donor_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: custom_fields
+      label: custom_fields
+      hint: null
+      type: text
+      options: []
+      required: false

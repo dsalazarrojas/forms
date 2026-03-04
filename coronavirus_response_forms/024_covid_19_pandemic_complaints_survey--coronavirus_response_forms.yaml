@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pandemic Complaints Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Workplace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: respondent_role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Business owner
+      - Customer
+      - Community member
+      - Healthcare worker
+      - Student
+      - Other
+      required: true
+    - id: 7
+      name: section_complaint_type
+      label: -- Complaint or Feedback Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback_type
+      label: Type of Feedback
+      hint: null
+      type: select_one
+      options:
+      - Complaint
+      - Compliment
+      - Suggestion
+      - Question
+      - Other
+      required: true
+    - id: 9
+      name: complaint_category
+      label: Category of Complaint or Feedback
+      hint: null
+      type: select_one
+      options:
+      - Government response
+      - Healthcare services
+      - Business closure
+      - Economic impact
+      - Mental health
+      - Education disruption
+      - Safety measures
+      - Vaccination information
+      - Other
+      required: true
+    - id: 10
+      name: section_details
+      label: -- Complaint or Feedback Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: complaint_summary
+      label: Brief Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: complaint_details
+      label: Detailed Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_date
+      label: Date of Incident or Observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_impact
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: personal_impact
+      label: How has this affected you personally?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: severity
+      label: Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Critical
+      required: true
+    - id: 18
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: evidence
+      label: Do you have evidence or documentation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: follow_up_desired
+      label: Do you want follow-up on this complaint?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - No preference
+      required: false
+    - id: 22
+      name: survey_date
+      label: Survey Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

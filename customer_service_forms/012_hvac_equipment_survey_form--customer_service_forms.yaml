@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: HVAC Equipment Survey Form
+    pages:
+    - id: 1
+      name: heating_type
+      label: Heating Type
+      hint: null
+      type: select_one
+      options:
+      - Gas
+      - Electric
+      - Other
+      required: false
+    - id: 2
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: last_service_date
+      label: Last Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Old
+      - Obsolete
+      required: false
+    - id: 5
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

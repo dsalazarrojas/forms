@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Qualification DOT Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: license_number
+      label: license_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_type
+      label: license_type
+      hint: null
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 8
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: driving_license
+      label: driving_license
+      hint: null
+      type: select_multiple
+      options:
+      - Commercial
+      - Private
+      - Non-Commercial
+      required: true
+    - id: 10
+      name: driver_experience
+      label: driver_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_status
+      label: medical_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_certificate
+      label: medical_certificate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_license
+      label: vehicle_license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_insurance
+      label: vehicle_insurance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_insurance_provider
+      label: vehicle_insurance_provider
+      hint: null
+      type: select_multiple
+      options:
+      - GEICO
+      - State Farm
+      - Progressive
+      - Travelers
+      required: true
+    - id: 16
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_license_number
+      label: vehicle_license_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_license_expiration_date
+      label: vehicle_license_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_vehicle_type
+      label: vehicle_vehicle_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: vehicle_vehicle_type_other
+      label: vehicle_vehicle_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_insurance_provider_other
+      label: vehicle_insurance_provider_other
+      hint: null
+      type: text
+      options: []
+      required: false

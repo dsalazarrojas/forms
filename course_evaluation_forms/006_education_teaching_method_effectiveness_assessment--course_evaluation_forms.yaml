@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: educationTeachingMethodEffectivenessAssessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teachingmethod
+      label: TeachingMethod
+      hint: null
+      type: select_one
+      options:
+      - Lecture and discussion
+      - Project-based learning
+      - Real-world application
+      - Role-playing
+      - Storytelling
+      - Video lecture
+      required: true
+    - id: 3
+      name: instructionalapproach
+      label: InstructionalApproach
+      hint: null
+      type: select_multiple
+      options:
+      - Demonstration
+      - Experiential learning
+      - Group work
+      - Independent learning
+      - Inquiry-based learning
+      - Mentorship
+      - Project-based learning
+      - Role-playing
+      - Self-paced learning
+      required: true
+    - id: 4
+      name: learningenvironment
+      label: LearningEnvironment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: classsize
+      label: ClassSize
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assessmentmethod
+      label: AssessmentMethod
+      hint: null
+      type: select_one
+      options:
+      - Formative
+      - Summative
+      - Mixed
+      required: true
+    - id: 8
+      name: evaluationmethod
+      label: EvaluationMethod
+      hint: null
+      type: select_multiple
+      options:
+      - Formative
+      - Summative
+      - Mixed
+      - Diagnostic
+      required: true
+    - id: 9
+      name: feedbackfrequency
+      label: FeedbackFrequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additionalcomments
+      label: AdditionalComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommendedfor
+      label: RecommendedFor
+      hint: null
+      type: select_multiple
+      options:
+      - Educators
+      - Training teams
+      - Administrators
+      required: false
+    - id: 13
+      name: additionalinformation
+      label: AdditionalInformation
+      hint: null
+      type: text
+      options: []
+      required: false

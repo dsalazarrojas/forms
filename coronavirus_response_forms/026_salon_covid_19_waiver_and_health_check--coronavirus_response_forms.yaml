@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon COVID 19 WAIVER AND HEALTH CHECK
+    pages:
+    - id: 1
+      name: client_understands
+      label: Client understands
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: health_check
+      label: Health Check
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: travel_history
+      label: travel history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: waiver_acknowledgement
+      label: Waiver Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: waiver_text
+      label: Waiver Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

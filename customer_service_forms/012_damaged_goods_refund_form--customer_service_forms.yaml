@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: damaged_goods_refund_form
+    pages:
+    - id: 1
+      name: customer_service_form
+      label: Customer Service Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_details
+      label: Customer Details
+      hint: Please provide your contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_refund
+      label: Reason For Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_image_url
+      label: Product Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_description
+      label: Product Description
+      hint: Please describe the product in detail
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_id
+      label: Order ID
+      hint: null
+      type: select_one
+      options:
+      - Order 1
+      - Order 2
+      - Order 3
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Please add any additional notes here
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accept
+      label: Accept
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Decline
+      required: false
+    - id: 14
+      name: declined_reason
+      label: Declined Reason
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bilingual Certification Registration
+    pages:
+    - id: 1
+      name: candidate_information
+      label: Candidate Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email for certification correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number for appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for certification records
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: language_certification
+      label: Language Certification Details
+      hint: Select your certification preferences
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: source_language
+      label: Source Language
+      hint: Your native or primary language
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin Chinese
+      - Japanese
+      - Korean
+      - Arabic
+      - Portuguese
+      - Russian
+      required: true
+    - id: 9
+      name: target_language
+      label: Target Language
+      hint: Language you want to be certified in
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin Chinese
+      - Japanese
+      - Korean
+      - Arabic
+      - Portuguese
+      - Russian
+      required: true
+    - id: 10
+      name: certification_level
+      label: Certification Level
+      hint: Select the level of certification sought
+      type: select_one
+      options:
+      - Basic Proficiency
+      - Intermediate Proficiency
+      - Advanced Proficiency
+      - Professional Translator
+      - Certified Interpreter
+      required: true
+    - id: 11
+      name: specialization_area
+      label: Specialization Area
+      hint: Field of expertise if applicable
+      type: select_one
+      options:
+      - General Translation
+      - Medical Translation
+      - Legal Translation
+      - Technical Translation
+      - Literary Translation
+      - Business Translation
+      - No Specialization
+      required: true
+    - id: 12
+      name: exam_preferences
+      label: Exam Preferences
+      hint: Choose your preferred exam settings
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_exam_date
+      label: Preferred Exam Date
+      hint: Select your desired exam date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_exam_time
+      label: Preferred Exam Time
+      hint: Morning or afternoon session
+      type: select_one
+      options:
+      - Morning Session (9 AM - 12 PM)
+      - Afternoon Session (1 PM - 5 PM)
+      - Evening Session (6 PM - 9 PM)
+      required: true
+    - id: 15
+      name: exam_location
+      label: Exam Location Preference
+      hint: Where would you like to take the exam
+      type: select_one
+      options:
+      - Online Remote Proctoring
+      - Downtown Testing Center
+      - University Campus
+      - Community College
+      - Language School
+      required: true
+    - id: 16
+      name: accommodation_needed
+      label: Special Accommodations
+      hint: Do you require any testing accommodations
+      type: select_one
+      options:
+      - No Accommodations Needed
+      - Extended Time
+      - Separate Room
+      - Assistive Technology
+      - Sign Language Interpreter
+      required: true
+    - id: 17
+      name: prior_experience
+      label: Prior Translation Experience
+      hint: Years of professional experience
+      type: select_one
+      options:
+      - No Experience
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5+ years
+      required: true
+    - id: 18
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest completed education
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the certification
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Employer Sponsored
+      required: true
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Help us improve our outreach
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Friend or Colleague
+      - Educational Institution
+      - Professional Association
+      - Advertisement
+      required: false
+    - id: 21
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: Agree to certification policies
+      type: select_one
+      options:
+      - I agree to all terms and certification requirements
+      - I understand the exam policies and procedures
+      required: true

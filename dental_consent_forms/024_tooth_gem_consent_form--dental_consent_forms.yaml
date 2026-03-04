@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tooth Gem Consent Form
+    pages:
+    - id: 1
+      name: tooth_gem_consent_form_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: introduction_content
+      label: What is a Tooth Gem?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: associated_risks
+      label: Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: aftercare_requirements
+      label: Aftercare Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tooth_gem_consent
+      label: I Consent
+      hint: null
+      type: select_one
+      options:
+      - Tooth Gem Consent
+      - Other
+      required: true
+    - id: 6
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: practitioner_signature
+      label: Practitioner Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date_of_practitioner_signature
+      label: Date of Practitioner Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tooth_gem_consent_form_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: tooth_gem_consent_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

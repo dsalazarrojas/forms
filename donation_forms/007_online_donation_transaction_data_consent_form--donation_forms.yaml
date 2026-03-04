@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_donation_transaction_data_consent_form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: transaction_amount
+      label: transaction_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Allow Data Usage
+      - Do Not Allow Data Usage
+      required: true
+    - id: 5
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Allow
+      - Allow (phone)
+      - Allow (email)
+      required: false
+    - id: 6
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - post
+      required: true
+    - id: 7
+      name: data_uses
+      label: data_uses
+      hint: null
+      type: select_multiple
+      options:
+      - Donor Profile
+      - Transaction Data
+      - Donation Amount
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

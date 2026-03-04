@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: wrestling_pins_pledge_form
+    pages:
+    - id: 1
+      name: pledge_amount
+      label: Pledge Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pin_amount
+      label: Pin Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: wrestler_name
+      label: Wrestler Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pledge_frequency
+      label: Pledge Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 5
+      name: pledge_start_date
+      label: Pledge Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pledge_end_date
+      label: Pledge End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_instrument
+      label: Additional Instrument
+      hint: null
+      type: select_multiple
+      options:
+      - Violin
+      - Guitar
+      - Cello
+      - Bass
+      - Drums
+      - Keyboard
+      - Harmonica
+      - Accordion
+      - Trumpet
+      - Trombone
+      - Clarinet
+      - Oboe
+      - Euphonium
+      - French Horn
+      - Tuba
+      - Piccolo
+      - Flute
+      - Harp
+      - Bagpipes
+      - Theremin
+      - Kantele
+      - Xylophone
+      - Kalimba
+      - Ukulele
+      - Banjo
+      - Mandolin
+      - Banjo
+      - Kazoo
+      - Dulcimer
+      - Sitar
+      - Lute
+      - Harpsichord
+      - Harp
+      - Lyre
+      - Lute
+      - Koto
+      - Shamisen
+      - Guqin
+      - Guzhur
+      - Guqin
+      - Koto
+      - Kora
+      - Bouzouki
+      - Balalaika
+      - Saz
+      - Saz
+      - Sitar
+      - Sitar
+      - Sitar
+      - Sitar
+      - Banjo
+      - Banjo
+      - Banjo
+      - Banjo
+      - Banjo
+      - Banjo
+      - Banjo
+      - Banjo
+      - Banjo
+      - Banjo
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: required_fields
+      label: Required Fields
+      hint: null
+      type: select_multiple
+      options:
+      - Pledge Amount
+      - Pin Amount
+      - Pledge Frequency
+      - Pledge Start Date
+      - Pledge End Date
+      - Email
+      - Additional Instrument
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Childcare Activity Report Form
+    pages:
+    - id: 1
+      name: month
+      label: Monthly
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: Name of provider
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: activity_name
+      label: Childcare Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: Add any relevant notes here
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: Name of person submitting form
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: Email of person submitting form
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: provider_rating
+      label: Provider Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

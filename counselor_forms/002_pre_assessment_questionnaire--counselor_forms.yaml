@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-assessment-questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: Please enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      - Prefer not to answer
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Please enter your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_info
+      label: Emergency contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: language_competency
+      label: Language Competency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: course_english_level
+      label: Course English Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      - Level 5
+      - Level 6
+      - Level 7
+      - Level 8
+      - Prefer not to answer
+      required: true
+    - id: 13
+      name: course_english_readiness
+      label: Course English Readiness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: other_languages_spoken
+      label: Other languages spoken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: languages_spoken_at_home
+      label: Languages spoken at home
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: language_skill_proficiency
+      label: Language Skill Proficiency
+      hint: Please indicate your language skill proficiency level
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: language_learning_goals
+      label: language-learning-goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: prior_english_education
+      label: Prior English Education
+      hint: Please enter your prior english education
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: english_language_assessment
+      label: English Language Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: english_language_assessment_date
+      label: English Language Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: english_proficiency_exam
+      label: English Proficiency Exam
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: english_proficiency_date
+      label: English Proficiency Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: language_translation_assistance
+      label: Language Translation Assistance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: language_translation_assistance_date
+      label: Language Translation Assistance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: other_language_translation_assistance
+      label: Other Language Translation Assistance
+      hint: null
+      type: text
+      options: []
+      required: true

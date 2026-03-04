@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpenter Estimate Form
+    pages:
+    - id: 1
+      name: estimate_header
+      label: Carpenter Estimate Request
+      hint: Provide details for an accurate carpentry estimate
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: estimate_number
+      label: Estimate Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estimate_date
+      label: Estimate Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_info
+      label: Customer Information
+      hint: Contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Email Address
+      hint: For estimate delivery
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Where work will be performed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_type
+      label: Type of Carpentry Project
+      hint: Select primary project type
+      type: select_one
+      options:
+      - Custom cabinets
+      - Built-in shelving
+      - Deck or porch
+      - Framing work
+      - Trim and molding
+      - Door or window installation
+      - Staircase work
+      - Furniture building
+      - Repair work
+      - Other
+      required: true
+    - id: 10
+      name: project_details
+      label: Project Details
+      hint: Describe your project
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_description
+      label: Detailed Project Description
+      hint: What work needs to be done
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: room_location
+      label: Room or Location
+      hint: Where is the work located
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dimensions
+      label: Approximate Dimensions
+      hint: Measurements if known
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: wood_preference
+      label: Wood Type Preference
+      hint: Material preference
+      type: select_one
+      options:
+      - Oak
+      - Maple
+      - Cherry
+      - Walnut
+      - Pine
+      - Mahogany
+      - No preference
+      - Need recommendation
+      required: false
+    - id: 15
+      name: finish_preference
+      label: Finish Preference
+      hint: Stain or paint
+      type: select_one
+      options:
+      - Natural finish
+      - Stained
+      - Painted
+      - Distressed
+      - No preference
+      - Need recommendation
+      required: false
+    - id: 16
+      name: existing_removal
+      label: Is Removal of Existing Items Required
+      hint: Demolition work needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: timeline
+      label: Project Timeline
+      hint: When do you want work done
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible timing
+      required: true
+    - id: 18
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: Ideal beginning date
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Your budget expectations
+      type: select_one
+      options:
+      - Under 500
+      - 500 to 1000
+      - 1000 to 2500
+      - 2500 to 5000
+      - 5000 to 10000
+      - Over 10000
+      - Not sure
+      required: false
+    - id: 20
+      name: site_access
+      label: Site Access Information
+      hint: Any access considerations
+      type: select_one
+      options:
+      - Easy access - ground level
+      - Stairs required
+      - Elevator available
+      - Limited access - details below
+      - Other concerns
+      required: true
+    - id: 21
+      name: access_details
+      label: Access Details
+      hint: Describe any challenges
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: permits_required
+      label: Are Permits Required
+      hint: Building permits
+      type: select_one
+      options:
+      - Yes - I will obtain
+      - Yes - please obtain for me
+      - No - not required
+      - Unsure
+      required: true
+    - id: 23
+      name: photos_available
+      label: Do You Have Photos of the Project Area
+      hint: Visual reference
+      type: select_one
+      options:
+      - Yes - will provide
+      - Yes - attached
+      - false
+      required: true
+    - id: 24
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend or family referral
+      - Previous customer
+      - Advertisement
+      - Contractor referral
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: consultation_preference
+      label: Consultation Preference
+      hint: How to proceed
+      type: select_one
+      options:
+      - In-person estimate
+      - Virtual consultation
+      - Phone estimate
+      - Email estimate only
+      required: true

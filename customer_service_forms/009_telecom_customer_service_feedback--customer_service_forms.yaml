@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Customer Service Feedback
+    pages:
+    - id: 1
+      name: customer_service_feedback
+      label: Customer Service Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_feedback_channels
+      label: How did you interact with us
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Web
+      - Chat
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: On a scale of 1-5, how would you rate your satisfaction
+      hint: Please rate from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Do you have any comments about your interaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: telecom_channel_preferences
+      label: Which channel would you prefer to use?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Web
+      - Chat
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: telecom_service_improvement
+      label: How can we improve our service?
+      hint: null
+      type: text
+      options: []
+      required: false

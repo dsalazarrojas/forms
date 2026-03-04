@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donate For Nature Form Template
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donate Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: card_info
+      label: Credit Card Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: Card number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: card_expiration
+      label: Expiration Date
+      hint: mm/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: card_code
+      label: Card Code
+      hint: Card code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: card_cvv
+      label: Security Code
+      hint: CVV
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: donation_amount_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: donation_amount_value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

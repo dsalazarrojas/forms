@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Retention Strategy Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_account_name
+      label: Client Account Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_manager
+      label: Account Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: retention_strategy_defined
+      label: Is There a Defined Retention Strategy?
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive plan
+      - Partial plan
+      - No formal strategy
+      - Under development
+      required: true
+    - id: 5
+      name: proactive_engagement_level
+      label: Level of Proactive Client Engagement
+      hint: How actively do we reach out to the client?
+      type: select_one
+      options:
+      - Very proactive
+      - Proactive
+      - Reactive
+      - Minimal engagement
+      - Passive
+      required: true
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency Target
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      required: false
+    - id: 7
+      name: loyalty_program_exists
+      label: Loyalty or Incentive Program in Place?
+      hint: null
+      type: select_one
+      options:
+      - Yes, active program
+      - Planned for future
+      - No program
+      required: false
+    - id: 8
+      name: personalization_level
+      label: Level of Service Personalization
+      hint: How customized is the service for this client?
+      type: select_one
+      options:
+      - Highly personalized
+      - Well personalized
+      - Somewhat personalized
+      - Minimal personalization
+      - Generic service
+      required: true
+    - id: 9
+      name: customer_success_metrics
+      label: Are Customer Success Metrics Tracked?
+      hint: Do we measure client outcomes and satisfaction?
+      type: select_one
+      options:
+      - Yes, comprehensive metrics
+      - Some metrics tracked
+      - Ad hoc tracking
+      - No formal tracking
+      required: true
+    - id: 10
+      name: value_realization
+      label: Value Realization Demonstration
+      hint: Do we regularly show the client the value they receive?
+      type: select_one
+      options:
+      - Consistently demonstrated
+      - Regularly shown
+      - Occasionally discussed
+      - Rarely mentioned
+      - Not demonstrated
+      required: false
+    - id: 11
+      name: churn_risk_assessment
+      label: Churn Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Very low risk
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Very high risk
+      required: true
+    - id: 12
+      name: expansion_opportunities
+      label: Are There Expansion Opportunities?
+      hint: Potential for upsell or cross-sell
+      type: select_one
+      options:
+      - Multiple opportunities
+      - Some opportunities
+      - Limited opportunities
+      - No opportunities
+      - Not explored
+      required: false
+    - id: 13
+      name: barrier_to_expansion
+      label: Barriers to Expansion or Retention
+      hint: What prevents growth with this client?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: retention_action_plan
+      label: Retention Action Plan
+      hint: Specific steps to strengthen client retention
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: stakeholder_alignment
+      label: Internal Stakeholder Alignment
+      hint: Are all teams aligned on retention strategy?
+      type: select_one
+      options:
+      - Strongly aligned
+      - Aligned
+      - Somewhat aligned
+      - Misaligned
+      - Not aligned
+      required: false

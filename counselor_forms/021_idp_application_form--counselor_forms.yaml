@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: idp_application_form
+    pages:
+    - id: 1
+      name: application_info
+      label: application info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: personal_info
+      label: personal info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_info
+      label: vehicle info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_registration
+      label: vehicle registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: idp_info
+      label: idp info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_form
+      label: review form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false

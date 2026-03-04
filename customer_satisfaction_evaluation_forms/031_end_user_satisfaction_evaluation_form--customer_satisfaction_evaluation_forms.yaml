@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_user_satisfaction_evaluation_form
+    pages:
+    - id: 1
+      name: user_rating
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: value_for_money
+      label: Value For Money
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: Recommend
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 16
+      name: submitted
+      label: Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: end_date
+      label: End Date
+      hint: null
+      type: time
+      options: []
+      required: false

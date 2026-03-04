@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: orphanage_donation_form
+    pages:
+    - id: 1
+      name: donation_details
+      label: Donations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_details
+      label: Donor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: orphanage_details
+      label: Orphanage
+      hint: null
+      type: text
+      options: []
+      required: false

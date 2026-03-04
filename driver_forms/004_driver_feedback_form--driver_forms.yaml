@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Feedback Form
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_rating
+      label: driver_rating
+      hint: On a scale of 0-5, how would you rate the driver's professionalism?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: driver_communication
+      label: driver_communication
+      hint: How would you rate the driver's communication skills?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: timekeeping
+      label: timekeeping
+      hint: How well did the driver keep to time?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: overall_rating
+      hint: On a scale of 0-5, how would you rate the overall experience?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: Any additional comments?
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination AcceptDecline Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of decision
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 15
+      name: household_high_risk
+      label: Does anyone in your household have high-risk conditions
+      hint: Household risk
+      type: select_one
+      options:
+      - false
+      - true
+      - I live alone
+      required: true
+    - id: 16
+      name: previous_covid_infection
+      label: Have you previously tested positive for COVID-19
+      hint: Infection history
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 17
+      name: previous_infection_date
+      label: When did you test positive
+      hint: Approximate date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: vaccination_decision
+      label: Do you want to receive the COVID-19 vaccine
+      hint: Accept or decline
+      type: select_one
+      options:
+      - Yes I accept the vaccine
+      - No I decline the vaccine
+      - I need more information
+      required: true
+    - id: 19
+      name: vaccine_brand_preference
+      label: Do you have a vaccine brand preference
+      hint: Vaccine type
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      required: false
+    - id: 20
+      name: decline_reason
+      label: If declining what is your reason
+      hint: Reason for declining
+      type: select_one
+      options:
+      - Medical contraindication
+      - Religious belief
+      - Personal preference
+      - Safety concerns
+      - Already vaccinated
+      - Natural immunity
+      - Waiting for more data
+      - Other
+      required: false
+    - id: 21
+      name: medical_contraindication_details
+      label: Please describe your medical contraindication
+      hint: Medical details
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: future_vaccination_interest
+      label: Might you be interested in vaccination in the future
+      hint: Future interest
+      type: select_one
+      options:
+      - Yes possibly
+      - No definitely not
+      - I am not sure
+      - Not applicable
+      required: false
+    - id: 23
+      name: information_needed
+      label: What information would help you decide
+      hint: Information needs
+      type: select_multiple
+      options:
+      - Vaccine efficacy data
+      - Safety information
+      - Side effect details
+      - Long-term effects data
+      - Discussion with healthcare provider
+      - Information from trusted sources
+      - Nothing I have decided
+      required: false
+    - id: 24
+      name: education_provided
+      label: Have you received COVID-19 vaccine education
+      hint: Education status
+      type: select_one
+      options:
+      - Yes comprehensive education
+      - Yes basic information
+      - No I need education
+      required: true
+    - id: 25
+      name: education_materials_given
+      label: Were vaccine information materials provided
+      hint: Materials given
+      type: select_one
+      options:
+      - Yes fact sheet provided
+      - Yes website resources shared
+      - No materials provided
+      required: true
+    - id: 26
+      name: questions_addressed
+      label: Were all your questions answered
+      hint: Question status
+      type: select_one
+      options:
+      - Yes all questions answered
+      - Some questions remain
+      - No questions asked
+      required: true
+    - id: 27
+      name: remaining_questions
+      label: What questions do you still have
+      hint: Unanswered questions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: decision_voluntary
+      label: Is your decision to accept or decline voluntary
+      hint: Voluntary decision
+      type: select_one
+      options:
+      - Yes fully voluntary
+      - Yes with some influence
+      - No feel pressured
+      required: true
+    - id: 29
+      name: decision_understanding
+      label: Do you understand the implications of your decision
+      hint: Decision understanding
+      type: select_one
+      options:
+      - Yes I fully understand
+      - Yes I mostly understand
+      - Partially I have questions
+      required: true
+    - id: 30
+      name: follow_up_contact
+      label: May we contact you for follow-up
+      hint: Follow-up permission
+      type: select_one
+      options:
+      - Yes please contact me
+      - No do not contact
+      required: true
+    - id: 31
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 4 Vaccination Registration Form
+    pages:
+    - id: 1
+      name: section_individual_info
+      label: -- Individual Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_phase_4_eligibility
+      label: -- Phase 4 Eligibility --
+      hint: General population - anyone not in earlier phases or children
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: age_category
+      label: Age Category
+      hint: null
+      type: select_one
+      options:
+      - Child - under 16
+      - Adult - 16 years and older
+      - Other
+      required: true
+    - id: 14
+      name: parent_guardian
+      label: Parent or Guardian Name (if under 18)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_phase_4
+      label: I am eligible for Phase 4 vaccination
+      hint: Not included in previous phases
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_health_background
+      label: -- Health Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: underlying_conditions
+      label: Underlying Health Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Asthma
+      - Diabetes
+      - Heart disease
+      - Weakened immune system
+      - Obesity
+      - Chronic lung disease
+      - None
+      - Other
+      required: false
+    - id: 18
+      name: known_allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: severe_allergic_reaction
+      label: History of severe allergic reaction to vaccines?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 20
+      name: section_vaccination_record
+      label: -- Vaccination Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: prior_covid_vaccines
+      label: Prior COVID-19 Vaccine Doses
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1 dose
+      - 2 doses
+      - 3 or more doses
+      required: true
+    - id: 22
+      name: covid_19_infection
+      label: Have you had COVID-19 infection?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 23
+      name: section_consent_agreement
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: understand_info
+      label: I have read and understand vaccine information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: vaccine_consent
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

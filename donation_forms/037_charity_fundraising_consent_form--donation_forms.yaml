@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fundraising Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Charity Organization
+      hint: Beneficiary
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: fundraising_event
+      label: Fundraising Event or Campaign
+      hint: Which campaign
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participation_type
+      label: Type of Participation
+      hint: Your role
+      type: select_one
+      options:
+      - Donor
+      - Fundraiser
+      - Volunteer
+      - Event participant
+      - Sponsor
+      - Other
+      required: true
+    - id: 9
+      name: donation_amount
+      label: Donation Amount
+      hint: If donating
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1000
+      - Other amount
+      - Not applicable
+      required: false
+    - id: 10
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      - Not applicable
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How to contribute
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check
+      - Cash
+      - Not applicable
+      required: false
+    - id: 12
+      name: fundraising_goal
+      label: Personal Fundraising Goal
+      hint: If fundraising
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1000
+      - $1001 to $2500
+      - $2501 to $5000
+      - Over $5000
+      - Not applicable
+      required: false
+    - id: 13
+      name: data_usage_consent
+      label: Consent to Data Usage
+      hint: Information use
+      type: select_one
+      options:
+      - Yes you may use my data
+      - Yes limited use only
+      - No do not use my data
+      required: true
+    - id: 14
+      name: communication_consent
+      label: Consent to Communications
+      hint: Emails and updates
+      type: select_one
+      options:
+      - Yes send me updates
+      - Yes only essential
+      - No communications
+      required: true
+    - id: 15
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: Promotional use
+      type: select_one
+      options:
+      - Yes you may use my image
+      - No do not use my image
+      required: true
+    - id: 16
+      name: public_recognition
+      label: Public Recognition Preference
+      hint: Donor list
+      type: select_one
+      options:
+      - Yes list my name
+      - Yes list organization
+      - No keep anonymous
+      required: true
+    - id: 17
+      name: tax_receipt
+      label: Tax Receipt Needed
+      hint: For tax purposes
+      type: select_one
+      options:
+      - Yes send receipt
+      - No receipt needed
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: Do You Agree to Terms
+      hint: Terms and conditions
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date of Consent
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any notes
+      type: text
+      options: []
+      required: false

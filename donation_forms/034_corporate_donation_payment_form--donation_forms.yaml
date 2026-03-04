@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Donation Payment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Corporate Donation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: payment_method_select
+      label: select_payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_city
+      label: billing_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_state
+      label: billing_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_zip
+      label: billing_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_country
+      label: billing_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method_label
+      label: payment_method_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_description
+      label: payment_method_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: donor_type
+      label: donor_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: donor_type_select
+      label: select_donor_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: donor_id
+      label: donor_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_gateway_id
+      label: payment_gateway_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_gateway_token
+      label: payment_gateway_token
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_gateway_transaction_id
+      label: payment_gateway_transaction_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_gateway_status
+      label: payment_gateway_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_gateway_response_code
+      label: payment_gateway_response_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_gateway_response_message
+      label: payment_gateway_response_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_gateway_transaction_amount
+      label: payment_gateway_transaction_amount
+      hint: null
+      type: text
+      options: []
+      required: false

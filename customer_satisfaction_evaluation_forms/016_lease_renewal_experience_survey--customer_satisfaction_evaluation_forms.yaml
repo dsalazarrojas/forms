@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Renewal Experience Survey
+    pages:
+    - id: 1
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: renewal_process
+      label: Renewal Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: lease_renewal_process
+      label: Lease Renewal Process
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

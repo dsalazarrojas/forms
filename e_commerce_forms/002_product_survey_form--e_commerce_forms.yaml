@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_survey_form
+    pages:
+    - id: 1
+      name: product_survey_form
+      label: Product Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_long_using_product
+      label: How long have you been using our products/services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impression_on_competition
+      label: What is your impression on how we compete with other competitors?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_with_product
+      label: What is your satisfaction with the products/services we offer?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: couple_more_questions
+      label: Are there a couple more questions you can think of?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_experience
+      label: What was the overall experience you had?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_services_improvement
+      label: What can we improve in our products/services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: competitor_products_services
+      label: What do you think we should improve in our competitor's products/services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_survey_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Cancel''}'
+      required: true
+    - id: 10
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

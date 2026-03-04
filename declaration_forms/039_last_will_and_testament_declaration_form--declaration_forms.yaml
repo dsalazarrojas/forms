@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: last_will_and_testament_declaration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Lawyer
+      - Engineer
+      - Doctor
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: assets_owned
+      label: Assets Owned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: beneficiaries
+      label: Beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: assets_description
+      label: Assets Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assets_value
+      label: Assets Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: testament_date
+      label: Testament Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: will_signatures
+      label: Will Signatures
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Witness 1
+      - Witness 2
+      required: true
+    - id: 12
+      name: witness_signatures
+      label: Witness Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: notary_seal
+      label: Notary Seal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: notary_seal_location
+      label: Notary Seal Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notary_seal_number
+      label: Notary Seal Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: declaration_statement
+      label: Declaration Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: sign_off
+      label: Sign Off
+      hint: null
+      type: date
+      options: []
+      required: true

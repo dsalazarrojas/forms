@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Hours And Contact Preferences Form
+    pages:
+    - id: 1
+      name: section_business_identity_hours
+      label: -- Business Identity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_display_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operating_time_zone
+      label: Primary Operating Time Zone
+      hint: e.g. EST, GMT+1, PST
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_operating_hours
+      label: -- Operating Hours --
+      hint: "Please enter hours in HH:MM AM/PM - HH:MM AM/PM format"
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: hours_weekday_mon_fri
+      label: Monday - Friday Hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hours_weekend_saturday
+      label: Saturday Hours
+      hint: Enter Closed if not operating
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hours_weekend_sunday
+      label: Sunday Hours
+      hint: Enter Closed if not operating
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: holiday_schedule_general_policy
+      label: Holiday Schedule Notes
+      hint: General policy for bank/public holidays
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_contact_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_person_primary_name
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_method_primary_choice
+      label: Preferred Contact Method
+      hint: Our first choice for reaching you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS / Text Message
+      - WhatsApp
+      - Physical Mail
+      required: true
+    - id: 12
+      name: contact_method_secondary_choice
+      label: Secondary Contact Method
+      hint: If we cannot reach you via the primary method
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS / Text Message
+      - Emergency Phone Line
+      required: false
+    - id: 13
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone
+      hint: For urgent matters outside of business hours
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: newsletter_opt_in_preference
+      label: Subscribe to Operational Updates Newsletter
+      hint: null
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, thank you
+      required: true
+    - id: 15
+      name: preferences_effective_date
+      label: Effective Date for these Preferences
+      hint: null
+      type: date
+      options: []
+      required: true

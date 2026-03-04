@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Contact Investigation Form
+    pages:
+    - id: 1
+      name: investigation_date
+      label: Investigation Date
+      hint: Date of contact investigation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: case_reference
+      label: Case Reference Number
+      hint: ID of the confirmed case
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: investigator_name
+      label: Investigator Name
+      hint: Person conducting this investigation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Full name of the exposed person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_dob
+      label: Contact Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Contact Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: confirmed_case_name
+      label: Confirmed Case Name
+      hint: Name of person who is COVID-19 positive
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: exposure_date
+      label: Date of Exposure
+      hint: When did contact occur with confirmed case?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: exposure_type
+      label: Type of Exposure
+      hint: How did the exposure occur?
+      type: select_one
+      options:
+      - Household
+      - Workplace
+      - School
+      - Healthcare setting
+      - Social gathering
+      - Travel
+      - Community exposure
+      - Other
+      required: true
+    - id: 14
+      name: exposure_location
+      label: Location of Exposure
+      hint: Where the exposure occurred
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: duration_exposure
+      label: Duration of Exposure
+      hint: How long was contact?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: proximity_distance
+      label: Proximity During Exposure
+      hint: How close was contact?
+      type: select_one
+      options:
+      - Less than 6 feet
+      - 6 feet or more
+      - Unclear
+      required: true
+    - id: 17
+      name: masking_status
+      label: Masking Status During Exposure
+      hint: Was either person wearing a mask?
+      type: select_one
+      options:
+      - Both masked
+      - Case masked, contact not
+      - Contact masked, case not
+      - Neither masked
+      - Unknown
+      required: false
+    - id: 18
+      name: ventilation
+      label: Ventilation of Exposure Location
+      hint: Indoor, outdoor, well-ventilated?
+      type: select_one
+      options:
+      - Outdoor
+      - Well-ventilated indoor"
+      - Standard indoor
+      - Poorly ventilated
+      - Unknown
+      required: false
+    - id: 19
+      name: symptoms_current
+      label: Current Symptoms
+      hint: Is contact experiencing any symptoms?
+      type: select_one
+      options:
+      - No symptoms
+      - Asymptomatic currently but had symptoms
+      - Symptomatic
+      - Unknown
+      required: true
+    - id: 20
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: If symptomatic, when did they start?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: symptoms_list
+      label: Symptoms Reported
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Loss of taste
+      - Loss of smell
+      - Fatigue
+      - Headache
+      - Sore throat
+      - Body aches
+      - Nausea
+      - Diarrhea
+      required: false
+    - id: 22
+      name: tested_for_covid
+      label: Has contact been tested for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Positive
+      - Yes - Negative
+      - Yes - Inconclusive
+      - Yes - Pending
+      required: true
+    - id: 23
+      name: test_date
+      label: COVID-19 Test Date
+      hint: If tested
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: test_type
+      label: Test Type
+      hint: PCR, Rapid Antigen, Antibody, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quarantine_advised
+      label: Quarantine Advised?
+      hint: Was contact advised to quarantine?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 26
+      name: quarantine_duration
+      label: Recommended Quarantine Duration
+      hint: Number of days
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: isolation_compliance
+      label: Contact Willing to Comply with Isolation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: false
+    - id: 28
+      name: follow_up_plan
+      label: Follow-Up Plan
+      hint: What is the plan for follow-up?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

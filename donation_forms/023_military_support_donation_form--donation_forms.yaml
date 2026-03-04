@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Support Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount_donation
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: select_payment_method_1
+      label: Payment Method 1
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''label'': ''Online Payment'', ''value'': ''online_payment''}'
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      required: false
+    - id: 7
+      name: select_payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''label'': ''Online Payment'', ''value'': ''online_payment''}'
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      required: false
+    - id: 8
+      name: date_donate
+      label: Date to Donate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_donate
+      label: Time to Donate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: military_id
+      label: Military ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Accepted'', ''value'': ''accepted''}'
+      - '{''label'': ''Declined'', ''value'': ''declined''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      required: false
+    - id: 21
+      name: reason_declined
+      label: Reason Declined
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: amount_refunded
+      label: Amount Refunded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Refunded'', ''value'': ''not_refunded''}'
+      - '{''label'': ''Partially Refunded'', ''value'': ''partially_refunded''}'
+      - '{''label'': ''Fully Refunded'', ''value'': ''fully_refunded''}'
+      required: false
+    - id: 24
+      name: refund_method
+      label: Refund Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Check'', ''value'': ''check''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

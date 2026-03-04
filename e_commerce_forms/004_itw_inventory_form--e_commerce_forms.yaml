@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: ITW Inventory Form
+    pages:
+    - id: 1
+      name: product_title
+      label: Product Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stock_status
+      label: Stock Status
+      hint: null
+      type: select_one
+      options:
+      - in stock
+      - out of stock
+      required: false
+    - id: 6
+      name: supplier
+      label: Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: categories
+      label: Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Home Goods
+      required: false
+    - id: 8
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image
+      label: Image
+      hint: null
+      type: note
+      options: []
+      required: false

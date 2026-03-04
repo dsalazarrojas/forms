@@ -1,0 +1,315 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Driver Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Legal name as on license
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_license_info
+      label: -- License Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cdl_number
+      label: CDL Number
+      hint: Commercial license number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cdl_state
+      label: CDL State
+      hint: State of issuance
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cdl_class
+      label: CDL Class
+      hint: License class
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 10
+      name: cdl_expiration
+      label: CDL Expiration Date
+      hint: When does license expire
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: endorsements
+      label: Endorsements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hazardous Materials (H)
+      - Tank Vehicle (N)
+      - Passenger (P)
+      - School Bus (S)
+      - Doubles/Triples (T)
+      - Combination (X)
+      - None
+      required: true
+    - id: 12
+      name: medical_card_status
+      label: Medical Card Status
+      hint: Current medical certification
+      type: select_one
+      options:
+      - Current and Valid
+      - Expired
+      - Not Required
+      required: true
+    - id: 13
+      name: section_header_experience
+      label: -- Driving Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: years_cdl_experience
+      label: Years of CDL Experience
+      hint: Total commercial driving experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 15
+      name: vehicle_types_driven
+      label: Vehicle Types Driven
+      hint: What have you driven
+      type: select_multiple
+      options:
+      - Semi-Truck
+      - Box Truck
+      - Flatbed
+      - Tanker
+      - Refrigerated Trailer
+      - Bus
+      - Dump Truck
+      - Other
+      required: true
+    - id: 16
+      name: miles_driven_annually
+      label: Annual Miles Driven
+      hint: Average miles per year
+      type: select_one
+      options:
+      - Less than 10,000
+      - 10,000-50,000
+      - 50,000-100,000
+      - 100,000-150,000
+      - Over 150,000
+      required: true
+    - id: 17
+      name: previous_employers
+      label: Previous Trucking Employers
+      hint: List previous companies
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_safety_record
+      label: -- Safety Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accidents_past_3_years
+      label: Accidents in Past 3 Years
+      hint: Number of accidents
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: violations_past_3_years
+      label: Violations in Past 3 Years
+      hint: Number of traffic violations
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: dui_conviction
+      label: DUI Conviction
+      hint: Any DUI in past 10 years
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: license_suspension
+      label: License Suspension
+      hint: Any suspensions or revocations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: section_header_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: preferred_route_type
+      label: Preferred Route Type
+      hint: What routes do you prefer
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - OTR (Over the Road)
+      - Dedicated
+      - Any
+      required: true
+    - id: 25
+      name: home_time_preference
+      label: Home Time Preference
+      hint: How often do you want home
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Scheduled
+      required: true
+    - id: 26
+      name: start_date_availability
+      label: Available Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: section_header_qualifications
+      label: -- Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: hazmat_certification
+      label: HazMat Certification
+      hint: Do you have HazMat endorsement
+      type: select_one
+      options:
+      - Yes Current
+      - false
+      - Willing to Obtain
+      required: false
+    - id: 29
+      name: twic_card
+      label: TWIC Card
+      hint: Transportation Worker ID
+      type: select_one
+      options:
+      - Yes Current
+      - false
+      - Not Required
+      required: false
+    - id: 30
+      name: section_header_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: reference_1_name
+      label: Professional Reference 1
+      hint: Name of reference
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do you know them
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: why_work_here
+      label: Why Do You Want to Work Here
+      hint: Your reason for applying
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: additional_certifications
+      label: Additional Certifications
+      hint: Any other certifications
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Inquiry Contact Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: ticket_number
+      label: ticket_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question
+      label: what_is_the_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Event 1''}'
+      - '{''id'': 2, ''label'': ''Event 2''}'
+      - '{''id'': 3, ''label'': ''Event 3''}'
+      required: false
+    - id: 6
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_phone
+      label: customer_service_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_email
+      label: customer_service_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Medium''}'
+      required: false
+    - id: 12
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: event
+      label: event
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Event 1''}'
+      - '{''id'': 2, ''label'': ''Event 2''}'
+      required: false
+    - id: 15
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service 1''}'
+      - '{''id'': 2, ''label'': ''Service 2''}'
+      required: false

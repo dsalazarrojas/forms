@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Service Sale Rejection Recommendation Form
+    pages:
+    - id: 1
+      name: sales_leader
+      label: Sales Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_rejection
+      label: reason_for_rejection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: internal_recommendation
+      label: Internal Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Utility Service is not available in the area
+      - Utility Service is not compliant with industry standards
+      - Utility Service is not compliant with company policies
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: other_internal_recommendation
+      label: Other (Internal Recommendation)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: sales_time
+      label: Sales Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_status
+      label: Service Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: sales_status
+      label: Sales Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: sales_notes
+      label: Sales Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: quality_person
+      label: Quality Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: quality_date
+      label: Quality Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: quality_time
+      label: Quality Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: quality_status
+      label: Quality Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: quality_notes
+      label: Quality Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true

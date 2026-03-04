@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: plan_document_checklist
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: plan_id
+      label: Plan ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: plan_type
+      label: Plan Type
+      hint: null
+      type: select_one
+      options:
+      - -ประก -ประก -ประก
+      - Other
+      required: true
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''name1'', ''value'': ''name1''}'
+      - '{''name'': ''name2'', ''value'': ''name2''}'
+      - '{''name'': ''name3'', ''value'': ''name3''}'
+      required: false
+    - id: 10
+      name: plan_start_date
+      label: Plan Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: plan_end_date
+      label: Plan End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: plan_duration
+      label: Plan Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''duration1'', ''value'': 1}'
+      - '{''name'': ''duration2'', ''value'': 2}'
+      - '{''name'': ''duration3'', ''value'': 3}'
+      required: true
+    - id: 13
+      name: plan_status
+      label: Plan Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''status1'', ''value'': ''status1''}'
+      - '{''name'': ''status2'', ''value'': ''status2''}'
+      - '{''name'': ''status3'', ''value'': ''status3''}'
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false

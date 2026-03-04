@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: donation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Painter And Decorator Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Your contact number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 1, ''label'': 1}'
+      - '{''id'': 2, ''value'': 2, ''label'': 2}'
+      - '{''id'': 3, ''value'': 3, ''label'': 3}'
+      - '{''id'': 4, ''value'': 4, ''label'': 4}'
+      - '{''id'': 5, ''value'': 5, ''label'': 5}'
+      required: true
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': ''fair'', ''label'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''poor'', ''label'': ''Poor''}'
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''interior'', ''label'': ''Interior''}'
+      - '{''id'': 2, ''value'': ''exterior'', ''label'': ''Exterior''}'
+      - '{''id'': 3, ''value'': ''both'', ''label'': ''Both''}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Your comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

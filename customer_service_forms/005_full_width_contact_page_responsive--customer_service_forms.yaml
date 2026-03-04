@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: full_width_contact_page_responsive
+    pages:
+    - id: 1
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_message
+      label: contact message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_address
+      label: contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: embedded_iframe_url
+      label: embed iframe url
+      hint: url of the embedded iframe
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: embedded_iframe_width
+      label: embed iframe width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: embedded_iframe_height
+      label: embed iframe height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: embedded_iframe_alignment
+      label: embed iframe alignment
+      hint: none, center, left, right
+      type: select_one
+      options:
+      - center
+      - left
+      - right
+      required: false
+    - id: 10
+      name: embedded_iframe_margin
+      label: embed iframe margin
+      hint: px
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: embedded_iframe_padding
+      label: embed iframe padding
+      hint: px
+      type: number
+      options: []
+      required: false

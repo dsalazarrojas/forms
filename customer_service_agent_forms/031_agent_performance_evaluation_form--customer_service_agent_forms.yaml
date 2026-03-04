@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Performance Evaluation Form
+    pages:
+    - id: 1
+      name: evaluated_agent_name
+      label: Evaluated Agent Name
+      hint: Enter the name of the agent being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Enter the name of the person conducting the evaluation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Enter the date of the evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_period
+      label: Evaluation Period
+      hint: Enter the time period being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agent_position
+      label: Agent Position
+      hint: Enter the position title of the agent
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: performance_categories_header
+      label: -- Performance Categories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: communication_skills_rating
+      label: Communication Skills Rating
+      hint: Rate the agent's communication skills (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 8
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: Rate the agent's customer service skills (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 9
+      name: problem_solving_rating
+      label: Problem Solving Rating
+      hint: Rate the agent's problem-solving abilities (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 10
+      name: product_knowledge_rating
+      label: Product Knowledge Rating
+      hint: Rate the agent's knowledge of products/services (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 11
+      name: efficiency_rating
+      label: Efficiency Rating
+      hint: Rate the agent's efficiency and time management (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 12
+      name: attendance_punctuality_rating
+      label: Attendance and Punctuality Rating
+      hint: Rate the agent's attendance and punctuality (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 13
+      name: teamwork_collaboration_rating
+      label: Teamwork and Collaboration Rating
+      hint: Rate the agent's teamwork and collaboration skills (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 14
+      name: goal_achievement_rating
+      label: Goal Achievement Rating
+      hint: Rate the agent's achievement of performance goals (1-5 scale)
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Below Average", "3 - Average", "4 - Above Average", "5 - Excellent"]
+      required: true
+    - id: 15
+      name: strengths_header
+      label: -- Strengths --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: identified_strengths
+      label: Identified Strengths
+      hint: What are the agent's key strengths?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: improvement_areas_header
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas need improvement?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: development_opportunities
+      label: Development Opportunities
+      hint: What training or development opportunities would benefit the agent?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_performance_rating
+      label: Overall Performance Rating
+      hint: What is your overall rating of the agent's performance?
+      type: select_one
+      options: ["1 - Unsatisfactory", "2 - Needs Improvement", "3 - Meets Expectations", "4 - Exceeds Expectations", "5 - Outstanding"]
+      required: true
+    - id: 21
+      name: performance_summary
+      label: Performance Summary
+      hint: Provide a summary of the agent's performance
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: goals_next_period
+      label: Goals for Next Evaluation Period
+      hint: What goals should the agent focus on for the next period?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: Digital signature of the evaluator
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: agent_signature
+      label: Agent Signature
+      hint: Digital signature of the agent acknowledging the evaluation
+      type: text
+      options: []
+      required: true

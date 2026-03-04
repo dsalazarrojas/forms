@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Inventory
+    pages:
+    - id: 1
+      name: stylist_name
+      label: Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inventory_date
+      label: Inventory Count Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_inventory_details
+      label: -- Inventory Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: set_category
+      label: Nail Set Category
+      hint: null
+      type: select_one
+      options:
+      - Solids
+      - Glitters
+      - Glitter Designs
+      - Art Designs
+      - French
+      - Holidays and Limited Edition
+      - Pedicure
+      required: true
+    - id: 5
+      name: set_name
+      label: Name of Color Street Set
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity_on_hand
+      label: Quantity on Hand
+      hint: Total number of full sets
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: samples_available
+      label: Samples Available (Twosies)
+      hint: Number of sample packs
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: storage_location
+      label: Storage Location
+      hint: e.g., Bin A, Display Case, Office
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: restock_trigger
+      label: Restock Trigger Level
+      hint: Minimum quantity before reordering
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: retail_value
+      label: Estimated Total Retail Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: condition_check
+      label: Is the packaging in good condition?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No (Damaged)
+      required: true
+    - id: 12
+      name: inventory_notes
+      label: General Inventory Notes
+      hint: null
+      type: text
+      options: []
+      required: false

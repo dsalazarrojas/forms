@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Workshops Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: leadership_workshops_donation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: unique_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email_address
+      hint: Enter a valid email address.
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false

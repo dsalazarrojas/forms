@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scouts COVID 19 Self Assessment Form
+    pages:
+    - id: 1
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: coronavirus_symptoms
+      label: Do you or anyone in your household currently have or have had symptoms?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: traveled_outside_house
+      label: Have you or anyone in your household traveled outside your home in the
+        last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: contact_outside_house
+      label: Have you or anyone in your household come into contact with someone that
+        has been diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: self_isolated
+      label: Are you or anyone in your household self-isolating?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: medical_condition
+      label: Do you or anyone in your household have a medical condition that would
+        make you more susceptible to COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: terms_and_conditions
+      label: I have read and agree to the terms and conditions for this form
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 10
+      name: e_signature
+      label: Electronic Signature
+      hint: null
+      type: note
+      options: []
+      required: true

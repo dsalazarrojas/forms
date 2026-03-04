@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Intake Form
+    pages:
+    - id: 1
+      name: customer_registration_form
+      label: customer_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history_form
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergies
+      - None
+      required: false
+    - id: 4
+      name: medication_use
+      label: medications
+      hint: List your current medications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history_2
+      label: medical_history_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history_3
+      label: medical_history_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facial_history
+      label: facial_history
+      hint: List your past experiences with facials
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pain_level
+      label: pain_level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Slight
+      - Moderate
+      - Severe
+      required: false
+    - id: 9
+      name: skin_type
+      label: skin_type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Combination
+      - Dry
+      - Oily
+      - Sensitive
+      required: false
+    - id: 10
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

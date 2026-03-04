@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women’s Health Discharge Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discharge_info
+      label: discharge information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false

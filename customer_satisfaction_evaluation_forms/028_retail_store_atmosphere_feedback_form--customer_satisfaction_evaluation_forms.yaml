@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_store_atmosphere_feedback_form
+    pages:
+    - id: 1
+      name: store_atmosphere
+      label: Store Atmosphere
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Neutral
+      - Somewhat Bad
+      - Very Bad
+      required: false
+    - id: 2
+      name: lighting
+      label: Lighting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: music
+      label: Music
+      hint: null
+      type: select_multiple
+      options:
+      - Too Loud
+      - Too Quiet
+      - Just Right
+      required: false
+    - id: 4
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: store_staff
+      label: Store Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Very Friendly
+      - Somewhat Friendly
+      - Somewhat Unfriendly
+      - Very Unfriendly
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false

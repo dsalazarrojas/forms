@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Driver Evaluation Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Driver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver name
+      hint: Full name of the driver being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operator_id
+      label: Operator id
+      hint: Internal employee number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: route_number
+      label: Route number
+      hint: Route name or number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: Evaluation date
+      hint: Date of the assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_condition_score
+      label: Vehicle condition score
+      hint: Rate from 1 to 5 where 5 is excellent
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: driving_skill_score
+      label: Driving skill score
+      hint: Rate from 1 to 5 where 5 is excellent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: safety_observations
+      label: Safety observations
+      hint: Describe any safety related observations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pass_fail
+      label: Pass or fail
+      hint: Final outcome of the evaluation
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Needs retraining
+      required: true
+    - id: 10
+      name: evaluator_name
+      label: Evaluator name
+      hint: Name of the person completing this evaluation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_actions
+      label: Follow up actions
+      hint: Recommended next steps or remedial actions
+      type: text
+      options: []
+      required: false

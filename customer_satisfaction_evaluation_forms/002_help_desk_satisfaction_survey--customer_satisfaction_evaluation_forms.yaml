@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: help_desk_satisfaction_survey
+    pages:
+    - id: 1
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: response_time
+      label: Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

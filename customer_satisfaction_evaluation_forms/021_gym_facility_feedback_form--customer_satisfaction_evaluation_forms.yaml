@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Facility Feedback Form
+    pages:
+    - id: 1
+      name: facility_rating
+      label: Facility Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '1'
+      - '4'
+      - '3'
+      - '2'
+      required: false
+    - id: 4
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: recommendations
+      label: Would you recommend this gym?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: select_one
+      options:
+      - In the city center
+      - In a suburban area
+      - In a quiet neighborhood
+      - In a busy area
+      required: false
+    - id: 12
+      name: operating_hours
+      label: Operating Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: opening_time
+      label: Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: closing_time
+      label: Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: staff_availability
+      label: Staff Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: parking_availability
+      label: Parking Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: membership_price
+      label: Membership Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 20
+      name: membership_duration
+      label: Membership Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 21
+      name: renewal_policy
+      label: Renewal Policy
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 22
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 23
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Family
+      required: false
+    - id: 24
+      name: membership_status_date
+      label: Membership Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

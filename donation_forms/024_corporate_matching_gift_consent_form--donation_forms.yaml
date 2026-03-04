@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_matching_gift_consent_form
+    pages:
+    - id: 1
+      name: company_match
+      label: Employer Information
+      hint: null
+      type: select_multiple
+      options:
+      - company
+      - company
+      required: false
+    - id: 2
+      name: match_level
+      label: Matching Level
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'True'
+      - 'True'
+      required: false
+    - id: 3
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: gift_value
+      label: Gift Value
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gift_frequency
+      label: Gift Frequency
+      hint: 'null'
+      type: select_one
+      options:
+      - once
+      - ongoing
+      required: false
+    - id: 6
+      name: gift_date
+      label: Gift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: gift_value_frequency
+      label: Gift Value Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: matching_gift_employer
+      label: Matching Gift Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gift_annually
+      label: Gift Annually
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'True'
+      - 'True'
+      required: false
+    - id: 10
+      name: gift_quarterly
+      label: Gift Quaterly
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'True'
+      - 'True'
+      required: false
+    - id: 11
+      name: gift_monthly
+      label: Gift Monthly
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'True'
+      - 'True'
+      required: false
+    - id: 12
+      name: gift_weekly
+      label: Gift Weekly
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'True'
+      - 'True'
+      required: false
+    - id: 13
+      name: gift_daily
+      label: Gift Daily
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'True'
+      - 'True'
+      required: false
+    - id: 14
+      name: gift_frequency_other
+      label: Gift Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gift_frequency_other_description
+      label: Gift Frequency Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: matching_gift_employer_other
+      label: Matching Gift Employer Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: matching_gift_employer_other_description
+      label: Matching Gift Employer Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: gift_frequency_other_frequency
+      label: Gift Frequency Other Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: gift_value_other
+      label: Gift Value Other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: corporate_match_amount
+      label: Corporate Match Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: corporate_match_percent
+      label: Corporate Match Percentage
+      hint: null
+      type: number
+      options: []
+      required: false

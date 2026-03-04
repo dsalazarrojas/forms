@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Box Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: box_type
+      label: Select Christmas Box Type
+      hint: Choose your preferred gift box style
+      type: select_one
+      options:
+      - Classic Red Box
+      - Winter Wonderland Box
+      - Gourmet Treats Box
+      - Family Size Box
+      - Deluxe Premium Box
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: How many boxes would you like to order
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gift_message
+      label: Gift Message
+      hint: Optional message to include with your order
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: delivery_address
+      label: Delivery Address
+      hint: Full street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: Select your preferred delivery date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Gate codes, leave at door, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: Choose your preferred payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash on Delivery
+      required: true
+    - id: 16
+      name: gift_wrapping
+      label: Add Gift Wrapping
+      hint: Additional gift wrapping service
+      type: select_one
+      options:
+      - No thanks
+      - Standard wrapping
+      - Premium wrapping with ribbon
+      required: true
+    - id: 17
+      name: newsletter_signup
+      label: Subscribe to Newsletter
+      hint: Receive holiday deals and updates
+      type: select_one
+      options:
+      - Yes please
+      - No thank you
+      required: false
+    - id: 18
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family
+      - Online Search
+      - Advertisement
+      - Other
+      required: false

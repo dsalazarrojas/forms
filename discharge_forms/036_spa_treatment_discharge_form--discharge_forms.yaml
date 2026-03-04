@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Treatment Discharge Form
+    pages:
+    - id: 1
+      name: spa_treatment_discharge_form
+      label: Discharge Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Client Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_phone_number
+      label: Client Phone Number
+      hint: Client Phone Number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_id
+      label: Treatment ID
+      hint: Treatment ID
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: treatment_start_date
+      label: Treatment Start Date
+      hint: Treatment Start Date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: treatment_end_date
+      label: Treatment End Date
+      hint: Treatment End Date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgement
+      label: Client Acknowledgement
+      hint: Client Acknowledgement
+      type: select_one
+      options:
+      - Client has been informed of treatment details.
+      - Client has received post-treatment instructions.
+      - Client has signed treatment consent.
+      - Client has been given information on aftercare.
+      - Client has been advised of potential risks and benefits.
+      - Client has agreed to post treatment care instructions.
+      required: true
+    - id: 9
+      name: discharge_date
+      label: Discharge Date
+      hint: Discharge Date
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: Client Signature
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_notes
+      label: Treatment Notes
+      hint: Treatment Notes
+      type: text
+      options: []
+      required: false

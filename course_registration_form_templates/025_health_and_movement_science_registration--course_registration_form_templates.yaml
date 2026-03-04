@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health And Movement Science Registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: health_details
+      label: Health Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: participant_health_info
+      label: Participant Health Info
+      hint: null
+      type: text
+      options: []
+      required: false

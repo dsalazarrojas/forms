@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magazine Subscription Form Template With Stripe
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_plan
+      label: subscription_plan
+      hint: Select a plan
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''free'', ''value'': ''Free''}'
+      - '{''id'': 1, ''name'': ''basic'', ''value'': ''Basic''}'
+      - '{''id'': 2, ''name'': ''premium'', ''value'': ''Premium''}'
+      required: true
+    - id: 3
+      name: subscription_period
+      label: subscription_period
+      hint: Select one or more periods
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_amount
+      label: payment_amount
+      hint: Enter a payment amount
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_type
+      label: payment_type
+      hint: Select a payment type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_status
+      label: payment_status
+      hint: Select a payment status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: stripe_token
+      label: stripe_token
+      hint: Stripe token
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_message
+      label: payment_message
+      hint: Payment message
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_refund
+      label: payment_refund
+      hint: Enter a payment refund
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false

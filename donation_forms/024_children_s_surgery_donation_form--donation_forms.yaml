@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Surgery Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: Name of donor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor Email
+      hint: Email for receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount to donate
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_designation
+      label: Donation Designation
+      hint: Indicate fund or patient name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: Select payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 6
+      name: tribute_information
+      label: Tribute Information
+      hint: If giving in honor or memory of someone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: receive_updates
+      label: Receive Program Updates
+      hint: Opt in for emails about the program
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: anonymous_gift
+      label: Make Gift Anonymous
+      hint: Choose if you prefer anonymity
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

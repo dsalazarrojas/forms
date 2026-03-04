@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_eligibility_check_form
+    pages:
+    - id: 1
+      name: customer_service_form
+      label: customer_service_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: refund_type
+      label: refund_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full Refund'', ''value'': ''full_refund''}'
+      - '{''id'': 2, ''label'': ''Partial Refund'', ''value'': ''partial_refund''}'
+      - '{''id'': 3, ''label'': ''No Refund'', ''value'': ''no_refund''}'
+      required: false
+    - id: 3
+      name: reason_for_refund
+      label: reason_for_refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_description
+      label: reason_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: refund_amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_team
+      label: customer_service_team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team A'', ''value'': ''team_a''}'
+      - '{''id'': 2, ''label'': ''Team B'', ''value'': ''team_b''}'
+      required: false
+    - id: 8
+      name: date_of_refund
+      label: date_of_refund
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_refund
+      label: time_of_refund
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_contact_number
+      label: customer_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: customer_phone_number
+      label: customer_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_postal_code
+      label: customer_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_country
+      label: customer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_country_code
+      label: customer_country_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_time_zone
+      label: customer_time_zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

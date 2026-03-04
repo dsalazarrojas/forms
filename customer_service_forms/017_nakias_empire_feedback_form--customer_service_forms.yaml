@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nakias Empire Feedback Form
+    pages:
+    - id: 1
+      name: contact_info_form
+      label: Contact Info Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: feedback_type
+      label: Select Feedback Type
+      hint: Please select the type of feedback you want to give us
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: feedback
+      label: Provide Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message_form
+      label: Message
+      hint: Provide a detailed description of your feedback
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Relief Grant Application Form
+    pages:
+    - id: 1
+      name: legal_business_name
+      label: Legal Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type_cat
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - S-Corp
+      - Non-Profit
+      required: true
+    - id: 3
+      name: years_operation_count
+      label: Years in Operation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pre_covid_revenue
+      label: Annual Revenue Pre-COVID (2019)
+      hint: Enter approximate dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: revenue_loss_pct
+      label: Estimated Percentage Revenue Loss
+      hint: Compare 2020/2021 to 2019
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: employee_count_current
+      label: Current Number of Employees
+      hint: Including full-time and part-time
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: grant_amount_requested
+      label: Grant Amount Requested ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: funds_use_desc
+      label: Intended Use of Funds
+      hint: e.g. Payroll, Rent, PPE, Inventory
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_existence_proof
+      label: Documentation provided to prove business existence
+      hint: null
+      type: select_one
+      options:
+      - Business License
+      - Tax Return
+      - Articles of Incorporation
+      required: true
+    - id: 10
+      name: business_address_physical
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email_addr
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: accuracy_certification
+      label: I certify that all information in this application is true and complete
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true

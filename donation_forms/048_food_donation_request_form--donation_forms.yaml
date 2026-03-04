@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Donation Request Form
+    pages:
+    - id: 1
+      name: company_requesting_food
+      label: Company requesting food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_item_type
+      label: Type of Food
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fresh Produce''}'
+      - '{''id'': 2, ''label'': ''Non-Perishable Food''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: drop_off_location
+      label: Drop off location
+      hint: null
+      type: text
+      options: []
+      required: false

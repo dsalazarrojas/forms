@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Email Support Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: your_email
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: account_number
+      label: Account number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Issue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: issue_category
+      label: Issue category
+      hint: null
+      type: select_one
+      options:
+      - Login Problems
+      - Email Not Receiving
+      - Email Not Sending
+      - Spam Issues
+      - Account Issues
+      - Configuration Help
+      - Other
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 9
+      name: issue_subject
+      label: Subject of your issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_description
+      label: Detailed description of the issue
+      hint: Please be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Technical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_provider
+      label: Email provider
+      hint: null
+      type: select_one
+      options:
+      - Gmail
+      - Yahoo
+      - Outlook
+      - AOL
+      - Other
+      required: false
+    - id: 13
+      name: device_type
+      label: Device type
+      hint: null
+      type: select_one
+      options:
+      - Computer - Windows
+      - Computer - Mac
+      - Smartphone - iOS
+      - Smartphone - Android
+      - Tablet
+      required: false
+    - id: 14
+      name: browser_application
+      label: Browser or email application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: error_message
+      label: Any error messages received?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Issue Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: issue_start_date
+      label: When did the issue start?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: issue_frequency
+      label: How often does this occur?
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Occasionally
+      - Frequently
+      - Constantly
+      required: false
+    - id: 19
+      name: steps_taken
+      label: Steps you have already taken to resolve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: attachment_available
+      label: Do you have attachments or screenshots?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attached
+      - Yes - Will Attach Later
+      - false
+      required: false
+    - id: 22
+      name: preferred_resolution_method
+      label: Preferred resolution method
+      hint: null
+      type: select_one
+      options:
+      - Email Response
+      - Phone Call
+      - Video Call
+      - Chat Support
+      required: false
+    - id: 23
+      name: urgency_reason
+      label: Reason for urgency (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional notes or information
+      hint: null
+      type: text
+      options: []
+      required: false

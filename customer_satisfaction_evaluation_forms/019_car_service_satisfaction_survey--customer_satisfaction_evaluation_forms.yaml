@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- RESPONDENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: your_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: your_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_visit_date
+      label: Date of service visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_location
+      label: Service location visited
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_details
+      label: -- SERVICE DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type_received
+      label: Type of service received
+      hint: null
+      type: select_one
+      options:
+      - Oil Change
+      - Tire Service
+      - Brake Service
+      - Engine Repair
+      - Transmission Service
+      - Electrical
+      - Routine Maintenance
+      - Inspection
+      - Other
+      required: true
+    - id: 9
+      name: vehicle_year_make_model
+      label: Vehicle year, make, model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_rating
+      label: -- OVERALL SATISFACTION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: How satisfied are you with your service experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 12
+      name: work_quality_rating
+      label: Quality of work performed
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: staff_courtesy_rating
+      label: Staff professionalism and courtesy
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: communication_rating
+      label: Quality of communication
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: timeliness_rating
+      label: Was service completed on time?
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Early
+      - Late by Hours
+      - Late by Days
+      required: true
+    - id: 16
+      name: cost_satisfaction
+      label: Satisfaction with service cost
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 17
+      name: facility_rating
+      label: Facility cleanliness and comfort
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 18
+      name: value_for_money
+      label: -- VALUE AND EXPERIENCE --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: value_rating
+      label: Overall value for money
+      hint: null
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Overpriced
+      required: true
+    - id: 20
+      name: would_return
+      label: Would you return for future service?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 21
+      name: would_recommend
+      label: Would you recommend to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: strengths
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: improvement_areas
+      label: What could be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: specific_feedback
+      label: Any specific feedback or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_contact
+      label: May we contact you for follow-up?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Phone
+      - Yes - Email
+      - Yes - Text
+      - false
+      required: false

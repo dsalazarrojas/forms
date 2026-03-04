@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treatment Plan Consent Form
+    pages:
+    - id: 1
+      name: treatment_plan_consent_form
+      label: treatment_plan_consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_providing_facility
+      label: healthcare_providing_facility
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ABC Dental''}'
+      - '{''label'': ''DEF Medical''}'
+      - '{''label'': ''GHI Hospital''}'
+      required: false
+    - id: 4
+      name: treatment_start_date
+      label: treatment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: treatment_end_date
+      label: treatment_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_team
+      label: medical_team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor 1''}'
+      - '{''label'': ''Doctor 2''}'
+      - '{''label'': ''Doctor 3''}'
+      required: false
+    - id: 7
+      name: medical_specialist
+      label: medical_specialist
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Specialist 1''}'
+      - '{''label'': ''Specialist 2''}'
+      - '{''label'': ''Specialist 3''}'
+      required: false
+    - id: 8
+      name: treatment_plan_status
+      label: treatment_plan_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 9
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: patient_contact_info
+      label: patient_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_signature
+      label: facility_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: facility_contact_info
+      label: facility_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

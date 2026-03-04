@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Team T Shirt Order Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: player_number
+      label: player_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - team_t_shirt
+      - game_jersey
+      required: true
+    - id: 6
+      name: size
+      label: size
+      hint: null
+      type: select_multiple
+      options:
+      - medium
+      - large
+      - x-large
+      required: true
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - credit_card
+      - bank_transfer
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_confirmation
+      label: email_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_order
+      label: confirm_order
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: text
+      options: []
+      required: false

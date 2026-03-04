@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nise Stiim Course Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: user info
+      hint: null
+      type: select_one
+      options:
+      - prophets
+      - prophets1
+      - prophets2
+      - etc.
+      required: true
+    - id: 2
+      name: course_info
+      label: course details
+      hint: null
+      type: select_one
+      options:
+      - course_code
+      - course_title
+      required: true
+    - id: 3
+      name: course_date
+      label: date of the course
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: course_time
+      label: time of the course
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: course_duration
+      label: duration of the course
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: course_status
+      label: status of the course
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - etc.
+      required: true
+    - id: 7
+      name: course_type
+      label: type of the course
+      hint: null
+      type: select_multiple
+      options:
+      - type1
+      - type2
+      - etc.
+      required: true
+    - id: 8
+      name: course_comments
+      label: course comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - method1
+      - method2
+      - etc.
+      required: true
+    - id: 10
+      name: payment_details
+      label: payment details
+      hint: null
+      type: select_multiple
+      options:
+      - detail1
+      - detail2
+      - etc.
+      required: true
+    - id: 11
+      name: payment_date
+      label: date of payment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: payment_time
+      label: time of payment
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - etc.
+      required: true
+    - id: 14
+      name: payment_amount
+      label: amount paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: followup_comments
+      label: follow-up comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: select_one
+      options:
+      - up1
+      - up2
+      - etc.
+      required: true
+    - id: 17
+      name: follow_up2
+      label: follow-up 2
+      hint: null
+      type: select_multiple
+      options:
+      - up2_1
+      - up2_2
+      - etc.
+      required: true
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: enrollment_status
+      label: enrollment status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - etc.
+      required: true
+    - id: 20
+      name: enroll_status
+      label: enrollment status
+      hint: null
+      type: select_multiple
+      options:
+      - status1
+      - status2
+      - etc.
+      required: true

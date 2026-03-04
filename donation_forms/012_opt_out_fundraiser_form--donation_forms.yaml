@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: opt_out_fundraiser_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Opt Out Fundraiser Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''General Fund''}'
+      - '{''id'': 2, ''name'': ''Team Name''}'
+      - '{''id'': 3, ''name'': ''Other (Specify below)''}'
+      required: false
+    - id: 7
+      name: other_purpose
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature (required)
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: donor_note
+      label: Donor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: donor_signature
+      label: Donor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Team A''}'
+      - '{''id'': 2, ''name'': ''Team B''}'
+      - '{''id'': 3, ''name'': ''Team C''}'
+      required: false
+    - id: 16
+      name: other_donor_name
+      label: Other Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_donor_email
+      label: Other Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: other_donor_phone
+      label: Other Donor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_donor_note
+      label: Other Donor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: other_donor_signature
+      label: Other Donor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: donor_name_2
+      label: Donor Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: donor_email_2
+      label: Donor Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: donor_phone_2
+      label: Donor Phone Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: donor_note_2
+      label: Donor Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: donor_signature_2
+      label: Donor Signature 2
+      hint: null
+      type: text
+      options: []
+      required: false

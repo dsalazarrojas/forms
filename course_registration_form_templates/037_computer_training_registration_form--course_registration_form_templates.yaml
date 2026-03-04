@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Training Registration Form
+    pages:
+    - id: 1
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Sales
+      - Marketing
+      - Operations
+      - Information Technology
+      - Customer Service
+      - Research and Development
+      - Executive
+      - Other
+      required: true
+    - id: 9
+      name: training_course
+      label: Training Course
+      hint: Select course to attend
+      type: select_one
+      options:
+      - Introduction to Computers
+      - Microsoft Office Suite
+      - Advanced Excel
+      - Windows Administration
+      - Network Fundamentals
+      - Cybersecurity Basics
+      - Cloud Computing Intro
+      - Programming Fundamentals
+      - Database Basics
+      - Other
+      required: true
+    - id: 10
+      name: training_level
+      label: Training Level
+      hint: Select skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 11
+      name: preferred_date
+      label: Preferred Date
+      hint: Select preferred training date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Time
+      hint: Select preferred time
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 4 PM)
+      - Evening (4 PM - 7 PM)
+      - Full Day (9 AM - 5 PM)
+      required: true
+    - id: 13
+      name: training_format
+      label: Training Format
+      hint: Select format preference
+      type: select_one
+      options:
+      - In Person
+      - Online Live
+      - Online Self-Paced
+      - Hybrid
+      required: true
+    - id: 14
+      name: current_skill_level
+      label: Current Skill Level
+      hint: Rate your current skill level
+      type: select_one
+      options:
+      - No Experience
+      - Basic Knowledge
+      - Some Experience
+      - Proficient
+      - Advanced
+      required: true
+    - id: 15
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For in-person training catering
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Company Invoice
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Bank Transfer
+      required: true
+    - id: 19
+      name: number_of_participants
+      label: Number of Participants
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: group_discount_eligible
+      label: Group Discount Eligible
+      hint: Groups of 5 or more qualify
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Select the source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Advertisement
+      - Previous Training
+      - Other
+      required: false
+    - id: 22
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 23
+      name: registration_status
+      label: Registration Status
+      hint: Current status
+      type: select_one
+      options:
+      - Submitted
+      - Confirmed
+      - Waitlisted
+      - Cancelled
+      required: true

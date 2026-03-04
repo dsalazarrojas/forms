@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Supply Order Form
+    pages:
+    - id: 1
+      name: customer_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_section
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: requested_delivery_date
+      label: Requested Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: item_description
+      label: Item Description
+      hint: What supplies are you ordering?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: select_one
+      options:
+      - Pieces
+      - Boxes
+      - Cases
+      - Packs
+      - Bulk
+      - Other
+      required: true
+    - id: 12
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: additional_items
+      label: Additional items to order?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: shipping_section
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: shipping_address
+      label: Shipping Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_method
+      label: Preferred shipping method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight
+      - Pickup
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special delivery instructions
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_section
+      label: -- Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: same_as_shipping
+      label: Billing address same as shipping?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

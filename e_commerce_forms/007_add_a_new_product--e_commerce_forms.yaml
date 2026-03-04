@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Add A New Product
+    pages:
+    - id: 1
+      name: product_header
+      label: -- Add New Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: Enter the official product name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_sku
+      label: SKU (Stock Keeping Unit)
+      hint: Unique identifier for inventory tracking
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_category
+      label: Category
+      hint: Select the primary category for this product
+      type: select_one
+      options:
+      - Electronics
+      - Clothing
+      - Home & Garden
+      - Beauty
+      - Sports
+      - Books
+      - Toys
+      - Health
+      - Automotive
+      - Other
+      required: true
+    - id: 5
+      name: product_brand
+      label: Brand
+      hint: Manufacturer or brand name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_description
+      label: Product Description
+      hint: Detailed description of the product
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_price
+      label: Price ($)
+      hint: Regular selling price
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sale_price
+      label: Sale Price ($)
+      hint: Discounted price if applicable
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: currency
+      label: Currency
+      hint: Currency code for pricing
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - CAD
+      - AUD
+      - CHF
+      - CNY
+      - Other
+      required: true
+    - id: 10
+      name: inventory_quantity
+      label: Inventory Quantity
+      hint: Number of units currently in stock
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: weight
+      label: Weight (lbs)
+      hint: Product weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: dimensions_length
+      label: Length (inches)
+      hint: Product length in inches
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: dimensions_width
+      label: Width (inches)
+      hint: Product width in inches
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: dimensions_height
+      label: Height (inches)
+      hint: Product height in inches
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: product_images
+      label: Product Images
+      hint: Upload product photos (up to 5 images)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_tags
+      label: Tags
+      hint: Comma-separated keywords for searchability
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_colors
+      label: Available Colors
+      hint: List available colors separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_sizes
+      label: Available Sizes
+      hint: List available sizes separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_class
+      label: Shipping Class
+      hint: How should this item be shipped?
+      type: select_one
+      options:
+      - Standard
+      - Oversized
+      - Fragile
+      - Perishable
+      - Hazardous
+      - Free Shipping
+      required: true
+    - id: 20
+      name: tax_status
+      label: Tax Status
+      hint: Is this product taxable?
+      type: select_one
+      options:
+      - Taxable
+      - Non-taxable
+      required: true
+    - id: 21
+      name: product_status
+      label: Product Status
+      hint: Current status of the product
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Draft
+      - Discontinued
+      required: true
+    - id: 22
+      name: featured_product
+      label: Featured Product
+      hint: Should this product be featured on homepage?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: supplier_name
+      label: Supplier Name
+      hint: Name of the product supplier
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supplier_contact
+      label: Supplier Contact
+      hint: Contact information for the supplier
+      type: text
+      options: []
+      required: false

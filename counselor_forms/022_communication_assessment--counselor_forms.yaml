@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Communication Assessment
+    pages:
+    - id: 1
+      name: assessment_information
+      label: Assessment Information
+      hint: Details about the communication assessment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of the assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the counselor or assessor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessor_credentials
+      label: Assessor Credentials
+      hint: Professional credentials or title
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_information
+      label: Client Information
+      hint: Details about the client being assessed
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_age
+      label: Client Age
+      hint: Age of the client
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: client_id
+      label: Client ID
+      hint: Client identification number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referral_source
+      label: Referral Source
+      hint: Who referred the client for assessment
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_reason
+      label: Assessment Reason
+      hint: Primary reason for this assessment
+      type: select_one
+      options:
+      - Speech Delay
+      - Language Disorder
+      - Social Communication
+      - Voice Disorder
+      - Fluency Issues
+      - Cognitive Communication
+      - Evaluation Request
+      - Other
+      required: true
+    - id: 11
+      name: receptive_language
+      label: Receptive Language
+      hint: Assessment of understanding language
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: following_directions
+      label: Following Directions
+      hint: Ability to follow verbal directions
+      type: select_one
+      options:
+      - Age Appropriate
+      - Mild Difficulty
+      - Moderate Difficulty
+      - Severe Difficulty
+      - Unable to Assess
+      required: true
+    - id: 13
+      name: comprehension_level
+      label: Comprehension Level
+      hint: Overall language comprehension
+      type: select_one
+      options:
+      - Above Average
+      - Average
+      - Below Average
+      - Significantly Below Average
+      - Unable to Determine
+      required: true
+    - id: 14
+      name: expressive_language
+      label: Expressive Language
+      hint: Assessment of language production
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vocabulary_use
+      label: Vocabulary Use
+      hint: Quality and range of vocabulary
+      type: select_one
+      options:
+      - Age Appropriate
+      - Mild Limitations
+      - Moderate Limitations
+      - Severe Limitations
+      - Unable to Assess
+      required: true
+    - id: 16
+      name: sentence_structure
+      label: Sentence Structure
+      hint: Ability to form complete sentences
+      type: select_one
+      options:
+      - Age Appropriate
+      - Mild Difficulty
+      - Moderate Difficulty
+      - Severe Difficulty
+      - Unable to Assess
+      required: true
+    - id: 17
+      name: articulation
+      label: Articulation
+      hint: Clarity of speech sounds
+      type: select_one
+      options:
+      - Clear
+      - Mostly Clear
+      - Sometimes Unclear
+      - Often Unclear
+      - Very Difficult to Understand
+      required: true
+    - id: 18
+      name: social_communication
+      label: Social Communication
+      hint: Assessment of social interaction skills
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: eye_contact
+      label: Eye Contact
+      hint: Quality of eye contact during interaction
+      type: select_one
+      options:
+      - Appropriate
+      - Inconsistent
+      - Limited
+      - Minimal
+      - Absent
+      required: true
+    - id: 20
+      name: turn_taking
+      label: Turn Taking
+      hint: Ability to take turns in conversation
+      type: select_one
+      options:
+      - Age Appropriate
+      - Mild Difficulty
+      - Moderate Difficulty
+      - Severe Difficulty
+      - Unable to Assess
+      required: true
+    - id: 21
+      name: topic_maintenance
+      label: Topic Maintenance
+      hint: Ability to stay on topic
+      type: select_one
+      options:
+      - Age Appropriate
+      - Mild Difficulty
+      - Moderate Difficulty
+      - Severe Difficulty
+      - Unable to Assess
+      required: true
+    - id: 22
+      name: pragmatic_skills
+      label: Pragmatic Skills
+      hint: Use of language in social contexts
+      type: select_one
+      options:
+      - Age Appropriate
+      - Mild Difficulty
+      - Moderate Difficulty
+      - Severe Difficulty
+      - Unable to Assess
+      required: true
+    - id: 23
+      name: fluency
+      label: Fluency
+      hint: Assessment of speech fluency
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: stuttering_presence
+      label: Stuttering Presence
+      hint: Is stuttering observed
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Unable to Assess
+      required: true
+    - id: 25
+      name: overall_impression
+      label: Overall Impression
+      hint: Overall communication assessment summary
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: recommendations
+      label: Recommendations
+      hint: Recommended next steps or interventions
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: follow_up_needed
+      label: Follow-Up Needed
+      hint: Is follow-up assessment or therapy needed
+      type: select_one
+      options:
+      - Yes - Therapy Recommended
+      - Yes - Monitoring Only
+      - No - No Services Needed
+      - Refer to Specialist
+      required: true

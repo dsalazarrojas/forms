@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Journalism Sponsorship Form
+    pages:
+      - id: 1
+        name: sponsor_info
+        label: -- Sponsorship Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: sponsor_name
+        label: Sponsor name
+        hint: Company or individual name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_person
+        label: Contact person full name
+        hint: Primary contact at sponsor
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: For sponsorship correspondence
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: sponsorship_amount
+        label: Sponsorship amount or in kind description
+        hint: Dollar amount or details of in kind support
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: recognition_preference
+        label: Recognition preference
+        hint: How sponsor wants to be acknowledged
+        type: select_one
+        options:
+          - Logo on website
+          - Mention in articles
+          - Event signage
+          - Other
+        required: false
+      - id: 7
+        name: campaign_target
+        label: Campaign target or project supported
+        hint: Which journalism project the sponsor supports
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: payment_method
+        label: Payment method
+        hint: Bank transfer, check, or online payment
+        type: select_one
+        options:
+          - Bank transfer
+          - Check
+          - Online payment
+        required: true
+      - id: 9
+        name: agreement_signature
+        label: Authorized signature name
+        hint: Name of signing authority
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: signature_date
+        label: Date of signature
+        hint: Date sponsorship agreement signed
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Program Customer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: ประก First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Non-Customer
+      required: false
+    - id: 6
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Call
+      - Email
+      - In-person Visit
+      - Online Chat
+      - Other
+      required: false
+    - id: 7
+      name: dietary_lifestyle_restrictions
+      label: Dietary Lifestyle Restrictions
+      hint: null
+      type: select_one
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - None
+      required: false
+    - id: 8
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false

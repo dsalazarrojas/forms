@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suggested Message Reply Form
+    pages:
+    - id: 1
+      name: suggested_message_reply_form
+      label: reply_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: social_inquiries
+      label: social_inquiries
+      hint: null
+      type: select_multiple
+      options:
+      - Customer Service
+      - Support
+      - Help and Support
+      required: false
+    - id: 4
+      name: consistent_replies
+      label: replies
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: false
+    - id: 5
+      name: email_preferences
+      label: reply_to_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media
+      label: reply_to_social
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      required: false
+    - id: 7
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Message
+      - Social
+      required: false
+    - id: 8
+      name: draft
+      label: draft_reply
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Sent
+      - Draft
+      required: false
+    - id: 11
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - Teams
+      - Team Members
+      - Managers
+      required: false
+    - id: 12
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 13
+      name: form_submitter
+      label: form_submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submitter_email
+      label: form_submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: form_submitter_phone
+      label: form_submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_submitter_department
+      label: form_submitter_department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Customer Support
+      required: false
+    - id: 17
+      name: submission_datetime
+      label: submission_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false

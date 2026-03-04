@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Donation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Sponsorship Donation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: logo
+      label: Upload Logo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: purpose_donation
+      label: Purpose of Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: archive_submission
+      label: Archive Submissions
+      hint: null
+      type: select_one
+      options:
+      - Archive
+      - Do not archive
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Donation Audit Form
+    pages:
+    - id: 1
+      name: donator_info
+      label: Donator Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donator_name
+      label: Donator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donator_email
+      label: Donator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donator_phone
+      label: Donator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 10
+      name: frequency_type
+      label: Frequency Type
+      hint: null
+      type: select_multiple
+      options:
+      - One-time
+      - Repeating
+      - Regular
+      - Irregular
+      required: false
+    - id: 11
+      name: donation_source
+      label: Donations Source
+      hint: null
+      type: select_one
+      options:
+      - Donated
+      - Pledged
+      - Funded
+      - Refunded
+      required: false
+    - id: 12
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Refunded
+      - Completed
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false
+    - id: 14
+      name: notes_other
+      label: Notes (other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: other_donation_source
+      label: Other Donations Source
+      hint: null
+      type: select_one
+      options:
+      - Donated
+      - Pledged
+      - Funded
+      - Refunded
+      required: false
+    - id: 17
+      name: notes_frequency
+      label: Notes (other) Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Regular
+      - Irregular
+      required: false
+    - id: 18
+      name: other_notes_source
+      label: Other Notes Source
+      hint: null
+      type: select_one
+      options:
+      - Donated
+      - Pledged
+      - Funded
+      - Refunded
+      required: false

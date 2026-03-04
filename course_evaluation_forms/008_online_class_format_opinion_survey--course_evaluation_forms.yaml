@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Class Format Opinion Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Online Class Format Opinion Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: format
+      label: format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Hybrid (online with in-person)
+      - Online
+      required: false
+    - id: 3
+      name: format_justification
+      label: format_justification
+      hint: null
+      type: select_one
+      options:
+      - More face to face interaction
+      - Less face to face interaction
+      - No difference
+      required: false
+    - id: 4
+      name: time_format
+      label: time_format
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 5
+      name: duration_minutes
+      label: duration_minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: duration_hours
+      label: duration_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: schedule
+      label: schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: instructor_support
+      label: instructor_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: instructor_availability
+      label: instructor_availability
+      hint: null
+      type: select_multiple
+      options:
+      - Always available
+      - Mostly available
+      - Occasionally available
+      - Rarely available
+      required: true
+    - id: 10
+      name: student_support
+      label: student_support
+      hint: null
+      type: select_multiple
+      options:
+      - Always available
+      - Mostly available
+      - Occasionally available
+      - Rarely available
+      required: true
+    - id: 11
+      name: support_team
+      label: support_team
+      hint: null
+      type: select_multiple
+      options:
+      - Always available
+      - Mostly available
+      - Occasionally available
+      - Rarely available
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

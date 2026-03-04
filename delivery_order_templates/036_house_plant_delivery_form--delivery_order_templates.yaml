@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Plant Delivery Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment method
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_plants
+      label: Order Plants
+      hint: Select plants
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: order_plants_2
+      label: Order Plots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: grand_total
+      label: Grand Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 14
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Failed
+      required: false
+    - id: 16
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Delivered
+      - Failed
+      required: false
+    - id: 17
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_note
+      label: Order Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date_2
+      label: Delivery Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: delivery_time_2
+      label: Delivery Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false

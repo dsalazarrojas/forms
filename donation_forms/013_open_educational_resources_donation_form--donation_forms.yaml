@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Educational Resources Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: donation amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - bank_transfer
+      - check
+      required: false
+    - id: 5
+      name: institution_name
+      label: institution name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: street address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state_province
+      label: state/province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: postal_code
+      label: postal code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_phone_number
+      label: confirm phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_frequency
+      label: payment frequency
+      hint: null
+      type: select_one
+      options:
+      - one-time
+      - recurring
+      required: false
+    - id: 15
+      name: payment_schedule
+      label: payment schedule
+      hint: null
+      type: select_multiple
+      options:
+      - weekly
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 16
+      name: confirm_payment_schedule
+      label: confirm payment schedule
+      hint: null
+      type: select_multiple
+      options:
+      - weekly
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 17
+      name: confirm_payment_schedule_frequency
+      label: confirm payment schedule frequency
+      hint: null
+      type: select_one
+      options:
+      - one-time
+      - recurring
+      required: false
+    - id: 18
+      name: donation_date
+      label: donation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_method_confirmation
+      label: payment method confirmation
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - bank_transfer
+      - check
+      required: false
+    - id: 20
+      name: confirmation_date
+      label: confirmation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: amount_confirmation
+      label: amount confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: institution_email
+      label: institution email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: payment_method_confirmation
+      label: payment method confirmation
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - bank_transfer
+      - check
+      required: false
+    - id: 24
+      name: institution_website
+      label: institution website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation_phone_number
+      label: confirmation phone number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Burger Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_type
+      label: Order Type
+      hint: How would you like to receive your order
+      type: select_one
+      options:
+      - Dine-In
+      - Takeout
+      - Delivery
+      - Curbside Pickup
+      required: true
+    - id: 6
+      name: burger_selection
+      label: Burger Selection
+      hint: Choose your burgers
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: burger_type
+      label: Burger Type
+      hint: Select your burger
+      type: select_one
+      options:
+      - Classic Beef Burger
+      - Cheeseburger
+      - Bacon Burger
+      - Mushroom Swiss Burger
+      - Veggie Burger
+      - Chicken Burger
+      - Fish Burger
+      - Double Patty Burger
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: How many burgers
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cooking_preference
+      label: Cooking Preference
+      hint: How would you like your burger cooked
+      type: select_one
+      options:
+      - Rare
+      - Medium Rare
+      - Medium
+      - Medium Well
+      - Well Done
+      - Not Applicable
+      required: true
+    - id: 10
+      name: toppings
+      label: Toppings
+      hint: Select your toppings
+      type: select_multiple
+      options:
+      - Lettuce
+      - Tomato
+      - Onion
+      - Pickles
+      - Cheese
+      - Bacon
+      - Mushrooms
+      - Jalapenos
+      - Avocado
+      - No Toppings
+      required: false
+    - id: 11
+      name: condiments
+      label: Condiments
+      hint: Select your condiments
+      type: select_multiple
+      options:
+      - Ketchup
+      - Mustard
+      - Mayonnaise
+      - BBQ Sauce
+      - Special Sauce
+      - Hot Sauce
+      - No Condiments
+      required: false
+    - id: 12
+      name: sides
+      label: Sides
+      hint: Choose your side
+      type: select_one
+      options:
+      - French Fries
+      - Onion Rings
+      - Coleslaw
+      - Side Salad
+      - Sweet Potato Fries
+      - No Side
+      required: true
+    - id: 13
+      name: drinks
+      label: Drinks
+      hint: Choose your beverage
+      type: select_one
+      options:
+      - Soda
+      - Water
+      - Milkshake
+      - Iced Tea
+      - Lemonade
+      - No Drink
+      required: true
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: Any allergies or special requests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_info
+      label: Delivery Information
+      hint: Delivery address if applicable
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: When should we deliver
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Digital Wallet
+      - Gift Card
+      required: true
+    - id: 19
+      name: promo_code
+      label: Promo Code
+      hint: Enter any promotional code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Amount
+      hint: Order total - will be calculated
+      type: number
+      options: []
+      required: false

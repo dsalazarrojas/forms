@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_service_order_form
+    pages:
+    - id: 1
+      name: social_media_service_order_form_page_1
+      label: social_media_service_order_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''credit_card'', ''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: false
+    - id: 3
+      name: service
+      label: service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''social_media_setup'', ''label'': ''Social Media Setup'', ''value'':
+        ''social_media_setup''}'
+      - '{''name'': ''social_media_management'', ''label'': ''Social Media Management'',
+        ''value'': ''social_media_management''}'
+      required: false
+    - id: 4
+      name: appearance
+      label: appearance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: services
+      label: services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

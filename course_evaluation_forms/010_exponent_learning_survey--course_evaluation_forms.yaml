@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exponent Learning Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_rating
+      label: Program Rating
+      hint: How would you rate this program overall?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_suggestions
+      label: Feedback and Suggestions
+      hint: Please include any feedback or suggestions for improvement.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ratings_1
+      label: 1. Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Somewhat Dissatisfied
+      - 3 - Neutral
+      - 4 - Somewhat Satisfied
+      - 5 - Very Satisfied
+      required: false
+    - id: 7
+      name: ratings_2
+      label: 2. Learning Experience
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      - 5 - Extremely Satisfied
+      required: false
+    - id: 8
+      name: ratings_3
+      label: 3. Program Content
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      - 5 - Extremely Satisfied
+      required: false
+    - id: 9
+      name: ratings_4
+      label: 4. Materials/ Resources
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      - 5 - Extremely Satisfied
+      required: false
+    - id: 10
+      name: ratings_5
+      label: 5. Facilitator/Trainer
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      - 5 - Extremely Satisfied
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments about your experience.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: What do you suggest we improve on next time?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: We would love to follow up with you and answer any questions. Please provide
+        a phone number or email where we can reach you.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submission_location
+      label: Submission Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_agreement
+      label: Participant Agreement
+      hint: By completing this form, you are providing explicit consent to be contacted
+        by Exponent Learning regarding your participation and feedback.
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 18
+      name: email_agreement
+      label: Email Agreement
+      hint: If we can contact you via email, please enter your email address below.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Pre-trip Inspection Report Form
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_comments
+      label: driver_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_deficiencies
+      label: safety_deficiencies
+      hint: List any items that are not safe
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: corrective_action
+      label: corrective_action
+      hint: Describe what you plan to do
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time
+      label: date_and_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: Where was the pre-trip check done?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_type
+      label: vehicle_type
+      hint: What type of vehicle is this bus?
+      type: select_one
+      options:
+      - School Bus
+      - Minivan
+      - Van
+      required: false
+    - id: 9
+      name: number_of_students
+      label: number_of_students
+      hint: Number of Students on Board
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: driver_name
+      label: driver_name
+      hint: Your Name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: driver_license_number
+      label: driver_license_number
+      hint: Your License Number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_name
+      label: school_name
+      hint: School
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: route
+      label: route
+      hint: School Route
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_mileage
+      label: vehicle_mileage
+      hint: Vehicle Mileage
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_year
+      label: vehicle_year
+      hint: Year of Vehicle
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_make
+      label: vehicle_make
+      hint: Make of Vehicle
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_model
+      label: vehicle_model
+      hint: Model of Vehicle
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: safety_equipment
+      label: safety_equipment
+      hint: Safety equipment on board?
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - First Aid Kit
+      - Safety Glasses
+      - Safety Belt
+      - Seat Belt
+      - Fire Alarm
+      - First Aid Kit
+      - Safety Vest
+      - Seat Belts
+      - Fire Extinguisher
+      - Safety Glasses
+      - First Aid Kit
+      - Safety Vest
+      required: false
+    - id: 19
+      name: vehicle_registration
+      label: vehicle_registration
+      hint: Vehicle Registration
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_inspection_date
+      label: vehicle_inspection_date
+      hint: Vehicle Inspection Date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_inspection_frequency
+      label: vehicle_inspection_frequency
+      hint: How often is this bus inspected?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Monthly
+      - Semi-Monthly
+      - Annual
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

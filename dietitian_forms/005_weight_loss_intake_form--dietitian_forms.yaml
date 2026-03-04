@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_needs
+      label: treatment_needs
+      hint: null
+      type: select_one
+      options:
+      - Cardiovascular
+      - Diabetes
+      - Obesity
+      - Other
+      required: false
+    - id: 5
+      name: weight_loss_goals
+      label: weight_loss_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goals
+      - Motivation
+      - Other (Please specify)
+      required: false
+    - id: 6
+      name: weight_loss_plan
+      label: weight_loss_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times/week
+      - 3-4 times/week
+      - 5-6 times/week
+      - 7 or more times/week
+      - None
+      required: false
+    - id: 8
+      name: exercise_duration
+      label: exercise_duration
+      hint: null
+      type: select_multiple
+      options:
+      - Low Intensity (30-60 min)
+      - High Intensity (60-120 min)
+      - Long Duration (>120 min)
+      required: false

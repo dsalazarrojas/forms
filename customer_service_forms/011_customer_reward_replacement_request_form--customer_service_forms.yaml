@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Reward Replacement Request Form
+    pages:
+    - id: 1
+      name: customer_reward_replacement_request_form
+      label: Customer Reward Replacement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reward_item_description
+      label: Reward Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reward_item_status
+      label: Reward Item Status
+      hint: Is the reward item lost, damaged, or stolen?
+      type: select_one
+      options:
+      - Lost
+      - Damaged
+      - Stolen
+      required: false
+    - id: 5
+      name: customer_contact_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_contact_phone
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_order_number
+      label: Customer Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_replacement
+      label: Reason for Replacement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_reward_id
+      label: Customer Reward ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_reward_value
+      label: Customer Reward Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_representative
+      label: Customer Service Representative
+      hint: null
+      type: text
+      options: []
+      required: false

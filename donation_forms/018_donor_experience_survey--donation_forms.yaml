@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Experience Survey
+    pages:
+    - id: 1
+      name: donation_experience
+      label: Donation Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_donating
+      label: Frequency of Donating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: giving_history
+      label: Giving History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_channel
+      label: Donation Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

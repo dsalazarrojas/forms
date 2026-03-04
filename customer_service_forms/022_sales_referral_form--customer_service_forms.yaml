@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_referral_form
+    pages:
+    - id: 1
+      name: sales_referral_form_page_1
+      label: sales_referral_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_type
+      label: referral_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email_confirmed
+      label: customer_email_confirmed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: referring_salesperson
+      label: referring_salesperson
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_referral
+      label: confirm_referral
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: referral_code
+      label: referral_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_person_name
+      label: sales_person_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sales_person_email
+      label: sales_person_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: sales_person_phone
+      label: sales_person_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_person_message
+      label: sales_person_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sales_manager_name
+      label: sales_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sales_manager_email
+      label: sales_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sales_manager_phone
+      label: sales_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_message
+      label: manager_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sales_manager_note
+      label: sales_manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: sales_referral
+      label: sales_referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_referral_code
+      label: customer_referral_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submitter
+      label: form_submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_submitter_email
+      label: form_submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: form_submitter_phone
+      label: form_submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false

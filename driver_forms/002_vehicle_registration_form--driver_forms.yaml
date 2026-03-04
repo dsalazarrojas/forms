@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Registration Form
+    pages:
+    - id: 1
+      name: vehicle_registration_form_first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_registration_form_vehicles_owned
+      label: vehicle_owners
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Vehicle 1''}'
+      - '{''label'': ''Vehicle 2''}'
+      - '{''label'': ''Vehicle 3''}'
+      required: false
+    - id: 3
+      name: vehicle_registration_form_license_number
+      label: license_number
+      hint: Enter your driver's license number
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: vehicle_registration_form_vehicle_type
+      label: vehicle_type
+      hint: Select a vehicle type
+      type: select_one
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Motorcycle''}'
+      - '{''label'': ''Truck''}'
+      required: false
+    - id: 5
+      name: vehicle_registration_form_vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_registration_form_vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_registration_form_vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_registration_form_vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_registration_form_vehicle_color
+      label: vehicle_color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Green''}'
+      required: false
+    - id: 10
+      name: vehicle_registration_form_vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      required: false
+    - id: 11
+      name: vehicle_registration_form_vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_registration_form_vehiclevin
+      label: vehicle_VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_registration_form_vehicle_plate
+      label: vehicle_plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_registration_form_vehicle_year_purchased
+      label: vehicle_year_purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_registration_form_vehicle_purchase_date
+      label: vehicle_purchase_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_registration_form_vehicle_license_expiration_date
+      label: vehicle_license_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_registration_form_vehicle_registration_status
+      label: vehicle_registration_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Registered''}'
+      - '{''label'': ''Unregistered''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 18
+      name: vehicle_registration_form_vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: false

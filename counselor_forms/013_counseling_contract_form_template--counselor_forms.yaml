@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: counseling_contract_form_template
+    pages:
+    - id: 1
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: counselor_info
+      label: counselor information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_info
+      label: client information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_requested
+      label: services requested
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: signature1
+      label: signature 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: signature2
+      label: signature 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_signed
+      label: time signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: client_phone
+      label: client phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_service
+      label: date of service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_service
+      label: time of service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: counselor_signature
+      label: counselor signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: counselor_name
+      label: counselor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contract_version
+      label: contract version
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 18
+      name: client_acknowledgement
+      label: client acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: counselor_acknowledgement
+      label: counselor acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

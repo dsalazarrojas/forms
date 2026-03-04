@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anytime Fitness Vaccine Exemption Declaration
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_id
+      label: Member ID
+      hint: Membership number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_club
+      label: Home Club Location
+      hint: Which club do you belong to
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: membership_status
+      label: Membership Status
+      hint: Current status
+      type: select_one
+      options:
+      - Active
+      - On hold
+      - New member
+      - Returning member
+      required: true
+    - id: 8
+      name: declaration_type
+      label: Type of Exemption Requested
+      hint: Select the basis for exemption
+      type: select_one
+      options:
+      - Medical exemption
+      - Religious exemption
+      - Philosophical or personal belief
+      - Other
+      required: true
+    - id: 9
+      name: medical_basis
+      label: Medical Basis for Exemption
+      hint: If applicable, describe
+      type: select_one
+      options:
+      - Severe allergic reaction
+      - Immune system disorder
+      - History of adverse reaction
+      - Contraindicated medical condition
+      - Physician recommendation
+      - Not applicable
+      - Other
+      required: false
+    - id: 10
+      name: medical_condition_details
+      label: Medical Condition Details
+      hint: Describe your condition
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: religious_basis
+      label: Religious Basis for Exemption
+      hint: If applicable, describe
+      type: select_one
+      options:
+      - Religious doctrine prohibits
+      - Religious belief conflicts
+      - Religious practice opposes
+      - Not applicable
+      - Other
+      required: false
+    - id: 12
+      name: religious_details
+      label: Religious Belief Details
+      hint: Describe your religious belief
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: personal_belief_details
+      label: Personal Belief Details
+      hint: If claiming personal belief
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider
+      label: Healthcare Provider Name
+      hint: If medical exemption
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provider_contact
+      label: Healthcare Provider Contact
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: documentation_attached
+      label: Documentation Attached
+      hint: Do you have supporting documents
+      type: select_one
+      options:
+      - Yes, medical documentation
+      - Yes, religious documentation
+      - Yes, both
+      - No, but can provide
+      - No documentation
+      required: true
+    - id: 17
+      name: documentation_type
+      label: Type of Documentation
+      hint: What are you providing
+      type: select_multiple
+      options:
+      - Physician letter
+      - Medical records
+      - Religious leader letter
+      - Personal statement
+      - Other
+      required: false
+    - id: 18
+      name: exemption_duration
+      label: Exemption Duration
+      hint: How long do you need exemption
+      type: select_one
+      options:
+      - Permanent
+      - Temporary
+      - Until further notice
+      - Review in 6 months
+      - Review in 1 year
+      required: true
+    - id: 19
+      name: temporary_end_date
+      label: Temporary Exemption End Date
+      hint: If temporary
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: safety_acknowledgment
+      label: Safety Measures Acknowledgment
+      hint: Do you understand safety protocols
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 21
+      name: additional_requirements
+      label: Additional Requirements Acknowledgment
+      hint: Testing, masking, etc.
+      type: select_one
+      options:
+      - Yes, I agree to comply
+      - No, I do not agree
+      required: true
+    - id: 22
+      name: testing_agreement
+      label: Agreement to Regular Testing
+      hint: If required for exemption
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      - Not applicable
+      required: true
+    - id: 23
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Do you accept liability terms
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 24
+      name: accuracy_statement
+      label: Accuracy Statement
+      hint: Is the information accurate
+      type: select_one
+      options:
+      - Yes, all information is accurate
+      - No, some information is inaccurate
+      required: true
+    - id: 25
+      name: legal_consequences
+      label: Legal Consequences Acknowledgment
+      hint: Do you understand false statements
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 26
+      name: member_signature
+      label: Member Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: club_manager_review
+      label: Club Manager Review
+      hint: Manager name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: exemption_status
+      label: Exemption Status
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending review
+      - Requires additional documentation
+      required: false

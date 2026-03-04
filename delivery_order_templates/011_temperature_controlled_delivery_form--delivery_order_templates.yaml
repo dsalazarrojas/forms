@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: temperature-controlled-delivery-form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_type
+      label: delivery_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Air''}'
+      - '{''label'': ''Ground''}'
+      required: false
+    - id: 3
+      name: shipping_temperature
+      label: shipping_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: temperature_range
+      label: temperature_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: package_type
+      label: package_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Box''}'
+      - '{''label'': ''Package''}'
+      - '{''label'': ''Pallet''}'
+      required: false
+    - id: 6
+      name: packaging_details
+      label: packaging_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: temperature_controlled
+      label: temperature_controlled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Declaration Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: account_type
+      label: account type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: transaction_currency
+      label: Transaction Currency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: account_type_2
+      label: account type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: account_details
+      label: Account Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_status_2
+      label: Payment Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: payment_amount_2
+      label: Payment Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: declaration_date_2
+      label: Declaration Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: transaction_details
+      label: Transaction Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_currency
+      label: Payment Currency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: account_type_3
+      label: account type 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: account_details_2
+      label: Account Details 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: account_number
+      label: Account Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: payment_id
+      label: Payment ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: declaration_details
+      label: Declaration Details
+      hint: null
+      type: note
+      options: []
+      required: false

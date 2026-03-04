@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Delivery Support Contact Form
+    pages:
+    - id: 1
+      name: customer_service_contact
+      label: Customer Service Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_issue
+      label: Delivery Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_reference
+      label: Order Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evidence_upload
+      label: Evidence Upload
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: retail_location
+      label: Retail Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: issue_date_range
+      label: Issue Date Range
+      hint: null
+      type: select_one
+      options:
+      - Before 1 week
+      - Between 1-2 weeks
+      - After 2 weeks
+      required: true
+    - id: 12
+      name: evidence_url
+      label: Evidence URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

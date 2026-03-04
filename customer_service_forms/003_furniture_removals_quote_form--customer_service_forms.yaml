@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Removals Quote Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alaska
+      - Alabama
+      - Arkansas
+      - Arizona
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Northern Mariana Islands
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Puerto Rico
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 8
+      name: date_of_move
+      label: Date of Move
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_move
+      label: Time of Move
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: type_of_move
+      label: Type of Move
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: move_distance
+      label: Move Distance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: move_items
+      label: Move Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: extra_services
+      label: Extra Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quote
+      label: Quote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: accepted
+      label: Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: false
+    - id: 18
+      name: declined
+      label: Declined
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: reason_declined
+      label: Reason Declined
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quote_id
+      label: Quote ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_service_note
+      label: Customer Service Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: internal_notes
+      label: Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: removal_quote
+      label: Removal Quote
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: quote_status
+      label: Quote Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Issued
+      - Completed
+      - Declined
+      required: false
+    - id: 25
+      name: updated_at
+      label: Updated
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_support_plan_extension_form
+    pages:
+    - id: 1
+      name: customer_support_plan
+      label: Customer Support Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Email
+      hint: 'Format: user@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_plan_status
+      label: Support Plan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: reason_for_extension
+      label: Reason for Extension
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: new_support_plan_details
+      label: New Support Plan Details
+      hint: Additional details about the new support plan
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: billing_information
+      label: Billing Information
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: billing_cycle
+      label: Billing Cycle
+      hint: 'Format: 24:00-18:00'
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 12
+      name: customer_signature_date
+      label: Customer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: customer_signature_time
+      label: Customer Signature Time
+      hint: 'Format: 24:00'
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I approve
+      - I do not approve
+      required: false

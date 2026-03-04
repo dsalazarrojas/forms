@@ -1,0 +1,265 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Poll
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department or Division
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: poll_section
+        label: "-- Vaccination Poll --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: willing_to_be_vaccinated
+        label: Are you willing to be vaccinated against COVID-19
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+          - Already vaccinated
+        required: true
+      - id: 6
+        name: vaccination_timeline
+        label: If willing, when would you like to be vaccinated
+        hint: null
+        type: select_one
+        options:
+          - As soon as possible
+          - Within 1-2 weeks
+          - Within 1 month
+          - Within 2-3 months
+          - Flexible
+          - Not applicable
+        required: true
+      - id: 7
+        name: vaccine_preference
+        label: Vaccine Type Preference
+        hint: null
+        type: select_one
+        options:
+          - Pfizer
+          - Moderna
+          - Johnson and Johnson
+          - No preference
+          - Unsure
+          - Not applicable
+        required: true
+      - id: 8
+        name: dose_type
+        label: Which Dose Are You Interested In
+        hint: null
+        type: select_one
+        options:
+          - First dose
+          - Second dose
+          - Booster dose
+          - Multiple doses
+          - Not applicable
+        required: true
+      - id: 9
+        name: concerns_section
+        label: "-- Concerns and Information --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: main_concern
+        label: Main Concern About Vaccination
+        hint: null
+        type: select_one
+        options:
+          - Safety
+          - Side effects
+          - Effectiveness
+          - Allergies
+          - Medical conditions
+          - Personal beliefs
+          - Religious reasons
+          - Lack of information
+          - Trust
+          - Cost
+          - Other
+          - None
+        required: true
+      - id: 11
+        name: concern_details
+        label: Please elaborate on your concern
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: information_needed
+        label: What information would help your decision
+        hint: null
+        type: select_multiple
+        options:
+          - Safety data
+          - Efficacy information
+          - Side effects list
+          - FAQ document
+          - Video testimonial
+          - Medical expert advice
+          - Employer statement
+          - Other
+        required: false
+      - id: 13
+        name: health_section
+        label: "-- Health Status --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: high_risk
+        label: Do you consider yourself at higher risk
+        hint: Age, health conditions, occupation
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+          - Prefer not to answer
+        required: true
+      - id: 15
+        name: health_conditions
+        label: Have chronic health conditions
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Prefer not to answer
+        required: true
+      - id: 16
+        name: prior_covid
+        label: Have you had COVID-19 before
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 17
+        name: work_location_section
+        label: "-- Work Location --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: work_location
+        label: Primary Work Location
+        hint: null
+        type: select_one
+        options:
+          - Office
+          - Remote
+          - Hybrid
+          - On-site facility
+          - Multiple locations
+        required: true
+      - id: 19
+        name: public_contact
+        label: Regular public contact in your work
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 20
+        name: logistics_section
+        label: "-- Logistics Preferences --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: preferred_location
+        label: Preferred Vaccination Location
+        hint: null
+        type: select_one
+        options:
+          - On-site at workplace
+          - Nearby clinic
+          - Pharmacy
+          - Healthcare provider office
+          - Mobile clinic
+          - Home
+          - No preference
+        required: true
+      - id: 22
+        name: preferred_time
+        label: Preferred Time for Vaccination
+        hint: null
+        type: select_one
+        options:
+          - Morning
+          - Afternoon
+          - Evening
+          - During work hours
+          - Outside work hours
+          - Flexible
+        required: true
+      - id: 23
+        name: time_off
+        label: Willing to take time off work for vaccination
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 24
+        name: comments_section
+        label: "-- Additional Comments --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Any Additional Comments or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

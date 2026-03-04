@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: session_title
+      label: session_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: debt_list
+      label: debt_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: debt_1
+      label: debt_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: debt_2
+      label: debt_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: debt_3
+      label: debt_3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_note
+      label: follow_up_note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: next_meeting_date
+      label: next_meeting_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: next_meeting_time
+      label: next_meeting_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: next_meeting_location
+      label: next_meeting_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: customer_budget
+      label: customer_budget
+      hint: null
+      type: text
+      options: []
+      required: true

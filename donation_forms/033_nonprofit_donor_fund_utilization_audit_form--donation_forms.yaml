@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Donor Fund Utilization Audit Form
+    pages:
+    - id: 1
+      name: non_profit_donor_fund_utilization
+      label: Nonprofit Donor Fund Utilization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: non_profit_donor_amount_funds
+      label: Nonprofit Donor Funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: non_profit_donor_cause
+      label: Nonprofit Donor Cause
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: non_profit_donor_periodic_report
+      label: Nonprofit Donor Periodic Report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: non_profit_donor_annual_report
+      label: Nonprofit Donor Annual Report
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 6
+      name: non_profit_donor_fund_usage_reporting
+      label: Nonprofit Donor Fund Usage Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: non_profit_donor_comments
+      label: Nonprofit Donor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: non_profit_donor_email
+      label: Nonprofit Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false

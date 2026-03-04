@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Travel Declaration Form
+    pages:
+    - id: 1
+      name: travel_origin
+      label: Travel Origin
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 2
+      name: travel_destination
+      label: Destination City
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 3
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_length
+      label: Travel Length
+      hint: Number of days
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_travel
+      label: Reason for travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 7
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 8
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 9
+      name: travel_origin_details
+      label: Travel Origin Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_destination_details
+      label: Travel Destination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_accommodation
+      label: Travel Accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: health_declaration
+      label: Health Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

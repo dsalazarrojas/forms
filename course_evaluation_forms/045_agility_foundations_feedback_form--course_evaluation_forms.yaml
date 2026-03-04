@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agility Foundations Feedback Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Enter the name of the Agility Foundations course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_date
+      label: Course Date
+      hint: Enter the date(s) when you attended the course
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Enter the name of the course instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_satisfaction_header
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_course_satisfaction
+      label: Overall Course Satisfaction
+      hint: How satisfied are you with the course overall?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 8
+      name: course_content_relevance
+      label: Course Content Relevance
+      hint: How relevant was the course content to your needs?
+      type: select_one
+      options: ["Very Relevant", "Relevant", "Neutral", "Irrelevant", "Very Irrelevant"]
+      required: true
+    - id: 9
+      name: content_depth_appropriateness
+      label: Content Depth Appropriateness
+      hint: Was the depth of content appropriate for your experience level?
+      type: select_one
+      options: ["Too Shallow", "Appropriate", "Too Deep"]
+      required: true
+    - id: 10
+      name: instructor_effectiveness
+      label: Instructor Effectiveness
+      hint: How effective was the instructor in delivering the content?
+      type: select_one
+      options: ["Very Effective", "Effective", "Neutral", "Ineffective", "Very Ineffective"]
+      required: true
+    - id: 11
+      name: learning_outcomes_header
+      label: -- Learning Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: knowledge_gained
+      label: Knowledge Gained
+      hint: How much new knowledge did you gain from the course?
+      type: select_one
+      options: ["A lot", "Some", "Little", "None"]
+      required: true
+    - id: 13
+      name: practical_applicability
+      label: Practical Applicability
+      hint: How applicable is the course content to your work situation?
+      type: select_one
+      options: ["Very Applicable", "Applicable", "Somewhat Applicable", "Not Very Applicable", "Not Applicable"]
+      required: true
+    - id: 14
+      name: confidence_increase
+      label: Confidence Increase
+      hint: Did the course increase your confidence in applying agility concepts?
+      type: select_one
+      options: ["Significantly Increased", "Increased", "No Change", "Decreased", "Significantly Decreased"]
+      required: true
+    - id: 15
+      name: course_materials_quality
+      label: Course Materials Quality
+      hint: How would you rate the quality of the course materials?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 16
+      name: course_structure_organization
+      label: Course Structure and Organization
+      hint: How well was the course structured and organized?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 17
+      name: feedback_suggestions_header
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What did you like most about the course?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What aspects of the course could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_topics_desired
+      label: Additional Topics Desired
+      hint: What additional topics would you like to see covered?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend this course to colleagues?
+      type: select_one
+      options: ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]
+      required: true
+    - id: 22
+      name: future_course_interest
+      label: Future Course Interest
+      hint: Would you be interested in taking advanced agility courses?
+      type: select_one
+      options: ["Yes", "No", "Maybe"]
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments or feedback about the course
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Laboratory Session Evaluation Form
+    pages:
+    - id: 1
+      name: course_number
+      label: Course Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_id
+      label: instructor_id
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: false
+    - id: 4
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_start
+      label: session_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_location
+      label: session_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_notes
+      label: session_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_outcomes
+      label: session_outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_goals
+      label: session_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_feedback
+      label: student_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instructor_feedback
+      label: instructor_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hosting Service Downtime Claim Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_name
+      label: service_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: downtime_type
+      label: downtime_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: impact
+      label: impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: compensation_amount
+      label: compensation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''john_doe'', ''label'': ''john_doe''}'
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''customer_service_forms'', ''label'': ''customer_service_forms''}'
+      - '{''id'': 2, ''name'': ''customer_service_forms'', ''label'': ''customer_service_forms''}'
+      required: false
+    - id: 11
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''new'', ''label'': ''new''}'
+      - '{''id'': 2, ''name'': ''pending'', ''label'': ''pending''}'
+      - '{''id'': 3, ''name'': ''closed'', ''label'': ''closed''}'
+      required: false

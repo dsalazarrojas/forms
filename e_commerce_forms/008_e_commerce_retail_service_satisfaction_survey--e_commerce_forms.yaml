@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_retail_service_satisfaction_survey
+    pages:
+    - id: 1
+      name: e_commerce_retail_service
+      label: e commerce retail service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: e_customer_satisfaction
+      label: e customer satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '1: Very satisfied'
+      - '2: Somewhat satisfied'
+      - '3: Not satisfied'
+      required: false
+    - id: 3
+      name: e_shopping_issues
+      label: e shopping issues
+      hint: null
+      type: select_one
+      options:
+      - '1: Shopping cart malfunction'
+      - '2: Product not found'
+      - '3: Navigation issues'
+      - '4: Checkout problems'
+      required: false
+    - id: 4
+      name: e_device_experience
+      label: e device experience
+      hint: null
+      type: select_one
+      options:
+      - '1: Excellent'
+      - '2: Good'
+      - '3: Average'
+      - '4: Poor'
+      required: false
+    - id: 5
+      name: e_purchasing_frequency
+      label: e purchasing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: e_age
+      label: e age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: e_email
+      label: e email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: e_phone
+      label: e phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: e_notes
+      label: e notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: e_additional_comments
+      label: e additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: e_device_type
+      label: e device type
+      hint: null
+      type: select_one
+      options:
+      - '1: Desktop'
+      - '2: Mobile'
+      - '3: Tablet'
+      required: false
+    - id: 12
+      name: e_operating_system
+      label: e operating system
+      hint: null
+      type: select_multiple
+      options:
+      - '1: Windows'
+      - '2: Android'
+      - '3: iOS'
+      - '4: Other'
+      required: false

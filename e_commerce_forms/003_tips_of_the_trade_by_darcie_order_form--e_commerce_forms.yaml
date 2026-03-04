@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'Tips Of The Trade By Darcie: Order Form'
+    pages:
+    - id: 1
+      name: order_form
+      label: Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_details
+      label: Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shipping_details
+      label: Shipping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: order_review
+      label: Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

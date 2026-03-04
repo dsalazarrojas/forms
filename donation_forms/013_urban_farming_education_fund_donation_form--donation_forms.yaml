@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Farming Education Fund Donation Form
+    pages:
+    - id: 1
+      name: name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Urban Farming Education Fund''}'
+      - '{''id'': 2, ''label'': ''Urban Farming Education Fund- Other''}'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Stripe''}'
+      - '{''id'': 2, ''label'': ''Venmo''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

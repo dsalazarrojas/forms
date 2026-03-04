@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Resources For Teens
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource1
+      label: Resource 1
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Resource 1''}'
+      - '{''option2'': ''Resource 2''}'
+      - '{''option3'': ''Resource 3''}'
+      required: false
+    - id: 7
+      name: resource2
+      label: Resource 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Resource 4''}'
+      - '{''option2'': ''Resource 5''}'
+      - '{''option3'': ''Resource 6''}'
+      required: false
+    - id: 8
+      name: resource3
+      label: Resource 3
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Resource 7''}'
+      - '{''option2'': ''Resource 8''}'
+      - '{''option3'': ''Resource 9''}'
+      required: false
+    - id: 9
+      name: resource4
+      label: Resource 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Resource 10''}'
+      - '{''option2'': ''Resource 11''}'
+      - '{''option3'': ''Resource 12''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Note 1''}'
+      - '{''option2'': ''Note 2''}'
+      - '{''option3'': ''Note 3''}'
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: followup
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Counselor 1''}'
+      - '{''option2'': ''Counselor 2''}'
+      - '{''option3'': ''Counselor 3''}'
+      required: false

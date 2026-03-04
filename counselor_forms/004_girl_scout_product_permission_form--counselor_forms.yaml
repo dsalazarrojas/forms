@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Product Permission Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Girl Scout Product Permission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Girl Scout
+      - Non-Girl Scout
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_products
+      label: Products
+      hint: null
+      type: select_multiple
+      options:
+      - Cookie
+      - Magazine
+      - Other
+      required: false
+    - id: 5
+      name: form_price
+      label: Price per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_discount
+      label: Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_date_start
+      label: Date Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_date_end
+      label: Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_counselor
+      label: Counselor
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Other
+      required: false
+    - id: 10
+      name: form_counselor_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

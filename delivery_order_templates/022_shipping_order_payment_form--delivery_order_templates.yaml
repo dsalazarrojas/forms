@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Order Payment Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Choose your payment method
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''PayPal''}'
+      required: false
+    - id: 4
+      name: customer_email
+      label: Email
+      hint: Enter customer email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_instructions
+      label: delivery_instructions
+      hint: null
+      type: text
+      options: []
+      required: false

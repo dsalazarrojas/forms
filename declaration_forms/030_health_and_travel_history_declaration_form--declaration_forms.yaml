@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_and_travel_history_declaration_form
+    pages:
+    - id: 1
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Other
+      - Other (specify)
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Pleasure
+      - Other
+      required: false
+    - id: 9
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_participants
+      label: Travel Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_docs
+      label: Travel Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: travel_doc_number
+      label: Travel Doc Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_doc_type
+      label: Travel Doc Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: travel_doc_date
+      label: Travel Doc Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: passport_exp_date
+      label: Passport Exp. Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: travel_vaccinations
+      label: Travel Vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: vaccinations_received
+      label: Vaccinations Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: health_declaration
+      label: Health Declaration
+      hint: null
+      type: note
+      options: []
+      required: false

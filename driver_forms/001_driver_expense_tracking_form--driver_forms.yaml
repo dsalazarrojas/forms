@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Expense Tracking Form
+    pages:
+    - id: 1
+      name: driver_expense_tracking_form
+      label: Driver Expense Tracking Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fuel_cost
+      label: Fuel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tolls_cost
+      label: Tolls Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parking_cost
+      label: Parking Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: food_cost
+      label: Food Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lodging_cost
+      label: Lodging Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: other_cost
+      label: Other Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: trip_times
+      label: Trip Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: trip_frequency
+      label: Trip Frequency
+      hint: null
+      type: select_one
+      options:
+      - Fuel Efficient
+      - Less Than Once a Week
+      - 2-3 Times a Week
+      - 4-5 Times a Week
+      - Almost Daily
+      required: true
+    - id: 12
+      name: trip_length
+      label: Trip Length
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - More than 8 hours
+      required: true
+    - id: 13
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false

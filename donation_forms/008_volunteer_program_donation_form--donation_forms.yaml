@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteerProgramDonationForm
+    pages:
+    - id: 1
+      name: volunteer_program_donation_form_data
+      label: Volunteer Program Donation Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_program_name
+      label: Volunteer Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: program_donations
+      label: Donations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: donor_notes
+      label: Donor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_notes
+      label: Volunteer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false

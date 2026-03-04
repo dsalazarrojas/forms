@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology Discharge Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_admission
+      label: Date of Admission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: Main cardiac diagnosis
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: secondary_diagnoses
+      label: Secondary Diagnoses
+      hint: List any additional diagnoses
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: procedures_performed
+      label: Procedures Performed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cardiac catheterization
+      - Angioplasty (PCI)
+      - Stent placement
+      - Pacemaker insertion
+      - Defibrillator (ICD) insertion
+      - Ablation procedure
+      - Valve repair or replacement
+      - Coronary artery bypass graft (CABG)
+      - Echocardiogram
+      - Stress test
+      - None
+      required: true
+    - id: 8
+      name: discharge_medications
+      label: Discharge Medications
+      hint: List all medications with dosage and frequency
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medication_changes
+      label: Medication Changes from Admission
+      hint: Describe any new, stopped, or adjusted medications
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: activity_restrictions
+      label: Activity Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - No restrictions
+      - No lifting over 10 lbs
+      - No driving for 1 week
+      - Limited stair climbing
+      - Bed rest recommended
+      - Light activity only
+      - Cardiac rehabilitation required
+      - No strenuous exercise
+      required: true
+    - id: 11
+      name: wound_care_instructions
+      label: Wound Care Instructions
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_recommendations
+      label: Dietary Recommendations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Low sodium diet
+      - Low fat diet
+      - Diabetic diet
+      - Fluid restriction
+      - Heart healthy diet
+      - No dietary restrictions
+      - Consult nutritionist
+      required: true
+    - id: 13
+      name: follow_up_appointments
+      label: Follow-up Appointments Scheduled
+      hint: List appointment dates and providers
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: warning_signs
+      label: Warning Signs to Watch For
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chest pain or pressure
+      - Shortness of breath
+      - Rapid or irregular heartbeat
+      - Excessive bleeding at incision site
+      - Fever over 101°F
+      - Severe dizziness or fainting
+      - Swelling in legs or ankles
+      - Sudden weight gain
+      required: true
+    - id: 15
+      name: emergency_instructions
+      label: Emergency Instructions
+      hint: When to seek immediate care
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: pcp_contact
+      label: Primary Care Physician Contact
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cardiologist_name
+      label: Cardiologist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: cardiologist_contact
+      label: Cardiologist Contact
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_understanding
+      label: Patient Confirms Understanding of Instructions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - needs further explanation
+      required: true
+    - id: 21
+      name: discharge_condition
+      label: Condition at Discharge
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Improved
+      - Guarded
+      - Requires home care
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Discharge Notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

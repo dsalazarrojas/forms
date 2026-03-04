@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Application Form
+    pages:
+    - id: 1
+      name: application_name
+      label: Application Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_last_day_worked
+      label: date_last_worked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_separation
+      label: reason_for_separation
+      hint: null
+      type: select_multiple
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      - Choice 4
+      - Choice 5
+      required: true
+    - id: 5
+      name: last_during_weeks_worked
+      label: last_weeks_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gross_earnings
+      label: gross_earnings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hours_worked_last_week
+      label: hours_worked_last_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gross_earnings_last_week
+      label: gross_earnings_last_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_job_loss
+      label: reason_for_job_loss
+      hint: null
+      type: select_one
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      - Choice 4
+      - Choice 5
+      required: true
+    - id: 10
+      name: job_separation_date
+      label: job_separation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: last_job_title
+      label: last_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employer
+      label: employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mailing_address
+      label: mailing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Restaurant Online Ordering Template
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: order_time
+      label: Order Time
+      hint: Preferred pickup or delivery time
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: order_type
+      label: Order Type
+      hint: Pickup or delivery
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      - Dine-in
+      required: true
+    - id: 4
+      name: customer_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_city
+      label: Delivery City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_state
+      label: Delivery State
+      hint: State
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_zip
+      label: Delivery ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Gate codes, building info, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Select meal plan
+      type: select_one
+      options:
+      - Weekly Meal Plan
+      - Bi-weekly Meal Plan
+      - Monthly Meal Plan
+      - One-time Order
+      required: true
+    - id: 14
+      name: meal_preference
+      label: Meal Preference
+      hint: Type of cuisine
+      type: select_one
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - Vegetarian
+      - Vegan
+      - Mixed Variety
+      required: true
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Shellfish allergy
+      - Vegetarian
+      - Vegan
+      - Keto
+      - Low-carb
+      - Halal
+      - Kosher
+      required: true
+    - id: 16
+      name: number_of_servings
+      label: Number of Servings
+      hint: How many people
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: appetizers
+      label: Appetizers
+      hint: Select appetizers
+      type: select_multiple
+      options:
+      - None
+      - Garlic Bread
+      - Caesar Salad
+      - Soup of the Day
+      - Spring Rolls
+      - Nachos
+      - Wings
+      - Bruschetta
+      required: false
+    - id: 18
+      name: main_course
+      label: Main Course
+      hint: Select main dish
+      type: select_one
+      options:
+      - Grilled Chicken
+      - Salmon
+      - Beef Steak
+      - Pasta Primavera
+      - Vegetarian Bowl
+      - Burger
+      - Fish and Chips
+      - Chef Special
+      required: true
+    - id: 19
+      name: side_dish
+      label: Side Dish
+      hint: Select side
+      type: select_one
+      options:
+      - French Fries
+      - Rice Pilaf
+      - Steamed Vegetables
+      - Mashed Potatoes
+      - Garden Salad
+      - Coleslaw
+      - Onion Rings
+      required: true
+    - id: 20
+      name: dessert
+      label: Dessert
+      hint: Select dessert
+      type: select_one
+      options:
+      - None
+      - Chocolate Cake
+      - Cheesecake
+      - Ice Cream
+      - Fruit Salad
+      - Tiramisu
+      - Cookie Platter
+      required: false
+    - id: 21
+      name: beverage
+      label: Beverage
+      hint: Select drink
+      type: select_one
+      options:
+      - Water
+      - Soda
+      - Iced Tea
+      - Lemonade
+      - Juice
+      - Coffee
+      - Beer
+      - Wine
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Cooking preferences or allergies
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Pickup
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 25
+      name: tip_amount
+      label: Tip Amount
+      hint: Optional tip for staff
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: contactless_preference
+      label: Contactless Preference
+      hint: Delivery preference
+      type: select_one
+      options:
+      - Contactless delivery preferred
+      - Standard delivery
+      - Leave at door
+      - Hand to customer
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

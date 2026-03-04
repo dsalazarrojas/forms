@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geology Course Feedback Survey
+    pages:
+    - id: 1
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: course_quality
+      label: Course Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highly Satisfactory''}'
+      - '{''value'': ''Satisfactory''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: course_satisfaction
+      label: Course Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Overall Rating
+      hint: 1-5
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      required: false
+    - id: 5
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale
+      label: 1-5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-5''}'
+      - '{''value'': ''4-5''}'
+      - '{''value'': ''3-5''}'
+      - '{''value'': ''2-5''}'
+      - '{''value'': ''1-4''}'
+      required: false
+    - id: 8
+      name: department_feedback
+      label: Department Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''geology''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 9
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highly Recommended''}'
+      - '{''value'': ''Not Recommended''}'
+      - '{''value'': ''Not Applicable''}'
+      required: false
+    - id: 10
+      name: student_suggestion
+      label: Student Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_suggestion
+      label: Course Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_suggestions
+      label: Additional Course Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

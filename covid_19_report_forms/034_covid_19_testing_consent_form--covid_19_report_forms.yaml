@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: How related
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Member ID
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: Your doctor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_phone
+      label: Physician Phone
+      hint: Office number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vaccine_interest
+      label: Are you interested in receiving the COVID-19 vaccine
+      hint: Vaccine interest
+      type: select_one
+      options:
+      - Yes I want to get vaccinated
+      - Yes when I am eligible
+      - Maybe I have questions
+      - No I do not want the vaccine
+      required: true
+    - id: 20
+      name: vaccine_reason
+      label: If yes why do you want to get vaccinated
+      hint: Motivation
+      type: select_one
+      options:
+      - Protect myself
+      - Protect my family
+      - Protect my community
+      - Work requirement
+      - Travel requirement
+      - Return to normal activities
+      - Healthcare provider recommendation
+      required: false
+    - id: 21
+      name: vaccine_preference
+      label: Do you have a vaccine brand preference
+      hint: Vaccine type
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      required: false
+    - id: 22
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 23
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: previous_covid_infection
+      label: Have you previously tested positive for COVID-19
+      hint: Infection history
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 26
+      name: previous_infection_date
+      label: When did you test positive
+      hint: Approximate date
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: testing_consent
+      label: I consent to receive information about COVID-19 testing and vaccination
+      hint: Information consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 28
+      name: contact_consent
+      label: I consent to be contacted about testing and vaccination opportunities
+      hint: Contact consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 29
+      name: data_sharing_consent
+      label: I consent to my information being shared with health authorities for
+        public health purposes
+      hint: Data sharing
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 30
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

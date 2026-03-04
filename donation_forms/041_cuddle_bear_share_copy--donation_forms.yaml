@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cuddle Bear Share Copy
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_donated
+      label: Date Donated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_donated
+      label: Time Donated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9.1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 9.2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10.1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 10.2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

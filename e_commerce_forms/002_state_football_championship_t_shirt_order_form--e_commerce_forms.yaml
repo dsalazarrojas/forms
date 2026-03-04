@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: State Football Championship T Shirt Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shirt_details
+      label: Shirt Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping
+      label: Ship To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      - X-Large
+      required: true
+    - id: 13
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Red
+      - Blue
+      required: true
+    - id: 14
+      name: t_shirt_type
+      label: T-Shirt Type
+      hint: null
+      type: select_one
+      options:
+      - Short Sleeve
+      - Long Sleeve
+      - Hoodie
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_customer_service_report_form
+    pages:
+    - id: 1
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Cancelled
+      - Refunded
+      - Held for verification
+      required: true
+    - id: 5
+      name: customer_issue
+      label: Customer Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false

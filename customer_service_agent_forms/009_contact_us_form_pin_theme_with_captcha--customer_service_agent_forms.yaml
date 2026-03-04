@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Form Pin Theme with Captcha
+    pages:
+    - id: 1
+      name: section_sender
+      label: -- Sender Details --
+      hint: Please fill out the form below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Your Email Address
+      hint: We'll use this for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Your Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject_header
+      label: Inquiry Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: message_content
+      label: Message / Description of the Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_security
+      label: -- Security Verification --
+      hint: To protect our services, please complete the following verification.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_captcha
+      label: Captcha Verification
+      hint: Please enter the characters shown in the image below
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: security_pin
+      label: Preferred PIN for Follow-up
+      hint: 4-digit numeric code for future authentication
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: user_ip_consent
+      label: Do you consent to the collection of your IP address for security purposes?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: privacy_agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

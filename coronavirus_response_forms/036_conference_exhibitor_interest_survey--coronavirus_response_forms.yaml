@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Exhibitor Interest Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Exhibitor Interest Survey
+      hint: Gauge interest for conference exhibition
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_info
+      label: Company Information
+      hint: About your organization
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Business sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Manufacturing
+      - Retail
+      - Services
+      - Other
+      required: true
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10 employees
+      - 11 to 50 employees
+      - 51 to 200 employees
+      - 201 to 500 employees
+      - Over 500 employees
+      required: true
+    - id: 10
+      name: company_location
+      label: Company Location
+      hint: Headquarters city
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: exhibitor_interest
+      label: Exhibitor Interest
+      hint: Your exhibition plans
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interest_level
+      label: Interest Level
+      hint: How interested are you
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Just Exploring
+      - Not Interested
+      required: true
+    - id: 13
+      name: booth_size_preference
+      label: Booth Size Preference
+      hint: Space needed
+      type: select_one
+      options:
+      - Small Table Top
+      - 10x10 Standard Booth
+      - 10x20 Large Booth
+      - 20x20 Premium Space
+      - Custom Space
+      required: false
+    - id: 14
+      name: previous_exhibitor
+      label: Previous Exhibitor
+      hint: Have you exhibited before
+      type: select_one
+      options:
+      - Yes At This Conference
+      - Yes At Other Conferences
+      - No First Time
+      required: false
+    - id: 15
+      name: exhibition_goals
+      label: Exhibition Goals
+      hint: What do you want to achieve
+      type: select_multiple
+      options:
+      - Generate Leads
+      - Brand Awareness
+      - Product Launch
+      - Network with Attendees
+      - Recruit Talent
+      - Media Exposure
+      - Direct Sales
+      required: false
+    - id: 16
+      name: products_to_display
+      label: Products to Display
+      hint: What will you showcase
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special Requirements
+      hint: Power water etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_range
+      label: Budget Range
+      hint: Exhibition budget
+      type: select_one
+      options:
+      - Under 5000 dollars
+      - 5000 to 10000 dollars
+      - 10000 to 25000 dollars
+      - Over 25000 dollars
+      required: false
+    - id: 19
+      name: sponsorship_interest
+      label: Sponsorship Interest
+      hint: Additional sponsorship
+      type: select_one
+      options:
+      - Yes Interested
+      - Maybe
+      - No Thanks
+      required: false
+    - id: 20
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Tier preference
+      type: select_one
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      - Platinum
+      - Custom
+      required: false
+    - id: 21
+      name: marketing_materials
+      label: Marketing Materials
+      hint: What you need from organizers
+      type: select_multiple
+      options:
+      - Attendee List
+      - Email Blasts
+      - Social Media Promotion
+      - Program Advertisement
+      - Speaking Opportunity
+      - Workshop Space
+      required: false
+    - id: 22
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When will you decide
+      type: select_one
+      options:
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Need More Time
+      required: false
+    - id: 23
+      name: additional_services
+      label: Additional Services
+      hint: Extras needed
+      type: select_multiple
+      options:
+      - Booth Design
+      - Shipping Storage
+      - Hotel Booking
+      - Travel Arrangements
+      - Staff Badges
+      - Electricity WiFi
+      required: false
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Email Invitation
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Previous Attendance
+      - Advertisement
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false

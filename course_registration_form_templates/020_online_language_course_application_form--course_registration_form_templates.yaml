@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Language Course Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: course_preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true

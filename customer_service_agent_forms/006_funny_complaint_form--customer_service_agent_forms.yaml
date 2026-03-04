@@ -1,0 +1,48 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: funny_complaint_form
+    pages:
+    - id: 1
+      name: customer_service_agent_form
+      label: Customer Service Agent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_details
+      label: Complaint Details
+      hint: Describe your complaint
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''name'', ''label'': ''Name''}'
+      - '{''name'': ''phone'', ''label'': ''Phone''}'
+      - '{''name'': ''email'', ''label'': ''Email''}'
+      - '{''name'': ''other_contact'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: complaint_subject
+      label: Complaint Subject
+      hint: Give us a brief description of the issue
+      type: text
+      options: []
+      required: false

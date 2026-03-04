@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Product Evaluation Form
+    pages:
+    - id: 1
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: taste
+      label: Taste
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 4
+      name: smell
+      label: Smell
+      hint: null
+      type: select_one
+      options:
+      - Pleasant
+      - Strong
+      - Faint
+      - None
+      required: false
+    - id: 5
+      name: texture
+      label: Texture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: packaging
+      label: Packaging
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      - Balanced
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: product_recommendation
+      label: Product Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 18
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_purchased
+      label: Product Purchased
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: product_wanted
+      label: Product Wanted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: purchased_from
+      label: Purchased From
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Store
+      - Other
+      required: false
+    - id: 22
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: price_paid
+      label: Price Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false

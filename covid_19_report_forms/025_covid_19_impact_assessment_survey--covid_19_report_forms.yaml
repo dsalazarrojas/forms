@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Impact Assessment Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_role
+      label: Your Role or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Non-Profit
+      - Educational Institution
+      - Healthcare
+      - Government
+      - Other
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: economic_impact
+      label: -- Economic Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: revenue_change
+      label: Revenue impact since pandemic
+      hint: null
+      type: select_one
+      options:
+      - Significant Decrease
+      - Moderate Decrease
+      - Slight Decrease
+      - No Change
+      - Increase
+      required: true
+    - id: 8
+      name: revenue_percentage
+      label: Percentage change
+      hint: Estimate
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: profitability
+      label: Impact on profitability
+      hint: null
+      type: select_one
+      options:
+      - Severely Reduced
+      - Moderately Reduced
+      - Slightly Reduced
+      - No Impact
+      - Improved
+      required: true
+    - id: 10
+      name: cost_increases
+      label: Unexpected cost increases
+      hint: null
+      type: select_multiple
+      options:
+      - PPE and Supplies
+      - Remote Work Technology
+      - Cleaning and Sanitation
+      - Testing and Screening
+      - Other
+      required: false
+    - id: 11
+      name: operational_impact
+      label: -- Operational Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: operational_disruption
+      label: Level of operational disruption
+      hint: null
+      type: select_one
+      options:
+      - Complete Closure
+      - Severe Disruption
+      - Moderate Disruption
+      - Minimal Disruption
+      - No Disruption
+      required: true
+    - id: 13
+      name: supply_chain
+      label: Supply chain affected
+      hint: null
+      type: select_one
+      options:
+      - Yes, Severely
+      - Yes, Moderately
+      - Slightly
+      - false
+      required: true
+    - id: 14
+      name: staffing_impact
+      label: Staffing impact
+      hint: null
+      type: select_one
+      options:
+      - Significant Staff Loss
+      - Some Staff Loss
+      - No Staff Changes
+      - Staff Increase
+      required: true
+    - id: 15
+      name: workforce_header
+      label: -- Workforce Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: employee_health_concerns
+      label: Employee health and safety concerns
+      hint: null
+      type: select_one
+      options:
+      - Significant Concerns
+      - Some Concerns
+      - Minimal Concerns
+      - No Concerns
+      required: true
+    - id: 17
+      name: remote_work_success
+      label: Success with remote work arrangements
+      hint: null
+      type: select_one
+      options:
+      - Very Successful
+      - Moderately Successful
+      - Somewhat Successful
+      - Not Successful
+      required: true
+    - id: 18
+      name: customer_impact
+      label: -- Customer and Market Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: customer_loss
+      label: Customer loss or decreased demand
+      hint: null
+      type: select_one
+      options:
+      - Severe Loss
+      - Moderate Loss
+      - Slight Loss
+      - No Loss
+      - Increased Demand
+      required: true
+    - id: 20
+      name: market_changes
+      label: Changes in market conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recovery_outlook
+      label: -- Recovery Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: recovery_timeline
+      label: Expected recovery timeline
+      hint: null
+      type: select_one
+      options:
+      - Within 3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Over 1 Year
+      - Uncertain
+      required: true
+    - id: 23
+      name: additional_support
+      label: Types of support needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Assistance
+      - Technical Support
+      - Healthcare Resources
+      - Employee Support
+      - Marketing Assistance
+      - Other
+      required: false

@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blank T Shirt Order Form Template
+    pages:
+    - id: 1
+      name: order_intro
+      label: -- Order Your Custom T-Shirt --
+      hint: Choose your style, size, and quantity
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shirt_color
+      label: T-Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy Blue
+      - Gray
+      - Red
+      - Green
+      - Yellow
+      - Purple
+      - Orange
+      - Pink
+      required: true
+    - id: 7
+      name: shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - 4XL
+      required: true
+    - id: 8
+      name: shirt_quantity
+      label: Quantity
+      hint: Number of shirts to order
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: material_type
+      label: Preferred Material
+      hint: null
+      type: select_one
+      options:
+      - 100% Cotton
+      - Cotton Blend
+      - Organic Cotton
+      - Performance Fabric
+      required: true
+    - id: 10
+      name: design_option
+      label: Design Option
+      hint: null
+      type: select_one
+      options:
+      - Plain blank shirt
+      - Custom print - front only
+      - Custom print - front and back
+      - Custom embroidery
+      required: true
+    - id: 11
+      name: design_description
+      label: Design Description or Image URL
+      hint: If custom design, describe or provide image link
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: print_location
+      label: Print Location
+      hint: null
+      type: select_one
+      options:
+      - Front chest
+      - Back
+      - Left sleeve
+      - Full front
+      - Full back
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_timeframe
+      label: Preferred Delivery Timeframe
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Express (2-3 days)
+      - Rush (1-2 days)
+      required: true
+    - id: 15
+      name: total_price
+      label: Estimated Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 17
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

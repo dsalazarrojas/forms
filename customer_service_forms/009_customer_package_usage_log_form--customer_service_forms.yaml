@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: Customer Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_id
+      label: package_id
+      hint: Package ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: Start Time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: End Time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: user_id
+      label: user_id
+      hint: User ID
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: package_status
+      label: package_status
+      hint: prophets
+      type: select_multiple
+      options:
+      - Package Active
+      - Package Suspended
+      - Package Expired
+      required: false
+    - id: 8
+      name: usage_details
+      label: usage_details
+      hint: Usage Details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission_date
+      hint: Submission Date
+      type: date
+      options: []
+      required: false

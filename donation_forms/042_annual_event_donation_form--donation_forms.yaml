@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Event Donation Form
+    pages:
+    - id: 1
+      name: donor_info_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name (if applicable)
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_header
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: How much you want to donate
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_type
+      label: Donation Type
+      hint: What are you donating
+      type: select_one
+      options:
+      - Monetary Donation
+      - In-Kind Donation (Goods)
+      - Service or Volunteer Time
+      - Combination
+      - Other
+      required: true
+    - id: 9
+      name: in_kind_description
+      label: Description of In-Kind Donation
+      hint: If donating goods or services
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_frequency_header
+      label: -- Donation Frequency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Is this a one-time or recurring donation
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly donation
+      - Annual donation
+      - Other recurring schedule
+      required: true
+    - id: 12
+      name: recurring_duration
+      label: Duration for Recurring Donations
+      hint: How long should recurring donation continue
+      type: select_one
+      options:
+      - This year only
+      - 2 years
+      - 3 years
+      - Ongoing
+      - Until further notice
+      required: false
+    - id: 13
+      name: event_header
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: event_name
+      label: Event Name
+      hint: Which event is this donation for
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: donation_purpose
+      label: Donation Purpose
+      hint: What will the funds support
+      type: select_multiple
+      options:
+      - General Event Expenses
+      - Venue or Equipment
+      - Marketing and Promotion
+      - Speaker or Entertainment
+      - Scholarships or Grants
+      - Food and Beverages
+      - Charitable Cause
+      - Other
+      required: false
+    - id: 17
+      name: payment_header
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How you want to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Other
+      required: true
+    - id: 19
+      name: recognition_header
+      label: -- Recognition Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: recognition_level
+      label: Recognition Level
+      hint: How should your donation be recognized
+      type: select_one
+      options:
+      - Public Recognition (Named)
+      - Acknowledgment in Program
+      - Thank You Letter Only
+      - Anonymous Donation
+      - No Preference
+      required: false
+    - id: 21
+      name: public_name
+      label: Name for Public Recognition
+      hint: If different from your legal name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: donor_profile_header
+      label: -- Donor Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: donor_type
+      label: Donor Type
+      hint: Are you donating as an individual or business
+      type: select_one
+      options:
+      - Individual Donor
+      - Corporate Sponsor
+      - Foundation
+      - Other Organization
+      required: false
+    - id: 24
+      name: tax_documentation
+      label: Tax ID or Documentation Needed
+      hint: For tax receipt purposes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Comments or Notes
+      hint: Any special requests or messages
+      type: text
+      options: []
+      required: false

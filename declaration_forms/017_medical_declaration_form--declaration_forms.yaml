@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Declaration Form
+    pages:
+    - id: 1
+      name: medical_declaration_form_page_1
+      label: travel_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_declaration_form_page_2
+      label: medical_condition
+      hint: Please describe any medical condition
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_declaration_form_page_3
+      label: medical_treatment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: medical_declaration_form_page_4
+      label: medical_medication
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: medical_declaration_form_page_5
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_declaration_form_page_6
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: medical_declaration_form_page_7
+      label: medical_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_declaration_form_page_8
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: medical_declaration_form_page_9
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_declaration_form_page_10
+      label: contact_phone2
+      hint: null
+      type: text
+      options: []
+      required: false

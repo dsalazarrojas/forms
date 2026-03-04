@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning-tools-donation-form
+    pages:
+    - id: 1
+      name: education_startup
+      label: Education Startup
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nonprofit
+      label: Nonprofit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 6
+      name: gift_type
+      label: Gift Type
+      hint: null
+      type: select_one
+      options:
+      - Monetary
+      - In-kind
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      required: false
+    - id: 9
+      name: purpose
+      label: Purpose
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

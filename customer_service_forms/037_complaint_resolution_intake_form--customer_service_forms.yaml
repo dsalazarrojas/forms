@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Intake Form
+    pages:
+    - id: 1
+      name: intake_date
+      label: Intake Date
+      hint: Date complaint received
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: intake_time
+      label: Intake Time
+      hint: Time complaint received
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: complaint_id
+      label: Complaint ID
+      hint: Assigned reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_address
+      label: Customer Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_type
+      label: Customer Type
+      hint: Relationship to company
+      type: select_one
+      options:
+      - New customer
+      - Existing customer
+      - Former customer
+      - Prospect
+      - Partner
+      - Other
+      required: true
+    - id: 9
+      name: account_number
+      label: Account Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: complaint_source
+      label: How Was Complaint Received
+      hint: Channel of complaint
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - Website form
+      - Live chat
+      - Social media
+      - In-person
+      - Letter
+      - Third party
+      - Other
+      required: true
+    - id: 11
+      name: complaint_category
+      label: Complaint Category
+      hint: Primary category
+      type: select_one
+      options:
+      - Product Quality
+      - Product Defect
+      - Service Quality
+      - Service Delay
+      - Billing Dispute
+      - Payment Issue
+      - Delivery Problem
+      - Customer Service
+      - Technical Support
+      - Policy Question
+      - Staff Behavior
+      - Safety Concern
+      - Other
+      required: true
+    - id: 12
+      name: complaint_subject
+      label: Complaint Subject
+      hint: Brief title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: complaint_description
+      label: Detailed Description
+      hint: Full description of issue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_date
+      label: Incident Date
+      hint: When did it happen
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: incident_location
+      label: Incident Location
+      hint: Where did it happen
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: products_involved
+      label: Products Involved
+      hint: Which products
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: services_involved
+      label: Services Involved
+      hint: Which services
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_number
+      label: Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transaction_amount
+      label: Transaction Amount
+      hint: Value if applicable
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: previous_complaints
+      label: Previous Complaints
+      hint: Has customer complained before
+      type: select_one
+      options:
+      - No - first complaint
+      - Yes - one prior
+      - Yes - multiple prior
+      required: true
+    - id: 21
+      name: priority_level
+      label: Priority Level
+      hint: Urgency assessment
+      type: select_one
+      options:
+      - Critical - immediate attention
+      - High - urgent
+      - Medium - normal
+      - Low - can wait
+      required: true
+    - id: 22
+      name: severity_level
+      label: Severity Level
+      hint: Impact assessment
+      type: select_one
+      options:
+      - Severe - major impact
+      - High - significant
+      - Moderate - some impact
+      - Low - minor
+      required: true
+    - id: 23
+      name: expected_resolution
+      label: Customer Expected Resolution
+      hint: What does customer want
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: assigned_to
+      label: Assigned To
+      hint: Who will handle
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: assigned_department
+      label: Assigned Department
+      hint: Which department
+      type: select_one
+      options:
+      - Customer Service
+      - Technical Support
+      - Billing
+      - Sales
+      - Operations
+      - Management
+      - Legal
+      - Other
+      required: true
+    - id: 26
+      name: sla_deadline
+      label: SLA Deadline
+      hint: Resolution deadline
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: initial_status
+      label: Initial Status
+      hint: Starting status
+      type: select_one
+      options:
+      - New - awaiting review
+      - In Progress - assigned
+      - Pending - need more info
+      - Escalated - sent to management
+      required: true
+    - id: 28
+      name: intake_notes
+      label: Intake Notes
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: attachments
+      label: Attachments
+      hint: Any documents provided
+      type: text
+      options: []
+      required: false

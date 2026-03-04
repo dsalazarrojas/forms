@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical History Form
+    pages:
+    - id: 1
+      name: medical_history_form_1
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: medical_history_form_2
+      label: past_surgeries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history_form_3
+      label: family_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_history_form_4
+      label: medical_history
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_history_form_5
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_history_form_6
+      label: past_medical_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_history_form_7
+      label: medical_history_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_form_8
+      label: medical_history_date
+      hint: null
+      type: date
+      options: []
+      required: false

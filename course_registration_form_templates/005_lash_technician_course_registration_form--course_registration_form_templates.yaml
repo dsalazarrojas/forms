@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_technician_course_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: course_time
+      label: Course Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: lash_technician_certificate
+      label: Lash Technician Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: lash_technician_certificate_id
+      label: Lash Technician Certificate ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_start_time
+      label: Course Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: course
+      label: Course
+      hint: null
+      type: select_one
+      options:
+      - Full Course
+      - Partially Full Course
+      required: true
+    - id: 12
+      name: lash_technician_course_fee
+      label: Lash Technician Course Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_fees
+      label: Total Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      required: true
+    - id: 18
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: instructors
+      label: Instructors
+      hint: null
+      type: select_multiple
+      options:
+      - Instructor 1
+      - Instructor 2
+      - Instructor 3
+      required: false
+    - id: 20
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 21
+      name: course_language
+      label: Course Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 22
+      name: total_classes
+      label: Total Classes
+      hint: null
+      type: number
+      options: []
+      required: true

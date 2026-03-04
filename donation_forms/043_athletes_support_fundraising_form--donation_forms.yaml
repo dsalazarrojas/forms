@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletes Support Fundraising Form
+    pages:
+    - id: 1
+      name: campaign_header
+      label: -- Fundraising Campaign Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Campaign Name
+      hint: e.g. 2026 Championship Travel Fund
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: beneficiary_name
+      label: Beneficiary Team or Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fundraising_purpose
+      label: Primary Purpose of Fundraising
+      hint: What will these funds support?
+      type: select_one
+      options:
+      - Travel and Lodging Expenses
+      - New Equipment and Gear
+      - Training and Coaching Fees
+      - Medical and Rehabilitation Support
+      - Scholarship and Grant Fund
+      required: true
+    - id: 5
+      name: donor_info_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donor_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_email
+      label: Email Address
+      hint: For your donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mailing_address
+      label: Mailing Address
+      hint: Required for tax-deductible receipts
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_name
+      label: Organization or Company Name
+      hint: If donating on behalf of a business
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donation_details_header
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Donation
+      - Monthly Recurring
+      - Quarterly Recurring
+      required: true
+    - id: 14
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: Actual payment will be processed on the next screen
+      type: select_one
+      options:
+      - Credit or Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check by Mail
+      required: true
+    - id: 15
+      name: recognition_header
+      label: -- Recognition and Tributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: anonymity_status
+      label: Would you like to remain anonymous?
+      hint: Your name will not be listed publicly
+      type: select_one
+      options:
+      - Yes, remain anonymous
+      - No, I am happy to be recognized
+      required: true
+    - id: 17
+      name: recognition_name
+      label: Name for Donor Recognition
+      hint: As it should appear in our annual report
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tribute_donation_status
+      label: Is this donation in honor or memory of someone?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, in Honor of
+      - Yes, in Memory of
+      required: true
+    - id: 19
+      name: tribute_name
+      label: Tribute Name
+      hint: Required if tribute donation selected
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: support_message
+      label: Personal Message to the Athlete or Team
+      hint: optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorization_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: refund_policy_acknowledgment
+      label: I understand that my donation is non-refundable
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 23
+      name: marketing_consent
+      label: Consent to receive future campaign updates and newsletters
+      hint: null
+      type: select_one
+      options:
+      - Yes, keep me updated
+      - No, thank you
+      required: true
+    - id: 24
+      name: donation_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true

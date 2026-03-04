@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supporter Information Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_preferences
+      label: Support Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Support
+      - Volunteer
+      - Both
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      - Not Specified
+      required: false
+    - id: 4
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: supporter_interests
+      label: Supporter Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Interest 1
+      - Interest 2
+      - Interest 3
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: supporter_preferences_frequency
+      label: Supporter Preference Frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 8
+      name: support_status
+      label: Supporter Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: supporter_type
+      label: Supporter Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

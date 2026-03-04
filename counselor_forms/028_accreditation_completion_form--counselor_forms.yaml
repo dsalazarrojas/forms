@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accreditation Completion Form
+    pages:
+    - id: 1
+      name: institution_details
+      label: -- Institution details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Institution name
+      hint: Legal name of the institution
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: accreditation_body
+      label: Accrediting body
+      hint: Name of the accrediting organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_or_department
+      label: Program or department
+      hint: Program seeking accreditation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact person
+      hint: Person handling accreditation correspondence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: Email for accreditation notices
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: completion_date
+      label: Completion date
+      hint: Date accreditation requirements were completed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: documents_submitted
+      label: Documents submitted
+      hint: List key documents provided to the accreditor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: outcomes_summary
+      label: Outcomes summary
+      hint: Brief summary of results or findings
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next steps
+      hint: Recommended follow up actions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorized_signature
+      label: Authorized signature
+      hint: Type full name to sign electronically
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information relevant to accreditation
+      type: text
+      options: []
+      required: false

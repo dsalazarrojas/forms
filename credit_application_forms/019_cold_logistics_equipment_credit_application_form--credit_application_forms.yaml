@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Logistics Equipment Credit Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Credit Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_business_name
+      label: Applicant business name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Name for credit correspondence
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for statements
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requested_amount
+      label: Requested credit amount
+      hint: Numeric amount in currency
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: purpose_of_credit
+      label: Purpose of credit
+      hint: Equipment type or purchase description
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_in_business
+      label: Years in business
+      hint: Whole number of years
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: credit_references
+      label: Credit references
+      hint: Bank or supplier references
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: financial_statements_attached
+      label: Financial statements attached
+      hint: Indicate if statements are provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information for credit review
+      type: text
+      options: []
+      required: false

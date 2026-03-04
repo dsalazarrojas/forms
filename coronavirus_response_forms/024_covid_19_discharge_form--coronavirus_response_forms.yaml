@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Discharge Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Hospitalization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: admission_date
+      label: Date of Admission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: discharge_date
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: treating_physician
+      label: Treating Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- Clinical Status at Discharge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: oxygen_requirement
+      label: Oxygen Requirement at Discharge
+      hint: null
+      type: select_one
+      options:
+      - Room air only
+      - Low-flow oxygen
+      - High-flow oxygen
+      - Mechanical ventilation
+      required: true
+    - id: 14
+      name: recovery_status
+      label: Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Fully recovered
+      - Significantly improved
+      - Moderate improvement
+      - Minimal improvement
+      required: true
+    - id: 15
+      name: vaccine_status
+      label: Vaccination Status at Discharge
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated without booster
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 16
+      name: section_header_4
+      label: -- Post-Discharge Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: isolation_period
+      label: Isolation Period Required
+      hint: null
+      type: select_one
+      options:
+      - No isolation required
+      - 5 days isolation
+      - 10 days isolation
+      - Longer as advised by physician
+      required: true
+    - id: 18
+      name: activity_restrictions
+      label: Activity Restrictions
+      hint: null
+      type: select_one
+      options:
+      - No restrictions
+      - Light activities only
+      - Limited physical activity
+      - Complete bed rest
+      required: true
+    - id: 19
+      name: follow_up_appointment
+      label: Follow-up Appointment Scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: medications_prescribed
+      label: Medications Prescribed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_5
+      label: -- Discharge Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: discharge_instructions_understood
+      label: Patient understands discharge instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: discharge_signature_date
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Blue and Responsive
+    pages:
+    - id: 1
+      name: section_support_intro
+      label: -- Customer Service Request --
+      hint: Our blue theme helps us maintain a calm and helpful environment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_id
+      label: Account ID (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_category
+      label: Support Category
+      hint: Please select the most relevant department
+      type: select_one
+      options:
+      - Technical Support
+      - Billing and Payments
+      - Sales Inquiry
+      - Product Feedback
+      - Account Management
+      - Website Bug
+      required: true
+    - id: 7
+      name: product_service_name
+      label: Product or Service Name
+      hint: Which product are you contacting us about?
+      type: select_one
+      options:
+      - Standard Plan
+      - Premium Plan
+      - Enterprise Solution
+      - Add-on Service
+      - Legacy Support
+      required: true
+    - id: 8
+      name: issue_severity
+      label: How severe is your issue?
+      hint: null
+      type: select_one
+      options:
+      - Minor (Question)
+      - Moderate (Feature missing)
+      - Major (Performance issue)
+      - Critical (System down)
+      required: true
+    - id: 9
+      name: request_subject
+      label: Request Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: detailed_description
+      label: Detailed Description
+      hint: Provide as much context as possible to help us solve your issue faster
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_callback_time
+      label: Preferred Callback Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-5PM)
+      - Evening (5PM-8PM)
+      required: false
+    - id: 12
+      name: section_feedback
+      label: -- Service Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: initial_ease_rating
+      label: How easy was it to find this contact page?
+      hint: 1 being very difficult, 5 being very easy
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: false
+    - id: 14
+      name: sign_up_newsletter
+      label: Join our monthly product update newsletter?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

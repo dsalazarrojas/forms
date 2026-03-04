@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Agapita Declaration Form
+    pages:
+    - id: 1
+      name: declaration_intro
+      label: -- Cafe Agapita Health and Safety Declaration --
+      hint: Ensuring a safe environment for our guests and staff
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visitor_type
+      label: I am a...
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Delivery Staff
+      - Contractor
+      - Job Applicant
+      - Vendor
+      required: true
+    - id: 5
+      name: health_screening_header
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_symptoms
+      label: Are you currently experiencing any fever, cough, or shortness of breath
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: temperature_reading
+      label: Current Body Temperature
+      hint: as recorded at the entrance station
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: travel_history
+      label: Have you traveled internationally in the last 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: contact_history
+      label: Have you been in close contact with a confirmed COVID-19 case
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: safety_agreement_header
+      label: -- Safety Protocols --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hand_sanitizing_ack
+      label: I agree to sanitize my hands upon entry
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: mask_policy_ack
+      label: I agree to wear a mask when not eating or drinking
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: physical_distancing_ack
+      label: I will maintain 1.5 meters distance from other parties
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: data_privacy_ack
+      label: I consent to the use of this data for contact tracing if necessary
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: signature_confirmation
+      label: I certify that the information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: declaration_date_time
+      label: Date and Time of Entry
+      hint: null
+      type: text
+      options: []
+      required: true

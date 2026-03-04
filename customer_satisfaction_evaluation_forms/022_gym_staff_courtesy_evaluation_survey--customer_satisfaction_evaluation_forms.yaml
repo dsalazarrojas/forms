@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_staff_courtesy_evaluation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is the purpose of this form?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_interaction
+      label: How would you rate your interaction with the staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: staff_friendliness
+      label: How friendly were the staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Friendly''}'
+      - '{''label'': ''Somewhat Friendly''}'
+      - '{''label'': ''Not Very Friendly''}'
+      - '{''label'': ''Not at all Friendly''}'
+      required: false
+    - id: 4
+      name: staff_helpfulness
+      label: How helpful were the staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Helpful''}'
+      - '{''label'': ''Somewhat Helpful''}'
+      - '{''label'': ''Not Very Helpful''}'
+      - '{''label'': ''Not at all Helpful''}'
+      required: false
+    - id: 5
+      name: staff_response_time
+      label: How long did the staff take to respond to your questions?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 minute''}'
+      - '{''label'': ''1-2 minutes''}'
+      - '{''label'': ''2-5 minutes''}'
+      - '{''label'': ''More than 5 minutes''}'
+      required: false
+    - id: 6
+      name: staff_quality
+      label: How would you rate the quality of service from the staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: staff_willingness_to_help
+      label: How willing were the staff to help you?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Willing''}'
+      - '{''label'': ''Somewhat Willing''}'
+      - '{''label'': ''Not Very Willing''}'
+      - '{''label'': ''Not at all Willing''}'
+      required: false
+    - id: 8
+      name: staff_punctuality
+      label: How punctual were the staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Punctual''}'
+      - '{''label'': ''Somewhat Punctual''}'
+      - '{''label'': ''Not Very Punctual''}'
+      - '{''label'': ''Not at all Punctual''}'
+      required: false
+    - id: 9
+      name: overall_experience
+      label: Overall, how would you rate your experience with the staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Somewhat Good''}'
+      - '{''label'': ''Not Very Good''}'
+      - '{''label'': ''Not at all Good''}'
+      required: false
+    - id: 10
+      name: staff_suggestion
+      label: Do you have any suggestions for the staff?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: staff_response_time_satisfied
+      label: How long did it take the staff to respond to your suggestions?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 day''}'
+      - '{''label'': ''1-3 days''}'
+      - '{''label'': ''3-7 days''}'
+      - '{''label'': ''More than 7 days''}'
+      required: false
+    - id: 12
+      name: staff_response_time_unsatisified
+      label: How long did it take the staff to respond to your unsatisfied comments?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 day''}'
+      - '{''label'': ''1-3 days''}'
+      - '{''label'': ''3-7 days''}'
+      - '{''label'': ''More than 7 days''}'
+      required: false
+    - id: 13
+      name: staff_improvement_area
+      label: Which area of the staff needs improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_improvement_other
+      label: Is there anything else you would like to add about the staff?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: staff_rating
+      label: How would you rate the overall quality of our staff?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 16
+      name: staff_recommendation
+      label: How likely are you to recommend our gym to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not at all Likely''}'
+      required: false
+    - id: 17
+      name: staff_employees
+      label: How many employees interacted with you?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': ''2-3''}'
+      - '{''label'': ''4-5''}'
+      - '{''label'': ''More than 5''}'
+      required: false
+    - id: 18
+      name: staff_interaction_length
+      label: How long did the staff interaction last?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 minute''}'
+      - '{''label'': ''1-2 minutes''}'
+      - '{''label'': ''2-5 minutes''}'
+      - '{''label'': ''More than 5 minutes''}'
+      required: false
+    - id: 19
+      name: staff_impression
+      label: What is your overall impression of the staff?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_impression_reason
+      label: Reason for your impression
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_suggestion_improvement
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: staff_feedback
+      label: Any feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: staff_rating_score
+      label: What score would you give this staff?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: staff_impression_score
+      label: What score would you give the overall service quality of the staff?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: staff_recommendation_score
+      label: How likely are you to recommend this gym to a friend or family member?
+      hint: null
+      type: number
+      options: []
+      required: false

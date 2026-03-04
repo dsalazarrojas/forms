@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: CARES Act Grant Application
+    pages:
+    - id: 1
+      name: grant_intro
+      label: -- CARES Act Relief Fund Application --
+      hint: Targeted support for arts organizations in Orange County primarily serving
+        communities of color.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_org_name
+      label: Legal Name of Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: org_ein
+      label: Federal Tax ID (EIN)
+      hint: 9-digit number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_person
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email_org
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: mission_statement
+      label: Organization Mission Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: demographic_focus
+      label: Does your organization primarily serve communities of color?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: covid_impact_narrative
+      label: Describe the financial impact of COVID-19 on your operations
+      hint: Include lost revenue, event cancellations, etc.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: requested_grant_amount
+      label: Requested Grant Amount
+      hint: Maximum $25,000
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: budget_utilization_plan
+      label: Planned Use of Funds
+      hint: How will this grant help sustain your organization?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: number_of_staff_affected
+      label: Number of staff/artists affected by the pandemic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: non_profit_status_verification
+      label: Is your organization a registered 501(c)(3)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Using Fiscal Sponsor
+      required: true
+    - id: 13
+      name: orange_county_location
+      label: Is your organization physically located in Orange County?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: annual_operating_budget
+      label: Total Annual Operating Budget (Pre-COVID)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: certification_of_accuracy
+      label: I certify that all information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 16
+      name: application_submission_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

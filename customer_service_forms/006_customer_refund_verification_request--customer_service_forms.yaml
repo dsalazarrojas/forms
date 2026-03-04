@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Refund Verification Request
+    pages:
+    - id: 1
+      name: customer_refund_request
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_item_details
+      label: Order Item Details -
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: refund_requested_date
+      label: Refund Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toy Product Missing Parts Request Form
+    pages:
+    - id: 1
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: part_description
+      label: Part Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: missing_parts
+      label: Missing Parts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Missing part is not working as intended''}'
+      - '{''label'': ''Part is damaged beyond repair''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

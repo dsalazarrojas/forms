@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: AM Virtual Services Client Registration Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Professional email for service communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact number for service coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_type
+      label: Type of Business
+      hint: Industry or sector of your business
+      type: select_one
+      options:
+      - Retail
+      - Service
+      - Technology
+      - Healthcare
+      - Education
+      - Non-Profit
+      - Other
+      required: false
+    - id: 6
+      name: business_size
+      label: Business Size
+      hint: Number of employees in your organization
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: false
+    - id: 7
+      name: interested_services
+      label: Services Interested In
+      hint: Which virtual services are you interested in?
+      type: select_multiple
+      options:
+      - Virtual Assistant
+      - Data Entry
+      - Customer Support
+      - Bookkeeping
+      - Social Media Management
+      - Content Creation
+      - Project Coordination
+      - Other
+      required: true
+    - id: 8
+      name: service_frequency
+      label: Desired Service Frequency
+      hint: How often do you need virtual support?
+      type: select_one
+      options:
+      - One-time
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Ongoing
+      required: true
+    - id: 9
+      name: estimated_hours_per_week
+      label: Estimated Hours Per Week
+      hint: Approximate number of hours needed per week
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Monthly budget for virtual services
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2000
+      - $2000-$3000
+      - $3000+
+      required: false
+    - id: 11
+      name: project_start_date
+      label: Desired Project Start Date
+      hint: When would you like to begin services?
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: timezone_preference
+      label: Time Zone Preference
+      hint: What time zone do you operate in?
+      type: select_one
+      options:
+      - EST
+      - CST
+      - MST
+      - PST
+      - GMT
+      - CET
+      - Other
+      required: true
+    - id: 13
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific qualifications or requirements for your virtual assistant?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_experience
+      label: Previous Experience with Virtual Services
+      hint: Have you used virtual assistants or services before?
+      type: select_one
+      options:
+      - No Experience
+      - Limited Experience
+      - Regular User
+      - Heavy User
+      required: false

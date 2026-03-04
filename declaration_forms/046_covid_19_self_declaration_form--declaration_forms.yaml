@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Declaration Form
+    pages:
+    - id: 1
+      name: patient_name_full
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: id_passport_no
+      label: ID or Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone_no
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_addr_val
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: residence_type_cat
+      label: Residence Type
+      hint: null
+      type: select_one
+      options:
+      - Permanent Resident
+      - Temporary Resident
+      - Visitor
+      - Student
+      - Other
+      required: true
+    - id: 6
+      name: vaccine_interest_yn
+      label: I declare my interest and intent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I am interested
+      - false
+      - I am undecided
+      required: true
+    - id: 7
+      name: prev_dose_status_cat
+      label: Previous Vaccine Dose Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - One dose received
+      - Fully vaccinated
+      - Booster received
+      required: true
+    - id: 8
+      name: priority_group_cat
+      label: Do you belong to any of these priority groups?
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Worker
+      - Elderly (65+)
+      - Underlying Condition
+      - Essential Worker
+      - None
+      required: true
+    - id: 9
+      name: declaration_truth_cert
+      label: I certify that the information provided in this declaration is true
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true
+    - id: 10
+      name: declaration_date_val
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: data_privacy_ack
+      label: I agree to my data being processed for vaccination scheduling
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 12
+      name: signature_type_full
+      label: Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true

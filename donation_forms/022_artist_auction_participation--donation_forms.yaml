@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Auction Participation
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: Your full legal name or stage name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Website or Portfolio URL
+      hint: Link to your work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Art Medium and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_medium
+      label: Primary Art Medium
+      hint: What type of art do you create?
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Printmaking
+      - Drawing
+      - Mixed Media
+      - Installation
+      - Performance Art
+      - Other
+      required: true
+    - id: 8
+      name: years_active
+      label: Years Active as an Artist
+      hint: How long have you been creating art?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: false
+    - id: 9
+      name: artist_experience
+      label: Exhibition Experience
+      hint: Have you exhibited before?
+      type: select_one
+      options:
+      - Extensively exhibited
+      - Several exhibitions
+      - Few exhibitions
+      - First time
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Artwork for Auction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: artwork_title
+      label: Title of Artwork for Auction
+      hint: Name of the piece being auctioned
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_description
+      label: Artwork Description
+      hint: Tell us about your piece
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Height, width, depth as applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artwork_medium_detail
+      label: Specific Materials or Technique
+      hint: Materials used in creating this piece
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- Auction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: estimated_value
+      label: Estimated Value or Reserve Price (GBP)
+      hint: Your suggested starting bid or reserve
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: donation_percentage
+      label: Percentage of Sale to Donate
+      hint: What percentage should go to the cause?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: artist_commitment
+      label: Are You Donating the Full Proceeds?
+      hint: Confirm donation amount commitment
+      type: select_one
+      options:
+      - Yes, full proceeds
+      - Percentage as noted above
+      - Flat donation amount
+      - Still deciding
+      required: true
+    - id: 19
+      name: section_header_5
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: artist_bio
+      label: Brief Artist Biography
+      hint: 50-100 word description of your work
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: artwork_provenance
+      label: Artwork Provenance or History
+      hint: Background of this specific piece
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: condition_notes
+      label: Condition of Artwork
+      hint: Any damage, restoration, or condition notes
+      type: select_one
+      options:
+      - Excellent condition
+      - Good condition
+      - Fair condition
+      - Has minor damage
+      - Has significant damage
+      required: true
+    - id: 23
+      name: artist_agreement
+      label: I Agree to Participate in This Auction
+      hint: Confirm your participation
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 24
+      name: publicity_consent
+      label: Permission to Use My Name and Artwork in Publicity
+      hint: Can auction organizers promote your work?
+      type: select_one
+      options:
+      - Yes, full permission
+      - Yes, with approval of images
+      - Limited permission
+      - No publicity
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: declaration_of_presence_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: duration_of_visit
+      label: duration_of_visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mode_of_transport
+      label: mode_of_transport
+      hint: Please choose mode of transport
+      type: select_one
+      options:
+      - '{''label'': ''Walk''}'
+      - '{''label'': ''Drive''}'
+      - '{''label'': ''By Bike''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: mode_of_transport_other
+      label: mode_of_transport_other
+      hint: Other mode of transport
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mode_of_transport_other_detail
+      label: mode_of_transport_other_detail
+      hint: Please provide additional details about other mode of transport
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: location
+      hint: Select all relevant locations
+      type: select_multiple
+      options:
+      - '{''label'': ''Office''}'
+      - '{''label'': ''School''}'
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: location_other
+      label: location_other
+      hint: Other location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location_other_location
+      label: location_other_location
+      hint: Please provide additional details about other locations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: purpose_of_visit
+      label: purpose_of_visit
+      hint: Select the purpose of visit
+      type: select_one
+      options:
+      - '{''label'': ''Meeting''}'
+      - '{''label'': ''Training''}'
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 14
+      name: purpose_of_visit_other
+      label: purpose_of_visit_other
+      hint: Other purpose of visit
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: purpose_of_visit_other_detail
+      label: purpose_of_visit_other_detail
+      hint: Please provide additional details about other purpose of visit
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature
+      label: signature
+      hint: Signature of prophet
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: signature_2
+      label: signature_2
+      hint: Signature of prophet 2
+      type: note
+      options: []
+      required: true

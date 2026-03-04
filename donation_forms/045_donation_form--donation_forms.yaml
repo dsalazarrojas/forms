@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: donation_forms
+      label: Donation Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: donation_form_title
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_form_description
+      label: Form can be used to get all the Credit Card information needed from a
+        fund raiser and be able to get donations.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category2
+      label: Category 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category3
+      label: Category 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: page2
+      label: Page 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: page3
+      label: Page 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: page4
+      label: Page 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: exp_month
+      label: Exp Month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 20
+      name: exp_year
+      label: Exp Year
+      hint: null
+      type: select_one
+      options:
+      - '2010'
+      - '2011'
+      - '2012'
+      - '2013'
+      - '2014'
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      required: true
+    - id: 21
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cvc
+      label: CVC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false

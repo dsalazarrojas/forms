@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calorie Count Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: patient_weight
+      label: Current Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: patient_height
+      label: Height (inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: tracking_date
+      label: Date of Calorie Count
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_daily_intake
+      label: -- Daily Calorie Intake --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: breakfast_description
+      label: Breakfast - Food Items and Quantities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: breakfast_calories
+      label: Breakfast Calories
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: morning_snack_description
+      label: Morning Snack - Food Items and Quantities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: morning_snack_calories
+      label: Morning Snack Calories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: lunch_description
+      label: Lunch - Food Items and Quantities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lunch_calories
+      label: Lunch Calories
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: afternoon_snack_description
+      label: Afternoon Snack - Food Items and Quantities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: afternoon_snack_calories
+      label: Afternoon Snack Calories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: dinner_description
+      label: Dinner - Food Items and Quantities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: dinner_calories
+      label: Dinner Calories
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: evening_snack_description
+      label: Evening Snack - Food Items and Quantities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evening_snack_calories
+      label: Evening Snack Calories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: beverages_description
+      label: Beverages - Types and Quantities
+      hint: Include water, coffee, soft drinks, alcohol, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: beverage_calories
+      label: Beverage Calories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_assessment
+      label: -- Nutritional Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: total_daily_calories
+      label: Total Daily Calories
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: calorie_goal
+      label: Daily Calorie Goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: dietary_concerns
+      label: Dietary Concerns or Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false

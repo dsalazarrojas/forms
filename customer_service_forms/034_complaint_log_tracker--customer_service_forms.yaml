@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Log Tracker
+    pages:
+    - id: 1
+      name: complaint_id
+      label: Complaint ID
+      hint: Unique complaint identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: log_date
+      label: Log Date
+      hint: Date complaint logged
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: complaint_date
+      label: Complaint Date
+      hint: When did complaint occur
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: complaint_time
+      label: Complaint Time
+      hint: When did it happen
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: complainant_name
+      label: Complainant Name
+      hint: Person making complaint
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: complainant_email
+      label: Complainant Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: complainant_phone
+      label: Complainant Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: complainant_type
+      label: Complainant Type
+      hint: Relationship to organization
+      type: select_one
+      options:
+      - Customer
+      - Client
+      - Employee
+      - Vendor or Supplier
+      - Partner
+      - Member of Public
+      - Other
+      required: true
+    - id: 9
+      name: complaint_category
+      label: Complaint Category
+      hint: Type of complaint
+      type: select_one
+      options:
+      - Product Quality
+      - Service Quality
+      - Billing or Payment
+      - Delivery or Shipping
+      - Customer Service
+      - Technical Issue
+      - Policy or Procedure
+      - Staff Behavior
+      - Safety Concern
+      - Other
+      required: true
+    - id: 10
+      name: complaint_subject
+      label: Complaint Subject
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: complaint_description
+      label: Complaint Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of complaint
+      type: select_one
+      options:
+      - Critical - immediate attention
+      - High - urgent
+      - Medium - normal priority
+      - Low - can wait
+      required: true
+    - id: 13
+      name: severity_level
+      label: Severity Level
+      hint: Impact of complaint
+      type: select_one
+      options:
+      - Severe - major impact
+      - High - significant impact
+      - Moderate - some impact
+      - Low - minor impact
+      required: true
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: Who is handling this
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_department
+      label: Assigned Department
+      hint: Which department
+      type: select_one
+      options:
+      - Customer Service
+      - Sales
+      - Technical Support
+      - Billing
+      - Human Resources
+      - Operations
+      - Management
+      - Other
+      required: true
+    - id: 16
+      name: status
+      label: Current Status
+      hint: Complaint status
+      type: select_one
+      options:
+      - New - not yet reviewed
+      - In Progress - being handled
+      - Pending - waiting for info
+      - Resolved - completed
+      - Closed - finalized
+      - Escalated - sent to management
+      required: true
+    - id: 17
+      name: expected_resolution_date
+      label: Expected Resolution Date
+      hint: When will this be resolved
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: actual_resolution_date
+      label: Actual Resolution Date
+      hint: When was it resolved
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: resolution_description
+      label: Resolution Description
+      hint: How was it resolved
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: How satisfied is customer
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not yet surveyed
+      required: false
+    - id: 21
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - Yes - scheduled
+      - Yes - pending
+      - No - not needed
+      required: true
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to follow up
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: root_cause
+      label: Root Cause
+      hint: What caused this issue
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: preventive_action
+      label: Preventive Action
+      hint: How to prevent recurrence
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: related_complaints
+      label: Related Complaints
+      hint: Any linked complaints
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: escalation_history
+      label: Escalation History
+      hint: Has this been escalated
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: notes
+      label: Internal Notes
+      hint: Additional information
+      type: text
+      options: []
+      required: false

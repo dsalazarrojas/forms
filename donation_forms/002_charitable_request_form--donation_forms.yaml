@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charitable Request Form
+    pages:
+    - id: 1
+      name: section_org_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_legal_name
+      label: Organization Legal Name
+      hint: As it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_id_ein
+      label: Tax ID (EIN)
+      hint: Federal Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_donation_details
+      label: -- Donation Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donation_type
+      label: Type of Donation Requested
+      hint: null
+      type: select_one
+      options:
+      - Monetary
+      - In-Kind Product
+      - Services
+      - Gift Certificates
+      required: true
+    - id: 9
+      name: requested_amount_value
+      label: Requested Amount or Value ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: donation_purpose
+      label: Purpose of the Donation
+      hint: How will this donation be used
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tax_write_off_eligible
+      label: Is this donation tax write-off eligible
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: recognition_offered
+      label: Recognition or Marketing Offered
+      hint: e.g. logo on website, social media shoutout
+      type: select_multiple
+      options:
+      - Logo on Website
+      - Event Signage
+      - Social Media Post
+      - Newsletter Mention
+      - None
+      required: false
+    - id: 14
+      name: additional_documentation
+      label: Link to Supporting Documentation
+      hint: URL to proposal or mission statement
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: application_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

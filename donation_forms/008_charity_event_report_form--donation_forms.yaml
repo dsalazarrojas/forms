@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Report Form
+    pages:
+    - id: 1
+      name: section_event_summary
+      label: -- Event Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Official name of the event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: When was this event held
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: Venue name and address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_coordinator
+      label: Event Coordinator Name
+      hint: Who coordinated this event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: When is this report being submitted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_attendance
+      label: -- Attendance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: expected_attendance
+      label: Expected Attendance
+      hint: How many people were expected
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: actual_attendance
+      label: Actual Attendance
+      hint: How many people actually attended
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: volunteers_count
+      label: Number of Volunteers
+      hint: How many volunteers helped
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: staff_count
+      label: Number of Staff Members
+      hint: How many paid staff were involved
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_financials
+      label: -- Financial Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_revenue
+      label: Total Revenue Raised
+      hint: Amount raised in dollars
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_expenses
+      label: Total Expenses
+      hint: Amount spent organizing event
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: net_proceeds
+      label: Net Proceeds
+      hint: Revenue minus expenses
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_outcomes
+      label: -- Event Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: goals_achieved
+      label: Were Event Goals Achieved
+      hint: Did you accomplish what you planned
+      type: select_one
+      options:
+      - Exceeded Goals
+      - Met Goals
+      - Partially Met Goals
+      - Did Not Meet Goals
+      required: true
+    - id: 18
+      name: key_successes
+      label: Key Successes
+      hint: What went well
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: challenges_faced
+      label: Challenges and Obstacles
+      hint: What was difficult or problematic
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: improvement_recommendations
+      label: Recommendations for Improvement
+      hint: How can future events be better
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: media_coverage
+      label: Media Coverage or Publicity
+      hint: Any press mentions or social media reach
+      type: text
+      options: []
+      required: false

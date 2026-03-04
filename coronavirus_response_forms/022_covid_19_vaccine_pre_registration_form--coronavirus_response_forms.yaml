@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Pre Registration Form
+    pages:
+    - id: 1
+      name: pre_reg_patient_header
+      label: -- Patient Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pre_reg_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pre_reg_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pre_reg_date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pre_reg_gender
+      Label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+        - Male
+        - Female
+        - Other
+        - Prefer Not to Say
+      required: false
+    - id: 6
+      name: pre_reg_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: pre_reg_phone
+      label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: pre_reg_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pre_reg_city_state_zip
+      Label: City, State, and ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pre_reg_employer
+      label: Employer or Organization
+      hint: Where you work or live
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pre_reg_healthcare_worker
+      Label: Are You a Healthcare Worker
+      hint: Do you work in healthcare
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 12
+      name: pre_reg_eligibility_header
+      label: -- Eligibility Information --
+      hint: Vaccination eligibility details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: pre_reg_age_group
+      Label: Age Group
+      hint: Your age category
+      type: select_one
+      options:
+        - 16-17 years
+        - 18-24 years
+        - 25-49 years
+        - 50-64 years
+        - 65+ years
+      required: true
+    - id: 14
+      name: pre_reg_priority_group
+      Label: Do You Qualify for Priority Vaccination
+      hint: Any priority status
+      type: select_one
+      options:
+        - Healthcare worker
+        - Essential worker
+        - Underlying medical condition
+        - Elderly
+        - Caregiver
+        - General population
+      required: true
+    - id: 15
+      name: pre_reg_medical_conditions
+      Label: Do You Have Medical Conditions Qualifying for Priority
+      hint: Underlying health conditions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pre_reg_vaccine_history_header
+      label: -- Vaccine History --
+      hint: Your previous COVID-19 vaccinations
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: pre_reg_previous_doses
+      Label: Number of COVID-19 Vaccine Doses Received
+      hint: How many doses so far
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: pre_reg_last_dose_date
+      label: Date of Last COVID-19 Vaccine Dose
+      hint: When was your most recent dose
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: pre_reg_vaccine_type_previous
+      Label: Previous Vaccine Type
+      hint: What vaccine did you receive
+      type: select_one
+      options:
+        - Pfizer-BioNTech
+        - Moderna
+        - Johnson & Johnson
+        - AstraZeneca
+        - Novavax
+        - Unsure
+        - None
+      required: false
+    - id: 20
+      name: pre_reg_covid_status_header
+      label: -- COVID-19 Status --
+      hint: Previous COVID-19 infection
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: pre_reg_had_covid
+      Label: Have You Had COVID-19 Before
+      hint: Previous COVID-19 infection
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: true
+    - id: 22
+      name: pre_reg_covid_date
+      label: Date of COVID-19 Infection
+      hint: When you had COVID-19
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: pre_reg_contact_preference
+      Label: Preferred Contact Method
+      hint: How we should contact you
+      type: select_one
+      options:
+        - Email
+        - Phone
+        - Text Message
+        - Mail
+      required: true
+    - id: 24
+      name: pre_reg_confirmation
+      label: I Confirm That All Information is Accurate
+      hint: All provided information is correct
+      type: select_one
+      options:
+        - I confirm
+        - Needs correction
+      required: true
+    - id: 25
+      name: pre_reg_follow_up
+      label: May We Contact You When Vaccine Becomes Available
+      hint: Permission to contact you
+      type: select_one
+      options:
+        - Yes, contact me
+        - No, do not contact
+      required: true

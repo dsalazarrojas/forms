@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pickup Time Slot Selection
+    pages:
+    - id: 1
+      name: pickup_time_slot_selection
+      label: pickup_time_slot_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: Enter your contact details
+      type: text
+      options: []
+      required: false

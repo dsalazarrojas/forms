@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Monitoring Form
+    pages:
+    - id: 1
+      name: monitoring_date
+      label: Monitoring Date
+      hint: Date of monitoring review
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Person conducting review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_department
+      label: Reviewer Department
+      hint: Which department
+      type: select_one
+      options:
+      - Quality Assurance
+      - Customer Service
+      - Management
+      - Operations
+      - Compliance
+      - Other
+      required: true
+    - id: 4
+      name: review_period_start
+      label: Review Period Start
+      hint: Start date of period
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: review_period_end
+      label: Review Period End
+      hint: End date of period
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_complaints
+      label: Total Complaints Received
+      hint: Number in period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: resolved_complaints
+      label: Resolved Complaints
+      hint: Number resolved
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pending_complaints
+      label: Pending Complaints
+      hint: Number still open
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: escalated_complaints
+      label: Escalated Complaints
+      hint: Number escalated
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: resolution_rate
+      label: Resolution Rate
+      hint: Percentage resolved
+      type: select_one
+      options:
+      - Over 90 percent
+      - 80 to 90 percent
+      - 70 to 79 percent
+      - 60 to 69 percent
+      - Under 60 percent
+      required: true
+    - id: 11
+      name: average_resolution_time
+      label: Average Resolution Time
+      hint: Typical time to resolve
+      type: select_one
+      options:
+      - Under 24 hours
+      - 1 to 3 days
+      - 4 to 7 days
+      - 1 to 2 weeks
+      - Over 2 weeks
+      required: true
+    - id: 12
+      name: sla_compliance
+      label: SLA Compliance Rate
+      hint: Meeting deadlines
+      type: select_one
+      options:
+      - Over 95 percent
+      - 85 to 95 percent
+      - 75 to 84 percent
+      - 65 to 74 percent
+      - Under 65 percent
+      required: true
+    - id: 13
+      name: customer_satisfaction_avg
+      label: Average Customer Satisfaction
+      hint: CSAT score
+      type: select_one
+      options:
+      - Over 90 percent
+      - 80 to 89 percent
+      - 70 to 79 percent
+      - 60 to 69 percent
+      - Under 60 percent
+      required: true
+    - id: 14
+      name: complaint_categories
+      label: Top Complaint Categories
+      hint: Most common types
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recurring_issues
+      label: Recurring Issues
+      hint: Patterns observed
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: root_causes_identified
+      label: Root Causes Identified
+      hint: Common causes
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_performance
+      label: Team Performance Rating
+      hint: Overall team rating
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: response_time_rating
+      label: Response Time Rating
+      hint: Speed of response
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: resolution_quality_rating
+      label: Resolution Quality Rating
+      hint: Quality of solutions
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: communication_rating
+      label: Communication Rating
+      hint: Quality of communication
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: training_needs
+      label: Training Needs Identified
+      hint: What training is needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: process_improvements
+      label: Process Improvements Needed
+      hint: What to improve
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: systemic_issues
+      label: Systemic Issues
+      hint: Organization-wide problems
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: corrective_actions
+      label: Corrective Actions Taken
+      hint: What was done
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: preventive_actions
+      label: Preventive Actions Planned
+      hint: How to prevent recurrence
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: action_timeline
+      label: Action Timeline
+      hint: When will actions complete
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is monitoring follow-up needed
+      type: select_one
+      options:
+      - Yes - weekly
+      - Yes - biweekly
+      - Yes - monthly
+      - No - situation stable
+      required: true
+    - id: 28
+      name: next_review_date
+      label: Next Review Date
+      hint: When to review again
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: overall_assessment
+      label: Overall Assessment
+      hint: Summary evaluation
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

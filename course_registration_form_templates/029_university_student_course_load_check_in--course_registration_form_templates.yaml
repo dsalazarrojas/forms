@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_student_course_load_check_in
+    pages:
+    - id: 1
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: course_id
+      label: course_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: credit
+      label: Credit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: checked_credit
+      label: Checked Credit
+      hint: null
+      type: number
+      options: []
+      required: false

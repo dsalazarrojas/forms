@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Intubation Checklist Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Intubation Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: checklist_date
+      label: Checklist Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: checklist_time
+      label: Checklist Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: intubation_date
+      label: Date of Intubation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: nurse_name
+      label: Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pre_intubation
+      label: -- Pre-Intubation Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sedation_adequate
+      label: Sedation level adequate
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: medications_given
+      label: Pre-intubation medications given
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 11
+      name: airway_assessed
+      label: Airway assessed for difficulty
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 12
+      name: emergency_equipment
+      label: Emergency equipment available
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 13
+      name: ppe_donned
+      label: PPE properly donned
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 14
+      name: tube_section
+      label: -- Tube Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tube_type
+      label: Endotracheal Tube Type
+      hint: null
+      type: select_one
+      options:
+      - Oral
+      - Nasal
+      - Other
+      required: true
+    - id: 16
+      name: tube_size
+      label: Tube Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: tube_depth
+      label: Tube Depth at Teeth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cuff_pressure
+      label: Cuff Pressure Checked
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 19
+      name: tube_position
+      label: Tube Position Confirmed
+      hint: null
+      type: select_one
+      options:
+      - Yes, X-ray Confirmed
+      - Yes, Clinical Confirmed
+      - Pending
+      required: true
+    - id: 20
+      name: post_intubation
+      label: -- Post-Intubation Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: breath_sounds
+      label: Bilateral breath sounds present
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 22
+      name: ventilator_settings
+      label: Ventilator settings verified
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 23
+      name: capnography
+      label: Capnography confirmed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not Available
+      required: true
+    - id: 24
+      name: tube_secured
+      label: Tube securely taped or fastened
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 25
+      name: tube_marking
+      label: Tube position marked
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

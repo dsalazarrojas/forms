@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_client_registration_form_template
+    pages:
+    - id: 1
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_type
+      label: real_estate_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Land
+      - Other
+      required: false
+    - id: 9
+      name: property_address
+      label: property_address
+      hint: null
+      type: select_multiple
+      options:
+      - 123 main st
+      - 456 main st
+      - 789 main st
+      - 012 main st
+      - 345 main st
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: date_of_move_in
+      label: date_of_move_in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_move_in
+      label: time_of_move_in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: agent_note
+      label: agent_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: client_note
+      label: client_note
+      hint: null
+      type: note
+      options: []
+      required: false

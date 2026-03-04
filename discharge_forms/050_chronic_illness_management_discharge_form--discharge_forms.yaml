@@ -1,0 +1,422 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Illness Management Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: Your MRN if known
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: admission_date
+      label: Admission Date
+      hint: When were you admitted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: Main reason for admission
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: secondary_diagnoses
+      label: Secondary Diagnoses
+      hint: Other conditions treated
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: chronic_conditions
+      label: Chronic Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Type 1 Diabetes
+      - Type 2 Diabetes
+      - Hypertension
+      - Heart Disease
+      - Heart Failure
+      - COPD
+      - Asthma
+      - Chronic Kidney Disease
+      - Arthritis
+      - Depression
+      - Anxiety
+      - Other
+      required: true
+    - id: 10
+      name: section_diagnoses
+      label: -- Diagnoses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: discharge_medications
+      label: Discharge Medications
+      hint: List all medications to continue
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medication_changes
+      label: Medication Changes
+      hint: What changed from admission
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_prescriptions
+      label: New Prescriptions
+      hint: Any new medications prescribed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_instructions
+      label: Medication Instructions
+      hint: Special instructions for medications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_medications
+      label: -- Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_appointments
+      label: Follow-Up Appointments
+      hint: Scheduled appointments
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: pcp_notification
+      label: PCP Notification
+      hint: Has your PCP been notified
+      type: select_one
+      options:
+      - Yes notified
+      - Will be notified
+      - Patient to notify
+      required: true
+    - id: 18
+      name: specialist_referrals
+      label: Specialist Referrals
+      hint: Any referrals made
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_follow_up
+      label: -- Follow-Up Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: activity_restrictions
+      label: Activity Restrictions
+      hint: Any activity limitations
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: diet_instructions
+      label: Diet Instructions
+      hint: Dietary recommendations
+      type: select_one
+      options:
+      - No restrictions
+      - Low sodium
+      - Low fat
+      - Diabetic diet
+      - Cardiac diet
+      - Renal diet
+      - Other
+      required: true
+    - id: 22
+      name: diet_details
+      label: Diet Details
+      hint: Specific diet instructions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_instructions
+      label: -- Discharge Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: wound_care_needed
+      label: Wound Care Needed
+      hint: Do you need wound care
+      type: select_one
+      options:
+      - No wound care
+      - Yes self-care
+      - Yes home health
+      - Yes clinic visits
+      required: true
+    - id: 25
+      name: medical_equipment
+      label: Medical Equipment
+      hint: Equipment sent home with
+      type: select_multiple
+      options:
+      - None
+      - Oxygen
+      - Walker or cane
+      - Wheelchair
+      - Hospital bed
+      - Commode
+      - Monitoring equipment
+      - Other
+      required: true
+    - id: 26
+      name: section_equipment
+      label: -- Equipment and Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: home_care_services
+      label: Home Care Services
+      hint: Services arranged
+      type: select_multiple
+      options:
+      - None needed
+      - Skilled nursing
+      - Physical therapy
+      - Occupational therapy
+      - Speech therapy
+      - Home health aide
+      - Medical social worker
+      required: true
+    - id: 28
+      name: caregiver_support
+      label: Caregiver Support
+      hint: Do you have caregiver at home
+      type: select_one
+      options:
+      - Yes family member
+      - Yes professional caregiver
+      - No I live alone
+      - No but need help
+      required: true
+    - id: 29
+      name: section_home_support
+      label: -- Home Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: warning_signs
+      label: Warning Signs
+      hint: Symptoms to watch for
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: when_to_seek_help
+      label: When to Seek Help
+      hint: When to call doctor or 911
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: emergency_contact
+      label: Emergency Contact Number
+      hint: Who to call for questions
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: section_warning_signs
+      label: -- Warning Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: transportation_home
+      label: Transportation Home
+      hint: How are you getting home
+      type: select_one
+      options:
+      - Family or friend
+      - Personal vehicle
+      - Medical transport
+      - Taxi or rideshare
+      - Other
+      required: true
+    - id: 35
+      name: discharge_destination
+      label: Discharge Destination
+      hint: Where are you going
+      type: select_one
+      options:
+      - Home
+      - Family or friend home
+      - Skilled nursing facility
+      - Rehabilitation facility
+      - Hospice
+      - Other
+      required: true
+    - id: 36
+      name: section_discharge_logistics
+      label: -- Discharge Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: discharge_education_provided
+      label: Discharge Education
+      hint: Was education provided
+      type: select_one
+      options:
+      - Yes verbal and written
+      - Yes verbal only
+      - Yes written only
+      - No education provided
+      required: true
+    - id: 38
+      name: patient_understanding
+      label: Patient Understanding
+      hint: Do you understand instructions
+      type: select_one
+      options:
+      - Yes completely
+      - Yes mostly
+      - Somewhat
+      - No need more explanation
+      required: true
+    - id: 39
+      name: teach_back_completed
+      label: Teach-Back Completed
+      hint: Did you demonstrate understanding
+      type: select_one
+      options:
+      - Yes successfully
+      - Yes with reminders
+      - No not completed
+      required: true
+    - id: 40
+      name: section_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: language_preference
+      label: Language Preference
+      hint: Preferred language
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Other
+      required: true
+    - id: 42
+      name: interpreter_used
+      label: Interpreter Used
+      hint: Was interpreter needed
+      type: select_one
+      options:
+      - false
+      - Yes in-person
+      - Yes phone
+      - Yes video
+      required: true
+    - id: 43
+      name: section_language
+      label: -- Language --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: patient_signature
+      label: Patient Acknowledgment
+      hint: I understand my discharge instructions
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more explanation
+      required: true
+    - id: 45
+      name: provider_name
+      label: Discharging Provider
+      hint: Name of discharging physician
+      type: text
+      options: []
+      required: true
+    - id: 46
+      name: provider_signature
+      label: Provider Acknowledgment
+      hint: Discharge approved by provider
+      type: select_one
+      options:
+      - Yes approved
+      - No pending
+      required: true
+    - id: 47
+      name: discharge_time
+      label: Discharge Time
+      hint: Time of discharge
+      type: time
+      options: []
+      required: true
+    - id: 48
+      name: additional_instructions
+      label: Additional Instructions
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

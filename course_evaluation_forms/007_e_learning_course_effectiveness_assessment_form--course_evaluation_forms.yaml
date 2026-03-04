@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Learning Course Effectiveness Assessment Form
+    pages:
+    - id: 1
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - E-learning is very effective
+      - E-learning is somewhat effective
+      - E-learning is not effective
+      - E-learning is somewhat ineffective
+      - E-learning is not effective
+      required: false
+    - id: 3
+      name: course_content
+      label: Course Content
+      hint: null
+      type: select_multiple
+      options:
+      - Engaging and interactive
+      - Relevant and up-to-date
+      - Well-organized
+      - Not engaging at all
+      - Not well-organized
+      required: false
+    - id: 4
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

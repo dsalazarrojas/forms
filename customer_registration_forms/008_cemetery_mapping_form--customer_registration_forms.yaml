@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Mapping Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: deceased_info_header
+      label: -- Deceased Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: deceased_name
+      label: Deceased Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: passing_date
+      label: Date of Passing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: plot_selection_header
+      label: -- Plot Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_sector
+      label: Preferred Cemetery Sector
+      hint: Select the area of the cemetery
+      type: select_one
+      options:
+      - North Sector
+      - South Sector
+      - East Sector
+      - West Sector
+      - Garden of Peace
+      - Hilltop Terrace
+      required: true
+    - id: 10
+      name: plot_type
+      label: Plot Type
+      hint: Choose the type of plot required
+      type: select_one
+      options:
+      - Standard Single
+      - Double Depth
+      - Family Plot
+      - Infant Section
+      - Veteran Section
+      required: true
+    - id: 11
+      name: specific_section_request
+      label: Specific Section Request
+      hint: Enter section number or specific location if known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: interment_details_header
+      label: -- Interment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interment_type
+      label: Interment Type
+      hint: How will the remains be placed
+      type: select_one
+      options:
+      - In-ground Burial
+      - Mausoleum Crypt
+      - Cremation Niche
+      - Memorial Bench
+      required: true
+    - id: 14
+      name: choice_agreement_header
+      label: -- Agreement and Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirmation_of_choice
+      label: Confirmation of Selection
+      hint: Confirm that you have reviewed the plot map and made a choice
+      type: select_one
+      options:
+      - Yes - I have selected the plot
+      - I Need More Information
+      required: true
+    - id: 16
+      name: submission_date
+      label: Date of Request
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: comments_header
+      label: -- Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_requests
+      label: Additional Requests or Information
+      hint: Please share any other relevant details
+      type: text
+      options: []
+      required: false

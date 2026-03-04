@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Return Authorization Request Form
+    pages:
+    - id: 1
+      name: return_intro
+      label: Black Friday Return Authorization Request
+      hint: Request authorization for Black Friday purchase returns
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_number
+      label: Order Number
+      hint: Your order confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purchase_date
+      label: Purchase Date
+      hint: When was the item purchased
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: item_name
+      label: Item Name
+      hint: Product name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_sku
+      label: Item SKU
+      hint: Product SKU number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: How many items to return
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: item_price
+      label: Item Price
+      hint: Price paid per item
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: return_reason
+      label: Reason for Return
+      hint: Why are you returning this item
+      type: select_one
+      options:
+      - Defective or Damaged
+      - Wrong Item Received
+      - Wrong Size
+      - Wrong Color
+      - Not as Described
+      - Changed Mind
+      - Found Better Price
+      - Gift Return
+      required: true
+    - id: 12
+      name: item_condition
+      label: Item Condition
+      hint: Current condition of item
+      type: select_one
+      options:
+      - New with Tags
+      - New without Tags
+      - Used - Like New
+      - Used - Good Condition
+      - Damaged
+      - Defective
+      required: true
+    - id: 13
+      name: return_preference
+      label: Return Preference
+      hint: How would you like to resolve this
+      type: select_one
+      options:
+      - Full Refund
+      - Exchange for Same Item
+      - Exchange for Different Item
+      - Store Credit
+      - Partial Refund
+      required: true
+    - id: 14
+      name: exchange_item_details
+      label: Exchange Item Details
+      hint: If exchanging what do you want instead
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: original_packaging
+      label: Original Packaging
+      hint: Do you have original packaging
+      type: select_one
+      options:
+      - Yes Complete
+      - Yes Partial
+      - No Discarded
+      required: true
+    - id: 16
+      name: return_method
+      label: Return Method
+      hint: How will you return the item
+      type: select_one
+      options:
+      - Mail Return
+      - In Store Return
+      - Pickup Request
+      required: true
+    - id: 17
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: photo_evidence
+      label: Photo Evidence URL
+      hint: Link to photos of item if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: best_contact_time
+      label: Best Contact Time
+      hint: When should we contact you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

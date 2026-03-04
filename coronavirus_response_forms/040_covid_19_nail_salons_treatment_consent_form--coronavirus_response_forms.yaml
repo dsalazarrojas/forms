@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Nail Salons Treatment Consent Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Manicure
+      - Pedicure
+      - Gel Nails
+      - Acrylic Nails
+      - Nail Art
+      - Other
+      required: true
+    - id: 8
+      name: health_section
+      label: -- Health Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: covid_symptoms
+      label: COVID-19 symptoms in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: symptoms_list
+      label: Symptoms if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_temp
+      label: Temperature above 100.4F in past 24 hours
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: exposure
+      label: Exposed to COVID-19 in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 13
+      name: positive_test
+      label: Tested positive for COVID-19 in past 10 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: true
+    - id: 15
+      name: health_conditions
+      label: Pre-existing health conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: condition_details
+      label: Describe conditions if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies_header
+      label: -- Allergies and Sensitivities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: chemical_allergies
+      label: Known allergies to nail products
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: allergy_list
+      label: List allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: skin_conditions
+      label: Current skin conditions or cuts
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: skin_details
+      label: Describe skin conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consent_section
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: understood_risks
+      label: I understand COVID-19 transmission risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 24
+      name: safety_measures
+      label: I acknowledge safety measures in place
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: consent_treatment
+      label: I consent to proceed with service
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 26
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

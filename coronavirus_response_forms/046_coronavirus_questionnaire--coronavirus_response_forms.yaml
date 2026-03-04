@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_questionnaire
+    pages:
+    - id: 1
+      name: have_you_been_in_any_of_the_following_places
+      label: Have you been in any of the following places?
+      hint: null
+      type: select_multiple
+      options:
+      - airport
+      - store
+      - restaurant
+      - public_event
+      required: false
+    - id: 2
+      name: have_you_had_any_of_the_following_symptoms
+      label: Have you had any of the following symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - fever
+      - sore_throat
+      - headache
+      required: false
+    - id: 3
+      name: have_you_traveled_to_any_foreign_countries
+      label: Have you traveled to any foreign countries in the last month?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: have_you_had_close_contact_with_any_confirmed_cases
+      label: Have you had close contact with any confirmed cases?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: have_you_had_close_contact_with_any_confirmed_cases_2
+      label: Have you had close contact with any confirmed cases?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: have_you_been_in_any_public_event
+      label: Have you been in any public events?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: have_you_traveled_to_any_foreign_countries
+      label: Have you traveled to any foreign countries?
+      hint: null
+      type: text
+      options: []
+      required: false

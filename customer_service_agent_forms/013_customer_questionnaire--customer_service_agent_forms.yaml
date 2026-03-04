@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Questionnaire
+    pages:
+    - id: 1
+      name: customer_service
+      label: What was the purpose of your visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Order pickup, product inquiry, Return/exchange, Other
+      - Other
+      required: true
+    - id: 2
+      name: service
+      label: How would you rate our customer service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: packaging
+      label: How would you rate our packaging?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: shipping
+      label: How would you rate our shipping?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: communication
+      label: How would you rate our communication?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: product_quality
+      label: How would you rate the quality of our products?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: product_availability
+      label: How would you rate the availability of our products in store?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: overall_experience
+      label: Overall experience of your visit?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Do you have any comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback
+      label: Is there anything else you'd like to tell us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_service_agent_name
+      label: What is the name of the customer service agent that helped you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_service_agent_comments
+      label: Do you want to provide feedback on the agent that helped you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_service_agent_raterating
+      label: Rate the customer service agent (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_service_agent_ratedetails
+      label: What did the agent do well or poorly?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_service_agent_ratedetails2
+      label: What did the agent do well or poorly?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_service_agent_raterating2
+      label: Rate the customer service agent (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: customer_service_agent_ratedetails3
+      label: What did the agent do well or poorly?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_service_agent_raterating3
+      label: Rate the customer service agent (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_service_agent_ratedetails4
+      label: What did the agent do well or poorly?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_service_agent_raterating4
+      label: Rate the customer service agent (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: customer_service_agent_ratedetails5
+      label: What did the agent do well or poorly?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_service_agent_raterating5
+      label: Rate the customer service agent (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: customer_service_agent_raterating6
+      label: Rate the customer service agent (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false

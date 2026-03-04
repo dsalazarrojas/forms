@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Verification Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_dob
+      label: employee_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: id_number
+      label: id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: id_card_number
+      label: id_card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: driver_license_number
+      label: driver_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: id_issue_date
+      label: id_issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: id_expire_date
+      label: id_expire_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: id_card_number_type
+      label: id_card_number_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: id_card_number_type_type
+      label: id_card_number_type_type
+      hint: null
+      type: select_multiple
+      options:
+      - type1
+      - type2
+      - type3
+      required: false
+    - id: 13
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: id_number_type
+      label: id_number_type
+      hint: null
+      type: select_multiple
+      options:
+      - type1
+      - type2
+      - type3
+      required: false

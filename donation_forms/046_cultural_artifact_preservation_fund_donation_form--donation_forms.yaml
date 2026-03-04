@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural_artifact_preservation_fund_donation_form
+    pages:
+    - id: 1
+      name: organization_input
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_input
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount_input
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method_input
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 8
+      name: gift_note_input
+      label: Gift Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donation_type_input
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Ongoing
+      required: false
+    - id: 10
+      name: frequency_input
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 11
+      name: frequency_date_input
+      label: Frequency Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: frequency_time_input
+      label: Frequency Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: frequency_end_date_input
+      label: Frequency End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: donation_frequency_note_input
+      label: Frequency Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_deduction_input
+      label: Tax-Deductible
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: tax_id_input
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms_input
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Deferred
+      required: false
+    - id: 18
+      name: frequency_terms_input
+      label: Frequency Terms
+      hint: null
+      type: select_one
+      options:
+      - Continuous
+      - One-Time
+      required: false
+    - id: 19
+      name: donor_details_input
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: payment_date_input
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: payment_time_input
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: gift_frequency_input
+      label: Gift Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 23
+      name: gift_start_date_input
+      label: Gift Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: gift_frequency_note_input
+      label: Gift Frequency Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: gift_end_date_input
+      label: Gift End Date
+      hint: null
+      type: date
+      options: []
+      required: false

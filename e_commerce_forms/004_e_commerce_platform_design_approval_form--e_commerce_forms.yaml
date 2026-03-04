@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Platform Design Approval Form
+    pages:
+    - id: 1
+      name: ecommerce_platform_design_approval_form_page1
+      label: platform_design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: platform_description
+      label: description_of_e_commerce_platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: platform_features
+      label: features_of_platform
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Feature A''}'
+      - '{''label'': ''Feature B''}'
+      - '{''label'': ''Feature C''}'
+      required: false
+    - id: 4
+      name: platform_url
+      label: url_of_e_commerce_platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: designer_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: designer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: designer_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: platform_status
+      label: status_of_platform
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Rejected''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Save as Draft''}'
+      - '{''label'': ''Cancel''}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

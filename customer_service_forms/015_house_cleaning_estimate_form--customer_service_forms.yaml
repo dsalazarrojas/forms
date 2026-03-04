@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Cleaning Estimate Form
+    pages:
+    - id: 1
+      name: house_cleaning_estimate_form_1
+      label: House Cleaning Estimate Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: house_cleaning_estimate_form_2
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Office
+      - Bedroom
+      - Bathroom
+      required: false
+    - id: 3
+      name: house_cleaning_estimate_form_3
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: house_cleaning_estimate_form_4
+      label: Estimated Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: house_cleaning_estimate_form_5
+      label: Estimated Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: house_cleaning_estimate_form_6
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Carpet Cleaning
+      - Upholstery Cleaning
+      - Tile Cleaning
+      - Window Cleaning
+      required: true
+    - id: 7
+      name: house_cleaning_estimate_form_7
+      label: Additional Services - Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: house_cleaning_estimate_form_8
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: house_cleaning_estimate_form_9
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false

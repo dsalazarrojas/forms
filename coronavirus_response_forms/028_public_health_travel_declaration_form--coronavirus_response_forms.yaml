@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_health_travel_declaration_form
+    pages:
+    - id: 1
+      name: travel_history
+      label: travel_history
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_attention
+      label: medical_attention
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_symptoms
+      label: medical_symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_documents
+      label: travel_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_trace
+      label: contact_trace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_history_notes
+      label: travel_history_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_details_notes
+      label: travel_details_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: travel_documents_notes
+      label: travel_documents_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_info_notes
+      label: medical_info_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_risk_assessment
+      label: travel_risk_assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Moderate
+      - High
+      - Critical
+      required: false
+    - id: 14
+      name: travel_risk_assessment_notes
+      label: travel_risk_assessment_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_history_id
+      label: travel_history_id
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      required: false
+    - id: 16
+      name: travel_history_type
+      label: travel_history_type
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Land
+      - Sea
+      required: false
+    - id: 17
+      name: contact_info_notes
+      label: contact_info_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_trace_notes
+      label: contact_trace_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: travel_risk_assessment_notes
+      label: travel_risk_assessment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_notes
+      label: medical_history_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: other_travel_history
+      label: other_travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_travel_details
+      label: other_travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_restrictions
+      label: travel_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit_travel_form
+      label: submit_travel_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_travel_form_notes
+      label: submit_travel_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false

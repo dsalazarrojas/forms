@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: second-hand-item-price-proposal-form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: second_hand_item_info
+      label: Used Item Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: offer_info
+      label: Offer Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: proposal_message
+      label: Proposal Message
+      hint: null
+      type: text
+      options: []
+      required: false

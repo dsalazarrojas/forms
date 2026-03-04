@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: late_delivery_complaint_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_reason
+      label: complaint_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_person
+      label: delivery_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date_time
+      label: delivery prophets
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: customer_comment
+      label: customer_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - Delayed Delivery
+      - Damaged Goods
+      - Missing Item
+      - Other
+      required: false
+    - id: 12
+      name: customer_service_agent
+      label: customer_service_agent
+      hint: null
+      type: select_multiple
+      options:
+      - Agent
+      - Agent
+      - Team
+      required: false
+    - id: 13
+      name: additional_details
+      label: additional_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_agreement
+      label: customer_agreement
+      hint: null
+      type: note
+      options: []
+      required: false

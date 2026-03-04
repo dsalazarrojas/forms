@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_loyalty_tier_upgrade_registration_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_loyalty_level
+      label: Current Loyalty Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: desired_loyalty_level
+      label: Desired Loyalty Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 6
+      name: upgrade_reason
+      label: Upgrade Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_since
+      label: When Did You Join?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: last_upgrade
+      label: Last Upgrade
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: prophets
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyers Questionnaire
+    pages:
+    - id: 1
+      name: buyer_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_preferences
+      label: -- Product Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_category
+      label: Primary category of interest
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Apparel
+      - Home and Garden
+      - Health and Beauty
+      - Books and Media
+      required: true
+    - id: 7
+      name: specific_brands
+      label: Are there specific brands you prefer?
+      hint: List your top 3
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feature_priorities
+      label: Which features are most important to you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price
+      - Quality/Durability
+      - Brand Reputation
+      - Eco-friendliness
+      - Warranty
+      required: true
+    - id: 9
+      name: purchase_frequency
+      label: How often do you purchase items in this category?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 10
+      name: budget_range
+      label: What is your typical budget for a single purchase?
+      hint: In USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: shipping_logistics
+      label: -- Shipping and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_shipping_method
+      label: Preferred shipping method
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Expedited (2-3 days)
+      - Next Day
+      - Local Pickup
+      required: true
+    - id: 13
+      name: delivery_instructions
+      label: Special delivery instructions
+      hint: e.g., leave at back door
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: promotional_consent
+      label: Would you like to receive personalized offers via email?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

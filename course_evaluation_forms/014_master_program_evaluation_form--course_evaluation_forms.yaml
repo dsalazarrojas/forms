@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Master Program Evaluation Form
+    pages:
+    - id: 1
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_faculty_performance
+      label: Overall Faculty Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: accessing_information
+      label: Accessing Information
+      hint: How easy is it to access information for you?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 4
+      name: satisfaction_level_accessing_info
+      label: Satisfaction Level Accessing Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_clarity_policies
+      label: Overall Clarity Policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: satisfaction_level_clarity_policies
+      label: Satisfaction Level Clarity Policies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_faculty_issues
+      label: Overall Faculty Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: satisfaction_level_faculty_issues
+      label: Satisfaction Level Faculty Issues
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_academic_support
+      label: Overall Academic Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: satisfaction_level_academic_support
+      label: Satisfaction Level Academic Support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

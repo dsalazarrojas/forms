@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Survey
+    pages:
+    - id: 1
+      name: customer_loyalty_survey
+      label: Customer Loyalty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loyalty_program_enrollment
+      label: Are you enrolled in our loyalty program?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: frequency_of_visits
+      label: How often do you visit our store?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Never'', ''value'': ''never''}'
+      - '{''label'': ''Occasionally'', ''value'': ''occasionally''}'
+      - '{''label'': ''Regularly'', ''value'': ''regularly''}'
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: employee_knowledge
+      label: How well do employees know their products?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very well'', ''value'': 5}'
+      - '{''label'': ''Well'', ''value'': 4}'
+      - '{''label'': ''Fairly well'', ''value'': 3}'
+      - '{''label'': ''Not well'', ''value'': 2}'
+      - '{''label'': ''Not at all'', ''value'': 1}'
+      required: false
+    - id: 8
+      name: employee_friendliness
+      label: How friendly are store employees?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Extremely friendly'', ''value'': 5}'
+      - '{''label'': ''Somewhat friendly'', ''value'': 4}'
+      - '{''label'': ''Not very friendly'', ''value'': 3}'
+      - '{''label'': ''Not at all friendly'', ''value'': 2}'
+      - '{''label'': ''Not at all'', ''value'': 1}'
+      required: false
+    - id: 9
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''label'': ''Good'', ''value'': ''good''}'
+      - '{''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 10
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_feedback
+      label: Store Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false

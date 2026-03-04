@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: graduation_year
+      label: Year of Graduation
+      hint: When you graduated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donor_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: How much would you like to donate
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: donation_category
+      label: Donation Category
+      hint: What area should this support
+      type: select_one
+      options:
+      - General Scholarship Fund
+      - Athletic Programs
+      - Academic Programs
+      - Building Improvements
+      - Student Services
+      - Undesignated
+      - Other
+      required: true
+    - id: 12
+      name: donation_in_memory
+      label: Donation in Memory of
+      hint: If honoring someone, their name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: donation_in_honor
+      label: Donation in Honor of
+      hint: If honoring someone, their name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donation_type
+      label: Type of Donation
+      hint: What you are donating
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Securities
+      - Property
+      - Planned Gift
+      - Matching Gift
+      - Other
+      required: true
+    - id: 15
+      name: employer_match_available
+      label: Does Your Employer Match Gifts
+      hint: Employer matching available
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 16
+      name: employer_name
+      label: Employer Name
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: anonymous_preference
+      label: Remain Anonymous
+      hint: Keep your donation confidential
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: recognition_preference
+      label: Recognition Level
+      hint: How you want to be recognized
+      type: select_one
+      options:
+      - Public Recognition
+      - Listed with Class
+      - Corporate Listing
+      - No Recognition
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How you will make your donation
+      type: select_one
+      options:
+      - Online Credit Card
+      - Check
+      - Bank Transfer
+      - Wire Transfer
+      - Stock Transfer
+      - Other
+      required: true
+    - id: 20
+      name: message_to_school
+      label: Message to School
+      hint: Optional message or comments
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: newsletter_signup
+      label: Subscribe to Newsletter
+      hint: Receive alumni news
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

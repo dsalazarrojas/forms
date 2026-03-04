@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Intake Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to answer
+      required: true
+    - id: 5
+      name: contact_info_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_history_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: chronic_conditions
+      label: Chronic health conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Known allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vaccine_allergies
+      label: Allergies to vaccine components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: immunocompromised
+      label: Immunocompromised or on immunosuppressive therapy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: pregnancy
+      label: Pregnant or planning pregnancy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Prefer not to answer
+      required: true
+    - id: 20
+      name: breastfeeding
+      label: Breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: prior_vaccine_section
+      label: -- Prior Vaccine History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: prior_covid_vaccine
+      label: Prior COVID-19 vaccination doses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: prior_dose_type
+      label: Type of prior vaccine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prior_dose_date
+      label: Date of last dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: prior_reactions
+      label: Reactions to prior vaccines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: covid_status_section
+      label: -- COVID-19 Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: prior_covid_diagnosis
+      label: Prior COVID-19 diagnosis
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 28
+      name: covid_diagnosis_date
+      label: If yes, date of diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: current_symptoms
+      label: Currently experiencing COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: fever_present
+      label: Currently have a fever
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: consent_section
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: informed_consent
+      label: I give informed consent for COVID-19 vaccination
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 33
+      name: understand_benefits_risks
+      label: I understand benefits and risks
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 34
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: understand_right_to_refuse
+      label: I understand I can refuse without penalty
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 36
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

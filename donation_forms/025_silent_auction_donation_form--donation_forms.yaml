@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Silent Auction Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - Gift
+      - Prize
+      - Grant
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      required: true
+    - id: 8
+      name: currency_symbol
+      label: Currency Symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

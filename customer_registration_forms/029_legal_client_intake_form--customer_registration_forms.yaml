@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Client Intake Form
+    pages:
+    - id: 1
+      name: legal_client_intake_form_first_name
+      label: Legal Client Intake Form First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: legal_client_intake_form_last_name
+      label: legal_client_intake_form_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: legal_client_intake_form_email
+      label: legal_client_intake_form_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: legal_client_intake_form_contact_method
+      label: legal_client_intake_form_contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: legal_client_intake_form_contact_method_other
+      label: legal_client_intake_form_contact_method_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: legal_client_intake_form_contact_method_phone
+      label: legal_client_intake_form_contact_method_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_client_intake_form_contact_method_address
+      label: legal_client_intake_form_contact_method_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_client_intake_form_concern
+      label: legal_client_intake_form_concern
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: legal_client_intake_form_agreement
+      label: legal_client_intake_form_agreement
+      hint: null
+      type: text
+      options: []
+      required: false

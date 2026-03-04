@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Contact Information --
+      hint: Please fill out the form below to get in touch with us.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Your Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_location
+      label: -- Your Location --
+      hint: Optional
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: country_name
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city_name
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_message
+      label: -- Your Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: message_subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - General Question
+      - Technical Support
+      - Billing Inquiry
+      - Feedback
+      - Request Call Back
+      - Partnership
+      - Careers
+      required: true
+    - id: 11
+      name: message_details
+      label: Message / Description of the Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: newsletter_opt_in
+      label: Sign up for our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: preferred_response_method
+      label: How should we contact you?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - No preference
+      required: true

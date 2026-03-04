@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Donation Declaration Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Donation Declaration --
+      hint: Record donor declarations for transparency and reporting
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: donor name
+      hint: full name for record keeping
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: donor email
+      hint: contact for receipts and queries
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: donation amount
+      hint: declared donation amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_designation
+      label: donation designation
+      hint: specify fund or program to support
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recurring_donation
+      label: recurring donation
+      hint: indicate if donation is recurring
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: tax_receipt_required
+      label: tax receipt required
+      hint: request a tax receipt if applicable
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: anonymity_request
+      label: anonymity request
+      hint: request to keep donor details private
+      type: select_one
+      options:
+      - Public
+      - Anonymous
+      required: false
+    - id: 9
+      name: acknowledgment_message
+      label: acknowledgment message
+      hint: message to the donor when acknowledging gift
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declaration_signature
+      label: declaration signature
+      hint: typed name confirms declaration
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_bus_driver_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: School Bus Driver Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_info
+      label: Driver Information
+      hint: Please provide the following information for the driver
+      type: select_one
+      options:
+      - '{''label'': ''Highly Effective''}'
+      - '{''label'': ''Highly Effective - 1''}'
+      - '{''label'': ''Effective''}'
+      - '{''label'': ''Not Effective''}'
+      required: false
+    - id: 3
+      name: supervision
+      label: Supervision
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_operation
+      label: Vehicle Operation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_procedures
+      label: Safety Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: driver_rating
+      label: Driver Rating
+      hint: Please rate the driver
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_info
+      label: Supervisor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

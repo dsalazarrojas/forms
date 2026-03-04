@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Return Shipment Form
+    pages:
+    - id: 1
+      name: return_shipment_form
+      label: Return Shipment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recipient_email
+      label: recipient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: order_number
+      label: order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_return_other
+      label: reason_for_return_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_return_other_text
+      label: reason_for_return_other_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_return_category
+      label: reason_for_return_category
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Customer
+      - Product
+      - Packaging
+      - Damage
+      required: false
+    - id: 9
+      name: reason_for_return_other_category
+      label: reason_for_return_other_category
+      hint: null
+      type: select_multiple
+      options:
+      - Product
+      - Packaging
+      - Damage
+      required: false
+    - id: 10
+      name: reason_for_return_product
+      label: reason_for_return_product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: return_shipment_date
+      label: return_shipment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Express
+      - Priority
+      required: false
+    - id: 13
+      name: tracking_number
+      label: tracking_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

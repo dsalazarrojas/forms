@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Spring
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name for order processing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for delivery issues
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_spring_collection
+      label: -- Spring Collection Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: spring_bloom_set
+      label: Spring Bloom Set
+      hint: Pastel floral designs - $12.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 6
+      name: garden_party_set
+      label: Garden Party Set
+      hint: Vibrant garden colors - $14.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 7
+      name: easter_special_set
+      label: Easter Special Set
+      hint: Easter themed designs - $15.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 8
+      name: pastel_dreams_set
+      label: Pastel Dreams Set
+      hint: Soft pastel collection - $13.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 9
+      name: floral_fantasy_set
+      label: Floral Fantasy Set
+      hint: Beautiful floral patterns - $16.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 10
+      name: section_header_classics
+      label: -- Classic Favorites --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: classic_red_set
+      label: Classic Red Set
+      hint: Timeless red shades - $11.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 12
+      name: nude_collection_set
+      label: Nude Collection Set
+      hint: Natural nude tones - $12.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 13
+      name: glitter_bomb_set
+      label: Glitter Bomb Set
+      hint: Sparkly glitter designs - $17.99
+      type: select_one
+      options:
+      - Not Interested
+      - 1 Set
+      - 2 Sets
+      - 3 Sets
+      - 4 or More Sets
+      required: true
+    - id: 14
+      name: section_header_shipping_payment
+      label: -- Shipping and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete delivery address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 17
+      name: promo_code
+      label: Promo Code
+      hint: Enter discount code if you have one
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any delivery instructions or notes
+      type: text
+      options: []
+      required: false

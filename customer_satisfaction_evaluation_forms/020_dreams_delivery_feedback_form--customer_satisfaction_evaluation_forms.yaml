@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: dreams_delivery_feedback_form
+    pages:
+    - id: 1
+      name: delivery_experience
+      label: Delivery Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: true
+    - id: 3
+      name: timeliness
+      label: Timeliness
+      hint: null
+      type: select_multiple
+      options:
+      - On Time
+      - Late
+      - Early
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Please share any additional feedback
+      type: note
+      options: []
+      required: false

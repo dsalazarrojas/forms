@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: youth_empowerment_fund_donation_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donations Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 4
+      name: frequency_other
+      label: frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 6
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_phone
+      label: Billing Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      - Other
+      required: false
+    - id: 10
+      name: other_method
+      label: other_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donation_date
+      label: Donations Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: donation_time
+      label: Donations Time
+      hint: null
+      type: time
+      options: []
+      required: false

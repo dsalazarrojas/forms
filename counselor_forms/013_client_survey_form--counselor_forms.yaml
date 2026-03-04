@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Survey Form
+    pages:
+    - id: 1
+      name: client_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: counselor_name
+      label: Counselor Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_section
+      label: -- Counseling Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sessions_attended
+      label: Number of sessions attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_counseling
+      label: Main reason for seeking counseling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goals_section
+      label: -- Goals and Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: counseling_goals
+      label: What were your goals when you started?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: goal_progress
+      label: Progress toward your goals
+      hint: null
+      type: select_one
+      options:
+      - No progress
+      - Slight progress
+      - Moderate progress
+      - Significant progress
+      - Goals achieved
+      required: true
+    - id: 12
+      name: satisfaction_section
+      label: -- Satisfaction Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: counselor_understanding
+      label: Counselor understanding of your issues
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 14
+      name: counselor_support
+      label: Counselor provided adequate support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: environment_comfort
+      label: Comfort with counseling environment
+      hint: null
+      type: select_one
+      options:
+      - Very Uncomfortable
+      - Uncomfortable
+      - Neutral
+      - Comfortable
+      - Very Comfortable
+      required: true
+    - id: 16
+      name: overall_satisfaction
+      label: Overall satisfaction with counseling
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 17
+      name: feedback_section
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: strengths
+      label: What did the counselor do well?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvements
+      label: What could be improved?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommendation
+      label: Would you recommend this counselor?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true

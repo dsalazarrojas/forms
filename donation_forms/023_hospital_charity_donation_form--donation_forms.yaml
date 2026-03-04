@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Charity Donation Form
+    pages:
+    - id: 1
+      name: form_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Frequency of Donations
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 7
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Card
+      - Online
+      required: false
+    - id: 8
+      name: date_donated
+      label: Date Donated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_donated
+      label: Time Donated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

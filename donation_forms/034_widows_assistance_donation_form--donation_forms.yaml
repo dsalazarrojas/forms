@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Widows’ Assistance Donation Form
+    pages:
+    - id: 1
+      name: donor
+      label: Donor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: The amount to donate
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: purpose_of_donation
+      label: Purpose of Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: (123) 456-7890'
+      type: text
+      options: []
+      required: false

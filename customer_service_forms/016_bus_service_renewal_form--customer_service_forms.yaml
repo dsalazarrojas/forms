@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Service Renewal Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_id
+      label: Customer ID
+      hint: Your customer account number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_service
+      label: Current Service Information
+      hint: Details about your current service
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: route_number
+      label: Current Route Number
+      hint: Route you currently use
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_type
+      label: Service Type
+      hint: Type of service you receive
+      type: select_one
+      options:
+      - Daily Commute
+      - School Transportation
+      - Shuttle Service
+      - Charter Service
+      - Special Needs Transportation
+      required: true
+    - id: 10
+      name: contract_start_date
+      label: Current Contract Start Date
+      hint: When did your service begin
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: contract_end_date
+      label: Current Contract End Date
+      hint: When does your service end
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: renewal_info
+      label: Renewal Information
+      hint: Details about your renewal request
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: renewal_type
+      label: Renewal Type
+      hint: What type of renewal are you requesting
+      type: select_one
+      options:
+      - Same Service Continuation
+      - Service Upgrade
+      - Service Modification
+      - Reduced Service
+      - Seasonal Extension
+      required: true
+    - id: 14
+      name: renewal_period
+      label: Renewal Period
+      hint: How long do you want to renew for
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      required: true
+    - id: 15
+      name: preferred_start_date
+      label: Preferred Renewal Start Date
+      hint: When should renewed service begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: service_changes
+      label: Requested Service Changes
+      hint: Any changes to your current service
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: passenger_count
+      label: Expected Passenger Count
+      hint: Number of passengers using service
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: satisfaction_rating
+      label: Current Service Satisfaction
+      hint: How satisfied are you with current service
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 20
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay for renewed service
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - Invoice Billing
+      required: true
+    - id: 21
+      name: promotional_code
+      label: Promotional Code
+      hint: Enter any promo code
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

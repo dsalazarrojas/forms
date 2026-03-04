@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Confession Appointment Form
+    pages:
+    - id: 1
+      name: confession_appointment_form
+      label: confession appointment form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: Enter the name of the person booking
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter the email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: Enter the phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confession_time
+      label: confession time
+      hint: Enter the time of the confession
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: confession_date
+      label: confession date
+      hint: Enter the date of the confession
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: confession_type
+      label: confession type
+      hint: Select the type of confession
+      type: select_one
+      options:
+      - Confession
+      - Penance
+      - Mass
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: Enter any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: share_confession
+      label: share confession
+      hint: Would you like to share your confession
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 10
+      name: embed_form
+      label: embed form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: share_embed_code
+      label: share embed code
+      hint: Get the code to embed the form
+      type: select_one
+      options:
+      - HTML
+      - URL
+      - JSON
+      required: true
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: select_one
+      options:
+      - '91190'
+      - Other
+      required: true
+    - id: 13
+      name: form_version
+      label: form version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: embed_code
+      label: embed code
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: save_confession
+      label: save confession
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

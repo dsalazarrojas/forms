@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Giving Option Poll
+    pages:
+    - id: 1
+      name: monthly_giving_option
+      label: Monthly giving options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_frequency
+      label: Payment frequency
+      hint: null
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Donation frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once a month
+      - Twice a week
+      - Weekly
+      - Less often
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Online
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: online_contact
+      label: Online contact
+      hint: null
+      type: text
+      options: []
+      required: false

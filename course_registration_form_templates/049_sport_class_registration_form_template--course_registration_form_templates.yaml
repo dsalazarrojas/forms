@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: sport_class_registration_form_template
+    pages:
+    - id: 1
+      name: sport_class
+      label: sport_class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: class_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_type
+      label: class_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A'', ''label'': ''A''}'
+      - '{''value'': ''B'', ''label'': ''B''}'
+      - '{''value'': ''C'', ''label'': ''C''}'
+      required: false
+    - id: 6
+      name: class_date
+      label: class_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: class_time
+      label: class_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: class_duration
+      label: class_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_age
+      label: student_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: guardian_name
+      label: guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guardian_email
+      label: guardian_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: guardian_phone
+      label: guardian_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: guardian_address
+      label: guardian_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_note
+      label: student_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: guardian_note
+      label: guardian_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: class_status
+      label: class_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''P'', ''label'': ''Pending''}'
+      - '{''value'': ''A'', ''label'': ''Active''}'
+      - '{''value'': ''I'', ''label'': ''Inactive''}'
+      required: false
+    - id: 18
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit'', ''label'': ''Submit''}'
+      - '{''value'': ''Cancel'', ''label'': ''Cancel''}'
+      required: false
+    - id: 19
+      name: class_type_other
+      label: class_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: class_type_other_option
+      label: class_type_other_option
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: class_description
+      label: class_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: class_organizer
+      label: class_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: class_capacity
+      label: class_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: class_max_capacity
+      label: class_max_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: class_max_participants
+      label: class_max_participants
+      hint: null
+      type: number
+      options: []
+      required: false

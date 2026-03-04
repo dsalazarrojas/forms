@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Triage Form
+    pages:
+    - id: 1
+      name: triage_date
+      label: Triage Date
+      hint: Date of triage
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: triage_time
+      label: Triage Time
+      hint: Time of triage
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Main reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: symptom_onset_date
+      label: When did symptoms start
+      hint: Symptom onset
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      - Chest pain
+      - Confusion
+      - Bluish lips or face
+      required: true
+    - id: 15
+      name: temperature
+      label: Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: heart_rate
+      label: Heart Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Systolic over diastolic
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: SpO2 percentage
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: breathing_difficulty
+      label: Difficulty Breathing
+      hint: Respiratory distress
+      type: select_one
+      options:
+      - No difficulty
+      - Mild - with exertion
+      - Moderate - at rest
+      - Severe - significant distress
+      required: true
+    - id: 21
+      name: chest_pain
+      label: Chest Pain or Pressure
+      hint: Cardiac symptoms
+      type: select_one
+      options:
+      - false
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 22
+      name: mental_status
+      label: Mental Status
+      hint: Alertness level
+      type: select_one
+      options:
+      - Alert and oriented
+      - Confused
+      - Difficult to awaken
+      - Unresponsive
+      required: true
+    - id: 23
+      name: underlying_conditions
+      label: Underlying Medical Conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Liver disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 24
+      name: age_risk
+      label: Patient Age Category
+      hint: Age risk factor
+      type: select_one
+      options:
+      - Under 18
+      - 18-49
+      - 50-64
+      - 65-74
+      - 75 or older
+      required: true
+    - id: 25
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: Vaccine status
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Unknown
+      required: true
+    - id: 26
+      name: triage_category
+      label: Triage Category
+      hint: Acuity level
+      type: select_one
+      options:
+      - Level 1 - Immediate resuscitation
+      - Level 2 - Emergent
+      - Level 3 - Urgent
+      - Level 4 - Less urgent
+      - Level 5 - Non-urgent
+      required: true
+    - id: 27
+      name: isolation_required
+      label: Isolation Required
+      hint: Infection control
+      type: select_one
+      options:
+      - Yes immediate isolation
+      - Yes with precautions
+      - No isolation needed
+      required: true
+    - id: 28
+      name: care_level_needed
+      label: Level of Care Needed
+      hint: Treatment setting
+      type: select_one
+      options:
+      - Home care with self-isolation
+      - Outpatient follow-up
+      - Urgent care evaluation
+      - Emergency department
+      - Hospital admission
+      - ICU admission
+      required: true
+    - id: 29
+      name: covid_test_ordered
+      label: COVID-19 Test Ordered
+      hint: Testing decision
+      type: select_one
+      options:
+      - Yes PCR test
+      - Yes rapid antigen test
+      - No test needed
+      - Test already done
+      required: true
+    - id: 30
+      name: triage_nurse_name
+      label: Triage Nurse Name
+      hint: Nurse name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: triage_provider_name
+      label: Triage Provider Name
+      hint: Provider name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: triage_notes
+      label: Additional Triage Notes
+      hint: Other information
+      type: text
+      options: []
+      required: false

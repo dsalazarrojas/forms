@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_19_weekly_test_form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 2
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vaccine_dose
+      label: Vaccine Dose
+      hint: null
+      type: select_one
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_multiple
+      options: []
+      required: false
+    - id: 8
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: select_one
+      options: []
+      required: false
+    - id: 10
+      name: medical_practice_id
+      label: Medical Practice ID
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_one
+      options: []
+      required: false
+    - id: 12
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false

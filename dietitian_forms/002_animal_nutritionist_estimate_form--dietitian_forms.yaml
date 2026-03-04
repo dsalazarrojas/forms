@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Nutritionist Estimate Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of pet owner or client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Email address for estimate delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: animal_name
+      label: Animal Name
+      hint: Name of the animal patient
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: animal_species
+      label: Animal Species
+      hint: Select species
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Bird
+      - Rabbit
+      - Reptile
+      - Other
+      required: true
+    - id: 6
+      name: animal_breed
+      label: Animal Breed
+      hint: Specify breed if known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: animal_age
+      label: Animal Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: animal_weight
+      label: Animal Weight
+      hint: Current weight in pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_diet
+      label: Current Diet Description
+      hint: Describe what the animal currently eats
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: health_conditions
+      label: Known Health Conditions
+      hint: List any diagnosed conditions or health concerns
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_type
+      label: Type of Nutrition Service Needed
+      hint: Select the primary service
+      type: select_one
+      options:
+      - Initial Consultation
+      - Diet Plan Development
+      - Weight Management Program
+      - Therapeutic Diet Consultation
+      - Performance Nutrition Plan
+      - Follow-up Assessment
+      required: true
+    - id: 12
+      name: consultation_preference
+      label: Consultation Preference
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In-Person Visit
+      - Video Call
+      - Phone Consultation
+      required: true
+    - id: 13
+      name: estimated_cost
+      label: Estimated Service Cost
+      hint: Based on service type selected
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: cost_breakdown
+      label: Cost Breakdown
+      hint: Initial consultation fee and follow-up rates
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_options
+      label: Payment Options
+      hint: Available payment methods
+      type: select_multiple
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Payment Plan Available
+      required: false
+    - id: 16
+      name: insurance_info
+      label: Pet Insurance Information
+      hint: Provider and policy number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special Requirements or Requests
+      hint: Any specific needs or preferences
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_source
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Veterinarian Referral
+      - Online Search
+      - Social Media
+      - Friend or Family
+      - Previous Client
+      - Other
+      required: false
+    - id: 19
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: terms_acknowledgment
+      label: I acknowledge this is an estimate only and final costs may vary
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - Other
+      required: true

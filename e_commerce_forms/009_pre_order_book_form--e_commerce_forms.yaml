@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Order Book Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_preferred
+      label: Book Preferred
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''book1'', ''label'': ''Book 1''}'
+      - '{''id'': 2, ''value'': ''book2'', ''label'': ''Book 2''}'
+      - '{''id'': 3, ''value'': ''book3'', ''label'': ''Book 3''}'
+      required: false
+    - id: 6
+      name: book_preferred_other
+      label: Other Book
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

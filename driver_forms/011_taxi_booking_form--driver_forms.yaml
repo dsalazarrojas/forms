@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Taxi Booking Form
+    pages:
+    - id: 1
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: passenger_count
+      label: Passenger Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Cash
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_driver
+      label: Assigned Driver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: false

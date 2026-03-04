@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Troop Attendance Form
+    pages:
+    - id: 1
+      name: meeting_id
+      label: Meeting ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: troop_id
+      label: Troop ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: leader_id
+      label: Leader ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: troop_members
+      label: Troop Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: attendance_notes
+      label: Attendance Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: absent_reason
+      label: Absent Reason
+      hint: null
+      type: select_one
+      options:
+      - Hunting
+      - Fishing
+      - Vacation
+      - Illness
+      - Minimalist
+      required: false
+    - id: 9
+      name: present_count
+      label: Present Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: absent_count
+      label: Absent Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: late_count
+      label: Late Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: excused_count
+      label: Excused Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

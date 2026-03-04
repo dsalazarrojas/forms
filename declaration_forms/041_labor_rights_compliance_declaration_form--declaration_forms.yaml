@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: labor_rights_compliance_declaration_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Non-active
+      - Terminated
+      - Other (Please specify)
+      required: true
+    - id: 4
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Intern
+      - Other (Please specify)
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: labor_law_version
+      label: Labor Law Version
+      hint: null
+      type: select_one
+      options:
+      - Version 1
+      - Version 2
+      - Version 3
+      required: true
+    - id: 9
+      name: declaration_status
+      label: Declaration Status
+      hint: null
+      type: select_one
+      options:
+      - Declared
+      - Declined
+      - In process
+      required: true
+    - id: 10
+      name: employee_comment
+      label: Employee Comment
+      hint: null
+      type: text
+      options: []
+      required: false

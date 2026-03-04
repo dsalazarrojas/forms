@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Page Break Message
+    pages:
+    - id: 1
+      name: intro_note
+      label: -- Contact Support --
+      hint: Complete the form sections and submit for assistance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Provide your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Best email to receive a response
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_category
+      label: Issue category
+      hint: Select the category of your issue
+      type: select_one
+      options:
+      - Technical
+      - Billing
+      - Account
+      - Other
+      required: true
+    - id: 6
+      name: description
+      label: Issue description
+      hint: Provide a clear description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attachments_note
+      label: Attach files via email if necessary
+      hint: For large logs or screenshots use email
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Would you like a follow up
+      hint: Select yes if you want a response
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should our team contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 10
+      name: additional_details
+      label: Additional details
+      hint: Any other context for your request
+      type: text
+      options: []
+      required: false

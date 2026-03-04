@@ -1,0 +1,69 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Churn Survey
+    pages:
+    - id: 1
+      name: customer_churn_survey_form_data
+      label: Customer Churn Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_churn_reasons_why_didnt_choose
+      label: customer_churn_reasons_why_didnt_choose
+      hint: null
+      type: select_multiple
+      options:
+      - We moved to a competitor
+      - Product quality issue
+      - Service quality issue
+      - Pricing issue
+      - No need for product
+      - Not enough information
+      - Other
+      required: false
+    - id: 3
+      name: customer_churn_reasons_why_left
+      label: customer_churn_reasons_why_left
+      hint: null
+      type: select_multiple
+      options:
+      - Pricing
+      - Product quality
+      - Service quality
+      - Communication issue
+      - No need for product
+      - Other
+      required: false
+    - id: 4
+      name: customer_churn_survey_likely_to_reactivate
+      label: customer_churn_survey_likely_to_reactivate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_churn_survey_likely_to_recommend
+      label: customer_churn_survey_likely_to_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - Very Likely
+      - Not Very Likely
+      - Not Likely
+      required: false

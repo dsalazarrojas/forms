@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permaculture Design Course Registration
+    pages:
+    - id: 1
+      name: permaculture_design_course_registration_form_1
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_session_1
+      label: Course Session
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 6
+      name: payment_method_1
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: payment_amount_1
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes_1
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ask A Question Black Responsive Template
+    pages:
+    - id: 1
+      name: full_name
+      label: Your Full Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will respond to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_optional
+      label: Phone Number
+      hint: Optional - for urgent matters
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What is your question about
+      type: select_one
+      options:
+      - General Counseling
+      - Couples Therapy
+      - Family Counseling
+      - Individual Therapy
+      - Crisis Support
+      - Appointment Scheduling
+      - Billing Question
+      - Other
+      required: true
+    - id: 5
+      name: preferred_counselor
+      label: Preferred Counselor
+      hint: Do you have a preference
+      type: select_one
+      options:
+      - No Preference
+      - Dr. Sarah Johnson
+      - Dr. Michael Chen
+      - Dr. Emily Rodriguez
+      - Dr. James Williams
+      required: false
+    - id: 6
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need assistance
+      type: select_one
+      options:
+      - Emergency - Need Help Today
+      - Urgent - Within 24 Hours
+      - Soon - This Week
+      - Flexible - No Rush
+      required: true
+    - id: 7
+      name: your_question
+      label: Your Question or Message
+      hint: Please describe your question or concern in detail
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: previous_client
+      label: Are You a Previous Client
+      hint: Have you visited our practice before
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 11
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When are you most available
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 5pm
+      - Evening - 5pm to 8pm
+      - Anytime
+      required: false
+    - id: 12
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Optional referral information
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Doctor Referral
+      - Friend or Family
+      - Previous Client
+      - Other
+      required: false
+    - id: 13
+      name: consent_to_contact
+      label: I Consent to Being Contacted
+      hint: By checking yes you allow us to contact you
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

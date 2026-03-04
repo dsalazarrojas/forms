@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: untitled_form
+    pages:
+    - id: 1
+      name: summer_camp_details
+      label: Summer Camp Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_phone
+      label: Email or Phone
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: terms_agreement
+      label: Terms and Agreement
+      hint: null
+      type: select_multiple
+      options: []
+      required: false

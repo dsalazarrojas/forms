@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: estate_planning_client_questionnaire
+    pages:
+    - id: 1
+      name: estate_planning_client_details
+      label: Estate Planning Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: primary_residence
+      label: Primary Residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: spouse_or_partner
+      label: Spouse or Partner
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: children
+      label: Children
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: estate_details
+      label: Estate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assets
+      label: Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: liabilities
+      label: Liabilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assets_overview
+      label: Assets Overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_tolerability
+      label: Risk Tolerability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: estate_planning_goals
+      label: Estate Planning Goals
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: financial_planning_recommendations
+      label: Financial Planning Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: estate_distribution
+      label: Estate Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: tax_status
+      label: Tax Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

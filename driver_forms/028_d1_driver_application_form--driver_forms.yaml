@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: D1_Driver_Application_Form
+    pages:
+    - id: 1
+      name: driver_application
+      label: Driver Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: d1_license
+      label: D1 License Number
+      hint: null
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      - '9012'
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: square_food_bank_donation
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_info
+      label: sponsor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: donation_time
+      label: donation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: donation_value
+      label: donation_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_method
+      label: donation_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''cash'', ''label'': ''cash''}'
+      - '{''value'': ''goods'', ''label'': ''goods''}'
+      - '{''value'': ''services'', ''label'': ''services''}'
+      required: false

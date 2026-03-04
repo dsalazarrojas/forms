@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Swim Lesson Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: swim_level
+      label: Swim Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 6
+      name: lesson_frequency
+      label: Lesson Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once a Week
+      - 2-3 Times a Week
+      - 4-5 Times a Week
+      required: false
+    - id: 7
+      name: lesson_duration
+      label: Lesson Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lesson_time
+      label: Lesson Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: instructor_info
+      label: Instructor Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lesson_dates
+      label: Lesson Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

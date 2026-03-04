@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clone Of Wholesale Account Application
+    pages:
+    - id: 1
+      name: header
+      label: -- Wholesale Account Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Legal trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Full name for account management
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_email
+      label: Business email
+      hint: Email for invoicing and communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: business_phone
+      label: Business phone
+      hint: Main contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: Business address
+      hint: Street address, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resale_certificate
+      label: Resale certificate available
+      hint: Indicate if certificate can be provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: expected_monthly_volume
+      label: Expected monthly volume
+      hint: Estimated order value or units
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms
+      label: Preferred payment terms
+      hint: Choose payment arrangement
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Prepaid
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information for the wholesale team
+      type: text
+      options: []
+      required: false

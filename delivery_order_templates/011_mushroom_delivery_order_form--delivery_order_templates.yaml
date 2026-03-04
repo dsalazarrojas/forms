@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mushroom Delivery Order Form
+    pages:
+    - id: 1
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time_of_day
+      label: Delivery Time of Day
+      hint: null
+      type: select_one
+      options:
+      - 6:00 AM
+      - 12:00 PM
+      - 6:00 PM
+      required: true
+    - id: 6
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 10
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false

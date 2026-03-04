@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Financial Assistance Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date you are submitting this application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed but reduced hours
+      - Unemployed
+      - Self-employed
+      - Gig worker
+      - Freelancer
+      - Other
+      required: true
+    - id: 11
+      name: occupation
+      label: Occupation/Profession
+      hint: What is your primary job?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employer_name
+      label: Employer Name
+      hint: If currently employed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: annual_income_before_covid
+      label: Annual Income Before COVID-19
+      hint: Approximate pre-pandemic income
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: current_monthly_income
+      label: Current Monthly Income
+      hint: Your current income amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: income_reduction_percentage
+      label: Income Reduction Percentage
+      hint: Percentage of income lost due to COVID-19
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: covid_impact_reason
+      label: How has COVID-19 Impacted Your Income?
+      hint: Describe the impact on your work
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: household_size
+      label: Household Size
+      hint: Number of people in your household
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: dependents
+      label: Number of Dependents
+      hint: Children or others you support
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: monthly_expenses
+      label: Monthly Essential Expenses
+      hint: Rent, food, utilities, medications, etc.
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: housing_status
+      label: Housing Status
+      hint: null
+      type: select_one
+      options:
+      - Own home
+      - Renting
+      - Living with family
+      - Homeless or at risk
+      - Other
+      required: true
+    - id: 21
+      name: rent_mortgage
+      label: Monthly Rent or Mortgage Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: savings
+      label: Current Savings Balance
+      hint: Approximate amount in savings
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: debts
+      label: Outstanding Debts
+      hint: Credit cards, loans, medical bills
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: medical_expenses
+      label: COVID-19 Related Medical Expenses
+      hint: Testing, treatment, long-term care costs
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: assistance_received
+      label: Government or Other Assistance Received
+      hint: Unemployment, PPP, stimulus checks, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: assistance_amount
+      label: Total Assistance Received
+      hint: Dollar amount of any assistance
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: assistance_needed
+      label: Amount of Assistance Requested
+      hint: How much financial help do you need?
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: assistance_purpose
+      label: Purpose of Financial Assistance
+      hint: How will you use the funds?
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: hardship_statement
+      label: Statement of Financial Hardship
+      hint: Describe your financial situation
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: employment_recovery_timeline
+      label: Expected Timeline for Income Recovery
+      hint: When do you expect to return to normal income?
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      - Uncertain
+      required: false

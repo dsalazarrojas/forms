@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 2 Vaccination Registration Form
+    pages:
+    - id: 1
+      name: section_registrant_info
+      label: -- Registrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Phase 2 includes adults 65 and older
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_phase_2_criteria
+      label: -- Phase 2 Eligibility Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: age_65_plus
+      label: I am 65 years of age or older
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: phase_2_confirmation
+      label: I confirm I am eligible for Phase 2 vaccination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_medical_background
+      label: -- Medical Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: chronic_conditions
+      label: Do you have chronic health conditions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: condition_list
+      label: List your chronic conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: known_allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vaccine_reaction
+      label: History of severe vaccine reactions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 21
+      name: section_vaccination_status
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: previous_covid_doses
+      label: Previous COVID-19 vaccine doses
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1 dose
+      - 2 doses
+      - 3+ doses
+      required: true
+    - id: 23
+      name: section_consent
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: understand_vaccine_info
+      label: I have received and understand vaccine information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: consent_vaccine
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

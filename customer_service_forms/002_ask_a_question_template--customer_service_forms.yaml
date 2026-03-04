@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ask A Question Template
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will respond to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject of Your Question
+      hint: Brief summary of your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What is your question about?
+      type: select_one
+      options:
+      - General Information
+      - Product Support
+      - Service Issue
+      - Billing Question
+      - Feedback
+      - Other
+      required: true
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is your question?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 8
+      name: question_details
+      label: Detailed Description of Your Question
+      hint: Please provide as much detail as possible
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_account_number
+      label: Customer Account Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_reference
+      label: Order or Reference Number
+      hint: Related order or ticket number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we respond?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No Preference
+      required: true
+    - id: 12
+      name: best_contact_time
+      label: Best Time to Contact You
+      hint: When are you available?
+      type: select_one
+      options:
+      - Morning 8am - 12pm
+      - Afternoon 12pm - 5pm
+      - Evening 5pm - 8pm
+      - Anytime
+      required: false
+    - id: 13
+      name: attachments_needed
+      label: Do you need to attach a file?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: product_category
+      label: Product or Service Category
+      hint: What product/service does this relate to?
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      - Service A
+      - Service B
+      - Not Applicable
+      required: false
+    - id: 15
+      name: customer_type
+      label: Customer Type
+      hint: Are you a new or existing customer?
+      type: select_one
+      options:
+      - New Customer
+      - Existing Customer
+      - Prospective Customer
+      required: true
+    - id: 16
+      name: consent_communication
+      label: May we contact you regarding this inquiry?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: newsletter_signup
+      label: Would you like to receive our newsletter?
+      hint: Optional
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: question_submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

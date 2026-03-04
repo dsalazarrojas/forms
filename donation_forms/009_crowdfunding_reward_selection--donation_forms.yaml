@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdfunding Reward Selection
+    pages:
+    - id: 1
+      name: reward_details
+      label: Backer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reward_tier
+      label: Reward Tier
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Default''}'
+      - '{''id'': 2, ''name'': ''Custom''}'
+      required: false
+    - id: 4
+      name: shipping
+      label: Shipping
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3, ''name'': ''Other''}'
+      - Other
+      required: false
+    - id: 5
+      name: backer_email
+      label: E Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: backer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false

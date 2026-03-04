@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Case Investigation Form
+    pages:
+    - id: 1
+      name: case_id
+      label: Case ID Number
+      hint: Unique identifier for this case
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date case was reported
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Decline to answer
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Patient contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When did symptoms first appear?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: test_date
+      label: COVID-19 Test Date
+      hint: When was the patient tested?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Pending
+      - Not tested
+      required: true
+    - id: 16
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - Rapid Antigen
+      - PCR
+      - Antibody
+      - Other
+      - Unknown
+      required: false
+    - id: 17
+      name: symptoms_reported
+      label: Symptoms Reported
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Loss of taste
+      - Loss of smell
+      - Fatigue
+      - Headache
+      - Sore throat
+      - Body aches
+      - Nausea
+      - Diarrhea
+      - Asymptomatic
+      required: false
+    - id: 18
+      name: hospitalization_status
+      label: Hospitalization Status
+      hint: null
+      type: select_one
+      options:
+      - Not hospitalized"
+      - Hospitalized
+      - ICU
+      - Discharged
+      - Deceased
+      required: true
+    - id: 19
+      name: hospitalization_date
+      label: Hospitalization Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: underlying_conditions
+      label: Underlying Health Conditions
+      hint: Pre-existing conditions that increase severity risk
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Unknown
+      required: true
+    - id: 22
+      name: vaccination_date
+      label: Last Vaccination Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: close_contacts
+      label: Number of Close Contacts
+      hint: People exposed to this patient
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: exposure_settings
+      label: Likely Exposure Setting
+      hint: Where did patient likely contract COVID?
+      type: select_one
+      options:
+      - Household
+      - Workplace
+      - School
+      - Healthcare facility
+      - Community event
+      - Travel
+      - Unknown
+      - Other
+      required: false
+    - id: 25
+      name: investigation_notes
+      label: Investigation Notes
+      hint: Additional details about the case
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: investigator_name
+      label: Investigator Name
+      hint: Person conducting the investigation
+      type: text
+      options: []
+      required: true

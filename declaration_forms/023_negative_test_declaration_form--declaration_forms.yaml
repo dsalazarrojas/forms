@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Negative Test Declaration Form
+    pages:
+    - id: 1
+      name: passenger_info
+      label: passenger_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_results
+      label: test_results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: test_type
+      label: test_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: passenger_count
+      label: passenger_count
+      hint: null
+      type: number
+      options: []
+      required: false

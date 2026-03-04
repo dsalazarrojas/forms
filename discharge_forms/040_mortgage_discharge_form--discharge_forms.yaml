@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Discharge Form
+    pages:
+    - id: 1
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mortgage_details
+      label: Mortgage Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: mortgage_holder
+      label: Mortgage Holder
+      hint: null
+      type: select_one
+      options:
+      - Mortgage Holder 1
+      - Mortgage Holder 2
+      - Mortgage Holder 3
+      required: false
+    - id: 6
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: balance
+      label: Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false
+    - id: 9
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Smith
+      required: false
+    - id: 10
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Mortgage Discharge
+      - Refinance
+      - Sale of Property
+      required: false

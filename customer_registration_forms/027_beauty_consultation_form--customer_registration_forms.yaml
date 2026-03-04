@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Consultation Form
+    pages:
+    - id: 1
+      name: personal_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Preferred Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: consultation_header
+      label: -- Consultation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: consultation_type
+      label: Consultation Type
+      hint: null
+      type: select_one
+      options:
+      - Makeup
+      - Hair Care
+      - Skincare
+      - Nail Care
+      - General Beauty
+      - Multiple Services
+      required: true
+    - id: 9
+      name: main_concerns
+      label: Main Beauty Concerns
+      hint: What are your primary concerns
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Normal
+      - Oily
+      - Combination
+      - Sensitive
+      required: true
+    - id: 11
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Not Applicable
+      required: false
+    - id: 12
+      name: goals_header
+      label: -- Beauty Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: beauty_goals
+      label: What Are Your Beauty Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: lifestyle
+      label: Lifestyle and Maintenance Commitment
+      hint: How much time are you willing to invest in maintenance
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: budget_header
+      label: -- Budget and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Budget-friendly
+      - Moderate
+      - Premium
+      - No Budget Limit
+      required: false
+    - id: 17
+      name: product_preferences
+      label: Product Preferences
+      hint: Natural, organic, drugstore, luxury, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary or Lifestyle Restrictions
+      hint: Vegan, cruelty-free, hypoallergenic, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lifestyle_header
+      label: -- Lifestyle Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: work_lifestyle
+      label: Work and Daily Lifestyle
+      hint: Describe your typical day and activities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: climate_environment
+      label: Climate and Living Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_info_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: previous_professional_services
+      label: Previous Professional Beauty Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: specific_requests
+      label: Specific Requests or Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: questions
+      label: Questions for the Consultant
+      hint: null
+      type: text
+      options: []
+      required: false

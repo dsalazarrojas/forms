@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Authorization Form CPESN Pharmacy
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: race
+      label: Race
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Other Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: ethnicity
+      label: Ethnicity
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Member ID
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_group_number
+      label: Group Number
+      hint: Group ID
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pharmacy_location
+      label: Preferred CPESN Pharmacy Location
+      hint: Where to test
+      type: select_one
+      options:
+      - Main street pharmacy
+      - Downtown location
+      - Westside pharmacy
+      - Eastside pharmacy
+      - Any CPESN location
+      required: true
+    - id: 18
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When to test
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Time preference
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: reason_for_testing
+      label: Reason for Testing
+      hint: Why getting tested
+      type: select_one
+      options:
+      - Symptomatic
+      - Close contact exposure
+      - Work requirement
+      - Travel requirement
+      - Personal request
+      - Healthcare provider order
+      required: true
+    - id: 21
+      name: current_symptoms
+      label: Are you currently experiencing any symptoms
+      hint: Symptom status
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 22
+      name: vaccination_status
+      label: What is your COVID-19 vaccination status
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 23
+      name: testing_consent
+      label: I consent to COVID-19 testing at this CPESN pharmacy
+      hint: Testing consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 24
+      name: results_delivery_consent
+      label: I consent to receive my test results via phone, email, or text
+      hint: Results delivery consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 25
+      name: data_sharing_consent
+      label: I consent to my test results being shared with public health authorities
+        as required by law
+      hint: Data sharing consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 26
+      name: hipaa_acknowledgment
+      label: I acknowledge receipt of the HIPAA Privacy Notice
+      hint: HIPAA acknowledgment
+      type: select_one
+      options:
+      - Yes acknowledged
+      - No not received
+      required: true
+    - id: 27
+      name: financial_responsibility
+      label: I understand I am financially responsible for any charges not covered
+        by insurance
+      hint: Financial agreement
+      type: select_one
+      options:
+      - Yes I understand and agree
+      - No I do not agree
+      required: true
+    - id: 28
+      name: terms_and_conditions
+      label: I have read and agree to the terms and conditions for COVID-19 testing
+      hint: Terms agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 29
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: witness_signature_date
+      label: Witness Date
+      hint: Date witnessed
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Purchase Order Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_details
+      label: Item Details
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 4
+      name: item_number
+      label: Item Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

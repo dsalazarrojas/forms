@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Shipping Eligibility Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: ContactMethod
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email_address
+      label: EmailAddress
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: ShippingAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: free_shipping
+      label: FreeShipping
+      hint: Is this order eligible for free shipping?
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: AdditionalComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_last_purchase
+      label: DateOfLastPurchase
+      hint: Date of last purchase?
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_last_purchase
+      label: TimeOfLastPurchase
+      hint: Time of last purchase?
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: customer_id
+      label: CustomerID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_id
+      label: OrderID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_orders
+      label: TotalOrders
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_purchases
+      label: TotalPurchases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: purchase_value
+      label: PurchaseValue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_service
+      label: CustomerService
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_service_type
+      label: CustomerServiceType
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_service_level
+      label: CustomerServiceLevel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_type
+      label: CustomerType
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_type_other
+      label: CustomerTypeOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_type_other_value
+      label: CustomerTypeOtherValue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_value
+      label: OrderValue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: purchase_value_over
+      label: PurchaseValueOver
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: purchase_value_under
+      label: PurchaseValueUnder
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: purchase_value_equal
+      label: PurchaseValueEqual
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: purchase_value_between
+      label: PurchaseValueBetween
+      hint: null
+      type: number
+      options: []
+      required: false

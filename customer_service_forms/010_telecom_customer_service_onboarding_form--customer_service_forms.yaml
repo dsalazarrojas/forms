@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Customer Service Onboarding Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_preferences
+      label: Service Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: installation_requests
+      label: Installation Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number2
+      label: Alternate Phone Number (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: email2
+      label: Alternate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: service_preference
+      label: Service Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Business
+      - Mobile
+      required: true
+    - id: 11
+      name: service_pricing
+      label: Service Pricing
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      required: true
+    - id: 12
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

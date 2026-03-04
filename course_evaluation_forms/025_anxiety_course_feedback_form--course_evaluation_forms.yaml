@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anxiety Course Feedback Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_title
+      label: Course Name
+      hint: null
+      type: select_one
+      options:
+      - Anxiety Fundamentals
+      - Coping Strategies Workshop
+      - Mindfulness for Stress
+      - Cognitive Behavioral Basics
+      required: true
+    - id: 3
+      name: course_date
+      label: Course Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: content_clarity
+      label: Ease of Understanding Course Material
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: strategy_usefulness
+      label: Usefulness of Coping Strategies Taught
+      hint: null
+      type: select_one
+      options:
+      - Highly Useful
+      - Useful
+      - Neutral
+      - Not Useful
+      required: true
+    - id: 6
+      name: instructor_empathy
+      label: Instructor - s Empathy and Approachability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: instructor_knowledge
+      label: Instructor - s Knowledge of the Subject
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Average
+      - Lacking
+      required: true
+    - id: 8
+      name: resource_quality
+      label: Quality of Provided Course Resources (PDFs, Videos)
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: true
+    - id: 9
+      name: personal_progress
+      label: Personal Progress Since Starting the Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: most_valuable_takeaway
+      label: Most Valuable Takeaway
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: course_recommendation
+      label: Likelihood to Recommend this Course
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: future_topics
+      label: Topics You Would Like to See in Future Courses
+      hint: null
+      type: text
+      options: []
+      required: false

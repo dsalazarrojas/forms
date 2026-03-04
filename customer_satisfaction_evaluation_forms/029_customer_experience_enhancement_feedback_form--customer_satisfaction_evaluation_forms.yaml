@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_experience_enhancement_feedback_form
+    pages:
+    - id: 1
+      name: customer_experience
+      label: How do you feel about our customer service?
+      hint: null
+      type: select_multiple
+      options:
+      - Terrible
+      - Bad
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 2
+      name: service_quality
+      label: How would you rate the quality of our service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_quality
+      label: How would you rate the quality of our product or service?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 4
+      name: feedback
+      label: What can we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

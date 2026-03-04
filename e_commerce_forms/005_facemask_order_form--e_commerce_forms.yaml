@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facemask Order Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_instructions
+      label: Payment Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - PayPal
+      - Other
+      required: true
+    - id: 5
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_instructions
+      label: Payment Instructions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_multiple
+      options:
+      - Pickup
+      - Delivery
+      - Shipping
+      required: true
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: true

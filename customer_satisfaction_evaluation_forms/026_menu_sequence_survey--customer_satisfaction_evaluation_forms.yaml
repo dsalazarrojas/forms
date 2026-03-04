@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Sequence Survey
+    pages:
+    - id: 1
+      name: menu_sequence_survey_1
+      label: menu_sequence_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: menu_sequence_survey_2
+      label: preferred_sequence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: menu_sequence_survey_3
+      label: menu_item
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 4
+      name: menu_sequence_survey_4
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: menu_sequence_survey_5
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: menu_sequence_survey_6
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: menu_sequence_survey_7
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: menu_sequence_survey_8
+      label: customer_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: menu_sequence_survey_9
+      label: customer_satisfaction_rating
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: menu_sequence_survey_10
+      label: customer_comments
+      hint: null
+      type: note
+      options: []
+      required: false

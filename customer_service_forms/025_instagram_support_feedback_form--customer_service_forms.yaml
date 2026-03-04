@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instagram Support Feedback Form
+    pages:
+    - id: 1
+      name: user_email
+      label: user email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_message
+      label: user_message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: product_issue_type
+      label: product_issue_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: product_issue_description
+      label: product_issue_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: product_issue_category
+      label: product_issue_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: support_request_description
+      label: support_request_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_satisfaction
+      label: user_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

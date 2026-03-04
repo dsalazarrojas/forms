@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pre Visit Screening Questionnaire
+    pages:
+    - id: 1
+      name: section_visitor_info
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: Scheduled Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_screening_questions
+      label: -- Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fever
+      label: Do you have a fever or chills?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: cough
+      label: Do you have a cough?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: shortness_breath
+      label: Do you have shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: sore_throat
+      label: Do you have a sore throat?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: taste_smell
+      label: Have you lost your sense of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: body_aches
+      label: Do you have body aches?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 14
+      name: section_exposure_history
+      label: -- Exposure History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: covid_positive
+      label: Have you tested positive for COVID-19 in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: close_contact
+      label: Have you had close contact with someone positive for COVID-19?
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 17
+      name: quarantine
+      label: Have you been under quarantine?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Currently
+      required: true
+    - id: 18
+      name: section_attestation
+      label: -- Visitor Attestation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: truthful_answers
+      label: I certify that my answers are truthful and accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: understand_policies
+      label: I understand and will follow facility COVID-19 policies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: authorized_visit
+      label: I am authorized for this visit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: screening_date
+      label: Screening Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

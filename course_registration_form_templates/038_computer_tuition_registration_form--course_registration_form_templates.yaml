@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Tuition Registration Form
+    pages:
+    - id: 1
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Student birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Student email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 13
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If student is under 18
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_guardian_contact
+      label: Parent or Guardian Contact
+      hint: Parent or guardian phone number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_name
+      label: School Name
+      hint: Current school if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: grade_level
+      label: Grade Level
+      hint: Current grade or year
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tuition_program
+      label: Tuition Program
+      hint: Select program to enroll in
+      type: select_one
+      options:
+      - Basic Computer Skills
+      - Programming Fundamentals
+      - Web Development
+      - Data Science Intro
+      - Cybersecurity Basics
+      - Game Development
+      - Mobile App Development
+      - IT Fundamentals
+      - Advanced Programming
+      - Other
+      required: true
+    - id: 18
+      name: program_duration
+      label: Program Duration
+      hint: Select program length
+      type: select_one
+      options:
+      - 4 Weeks
+      - 8 Weeks
+      - 12 Weeks
+      - 16 Weeks
+      - 6 Months
+      - 1 Year
+      required: true
+    - id: 19
+      name: class_schedule
+      label: Class Schedule
+      hint: Select preferred schedule
+      type: select_one
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekends
+      - Flexible
+      required: true
+    - id: 20
+      name: learning_mode
+      label: Learning Mode
+      hint: Select learning mode
+      type: select_one
+      options:
+      - In Person
+      - Online Live
+      - Online Recorded
+      - Hybrid
+      required: true
+    - id: 21
+      name: prior_experience
+      label: Prior Computer Experience
+      hint: Select your experience level
+      type: select_one
+      options:
+      - None
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 22
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: tuition_fee
+      label: Tuition Fee
+      hint: Total tuition amount
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_plan
+      label: Payment Plan
+      hint: Select payment plan
+      type: select_one
+      options:
+      - Full Payment
+      - 2 Installments
+      - 4 Installments
+      - Monthly Plan
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Student Loan
+      - Scholarship
+      required: true
+    - id: 26
+      name: scholarship_application
+      label: Scholarship Application
+      hint: Are you applying for scholarship
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 27
+      name: start_date
+      label: Start Date
+      hint: Preferred start date
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 29
+      name: registration_status
+      label: Registration Status
+      hint: Current status
+      type: select_one
+      options:
+      - Submitted
+      - Payment Pending
+      - Enrolled
+      - Waitlisted
+      - Cancelled
+      required: true

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: JumpStart Personal Training Assessment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_health_goals
+      label: Client Health Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: client_work_out_goals
+      label: Client Work Out Goals
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: physical_condition
+      label: Physical Condition
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: exercise_preferences
+      label: Exercise Preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_goals_other
+      label: Training Goals Other
+      hint: null
+      type: text
+      options: []
+      required: false

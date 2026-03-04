@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Inquiry Form
+    pages:
+    - id: 1
+      name: dance_class_inquiry_form_class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dance_class_inquiry_form_instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dance_class_inquiry_form_inquiry_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: dance_class_inquiry_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: dance_class_inquiry_form_days
+      label: Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 6
+      name: dance_class_inquiry_form_level
+      label: Level
+      hint: null
+      type: select_multiple
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 7
+      name: dance_class_inquiry_form_inquiry_message
+      label: Inquiry Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dance_class_inquiry_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: dance_class_inquiry_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

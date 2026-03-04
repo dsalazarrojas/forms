@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Declaration Form
+    pages:
+    - id: 1
+      name: traveler_info
+      label: Traveler Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: Current Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - COVID-19 symptom free
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Loss of smell and taste
+      required: true
+    - id: 4
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_certificates
+      label: Medical Certificates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_purpose
+      label: Travel Purpose
+      hint: Please provide the purpose of your travel
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_duration
+      label: Travel Duration
+      hint: Please provide the number of days you will stay
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Work
+      - Leisure
+      - Business
+      - Others
+      required: true
+    - id: 14
+      name: health_certificates
+      label: Health Certificates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_documents_issued_by
+      label: Travel Documents Issued By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_documents_issued_date
+      label: Travel Documents Issued Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: travel_returning_date
+      label: Returning Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: travel_returning_time
+      label: Returning Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: travel_returning_mode
+      label: Returning Mode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_returning_vehicle
+      label: Returning Vehicle
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bus
+      - Train
+      - Other
+      required: true
+    - id: 24
+      name: travel_returning_location
+      label: Returning Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

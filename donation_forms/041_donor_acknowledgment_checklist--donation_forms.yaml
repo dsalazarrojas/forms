@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Acknowledgment Checklist
+    pages:
+    - id: 1
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: acknowledgment_date
+      label: Acknowledgment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: thank_you_sent
+      label: Thank-you Sent
+      hint: null
+      type: select_one
+      options:
+      - Thank You
+      - Sent
+      - No Response
+      required: false
+    - id: 6
+      name: follow_up_sent
+      label: Follow-up Sent
+      hint: null
+      type: select_multiple
+      options:
+      - Follow Up
+      - Sent
+      - No Response
+      required: false

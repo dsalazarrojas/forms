@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shirt_section
+      label: -- Shirt Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: shirt_size
+      label: T-Shirt Size
+      hint: Select your size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 12
+      name: shirt_color
+      label: Color
+      hint: Choose preferred color
+      type: select_one
+      options:
+      - Black
+      - Navy Blue
+      - White
+      - Red
+      - Gray
+      required: true
+    - id: 13
+      name: team_name
+      label: Team Name
+      hint: Optional - for custom printing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: Number of shirts
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: add_number
+      label: Add Player Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: player_number
+      label: Player Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 19
+      name: billing_same
+      label: Billing Address Same as Shipping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: terms_accepted
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: order_notes
+      label: Special Instructions
+      hint: Any special requests for your order
+      type: text
+      options: []
+      required: false

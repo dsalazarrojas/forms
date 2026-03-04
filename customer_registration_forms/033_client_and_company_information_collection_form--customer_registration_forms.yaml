@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client And Company Information Collection Form
+    pages:
+    - id: 1
+      name: contact_header
+      label: -- Primary Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_legal_name
+      label: Company Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: https://www.example.com
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: industry_sector
+      label: Industry / Sector
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Finance/Banking
+      - Healthcare
+      - Retail/E-commerce
+      - Manufacturing
+      - Education
+      - Other
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size (Employees)
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: true
+    - id: 11
+      name: business_address_line1
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state_province
+      label: State / Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_postal_code
+      label: ZIP / Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: tax_id_header
+      label: -- Tax and Financial --
+      hint: Optional for initial intake
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tax_id_number
+      label: Tax ID / VAT Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accounts_payable_email
+      label: Accounts Payable Email
+      hint: For invoicing purposes
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_footer
+      label: -- Information Verified --
+      hint: Please ensure all data is accurate before submitting.
+      type: note
+      options: []
+      required: false

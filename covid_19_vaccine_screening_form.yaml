@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Screening Form
+    pages:
+    - id: 1
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: Please list all symptoms experienced
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition
+      label: Medical Condition
+      hint: Please indicate any medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please list emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 16
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: medical_release
+      label: Medical Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: signature_time
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

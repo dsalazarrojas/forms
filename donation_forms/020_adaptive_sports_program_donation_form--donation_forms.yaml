@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Sports Program Donation Form
+    pages:
+    - id: 1
+      name: donor_information
+      label: Donor information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor name
+      hint: Full name for receipt purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For tax receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: Donation amount
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: program_designation
+      label: Program designation
+      hint: Which program or team to support
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recurring_option
+      label: Recurring gift option
+      hint: Choose frequency if recurring
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 7
+      name: tribute_information
+      label: Tribute or memorial gift information
+      hint: Enter honoree name and message
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recognition_preference
+      label: Recognition preference
+      hint: How would you like to be acknowledged
+      type: select_one
+      options:
+      - Publicly
+      - Anonymous
+      - Do not publish
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Online payment details
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 10
+      name: additional_message
+      label: Additional message to program
+      hint: Optional message to recipients
+      type: text
+      options: []
+      required: false

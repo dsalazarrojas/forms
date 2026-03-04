@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Safety Declaration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: license_class
+      label: License Class
+      hint: null
+      type: select_one
+      options:
+      - Class 1
+      - Class 2
+      - Class 3
+      - Class 4
+      required: true
+    - id: 7
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accident_history
+      label: Accident History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

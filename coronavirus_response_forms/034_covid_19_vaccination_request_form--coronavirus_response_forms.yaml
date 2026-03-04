@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Vaccination Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vaccination_type
+      label: Vaccination type
+      hint: null
+      type: select_one
+      options:
+      - Dose 1
+      - Dose 2
+      - Dose 3
+      required: false
+    - id: 7
+      name: vaccination_date
+      label: Vaccination date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vaccination_time
+      label: Vaccination time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_dose
+      label: Vaccination dose
+      hint: null
+      type: select_multiple
+      options:
+      - Dose 1
+      - Dose 2
+      - Dose 3
+      required: false
+    - id: 10
+      name: reason_for_vaccination
+      label: Reason for vaccination
+      hint: null
+      type: text
+      options: []
+      required: false

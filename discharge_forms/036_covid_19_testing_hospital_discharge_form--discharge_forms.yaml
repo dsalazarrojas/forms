@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Hospital Discharge Form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: Date of discharge
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: discharge_time
+      label: Discharge Time
+      hint: Time of discharge
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: Hospital ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: admission_date
+      label: Admission Date
+      hint: When admitted
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: admission_reason
+      label: Reason for Admission
+      hint: Why admitted
+      type: select_one
+      options:
+      - COVID-19 infection
+      - COVID-19 complications
+      - Respiratory distress
+      - Pneumonia
+      - Other medical condition
+      - Observation
+      required: true
+    - id: 16
+      name: covid_test_date
+      label: COVID-19 Test Date
+      hint: When tested
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: covid_test_result
+      label: COVID-19 Test Result
+      hint: Test outcome
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Presumptive positive
+      required: true
+    - id: 18
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: Vaccine status
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Unknown
+      required: true
+    - id: 19
+      name: vaccine_date
+      label: Most Recent Vaccine Date
+      hint: If vaccinated
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: discharge_condition
+      label: Condition at Discharge
+      hint: Health status
+      type: select_one
+      options:
+      - Stable
+      - Improved
+      - Recovered
+      - Requires ongoing care
+      required: true
+    - id: 21
+      name: discharge_instructions
+      label: Discharge Instructions Given
+      hint: Instructions provided
+      type: select_multiple
+      options:
+      - Medication instructions
+      - Isolation guidelines
+      - Symptom monitoring
+      - Follow-up appointments
+      - Emergency warning signs
+      - Activity restrictions
+      - Diet recommendations
+      - Wound care instructions
+      required: true
+    - id: 22
+      name: isolation_instructions
+      label: Isolation Instructions
+      hint: Home isolation guidance
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medications_prescribed
+      label: Medications Prescribed at Discharge
+      hint: List of medications
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: follow_up_appointment_date
+      label: Follow-up Appointment Date
+      hint: Next appointment
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_provider_name
+      label: Follow-up Provider Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: follow_up_provider_phone
+      label: Follow-up Provider Phone
+      hint: Office number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: home_care_support
+      label: Will you have support at home
+      hint: Caregiver availability
+      type: select_one
+      options:
+      - Yes full-time support
+      - Yes part-time support
+      - No living alone
+      - No support available
+      required: true
+    - id: 30
+      name: transportation_home
+      label: How are you getting home
+      hint: Transportation method
+      type: select_one
+      options:
+      - Private vehicle
+      - Family or friend pickup
+      - Medical transport
+      - Ride share service
+      - Other
+      required: true
+    - id: 31
+      name: warning_signs_reviewed
+      label: Have emergency warning signs been reviewed
+      hint: Warning signs acknowledgment
+      type: select_one
+      options:
+      - Yes understood
+      - No not reviewed
+      required: true
+    - id: 32
+      name: patient_understanding
+      label: Do you understand all discharge instructions
+      hint: Comprehension check
+      type: select_one
+      options:
+      - Yes I understand
+      - Partially I have questions
+      - No I need clarification
+      required: true
+    - id: 33
+      name: patient_signature_date
+      label: Patient Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: discharge_provider_name
+      label: Discharging Provider Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: discharge_provider_signature_date
+      label: Provider Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

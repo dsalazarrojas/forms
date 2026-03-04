@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Application Submissions
+    pages:
+    - id: 1
+      name: submission_date
+      label: Application Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pet_interest
+      label: Pet You Are Interested In
+      hint: Name or ID of the animal
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pet_type
+      label: Type of Pet
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Reptile
+      - Other
+      required: true
+    - id: 8
+      name: household_composition
+      label: Household Composition
+      hint: Number of adults and children
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: children_ages
+      label: Ages of Children in Household
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_pets
+      label: Other Pets in Household
+      hint: Describe any current pets
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: housing_type
+      label: Housing Type
+      hint: null
+      type: select_one
+      options:
+      - House with yard
+      - House without yard
+      - Apartment
+      - Condo
+      - Other
+      required: true
+    - id: 12
+      name: landlord_approval
+      label: Landlord approval (if renting)
+      hint: null
+      type: select_one
+      options:
+      - Not applicable - own
+      - Yes, approved
+      - In progress
+      - Need to request
+      required: true
+    - id: 13
+      name: previous_pet_experience
+      label: Previous pet ownership experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: veterinary_reference
+      label: Veterinarian Name and Phone
+      hint: For reference purposes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: personal_reference
+      label: Personal Reference Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: financial_responsibility
+      label: Can you afford veterinary care?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, most of the time
+      - Maybe
+      - false
+      required: true
+    - id: 17
+      name: reasons_adoption
+      label: Why do you want to adopt a pet?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: commitment_level
+      label: How long do you commit to caring for this pet?
+      hint: null
+      type: select_one
+      options:
+      - Lifetime
+      - Many years
+      - Several years
+      - At least a few years
+      - Unsure
+      required: true
+    - id: 19
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Submitted
+      - Under review
+      - Approved
+      - Pending interview
+      - Denied
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: Staff notes on application
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSR Charity Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor name
+      hint: Name of donor or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor email
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation amount
+      hint: Enter numeric value in local currency
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_type
+      label: Donation type
+      hint: One time or recurring
+      type: select_one
+      options:
+      - One time
+      - Monthly recurring
+      - Annual recurring
+      required: true
+    - id: 5
+      name: designation
+      label: Designation or campaign
+      hint: If giving to a specific program
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: anonymous_donation
+      label: Donate anonymously
+      hint: Choose whether to remain anonymous
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: receipt_needed
+      label: Would you like a tax receipt
+      hint: Select yes to receive a receipt
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: message
+      label: Message to recipient
+      hint: Optional note to the charity
+      type: text
+      options: []
+      required: false

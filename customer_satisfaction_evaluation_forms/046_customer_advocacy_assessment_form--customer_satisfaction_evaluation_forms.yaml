@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Advocacy Assessment Form
+    pages:
+    - id: 1
+      name: customer_satisfaction_question
+      label: What do you think about our customer service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction_score
+      label: Please rate our customer service
+      hint: Scale from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: have_been_helped_by_our_customer_success_team
+      label: Have you been helped by our Customer Success team?
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 4
+      name: customer_relationship_status
+      label: What is your current status with our company?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: customer_satisfaction_loyalty
+      label: How do you feel about our company overall?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_satisfaction_loyalty_scale
+      label: On a scale from 1 to 5
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      - Label 4
+      - Label 5
+      required: false
+    - id: 7
+      name: customer_satisfaction_loyalty_score
+      label: Please rate our company overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_awareness_about_our_company
+      label: How would you rate our company's awareness?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: customer_trust_about_our_company
+      label: How would you rate our company's trustworthiness?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: customer_satisfaction_with_services
+      label: Please rate your satisfaction with our services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_satisfaction_with_products
+      label: What do you think about our products?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: customer_satisfaction_with_experience
+      label: What do you think about our experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: customer_satisfaction_with_communications
+      label: What do you think about our communications?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: customer_loyalty_status
+      label: What is your current status with our loyalty program?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: customer_satisfaction_loyalty_score_out_of_5
+      label: How would you rate your loyalty to us out of 5?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_satisfaction_loyalty_score_out_of_5_scale
+      label: On a scale from 1 to 5
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 17
+      name: customer_satisfaction_loyalty_score_out_of_5_scale_value
+      label: Please rate your loyalty to us out of 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: customer_satisfaction_loyalty_score_out_of_5
+      label: What is your estimated loyalty score out of 5?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 19
+      name: customer_awareness_about_our_company_scale
+      label: On a scale from 1 to 5
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 20
+      name: customer_awareness_about_our_company_value
+      label: Please rate your awareness about our company on this scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_trust_about_our_company_scale
+      label: On a scale from 1 to 5
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 22
+      name: customer_trust_about_our_company_value
+      label: Please rate your trust about our company on this scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: customer_loyalty_program_participation
+      label: Have you ever participated in any of our loyalty programs?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 24
+      name: customer_loyalty_program_participation_ever
+      label: When was the last time you participated in our loyalty program?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: customer_loyalty_program_participation_frequency
+      label: How often have you participated in our loyalty program?
+      hint: null
+      type: time
+      options: []
+      required: false

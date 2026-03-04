@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apology Feedback Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: customer_id
+        label: Customer ID or account number
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: issue_date
+        label: Date of incident that prompted apology
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: issue_type
+        label: Type of issue experienced
+        hint: null
+        type: select_one
+        options:
+          - Product quality
+          - Service failure
+          - Communication issue
+          - Billing or payment problem
+          - Delivery delay
+          - Customer service mistake
+          - Other
+        required: true
+      - id: 7
+        name: issue_severity
+        label: Severity of the issue
+        hint: null
+        type: select_one
+        options:
+          - Minor inconvenience
+          - Moderate impact
+          - Significant impact
+          - Severe impact
+        required: true
+      - id: 8
+        name: apology_received
+        label: Did you receive an apology for this issue?
+        hint: null
+        type: select_one
+        options:
+          - Yes, in person
+          - Yes, by phone
+          - Yes, by email
+          - Yes, other method
+          - No, did not receive apology
+        required: true
+      - id: 9
+        name: apology_timeliness
+        label: How timely was the apology?
+        hint: null
+        type: select_one
+        options:
+          - Immediate
+          - Within 24 hours
+          - Within 3-5 days
+          - Within a week
+          - Delayed
+        required: true
+      - id: 10
+        name: apology_sincerity
+        label: How sincere did the apology feel?
+        hint: null
+        type: select_one
+        options:
+          - Very sincere
+          - Sincere
+          - Somewhat sincere
+          - Not sincere
+          - No apology given
+        required: true
+      - id: 11
+        name: apology_adequacy
+        label: Was the apology adequate for the situation?
+        hint: null
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Barely adequate
+          - Inadequate
+          - No apology given
+        required: true
+      - id: 12
+        name: resolution_offered
+        label: Was a resolution or compensation offered?
+        hint: null
+        type: select_one
+        options:
+          - Yes, fair solution
+          - Yes, generous solution
+          - Yes, but insufficient
+          - No resolution offered
+        required: true
+      - id: 13
+        name: resolution_accepted
+        label: Did you accept the resolution?
+        hint: null
+        type: select_one
+        options:
+          - Yes, satisfied
+          - Yes, but reluctantly
+          - No, did not accept
+          - N/A - no resolution offered
+        required: true
+      - id: 14
+        name: action_taken
+        label: What action was taken to prevent recurrence?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: trust_restoration
+        label: Has this apology restored your trust?
+        hint: null
+        type: select_one
+        options:
+          - Yes, fully restored
+          - Partially restored
+          - Somewhat restored
+          - Not restored
+        required: true
+      - id: 16
+        name: future_business
+        label: Will you continue doing business with us?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Probably
+          - Unsure
+          - Probably not
+          - No
+        required: true
+      - id: 17
+        name: likelihood_recommend
+        label: Likelihood to recommend us to others
+        hint: null
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 18
+        name: communication_feedback
+        label: Feedback on our communication
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: improvement_suggestions
+        label: Suggestions for improvement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: overall_satisfaction
+        label: Overall satisfaction with resolution
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bug Tracker Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Date Submitted
+      hint: When are you submitting this report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: issue_title
+      label: Issue Title
+      hint: One-line summary of the bug
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: Detailed explanation of what went wrong
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: browser_used
+      label: Browser Used
+      hint: What browser were you using
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Opera
+      - Other
+      required: true
+    - id: 5
+      name: browser_version_info
+      label: Browser Version
+      hint: Version number of your browser
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: operating_system_used
+      label: Operating System
+      hint: What OS do you run
+      type: select_one
+      options:
+      - Windows 10
+      - Windows 11
+      - macOS
+      - Linux
+      - iOS
+      - Android
+      required: true
+    - id: 7
+      name: urgency_level
+      label: How Urgent Is This Issue
+      hint: Priority level for resolution
+      type: select_one
+      options:
+      - Blocking - Cannot work
+      - High - Significant impact
+      - Medium - Minor impact
+      - Low - Nice to fix
+      required: true
+    - id: 8
+      name: reproduction_steps
+      label: Steps to Reproduce
+      hint: Exact steps to trigger the bug
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_result
+      label: Expected Result
+      hint: What should happen
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: actual_result
+      label: Actual Result
+      hint: What actually happened
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: frequency
+      label: How Often Does This Occur
+      hint: Does it happen consistently
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 12
+      name: submitter_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_email
+      label: Email Address
+      hint: For support team follow-up
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: submitter_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_id
+      label: Your Account ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: screenshot_attached
+      label: Screenshot or Logs Attached
+      hint: Do you have evidence
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

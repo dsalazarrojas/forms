@@ -1,0 +1,324 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Employee Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Work department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: work_location
+      label: Work Location
+      hint: Office or site
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Manager name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Manager email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: employee_phone
+      label: Employee Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: employee_email
+      label: Employee Email
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: work_email_alternate
+      label: Alternate Email
+      hint: Personal email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare role
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: patient_facing_role
+      label: Do you have direct patient contact
+      hint: Patient interaction
+      type: select_one
+      options:
+      - Yes regularly
+      - Yes occasionally
+      - No never
+      required: true
+    - id: 17
+      name: vaccination_participation
+      label: Do you want to participate in the COVID-19 vaccination program
+      hint: Participation decision
+      type: select_one
+      options:
+      - Yes I want to be vaccinated
+      - No I decline vaccination
+      - I am unsure need more information
+      required: true
+    - id: 18
+      name: decline_reason
+      label: If declining what is your reason
+      hint: Reason for declining
+      type: select_one
+      options:
+      - Medical contraindication
+      - Religious belief
+      - Personal preference
+      - Already vaccinated
+      - Natural immunity
+      - Safety concerns
+      - Other
+      required: false
+    - id: 19
+      name: medical_exemption_details
+      label: Please describe your medical contraindication
+      hint: Medical details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_vaccination_status
+      label: Have you already received COVID-19 vaccination
+      hint: Prior vaccination
+      type: select_one
+      options:
+      - No not vaccinated
+      - Yes first dose only
+      - Yes fully vaccinated
+      - Yes with booster
+      required: true
+    - id: 21
+      name: previous_vaccine_dates
+      label: When did you receive your vaccine doses
+      hint: Vaccination dates
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_vaccine_location
+      label: Where did you receive your vaccination
+      hint: Vaccination site
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vaccine_brand_received
+      label: What vaccine brand did you receive
+      hint: Vaccine type
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      - Other
+      - Not sure
+      - Not applicable
+      required: false
+    - id: 24
+      name: preferred_vaccination_date
+      label: Preferred Vaccination Date
+      hint: When to vaccinate
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: preferred_vaccination_time
+      label: Preferred Vaccination Time
+      hint: Time preference
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: vaccine_brand_preference
+      label: Do you have a vaccine brand preference
+      hint: Brand preference
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      required: false
+    - id: 27
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 28
+      name: medication_allergies
+      label: Do you have any medication allergies
+      hint: Drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: work_schedule_flexibility
+      label: Can you take time off for vaccination and recovery
+      hint: Schedule flexibility
+      type: select_one
+      options:
+      - Yes fully flexible
+      - Yes with advance notice
+      - Limited flexibility
+      - No flexibility
+      required: true
+    - id: 30
+      name: on_site_vaccination_preference
+      label: Would you prefer on-site vaccination at work
+      hint: Location preference
+      type: select_one
+      options:
+      - Yes on-site preferred
+      - No off-site preferred
+      - Either is fine
+      required: true
+    - id: 31
+      name: education_session_attendance
+      label: Would you like to attend a vaccine education session
+      hint: Education interest
+      type: select_one
+      options:
+      - Yes interested
+      - No not interested
+      - Already educated
+      required: true
+    - id: 32
+      name: questions_about_vaccine
+      label: Do you have any questions about the vaccine
+      hint: Questions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: consent_to_vaccination
+      label: I consent to receive the COVID-19 vaccine if eligible
+      hint: Vaccination consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 36
+      name: data_sharing_consent
+      label: I consent to my vaccination information being shared with HR and health
+        authorities
+      hint: Data sharing
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 37
+      name: employee_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

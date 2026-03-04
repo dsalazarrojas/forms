@@ -1,0 +1,179 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Account Setup Feedback Survey
+    pages:
+    - id: 1
+      name: section_user_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: The email you used to create your account
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: account_type
+      label: Account Type Created
+      hint: null
+      type: select_one
+      options:
+        - Personal
+        - Business
+        - Enterprise
+        - Trial
+        - Other
+      required: true
+    - id: 5
+      name: setup_date
+      label: Approximate Date You Set Up Your Account
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_setup_experience
+      label: -- Setup Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_ease
+      label: How Easy Was the Account Setup Process
+      hint: null
+      type: select_one
+      options:
+        - Very easy
+        - Easy
+        - Neutral
+        - Difficult
+        - Very difficult
+      required: true
+    - id: 8
+      name: setup_time
+      label: How Long Did the Setup Take
+      hint: null
+      type: select_one
+      options:
+        - Less than 5 minutes
+        - 5-10 minutes
+        - 10-20 minutes
+        - 20-30 minutes
+        - More than 30 minutes
+      required: true
+    - id: 9
+      name: instructions_clarity
+      label: Were the Setup Instructions Clear
+      hint: null
+      type: select_one
+      options:
+        - Very clear
+        - Clear
+        - Somewhat clear
+        - Unclear
+        - Very unclear
+      required: true
+    - id: 10
+      name: issues_encountered
+      label: Did You Encounter Any Issues During Setup
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Verification email not received
+        - Confusing form fields
+        - Technical error or crash
+        - Payment processing issue
+        - Unclear terminology
+        - No issues encountered
+      required: true
+    - id: 11
+      name: support_needed
+      label: Did You Need to Contact Support During Setup
+      hint: null
+      type: select_one
+      options:
+        - Yes, and the issue was resolved quickly
+        - Yes, but it took a while to resolve
+        - Yes, but the issue was not resolved
+        - No, I did not need support
+      required: true
+    - id: 12
+      name: section_overall
+      label: -- Overall Impression --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: welcome_experience
+      label: How Would You Rate the Welcome or Onboarding Experience
+      hint: null
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 14
+      name: feature_discovery
+      label: Were Key Features Easy to Find After Setup
+      hint: null
+      type: select_one
+      options:
+        - Yes, very easy
+        - Somewhat easy
+        - Difficult to find
+        - I have not explored yet
+      required: true
+    - id: 15
+      name: recommend_to_others
+      label: Would You Recommend This Service to Others
+      hint: null
+      type: select_one
+      options:
+        - Definitely yes
+        - Probably yes
+        - Not sure
+        - Probably not
+        - Definitely not
+      required: true
+    - id: 16
+      name: improvement_suggestions
+      label: What Could We Improve About the Setup Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_feedback
+      label: Any Other Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

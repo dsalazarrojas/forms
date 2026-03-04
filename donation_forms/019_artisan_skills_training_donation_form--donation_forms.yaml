@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artisan Skills Training Donation Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: donor_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_organization
+      label: Organization (if applicable)
+      hint: Company, foundation, or group affiliation
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donation_amount
+      label: Donation Amount (GBP)
+      hint: How much would you like to donate?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: donation_type
+      label: Type of Donation
+      hint: One-time or recurring?
+      type: select_one
+      options:
+      - One-time Donation
+      - Monthly Recurring
+      - Quarterly Recurring
+      - Annual Recurring
+      required: true
+    - id: 10
+      name: donation_frequency
+      label: If Recurring, How Many Months?
+      hint: Duration of recurring donations
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - Ongoing
+      required: false
+    - id: 11
+      name: suggested_donations
+      label: Or Select a Preset Amount
+      hint: Choose a suggested donation level
+      type: select_one
+      options:
+      - GBP 10
+      - GBP 25
+      - GBP 50
+      - GBP 100
+      - GBP 250
+      - GBP 500
+      - Custom Amount
+      required: false
+    - id: 12
+      name: section_header_3
+      label: -- Program Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: program_focus
+      label: Which Artisan Program Would You Like to Support?
+      hint: Where should your donation go?
+      type: select_one
+      options:
+      - General Artisan Training
+      - Women Artisans Skills Program
+      - Youth Apprenticeship
+      - Traditional Crafts Preservation
+      - Digital Marketing for Artisans
+      - Business Development Training
+      - Let Us Decide
+      required: true
+    - id: 14
+      name: program_area
+      label: Preferred Craft Area (if applicable)
+      hint: Any specific craft discipline?
+      type: select_one
+      options:
+      - Textiles and Weaving
+      - Pottery and Ceramics
+      - Woodworking
+      - Metalwork and Jewelry
+      - Leather Crafts
+      - Glass Work
+      - Painting and Drawing
+      - Mixed Media
+      - All Crafts Equally
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- Giving Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: gift_type
+      label: Type of Gift
+      hint: Is this a personal or corporate gift?
+      type: select_one
+      options:
+      - Personal Donation
+      - Corporate Donation
+      - In-Kind Donation
+      - Donor Advised Fund
+      - Planned Giving
+      required: true
+    - id: 17
+      name: gift_in_honor
+      label: Gift in Honor or Memory Of
+      hint: Optional - donate in someone's honor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recognize_donor
+      label: Recognition Preference
+      hint: How would you like to be recognized?
+      type: select_one
+      options:
+      - Public recognition (list donor name)
+      - Anonymous donation
+      - Private recognition only
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Tax and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: tax_receipt_needed
+      label: Do You Need a Tax Receipt?
+      hint: For tax deduction purposes
+      type: select_one
+      options:
+      - Yes, I need a receipt
+      - No receipt needed
+      required: true
+    - id: 21
+      name: donor_address
+      label: Mailing Address
+      hint: For tax documentation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: communications_opt_in
+      label: I Would Like to Receive Updates About the Program
+      hint: Stay informed about program impact
+      type: select_one
+      options:
+      - Yes, send updates
+      - No, no communications
+      required: false
+    - id: 24
+      name: impact_report
+      label: Impact Report Preference
+      hint: How would you like to receive updates?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No preference
+      required: false
+    - id: 25
+      name: additional_message
+      label: Special Message or Comments
+      hint: Any message you would like to share?
+      type: text
+      options: []
+      required: false

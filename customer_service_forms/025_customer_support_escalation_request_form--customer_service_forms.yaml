@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_support_escalation_request_form
+    pages:
+    - id: 1
+      name: customer_support_escalation_request
+      label: Customer Support Escalation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_issue
+      label: Customer Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: customer_contact_email
+      label: Customer Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_contact_phone
+      label: Customer Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_support_email
+      label: Customer Support E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

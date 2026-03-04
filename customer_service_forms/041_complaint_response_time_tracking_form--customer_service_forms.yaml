@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Response Time Tracking Form
+    pages:
+    - id: 1
+      name: tracking_date
+      label: Tracking Date
+      hint: Date of tracking entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: tracker_name
+      label: Tracker Name
+      hint: Person logging this
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tracker_department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Customer Service
+      - Operations
+      - Quality Assurance
+      - Management
+      - Other
+      required: true
+    - id: 4
+      name: complaint_id
+      label: Complaint ID
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: complaint_received_date
+      label: Complaint Received Date
+      hint: When complaint arrived
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: complaint_received_time
+      label: Complaint Received Time
+      hint: What time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: first_response_date
+      label: First Response Date
+      hint: When first responded
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: first_response_time
+      label: First Response Time
+      hint: What time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: response_time_hours
+      label: Response Time in Hours
+      hint: Hours to first response
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sla_target
+      label: SLA Target
+      hint: Required response time
+      type: select_one
+      options:
+      - 1 hour
+      - 4 hours
+      - 8 hours
+      - 24 hours
+      - 48 hours
+      - 72 hours
+      required: true
+    - id: 11
+      name: sla_status
+      label: SLA Status
+      hint: Did you meet target
+      type: select_one
+      options:
+      - Met - within SLA
+      - Missed - outside SLA
+      - Exempt - special case
+      - Pending - not yet due
+      required: true
+    - id: 12
+      name: miss_reason
+      label: Reason for SLA Miss
+      hint: If missed why
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: complaint_priority
+      label: Complaint Priority
+      hint: Assigned priority
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: complaint_category
+      label: Complaint Category
+      hint: Type of complaint
+      type: select_one
+      options:
+      - Product Quality
+      - Service Quality
+      - Billing Issue
+      - Delivery Problem
+      - Technical Support
+      - Customer Service
+      - Other
+      required: true
+    - id: 15
+      name: response_method
+      label: Response Method
+      hint: How did you respond
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Video call
+      - Live chat
+      - In-person
+      - Text message
+      - Other
+      required: true
+    - id: 16
+      name: responder_name
+      label: Responder Name
+      hint: Who responded
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: responder_role
+      label: Responder Role
+      hint: Their position
+      type: select_one
+      options:
+      - Customer Service Rep
+      - Team Lead
+      - Manager
+      - Technical Support
+      - Specialist
+      - Executive
+      required: true
+    - id: 18
+      name: resolution_date
+      label: Resolution Date
+      hint: When resolved
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: resolution_time_hours
+      label: Total Resolution Time
+      hint: Hours to full resolution
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: resolution_sla_status
+      label: Resolution SLA Status
+      hint: Met resolution target
+      type: select_one
+      options:
+      - Met - within SLA
+      - Missed - outside SLA
+      - Exempt - special case
+      - Not yet resolved
+      required: true
+    - id: 21
+      name: customer_wait_satisfaction
+      label: Customer Satisfaction with Wait
+      hint: How satisfied with timing
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not surveyed
+      required: false
+    - id: 22
+      name: delays_encountered
+      label: Delays Encountered
+      hint: Were there delays
+      type: select_one
+      options:
+      - No delays
+      - Minor delays
+      - Moderate delays
+      - Significant delays
+      - Major delays
+      required: true
+    - id: 23
+      name: delay_reasons
+      label: Delay Reasons
+      hint: What caused delays
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: escalations
+      label: Number of Escalations
+      hint: How many times escalated
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: handoffs
+      label: Number of Handoffs
+      hint: How many transfers
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: business_hours_only
+      label: Business Hours Calculation
+      hint: Is time business hours only
+      type: select_one
+      options:
+      - Yes - business hours only
+      - No - calendar hours
+      - Mixed
+      required: true
+    - id: 27
+      name: weekend_holiday_impact
+      label: Weekend or Holiday Impact
+      hint: Did weekends affect timing
+      type: select_one
+      options:
+      - Yes - significant impact
+      - Yes - minor impact
+      - No impact
+      - Not applicable
+      required: true
+    - id: 28
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: How to improve response time
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: notes
+      label: Additional Notes
+      hint: Other observations
+      type: text
+      options: []
+      required: false

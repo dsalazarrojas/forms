@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: growth_management_course_registration_form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course
+      label: course
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Course 1'', ''label'': ''Course 1''}'
+      - '{''id'': 2, ''name'': ''Course 2'', ''label'': ''Course 2''}'
+      - '{''id'': 3, ''name'': ''Course 3'', ''label'': ''Course 3''}'
+      required: true
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm
+      label: confirm
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: text
+      options: []
+      required: false

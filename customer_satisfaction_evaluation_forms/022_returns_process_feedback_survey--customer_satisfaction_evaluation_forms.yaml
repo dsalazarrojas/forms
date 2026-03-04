@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Returns Process Feedback Survey
+    pages:
+    - id: 1
+      name: return_process
+      label: Return Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: return_channel
+      label: Return Channel
+      hint: null
+      type: select_one
+      options:
+      - In-store
+      - Online
+      - Phone
+      - In-app
+      required: false
+    - id: 6
+      name: return_reason
+      label: Return Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_process_improve
+      label: Return Process Improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: return_frequency
+      label: Return Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: return_satisfaction_frequency
+      label: Return Satisfaction Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: return_suggestion
+      label: Return Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

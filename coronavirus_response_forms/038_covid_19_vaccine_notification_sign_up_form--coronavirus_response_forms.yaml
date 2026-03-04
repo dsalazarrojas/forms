@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Notification Sign Up Form
+    pages:
+    - id: 1
+      name: signup_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: signup_email
+      label: Email Address
+      hint: For vaccine availability notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: signup_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_section
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Postal mail
+      required: true
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Vietnamese
+      - Somali
+      - Other
+      required: true
+    - id: 8
+      name: notification_section
+      label: -- Notification Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notification_type
+      label: Type of Notifications You Want
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Vaccine availability in my area
+      - Appointment scheduling info
+      - Vaccine safety information
+      - General health updates
+      - Special eligibility announcements
+      required: true
+    - id: 10
+      name: notification_frequency
+      label: Notification Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Multiple times per week
+      - Weekly
+      - As needed only
+      - No preference
+      required: true
+    - id: 11
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-29
+      - 30-39
+      - 40-49
+      - 50-59
+      - 60-69
+      - 70-79
+      - 80+
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: eligibility_section
+      label: -- Eligibility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: eligible_phases
+      label: Eligible vaccination phases
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Phase 1A - Healthcare workers
+      - Phase 1B - Essential workers
+      - Phase 1C - High-risk individuals
+      - Phase 2 - General population
+      - Not yet eligible
+      - Unsure of eligibility
+      required: true
+    - id: 19
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: essential_worker
+      label: Are you an essential worker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: high_risk_condition
+      label: Do you have high-risk health conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 22
+      name: living_situation
+      label: Live in congregate setting
+      hint: Group home, nursing facility, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: vaccine_section
+      label: -- Vaccine Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      - Unsure
+      required: true
+    - id: 25
+      name: dose_interested
+      label: Doses You Are Interested In
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - All doses
+      required: true
+    - id: 26
+      name: prior_vaccination
+      label: Have you been vaccinated for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 27
+      name: privacy_section
+      label: -- Privacy and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: privacy_consent
+      label: I consent to receive vaccine notifications
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 29
+      name: data_sharing
+      label: Information may be shared with health authorities
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 30
+      name: unsubscribe
+      label: I understand I can unsubscribe anytime
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true

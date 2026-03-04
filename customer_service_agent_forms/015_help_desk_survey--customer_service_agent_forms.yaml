@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Help Desk Survey
+    pages:
+    - id: 1
+      name: contact_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_1
+      label: How do you rate our support?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: What was your reason for calling?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 6
+      name: contact_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: help_meetings
+      label: Have you had a meeting with our team yet?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: help_meetings_time
+      label: If you have had a meeting, when was it?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rating_comments
+      label: Comments about rating
+      hint: null
+      type: text
+      options: []
+      required: false

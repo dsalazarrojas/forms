@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Engagement Strategy Feedback Form
+    pages:
+    - id: 1
+      name: customer_engagement_strategy_feedback_form_first_page
+      label: Customer Engagement Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 3
+      name: customer_service_level_of_service
+      label: Level of Service
+      hint: How would you rate the level of service provided by this representative?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

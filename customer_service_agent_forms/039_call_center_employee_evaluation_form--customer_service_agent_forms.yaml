@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Center Employee Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_header
+      label: -- Evaluation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position
+      label: Position/Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_period_header
+      label: -- Evaluation Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_period_start
+      label: Evaluation Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: evaluation_period_end
+      label: Evaluation Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: performance_header
+      label: -- Performance Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: job_knowledge
+      label: Job Knowledge and Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: communication
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: customer_service
+      label: Customer Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: problem_solving
+      label: Problem Solving Ability
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: teamwork
+      label: Teamwork and Collaboration
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: reliability
+      label: Reliability and Attendance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: targets_header
+      label: -- Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: call_quality_score
+      label: Average Call Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_satisfaction_score
+      label: Customer Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: goals_achieved_percent
+      label: Percentage of Goals Achieved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: strengths_header
+      label: -- Strengths and Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: key_strengths
+      label: Key Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: development_plan
+      label: Development Plan for Next Period
+      hint: null
+      type: text
+      options: []
+      required: false

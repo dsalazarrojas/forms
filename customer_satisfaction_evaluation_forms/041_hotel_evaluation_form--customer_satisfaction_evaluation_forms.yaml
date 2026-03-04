@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Evaluation Form
+    pages:
+    - id: 1
+      name: hotel_check_in
+      label: hotel_check_in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: check_out
+      label: check_out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room_quality
+      label: room_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: amenities
+      label: amenities
+      hint: null
+      type: select_one
+      options:
+      - Air Conditioner
+      - Bath Tub/Shower
+      - Free Breakfast
+      - Free Parking
+      - Free Wi-Fi
+      - In-room coffee machine
+      - Mini Bar
+      - Pool
+      required: false
+    - id: 7
+      name: food_quality
+      label: food_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Dinner
+      - Lunch
+      - Room Service
+      required: false
+    - id: 8
+      name: staff_service
+      label: staff_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hotel_atmosphere
+      label: hotel_atmosphere
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommend
+      label: recommend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false

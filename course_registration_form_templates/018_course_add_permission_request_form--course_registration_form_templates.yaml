@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Add Permission Request Form
+    pages:
+    - id: 1
+      name: course_add_permission_request_form
+      label: Course Add Permission Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Course Registration Form Templates
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: Collect and track student requests to add restricted or closed courses
+        with the Course Add Permission Request Form
+      type: text
+      options: []
+      required: false

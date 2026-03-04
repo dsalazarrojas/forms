@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Session Progress Survey
+    pages:
+    - id: 1
+      name: support_session_progress_survey_form_1
+      label: How satisfied are you with the support session?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 2
+      name: support_session_progress_survey_form_2
+      label: What was your primary concern during the support session?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: support_session_progress_survey_form_3
+      label: What was the resolution to your concern?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: support_session_progress_survey_form_4
+      label: How did you rate the communication with your support agent?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 5
+      name: support_session_progress_survey_form_5
+      label: How likely are you to recommend our service to others?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      - Not at All Likely
+      required: true
+    - id: 6
+      name: support_session_progress_survey_form_6
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: support_session_progress_survey_form_7
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: support_session_progress_survey_form_8
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''label'': ''High''}'
+      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: areas_of_improvement
+      label: areas of improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''communication'', ''label'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''resolution'', ''label'': ''Resolution''}'
+      - '{''id'': 3, ''name'': ''responsiveness'', ''label'': ''Responsiveness''}'
+      - '{''id'': 4, ''name'': ''timeliness'', ''label'': ''Timeliness''}'
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: time of visit
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Impact Survey For Businesses
+    pages:
+    - id: 1
+      name: business_header
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Food Service
+      - Healthcare
+      - Manufacturing
+      - Professional Services
+      - Hospitality
+      - Education
+      - Other
+      required: true
+    - id: 4
+      name: business_size
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: operations_header
+      label: -- Operations and Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: operating_status
+      label: Current Operating Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Open
+      - Partially Open
+      - Temporarily Closed
+      - Permanently Closed
+      required: true
+    - id: 10
+      name: closure_reason
+      label: Reason for closure or limitation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: capacity_reduction
+      label: Capacity reduction percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: financial_impact
+      label: -- Financial Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: revenue_loss
+      label: Monthly revenue loss
+      hint: null
+      type: select_one
+      options:
+      - 0-25%
+      - 25-50%
+      - 50-75%
+      - 75-100%
+      required: true
+    - id: 14
+      name: monthly_revenue
+      label: Normal monthly revenue before pandemic
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: expense_increase
+      label: Increased operational expenses
+      hint: null
+      type: select_multiple
+      options:
+      - Sanitization
+      - PPE Equipment
+      - Online Infrastructure
+      - Safety Equipment
+      - Employee Bonuses
+      - Other
+      required: false
+    - id: 16
+      name: workforce_header
+      label: -- Workforce Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: staff_reduction
+      label: Staff reduction percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: hiring_plans
+      label: Plans to rehire or hire new staff
+      hint: null
+      type: select_one
+      options:
+      - Yes, Planning to Hire
+      - Maybe
+      - No, Layoffs Expected
+      - Uncertain
+      required: true
+    - id: 19
+      name: remote_work
+      label: Employees working remotely
+      hint: null
+      type: select_one
+      options:
+      - Yes, All Remote
+      - Some Remote
+      - No Remote Work
+      required: true
+    - id: 20
+      name: challenges
+      label: -- Main Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: main_challenges
+      label: Primary challenges faced
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - Supply Chain Disruption
+      - Staffing Shortage
+      - Customer Decline
+      - Cash Flow Issues
+      - Health and Safety Concerns
+      - Technology Needs
+      - Other
+      required: true
+    - id: 22
+      name: response_measures
+      label: Safety measures implemented
+      hint: null
+      type: select_multiple
+      options:
+      - Enhanced Cleaning
+      - Social Distancing
+      - Masking Requirements
+      - Temperature Screening
+      - Testing Programs
+      - Vaccination Encouragement
+      - Other
+      required: false

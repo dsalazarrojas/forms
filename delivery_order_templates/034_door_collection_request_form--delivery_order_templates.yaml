@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: door_collection_request_form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_name
+      label: Delivery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braintree Donation Template 3
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_zip
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: false
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: Select or enter amount
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1,000
+      - Other amount
+      required: true
+    - id: 11
+      name: custom_amount
+      label: Custom Amount
+      hint: Enter your donation amount
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often would you like to donate
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 13
+      name: donation_program
+      label: Donation Program
+      hint: Which program should receive your donation
+      type: select_one
+      options:
+      - General Fund
+      - Education Program
+      - Healthcare Initiative
+      - Community Outreach
+      - Emergency Relief
+      - Where most needed
+      required: true
+    - id: 14
+      name: tribute_donation
+      label: Tribute Donation
+      hint: Is this in honor or memory of someone
+      type: select_one
+      options:
+      - false
+      - In honor of
+      - In memory of
+      required: true
+    - id: 15
+      name: tribute_name
+      label: Tribute Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tribute_notification
+      label: Tribute Notification
+      hint: Should family be notified
+      type: select_one
+      options:
+      - Yes, send notification
+      - No, keep private
+      required: false
+    - id: 17
+      name: tribute_address
+      label: Tribute Notification Address
+      hint: Address for notification
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employer_name
+      label: Employer Name
+      hint: For matching gift
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: matching_gift
+      label: Matching Gift
+      hint: Is your employer matching donations
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank account
+      required: true
+    - id: 21
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_expiry
+      label: Card Expiry
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: card_cvv
+      label: Card CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_address_same
+      label: Billing Address Same
+      hint: Is billing address same as above
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: anonymous_donation
+      label: Anonymous Donation
+      hint: Would you like to remain anonymous
+      type: select_one
+      options:
+      - No, use my name
+      - Yes, anonymous
+      - Anonymous to public only
+      required: true
+    - id: 26
+      name: receipt_preference
+      label: Receipt Preference
+      hint: How would you like to receive receipt
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Both
+      required: true
+    - id: 27
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive updates on our work
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any message or dedication
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 30
+      name: donation_dedication
+      label: Donation Dedication
+      hint: Any special dedication message
+      type: text
+      options: []
+      required: false

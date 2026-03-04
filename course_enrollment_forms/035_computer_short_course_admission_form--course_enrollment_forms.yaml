@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Short Course Admission Form
+    pages:
+    - id: 1
+      name: application_id
+      label: Application ID
+      hint: Unique application identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 13
+      name: highest_education
+      label: Highest Education Level
+      hint: Select your highest education
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 14
+      name: current_occupation
+      label: Current Occupation
+      hint: Your current job or status
+      type: select_one
+      options:
+      - Employed Full Time
+      - Employed Part Time
+      - Self Employed
+      - Student
+      - Unemployed
+      - Retired
+      required: true
+    - id: 15
+      name: course_selection
+      label: Course Selection
+      hint: Select course you want to enroll in
+      type: select_one
+      options:
+      - Introduction to Programming
+      - Web Development Bootcamp
+      - Python for Data Science
+      - Cybersecurity Fundamentals
+      - Cloud Computing Basics
+      - Mobile App Development
+      - Database Management
+      - Artificial Intelligence Intro
+      - Other
+      required: true
+    - id: 16
+      name: course_format
+      label: Course Format
+      hint: Select preferred format
+      type: select_one
+      options:
+      - In Person
+      - Online Live
+      - Online Self-Paced
+      - Hybrid
+      required: true
+    - id: 17
+      name: programming_experience
+      label: Programming Experience
+      hint: Select your experience level
+      type: select_one
+      options:
+      - No Experience
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 18
+      name: languages_known
+      label: Programming Languages Known
+      hint: Select any languages you know
+      type: select_multiple
+      options:
+      - None
+      - Python
+      - Java
+      - JavaScript
+      - C Plus Plus
+      - C Sharp
+      - Ruby
+      - Other
+      required: false
+    - id: 19
+      name: motivation_statement
+      label: Motivation Statement
+      hint: Why do you want to take this course
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: career_goals
+      label: Career Goals
+      hint: What are your career goals
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: time_commitment
+      label: Time Commitment
+      hint: Hours per week you can dedicate
+      type: select_one
+      options:
+      - Less than 5 Hours
+      - 5 to 10 Hours
+      - 10 to 20 Hours
+      - More than 20 Hours
+      required: true
+    - id: 22
+      name: start_date_preference
+      label: Start Date Preference
+      hint: When would you like to start
+      type: select_one
+      options:
+      - Next Available
+      - Within 1 Month
+      - Within 3 Months
+      - Specific Date
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Employer Sponsorship
+      - Student Loan
+      - Other
+      required: true
+    - id: 24
+      name: scholarship_needed
+      label: Scholarship Needed
+      hint: Are you applying for scholarship
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Select the source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Advertisement
+      - School Counselor
+      - Other
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 27
+      name: application_status
+      label: Application Status
+      hint: Current application status
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - Accepted
+      - Waitlisted
+      - Rejected
+      required: true

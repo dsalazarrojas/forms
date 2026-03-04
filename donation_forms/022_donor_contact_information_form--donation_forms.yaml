@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Contact Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_language
+      label: Preferred language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
+      - '{''id'': 2, ''name'': ''French'', ''label'': ''French''}'
+      - '{''id'': 3, ''name'': ''Spanish'', ''label'': ''Spanish''}'
+      required: true
+    - id: 7
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Email'', ''label'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone'', ''label'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''Mail'', ''label'': ''Mail''}'
+      required: false
+    - id: 8
+      name: how_did_you_hear_about_us
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: would_like_to_receive_updates
+      label: Would you like to receive updates?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false

@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Planning Survey
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_type
+      label: Type of Facility
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Pharmacy
+      - Healthcare provider office
+      - Long-term care facility
+      - School or University
+      - Government agency
+      - Other
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: planning_section
+      label: -- Vaccine Planning and Preparedness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pandemic_plan_exists
+      label: Facility has pandemic vaccine plan in place
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In development
+      required: true
+    - id: 8
+      name: plan_update_date
+      label: When was plan last reviewed or updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_team
+      label: Designated vaccine distribution team
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 10
+      name: team_size
+      label: Number of people on vaccine team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vaccination_capacity_section
+      label: -- Vaccination Capacity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: expected_recipients
+      label: Expected Number of Vaccine Recipients
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: daily_vaccination_capacity
+      label: Daily Vaccination Capacity
+      hint: Number of people per day
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: weeks_needed
+      label: Estimated Weeks to Vaccinate All
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: storage_section
+      label: -- Storage and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ultra_low_freezer_count
+      label: Ultra-low freezers available
+      hint: -80 degrees Celsius
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: ultra_low_freezer_capacity
+      label: Total ultra-low freezer capacity
+      hint: Number of doses
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: standard_freezer_count
+      label: Standard freezers available
+      hint: -20 degrees Celsius
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: standard_freezer_capacity
+      label: Total standard freezer capacity
+      hint: Number of doses
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: refrigerator_count
+      label: Refrigerators available
+      hint: 2-8 degrees Celsius
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: refrigerator_capacity
+      label: Total refrigerator capacity
+      hint: Number of doses
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: monitoring_equipment
+      label: Temperature monitoring equipment
+      hint: Thermometers, data loggers, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 23
+      name: backup_power
+      label: Backup power system in place
+      hint: Generator or emergency power
+      type: select_one
+      options:
+      - true
+      - false
+      - In process
+      required: true
+    - id: 24
+      name: training_section
+      label: -- Staff Training and Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: cold_chain_training
+      label: Staff trained in cold chain management
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some staff
+      required: true
+    - id: 26
+      name: vaccination_training
+      label: Staff trained in vaccine administration
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some staff
+      required: true
+    - id: 27
+      name: emergency_response_training
+      label: Staff trained in emergency response
+      hint: Adverse events, anaphylaxis
+      type: select_one
+      options:
+      - true
+      - false
+      - Some staff
+      required: true
+    - id: 28
+      name: communication_section
+      label: -- Communication Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: public_communication
+      label: Plan to communicate with public about vaccines
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In development
+      required: true
+    - id: 30
+      name: data_reporting
+      label: Plan for reporting vaccination data
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 31
+      name: equity_considerations
+      label: Plan addresses equity and accessibility
+      hint: Vulnerable populations, multiple languages
+      type: select_one
+      options:
+      - true
+      - false
+      - In development
+      required: true
+    - id: 32
+      name: challenges_section
+      label: -- Anticipated Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: identified_challenges
+      label: Key Challenges Anticipated
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Storage capacity
+      - Staff availability
+      - Equipment costs
+      - Training needs
+      - Public hesitancy
+      - Logistics
+      - Equity issues
+      - Other
+      required: false
+    - id: 34
+      name: mitigation_strategies
+      label: Strategies to Address Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_support
+      label: Support Needed from Government or Public Health
+      hint: null
+      type: text
+      options: []
+      required: false

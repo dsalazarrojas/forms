@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Change Request Form
+    pages:
+    - id: 1
+      name: course_change_request
+      label: Course Change Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: old_course_id
+      label: Old Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_change
+      label: Reason for change
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_on
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: select_one
+      options:
+      - Dean of Student Affairs
+      - Academic Support Staff
+      - Academic Dean
+      required: false
+    - id: 8
+      name: approved_on
+      label: Approved on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_to
+      label: Submitted to
+      hint: null
+      type: select_multiple
+      options:
+      - Academic Dean
+      - Academic Support Staff
+      - Dean of Student Affairs
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Store Launch Checklist Form
+    pages:
+    - id: 1
+      name: intro
+      label: E commerce store launch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_info
+      label: store info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: payment details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paypal''}'
+      - '{''value'': ''Stripe''}'
+      - '{''value'': ''Bank transfer''}'
+      required: false
+    - id: 4
+      name: shipping_details
+      label: shipping details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Free''}'
+      - '{''value'': ''Flat rate''}'
+      - '{''value'': ''Weight based''}'
+      required: false
+    - id: 5
+      name: store_settings
+      label: store settings
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Shopify''}'
+      - '{''value'': ''Woo Commerce''}'
+      - '{''value'': ''Shopify +''}'
+      required: false
+    - id: 6
+      name: product_info
+      label: product info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Physical''}'
+      - '{''value'': ''Digital''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 7
+      name: launch_plan
+      label: launch plan
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: store_launch
+      label: store launch
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 9
+      name: store_owner
+      label: store owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_address
+      label: store address
+      hint: null
+      type: text
+      options: []
+      required: false

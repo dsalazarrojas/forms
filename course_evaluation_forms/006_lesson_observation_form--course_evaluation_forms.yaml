@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lesson Observation Form
+    pages:
+    - id: 1
+      name: school_inspector
+      label: School Inspector
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: lesson_date
+      label: Lesson Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teaching_method
+      label: Teaching Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: classroom_conditions
+      label: Classroom Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Orange and Responsive
+    pages:
+      - id: 1
+        name: section_greeting
+        label: -- Hello! Let's Get in Touch --
+        hint: We love hearing from our clients. What's on your mind?
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: visitor_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_email
+        label: Contact Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: inquiry_subject
+        label: Subject of your message
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: main_message
+        label: Your Message
+        hint: Tell us more about how we can help or what you love about our service
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_feedback_testimonial
+        label: -- Share Your Story --
+        hint: Help us improve by providing detailed feedback
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: feedback_category
+        label: Feedback Category
+        hint: null
+        type: select_one
+        options: [Great Experience, Suggestion, Feature Request, Issue Report, Other]
+        required: true
+      - id: 8
+        name: experience_rating
+        label: How would you rate your overall experience with us?
+        hint: null
+        type: select_one
+        options: [Excellent, Very Good, Good, Fair, Poor]
+        required: true
+      - id: 9
+        name: recommendation_likelihood
+        label: Would you recommend us to a friend or colleague?
+        hint: null
+        type: select_one
+        options: [Definitely, Likely, Maybe, Unlikely, Never]
+        required: true
+      - id: 10
+        name: testimonial_permission
+        label: May we use your feedback as a testimonial?
+        hint: null
+        type: select_one
+        options: [Yes, please do!, Only if anonymous, No thank you]
+        required: true
+      - id: 11
+        name: follow_up_needed
+        label: Do you require a response to this message?
+        hint: null
+        type: select_one
+        options: [Yes, please contact me, No, just sharing feedback]
+        required: true
+      - id: 12
+        name: preferred_response_channel
+        label: If yes, how should we reach you?
+        hint: null
+        type: select_one
+        options: [Email, Phone, SMS]
+        required: false
+      - id: 13
+        name: newsletter_subscription
+        label: Stay updated with our orange newsletter!
+        hint: null
+        type: select_one
+        options: [Sign me up!, No thanks]
+        required: false

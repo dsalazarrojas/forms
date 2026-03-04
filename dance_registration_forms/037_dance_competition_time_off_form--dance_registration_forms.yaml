@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Competition Time Off Form
+    pages:
+    - id: 1
+      name: dance_competition_time_off_form
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: dancer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: dancer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time_off_request_reason
+      label: request reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_start_date
+      label: event start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_start_time
+      label: event start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_end_date
+      label: event end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_end_time
+      label: event end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rehearsal_start_date
+      label: rehearsal start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: rehearsal_start_time
+      label: rehearsal start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: rehearsal_end_date
+      label: rehearsal end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: rehearsal_end_time
+      label: rehearsal end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: dance_style
+      label: dance style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Contemporary
+      - Hip Hop
+      - Jazz
+      - Modern
+      - Other
+      required: false
+    - id: 15
+      name: rehearsal_attendance
+      label: rehearsal attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 16
+      name: event_attendance
+      label: event attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

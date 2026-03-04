@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: dance-class-enrollment-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''credit-card''}'
+      - '{''id'': 2, ''label'': ''Debit Card'', ''value'': ''debit-card''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer'', ''value'': ''bank-transfer''}'
+      - '{''id'': 4, ''label'': ''Cash'', ''value'': ''cash''}'
+      required: false
+    - id: 8
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: dance_class
+      label: Dance Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dance_style
+      label: Dance Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday'', ''value'': ''monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday'', ''value'': ''tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday'', ''value'': ''wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday'', ''value'': ''thursday''}'
+      - '{''id'': 5, ''label'': ''Friday'', ''value'': ''friday''}'
+      - '{''id'': 6, ''label'': ''Saturday'', ''value'': ''saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday'', ''value'': ''sunday''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: student_agreement
+      label: Student Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: teacher_agreement
+      label: Teacher Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Paid'', ''value'': ''paid''}'
+      - '{''id'': 2, ''label'': ''Unpaid'', ''value'': ''unpaid''}'
+      - '{''id'': 3, ''label'': ''Partially Paid'', ''value'': ''partially-paid''}'
+      required: false
+    - id: 17
+      name: teacher_availability
+      label: Teacher Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      required: false
+    - id: 18
+      name: teacher_special_qualifications
+      label: Teacher Special Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_special_qualifications
+      label: Student Special Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_instructors
+      label: Other Instructors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: class_level
+      label: Class Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: enrollment_time
+      label: Enrollment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: student_confirmation
+      label: Student Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': ''confirmed''}'
+      - '{''id'': 2, ''label'': ''Not Confirmed'', ''value'': ''not-confirmed''}'
+      required: false
+    - id: 25
+      name: teacher_confirmation
+      label: Teacher Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': ''confirmed''}'
+      - '{''id'': 2, ''label'': ''Not Confirmed'', ''value'': ''not-confirmed''}'
+      required: false

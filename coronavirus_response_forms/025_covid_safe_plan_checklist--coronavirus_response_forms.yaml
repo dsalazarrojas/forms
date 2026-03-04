@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Safe Plan Checklist
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: Name of business or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Date of Safety Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_title
+      label: Evaluator Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: handwashing_stations
+      label: Adequate Handwashing Stations Available
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 7
+      name: hand_sanitizer
+      label: Hand Sanitizer Stations Throughout Facility
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 8
+      name: ppe_supplies
+      label: Adequate PPE Supplies in Stock
+      hint: Masks, gloves, face shields
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 9
+      name: cleaning_supplies
+      label: Adequate Cleaning and Disinfection Supplies
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 10
+      name: cleaning_schedule
+      label: Cleaning Schedule Established and Posted
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 11
+      name: ventilation
+      label: Adequate Ventilation System
+      hint: HVAC checked and functioning
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Unknown
+      required: true
+    - id: 12
+      name: physical_distancing
+      label: Physical Distancing Protocols Implemented
+      hint: Six feet distance maintained
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 13
+      name: distance_signage
+      label: Signage Posted for Distancing Requirements
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 14
+      name: capacity_limits
+      label: Occupancy Capacity Limits Established
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 15
+      name: isolation_area
+      label: Isolation Area Prepared
+      hint: For sick employees or customers
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 16
+      name: training_completed
+      label: COVID-19 Safety Training Conducted
+      hint: For all staff members
+      type: select_one
+      options:
+      - Yes
+      - No
+      - In progress
+      required: true
+    - id: 17
+      name: policy_documentation
+      label: COVID-19 Safety Policies Documented
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 18
+      name: emergency_response
+      label: Emergency Response Plan Established
+      hint: For suspected COVID cases
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 19
+      name: overall_compliance
+      label: Overall COVID-19 Safety Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Mostly compliant
+      - Needs improvement
+      - Non-compliant
+      required: true
+    - id: 20
+      name: action_items
+      label: Action Items or Recommendations
+      hint: Improvements needed
+      type: text
+      options: []
+      required: false

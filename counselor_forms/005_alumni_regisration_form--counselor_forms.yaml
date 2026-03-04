@@ -1,0 +1,423 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Registration Form
+    pages:
+    - id: 1
+      name: section_welcome
+      label: -- Welcome Alumni Registration --
+      hint: Please complete all required fields to register as an alumni member
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_type
+      label: Registration Type
+      hint: Select the type of registration
+      type: select_one
+      options:
+      - New Alumni Registration
+      - Alumni Profile Update
+      - Event Registration
+      - Membership Renewal
+      required: true
+    - id: 3
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suffix
+      label: Name Suffix
+      hint: Jr, Sr, III, etc.
+      type: select_one
+      options:
+      - None
+      - Jr
+      - Sr
+      - II
+      - III
+      - IV
+      - Other
+      required: false
+    - id: 7
+      name: email_primary
+      label: Primary Email Address
+      hint: This will be used for all communications
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: email_alternate
+      label: Alternate Email Address
+      hint: Optional secondary email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_mobile
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_work
+      label: Work Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: section_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: address_line1
+      label: Address Line 1
+      hint: Street address or PO Box
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: address_line2
+      label: Address Line 2
+      hint: Apartment, suite, unit, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      - Other
+      required: true
+    - id: 17
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Other
+      required: true
+    - id: 19
+      name: section_education
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: school_attended
+      label: School/College Attended
+      hint: Name of institution
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: degree_type
+      label: Degree Type
+      hint: null
+      type: select_one
+      options:
+      - Certificate
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate (PhD)
+      - Professional Degree
+      - Did not graduate
+      required: true
+    - id: 23
+      name: major
+      label: Major/Concentration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: minor
+      label: Minor (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_professional
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: current_employer
+      label: Current Employer
+      hint: Organization or company name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: industry
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare/Medical
+      - Education
+      - Finance/Banking
+      - Legal
+      - Engineering
+      - Arts/Entertainment
+      - Government/Public Service
+      - Nonprofit
+      - Business/Commerce
+      - Other
+      required: false
+    - id: 29
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: section_interests
+      label: -- Alumni Engagement Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: networking_interest
+      label: Interested in Alumni Networking
+      hint: null
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 32
+      name: mentoring_availability
+      label: Available to Mentor Current Students
+      hint: null
+      type: select_one
+      options:
+      - Yes - Actively Mentoring
+      - Yes - Willing to Start
+      - Considering
+      - No - Not Available
+      required: false
+    - id: 33
+      name: volunteer_interest
+      label: Volunteer Opportunities Interest
+      hint: null
+      type: select_one
+      options:
+      - Yes - Event Volunteering
+      - Yes - Committee Service
+      - Yes - Both
+      - No - Not at this time
+      required: false
+    - id: 34
+      name: giving_interest
+      label: Interested in Making Donations
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regular Donor
+      - Yes - Occasional Donor
+      - Considering
+      - No - Not at this time
+      required: false
+    - id: 35
+      name: section_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we primarily contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Postal Mail
+      required: true
+    - id: 37
+      name: newsletter_opt_in
+      label: Subscribe to Alumni Newsletter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 38
+      name: event_notifications
+      label: Receive Event Notifications
+      hint: null
+      type: select_one
+      options:
+      - Yes - All Events
+      - Yes - Selected Events Only
+      - false
+      required: true
+    - id: 39
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: For events or services
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: how_heard_about
+      label: How Did You Hear About This Program
+      hint: null
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Friend/Colleague
+      - Website
+      - Alumni Event
+      - Other
+      required: false
+    - id: 42
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to abide by the alumni association terms
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Other
+      required: true

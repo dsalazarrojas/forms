@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band T Shirt Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will use this to confirm your order
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shirt_size
+      label: T-Shirt Size
+      hint: Select your preferred size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 5
+      name: shirt_color
+      label: T-Shirt Color
+      hint: Choose your preferred color
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy Blue
+      - Red
+      - Gray
+      - Charcoal
+      required: true
+    - id: 6
+      name: shirt_style
+      label: T-Shirt Style
+      hint: Select the style you prefer
+      type: select_one
+      options:
+      - Classic Crew Neck
+      - V-Neck
+      - Polo Style
+      - Long Sleeve
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: How many shirts would you like to order?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: special_print
+      label: Special Print or Design
+      hint: Describe any custom printing or design requests
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_customization
+      label: Additional Customization Options
+      hint: Select any additional options
+      type: select_multiple
+      options:
+      - Front Pocket Print
+      - Back Large Print
+      - Sleeve Print
+      - Custom Neckline
+      required: false
+    - id: 10
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should we ship your order?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_province
+      label: State or Province
+      hint: State or province for delivery
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country
+      label: Country
+      hint: Country for delivery
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_method
+      label: Shipping Method
+      hint: Select your preferred shipping option
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Express Shipping (2-3 days)
+      - Overnight Shipping
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any special instructions or requests?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_accepted
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

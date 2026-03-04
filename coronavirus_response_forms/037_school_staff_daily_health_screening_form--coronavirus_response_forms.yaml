@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Staff Daily Health Screening Form
+    pages:
+    - id: 1
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Difficulty breathing
+      required: true
+    - id: 5
+      name: traveled_outside_prophets
+      label: Travelled outside prophets
+      hint: In the past 14 days prophets
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_trace
+      label: Contact Trace
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 7
+      name: school_outside_workplace
+      label: School or Outside Workplace
+      hint: Are you at work at school or outside of the workplace today
+      type: select_one
+      options:
+      - School
+      - Outside
+      required: true
+    - id: 8
+      name: healthcare_worker
+      label: Healthcare Worker
+      hint: Are you a healthcare worker
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 9
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Have you been vaccinated against COVID-19
+      type: select_one
+      options:
+      - 'False'
+      - Vaccinated
+      required: true
+    - id: 10
+      name: health_status
+      label: Health Status
+      hint: How would you describe your current health status
+      type: select_one
+      options:
+      - Good
+      - Not well
+      - Hospitalized
+      required: true

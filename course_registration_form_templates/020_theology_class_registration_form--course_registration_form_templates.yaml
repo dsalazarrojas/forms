@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theology Class Registration Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_preferences
+      label: Course Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course
+      label: Course
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Course 1''}'
+      - '{''value'': 2, ''label'': ''Course 2''}'
+      - '{''value'': 3, ''label'': ''Course 3''}'
+      required: false
+    - id: 9
+      name: theology_class
+      label: Theology Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false

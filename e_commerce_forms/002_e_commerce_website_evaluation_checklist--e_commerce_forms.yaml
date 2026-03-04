@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Website Evaluation Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: website_name
+      label: Website Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_design
+      label: Website Design
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: true
+    - id: 7
+      name: website_navigation
+      label: Website Navigation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Difficult''}'
+      - '{''label'': ''Somewhat Difficult''}'
+      - '{''label'': ''Not Difficult at All''}'
+      required: true
+    - id: 8
+      name: website_content
+      label: Website Content
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Confusing''}'
+      - '{''label'': ''Somewhat Confusing''}'
+      - '{''label'': ''Not Confusing at All''}'
+      required: true
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Therapy Discharge Form
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: admission_date
+      label: Admission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_treatment_summary
+      label: -- Treatment Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_diagnosis
+      label: Primary Pain Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treatment_modalities
+      label: Treatment Modalities Received (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Physical therapy
+      - Occupational therapy
+      - Psychological counseling
+      - Medication management
+      - Injection therapy
+      - Exercise program
+      - Relaxation training
+      - Pain education
+      required: true
+    - id: 10
+      name: section_header_outcomes
+      label: -- Treatment Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pain_level_at_admission
+      label: Pain Level at Admission (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pain_level_at_discharge
+      label: Pain Level at Discharge (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: functional_improvement
+      label: Functional Improvement
+      hint: null
+      type: select_one
+      options:
+      - Significant improvement
+      - Moderate improvement
+      - Minimal improvement
+      - No change
+      - Decline
+      required: true
+    - id: 14
+      name: mobility_status
+      label: Mobility Status at Discharge
+      hint: null
+      type: select_one
+      options:
+      - Independent
+      - Requires minimal assistance
+      - Requires moderate assistance
+      - Requires maximum assistance
+      - Bedbound
+      required: true
+    - id: 15
+      name: activities_tolerance
+      label: Tolerance for Activities of Daily Living
+      hint: null
+      type: select_one
+      options:
+      - Fully independent
+      - Mostly independent with modifications
+      - Requires assistance
+      - Requires significant assistance
+      required: true
+    - id: 16
+      name: section_header_medications
+      label: -- Discharge Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: prescribed_medications
+      label: List Prescribed Medications at Discharge
+      hint: Include name, dosage, frequency, and instructions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_changes
+      label: Medication Changes Made During Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_instructions
+      label: -- Discharge Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: home_exercise_program
+      label: Patient Given Home Exercise Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: activity_restrictions
+      label: Activity Restrictions or Limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lifestyle_recommendations
+      label: Lifestyle Recommendations
+      hint: Diet, sleep, activity, stress management, etc
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_appointments
+      label: Follow-up Appointments Scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: follow_up_details
+      label: Follow-up Appointment Details
+      hint: Provider, specialty, recommended date/timeframe
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_safety
+      label: -- Safety and Precautions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: precautions
+      label: Precautions and Safety Instructions
+      hint: What to avoid, warning signs, when to seek care
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: emergency_instructions
+      label: Emergency Contact Instructions
+      hint: When and how to seek emergency care
+      type: text
+      options: []
+      required: false

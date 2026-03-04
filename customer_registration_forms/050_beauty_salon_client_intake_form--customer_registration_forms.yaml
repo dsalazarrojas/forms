@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Client Intake Form
+    pages:
+    - id: 1
+      name: personal_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_header
+      label: -- How Did You Find Us --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Friend or Family
+      - Internet Search
+      - Social Media
+      - Online Review
+      - Salon Website
+      - Google Maps
+      - Other
+      required: true
+    - id: 10
+      name: referred_by
+      label: Who Referred You (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: first_visit
+      label: Is This Your First Visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: previous_salon
+      label: Previous Salon Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hair_header
+      label: -- Hair Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Textured
+      required: true
+    - id: 15
+      name: hair_texture
+      label: Hair Texture
+      hint: null
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Thick
+      - Very Thick
+      required: true
+    - id: 16
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: select_one
+      options:
+      - Damaged
+      - Weak
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 17
+      name: hair_color_natural
+      label: Natural Hair Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: hair_color_current
+      label: Current Hair Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: color_treatments
+      label: Previous Color Treatments
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Previously
+      - Currently
+      required: false
+    - id: 20
+      name: scalp_header
+      label: -- Scalp and Skin --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: scalp_condition
+      label: Scalp Condition
+      hint: null
+      type: select_one
+      options:
+      - Sensitive
+      - Normal
+      - Oily
+      - Dry
+      - Combination
+      required: true
+    - id: 22
+      name: scalp_issues
+      label: Scalp Issues
+      hint: Dandruff, psoriasis, irritation, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies_header
+      label: -- Allergies and Sensitivities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: product_allergies
+      label: Product Allergies or Sensitivities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: chemical_sensitivities
+      label: Chemical Sensitivities
+      hint: Dyes, perms, relaxers, ammonia, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: goals_header
+      label: -- Salon Goals and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: service_goals
+      label: Service Goals
+      hint: What would you like to achieve
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: style_preferences
+      label: Style Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: maintenance_commitment
+      label: Maintenance Commitment Level
+      hint: How often are you willing to return
+      type: select_one
+      options:
+      - Minimal - Every 2-3 Months
+      - Regular - Monthly
+      - High - Every 4-6 Weeks
+      - Very High - Every 2-3 Weeks
+      required: true
+    - id: 30
+      name: lifestyle_header
+      label: -- Lifestyle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: lifestyle_description
+      label: Describe Your Lifestyle and Routine
+      hint: Active, professional, etc.
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: styling_time_available
+      label: Time Available for Styling
+      hint: Daily styling time commitment
+      type: select_one
+      options:
+      - Minimal - Under 5 minutes
+      - Quick - 5-10 minutes
+      - Moderate - 15-20 minutes
+      - Flexible - 20+ minutes
+      required: true
+    - id: 33
+      name: consent_header
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: privacy_agree
+      label: I Agree to Privacy and Data Handling Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 35
+      name: information_accurate
+      label: All Information Provided Is Accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

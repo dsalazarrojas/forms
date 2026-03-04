@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Enrolment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: email_verification
+      label: Confirm Email
+      hint: This is to confirm your email address
+      type: select_one
+      options:
+      - Email not confirmed
+      - Email confirmed
+      - Email unknown
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_title
+      label: course_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_start_date
+      label: course_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: course_end_date
+      label: course_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: training_location
+      label: training_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: training_duration
+      label: training_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: training_cost
+      label: training_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: training_type
+      label: training_type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: true
+    - id: 13
+      name: training_status
+      label: training_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: training_status_note
+      label: training_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_instructor
+      label: training_instructor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: training_instructor_phone
+      label: training_instructor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_instructor_email
+      label: training_instructor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: training_location_note
+      label: training_location_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_notes
+      label: training_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: course_level
+      label: course_level
+      hint: null
+      type: select_one
+      options:
+      - Foundation
+      - Intermediate
+      required: true
+    - id: 21
+      name: course_topic
+      label: course_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: course_topic_note
+      label: course_topic_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_topic_link
+      label: course_topic_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_topic_link_note
+      label: course_topic_link_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

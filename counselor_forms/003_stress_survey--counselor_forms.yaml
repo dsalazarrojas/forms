@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stress Survey
+    pages:
+    - id: 1
+      name: stress_survey_questions
+      label: What are your stress triggers?
+      hint: null
+      type: select_multiple
+      options:
+      - work
+      - home
+      - social_media
+      required: false
+    - id: 2
+      name: stress_level
+      label: How do you feel right now?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stress_frequency
+      label: How often do you experience these feelings?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: stress_duration
+      label: How long have you been feeling stressed?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 5
+      name: stress_impact
+      label: How much has stress impacted your daily life?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: stress_management
+      label: What do you think helps you manage stress?
+      hint: null
+      type: select_multiple
+      options:
+      - exercise
+      - meditation
+      - time_with_family
+      - time_with_friends
+      required: false
+    - id: 7
+      name: other_stressors
+      label: Are there any other things that stress you that weren't listed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_stressors_comments
+      label: If yes, please describe them
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: stress_survey_comments
+      label: Do you have any other comments or questions about this survey?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Informed Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: counseling_details
+      label: Counseling Details
+      hint: Please provide details about your current situation and concerns.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: counselor_info
+      label: Counselor Information
+      hint: Is there something we should know about your counselor?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand the importance of confidentiality in the counseling relationship.
+      - I understand that all notes, recordings, and other records will be kept confidential
+        and will not be shared with anyone outside of the counselor.
+      - I understand that I can leave the counseling at any time.
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_agreement
+      label: Client Agreement
+      hint: Please sign below to confirm you have read and understood the terms of
+        this agreement.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: counselor_agreement
+      label: Counselor Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_last_session
+      label: Date of Last Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: How do you prefer to pay for sessions?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: insurance
+      label: Insurance
+      hint: Do you have insurance?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: session_fees
+      label: Session Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false

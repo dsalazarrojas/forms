@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Fundraising Program Admission Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_info
+      label: Event Info
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fundraising_event
+      label: Fundraising Event
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Event A''}'
+      - '{''value'': ''Event B''}'
+      required: false
+    - id: 9
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Participant A''}'
+      - '{''value'': ''Participant B''}'
+      required: false
+    - id: 10
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: org_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Organization A''}'
+      - '{''value'': ''Organization B''}'
+      required: false

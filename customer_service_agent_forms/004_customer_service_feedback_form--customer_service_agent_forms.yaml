@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Feedback Form
+    pages:
+    - id: 1
+      name: customer_service_feedback_form
+      label: Customer Service Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback
+      - Suggestions
+      - Comments
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_agent_name
+      label: Customer Service Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_service_feedback_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_feedback_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_feedback_form_subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_feedback_form_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_feedback_form_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_feedback_form_satisfied
+      label: Satisfied
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 11
+      name: customer_service_feedback_form_uploads
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

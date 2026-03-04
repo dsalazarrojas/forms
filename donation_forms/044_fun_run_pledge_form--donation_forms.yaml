@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fun Run Pledge Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_relationship
+      label: Participant Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: relationship_other_details
+      label: Relationship Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporter_name
+      label: Supporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supporter_name_hint
+      label: Supporter Name Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporter_email
+      label: Supporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: supporter_email_hint
+      label: Supporter Email Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: message_to_pledgee
+      label: Message to Pledgee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: payment_method_hint
+      label: Payment Method Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supporter_phone
+      label: Supporter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supporter_message
+      label: Supporter Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: donor_relationship
+      label: Donor/Supporter Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: donor_organisation
+      label: Donor Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: donor_organisation_details
+      label: Donor Organisation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supporter_signature
+      label: Supporter Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: supporter_address
+      label: Supporter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporter_city
+      label: Supporter City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supporter_postal_code
+      label: Supporter Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supporter_country
+      label: Supporter Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supporter_state
+      label: Supporter State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporter_postal_code_hint
+      label: Supporter Postal Code Hint
+      hint: null
+      type: text
+      options: []
+      required: false

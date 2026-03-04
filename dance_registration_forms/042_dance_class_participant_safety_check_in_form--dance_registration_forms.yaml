@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Participant Safety Check In Form
+    pages:
+    - id: 1
+      name: dance_class_participant_safety_check_in_form_1
+      label: Welcome To The Dance Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_safety_check_in
+      label: Participant Safety Check-in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: acknowledgement_participant
+      label: Acknowledgement Participant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: acknowledgement_instructor
+      label: Acknowledgement Instructor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: acknowledgement_dance_studio
+      label: Acknowledgement Dance Studio
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

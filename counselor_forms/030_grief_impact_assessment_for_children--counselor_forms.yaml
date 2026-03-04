@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grief Impact Assessment For Children
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: The child's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: The child's age
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent or Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship
+      label: Relationship
+      hint: To whom do they have a relationship with the bereaved person?
+      type: select_one
+      options:
+      - Bereaved Child
+      - Bereaved Adult
+      - Other
+      required: false
+    - id: 6
+      name: grief_duration
+      label: How long has the child been experiencing grief?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - More than 6 months
+      required: false
+    - id: 7
+      name: impact_of_grief
+      label: What impact has the grief had on the child?
+      hint: null
+      type: select_multiple
+      options:
+      - None or Minimal
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 8
+      name: impact_on_daily_life
+      label: How has the grief impacted the child's daily life?
+      hint: null
+      type: select_multiple
+      options:
+      - None or Minimal
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 9
+      name: emotional_state
+      label: Current Emotional State
+      hint: null
+      type: select_multiple
+      options:
+      - None or Minimal
+      - Sadness
+      - Anxiety
+      - Anger
+      - Guilt
+      - Fear
+      required: false
+    - id: 10
+      name: coping_mechanism
+      label: How does the child cope with their grief?
+      hint: null
+      type: select_multiple
+      options:
+      - None or Minimal
+      - Talking to others
+      - Drawing or Art
+      - Playing or Acting
+      - Writing or Journaling
+      - Other
+      required: false
+    - id: 11
+      name: support_system
+      label: Support System
+      hint: What support system do they have for dealing with their grief?
+      type: select_multiple
+      options:
+      - None or Minimal
+      - Parent or Caregiver
+      - School
+      - Friends
+      - Family
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Awareness Course Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For course communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: occupation
+      label: Occupation
+      hint: Your profession
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employer
+      label: Employer
+      hint: Company or organization
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Healthcare
+      - Education
+      - Retail
+      - Food Service
+      - Hospitality
+      - Manufacturing
+      - Office Administration
+      - Public Service
+      - Student
+      - Other
+      required: true
+    - id: 12
+      name: reason_for_attending
+      label: Reason for Attending
+      hint: Why do you want this course
+      type: select_one
+      options:
+      - Employer requirement
+      - Personal knowledge
+      - Community volunteer
+      - Career development
+      - Compliance requirement
+      - Other
+      required: true
+    - id: 13
+      name: course_format_preference
+      label: Course Format Preference
+      hint: How would you like to attend
+      type: select_one
+      options:
+      - Online - Self-paced
+      - Online - Live virtual
+      - In-person
+      - Hybrid
+      required: true
+    - id: 14
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: availability
+      label: Availability
+      hint: When can you attend
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Flexible schedule
+      required: true
+    - id: 16
+      name: prior_knowledge
+      label: Prior COVID-19 Knowledge
+      hint: Your current understanding
+      type: select_one
+      options:
+      - None - Beginner
+      - Basic awareness
+      - Some training
+      - Advanced knowledge
+      required: true
+    - id: 17
+      name: healthcare_background
+      label: Healthcare Background
+      hint: Do you have medical training
+      type: select_one
+      options:
+      - Yes - Healthcare professional
+      - Yes - Healthcare student
+      - No - No medical background
+      required: true
+    - id: 18
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you want to learn
+      type: select_multiple
+      options:
+      - Virus transmission
+      - Prevention measures
+      - Vaccine information
+      - Safety protocols
+      - Contact tracing
+      - Community health
+      - Workplace safety
+      - Mental health
+      required: true
+    - id: 19
+      name: certification_needed
+      label: Certification Needed
+      hint: Do you need a certificate
+      type: select_one
+      options:
+      - Yes - For employer
+      - Yes - For records
+      - No - Knowledge only
+      required: true
+    - id: 20
+      name: employer_sponsorship
+      label: Employer Sponsorship
+      hint: Is employer paying
+      type: select_one
+      options:
+      - Yes - Full sponsorship
+      - Yes - Partial sponsorship
+      - No - Self-funded
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Invoice to Employer
+      - Purchase Order
+      - Other
+      required: true
+    - id: 22
+      name: group_registration
+      label: Group Registration
+      hint: Are others registering with you
+      type: select_one
+      options:
+      - No - Individual
+      - Yes - 2-5 people
+      - Yes - 6-10 people
+      - Yes - More than 10
+      required: true
+    - id: 23
+      name: group_size
+      label: Group Size
+      hint: Number of registrants
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: language_preference
+      label: Language Preference
+      hint: For course materials
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - French
+      - Other
+      required: true
+    - id: 26
+      name: how_did_you_hear
+      label: How Did You Hear About Course
+      hint: Referral source
+      type: select_one
+      options:
+      - Employer
+      - Social media
+      - Website
+      - Friend or colleague
+      - Search engine
+      - Other
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or notes
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: I agree to course terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 29
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

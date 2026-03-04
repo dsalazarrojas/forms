@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Finance Client Intake Form
+    pages:
+    - id: 1
+      name: new_finance_client_intake_form_page_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Unemployed
+      required: true
+    - id: 8
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: select_multiple
+      options:
+      - Bank
+      - Credit Union
+      - Investment Company
+      - Other
+      required: true
+    - id: 9
+      name: income_range
+      label: Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

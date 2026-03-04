@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Evaluation Form
+    pages:
+    - id: 1
+      name: customer_service_evaluation_form
+      label: customer_service_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false

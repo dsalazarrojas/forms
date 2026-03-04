@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Submission Form
+    pages:
+    - id: 1
+      name: submission_intro
+      label: -- Client Submission --
+      hint: Please provide your information below
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_type
+      label: Type of Submission or Request
+      hint: What is the purpose of this submission?
+      type: select_one
+      options:
+      - Inquiry
+      - Service request
+      - Feedback
+      - Complaint
+      - Other
+      required: true
+    - id: 8
+      name: submission_subject
+      label: Subject
+      hint: Brief summary of your submission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_details
+      label: Detailed Description
+      hint: Please provide complete details of your request or message
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this submission?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you like us to respond?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Video call
+      - Whichever is fastest
+      required: true
+    - id: 12
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: When are you typically available?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reference_number
+      label: Reference Number or Case ID
+      hint: If you have a previous case or reference number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachments_notes
+      label: Attachments or Additional Information
+      hint: Any files or additional context you want to share
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consent_contact
+      label: I consent to be contacted regarding this submission
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

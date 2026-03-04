@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Coaching Form
+    pages:
+    - id: 1
+      name: coached_agent_name
+      label: Coached Agent Name
+      hint: Enter the name of the agent being coached
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: Enter the name of the coach or supervisor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coaching_session_date
+      label: Coaching Session Date
+      hint: Enter the date of the coaching session
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: coaching_session_time
+      label: Coaching Session Time
+      hint: Enter the start and end time of the session
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: coaching_session_location
+      label: Coaching Session Location
+      hint: Enter the location where the session took place
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: coaching_focus_area
+      label: Coaching Focus Area
+      hint: Select the primary focus area for this session
+      type: select_one
+      options: ["Communication Skills", "Product Knowledge", "Customer Service", "Sales Techniques", "Problem Solving", "Time Management", "Teamwork", "Stress Management", "Other"]
+      required: true
+    - id: 7
+      name: coaching_objectives
+      label: Coaching Objectives
+      hint: What are the objectives for this coaching session?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_performance_assessment
+      label: Current Performance Assessment
+      hint: Assess the agent's current performance in the focus area
+      type: select_one
+      options: ["Excellent", "Good", "Satisfactory", "Needs Improvement", "Unsatisfactory"]
+      required: true
+    - id: 9
+      name: strengths_identified
+      label: Strengths Identified
+      hint: What strengths did you identify in the agent's performance?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas need improvement?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: coaching_activities_header
+      label: -- Coaching Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coaching_methods_used
+      label: Coaching Methods Used
+      hint: What coaching methods were used during the session?
+      type: select_multiple
+      options: ["Role-playing", "Demonstration", "Questioning", "Feedback", "Case Studies", "Active Listening", "Goal Setting", "Other"]
+      required: true
+    - id: 13
+      name: examples_discussed
+      label: Examples Discussed
+      hint: What specific examples were discussed during the session?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: skills_practiced
+      label: Skills Practiced
+      hint: What skills were practiced during the session?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_plan_development
+      label: Action Plan Development
+      hint: What action plan was developed for improvement?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: goals_set
+      label: Goals Set
+      hint: What specific goals were set for the agent?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: timeline_for_improvement
+      label: Timeline for Improvement
+      hint: What is the timeline for achieving the goals?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: resources_provided
+      label: Resources Provided
+      hint: What resources were provided to support improvement?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_session_planned
+      label: Follow-up Session Planned
+      hint: Is a follow-up coaching session planned?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Date
+      hint: If yes, enter the date for the follow-up session
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: agent_feedback
+      label: Agent Feedback
+      hint: What feedback did the agent provide about the session?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: coach_signature
+      label: Coach Signature
+      hint: Digital signature of the coach
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: agent_signature
+      label: Agent Signature
+      hint: Digital signature of the agent
+      type: text
+      options: []
+      required: true

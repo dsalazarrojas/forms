@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: nonviolent_communication_training_fund_donation_form
+    pages:
+    - id: 1
+      name: nonviolent_communication_training_fund_donation_form_name
+      label: donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: nonviolent_communication_training_fund_donation_form_contact_information
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nonviolent_communication_training_fund_donation_form_donation_type
+      label: donation type
+      hint: null
+      type: select_one
+      options:
+      - '{''option_value'': ''general donation''}'
+      - '{''option_value'': ''specific trainee donation''}'
+      - '{''option_value'': ''recurring donation''}'
+      required: false
+    - id: 4
+      name: nonviolent_communication_training_fund_donation_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: nonviolent_communication_training_fund_donation_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nonviolent_communication_training_fund_donation_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nonviolent_communication_training_fund_donation_form_donation_date
+      label: donation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: nonviolent_communication_training_fund_donation_form_donation_time
+      label: donation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: nonviolent_communication_training_fund_donation_form_donation_frequency
+      label: donation frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option_value'': ''once''}'
+      - '{''option_value'': ''recurring''}'
+      required: false

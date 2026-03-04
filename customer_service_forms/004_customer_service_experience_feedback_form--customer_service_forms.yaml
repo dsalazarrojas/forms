@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Experience Feedback Form
+    pages:
+    - id: 1
+      name: page_1
+      label: customer_service_experience_feedback_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: customer_service_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''name'': ''not_satisfied'', ''label'': ''Not Satisfied''}'
+      required: false
+    - id: 3
+      name: page_3
+      label: customer_service_quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''overall_quality'', ''label'': ''Overall Quality''}'
+      - '{''id'': 2, ''name'': ''response_time'', ''label'': ''Response Time''}'
+      - '{''id'': 3, ''name'': ''communication_skills'', ''label'': ''Communication
+        Skills''}'
+      - '{''id'': 4, ''name'': ''product_knowledge'', ''label'': ''Product Knowledge''}'
+      required: false
+    - id: 4
+      name: page_4
+      label: customer_service_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_good'', ''label'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''somewhat_good'', ''label'': ''Somewhat Good''}'
+      - '{''id'': 3, ''name'': ''not_good'', ''label'': ''Not Good''}'
+      required: false
+    - id: 5
+      name: page_5
+      label: customer_service_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''improve_response_time'', ''label'': ''Improve Response
+        Time''}'
+      - '{''id'': 2, ''name'': ''improve_communication'', ''label'': ''Improve Communication''}'
+      - '{''id'': 3, ''name'': ''improve_product_knowledge'', ''label'': ''Improve
+        Product Knowledge''}'
+      required: false
+    - id: 6
+      name: page_6
+      label: customer_service_experience_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: customer_service_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: customer_service_phone
+      hint: null
+      type: text
+      options: []
+      required: false

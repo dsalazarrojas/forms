@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Credit Application Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Select structure
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_business
+      label: Years in Business
+      hint: How long established?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Physical business location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_phone
+      label: Business Phone
+      hint: Main business number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_email
+      label: Business Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact
+      label: -- Primary Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Owner or Manager Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_title
+      label: Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: Personal business email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: financial_information
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Last 12 months revenue
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_assets
+      label: Total Assets
+      hint: Approximate total assets
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_liabilities
+      label: Total Liabilities
+      hint: Current total debt
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: credit_amount
+      label: -- Credit Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: credit_requested
+      label: Credit Amount Requested
+      hint: Amount of credit needed
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: credit_type
+      label: Type of Credit
+      hint: What kind of credit?
+      type: select_one
+      options:
+      - Line of Credit
+      - Term Loan
+      - Equipment Financing
+      - Working Capital
+      - Expansion Loan
+      - Other
+      required: true
+    - id: 21
+      name: credit_purpose
+      label: Purpose of Credit
+      hint: What will funds be used for?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: repayment_period
+      label: Preferred Repayment Period
+      hint: How many months?
+      type: select_one
+      options:
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      - 36 Months
+      - 60 Months
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

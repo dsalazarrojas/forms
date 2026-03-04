@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Community Fund Donation Form
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donations
+      label: Donations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': '''', ''value'': ''''}'
+      - '{''id'': 2, ''label'': '''', ''value'': ''''}'
+      - '{''id'': 3, ''label'': '''', ''value'': ''''}'
+      - '{''id'': 4, ''label'': '''', ''value'': ''''}'
+      - '{''id'': 5, ''label'': '''', ''value'': ''''}'
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_comments
+      label: Donor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_notes
+      label: Donor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Form Submitter 1'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Form Submitter 2'', ''value'': ''2''}'
+      required: false
+    - id: 9
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Processed'', ''value'': ''2''}'
+      required: false

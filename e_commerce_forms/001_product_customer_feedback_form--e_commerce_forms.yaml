@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_customer_feedback_form
+    pages:
+    - id: 1
+      name: product_customer_feedback
+      label: product_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rate
+      label: rate_product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_comments
+      label: product_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_recommendation
+      label: product_recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: feedback_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: feedback_time
+      hint: null
+      type: time
+      options: []
+      required: false

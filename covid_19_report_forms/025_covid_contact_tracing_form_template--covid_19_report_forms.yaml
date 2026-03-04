@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_contact_tracing_form_template
+    pages:
+    - id: 1
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_date
+      label: contact_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_id
+      label: healthcare_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_name
+      label: healthcare_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_location
+      label: contact_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: exposure_type
+      label: exposure_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: travel_history
+      label: travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_notes
+      label: contact_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: test_result
+      label: test_result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

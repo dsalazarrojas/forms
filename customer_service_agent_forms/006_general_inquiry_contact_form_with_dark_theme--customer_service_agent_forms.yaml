@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Inquiry Contact Form With Dark Theme
+    pages:
+    - id: 1
+      name: general_inquiry_form_data
+      label: General Inquiry Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone_number
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_subject
+      label: Customer Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_inquiry_type
+      label: Customer Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - Support
+      - Feedback
+      - Other
+      required: true
+    - id: 8
+      name: customer_inquiry_type_other
+      label: Customer Inquiry Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_attachment
+      label: Customer Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

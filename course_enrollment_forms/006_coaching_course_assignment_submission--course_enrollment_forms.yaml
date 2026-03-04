@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Course Assignment Submission
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID or Participant ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_course
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: course_name
+      label: Course Name
+      hint: Name of the coaching course
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of your course instructor
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_assignment
+      label: -- Assignment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assignment_name
+      label: Assignment Name or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assignment_number
+      label: Assignment Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: section_submission
+      label: -- Assignment Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assignment_file
+      label: Upload Assignment File
+      hint: Upload your completed assignment in PDF, Word, or text format
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: Additional Comments
+      hint: Any notes or explanations about your assignment
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: late_submission
+      label: Is this a late submission?
+      hint: null
+      type: select_one
+      options:
+      - No, on time
+      - Yes, late
+      required: true
+    - id: 19
+      name: late_reason
+      label: If late, please explain why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_confirmation
+      label: -- Submission Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: confirm_original_work
+      label: I confirm this is my original work
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 22
+      name: confirm_academic_integrity
+      label: I acknowledge the academic integrity policy
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true

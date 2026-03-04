@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Short Course Admission Form
+    pages:
+      - id: 1
+        name: section_applicant_info
+        label: -- Applicant Information --
+        hint: Short course application details and contact info
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Applicant name
+        hint: Full name for admission
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: For admissions communication
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: prior_experience
+        label: Prior experience
+        hint: Brief description of prior coding experience
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: preferred_start_date
+        label: Preferred start date
+        hint: When you would like to begin the course
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: payment_method
+        label: Payment method
+        hint: Choose how you will pay for the course
+        type: select_one
+        options: [Credit card, Bank transfer, Invoice]
+        required: true
+      - id: 7
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone for emergencies
+        type: text
+        options: []
+        required: false

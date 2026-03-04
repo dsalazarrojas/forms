@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: order_revision_form
+    pages:
+    - id: 1
+      name: order_revision_form
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: revision_reason
+      label: why_revision
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      required: false
+    - id: 3
+      name: revision_date
+      label: revision_date
+      hint: Please enter the date of revision
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: any_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: order_id
+      label: Order Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cancel_order
+      label: cancel_order_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit_button
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: email_sent
+      label: email_sent
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      required: false

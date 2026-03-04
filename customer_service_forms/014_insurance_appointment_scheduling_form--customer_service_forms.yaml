@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Appointment Scheduling Form
+    pages:
+    - id: 1
+      name: insurance_appointment_scheduling_form
+      label: Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_service_form
+      label: Customer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: scheduling_form
+      label: Scheduling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_appointment
+      label: Date of Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_appointment
+      label: Time of Appointment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone_number
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

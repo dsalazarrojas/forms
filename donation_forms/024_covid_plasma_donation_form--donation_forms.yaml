@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID Plasma Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to answer
+      required: false
+    - id: 8
+      name: prior_covid_diagnosis
+      label: Prior COVID-19 Diagnosis
+      hint: Confirmed positive test result
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 9
+      name: covid_diagnosis_date
+      label: Date of COVID-19 Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: covid_recovery
+      label: Have You Fully Recovered from COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Mostly
+      required: true
+    - id: 11
+      name: recovered_date
+      label: Date of Recovery or End of Symptoms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: prior_plasma_donation
+      label: Prior COVID Convalescent Plasma Donation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: donation_frequency
+      label: How Often Have You Donated
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Two times
+      - Three times
+      - Four or more times
+      required: false
+    - id: 14
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_one
+      options:
+      - O positive
+      - O negative
+      - A positive
+      - A negative
+      - B positive
+      - B negative
+      - AB positive
+      - AB negative
+      - Unknown
+      required: true
+    - id: 15
+      name: previous_blood_donation
+      label: Ever Donated Blood Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: That might affect donation eligibility
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_illness
+      label: Currently Experiencing Illness
+      hint: Fever, cough, or other symptoms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: consent_agreement
+      label: I consent to COVID plasma donation
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

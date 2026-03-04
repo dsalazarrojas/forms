@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mini Grant Donation Form
+    pages:
+    - id: 1
+      name: donator_name
+      label: Donator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true

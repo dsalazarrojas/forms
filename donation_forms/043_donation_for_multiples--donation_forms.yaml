@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation For Multiples
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donations Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Cash
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_facilities
+      label: School Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - School Hall
+      - School Field
+      - School Laboratory
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: students_needs
+      label: Students Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_purpose
+      label: Donation Purpose
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - School
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: thank_you_message
+      label: Thank You Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: CDC COVID-19 Vaccination Program Provider Agreement
+    pages:
+    - id: 1
+      name: agreement_intro_section
+      label: -- CDC COVID-19 Vaccination Program --
+      hint: This agreement must be completed by all providers participating in the
+        vaccination program.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_legal_name
+      label: Organization Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_address_agreement
+      label: Primary Vaccination Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_person_agreement
+      label: Primary Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: coordinator_phone_agreement
+      label: Coordinator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: clinical_lead_name
+      label: Medical/Clinical Lead Name
+      hint: The person responsible for clinical oversight.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_type_selection
+      label: Type of Vaccination Facility
+      hint: null
+      type: select_one
+      options:
+      - Public Health Clinic
+      - Private Medical Practice
+      - Pharmacy
+      - Hospital
+      - Community Health Center
+      - Mobile/Mass Vaccination Site
+      required: true
+    - id: 8
+      name: vaccine_storage_capacity
+      label: Do you have specialized vaccine storage (Ultra-Cold/Standard)?
+      hint: null
+      type: select_multiple
+      options:
+      - Standard Refrigerator (2 to 8 C)
+      - Standard Freezer (-25 to -15 C)
+      - Ultra-Cold Freezer (-80 to -60 C)
+      required: true
+    - id: 9
+      name: compliance_no_cost_patient
+      label: I agree that vaccines will be administered at no cost to the patient
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 10
+      name: compliance_vaers_reporting
+      label: I agree to report all adverse events to VAERS
+      hint: Vaccine Adverse Event Reporting System
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 11
+      name: vaccine_inventory_management
+      label: I agree to maintain accurate inventory records in the required state
+        system
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 12
+      name: anticipated_weekly_volume
+      label: Anticipated Weekly Vaccination Volume
+      hint: Estimated number of doses
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: digital_signature_authority
+      label: Authorized Representative Signature
+      hint: Enter full name to sign electronically.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agreement_execution_date
+      label: Execution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submission_notice_agreement
+      label: -- Submission Notice --
+      hint: Your application will be reviewed by the CDC and your State Health Department.
+      type: note
+      options: []
+      required: false

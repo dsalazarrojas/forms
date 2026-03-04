@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: campaign
+      label: Campaign
+      hint: Choose the campaign for this donation
+      type: select_multiple
+      options:
+      - Campaign 1
+      - Campaign 2
+      required: true
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Ongoing
+      - Quarterly
+      - Monthly
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Choose a payment method
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 10
+      name: donor_note
+      label: Note to Donor
+      hint: null
+      type: text
+      options: []
+      required: false

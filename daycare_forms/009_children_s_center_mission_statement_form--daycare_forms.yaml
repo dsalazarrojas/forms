@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Children Center Mission Statement Form
+    pages:
+      - id: 1
+        name: organization_name
+        label: Organization Name
+        hint: Name of the center or daycare
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: mission_statement
+        label: Mission Statement
+        hint: Provide the center mission statement text
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: core_values
+        label: Core Values
+        hint: List up to five core values
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: target_age_range
+        label: Target Age Range
+        hint: Age group served by program
+        type: select_one
+        options:
+          - 0 to 2
+          - 3 to 5
+          - 6 to 8
+          - Mixed ages
+        required: true
+      - id: 5
+        name: community_involvement
+        label: Community Involvement
+        hint: Describe outreach or partnership activities
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: operating_philosophy
+        label: Operating Philosophy
+        hint: Short description of approach to care and learning
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: contact_person
+        label: Contact Person
+        hint: Person responsible for mission inquiries
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: contact_email
+        label: Contact Email
+        hint: Email for follow up
+        type: email
+        options: []
+        required: true
+      - id: 9
+        name: additional_notes
+        label: Additional Notes
+        hint: Any extra information about the center
+        type: text
+        options: []
+        required: false

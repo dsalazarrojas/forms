@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Amenity Waiver
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_visit
+      label: Date of Visit
+      hint: When are you visiting
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: amenity_type
+      label: Amenity Type
+      hint: What will you be using
+      type: select_multiple
+      options:
+      - Fitness Center
+      - Swimming Pool
+      - Spa Services
+      - Restaurant Dining
+      - Bar Lounge
+      - Business Center
+      - Common Areas
+      - Event Spaces
+      - Other
+      required: true
+    - id: 10
+      name: party_size
+      label: Party Size
+      hint: Number in your group
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: health_screening
+      label: Health Screening
+      hint: COVID-19 symptoms check
+      type: select_one
+      options:
+      - No symptoms present
+      - Symptoms present - disclosed
+      - Prefer not to answer
+      required: true
+    - id: 12
+      name: recent_exposure
+      label: Recent COVID-19 Exposure
+      hint: In past 14 days
+      type: select_one
+      options:
+      - No known exposure
+      - Yes - Known exposure
+      - Unsure
+      required: true
+    - id: 13
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccination
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand COVID-19 risks
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 15
+      name: safety_rules
+      label: Agreement to Safety Rules
+      hint: Mask distancing hygiene
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 16
+      name: capacity_limitations
+      label: Capacity Limitations Acknowledgment
+      hint: Services may be limited
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 17
+      name: liability_release
+      label: Liability Release
+      hint: Release facility from claims
+      type: select_one
+      options:
+      - Yes I Release
+      - No I Do Not Release
+      required: true
+    - id: 18
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I assume all risks
+      type: select_one
+      options:
+      - Yes I Assume
+      - false
+      required: true
+    - id: 19
+      name: policy_changes
+      label: Policy Changes Acknowledgment
+      hint: Rules may change
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 20
+      name: compliance_agreement
+      label: Compliance Agreement
+      hint: I will follow all rules
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 21
+      name: symptom_reporting
+      label: Symptom Reporting
+      hint: I will report if symptoms develop
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 22
+      name: minor_guest
+      label: Is Guest a Minor
+      hint: Under 18 years
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If minor
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guest_signature
+      label: Guest Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
