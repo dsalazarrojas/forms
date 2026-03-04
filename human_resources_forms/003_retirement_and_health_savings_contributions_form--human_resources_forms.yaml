@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement And Health Savings Contributions Form
+    pages:
+    - id: 1
+      name: retirement_plan
+      label: Retirement Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: health_savings_contribution
+      label: Health Savings Contribution
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: health_flex_contribution
+      label: Health Flex Contribution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_change
+      label: Date of Change
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: health_flex_effective_date
+      label: Health Flex Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: retirement_plan_effective_date
+      label: Retirement Plan Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false

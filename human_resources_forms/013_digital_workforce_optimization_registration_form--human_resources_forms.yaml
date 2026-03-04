@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Workforce Optimization Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - London
+      - Paris
+      - Tokyo
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submission_timezone
+      label: Submission Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - completed
+      required: true
+    - id: 15
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - rejected
+      - pending
+      required: true
+    - id: 16
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_manager
+      label: Submitted By Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manager_submission_date
+      label: Manager Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: manager_submission_time
+      label: Manager Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: manager_submission_status
+      label: Manager Submission Status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - rejected
+      - pending
+      required: true
+    - id: 23
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - team1
+      - team2
+      - team3
+      required: true
+    - id: 24
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false

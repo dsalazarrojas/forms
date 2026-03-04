@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical lab access form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User 1''}'
+      - '{''id'': 2, ''name'': ''User 2''}'
+      - '{''id'': 3, ''name'': ''User 3''}'
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: Provide a brief reason for access
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lab_access
+      label: Lab Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Access 1''}'
+      - '{''id'': 2, ''name'': ''Access 2''}'
+      - '{''id'': 3, ''name'': ''Access 3''}'
+      required: false
+    - id: 6
+      name: lab_id
+      label: Lab ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lab_name
+      label: Lab Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lab_address
+      label: Lab Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lab_phone
+      label: Lab Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lab_email
+      label: Lab Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: access_level
+      label: Access Level
+      hint: Select an access level
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low Level''}'
+      - '{''id'': 2, ''name'': ''Medium Level''}'
+      - '{''id'': 3, ''name'': ''High Level''}'
+      required: false
+    - id: 12
+      name: access_duration
+      label: Access Duration
+      hint: Provide access duration
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: authorized_staff
+      label: Authorized Staff
+      hint: Select authorized staff
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Staff 1''}'
+      - '{''id'': 2, ''name'': ''Staff 2''}'
+      - '{''id'': 3, ''name'': ''Staff 3''}'
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: lab_user_id
+      label: Lab User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_title
+      label: User Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lab_title
+      label: Lab Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

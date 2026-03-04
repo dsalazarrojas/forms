@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Schedule Form
+    pages:
+    - id: 1
+      name: interview_schedule_form_application_name
+      label: Application Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: interview_schedule_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: interview_schedule_form_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interview_schedule_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interview_schedule_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interview_schedule_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: interview_schedule_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interview_schedule_form_preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - In Person
+      required: true
+    - id: 9
+      name: interview_schedule_form_interviewer
+      label: Interviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: interview_schedule_form_interviewer_email
+      label: Interviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: interview_schedule_form_interviewer_phone
+      label: Interviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: interview_schedule_form_interviewer_location
+      label: Interviewer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: interview_schedule_form_interviewer_availability
+      label: Interviewer Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 14
+      name: interview_schedule_form_confirmed
+      label: Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: interview_schedule_form_confirmed_date
+      label: Confirmed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: interview_schedule_form_confirmed_time
+      label: Confirmed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: interview_schedule_form_confirmed_location
+      label: Confirmed Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: interview_schedule_form_confirmed_comments
+      label: Confirmed Comments
+      hint: null
+      type: note
+      options: []
+      required: false

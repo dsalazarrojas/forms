@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Worker Offboarding Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''HR''}'
+      - '{''value'': ''IT''}'
+      - '{''value'': ''Finance''}'
+      required: true
+    - id: 4
+      name: company_property_returns
+      label: company property returns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_property_return_date
+      label: company property return date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: company_property_return_reason
+      label: company property return reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - '{''value'': ''Cancel''}'
+      required: true
+    - id: 9
+      name: company_property
+      label: company property
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: company_property_return_status
+      label: company property return status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Returned''}'
+      - '{''value'': ''Not Returned''}'
+      required: true
+    - id: 11
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_email
+      label: manager email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_phone
+      label: manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_comments
+      label: form comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_comments
+      label: manager comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_property_returned_date
+      label: company property returned date
+      hint: null
+      type: date
+      options: []
+      required: false

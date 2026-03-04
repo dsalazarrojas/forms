@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Spiritual Assessment Form
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: spiritual_clinical
+      label: Spiritual Clinical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_spirituality
+      label: Patient Spirituality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: spiritual_clinical_score
+      label: Spiritual Clinical Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: patient_spirituality_score
+      label: Patient Spirituality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: religious_practice
+      label: Religious Practice
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other - specify
+      - Spiritual or religious group
+      - Baha'i
+      - Baptist
+      - Buddhist
+      - Catholic
+      - Christian
+      - Eastern Orthodox
+      - Hindu
+      - Jain
+      - Jewish
+      - Latter Day Saint
+      - Lutheran
+      - Muslim
+      - Non-denominational
+      - None
+      - Other - specify
+      - Pagan
+      - Pentecostal
+      - Protestant
+      - Sikh
+      - Taoist
+      - Unitarian-Unitarian
+      required: false
+    - id: 8
+      name: spiritual_leadership
+      label: Spiritual Leadership
+      hint: null
+      type: select_one
+      options:
+      - Yes - actively seeking
+      - 'No'
+      - Yes - actively involved
+      - Yes - actively involved - with a specific spiritual leader
+      required: false
+    - id: 9
+      name: spiritual_growth
+      label: Spiritual Growth
+      hint: null
+      type: select_multiple
+      options:
+      - Not applicable
+      - None
+      - Yes - somewhat
+      - Yes - somewhat frequently
+      - Yes - very frequently
+      required: false
+    - id: 10
+      name: patient_awareness
+      label: Patient Awareness
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Some
+      - Almost all
+      - Completely
+      required: false

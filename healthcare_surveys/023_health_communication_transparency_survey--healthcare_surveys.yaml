@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: health-communication-transparency-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: perceived_transparency
+      label: perceived-transparency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Very Low''}'
+      - '{''label'': ''Not Sure''}'
+      required: true
+    - id: 3
+      name: trust
+      label: trust
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: clarity
+      label: clarity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: health_message
+      label: health-message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_team
+      label: healthcare-team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: true
+    - id: 7
+      name: perceived_clarity
+      label: perceived-clarity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: perceived_trust
+      label: perceived-trust
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: communication_strategy
+      label: communication-strategy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: data_collection
+      label: data-collection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: transparency
+      label: transparency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true

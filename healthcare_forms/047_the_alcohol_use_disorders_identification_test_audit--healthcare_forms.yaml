@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: The Alcohol Use Disorders Identification Test (AUDIT)
+    pages:
+    - id: 1
+      name: first_page
+      label: AUDIT_1
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 2
+      name: second_page
+      label: AUDIT_2
+      hint: null
+      type: select_multiple
+      options:
+      - item_1
+      - item_2
+      - item_3
+      required: false
+    - id: 3
+      name: third_page
+      label: AUDIT_3
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false
+    - id: 4
+      name: first_question
+      label: first_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: second_question
+      label: second_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: third_question
+      label: third_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fourth_question
+      label: fourth_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fifth_question
+      label: fifth_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_answer_a
+      label: first_answer_a
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: first_answer_b
+      label: first_answer_b
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: second_answer_a
+      label: second_answer_a
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: second_answer_b
+      label: second_answer_b
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: time_audited
+      label: time_audited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_audited_1
+      label: time_audited_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: time_audited_2
+      label: time_audited_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: time_audited_3
+      label: time_audited_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fourth_answer_a
+      label: fourth_answer_a
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fourth_answer_b
+      label: fourth_answer_b
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: first_audited_time
+      label: first_audited_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: second_audited_time
+      label: second_audited_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: third_audited_time
+      label: third_audited_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: first_audited_duration
+      label: first_audited_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: second_audited_duration
+      label: second_audited_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: first_audited_frequency
+      label: first_audited_frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - 1-2 times a year
+      - 3-6 times a year
+      - 1-2 times a month
+      - 1-2 times a month
+      required: false
+    - id: 25
+      name: first_audited_ever
+      label: first_audited_ever
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - 'True'
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oral Treatment Acceptance Form
+    pages:
+    - id: 1
+      name: oral_treatment_acceptance_form
+      label: Oral Treatment Acceptance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_terms
+      label: treatment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_price
+      label: treatment_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: patient_acceptance
+      label: patient_acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false

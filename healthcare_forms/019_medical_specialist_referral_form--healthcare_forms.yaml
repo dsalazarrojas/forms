@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Specialist Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referring_doctor
+      label: Referring Doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: specialist_info
+      label: Specialist Information
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''specialist1'', ''label'': ''Specialist 1''}'
+      - '{''name'': ''specialist2'', ''label'': ''Specialist 2''}'
+      - '{''name'': ''specialist3'', ''label'': ''Specialist 3''}'
+      - '{''name'': ''other_specialist'', ''label'': ''Other Specialist''}'
+      required: true
+    - id: 4
+      name: specialist_selected
+      label: Specialist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''specialist1'', ''label'': ''Specialist 1''}'
+      - '{''name'': ''specialist2'', ''label'': ''Specialist 2''}'
+      - '{''name'': ''specialist3'', ''label'': ''Specialist 3''}'
+      - '{''name'': ''other_specialist'', ''label'': ''Other Specialist''}'
+      required: true
+    - id: 5
+      name: referral_info
+      label: Referral Information
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: doctor_signature
+      label: Referring Doctor Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date_referral_sent
+      label: Date Referral Sent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: specialist_referral_details
+      label: Specialist Referral Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''name'': ''accepted'', ''label'': ''Accepted''}'
+      - '{''name'': ''rejected'', ''label'': ''Rejected''}'
+      - '{''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      - '{''name'': ''completed'', ''label'': ''Completed''}'
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: specialist_contact_info
+      label: Specialist Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: specialist_contact_name
+      label: Specialist Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specialist_email
+      label: Specialist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: specialist_phone
+      label: Specialist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: specialist_fax
+      label: Specialist Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: specialist_address
+      label: Specialist Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: specialist_license
+      label: Specialist License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: specialist_board_certification
+      label: Specialist Board Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: specialist_insurance
+      label: Specialist Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: specialist_notes
+      label: Specialist Notes
+      hint: null
+      type: text
+      options: []
+      required: false

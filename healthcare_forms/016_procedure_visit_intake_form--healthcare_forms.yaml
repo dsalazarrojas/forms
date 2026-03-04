@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: procedure_visit_intake_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procedure_date
+      label: procedure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: visit_start_time
+      label: visit_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: visit_end_time
+      label: visit_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: medical_record_info
+      label: medical_record_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_procedure
+      label: medical_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: procedure_status
+      label: procedure_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Complete
+      - Canceled
+      - Pending
+      required: false
+    - id: 18
+      name: procedure_status_reason
+      label: procedure_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: procedure_notes
+      label: procedure_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_gender
+      label: patient_gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      - Trans
+      - Unknown
+      required: false
+    - id: 22
+      name: visit_duration
+      label: visit_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: visit_type
+      label: visit_type
+      hint: null
+      type: select_multiple
+      options:
+      - New Patient Visit
+      - Follow-up Visit
+      - Check-up Visit
+      - Other
+      - Consultation
+      required: false
+    - id: 24
+      name: medical_specialist
+      label: medical_specialist
+      hint: null
+      type: select_multiple
+      options:
+      - Anesthesiologist
+      - Cardiologist
+      - Dermatologist
+      - Neurologist
+      - Other
+      - Pulmonologist
+      required: false
+    - id: 25
+      name: assigned_doctor
+      label: assigned_doctor
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

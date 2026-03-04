@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetic Note
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient & Appointment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: treatment_date
+      label: Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: practitioner
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_header
+      label: -- Assessment --
+      hint: Clinical observations.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: skin_analysis
+      label: Skin Analysis / Concern
+      hint: Describe skin type and primary concerns.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fitzpatrick_type
+      label: Fitzpatrick Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Type I
+      - Type II
+      - Type III
+      - Type IV
+      - Type V
+      - Type VI
+      required: true
+    - id: 9
+      name: treatment_details_header
+      label: -- Procedure Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: procedure_performed
+      label: Procedure Performed
+      hint: e.g., Botox, Filler, Laser.
+      type: select_one
+      options:
+      - Neuromodulator (Botox/Dysport)
+      - Dermal Filler
+      - Chemical Peel
+      - Microneedling
+      - Laser Resurfacing
+      - Facial
+      required: true
+    - id: 11
+      name: product_used
+      label: Product Used
+      hint: Brand and product name.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lot_number
+      label: Lot / Batch Number
+      hint: For tracking purposes.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dosage_units
+      label: Dosage / Units / Volume
+      hint: e.g., 20 units, 1ml.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: injection_sites
+      label: Treatment Area / Injection Sites
+      hint: Describe or diagram locations.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: post_care_header
+      label: -- Post-Procedure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: outcome
+      label: Immediate Outcome
+      hint: Patient reaction and immediate results.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: adverse_events
+      label: Adverse Events
+      hint: Any complications?
+      type: select_one
+      options:
+      - None
+      - Bruising
+      - Swelling
+      - Redness
+      - Other (Document below)
+      required: true
+    - id: 18
+      name: plan
+      label: Follow-up Plan
+      hint: Next appointment or instructions.
+      type: text
+      options: []
+      required: false

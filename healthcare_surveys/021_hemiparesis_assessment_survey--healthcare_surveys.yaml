@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hemiparesis Assessment Survey
+    pages:
+    - id: 1
+      name: hemiparesis_assessment_survey
+      label: hemiparesis_assessment_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: functional_impact
+      label: functional_impact
+      hint: null
+      type: select_one
+      options:
+      - option_0
+      - option_1
+      - option_2
+      required: true
+    - id: 3
+      name: mobility_needs
+      label: mobility_needs
+      hint: null
+      type: select_multiple
+      options:
+      - option_0
+      - option_1
+      required: true
+    - id: 4
+      name: hemiparesis_symptom_severity
+      label: hemiparesis_symptom_severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mobility_needs_description
+      label: mobility_needs_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: functional_impact_description
+      label: functional_impact_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hemiparesis_assessment_survey_comments
+      label: hemiparesis_assessment_survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false

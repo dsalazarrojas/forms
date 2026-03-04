@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: zumba_medical_history_form
+    pages:
+    - id: 1
+      name: patient_zumba_activities
+      label: has_zumba_dancing_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Zumba
+      - Zumba Gold
+      - Zumba Gold 10
+      required: false
+    - id: 2
+      name: frequency_zumba_dancing
+      label: how_often_do_you_zumba
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 3
+      name: zumba_dancing_duration
+      label: zumba_dancing_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: zumba_injuries
+      label: any_zumba_injuries
+      hint: null
+      type: select_multiple
+      options:
+      - Knees
+      - Hips
+      - Back
+      required: false
+    - id: 5
+      name: zumba_injury_details
+      label: details_about_zumba_injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: any_medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - High Cholesterol
+      required: false
+    - id: 7
+      name: medication_use
+      label: any_medication_use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: other_medical_history
+      label: other_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zumba_doctor
+      label: doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Lee
+      required: false
+    - id: 10
+      name: zumba_clinic
+      label: zumba_clinic
+      hint: null
+      type: select_one
+      options:
+      - Clinic A
+      - Clinic B
+      - Clinic C
+      required: false

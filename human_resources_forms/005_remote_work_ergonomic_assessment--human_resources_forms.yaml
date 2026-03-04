@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Ergonomic Assessment
+    pages:
+    - id: 1
+      name: home_office_setup
+      label: Home Office Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_workstation
+      label: Employee Workstation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: workstation_setup
+      label: Workstation Setup
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: chair_height
+      label: Chair Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: distance_between_monitors
+      label: Distance Between Monitors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: keyboard_location
+      label: Keyboard Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

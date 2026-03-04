@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: dietary fat intake recommendation form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fat_goals
+      label: What are your daily fat goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: total_daily_fat_intake
+      label: Total Daily Fat Intake
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: food_sources
+      label: Food Sources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: animal_sources
+      label: Animal fat from meat
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dairy_sources
+      label: Animal fat from dairy products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: other_sources
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_specify
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false

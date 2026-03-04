@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Employee Safety Check In Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_location
+      label: Office Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Office''}'
+      - '{''id'': 2, ''label'': ''Home''}'
+      - '{''id'': 3, ''label'': ''Remote''}'
+      required: false
+    - id: 3
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Onsite''}'
+      - '{''id'': 2, ''label'': ''Remote''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

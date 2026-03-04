@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Reimbursement Form
+    pages:
+    - id: 1
+      name: request_for_reimbursement_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Travel
+      - Training
+      - Miscellaneous
+      required: true
+    - id: 9
+      name: receipts
+      label: Receipts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reimbursed_by
+      label: Reimbursed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reimbursement_date
+      label: Reimbursement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: amount_reimbursed
+      label: Amount Reimbursed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 20
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_receipts
+      label: Uploaded Receipts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

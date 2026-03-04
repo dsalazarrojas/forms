@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_animal_drop_off_form
+    pages:
+    - id: 1
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: drop_off_date
+      label: Drop Off Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: drop_off_time
+      label: Drop Off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: drop_off_location
+      label: Drop Off Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: drop_off_contact_person
+      label: Drop Off Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinary_clinic_information
+      label: Veterinary Clinic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: animal_weight
+      label: Animal Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: size
+      label: Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: weight_range
+      label: Weight Range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: species_id
+      label: Species ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: microchip_number
+      label: Microchip Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: microchip_owner
+      label: Microchip Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: microchip_serial_number
+      label: Microchip Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: microchip_date
+      label: Microchip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: microchip_expiration_date
+      label: Microchip Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vet_signature
+      label: Vet Signature
+      hint: null
+      type: text
+      options: []
+      required: false

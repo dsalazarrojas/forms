@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Incident Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: incident_location
+      label: Location Where Incident Occurred
+      hint: Be specific - building, floor, room, or area
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - Slip, trip, or fall
+      - Struck by object
+      - Caught in or between equipment
+      - Overexertion or strain
+      - Exposure to harmful substance
+      - Electrical shock
+      - Vehicle-related
+      - Other
+      required: true
+    - id: 13
+      name: incident_description
+      label: Detailed Description of What Happened
+      hint: Include events leading up to and following the incident
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: body_part_injured
+      label: Body Part Injured
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Head or face
+      - Neck
+      - Back
+      - Shoulder or arm
+      - Hand or wrist
+      - Leg or knee
+      - Foot or ankle
+      - Chest or abdomen
+      - Other
+      required: true
+    - id: 15
+      name: injury_severity
+      label: Severity of Injury
+      hint: null
+      type: select_one
+      options:
+      - Minor - First aid only
+      - Moderate - Medical treatment required
+      - Serious - Emergency care needed
+      - Severe - Hospitalization required
+      required: true
+    - id: 16
+      name: section_response
+      label: -- Response and Follow-Up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: first_aid_administered
+      label: Was First Aid Administered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: medical_treatment_sought
+      label: Was Professional Medical Treatment Sought
+      hint: null
+      type: select_one
+      options:
+      - Yes - On-site medical staff
+      - Yes - Hospital or urgent care
+      - Yes - Personal physician
+      - false
+      required: true
+    - id: 19
+      name: witnesses
+      label: Names of Witnesses (if any)
+      hint: Provide names and contact information
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: equipment_involved
+      label: Equipment or Machinery Involved
+      hint: List any equipment, tools, or materials involved
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contributing_factors
+      label: Contributing Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wet or slippery surface
+      - Inadequate lighting
+      - Defective equipment
+      - Lack of training
+      - Failure to use PPE
+      - Fatigue
+      - Rushing or shortcuts
+      - Other
+      required: false
+    - id: 22
+      name: corrective_actions
+      label: Immediate Corrective Actions Taken
+      hint: Describe any steps taken to prevent recurrence
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: report_date
+      label: Date This Report Was Filed
+      hint: null
+      type: date
+      options: []
+      required: true

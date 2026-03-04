@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: New Employee Details Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hire_date
+      label: hire_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Manager
+      - Team Member
+      - Temporary
+      required: true
+    - id: 5
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - On Leave
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_manager
+      label: reporting_manager
+      hint: null
+      type: text
+      options: []
+      required: false

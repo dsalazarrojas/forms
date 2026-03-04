@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: C-Suite Interview Form
+    pages:
+    - id: 1
+      name: interview_header
+      label: -- Executive Candidate Assessment --
+      hint: For HR and Interview Panel use only.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: target_position
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Chief Executive Officer
+      - Chief Financial Officer
+      - Chief Operating Officer
+      - Chief Technology Officer
+      - Chief Marketing Officer
+      required: true
+    - id: 4
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interview_date
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: competency_assessment
+      label: -- Competency Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: strategic_thinking_score
+      label: Strategic Thinking and Vision
+      hint: Ability to see the big picture and plan long-term.
+      type: select_one
+      options:
+      - 1 - Unsatisfactory
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Exceptional
+      required: true
+    - id: 8
+      name: leadership_style
+      label: Primary Leadership Style
+      hint: null
+      type: select_one
+      options:
+      - Transformational
+      - Democratic
+      - Laissez-faire
+      - Transactional
+      - Servant Leadership
+      required: true
+    - id: 9
+      name: financial_acumen
+      label: Financial Acumen and Resource Management
+      hint: Understanding of P&L, balance sheets, and ROI.
+      type: select_one
+      options:
+      - Weak
+      - Proficient
+      - Strong
+      required: true
+    - id: 10
+      name: cultural_alignment
+      label: Alignment with Corporate Values
+      hint: null
+      type: select_one
+      options:
+      - No Alignment
+      - Partial Alignment
+      - Full Alignment
+      required: true
+    - id: 11
+      name: experience_validation
+      label: Previous Executive Experience (Years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: interview_notes
+      label: Key Strengths and Observations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: final_recommendation
+      label: Final Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Recommend with Reservations
+      - Do Not Recommend
+      required: true
+    - id: 14
+      name: follow_up_actions
+      label: Recommended Next Steps
+      hint: e.g., Second interview, background check
+      type: text
+      options: []
+      required: false

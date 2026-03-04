@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Waste Management Survey
+    pages:
+    - id: 1
+      name: clinic_type
+      label: clinic_type
+      hint: null
+      type: select_one
+      options:
+      - Animal Care Facility
+      - Clinic
+      - Veterinary Hospital
+      - Veterinary School
+      - Other
+      - University Hospital
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: waste_types
+      label: waste_types
+      hint: null
+      type: select_multiple
+      options:
+      - Anatomical
+      - Cytotoxic
+      - Infectious
+      - Pharmaceutical
+      - Sharps
+      - Chemical
+      - Other (please specify)
+      - Other
+      required: false
+    - id: 3
+      name: disposal_practices
+      label: disposal_practices
+      hint: null
+      type: select_multiple
+      options:
+      - On-site autoclaving
+      - On-site incineration
+      - Off-site autoclaving
+      - Off-site incineration
+      - Landfill
+      - Storage
+      - Other (please specify)
+      - Other
+      required: false
+    - id: 4
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of training or education
+      - High costs
+      - Lack of resources or equipment
+      - Lack of regulatory guidance
+      - Other
+      - Other
+      required: false
+    - id: 5
+      name: training
+      label: training
+      hint: null
+      type: select_multiple
+      options:
+      - Online courses
+      - In-person workshops
+      - On-the-job training
+      - Other
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: Assigned tool
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_file
+      label: output_file
+      hint: Output file
+      type: text
+      options: []
+      required: false

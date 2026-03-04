@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Treatment Documentation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: treatment_date
+      label: Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Medication''}'
+      - '{''value'': ''Surgery''}'
+      - '{''value'': ''Therapy''}'
+      required: true
+    - id: 7
+      name: treatment_notes
+      label: Treatment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_record_status
+      label: Medical Record Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Complete''}'
+      required: true
+    - id: 13
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Discharged''}'
+      required: true
+    - id: 14
+      name: medical_record_notes
+      label: Medical Record Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_update
+      label: Medical Record Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_record_update_reason
+      label: Medical Record Update Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_update
+      label: Patient Update
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Updated''}'
+      - '{''value'': ''Not Updated''}'
+      required: false
+    - id: 19
+      name: patient_update_reason
+      label: Patient Update Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_update_date
+      label: Patient Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_update_status
+      label: Patient Update Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Discharged''}'
+      required: false
+    - id: 22
+      name: medical_record_close
+      label: Medical Record Close
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Closed''}'
+      - '{''value'': ''Not Closed''}'
+      required: false
+    - id: 23
+      name: medical_record_close_reason
+      label: Medical Record Close Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_close_date
+      label: Medical Record Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: medical_record_close_status
+      label: Medical Record Close Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Closed''}'
+      - '{''value'': ''Open''}'
+      required: false

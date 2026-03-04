@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Personnel Offboarding Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_day_worked
+      label: last_day_worked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: company_property_returns
+      label: company_property_returns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

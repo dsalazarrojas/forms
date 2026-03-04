@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dental Office Incident Form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_occurred
+      label: Date Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Patient Incident''}'
+      - '{''label'': ''Staff Incident''}'
+      - '{''label'': ''Third Party Incident''}'
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_involvement
+      label: Patient Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 7
+      name: staff_involvement
+      label: Staff Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 8
+      name: third_party_involvement
+      label: Third Party Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 9
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

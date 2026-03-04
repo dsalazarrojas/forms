@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Support Worker Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Support Worker
+      - Agency Staff
+      - Manager
+      required: false
+    - id: 7
+      name: experience
+      label: experience
+      hint: years
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training
+      label: training
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - Refresher
+      required: false
+    - id: 9
+      name: quiz_question
+      label: quiz_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quiz_option_1
+      label: option_1
+      hint: null
+      type: select_multiple
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: false
+    - id: 11
+      name: quiz_option_2
+      label: option_2
+      hint: null
+      type: select_multiple
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: false

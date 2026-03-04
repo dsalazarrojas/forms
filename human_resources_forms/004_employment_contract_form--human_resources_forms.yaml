@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Contract Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: contract_term
+      label: Contract Term
+      hint: null
+      type: select_one
+      options:
+      - One Month
+      - Three Months
+      - Six Months
+      - Twelve Months
+      - Month-to-Month
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: true

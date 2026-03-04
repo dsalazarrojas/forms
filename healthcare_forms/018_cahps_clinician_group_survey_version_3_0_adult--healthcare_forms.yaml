@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Clinician & Group Survey 3.0 (Adult)
+    pages:
+    - id: 1
+      name: adult_clinician_header
+      label: -- Adult Primary Care Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_clinician_visited
+      label: Which clinician did you visit most recently?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: clinic_name_visited
+      label: Clinic or Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: access_urgent_appointment
+      label: When you needed care right away, how often did you get an appointment
+        as soon as you needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 5
+      name: access_routine_appointment
+      label: How often did you get an appointment for a routine check-up as soon as
+        you needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 6
+      name: phone_response_time
+      label: When you phoned this office during regular hours, how often did you get
+        an answer as soon as you needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 7
+      name: clinicians_listen_score
+      label: How often did the clinician listen carefully to you?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 8
+      name: clinicians_explain_score
+      label: How often did the clinician explain things in a way that was easy to
+        understand?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 9
+      name: clinicians_respect_score
+      label: How often did the clinician show respect for what you had to say?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 10
+      name: clinicians_time_spent
+      label: How often did the clinician spend enough time with you?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 11
+      name: medical_history_knowledge
+      label: How often did the clinician seem to know the important info about your
+        medical history?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: false
+    - id: 12
+      name: staff_helpfulness_rating
+      label: How often were clerks and receptionists helpful?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 13
+      name: clinician_overall_rating_score
+      label: Overall rating of this clinician
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 14
+      name: additional_experience_notes
+      label: Anything else you want to tell us about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: survey_agreement_submit
+      label: I certify that these responses reflect my true experience
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Other
+      required: true

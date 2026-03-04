@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_emptowerment_in_digital_health_survey
+    pages:
+    - id: 1
+      name: survey_category
+      label: healthcare_surveys
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_emptowerment_in_digital_health_survey_title
+      label: patient_emptowerment_in_digital_health_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_emptowerment_in_digital_health_survey_description
+      label: patient_emptowerment_in_digital_health_survey_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_emptowerment_in_digital_health_survey_category
+      label: patient_emptowerment_in_digital_health_survey_category
+      hint: null
+      type: select_one
+      options:
+      - healthcare_surveys
+      - health surveys
+      - surveys
+      - health
+      - survey
+      required: false
+    - id: 5
+      name: patient_emptowerment_in_digital_health_survey_form_helps
+      label: patient_emptowerment_in_digital_health_survey_form_helps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_multiple
+      options:
+      - survey
+      - pdf
+      - csv
+      - json
+      - xml
+      - txt
+      required: false

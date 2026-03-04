@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Expense Claim Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_expense
+      label: Medical Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_service
+      label: Medical Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_expense_amount
+      label: Medical Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_expense_date
+      label: Medical Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_expense_type
+      label: Medical Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Hospitalization
+      - Doctor Visit
+      - Lab Test
+      - Prescription
+      - Other
+      required: false
+    - id: 10
+      name: medical_expense_description
+      label: Medical Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: healthcare_provider_email
+      label: Healthcare Provider E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: medical_expense_amount_captured
+      label: Medical Expense Amount Captured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medical_expense_date_captured
+      label: Medical Expense Date Captured
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_expense_type_captured
+      label: Medical Expense Type Captured
+      hint: null
+      type: select_one
+      options:
+      - Hospitalization
+      - Doctor Visit
+      - Lab Test
+      - Prescription
+      - Other
+      required: false
+    - id: 20
+      name: medical_expense_description_captured
+      label: Medical Expense Description Captured
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_pre_return_work_health_questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_status
+      label: work_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''available''}'
+      - '{''value'': ''unavailable''}'
+      - '{''value'': ''on_leave''}'
+      required: true
+    - id: 4
+      name: health_status
+      label: health_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''healthy''}'
+      - '{''value'': ''sick''}'
+      - '{''value'': ''absent''}'
+      required: true
+    - id: 5
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''none''}'
+      - '{''value'': ''injury''}'
+      - '{''value'': ''illness''}'
+      required: false
+    - id: 6
+      name: work_ergonomic
+      label: work_ergonomic
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''normal''}'
+      - '{''value'': ''uncomfortable''}'
+      - '{''value'': ''difficult''}'
+      required: false
+    - id: 7
+      name: employee_pre_return_protocol
+      label: employee_pre_return_protocol
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''protocol_1''}'
+      - '{''value'': ''protocol_2''}'
+      required: false
+    - id: 8
+      name: health_insurance
+      label: health_insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 9
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: date_of_return
+      label: date_of_return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_return
+      label: time_of_return
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: employee_return_protocol
+      label: employee_return_protocol
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 18
+      name: return_date_protocol
+      label: return_date_protocol
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 19
+      name: employee_pre_return_date
+      label: employee_pre_return_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: employee_pre_return_time
+      label: employee_pre_return_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: employee_pre_return_comments
+      label: employee_pre_return_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_certificate
+      label: medical_certificate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 25
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: true

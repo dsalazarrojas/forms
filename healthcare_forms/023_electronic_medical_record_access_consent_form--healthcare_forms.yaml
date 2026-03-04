@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: electronic_medical_record_access_consent_form
+    pages:
+    - id: 1
+      name: healthcare_provider
+      label: healthcare provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: access_date
+      label: access_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: consent_type
+      label: consent_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''explicit'', ''label'': ''explicit''}'
+      - '{''value'': ''implicit'', ''label'': ''implicit''}'
+      required: true
+    - id: 4
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_time
+      label: access_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: fax_number
+      label: fax_number
+      hint: null
+      type: text
+      options: []
+      required: false

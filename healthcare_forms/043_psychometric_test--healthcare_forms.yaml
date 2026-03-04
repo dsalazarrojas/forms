@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: psychometric_test
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics_page
+      label: demographics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: psychological_traits_page
+      label: psychological_traits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: cognitive_abilities_page
+      label: cognitive_abilities
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: personality_characteristics_page
+      label: personality_characteristics
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: test_results_page
+      label: test_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendations_page
+      label: recommendations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_information_page
+      label: patient_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_page
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_scores_page
+      label: test_scores
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assessment_page
+      label: assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: conclusion_page
+      label: conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

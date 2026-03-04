@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Speech Pathology Referral Form
+    pages:
+    - id: 1
+      name: referral_details
+      label: Referral details
+      hint: null
+      type: select_multiple
+      options:
+      - Child
+      - Adult
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: referral_reason
+      label: Referral reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referring_doctor
+      label: Referring doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_contact_details
+      label: Patient contact details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: speech_pathology_details
+      label: Speech Pathology details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_referral
+      label: Date of referral
+      hint: null
+      type: date
+      options: []
+      required: true

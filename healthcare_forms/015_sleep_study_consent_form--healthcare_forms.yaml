@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: sleep_study_consent_form
+    pages:
+    - id: 1
+      name: first_page
+      label: sleep_study_consent_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_info_date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_info_phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_info_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_info_risks
+      label: what_are_the_risks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_info_benefits
+      label: what_are_the_benefits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_info_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: patient_info_date_of_last_exam
+      label: date_of_last_exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: patient_info_doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patient_info_doctors_name
+      label: doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: sleep_study_consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: patient_info_signature_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: patient_info_signature_doc
+      label: signature_doc
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: patient_info_signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: patient_info_signature_doc_date
+      label: signature_doc_date
+      hint: null
+      type: date
+      options: []
+      required: false

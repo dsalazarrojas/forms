@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_scientist_interview_form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_science_experience
+      label: data_science_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: programming_languages
+      label: Programming Languages
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - R
+      - SQL
+      - Julia
+      required: false
+    - id: 7
+      name: programming_languages_list
+      label: programming_languages_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_science_skills
+      label: Data Science Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Data Visualization
+      - Machine Learning
+      - Data Mining
+      - Statistical Analysis
+      required: false
+    - id: 9
+      name: data_science_skills_list
+      label: data_science_skills_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_experience
+      label: Project Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Certified Data Scientist
+      - Certified Data Architect
+      - Certified Data Engineer
+      - Certified Business Analyst
+      required: false
+    - id: 14
+      name: certifications_list
+      label: certifications_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: references
+      label: References
+      hint: null
+      type: select_one
+      options:
+      - Peer
+      - Manager
+      - Mentor
+      - None
+      required: false
+    - id: 16
+      name: references_list
+      label: references_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: salary_currency
+      label: Salary Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 23
+      name: salary_frequency
+      label: Salary Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Yearly
+      - Hourly
+      - Daily
+      required: false
+    - id: 24
+      name: salary_frequency_other
+      label: Salary Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

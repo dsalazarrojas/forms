@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Self Care Program Evaluation Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: program_details
+      label: -- Program Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: enrollment_date
+      label: Program Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: duration_weeks
+      label: Duration of Participation (weeks)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: primary_condition
+      label: Primary Chronic Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: knowledge_gains
+      label: -- Knowledge and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: knowledge_improvement
+      label: How much did your knowledge improve?
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Moderately improved
+      - Slightly improved
+      - No change
+      - Declined
+      required: true
+    - id: 14
+      name: skills_acquired
+      label: New Self-Care Skills Acquired
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Disease management
+      - Medication management
+      - Healthy eating
+      - Exercise planning
+      - Stress management
+      - Communication with healthcare providers
+      - Problem solving
+      - Goal setting
+      required: true
+    - id: 15
+      name: behavior_changes
+      label: -- Behavior Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: lifestyle_changes
+      label: Have you made lifestyle changes?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significant changes
+      - Yes, some changes
+      - Minimal changes
+      - No changes
+      required: true
+    - id: 17
+      name: dietary_improvements
+      label: Dietary Improvements Made
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: exercise_improvements
+      label: Exercise or Physical Activity Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medication_adherence
+      label: Medication Adherence Improvement
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Somewhat improved
+      - No change
+      - Worsened
+      - Not applicable
+      required: false
+    - id: 20
+      name: health_outcomes
+      label: -- Health Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: symptom_management
+      label: Ability to Manage Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Better
+      - About the same
+      - Worse
+      - Much worse
+      required: true
+    - id: 22
+      name: quality_of_life
+      label: Quality of Life Improvement
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Moderately improved
+      - Slightly improved
+      - No change
+      - Declined
+      required: true
+    - id: 23
+      name: healthcare_utilization
+      label: Healthcare Visits (fewer visits is better)
+      hint: null
+      type: select_one
+      options:
+      - Significantly decreased
+      - Decreased
+      - No change
+      - Increased
+      - Significantly increased
+      required: false
+    - id: 24
+      name: program_satisfaction
+      label: -- Program Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: Overall Program Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 26
+      name: program_relevance
+      label: Was the program relevant to your needs?
+      hint: null
+      type: select_one
+      options:
+      - Highly relevant
+      - Relevant
+      - Somewhat relevant
+      - Not relevant
+      required: true
+    - id: 27
+      name: would_recommend
+      label: Would you recommend this program?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Undecided
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 28
+      name: suggested_improvements
+      label: Suggested Program Improvements
+      hint: null
+      type: text
+      options: []
+      required: false

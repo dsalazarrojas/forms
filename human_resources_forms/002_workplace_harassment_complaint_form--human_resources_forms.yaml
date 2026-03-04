@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Harassment Complaint Form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: What happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: When did it happen
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: At what time did it happen
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: What happened in more detail?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: perpetrator
+      label: Who was the perpetrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_list
+      label: Was there a witness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: witness_list
+      label: Was there a witness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: witness_names
+      label: Who were they?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: witness_names
+      label: Who were they?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: witness_statement
+      label: What did they say
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_statement
+      label: What did they say
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resolution
+      label: Was the issue resolved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: resolution
+      label: Was the issue resolved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: resolution_details
+      label: What happened next?
+      hint: null
+      type: text
+      options: []
+      required: false

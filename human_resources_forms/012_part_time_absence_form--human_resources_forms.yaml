@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Part Time Absence Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: leave_start_time
+      label: leave_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: leave_end_time
+      label: leave_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: hours_requested
+      label: hours_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: days_requested
+      label: days_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: note
+      options: []
+      required: false

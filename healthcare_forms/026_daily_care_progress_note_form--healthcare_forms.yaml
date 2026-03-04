@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Care Progress Note Form
+    pages:
+    - id: 1
+      name: visit_details
+      label: Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List medical conditions
+      type: select_multiple
+      options:
+      - Asthma
+      - Diabetes
+      - Hypertension
+      - Other
+      required: false
+    - id: 3
+      name: client_status
+      label: Client Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: care_team
+      label: Care Team
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 5
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: next_visit_date
+      label: Next Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_visit_time
+      label: Next Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: caregiver_note
+      label: Caregiver Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: care_plan
+      label: Care Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: visit_comments
+      label: Visit Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: visit_notes
+      label: Visit Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_comment
+      label: Follow Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false

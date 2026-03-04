@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Guest Incident Report Form
+    pages:
+    - id: 1
+      name: guest_arrival
+      label: Guest Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_deparature
+      label: Guest Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_summary
+      label: Incident Summary
+      hint: Briefly describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: Incident Reporter
+      hint: Name of person reporting the incident
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: false
+    - id: 9
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Damage
+      - Loss
+      - Other
+      required: false
+    - id: 10
+      name: incident_description
+      label: Incident Description
+      hint: Describe the incident in as much detail as possible
+      type: select_multiple
+      options:
+      - Damage to Room
+      - Injury or Illness
+      - Lost or Stolen Property
+      - Other
+      required: false
+    - id: 11
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false

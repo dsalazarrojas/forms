@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Storytelling Film Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient
+      label: patient
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Patient 1''}'
+      - '{''value'': 2, ''label'': ''Patient 2''}'
+      - '{''value'': 3, ''label'': ''Patient 3''}'
+      required: true
+    - id: 3
+      name: storyteller
+      label: storyteller
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: filmmaker
+      label: filmmaker
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: film_title
+      label: film title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: film_description
+      label: film description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: film_date
+      label: film date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: film_time
+      label: film time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: video_file
+      label: video file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: video_title
+      label: video title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: video_description
+      label: video description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: video_file_type
+      label: video file type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: consent_to_record
+      label: consent to record
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: true
+    - id: 15
+      name: consent_to_share
+      label: consent to share
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: true
+    - id: 16
+      name: consent_to_publish
+      label: consent to publish
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: true
+    - id: 17
+      name: video_upload
+      label: video upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: video_link
+      label: video link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: story_length
+      label: story length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: consent_to_delete
+      label: consent to delete
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: true
+    - id: 21
+      name: storyteller_name
+      label: storyteller name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: storyteller_title
+      label: storyteller title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_age
+      label: patient age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: storyteller_contact
+      label: storyteller contact
+      hint: null
+      type: text
+      options: []
+      required: false

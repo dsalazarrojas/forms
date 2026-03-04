@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Equity Initiative Evaluation Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_page
+      label: Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      required: true
+    - id: 3
+      name: address_page
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_page
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_page
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_page
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Training Information Form
+    pages:
+    - id: 1
+      name: training_information
+      label: Training Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trainee_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trainee_email
+      label: Trainee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: training_topics
+      label: Training Topics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: training_completed_date
+      label: Training Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: trainee_phone
+      label: Trainee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_notes
+      label: Training Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: trainee_address
+      label: Trainee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_address
+      label: Supervisor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

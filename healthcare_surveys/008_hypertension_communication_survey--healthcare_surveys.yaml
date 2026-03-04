@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hypertension Communication Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_retrieve_info
+      label: how_do_you_retrieve_info
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''From a friend or family member''}'
+      - '{''text'': ''From a doctor or nurse''}'
+      - '{''text'': ''From a website or app''}'
+      - '{''text'': ''From a community or social media''}'
+      required: false
+    - id: 3
+      name: preferred_format
+      label: preferred_format
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Text message (text message or email)''}'
+      - '{''text'': ''Printed materials (brochures, flyers, etc.)''}'
+      - '{''text'': ''Video or animation''}'
+      - '{''text'': ''In-person''}'
+      - '{''text'': ''Phone call''}'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: main_page_comments
+      label: main_page_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: main_page_2
+      label: main_page_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: main_page_3
+      label: main_page_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments_3
+      label: comments_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: main_page_4
+      label: main_page_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: comments_4
+      label: comments_4
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_management_software_subscription_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: license_agreement
+      label: License Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 11
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      required: false

@@ -1,0 +1,443 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Booking Form
+    pages:
+    - id: 1
+      name: section_booking_info
+      label: -- Ambulance Booking Information --
+      hint: Complete this form to schedule medical transportation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: booking_type
+      label: Booking Type
+      hint: Select the type of transport
+      type: select_one
+      options:
+      - Emergency
+      - Urgent
+      - Scheduled/Non-Emergency
+      - Inter-Facility Transfer
+      - Hospital Discharge
+      - Event Standby
+      required: true
+    - id: 3
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: patient_weight
+      label: Patient Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_height
+      label: Patient Height
+      hint: In inches
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: requester_name
+      label: Requester Name
+      hint: Person making the booking
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: requester_relationship
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Spouse/Partner
+      - Parent
+      - Child
+      - Sibling
+      - Healthcare Provider
+      - Other
+      required: true
+    - id: 13
+      name: requester_phone
+      label: Requester Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: requester_email
+      label: Requester Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: section_pickup
+      label: -- Pickup Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: pickup_location_name
+      label: Pickup Location Name
+      hint: Hospital, home, facility name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: pickup_address
+      label: Pickup Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: pickup_city
+      label: Pickup City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: pickup_state
+      label: Pickup State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: pickup_zip
+      label: Pickup ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: pickup_contact_name
+      label: Pickup Contact Person
+      hint: Name at pickup location
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: pickup_contact_phone
+      label: Pickup Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_destination
+      label: -- Destination Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: destination_location_name
+      label: Destination Location Name
+      hint: Hospital, facility name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: destination_address
+      label: Destination Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: destination_city
+      label: Destination City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: destination_state
+      label: Destination State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: destination_zip
+      label: Destination ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: destination_contact_name
+      label: Destination Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: destination_contact_phone
+      label: Destination Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_medical_needs
+      label: -- Medical Needs Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: mobility_status
+      label: Patient Mobility Status
+      hint: null
+      type: select_one
+      options:
+      - Ambulatory - Can walk with assistance
+      - Ambulatory - Independent
+      - Wheelchair bound
+      - Stretcher bound
+      - Requires lift assistance
+      required: true
+    - id: 35
+      name: level_of_care
+      label: Level of Care Required
+      hint: null
+      type: select_one
+      options:
+      - Basic Life Support (BLS)
+      - Advanced Life Support (ALS)
+      - Critical Care Transport
+      - Non-Emergency Medical Transport
+      required: true
+    - id: 36
+      name: medical_condition
+      label: Primary Medical Condition
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: vital_signs_stable
+      label: Are Vital Signs Stable
+      hint: null
+      type: select_one
+      options:
+      - Yes - Stable
+      - No - Unstable
+      - Unknown
+      required: false
+    - id: 38
+      name: oxygen_required
+      label: Is Oxygen Required
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - During transport only
+      - Yes - Continuous
+      required: false
+    - id: 39
+      name: equipment_needed
+      label: Medical Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cardiac monitor
+      - Defibrillator
+      - Ventilator
+      - IV therapy
+      - Suction equipment
+      - Bariatric equipment
+      - Pediatric equipment
+      - Isolation precautions
+      - None
+      required: false
+    - id: 40
+      name: medications_administered
+      label: Medications to be Administered
+      hint: List any medications needed during transport
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: section_attendants
+      label: -- Attendants --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: attendants_count
+      label: Number of Attendants
+      hint: Family members or caregivers accompanying
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: attendant_names
+      label: Attendant Names
+      hint: List names
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Private Insurance
+      - Self-Pay
+      - Worker's Compensation
+      - Other
+      required: true
+    - id: 46
+      name: insurance_company
+      label: Insurance Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: insurance_authorization
+      label: Insurance Authorization Number
+      hint: If pre-authorized
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: section_special_requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 50
+      name: special_requirements
+      label: Special Requirements or Instructions
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: language_preference
+      label: Language Preference
+      hint: If interpreter needed
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other (specify below)
+      required: false
+    - id: 52
+      name: language_other
+      label: Other Language
+      hint: If other selected
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other important information
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: booking_confirmed
+      label: Booking Confirmation
+      hint: This field is for office use only
+      type: select_one
+      options:
+      - Pending review
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 55
+      name: confirmation_number
+      label: Confirmation Number
+      hint: For office use only
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Education Platform Evaluation Form
+    pages:
+    - id: 1
+      name: education_platform_name
+      label: Education Platform Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: platform_url
+      label: Platform URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: platform_ease_of_use
+      label: Ease of Use
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: true
+    - id: 8
+      name: relevance_to_needs
+      label: Relevance to Needs
+      hint: null
+      type: select_one
+      options:
+      - Very Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 9
+      name: platform_effectiveness
+      label: Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true

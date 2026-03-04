@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Communication Portal Access Request
+    pages:
+    - id: 1
+      name: guest_request
+      label: Guest Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_method_details
+      label: Contact Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: access_request_start
+      label: Access Request Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: access_request_end
+      label: Access Request End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: access_granted_by
+      label: Access Granted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: access_granted_on
+      label: Access Granted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reason_denied
+      label: Reason Denied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: access_granted_by_manager
+      label: Access Granted By Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 22
+      name: access_granted_by_manager_name
+      label: Access Granted By Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: access_granted_by_manager_title
+      label: Access Granted By Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: access_granted_by_manager_department
+      label: Access Granted By Manager Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: access_granted_by_manager_email
+      label: Access Granted By Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

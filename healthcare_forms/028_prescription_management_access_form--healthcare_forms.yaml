@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Management Access Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance
+      label: Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: prescribers
+      label: Prescribers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: prescriptions
+      label: Prescriptions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pharmacy_verification
+      label: Pharmacy Verification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: clinic_verification
+      label: Clinic Verification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

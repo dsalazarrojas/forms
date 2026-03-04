@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: location_history_form
+    pages:
+    - id: 1
+      name: infected_person
+      label: infected_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suspected_contacts
+      label: suspected_contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location_history_form_contacts
+      label: location_history_form_contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_history_form_location
+      label: location_history_form_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: location_history_form_start_date
+      label: location_history_form_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location_history_form_end_date
+      label: location_history_form_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: location_history_form_sync_with
+      label: location_history_form_sync_with
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: location_history_form_apps_synced
+      label: location_history_form_apps_synced
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

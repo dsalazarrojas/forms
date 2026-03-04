@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Waitlist Form
+    pages:
+    - id: 1
+      name: wl_patient_header
+      label: -- Patient Information --
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wl_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wl_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: wl_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: wl_gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+        - Male
+        - Female
+        - Other
+        - Prefer Not to Say
+      required: false
+    - id: 6
+      name: wl_email
+      Label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: wl_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: wl_address
+      Label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: wl_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: wl_state
+      Label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: wl_zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: wl_prioritization_header
+      Label: -- Prioritization Information --
+      hint: Vaccination priority details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: wl_priority_status
+      label: Priority Status for Vaccination
+      hint: What group are you in
+      type: select_one
+      options:
+        - Healthcare worker
+        - Essential worker
+        - Age 75 or older
+        - Age 65-74
+        - Age 50-64
+        - Underlying condition
+        - General public
+      required: true
+    - id: 14
+      name: wl_occupation
+      Label: Current Occupation or Employment Status
+      hint: Your job or employment status
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: wl_immunocompromised
+      label: Are You Immunocompromised
+      hint: Do you have immune system issues
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 16
+      name: wl_chronic_conditions_header
+      Label: -- Health Conditions --
+      hint: Your medical conditions
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: wl_chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: wl_allergies
+      Label: Severe Medication or Vaccine Allergies
+      hint: Any severe allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: wl_current_medications
+      label: Current Medications
+      hint: Medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: wl_vaccination_readiness_header
+      Label: -- Vaccination Readiness --
+      hint: Your readiness for vaccination
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: wl_ready_to_vaccinate
+      label: Are You Ready to Receive the Vaccine
+      hint: Your readiness
+      type: select_one
+      options:
+        - Yes, very ready
+        - Ready when available
+        - Somewhat ready
+        - Not ready yet
+      required: true
+    - id: 22
+      name: wl_vaccine_preference
+      Label: Vaccine Type Preference if Available
+      hint: Your preferred vaccine type
+      type: select_one
+      options:
+        - Pfizer-BioNTech
+        - Moderna
+        - Johnson & Johnson
+        - No specific preference
+      required: false
+    - id: 23
+      name: wl_transportation_needs
+      label: Do You Need Transportation Assistance
+      hint: Help getting to vaccination site
+      type: select_one
+      options:
+        - No assistance needed
+        - Yes, need transportation
+        - Unsure
+      required: false
+    - id: 24
+      name: wl_contact_confirmation
+      Label: I Confirm My Contact Information is Current
+      hint: All contact information is correct
+      type: select_one
+      options:
+        - Confirmed correct
+        - Needs updating
+      required: true
+    - id: 25
+      name: wl_waitlist_agreement
+      label: I Agree to Be on the COVID-19 Vaccine Waitlist
+      hint: I consent to be on the waitlist
+      type: select_one
+      options:
+        - I agree
+        - I do not agree
+      required: true

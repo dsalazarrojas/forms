@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Benchmark Data Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: -- Request Details --
+      hint: provide context for benchmarking request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: requester name
+      hint: contact for questions
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: requester email
+      hint: used for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization_size
+      label: organization size
+      hint: number of employees
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: roles_requested
+      label: roles or job families requested
+      hint: list key roles to benchmark
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: geographic_scope
+      label: geographic scope
+      hint: country region or global
+      type: select_one
+      options:
+      - Local
+      - National
+      - Regional
+      - Global
+      required: true
+    - id: 7
+      name: data_format
+      label: preferred data format
+      hint: csv excel or summary report
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - Summary report
+      required: false
+    - id: 8
+      name: deadline
+      label: deadline for data
+      hint: date when benchmarking is needed
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: additional notes
+      hint: optional details to help the request
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_required
+      label: is manager approval obtained
+      hint: confirm internal approvals
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

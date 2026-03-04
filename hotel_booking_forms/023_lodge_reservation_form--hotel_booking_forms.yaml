@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lodge Reservation Form
+    pages:
+    - id: 1
+      name: lodge_reservation_form
+      label: reserve_for_lodging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_or_leisure
+      label: on_business_or_leisure_travelling
+      hint: null
+      type: select_one
+      options:
+      - leisure
+      - business
+      required: false
+    - id: 3
+      name: check_in_date
+      label: check_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: check_out_date
+      label: check_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_multiple
+      options:
+      - single
+      - double
+      - suite
+      - suite_with_beds
+      - family_room
+      required: false
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_fields
+      label: output_fields
+      hint: null
+      type: note
+      options: []
+      required: false

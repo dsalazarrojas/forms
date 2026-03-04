@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Screening Absence Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_absence
+      label: reason for absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: absence_start_date
+      label: Absence Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: absence_end_date
+      label: Absence End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Chat'', ''value'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 6
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: health_screening_form_completed
+      label: Health Screening Form Completed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''label'': False, ''value'': False}'
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      required: true
+    - id: 8
+      name: medical_certificate_date
+      label: Medical Certificate Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

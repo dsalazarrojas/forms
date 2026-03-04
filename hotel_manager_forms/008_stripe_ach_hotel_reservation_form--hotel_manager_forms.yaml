@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe ACH Hotel Reservation Form
+    pages:
+    - id: 1
+      name: base_info
+      label: base_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: base_info
+      label: guest_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: base_info
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: base_info
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: base_info
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: base_info
+      label: guest_date_of_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: base_info
+      label: guest_date_of_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: base_info
+      label: room_rate
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''room_rate_1'', ''label'': ''Single''}'
+      - '{''id'': 2, ''name'': ''room_rate_2'', ''label'': ''Double''}'
+      - '{''id'': 3, ''name'': ''room_rate_3'', ''label'': ''Suite''}'
+      required: true
+    - id: 9
+      name: base_info
+      label: room_rate
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''room_rate_1'', ''label'': ''Single''}'
+      - '{''id'': 2, ''name'': ''room_rate_2'', ''label'': ''Double''}'
+      - '{''id'': 3, ''name'': ''Suite'', ''label'': ''Suite''}'
+      required: true
+    - id: 10
+      name: base_info
+      label: room_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: base_info
+      label: card_holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: base_info
+      label: card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: base_info
+      label: card_expiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: base_info
+      label: base_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: base_info
+      label: base_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: base_info
+      label: base_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: base_info
+      label: base_info
+      hint: null
+      type: note
+      options: []
+      required: false

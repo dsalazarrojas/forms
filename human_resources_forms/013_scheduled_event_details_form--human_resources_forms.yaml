@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scheduled Event Details Form
+    pages:
+    - id: 1
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: guest_list_hints
+      label: Guest List Hints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false

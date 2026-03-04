@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Acknowledgement and Liability Waiver
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: activity_or_service
+      label: Activity or Service
+      hint: What are you participating in
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: acknowledgment_statement
+      label: COVID-19 Risk Acknowledgment
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: understand_risks
+      label: I Understand COVID-19 Risks
+      hint: I understand the risks of exposure
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 14
+      name: voluntary_participation
+      label: Voluntary Participation
+      hint: I participate voluntarily
+      type: select_one
+      options:
+      - Yes I Confirm
+      - false
+      required: true
+    - id: 15
+      name: health_screening
+      label: Health Screening Confirmation
+      hint: I have completed health screening
+      type: select_one
+      options:
+      - Yes - No symptoms
+      - Yes - With symptoms disclosed
+      - false
+      required: true
+    - id: 16
+      name: safety_protocols
+      label: Agreement to Follow Safety Protocols
+      hint: Mask distancing hygiene
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 17
+      name: liability_release
+      label: Liability Release
+      hint: I release organization from liability
+      type: select_one
+      options:
+      - Yes I Release
+      - No I Do Not Release
+      required: true
+    - id: 18
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I assume all risks related to COVID-19
+      type: select_one
+      options:
+      - Yes I Assume
+      - false
+      required: true
+    - id: 19
+      name: high_risk_acknowledgment
+      label: High Risk Acknowledgment
+      hint: I understand if I am high risk
+      type: select_one
+      options:
+      - I am not high risk
+      - I am high risk and accept
+      - I am unsure
+      required: true
+    - id: 20
+      name: insurance_responsibility
+      label: Insurance Responsibility
+      hint: I am responsible for my medical costs
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 21
+      name: symptom_reporting
+      label: Symptom Reporting Agreement
+      hint: I will report symptoms if they develop
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 22
+      name: contact_tracing
+      label: Contact Tracing Cooperation
+      hint: I will cooperate with contact tracing
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 23
+      name: policy_changes
+      label: Policy Changes Acknowledgment
+      hint: Policies may change without notice
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 24
+      name: minor_participant
+      label: Is Participant a Minor
+      hint: Under 18 years old
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If participant is minor
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: witness_name
+      label: Witness Name
+      hint: Optional witness
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

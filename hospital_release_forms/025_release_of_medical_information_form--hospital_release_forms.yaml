@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Release Of Medical Information Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: purpose_of_release
+      label: Purpose of Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: release_to
+      label: Release To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_records_release
+      label: Medical Records Release
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Information
+      - Lab Results
+      - Medication List
+      required: true
+    - id: 8
+      name: other_health_information_release
+      label: Other Health Information Release
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Information
+      - Lab Results
+      - Medication List
+      - Allergies
+      - Immunization Records
+      required: false
+    - id: 9
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorized_date
+      label: Authorized Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: authorized_person_signature
+      label: Authorized Person Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

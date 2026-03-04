@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Head And Neck Health Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: head_and_neck_region_symptoms
+      label: head_and_neck_region_symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: neck_pain_score
+      label: neck_pain_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: neck_movement_impairment
+      label: neck_movement_impairment
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false
+    - id: 5
+      name: head_pain_score
+      label: head_pain_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: head_and_neck_region_numbness_score
+      label: head_and_neck_region_numbness_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: head_and_neck_region_tingling_score
+      label: head_and_neck_region_tingling_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: head_and_neck_region_weakness_score
+      label: head_and_neck_region_weakness_score
+      hint: null
+      type: number
+      options: []
+      required: false

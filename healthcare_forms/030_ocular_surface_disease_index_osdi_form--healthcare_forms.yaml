@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ocular Surface Disease Index (OSDI) Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How do you currently experience your symptoms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1_frequency
+      label: How often do you experience symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_2
+      label: What is the duration of your symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 5
+      name: question_2_duration
+      label: The duration of your symptoms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_3
+      label: How would you describe the intensity of your symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      required: false
+    - id: 7
+      name: question_4
+      label: How would you describe the impact of your symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 9
+      - Option 10
+      - Option 11
+      required: false
+    - id: 8
+      name: question_5
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question_6
+      label: Have you had any eye surgeries?
+      hint: null
+      type: select_one
+      options:
+      - Option 13
+      - Option 14
+      - Option 15
+      required: false
+    - id: 10
+      name: question_7
+      label: What was the date of your last eye surgery?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: question_8
+      label: Do you take any medications?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: question_8_medications
+      label: What medications are you taking?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_9
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_10
+      label: What is your level of education?
+      hint: null
+      type: select_one
+      options:
+      - Option 17
+      - Option 18
+      - Option 19
+      required: false
+    - id: 15
+      name: question_11
+      label: What is your income?
+      hint: null
+      type: number
+      options: []
+      required: false

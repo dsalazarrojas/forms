@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Exposure Risk Assessment Form
+    pages:
+    - id: 1
+      name: travel_history
+      label: Travel history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_destinations
+      label: Travel destinations
+      hint: null
+      type: select_multiple
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 3
+      name: symptoms_onset
+      label: Symptoms onset date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_with_symptomatic_person
+      label: Contact with symptomatic person
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: exposure_type
+      label: Type of exposure
+      hint: null
+      type: select_one
+      options:
+      - Direct contact with an individual with Mpox
+      - Indirect contact with an individual with Mpox
+      - Exposure to Mpox contaminated materials
+      required: false
+    - id: 6
+      name: exposure_location
+      label: Exposure location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_frequency
+      label: Travel frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_reason
+      label: Travel reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Rash
+      - Fever
+      - Fatigue
+      required: false
+    - id: 10
+      name: healthcare_provider_name
+      label: Healthcare provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_phone
+      label: Healthcare provider phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_instructions
+      label: Follow-up instructions
+      hint: null
+      type: select_multiple
+      options:
+      - Schedule a follow-up visit with your healthcare provider
+      - Monitor symptoms closely and seek immediate care if they worsen
+      - Contact your healthcare provider for guidance on self-isolation
+      required: false

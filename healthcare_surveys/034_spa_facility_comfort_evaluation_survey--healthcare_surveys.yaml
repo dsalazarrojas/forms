@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Facility Comfort Evaluation Survey
+    pages:
+    - id: 1
+      name: spa_facility_comfort_form
+      label: Spa Facility Comfort
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_comfort
+      label: Overall Comfort
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: relaxation_area
+      label: Relaxation Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''very_good'', ''value'': ''Very Good''}'
+      - '{''name'': ''good'', ''value'': ''Good''}'
+      - '{''name'': ''average'', ''value'': ''Average''}'
+      - '{''name'': ''somewhat_average'', ''value'': ''Somewhat Average''}'
+      - '{''name'': ''somewhat_bad'', ''value'': ''Somewhat Bad''}'
+      - '{''name'': ''very_bad'', ''value'': ''Very Bad''}'
+      required: false
+    - id: 4
+      name: ambiance
+      label: Ambiance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: spa_staff_friendliness
+      label: Spa Staff Friendliness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: spa_facility_cleanliness
+      label: Spa Facility Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: spa_facility_layout
+      label: Spa Facility Layout
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: spa_facility_equipment
+      label: Spa Facility Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: spa_facility_services
+      label: Spa Facility Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: spa_facility_staff_skills
+      label: Spa Facility Staff Skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

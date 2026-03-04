@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Candidate Interview Questionnaire
+    pages:
+    - id: 1
+      name: first_round
+      label: First round interview
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: second_round
+      label: Second round interview
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: overall_impact
+      label: Overall impact of the candidate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: first_round_questions
+      label: First round questions asked
+      hint: List all questions asked during the first round
+      type: select_multiple
+      options:
+      - Candidate's response to question 1
+      - Candidate's response to question 2
+      - Candidate's response to question 3
+      required: true
+    - id: 5
+      name: second_round_questions
+      label: Second round questions asked
+      hint: List all questions asked during the second round
+      type: select_multiple
+      options:
+      - Question 1
+      - Question 2
+      - Question 3
+      required: true
+    - id: 6
+      name: overall_impression
+      label: Overall impression of the candidate
+      hint: How did the candidate's performance make you feel?
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Negative
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: Feedback comments
+      hint: Comments about the candidate's performance
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: first_round_rating
+      label: Rating after first round
+      hint: Rate the candidate after the first round
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: second_round_rating
+      label: Rating after second round
+      hint: Rate the candidate after the second round
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: overall_rating
+      label: Overall rating
+      hint: Rate the candidate overall
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: Date of the interview
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: Time of the interview
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: candidate_name
+      label: Candidate name
+      hint: Candidate name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_member_name
+      label: Team member name
+      hint: Name of the team member who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_member_comments
+      label: Team member comments
+      hint: Comments from the team member who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_comments
+      label: Manager comments
+      hint: Comments from the manager who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_name
+      label: Manager name
+      hint: Name of the manager who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_title
+      label: Manager title
+      hint: Title of the manager who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_department
+      label: Manager department
+      hint: Department of the manager who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_job_title
+      label: Manager job title
+      hint: Job title of the manager who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_email
+      label: Manager email
+      hint: Email of the manager who conducted the interview
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: manager_phone
+      label: Manager phone
+      hint: Phone of the manager who conducted the interview
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned to
+      hint: Team member this form was assigned to
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbobby
+      - chatjimmy
+      required: false
+    - id: 26
+      name: submitted_by
+      label: Submitted by
+      hint: Name of the person who submitted this form
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbobby
+      - chatjimmy
+      required: false
+    - id: 27
+      name: submitted_date
+      label: Submitted date
+      hint: Date this form was submitted
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: submitted_time
+      label: Submitted time
+      hint: Time this form was submitted
+      type: time
+      options: []
+      required: false

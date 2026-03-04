@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Program Evaluation Form
+    pages:
+      - id: 1
+        name: evaluation_intro
+        label: -- Program Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_role
+        label: Respondent role
+        hint: Participant, staff, volunteer, or other
+        type: select_one
+        options:
+          - Participant
+          - Staff
+          - Volunteer
+          - Other
+        required: true
+      - id: 3
+        name: program_attended
+        label: Program attended
+        hint: Name of the session or program
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date_of_attendance
+        label: Date of attendance
+        hint: Date when program was attended
+        type: date
+        options: []
+        required: false
+      - id: 5
+        name: satisfaction_rating
+        label: Satisfaction rating
+        hint: Rate overall program quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: learned_outcomes
+        label: Most important outcomes learned
+        hint: What did you gain from this program
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: program_impact
+        label: Program impact on daily life
+        hint: Describe any changes resulting from the program
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: barriers_to_participation
+        label: Barriers to participation
+        hint: Select barriers that applied
+        type: select_multiple
+        options:
+          - Transportation
+          - Schedule conflict
+          - Cost
+          - Childcare
+          - Accessibility
+        required: false
+      - id: 9
+        name: recommendations
+        label: Recommendations for improvement
+        hint: Suggestions to enhance future programs
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: follow_up_contact
+        label: Contact email for follow up
+        hint: Optional if follow up is desired
+        type: email
+        options: []
+        required: false

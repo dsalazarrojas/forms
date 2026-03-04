@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_service_efficiency_inquiry_form
+    pages:
+    - id: 1
+      name: visit_efficiency
+      label: What was your wait time at the visit?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_attitude
+      label: How would you rate the staff attitude?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: visit_satisfaction
+      label: How satisfied were you with your visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: service_quality
+      label: How would you rate the service quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: visit_bottlenecks
+      label: What was the most frustrating part of your visit?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_satisfaction
+      label: How satisfied are you with your healthcare provider?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: staff_knowledge
+      label: How would you rate the healthcare provider's knowledge of your health
+        condition?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: visit_convenience
+      label: How convenient was your visit?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: staff_helpfulness
+      label: How helpful were the staff during your visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Helpful
+      - Helpful
+      - Not Helpful
+      - Not at All Helpful
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with your visit?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: visit_frequency
+      label: How often do you visit this healthcare provider?
+      hint: null
+      type: select_one
+      options:
+      - Very Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Customer Loyalty Audit Form
+    pages:
+    - id: 1
+      name: page1
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_city
+      label: property_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_state
+      label: property_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: property_zip
+      label: property_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_start_date
+      label: program_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: program_end_date
+      label: program_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: program_status
+      label: program_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: program_status_note
+      label: program_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: auditor_name
+      label: auditor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: audit_notes
+      label: audit_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reviewed_by
+      label: reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reviewed_date
+      label: reviewed_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_manager_email
+      label: property_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: property_manager_phone
+      label: property_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_service_manager
+      label: customer_service_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_service_manager_email
+      label: customer_service_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: customer_service_manager_phone
+      label: customer_service_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_notes
+      label: other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: text
+      options: []
+      required: false

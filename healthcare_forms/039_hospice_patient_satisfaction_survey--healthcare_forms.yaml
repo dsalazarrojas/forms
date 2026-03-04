@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: What is your contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: care_provider
+      label: Care provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Overall rating
+      hint: Rate your care experience
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: On a scale from 1 to 5
+      type: select_one
+      options:
+      - '{''option1'': 1}'
+      - '{''option2'': 2}'
+      - '{''option3'': 3}'
+      - '{''option4'': 4}'
+      - '{''option5'': 5}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_date
+      label: Contact date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_contact
+      label: Time of contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: staff_nurse_name
+      label: Staff nurse name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_nurse_contact
+      label: Staff nurse contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: physician_nurse_name
+      label: Physician name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: physician_nurse_contact
+      label: Physician contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_nurse_visit
+      label: Visited physician
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 14
+      name: physician_nurse_visit_date
+      label: Visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: physician_nurse_visit_time
+      label: Visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: care_coordinator_name
+      label: Care coordinator name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: care_coordinator_contact
+      label: Care coordinator contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: care_coordinator_visit
+      label: Visited care coordinator
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 19
+      name: care_coordinator_visit_date
+      label: Visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: care_coordinator_visit_time
+      label: Visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: social_worker_name
+      label: Social worker name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: social_worker_contact
+      label: Social worker contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: social_worker_visit
+      label: Visited social worker
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 24
+      name: social_worker_visit_date
+      label: Visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: social_worker_visit_time
+      label: Visit time
+      hint: null
+      type: time
+      options: []
+      required: false

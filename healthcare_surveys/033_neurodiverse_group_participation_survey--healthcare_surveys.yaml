@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neurodiverse Group Participation Survey
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''wheelchair'', ''label'': ''Wheelchair''}'
+      - '{''value'': ''visual-impaired'', ''label'': ''Visual Impairment''}'
+      - '{''value'': ''hearing-impaired'', ''label'': ''Hearing Impairment''}'
+      - '{''value'': ''none'', ''label'': ''None''}'
+      required: false
+    - id: 3
+      name: accessibility_accommodations
+      label: Accessibility Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''wheelchair-accessibility'', ''label'': ''Wheelchair Accessibility''}'
+      - '{''value'': ''american-sign-language'', ''label'': ''American Sign Language''}'
+      - '{''value'': ''large-print'', ''label'': ''Large Print''}'
+      - '{''value'': ''braille'', ''label'': ''Braille''}'
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_tracking
+      label: Submission Tracking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submission_tracking_1
+      label: Submission Tracking 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submission_tracking_2
+      label: Submission Tracking 2
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_dietary_habits_questionnaire
+    pages:
+    - id: 1
+      name: demographic_info
+      label: demographic info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: waist_circumference
+      label: waist_circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: waist_circumference_hint
+      label: what does your waist circumference mean
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: height_hint
+      label: what is height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weight_hint
+      label: what does your weight mean
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 9
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - African American
+      - American Indian or Alaska Native
+      - Native Hawaiian or other Pacific Islander
+      - White
+      - Other
+      required: false
+    - id: 11
+      name: education_level
+      label: highest level of education completed
+      hint: null
+      type: select_one
+      options:
+      - Some High School
+      - High School or Equivalent
+      - Some College
+      - 2-year College
+      - 4-year College
+      - Post-Bachelor
+      - Doctoral
+      - Other
+      required: false
+    - id: 12
+      name: income
+      label: income
+      hint: null
+      type: select_one
+      options:
+      - Less than $20,000
+      - $20,000 - $40,000
+      - $40,000 - $60,000
+      - $60,000 - $80,000
+      - $80,000 - $100,000
+      - More than $100,000
+      required: false
+    - id: 13
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Other
+      required: false
+    - id: 14
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: family_members
+      label: family members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: household_income
+      label: household_income
+      hint: null
+      type: select_one
+      options:
+      - Less than $20,000
+      - $20,000 - $40,000
+      - $40,000 - $60,000
+      - $60,000 - $80,000
+      - $80,000 - $100,000
+      - More than $100,000
+      required: false
+    - id: 17
+      name: household_type
+      label: household type
+      hint: null
+      type: select_one
+      options:
+      - Single Person
+      - Married
+      - Divorced
+      - Widowed
+      - Other
+      required: false
+    - id: 18
+      name: smoker
+      label: do you smoke
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: alcohol
+      label: do you drink
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: physical_activity_level
+      label: physical activity level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly active
+      - Moderately active
+      - Very active
+      required: false
+    - id: 21
+      name: breakfast_frequency
+      label: breakfast frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 22
+      name: breakfast_time
+      label: breakfast time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: lunch_frequency
+      label: lunch frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 24
+      name: dinner_frequency
+      label: dinner time
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 25
+      name: physical_health_status
+      label: physical health status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Poor
+      - Fair
+      - Very poor
+      required: false

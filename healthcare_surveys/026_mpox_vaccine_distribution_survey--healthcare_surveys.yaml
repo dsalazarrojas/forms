@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Distribution Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_info
+      label: Recipient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_answers
+      label: Survey Answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_comments
+      label: Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vaccine_dose
+      label: Vaccine Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: distribution_date
+      label: Distribution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: distribution_time
+      label: Distribution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: distribution_location
+      label: Distribution Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Mpox Vaccine
+      - Other
+      required: true
+    - id: 11
+      name: vaccine_dose_administered
+      label: Vaccine Dose Administered
+      hint: null
+      type: select_multiple
+      options:
+      - First Dose
+      - Second Dose
+      - Booster Dose
+      required: true
+    - id: 12
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

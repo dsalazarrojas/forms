@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_work_feedback_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Remote Work Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: remote_work_satisfaction
+      label: How satisfied are you with your remote work experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 3
+      name: challenges
+      label: What are some challenges you've faced with remote work?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: collaboration
+      label: How has remote work impacted your collaboration with colleagues?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: policies
+      label: Have you noticed any policy changes as a result of remote work?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: suggestions
+      label: What are your suggestions for improving remote work policies?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: What communication challenges have you faced with remote work?
+      hint: null
+      type: select_one
+      options:
+      - Communication with manager
+      - Communication with team
+      - Communication with client
+      - Other
+      required: false
+    - id: 8
+      name: work_life_balance
+      label: How has remote work impacted your work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Somewhat Positive
+      - Neutral
+      - Somewhat Negative
+      - Very Negative
+      required: false
+    - id: 9
+      name: technical_support
+      label: What technical support do you feel is lacking?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: overall_experience
+      label: What is your overall experience with remote work?
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Somewhat Positive
+      - Neutral
+      - Somewhat Negative
+      - Very Negative
+      required: true
+    - id: 11
+      name: open_ended
+      label: Please provide any additional comments.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Your contact information
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_member_id
+      label: Team Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: work_schedule
+      label: What is your typical work schedule?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false

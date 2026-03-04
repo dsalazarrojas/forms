@@ -1,0 +1,237 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: part_time_staff_schedule_preference_form
+    pages:
+    - id: 1
+      name: workweek
+      label: Work Week
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 3
+      name: day_part
+      label: Day Part
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: "08:00"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: 1020
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: days_of_week
+      label: Days of Week
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 7
+      name: preferred_start_time
+      label: Preferred Start Time
+      hint: "08:00"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_end_time
+      label: Preferred End Time
+      hint: 1020
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notice
+      label: Notice
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      required: false
+    - id: 10
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false
+    - id: 11
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - Flexible
+      - Fixed
+      required: true
+    - id: 12
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: schedule_comment
+      label: Schedule Comment
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: available_days_off
+      label: Available Days Off
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 15
+      name: available_time_off
+      label: Available Time Off
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_request
+      label: Special Request
+      hint: null
+      type: select_multiple
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      required: true
+    - id: 17
+      name: special_request_period
+      label: Special Request Period
+      hint: 0
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: true
+    - id: 18
+      name: special_request_comment
+      label: Special Request Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_special_request
+      label: Other Special Request
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: schedule_conflict
+      label: Schedule Conflict
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Possible
+      - Confirmed
+      required: false
+    - id: 21
+      name: schedule_conflict_period
+      label: Schedule Conflict Period
+      hint: null
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false
+    - id: 22
+      name: schedule_conflict_comment
+      label: Schedule Conflict Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_schedule_overlap
+      label: Preferred Schedule Overlap
+      hint: 0
+      type: select_multiple
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      required: false
+    - id: 24
+      name: preferred_schedule_overlap_period
+      label: Preferred Schedule Overlap Period
+      hint: 0
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

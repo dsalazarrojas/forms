@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Access Assessment Form
+    pages:
+    - id: 1
+      name: healthcare_access_form_page1
+      label: Access to Health Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_services_access
+      label: Medical Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: barriers_to_access
+      label: Barriers to Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_access_form_page2
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

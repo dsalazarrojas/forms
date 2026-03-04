@@ -1,0 +1,332 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Clinic Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: race
+      label: Race
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Other Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: ethnicity
+      label: Ethnicity
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: preferred_language
+      label: Preferred Language
+      hint: For communications
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Tagalog
+      - French
+      - Other
+      required: true
+    - id: 15
+      name: interpreter_needed
+      label: Do you need an interpreter
+      hint: Language assistance
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: insurance_status
+      label: Do you have health insurance
+      hint: Insurance coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Member ID
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: occupation
+      label: Occupation
+      hint: Job or profession
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 23
+      name: previous_covid_infection
+      label: Have you previously tested positive for COVID-19
+      hint: Infection history
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 24
+      name: previous_infection_date
+      label: When did you test positive
+      hint: Approximate date
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: current_medications
+      label: List Current Medications
+      hint: All medications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: medication_allergies
+      label: Do you have any medication allergies
+      hint: Drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: preferred_clinic_date
+      label: Preferred Clinic Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: preferred_clinic_time
+      label: Preferred Clinic Time
+      hint: Time preference
+      type: time
+      options: []
+      required: false
+    - id: 29
+      name: alternative_clinic_date
+      label: Alternative Clinic Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: vaccine_brand_preference
+      label: Vaccine Brand Preference
+      hint: If any
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      required: true
+    - id: 31
+      name: transportation_needs
+      label: Do you need transportation assistance
+      hint: Transportation access
+      type: select_one
+      options:
+      - No I have transportation
+      - Yes I need assistance
+      required: false
+    - id: 32
+      name: accessibility_needs
+      label: Do you need any accessibility accommodations
+      hint: Special accommodations
+      type: select_one
+      options:
+      - No accommodations needed
+      - Wheelchair accessibility
+      - Sign language interpreter
+      - Extra time for appointment
+      - Other
+      required: true
+    - id: 33
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: vaccination_consent
+      label: I consent to receive the COVID-19 vaccine
+      hint: Vaccination consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 36
+      name: data_sharing_consent
+      label: I consent to my information being shared with public health authorities
+      hint: Data sharing
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 37
+      name: hipaa_acknowledgment
+      label: I acknowledge receipt of the HIPAA Privacy Notice
+      hint: HIPAA acknowledgment
+      type: select_one
+      options:
+      - Yes acknowledged
+      - No not received
+      required: true
+    - id: 38
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

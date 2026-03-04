@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rheumatology Clinic Monthly Report Form
+    pages:
+    - id: 1
+      name: patient_data
+      label: Patient Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assessment_and_plan
+      label: Assessment and Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_outcomes
+      label: Patient Outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_contact
+      label: Medical Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

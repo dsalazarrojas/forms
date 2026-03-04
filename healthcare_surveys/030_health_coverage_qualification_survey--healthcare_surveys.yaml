@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Coverage Qualification Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Private Insurance
+      - Other
+      required: true
+    - id: 8
+      name: health_care_plan
+      label: Health Care Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Cancer
+      - Heart condition
+      - Other
+      required: true
+    - id: 10
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - Blood pressure medication
+      - Insulin
+      - Other
+      required: false
+    - id: 11
+      name: doctor_visits
+      label: Doctor Visits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emergency_room_visits
+      label: Emergency Room Visits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: hospital_stays
+      label: Hospital Stays
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medical_equipment
+      label: Medical Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_condition_other
+      label: Medical Condition
+      hint: Other medical conditions that may require special care
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: medical_condition_family_history
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: medical_condition_family_history_other
+      label: Other Medical Conditions
+      hint: Other medical conditions that may require special care
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: medical_condition_family_history_1
+      label: Family History of Diabetes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: medical_condition_family_history_2
+      label: Family History of Cancer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: medical_condition_family_history_3
+      label: Family History of Heart condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: other_medical_condition_family_history
+      label: Other Medical Condition in Family History
+      hint: Other medical condition in family history
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

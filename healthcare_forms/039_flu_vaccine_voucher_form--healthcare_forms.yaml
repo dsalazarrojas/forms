@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flu Vaccine Voucher Form
+    pages:
+    - id: 1
+      name: flu_vaccine_voucher_form
+      label: Flu Vaccine Voucher Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: flu_vaccine_type
+      label: Flu Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Flu vaccine for children aged 6 months to 17 years
+      - Flu vaccine for adults aged 18-64
+      - Flu vaccine for adults aged 65 or older
+      - Flu vaccine for pregnant women
+      required: false
+    - id: 4
+      name: medical_insurance_status
+      label: Medical Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - No Medical Insurance
+      - Have Medical Insurance
+      required: false
+    - id: 5
+      name: flu_vaccine_dosage
+      label: Flu Vaccine Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: flu_vaccine_administered_by
+      label: Flu Vaccine Administered By
+      hint: null
+      type: select_one
+      options:
+      - Clinic
+      - Doctor
+      - Pharmacist
+      required: false
+    - id: 7
+      name: date_flu_vaccine_administered
+      label: Date Flu Vaccine Administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: flu_vaccine_received_location
+      label: Flu Vaccine Received Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: flu_vaccine_voucher_number
+      label: Flu Vaccine Voucher Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flu_vaccine_provider
+      label: Flu Vaccine Provider
+      hint: null
+      type: text
+      options: []
+      required: false

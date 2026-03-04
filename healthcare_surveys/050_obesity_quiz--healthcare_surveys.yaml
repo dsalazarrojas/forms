@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Obesity Quiz
+    pages:
+    - id: 1
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: height_and_weight
+      label: height_and_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: waist_circumference
+      label: waist_circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: body_mass_index_bmi
+      label: body_mass_index_bmi
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: body_mass_category
+      label: body_mass_category
+      hint: null
+      type: select_one
+      options:
+      - Underweight
+      - Normal
+      - Overweight
+      - Obese Class 1
+      - Obese Class 2
+      - Obese Class 3
+      required: false
+    - id: 8
+      name: body_mass_index_bmi_category
+      label: body_mass_index_bmi_category
+      hint: null
+      type: select_one
+      options:
+      - Underweight
+      - Normal
+      - Overweight
+      - Obese Class 1
+      - Obese Class 2
+      - Obese Class 3
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: height_unit
+      label: height_unit
+      hint: null
+      type: select_one
+      options:
+      - ft
+      - in
+      - cm
+      - m
+      required: false
+    - id: 11
+      name: weight_unit
+      label: weight_unit
+      hint: null
+      type: select_one
+      options:
+      - lb
+      - kg
+      - st
+      required: false
+    - id: 12
+      name: waist_circumference_unit
+      label: waist_circumference_unit
+      hint: null
+      type: select_one
+      options:
+      - in
+      - cm
+      required: false
+    - id: 13
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sex
+      label: sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - African American
+      - American Indian
+      - Asian
+      - Black or African American
+      - White
+      - Other
+      required: false
+    - id: 16
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - High school
+      - Some college
+      - Bachelor's degree
+      - Master's or more
+      required: true
+    - id: 17
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: false
+    - id: 18
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare
+      - Business
+      - Student
+      - Other
+      required: true
+    - id: 19
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: income_frequency
+      label: income_frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Weekly
+      required: true
+    - id: 21
+      name: smoking_status
+      label: smoking_status
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Former
+      - Current
+      required: true
+    - id: 22
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: waist_circumference
+      label: waist_circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: body_mass_index_bmi
+      label: body_mass_index_bmi
+      hint: null
+      type: number
+      options: []
+      required: false

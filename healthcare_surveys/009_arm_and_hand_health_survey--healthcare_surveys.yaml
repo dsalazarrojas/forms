@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arm And Hand Health Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: dominant_hand
+      label: Dominant Hand
+      hint: null
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Ambidextrous
+      required: true
+    - id: 6
+      name: section_symptoms
+      label: -- Symptom Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: arm_pain
+      label: Do you experience arm or hand pain
+      hint: null
+      type: select_one
+      options:
+      - No pain
+      - Mild
+      - Moderate
+      - Severe
+      - Very severe
+      required: true
+    - id: 8
+      name: pain_location
+      label: Primary location of pain
+      hint: null
+      type: select_multiple
+      options:
+      - Upper arm
+      - Elbow
+      - Forearm
+      - Wrist
+      - Hand
+      - Fingers
+      - Multiple locations
+      required: false
+    - id: 9
+      name: symptom_duration
+      label: How long have you had these symptoms
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - More than 3 months
+      required: true
+    - id: 10
+      name: weakness
+      label: Do you experience weakness or loss of strength
+      hint: null
+      type: select_one
+      options:
+      - No weakness
+      - Mild weakness
+      - Moderate weakness
+      - Severe weakness
+      required: true
+    - id: 11
+      name: numbness_tingling
+      label: Numbness or tingling sensations
+      hint: null
+      type: select_one
+      options:
+      - No numbness
+      - Occasional
+      - Frequent
+      - Constant
+      required: true
+    - id: 12
+      name: swelling
+      label: Swelling in arm or hand
+      hint: null
+      type: select_one
+      options:
+      - No swelling
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 13
+      name: stiffness
+      label: Stiffness or reduced range of motion
+      hint: null
+      type: select_one
+      options:
+      - No stiffness
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 14
+      name: section_impact
+      label: -- Functional Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: daily_activities_impact
+      label: Impact on daily activities
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Unable to perform activities
+      required: true
+    - id: 16
+      name: work_activities
+      label: Impact on work or occupational tasks
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Unable to work
+      required: true
+    - id: 17
+      name: sleep_disturbance
+      label: Sleep disturbance due to arm or hand issues
+      hint: null
+      type: select_one
+      options:
+      - No disturbance
+      - Occasional
+      - Frequent
+      - Severe
+      required: true
+    - id: 18
+      name: section_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: previous_injury
+      label: Previous arm or hand injury
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 20
+      name: medical_conditions
+      label: Relevant medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: current_medications
+      label: Current medications affecting arm or hand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: treatment_received
+      label: Previous treatment received
+      hint: null
+      type: text
+      options: []
+      required: false

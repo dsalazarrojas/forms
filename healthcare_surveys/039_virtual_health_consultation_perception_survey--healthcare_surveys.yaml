@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Health Consultation Perception Survey
+    pages:
+    - id: 1
+      name: telehealth_visit
+      label: telehealth_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: appointment_type
+      label: appointment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: telehealth_equipment
+      label: telehealth_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: technical_issues
+      label: technical_issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: telehealth_support
+      label: telehealth_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_satisfaction
+      label: patient_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider_email
+      label: healthcare_provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_provider_phone
+      label: healthcare_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: healthcare_team
+      label: healthcare_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: telehealth_platform
+      label: telehealth_platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: comments_telehealth_platform
+      label: comments_telehealth_platform
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_survey_date
+      label: patient_survey_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: appointment_duration
+      label: appointment_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: telehealth_equipment_rating
+      label: telehealth_equipment_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

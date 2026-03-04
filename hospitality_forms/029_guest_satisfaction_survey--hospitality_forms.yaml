@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Satisfaction Survey
+    pages:
+    - id: 1
+      name: guest_experience_label
+      label: Guest Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_satisfaction_label
+      label: Event Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: staff_satisfaction_label
+      label: Staff Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: communication_satisfaction_label
+      label: Communication Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: food_drink_satisfaction_label
+      label: Food/Drink Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: cleanliness_label
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: environment_label
+      label: Environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: food_quality_label
+      label: Food Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 10
+      name: service_quality_label
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false

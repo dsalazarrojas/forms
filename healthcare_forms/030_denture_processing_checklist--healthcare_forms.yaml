@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Denture Processing Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: treatment
+      label: Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: impressions
+      label: Impressions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: fabrication
+      label: Fabrication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: try_in
+      label: Try-In
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: delivery
+      label: Delivery
+      hint: null
+      type: date
+      options: []
+      required: false

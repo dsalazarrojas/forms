@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immunization Consent Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Dr. Smith''}'
+      - '{2: ''Dr. Johnson''}'
+      - '{3: ''Dr. Thompson''}'
+      required: true
+    - id: 6
+      name: date_of_vaccination
+      label: Date of Vaccination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: type_of_vaccination
+      label: Type of Vaccination
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''MMR''}'
+      - '{2: ''MMR''}'
+      - '{3: ''MMR''}'
+      required: true
+    - id: 8
+      name: dose_number
+      label: Dose Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vaccine_administered_by
+      label: Vaccine Administered By
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Nurse''}'
+      - '{2: ''Doctor''}'
+      - '{3: ''Technician''}'
+      required: true
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signature_of_1
+      label: Signature of 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: signature_of_2
+      label: Signature of 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: signature_of_3
+      label: Signature of 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: signature_of_4
+      label: Signature of 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: signature_of_5
+      label: Signature of 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: signature_of_6
+      label: Signature of 6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: signature_of_7
+      label: Signature of 7
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_of_8
+      label: Signature of 8
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: signature_of_9
+      label: Signature of 9
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: signature_of_10
+      label: Signature of 10
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: signature_of_11
+      label: Signature of 11
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: signature_of_12
+      label: Signature of 12
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

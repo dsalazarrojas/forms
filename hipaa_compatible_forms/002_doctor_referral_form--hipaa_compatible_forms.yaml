@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor Referral Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_phone_number
+      label: patient_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_specialty
+      label: doctor_specialty
+      hint: null
+      type: select_one
+      options:
+      - General Medicine
+      - Surgery
+      - Cardiology
+      - Neurology
+      - Orthopedic
+      - Other
+      required: false
+    - id: 8
+      name: patient_referral_reason
+      label: patient_referral_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_medical_conditions
+      label: patient_medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_medical_history
+      label: patient_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_allergies
+      label: patient_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_signature
+      label: doctor_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: doctor_confidentiality_agreement
+      label: doctor_confidentiality_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: patient_confidentiality_agreement
+      label: patient_confidentiality_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: patient_emergencies_contact
+      label: patient_emergencies_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_next_of_kin
+      label: patient_next_of_kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_next_of_kin_phone_number
+      label: patient_next_of_kin_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_referral_comment
+      label: doctor_referral_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_referral_comment
+      label: patient_referral_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_referral_confirmation
+      label: patient_referral_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: doctor_referral_confirmation
+      label: doctor_referral_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: form_completed_by
+      label: form_completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_referral_status
+      label: doctor_referral_status
+      hint: null
+      type: select_one
+      options:
+      - Sent
+      - In Progress
+      - Completed
+      - Cancelled
+      - On Hold
+      - Other
+      required: false
+    - id: 26
+      name: patient_referral_status
+      label: patient_referral_status
+      hint: null
+      type: select_one
+      options:
+      - Sent
+      - In Progress
+      - Completed
+      - Cancelled
+      - On Hold
+      - Other
+      required: false
+    - id: 27
+      name: patient_other_referral_status
+      label: patient_other_referral_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: doctor_note
+      label: doctor_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: patient_note
+      label: patient_note
+      hint: null
+      type: text
+      options: []
+      required: false

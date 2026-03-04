@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_health_assessment_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: healthcare_provider_title
+      label: Healthcare Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_facility_name
+      label: Medical Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_facility_address
+      label: Medical Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_specialty
+      label: Medical Specialty
+      hint: Select a medical specialty
+      type: select_one
+      options:
+      - Cardiac
+      - Dermatology
+      - Neurosurgery
+      - Pulmonology
+      - Cardiology
+      required: true
+    - id: 16
+      name: medical_certification
+      label: Medical Certification
+      hint: Select a certification
+      type: select_one
+      options:
+      - Board Certified
+      - Certified Nurse
+      - Certified Doctor
+      - Medical Fellowship
+      required: true
+    - id: 17
+      name: healthcare_provider_license
+      label: Healthcare Provider License
+      hint: Select a provider license status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: true
+    - id: 18
+      name: patient_relationship
+      label: Patient Relationship
+      hint: Select a patient relationship
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Child
+      required: true
+    - id: 19
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_certification
+      label: Medical Certification
+      hint: Select a certification type
+      type: select_one
+      options:
+      - Certified
+      - Registered
+      - Licensured
+      - Certified Registered
+      required: true
+    - id: 21
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: medical_provider_dob
+      label: Medical Provider DOB
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Proposal Submission
+    pages:
+    - id: 1
+      name: concept
+      label: Concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_plan
+      label: Business Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: chef_name
+      label: Chef Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: concept_type
+      label: Concept Type
+      hint: null
+      type: select_one
+      options:
+      - Italian
+      - French
+      - Chinese
+      - American
+      required: false
+    - id: 6
+      name: number_of_seats
+      label: Number of Seats
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

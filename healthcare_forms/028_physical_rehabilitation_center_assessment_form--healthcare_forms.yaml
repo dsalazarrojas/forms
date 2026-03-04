@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Rehabilitation Center Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rehabilitation_plan
+      label: Rehabilitation Plan
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false

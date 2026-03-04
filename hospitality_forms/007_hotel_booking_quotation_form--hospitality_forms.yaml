@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Quotation Form
+    pages:
+    - id: 1
+      name: hotel_dates
+      label: hotel_dates
+      hint: Select hotel dates to request a quote
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: guest_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_name
+      label: guest_name
+      hint: Enter guest name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_phone
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_requests
+      label: special_requests
+      hint: Specify special requests or preferences
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Suite
+      - Other
+      required: false
+    - id: 8
+      name: room_quantity
+      label: room_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: room_rate
+      label: room_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: room_rate_type
+      label: room_rate_type
+      hint: null
+      type: select_one
+      options:
+      - Per Room Per Night
+      - Per Person Per Night
+      - Other
+      required: false
+    - id: 13
+      name: total_nights
+      label: total_nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: quote_request
+      label: quote_request
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Dinner
+      - Room Service
+      - Other
+      required: false
+    - id: 15
+      name: special_services
+      label: special_services
+      hint: Select special services or amenities
+      type: select_multiple
+      options:
+      - Spa
+      - Gym
+      - Wi-Fi
+      - Other
+      required: false
+    - id: 16
+      name: additional_requests
+      label: additional_requests
+      hint: Specify additional requests or preferences
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quote_message
+      label: quote_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: guest_count
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false

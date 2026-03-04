@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breast Imaging History Survey
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_birth
+        label: Date of Birth
+        hint: Patient's date of birth
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: patient_id
+        label: Patient ID
+        hint: Medical record number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: previous_imaging
+        label: Have you had breast imaging before
+        hint: Previous mammograms or ultrasounds
+        type: select_one
+        options:
+          - Yes, multiple times
+          - Yes, a few times
+          - Yes, once
+          - No, this is my first
+        required: true
+      - id: 6
+        name: last_imaging_date
+        label: Date of Last Breast Imaging
+        hint: Most recent mammogram or ultrasound
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: imaging_types
+        label: Types of Imaging You Have Had
+        hint: Select all types performed
+        type: select_multiple
+        options:
+          - Mammogram
+          - Ultrasound
+          - MRI
+          - Tomosynthesis - 3D mammography
+          - PET scan
+          - Other imaging
+          - None
+        required: false
+      - id: 8
+        name: imaging_findings
+        label: Previous Imaging Findings
+        hint: Results from previous imaging
+        type: select_one
+        options:
+          - Normal
+          - Benign findings
+          - Abnormalities requiring follow-up
+          - Cancerous findings
+          - Unknown
+        required: false
+      - id: 9
+        name: biopsies_performed
+        label: Have you had a breast biopsy
+        hint: Tissue sampling procedure
+        type: select_one
+        options:
+          - No biopsy
+          - Yes, one biopsy
+          - Yes, multiple biopsies
+          - Unsure
+        required: false
+      - id: 10
+        name: biopsy_results
+        label: Biopsy Results
+        hint: Outcome of biopsy if performed
+        type: select_one
+        options:
+          - Benign
+          - Malignant
+          - Uncertain
+          - Not performed
+        required: false
+      - id: 11
+        name: breast_cancer_diagnosis
+        label: Have you been diagnosed with breast cancer
+        hint: Personal history of cancer
+        type: select_one
+        options:
+          - No cancer diagnosis
+          - Yes, treated
+          - Yes, currently being treated
+          - Yes, under surveillance
+        required: true
+      - id: 12
+        name: cancer_treatment
+        label: Cancer Treatments Received
+        hint: If applicable, select treatments
+        type: select_multiple
+        options:
+          - Surgery
+          - Chemotherapy
+          - Radiation therapy
+          - Hormone therapy
+          - Immunotherapy
+          - Combination therapy
+          - No treatment
+        required: false
+      - id: 13
+        name: breast_symptoms
+        label: Current Breast Symptoms
+        hint: Any symptoms or concerns
+        type: select_multiple
+        options:
+          - Breast pain or tenderness
+          - Breast lump
+          - Nipple discharge
+          - Nipple retraction
+          - Skin changes or dimpling
+          - Swelling
+          - No symptoms
+        required: false
+      - id: 14
+        name: family_history
+        label: Family History of Breast Cancer
+        hint: Cancer history in family members
+        type: select_one
+        options:
+          - No family history
+          - One relative with breast cancer
+          - Multiple relatives with cancer
+          - Early-onset cancer in family
+          - Unknown
+        required: false
+      - id: 15
+        name: genetic_factors
+        label: Known Genetic Risk Factors
+        hint: BRCA or other genetic mutations
+        type: select_one
+        options:
+          - BRCA1 positive
+          - BRCA2 positive
+          - Other genetic mutation
+          - Genetic testing negative
+          - Not tested
+        required: false
+      - id: 16
+        name: hormone_therapy
+        label: Current Hormone Therapy Use
+        hint: Hormone replacement or contraceptives
+        type: select_multiple
+        options:
+          - Hormone replacement therapy
+          - Oral contraceptives
+          - Hormone-releasing IUD
+          - Tamoxifen or other therapy
+          - None
+        required: false
+      - id: 17
+        name: imaging_schedule
+        label: Recommended Imaging Schedule
+        hint: Frequency of imaging needed
+        type: select_one
+        options:
+          - Annual
+          - Every 2 years
+          - Every 3 years
+          - As needed based on findings
+          - Not yet determined
+        required: false
+      - id: 18
+        name: imaging_concerns
+        label: Patient Concerns About Imaging
+        hint: Any specific concerns or preferences
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: follow_up_plan
+        label: Follow-Up Plan
+        hint: Recommended follow-up actions
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Home Health Aide Log
+    pages:
+      - id: 1
+        name: log_header
+        label: -- Daily Log --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: aide_name
+        label: Aide name
+        hint: Staff member completing the log
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: resident_name
+        label: Resident name
+        hint: Name of resident served
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date
+        label: Date
+        hint: Date of entry
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: shift_start_time
+        label: Shift start time
+        hint: Enter start time
+        type: time
+        options: []
+        required: false
+      - id: 6
+        name: shift_end_time
+        label: Shift end time
+        hint: Enter end time
+        type: time
+        options: []
+        required: false
+      - id: 7
+        name: activities_completed
+        label: Activities completed
+        hint: Brief summary of tasks performed
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: vital_signs_recorded
+        label: Vital signs recorded
+        hint: Enter values if taken
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: incidents_or_concerns
+        label: Incidents or concerns
+        hint: Note any incidents or changes in condition
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: supervisor_review
+        label: Supervisor review notes
+        hint: For supervisor use
+        type: text
+        options: []
+        required: false

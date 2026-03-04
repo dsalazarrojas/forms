@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Questionnaire For Patients
+    pages:
+    - id: 1
+      name: exposed_to_covid
+      label: have you been exposed to covid 19
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: false
+    - id: 2
+      name: symptoms
+      label: describe your symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_doctor
+      label: contact a doctor
+      hint: null
+      type: select_multiple
+      options:
+      - call
+      - email
+      - visit
+      required: false
+    - id: 4
+      name: medical_record_id
+      label: medical record id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: doctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false

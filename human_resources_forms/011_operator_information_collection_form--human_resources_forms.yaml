@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operator Information Collection Form
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: operator_phone
+      label: Operator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: operator_job_title
+      label: Operator Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: operator_location
+      label: Operator Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: operator_shift
+      label: Operator Shift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: operator_shift_start_time
+      label: Operator Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: operator_shift_end_time
+      label: Operator Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: operator_safety_training
+      label: Operator Safety Training
+      hint: null
+      type: select_multiple
+      options:
+      - Safety
+      - Training
+      - Other
+      required: false
+    - id: 10
+      name: operator_emergency_contact_name
+      label: Operator Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

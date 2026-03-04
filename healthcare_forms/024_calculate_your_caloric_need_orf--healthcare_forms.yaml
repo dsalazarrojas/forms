@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Your Caloric Need Orf
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: body_measurements_header
+      label: -- Body Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: height_feet
+      label: Height - Feet
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: height_inches
+      label: Height - Inches
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_weight
+      label: Current Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: goal_weight
+      label: Goal Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: body_fat_percent
+      label: Current Body Fat Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lean_muscle_mass
+      label: Estimated Lean Muscle Mass (lbs)
+      hint: Optional
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: activity_header
+      label: -- Activity Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: activity_level
+      label: Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary (little or no exercise)
+      - Lightly active (light exercise 1-3 days/week)
+      - Moderately active (moderate exercise 3-5 days/week)
+      - Very active (hard exercise 6-7 days/week)
+      - Extremely active (physical job or training twice daily)
+      required: true
+    - id: 14
+      name: exercise_frequency
+      label: Weekly Exercise Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: exercise_type
+      label: Primary Exercise Type
+      hint: null
+      type: select_one
+      options:
+      - Cardio
+      - Strength training
+      - Mixed training
+      - Sports
+      - Other
+      required: false
+    - id: 16
+      name: goals_header
+      label: -- Fitness Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_goal
+      label: Primary Goal
+      hint: null
+      type: select_one
+      options:
+      - Lose fat while preserving muscle
+      - Build muscle
+      - General fitness and health
+      - Maintain current weight
+      - Performance enhancement
+      required: true
+    - id: 18
+      name: calorie_deficit
+      label: Desired Calorie Deficit
+      hint: For fat loss
+      type: select_one
+      options:
+      - Conservative (250-500 cal/day deficit)
+      - Moderate (500-750 cal/day deficit)
+      - Aggressive (750-1000 cal/day deficit)
+      - Not applicable
+      required: false
+    - id: 19
+      name: macronutrient_header
+      label: -- Macronutrient Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: diet_type
+      label: Preferred Diet Type
+      hint: null
+      type: select_one
+      options:
+      - Balanced (40% carbs, 30% protein, 30% fat)
+      - High protein (40% carbs, 40% protein, 20% fat)
+      - Low carb (20% carbs, 40% protein, 40% fat)
+      - Keto (5% carbs, 25% protein, 70% fat)
+      - Other preference
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Information
+      hint: Any health conditions or medications affecting nutrition
+      type: text
+      options: []
+      required: false

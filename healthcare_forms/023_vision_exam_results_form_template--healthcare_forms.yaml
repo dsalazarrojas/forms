@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vision Exam Results Form Template
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: right_eye_acuity_score
+      label: Right Eye Acuity Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: left_eye_acuity_score
+      label: Left Eye Acuity Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: field_of_vision_score
+      label: Field of Vision Score
+      hint: Enter the patient's field of vision score
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: prescription
+      label: Prescription
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: test_results_comments
+      label: Test Results Comments
+      hint: Enter any test results comments here
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prescription_type
+      label: Prescription Type
+      hint: null
+      type: select_one
+      options:
+      - Spectacles
+      - Contact Lenses
+      - Surgery
+      required: true
+    - id: 10
+      name: prescription_date
+      label: Prescription Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: prescription_time
+      label: Prescription Time
+      hint: null
+      type: time
+      options: []
+      required: true

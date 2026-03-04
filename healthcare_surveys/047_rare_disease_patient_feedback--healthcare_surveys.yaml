@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: rare_disease_patient_feedback
+    pages:
+    - id: 1
+      name: symptoms_management
+      label: symptoms_management
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: treatment_challenges
+      label: treatment_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: support_satisfaction
+      label: support_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false

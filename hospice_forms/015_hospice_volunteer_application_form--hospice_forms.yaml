@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Volunteer''}'
+      - '{''label'': ''Team Leader''}'
+      - '{''label'': ''Care Partner''}'
+      required: true
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: availability_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: application_time
+      label: Time of Application
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Both''}'
+      required: true
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

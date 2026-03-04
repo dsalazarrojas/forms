@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Gift Certificate Request
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: gift_cert_certificate_number
+      label: Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: gift_cert_recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: gift_cert_receiver_email
+      label: Receiver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: gift_card_value
+      label: Gift Card Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Cash
+      required: true
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agreement
+      label: By submitting this form, you agree to the payment terms and conditions.
+      hint: null
+      type: text
+      options: []
+      required: false

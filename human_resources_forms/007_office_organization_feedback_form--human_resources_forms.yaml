@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_organization_feedback_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''HR''}'
+      - '{''id'': 12, ''label'': ''Management''}'
+      - '{''id'': 13, ''label'': ''Sales''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''label'': ''Positive''}'
+      - '{''id'': 22, ''label'': ''Negative''}'
+      - '{''id'': 23, ''label'': ''Neutral''}'
+      required: true
+    - id: 6
+      name: feedback_details
+      label: Feedback Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: space_satisfaction
+      label: Space Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: resources_satisfaction
+      label: Resources Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: space_rating
+      label: Space Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: resources_rating
+      label: Resources Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

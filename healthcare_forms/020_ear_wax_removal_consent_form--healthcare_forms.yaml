@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ear Wax Removal Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history_question
+      label: Have you had any previous ear surgeries or procedures?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medication_allergies
+      label: Medication allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition_question
+      label: Do you have a medical condition that may affect your ear wax removal?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ear_type
+      label: Type of ear
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: ear_type_question
+      label: What type of ear is the procedure to be performed on?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: procedure_date
+      label: Date of procedure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: procedure_time
+      label: Time of procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: consent
+      label: Signature of patient
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: patient_signature
+      label: Signature of patient
+      hint: null
+      type: text
+      options: []
+      required: false

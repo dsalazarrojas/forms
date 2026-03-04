@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Accommodation Request Form
+    pages:
+    - id: 1
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: accommodation_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - double
+      - triple
+      required: false
+    - id: 7
+      name: preferred_room_type
+      label: Preferred Room Type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - double
+      - triple
+      required: false
+    - id: 8
+      name: accommodation_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_message
+      label: Student Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: room_message
+      label: Room Message
+      hint: null
+      type: note
+      options: []
+      required: false

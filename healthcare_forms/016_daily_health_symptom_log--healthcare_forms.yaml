@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Health Symptom Log
+    pages:
+    - id: 1
+      name: daily_health_symptom_log
+      label: Daily Health Symptom Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: symptom_1
+      label: Headache
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptom_2
+      label: Fever
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: symptom_3
+      label: Cough
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: symptom_4
+      label: Diarrhea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Enter your email for tracking purposes
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

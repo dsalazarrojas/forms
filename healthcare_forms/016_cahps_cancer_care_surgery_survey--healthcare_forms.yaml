@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Cancer Care Surgery Survey
+    pages:
+      - id: 1
+        name: surgery_header
+        label: -- Cancer Surgery Experience Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: surgeon_name
+        label: Name of the Surgeon who performed your operation
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: surgery_facility
+        label: Hospital or Surgical Center Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: pre_op_instruction_clarity
+        label: Before surgery, did the care team explain what would happen during the operation?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, somewhat
+          - No
+        required: true
+      - id: 5
+        name: pre_op_questions_answered
+        label: Did you have the opportunity to ask all your questions before the surgery?
+        hint: null
+        type: select_one
+        options:
+          - Yes, all questions answered
+          - Some questions answered
+          - No opportunity given
+        required: true
+      - id: 6
+        name: recovery_nurse_communication
+        label: In the recovery room, how often did nurses explain things in a way you could understand?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 7
+        name: post_op_pain_management
+        label: How often was your pain well-controlled after surgery?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 8
+        name: discharge_instruction_clarity
+        label: Before you left the facility, did you get clear instructions about what you could and could not do?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, somewhat
+          - No
+        required: true
+      - id: 9
+        name: family_involvement_surgery
+        label: Did the care team keep your family or friends informed during your surgery?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, somewhat
+          - No
+          - Not Applicable
+        required: false
+      - id: 10
+        name: surgeon_respect_score
+        label: How often did the surgeon treat you with courtesy and respect?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 11
+        name: surgical_team_coordination
+        label: How well did the surgical team and the oncology team work together?
+        hint: null
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 12
+        name: surgery_outcome_rating
+        label: Overall rating of your cancer surgery experience
+        hint: 0 is worst, 10 is best
+        type: select_one
+        options:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 13
+        name: follow_up_visit_scheduled
+        label: Was a follow-up visit scheduled before you left the facility?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 14
+        name: recovery_comments
+        label: Please share any details about your recovery process
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: contact_consent_survey
+        label: May we contact you for more details about your feedback?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

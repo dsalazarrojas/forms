@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Consultation For Aesthetic Services
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: For treatment records
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 7
+      name: occupation
+      label: Occupation
+      hint: Your current job
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Website
+      - Advertisement
+      - Physician Referral
+      - Previous Client
+      - Other
+      required: true
+    - id: 9
+      name: service_interest
+      label: Services You Are Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Botox Injections
+      - Dermal Fillers
+      - Chemical Peels
+      - Microdermabrasion
+      - Laser Hair Removal
+      - Skin Tightening
+      - Microneedling
+      - LED Light Therapy
+      - Consultation Only
+      - Other
+      required: true
+    - id: 10
+      name: primary_concern
+      label: Primary Skin or Aesthetic Concern
+      hint: What would you like to address?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: skin_type
+      label: Skin Type
+      hint: If known
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Not Sure
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Any diagnosed conditions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Current Medications
+      hint: Include supplements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: Medication, food, or environmental
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_aesthetic_treatments
+      label: Have You Had Aesthetic Treatments Before?
+      hint: Previous procedures
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: previous_treatments_detail
+      label: Previous Treatments Details
+      hint: List treatments and dates
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: smoking_status
+      label: Do You Smoke?
+      hint: Affects healing
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      required: true
+    - id: 18
+      name: pregnancy_status
+      label: Are You Pregnant or Breastfeeding?
+      hint: Affects treatment options
+      type: select_one
+      options:
+      - false
+      - Yes, Pregnant
+      - Yes, Breastfeeding
+      - Not Applicable
+      required: true
+    - id: 19
+      name: keloid_scarring
+      label: Do You Have a History of Keloid Scarring?
+      hint: Affects treatment safety
+      type: select_one
+      options:
+      - false
+      - true
+      - Not Sure
+      required: true
+    - id: 20
+      name: autoimmune_disorders
+      label: Do You Have Any Autoimmune Disorders?
+      hint: Affects treatment eligibility
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 21
+      name: treatment_goals
+      label: What Are Your Treatment Goals?
+      hint: Desired outcomes
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: budget_range
+      label: Budget Range for Treatment
+      hint: Estimated spending
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      required: false
+    - id: 23
+      name: downtime_tolerance
+      label: How Much Downtime Can You Accept?
+      hint: Recovery time
+      type: select_one
+      options:
+      - No Downtime Preferred
+      - 1-3 Days
+      - 4-7 Days
+      - 1-2 Weeks
+      - Flexible
+      required: true
+    - id: 24
+      name: consent_to_examination
+      label: I Consent to Skin Examination and Consultation
+      hint: Examination consent
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 25
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 26
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true

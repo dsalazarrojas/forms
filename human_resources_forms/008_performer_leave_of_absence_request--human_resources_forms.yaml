@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performer Leave Of Absence Request
+    pages:
+    - id: 1
+      name: performer_leave_of_absence_request_form
+      label: Performer Leave Of Absence Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: leave_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: leave_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_duration
+      label: leave_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: Select a reason for the leave
+      type: select_one
+      options:
+      - Medical
+      - Personal
+      - Pandemic
+      - Bereavement
+      - Other
+      - Special Event
+      - Family Emergency
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_note
+      label: contact_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: performer_details
+      label: performer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performer_name
+      label: performer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: performer_email
+      label: performer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: performer_phone
+      label: performer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: performer_note
+      label: performer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: leave_status
+      label: leave_status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Declined
+      - Pending
+      - Rejected
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: approver_name
+      label: approver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_note
+      label: approver_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

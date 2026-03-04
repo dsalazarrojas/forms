@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Climate Impact Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_awareness
+      label: staff-awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''option-1'': ''Very Little''}'
+      - '{''option-2'': ''Somewhat Familiar''}'
+      - '{''option-3'': ''Very Familiar''}'
+      required: true
+    - id: 3
+      name: observed_impacts
+      label: observed-impacts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option-1'': ''None''}'
+      - '{''option-2'': ''Some''}'
+      - '{''option-3'': ''Extensive''}'
+      required: true
+    - id: 4
+      name: priority_climate_action
+      label: priority-climate-action
+      hint: null
+      type: select_one
+      options:
+      - '{''option-1'': ''Very Low''}'
+      - '{''option-2'': ''Low''}'
+      - '{''option-3'': ''Medium''}'
+      - '{''option-4'': ''High''}'
+      required: true
+    - id: 5
+      name: climate_action_strategies
+      label: climate-action-strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: climate_action_plans
+      label: climate-action-plans
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option-1'': ''None''}'
+      - '{''option-2'': ''Yes, but not well-defined''}'
+      - '{''option-3'': ''Yes, and well-defined''}'
+      required: true
+    - id: 7
+      name: observed_physical_changes
+      label: observed-physical-changes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option-1'': ''None''}'
+      - '{''option-2'': ''Some''}'
+      - '{''option-3'': ''Extensive''}'
+      required: true
+    - id: 8
+      name: observed_climate_impacts
+      label: observed-climate-impacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: climate_impact_priorities
+      label: climate-impact-priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option-1'': ''None''}'
+      - '{''option-2'': ''Some''}'
+      - '{''option-3'': ''Extensive''}'
+      required: true
+    - id: 10
+      name: perceived_climate_risks
+      label: perceived-climate-risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: climate_risk_communication
+      label: climate-risk-communication
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Data Collaboration Registration Form
+    pages:
+    - id: 1
+      name: agency_type
+      label: Agency Type
+      hint: null
+      type: select_one
+      options:
+      - Agency
+      - Research Institution
+      - Nonprofit
+      required: true
+    - id: 2
+      name: partner_organizations
+      label: Partner Organizations
+      hint: Enter the name of your partner organizations
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: collaboration_interests
+      label: Collaboration Interests
+      hint: Enter your collaboration interests
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collaboration_initiatives
+      label: Collaboration Initiatives
+      hint: Enter your collaboration initiatives
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_first_name
+      label: Contact First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Agencies
+      - Research Institutions
+      - Nonprofit
+      required: true
+    - id: 11
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Agencies
+      - Research Institutions
+      - Nonprofit
+      required: true
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_organisation
+      label: Submitter Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_organisation_type
+      label: Submitter Organisation Type
+      hint: null
+      type: select_one
+      options:
+      - Government Agency
+      - Nonprofit
+      - Academic/Research Institution
+      required: true
+    - id: 22
+      name: submitter_organisation_address
+      label: Submitter Organisation Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_organisation_phone
+      label: Submitter Organisation Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_organisation_email
+      label: Submitter Organisation Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submitter_organisation_notes
+      label: Submitter Organisation Notes
+      hint: null
+      type: note
+      options: []
+      required: false

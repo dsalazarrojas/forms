@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: palliative-care-program-assessment-form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Heart failure''}'
+      - '{''value'': ''Lung disease''}'
+      - '{''value'': ''Cancer''}'
+      - '{''value'': ''Diabetes''}'
+      - '{''value'': ''Hypertension''}'
+      - '{''value'': "Alzheimer''s disease"}'
+      required: false
+    - id: 4
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: psychological_impact
+      label: Psychological Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: social_support
+      label: Social Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

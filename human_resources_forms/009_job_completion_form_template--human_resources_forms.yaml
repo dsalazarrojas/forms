@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Completion Form Template
+    pages:
+    - id: 1
+      name: job_completion_form_template
+      label: job completion form template
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_start_date
+      label: job start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: job_end_date
+      label: job end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: job_hours
+      label: job hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: job_notes
+      label: job notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employer
+      label: employer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: job_status
+      label: job status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: form_submitted
+      label: form submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

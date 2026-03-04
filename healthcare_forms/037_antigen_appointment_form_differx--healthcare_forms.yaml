@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antigen Appointment Form Differx
+    pages:
+    - id: 1
+      name: section_appointment
+      label: -- Appointment Details --
+      hint: Book a rapid antigen test appointment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full name of person being tested
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Used for appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred appointment date
+      hint: Select a date for testing
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred time slot
+      hint: Estimate preferred time of day
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: symptom_status
+      label: Are you currently symptomatic
+      hint: Symptoms within last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: recent_exposure
+      label: Recent exposure to confirmed case
+      hint: Provide approximate date if known
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 8
+      name: insurance_information
+      label: Insurance information
+      hint: Optional if coverage is applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any other requests for the clinic
+      type: text
+      options: []
+      required: false

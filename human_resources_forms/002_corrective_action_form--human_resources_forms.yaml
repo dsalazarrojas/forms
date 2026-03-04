@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corrective Action Form
+    pages:
+    - id: 1
+      name: corrective_action_form_section
+      label: corrective_action_form_section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: corrective_action_date
+      label: corrective_action_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: corrective_action_status
+      label: corrective_action_status
+      hint: null
+      type: select_one
+      options:
+      - Corrective Action Open
+      - Corrective Action In Progress
+      - Corrective Action Completed
+      required: true
+    - id: 4
+      name: corrective_action_description
+      label: corrective_action_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: corrective_action_conducted_by
+      label: corrective_action_conducted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: corrective_action_employees_affected
+      label: corrective_action_employees_affected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: corrective_action_actions_taken
+      label: corrective_action_actions_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: corrective_action_outcome
+      label: corrective_action_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action_recommendations
+      label: corrective_action_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corrective_action_next_steps
+      label: corrective_action_next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: corrective_action_reviewed_by
+      label: corrective_action_reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: corrective_action_reviewed_date
+      label: corrective_action_reviewed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: corrective_action_closed_date
+      label: corrective_action_closed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: corrective_action_reviewed_by_title
+      label: corrective_action_reviewed_by_title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Interest Survey
+    pages:
+    - id: 1
+      name: applicant_name
+      label: First and Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Full Time''}'
+      - '{''id'': 12, ''label'': ''Part Time''}'
+      - '{''id'': 13, ''label'': ''Contract''}'
+      - '{''id'': 14, ''label'': ''Temporary''}'
+      - '{''id'': 15, ''label'': ''Intern''}'
+      required: false
+    - id: 6
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''label'': ''Entry-Level''}'
+      - '{''id'': 22, ''label'': ''Mid Level''}'
+      - '{''id'': 23, ''label'': ''Senior Level''}'
+      - '{''id'': 24, ''label'': ''Executive Level''}'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: ideal_skills
+      label: Ideal Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: required_skills
+      label: Required Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 31, ''label'': ''Monday''}'
+      - '{''id'': 32, ''label'': ''Tuesday''}'
+      - '{''id'': 33, ''label'': ''Wednesday''}'
+      - '{''id'': 34, ''label'': ''Thursday''}'
+      - '{''id'': 35, ''label'': ''Friday''}'
+      - '{''id'': 36, ''label'': ''Saturday''}'
+      - '{''id'': 37, ''label'': ''Sunday''}'
+      required: false
+    - id: 18
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 41, ''label'': ''8am-5pm''}'
+      - '{''id'': 42, ''label'': ''5pm-12am''}'
+      - '{''id'': 43, ''label'': ''Other''}'
+      - '{''id'': 44, ''label'': ''24/7''}'
+      required: false
+    - id: 19
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 51, ''label'': ''Office''}'
+      - '{''id'': 52, ''label'': ''Remote''}'
+      - '{''id'': 53, ''label'': ''Both''}'
+      required: false
+    - id: 20
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 61, ''label'': ''Team Lead''}'
+      - '{''id'': 62, ''label'': ''Manager''}'
+      - '{''id'': 63, ''label'': ''Team Member''}'
+      required: false
+    - id: 21
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 71, ''label'': ''Email''}'
+      - '{''id'': 72, ''label'': ''Phone''}'
+      - '{''id'': 73, ''label'': ''Text''}'
+      required: false
+    - id: 22
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 81, ''label'': ''English''}'
+      - '{''id'': 82, ''label'': ''Spanish''}'
+      - '{''id'': 83, ''label'': ''French''}'
+      required: false
+    - id: 23
+      name: resume_attachment
+      label: Resume Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: resume_url
+      label: Resume URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false

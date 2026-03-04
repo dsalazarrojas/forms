@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Request Form
+    pages:
+    - id: 1
+      name: patient_intro
+      label: Patient Contact Request
+      hint: Used by medical facilities to gather potential patient info
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact_time
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 8
+      name: reason_for_request
+      label: Primary Reason for Consultation
+      hint: Briefly describe your medical concern
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referral_source
+      label: How did you hear about our clinic?
+      hint: null
+      type: select_one
+      options:
+      - Physician Referral
+      - Internet Search
+      - Family/Friend
+      - Insurance Website
+      - Other
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: consent_to_call
+      label: I authorize the clinic to leave voicemails if needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

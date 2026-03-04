@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Ambulance Check Form
+    pages:
+      - id: 1
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of ambulance inspection
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: inspection_time
+        label: Inspection Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: ambulance_unit_number
+        label: Ambulance Unit Number
+        hint: Vehicle identification number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: vehicle_type
+        label: Vehicle Type
+        hint: null
+        type: select_one
+        options:
+          - ALS Ambulance
+          - BLS Ambulance
+          - Rescue Unit
+          - Air Ambulance
+          - Other
+        required: true
+      - id: 5
+        name: inspector_name
+        label: Inspector Name
+        hint: Name of person conducting inspection
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: inspector_title
+        label: Inspector Title
+        hint: EMT, Paramedic, Supervisor, etc.
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: ppe_inventory_sufficient
+        label: PPE Inventory Sufficient
+        hint: Are personal protective equipment supplies adequate?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+        required: true
+      - id: 8
+        name: n95_masks
+        label: N95 Masks Available
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Sufficient"
+          - "Low Stock"
+        required: false
+      - id: 9
+        name: gowns_available
+        label: Protective Gowns Available
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Sufficient"
+          - "Low Stock"
+        required: false
+      - id: 10
+        name: gloves_available
+        label: Gloves Available
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Sufficient"
+          - "Low Stock"
+        required: false
+      - id: 11
+        name: face_shields_available
+        label: Face Shields Available
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Sufficient"
+          - "Low Stock"
+        required: false
+      - id: 12
+        name: disinfection_supplies
+        label: Disinfection and Cleaning Supplies Available
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Sufficient"
+          - "Low Stock"
+        required: true
+      - id: 13
+        name: ambulance_cleanliness
+        label: Ambulance Interior Cleanliness
+        hint: Condition of patient compartment
+        type: select_one
+        options:
+          - "Clean"
+          - "Mostly Clean"
+          - "Needs Cleaning"
+          - "Not Acceptable"
+        required: true
+      - id: 14
+        name: ventilation_system
+        label: Ventilation System Operational
+        hint: Is air circulation working properly?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+          - "Unknown"
+        required: false
+      - id: 15
+        name: equipment_functional
+        label: All Medical Equipment Functional
+        hint: Monitors, defibrillator, suction, etc.
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Mostly"
+          - "Needs Repair"
+        required: true
+      - id: 16
+        name: equipment_issues
+        label: Equipment Issues or Maintenance Needed
+        hint: Describe any problems found
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: isolation_protocols
+        label: Isolation Protocols Posted
+        hint: Are COVID-19 procedures clearly visible?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+        required: false
+      - id: 18
+        name: bio_hazard_disposal
+        label: Biohazard Disposal Containers Available
+        hint: Proper waste disposal setup in place?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+        required: true
+      - id: 19
+        name: documentation_complete
+        label: Documentation Complete and Current
+        hint: Trip logs, maintenance records up to date?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Mostly"
+        required: false
+      - id: 20
+        name: overall_condition
+        label: Overall Vehicle Condition
+        hint: General assessment
+        type: select_one
+        options:
+          - "Excellent - Ready for Service"
+          - "Good - Minor Issues"
+          - "Fair - Maintenance Needed"
+          - "Poor - Out of Service"
+        required: true
+      - id: 21
+        name: recommendations
+        label: Recommendations or Repairs Needed
+        hint: List any actions required
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: approval_status
+        label: Inspection Approval Status
+        hint: null
+        type: select_one
+        options:
+          - "Approved - Operational"
+          - "Approved with Conditions"
+          - "Not Approved - Requires Repairs"
+        required: true

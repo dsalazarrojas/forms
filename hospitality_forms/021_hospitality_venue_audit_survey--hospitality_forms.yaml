@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Venue Audit Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: cleanliness_rating
+      label: Cleanliness rating
+      hint: On a scale of 1-5, how would you rate the cleanliness of the venue?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: safety_rating
+      label: Safety rating
+      hint: On a scale of 1-5, how would you rate the safety of the venue?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: staff_performance
+      label: Staff performance
+      hint: How would you rate the performance of the venue's staff?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall rating
+      hint: On a scale of 1-5, how would you rate the overall experience?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cleanliness_comments
+      label: Cleanliness comments
+      hint: Please provide any comments on the cleanliness of the venue.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_comments
+      label: Safety comments
+      hint: Please provide any comments on the safety of the venue.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: staff_comments
+      label: Staff comments
+      hint: Please provide any comments on the performance of the venue's staff.
+      type: note
+      options: []
+      required: false

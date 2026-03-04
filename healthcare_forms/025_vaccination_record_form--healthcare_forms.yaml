@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Record Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vaccination_date
+      label: Date of Vaccination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: vaccine_administered
+      label: Vaccine Administered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: doctor_license_number
+      label: Doctor's License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_phone
+      label: Patient's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_phone
+      label: Doctor's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: Patient's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: doctor_email
+      label: Doctor's Email
+      hint: null
+      type: email
+      options: []
+      required: false

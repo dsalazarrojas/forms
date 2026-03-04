@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: therapeutic_garden_impact_survey
+    pages:
+    - id: 1
+      name: garden_visit
+      label: Garden Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feelings_before
+      label: Feelings Before
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feelings_after
+      label: Feelings After
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: garden_visit_length
+      label: Garden Visit Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: garden_visit_frequency
+      label: Garden Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Visited once a month
+      - Visited twice a week
+      - Visited daily
+      - Never
+      - Not Sure
+      required: false
+    - id: 8
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: garden_visit_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_staff_signature
+      label: Date of Staff Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time_staff_signature
+      label: Time of Staff Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: participant_signature_confirmation
+      label: Participant Signature Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: false
+    - id: 20
+      name: staff_signature_confirmation
+      label: Staff Signature Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: false
+    - id: 21
+      name: garden_type
+      label: Type of Garden
+      hint: null
+      type: select_multiple
+      options:
+      - Butterfly Garden
+      - Sensory Garden
+      - Healing Garden
+      - Other
+      required: false
+    - id: 22
+      name: garden_location
+      label: Location of Garden
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - School
+      - Home
+      - Other
+      required: false
+    - id: 23
+      name: participant_age_range
+      label: Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 0-5
+      - 6-17
+      - 18-64
+      - 65+
+      required: false
+    - id: 24
+      name: participant_diagnosis
+      label: Participant Diagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - Mental Health
+      - Physical Disability
+      - Other
+      required: false
+    - id: 25
+      name: participant_goals
+      label: Participant Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Stress Relief
+      - Cognitive Stimulation
+      - Social Interaction
+      - Other
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Itinerary Assistance Form
+    pages:
+    - id: 1
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: participant_names
+      label: Participant Names
+      hint: List of participant names
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: expected_length
+      label: Expected length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: actual_length
+      label: Actual Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_details
+      label: Participant Details
+      hint: Additional participant details
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodations_details
+      label: Accommodations Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: participant_status
+      label: Participant Status
+      hint: Status of participants
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: participant_status_details
+      label: Participant Status Details
+      hint: Details about participant status
+      type: text
+      options: []
+      required: false

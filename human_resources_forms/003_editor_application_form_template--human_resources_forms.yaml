@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editor Application Form Template
+    pages:
+    - id: 1
+      name: editor_channel_url
+      label: Channel URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: editor_experience
+      label: What is your experience with video editing?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: editor_skills
+      label: What are your skills?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: youtube_channel
+      label: What's your YouTube channel URL?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: why_edit
+      label: Why do you want to edit my videos?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: What's your availability for projects?
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - As needed
+      required: false
+    - id: 7
+      name: rate_request
+      label: What is your rate request?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: portfolio_items
+      label: What is your portfolio?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment
+      label: What equipment do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: How can I contact you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Me
+      - Assistant
+      required: false
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_to
+      label: Submitted to
+      hint: null
+      type: select_one
+      options:
+      - Channel Owner
+      - Assistant
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJIMMY
+      - Other
+      required: false

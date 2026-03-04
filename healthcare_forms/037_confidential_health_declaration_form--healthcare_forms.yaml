@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Health Declaration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relation to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 13
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_symptoms
+      label: Current Symptoms
+      hint: What symptoms do you have
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of Breath
+      - Fatigue
+      - Headache
+      - Body Aches
+      - Sore Throat
+      - Loss of Taste or Smell
+      - Nausea or Vomiting
+      - Diarrhea
+      - None
+      required: true
+    - id: 18
+      name: symptom_severity
+      label: Symptom Severity
+      hint: How severe
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Not Applicable
+      required: true
+    - id: 19
+      name: symptom_onset
+      label: Symptom Onset Date
+      hint: When did symptoms start
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart Disease
+      - High Blood Pressure
+      - Asthma
+      - COPD
+      - Kidney Disease
+      - Liver Disease
+      - Cancer
+      - Autoimmune Disorder
+      - None
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Any drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: food_allergies
+      label: Food Allergies
+      hint: Any food allergies
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_allergies
+      label: Other Allergies
+      hint: Environmental or other
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recent_travel
+      label: Recent Travel History
+      hint: Travel in last 14 days
+      type: select_one
+      options:
+      - Yes Domestic Travel
+      - Yes International Travel
+      - No Recent Travel
+      required: true
+    - id: 26
+      name: travel_locations
+      label: Travel Locations
+      hint: Where did you travel
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: covid_exposure
+      label: COVID-19 Exposure
+      hint: Close contact in last 14 days
+      type: select_one
+      options:
+      - Yes Confirmed Exposure
+      - Yes Possible Exposure
+      - No Known Exposure
+      required: true
+    - id: 28
+      name: covid_vaccination
+      label: COVID-19 Vaccination Status
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: true
+    - id: 29
+      name: health_declaration
+      label: Health Declaration
+      hint: I declare this information is accurate
+      type: select_one
+      options:
+      - I Declare This Is Accurate
+      - I Cannot Confirm
+      required: true
+    - id: 30
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: Do you consent
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 31
+      name: hipaa_acknowledgment
+      label: HIPAA Acknowledgment
+      hint: You understand privacy rights
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Have Questions
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date of Declaration
+      hint: Today date
+      type: date
+      options: []
+      required: true

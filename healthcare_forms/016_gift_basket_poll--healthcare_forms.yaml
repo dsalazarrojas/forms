@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Basket Poll
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: basket_theme
+      label: basket theme
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: basket_description
+      label: basket description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: money_raised
+      label: money raised
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: team_basket_image
+      label: team basket image
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Image 1'', ''value'': ''image1.jpg''}'
+      - '{''id'': 2, ''label'': ''Image 2'', ''value'': ''image2.jpg''}'
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: team members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: true
+    - id: 8
+      name: gift_basket
+      label: gift basket
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: true
+    - id: 9
+      name: date_of_submission
+      label: date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_submission
+      label: time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_date
+      label: assigned date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: assigned_time
+      label: assigned time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team 1''}'
+      - '{''id'': 2, ''label'': ''Team 2''}'
+      - '{''id'': 3, ''label'': ''Team 3''}'
+      required: false
+    - id: 17
+      name: team_members_1
+      label: Team Members 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 18
+      name: team_members_2
+      label: Team Members 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 19
+      name: team_members_3
+      label: Team Members 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 20
+      name: team_basket_image_1
+      label: Team Basket Image 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_basket_image_2
+      label: Team Basket Image 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_basket_image_3
+      label: Team Basket Image 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: gift_basket_image_1
+      label: Gift Basket Image 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: gift_basket_image_2
+      label: Gift Basket Image 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: gift_basket_image_3
+      label: Gift Basket Image 3
+      hint: null
+      type: text
+      options: []
+      required: false

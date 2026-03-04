@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Request For Proposal Submission Form
+    pages:
+    - id: 1
+      name: proposal_submission
+      label: Hotel Request for Proposal Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: hotel_details
+      label: Hotel Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 13
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: review_completed_at
+      label: Review Completed at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: proposal_id
+      label: Proposal ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 19
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 20
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitted_comments
+      label: Submitted Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: review_completed_by
+      label: Review Completed by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 24
+      name: submitted_to
+      label: Submitted to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false

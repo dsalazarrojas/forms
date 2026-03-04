@@ -1,0 +1,348 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Physical Examination Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: examination_date
+      label: Date of Physical Examination
+      hint: When was exam performed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: physician_name
+      label: Examining Physician Name
+      hint: Doctor full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: physician_license_number
+      label: Physician License Number
+      hint: Medical license number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: physician_clinic
+      label: Clinic or Practice Name
+      hint: Where exam was done
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: height
+      label: Height
+      hint: In inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Reading if taken
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pulse
+      label: Pulse Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vision_right_eye
+      label: Vision Right Eye
+      hint: Visual acuity
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vision_left_eye
+      label: Vision Left Eye
+      hint: Visual acuity
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vision_corrected
+      label: Does Camper Wear Glasses or Contacts
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - glasses
+      - Yes - contacts
+      - Yes - both
+      - false
+      required: true
+    - id: 21
+      name: hearing_status
+      label: Hearing Status
+      hint: Any concerns
+      type: select_one
+      options:
+      - Normal
+      - Mild impairment
+      - Moderate impairment
+      - Severe impairment
+      - Uses hearing aid
+      required: true
+    - id: 22
+      name: general_health
+      label: General Health Status
+      hint: Select status
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: List all conditions
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: chronic_illnesses
+      label: Chronic Illnesses
+      hint: Asthma, diabetes, epilepsy, etc
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hospitalizations
+      label: Past Hospitalizations
+      hint: List if any
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: surgeries
+      label: Past Surgeries
+      hint: List if any with dates
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: allergies
+      label: Allergies
+      hint: Include food, insect, medication
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: current_medications
+      label: Current Medications
+      hint: List all with dosages
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: activity_restrictions
+      label: Are There Any Activity Restrictions
+      hint: Yes or no
+      type: select_one
+      options:
+      - No - full participation
+      - Yes - limited
+      - Yes - significant restrictions
+      required: true
+    - id: 30
+      name: activity_restriction_details
+      label: Activity Restriction Details
+      hint: Describe restrictions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: cardiac_history
+      label: Cardiac History
+      hint: Any heart conditions
+      type: select_one
+      options:
+      - No known history
+      - Family history
+      - Personal history
+      - Congenital condition
+      required: true
+    - id: 32
+      name: respiratory_conditions
+      label: Respiratory Conditions
+      hint: Asthma, etc
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: neurological_conditions
+      label: Neurological Conditions
+      hint: Seizures, headaches, etc
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: musculoskeletal_conditions
+      label: Musculoskeletal Conditions
+      hint: Joint, bone, muscle issues
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Eczema, rashes, etc
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: mental_health_conditions
+      label: Mental Health Conditions
+      hint: Anxiety, depression, etc
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: immunization_status
+      label: Immunization Status
+      hint: Select status
+      type: select_one
+      options:
+      - Up to date per CDC guidelines
+      - Partially up to date
+      - Not up to date
+      - Medical exemption
+      - Religious exemption
+      required: true
+    - id: 38
+      name: tetanus_date
+      label: Date of Last Tetanus Shot
+      hint: Month and year
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: tb_test_date
+      label: Date of Last TB Test
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 40
+      name: cleared_for_camp
+      label: Is Camper Cleared for Camp Participation
+      hint: Physician approval
+      type: select_one
+      options:
+      - Yes - cleared without restrictions
+      - Yes - cleared with restrictions
+      - No - not cleared
+      - Pending further evaluation
+      required: true
+    - id: 41
+      name: clearance_restrictions
+      label: Clearance Restrictions
+      hint: Describe if any
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: physician_comments
+      label: Physician Comments
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: physician_signature
+      label: Physician Signature
+      hint: Doctor signs here
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: signature_date
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

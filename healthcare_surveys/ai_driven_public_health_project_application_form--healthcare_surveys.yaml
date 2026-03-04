@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Driven Public Health Project Application Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Project Overview ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: A concise title for your AI-driven public health project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: The name of your organization submitting this proposal
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person_name
+      label: Contact Person Full Name
+      hint: The primary contact person for this project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: The email address for project correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: The phone number for project correspondence
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: project_start_date
+      label: Proposed Project Start Date
+      hint: When do you anticipate the project will begin?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_duration_months
+      label: Project Duration (Months)
+      hint: Estimated duration of the project in months
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: project_budget
+      label: Total Project Budget (USD)
+      hint: Total budget requested for this project
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: section_header_focus
+      label: '--- Public Health Focus Area ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: health_focus_area
+      label: Primary Public Health Focus Area
+      hint: Select the primary area of public health your project addresses
+      type: select_one
+      options:
+      - Disease Surveillance
+      - Mental Health
+      - Maternal and Child Health
+      - Environmental Health
+      - Infectious Disease Prevention
+      - Chronic Disease Management
+      - Emergency Preparedness
+      - Health Equity
+      required: true
+    - id: 12
+      name: target_population
+      label: Target Population
+      hint: Who will benefit from this project?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: geographic_scope
+      label: Geographic Scope
+      hint: What geographic area will this project serve?
+      type: select_one
+      options:
+      - Local Community
+      - State/Province
+      - National
+      - Regional
+      - Global
+      required: true
+    - id: 14
+      name: section_header_ai
+      label: '--- AI Technology Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ai_application_type
+      label: Type of AI Application
+      hint: What type of AI technology will be used?
+      type: select_multiple
+      options:
+      - Machine Learning
+      - Natural Language Processing
+      - Computer Vision
+      - Predictive Analytics
+      - Chatbot/Virtual Assistant
+      - Image Recognition
+      - Data Mining
+      required: true
+    - id: 16
+      name: ai_use_case
+      label: Specific AI Use Case
+      hint: Describe how AI will be applied in your project
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: data_sources
+      label: Data Sources
+      hint: What data sources will feed your AI system?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_impact
+      label: '--- Expected Impact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What outcomes do you expect from this project?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure the success of this project?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: sustainability_plan
+      label: Sustainability Plan
+      hint: How will the project continue after initial funding?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_review
+      label: '--- Review Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: Date of application submission
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: reviewer_notes
+      label: Additional Comments or Notes
+      hint: Any additional information for reviewers
+      type: text
+      options: []
+      required: false

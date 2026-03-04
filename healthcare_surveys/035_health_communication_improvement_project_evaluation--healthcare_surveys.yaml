@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Communication Improvement Project Evaluation
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_url
+      label: Project URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Surveys
+      - Patient Feedback
+      - Project Evaluation
+      required: true
+    - id: 10
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - healthcare
+      - patient feedback
+      - project evaluation
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Form Author
+      - Team Member
+      - Guest User
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Healthcare
+      - Patient Feedback
+      - Project Management
+      required: true
+    - id: 13
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - Form Author
+      - Team Leader
+      - Guest User
+      required: false
+    - id: 14
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Form Author
+      - Team Leader
+      - Guest User
+      required: true
+    - id: 15
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Form Author
+      - Team Member
+      - Guest User
+      required: true
+    - id: 17
+      name: submitted_to
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Form Author
+      - Team Member
+      - Guest User
+      required: true
+    - id: 18
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 19
+      name: project_status_2
+      label: Project Status 2
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: ratings_scale
+      label: Ratings Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 2-8
+      - 4-10
+      required: true
+    - id: 22
+      name: ratings_scale_2
+      label: Ratings Scale 2
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 2-8
+      - 4-10
+      required: false
+    - id: 23
+      name: ratings_scale_3
+      label: Ratings Scale 3
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 2-8
+      - 4-10
+      required: false
+    - id: 24
+      name: ratings_scale_4
+      label: Ratings Scale 4
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 2-8
+      - 4-10
+      required: false
+    - id: 25
+      name: ratings_scale_5
+      label: Ratings Scale 5
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 2-8
+      - 4-10
+      required: false

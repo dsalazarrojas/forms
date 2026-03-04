@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: formulachallengemgl
+    pages:
+    - id: 1
+      name: form_title
+      label: Formulachallengemgl
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 5
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output file
+      hint: null
+      type: text
+      options: []
+      required: false

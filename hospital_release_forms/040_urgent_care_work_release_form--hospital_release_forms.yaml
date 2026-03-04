@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: urgent_care_work_release_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature
+      label: signature
+      hint: Patient signature is required
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_signature
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_supervision
+      label: medical_supervision
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 9
+      name: medical_supervision_note
+      label: medical_supervision_note
+      hint: null
+      type: text
+      options: []
+      required: false

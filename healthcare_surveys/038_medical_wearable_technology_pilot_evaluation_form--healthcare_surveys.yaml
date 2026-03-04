@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Wearable Technology Pilot Evaluation Form
+    pages:
+    - id: 1
+      name: device_usability
+      label: How would you rate the usability of the device
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: benefits
+      label: What benefits did you experience from using the device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges
+      label: What challenges did you experience while using the device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: device_benefits
+      label: What benefits did you experience from using the device
+      hint: null
+      type: select_multiple
+      options:
+      - Benefits of device
+      - Other benefits not mentioned
+      required: false
+    - id: 5
+      name: device_usability_likert_scale
+      label: How would you rate the usability of the device
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pilot_scheduling
+      label: On a scale from 1 to 5, how would you rate the scheduling of the pilot
+        program
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_feedback
+      label: Any additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true

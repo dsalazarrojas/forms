@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Leadership Inclusivity Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: FormStart
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inclusive_leadership
+      label: inclusiveLeadership
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': ''strongly_supportive'', ''label'': ''Strongly Supportive''}'
+      - '{''id'': ''2.1.1'', ''name'': ''somewhat_supportive'', ''label'': ''Somewhat
+        Supportive''}'
+      - '{''id'': ''2.1.2'', ''name'': ''neither'', ''label'': ''Neither''}'
+      required: false
+    - id: 3
+      name: leadership_barriers
+      label: leadershipBarriers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3.1, ''name'': ''none'', ''label'': ''None''}'
+      - '{''id'': 3.2, ''name'': ''some_barriers'', ''label'': ''Some''}'
+      - '{''id'': 3.3, ''name'': ''many_barriers'', ''label'': ''Many''}'
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: improvementIdeas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4.1, ''name'': ''no_ideas'', ''label'': ''No Ideas''}'
+      - '{''id'': 4.2, ''name'': ''some_ideas'', ''label'': ''Some Ideas''}'
+      - '{''id'': 4.3, ''name'': ''many_ideas'', ''label'': ''Many Ideas''}'
+      required: false

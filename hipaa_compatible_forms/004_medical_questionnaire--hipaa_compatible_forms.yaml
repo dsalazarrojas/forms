@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications_taking
+      label: Medications taking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_condition
+      label: Medical condition
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 10
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_specialty
+      label: Medical specialty
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

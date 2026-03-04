@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Compliance Audit Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_device_type
+      label: Medical Device Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Class II''}'
+      - '{''value'': ''Class III''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: compliance_date
+      label: Compliance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_device_description
+      label: Medical Device Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_postal_code
+      label: Facility Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_country
+      label: Facility Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_fax
+      label: Facility Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: regulatory_body
+      label: Regulatory Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: audit_type
+      label: Audit Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''510(k) Pre-Submission''}'
+      - '{''value'': ''510(k) Submission''}'
+      - '{''value'': ''Audit''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 19
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: auditor_contact_number
+      label: Auditor Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: auditor_email
+      label: Auditor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: auditor_organization
+      label: Auditor Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: auditor_title
+      label: Auditor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: auditor_notes
+      label: Auditor Notes
+      hint: null
+      type: text
+      options: []
+      required: false

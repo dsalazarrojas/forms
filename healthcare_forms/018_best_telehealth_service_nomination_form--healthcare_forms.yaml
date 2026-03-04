@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Telehealth Service Nomination Form
+    pages:
+      - id: 1
+        name: nominator_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: nominator_email
+        label: Email Address
+        hint: We will send confirmation to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: nominator_role
+        label: Your Role
+        hint: Are you a patient or healthcare provider
+        type: select_one
+        options:
+          - Patient
+          - Family Member of Patient
+          - Healthcare Provider
+          - Healthcare Administrator
+          - Other
+        required: true
+      - id: 4
+        name: service_name
+        label: Telehealth Service Name
+        hint: Name of the telehealth service or platform
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: service_website
+        label: Service Website
+        hint: URL of the telehealth platform
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: service_type
+        label: Type of Telehealth Service
+        hint: What type of service do they provide
+        type: select_one
+        options:
+          - Primary Care Consultations
+          - Mental Health Therapy
+          - Specialist Consultations
+          - Urgent Care
+          - Chronic Disease Management
+          - Physical Therapy
+          - Nutrition Counseling
+          - Pediatric Care
+          - Women Health
+          - Other
+        required: true
+      - id: 7
+        name: usage_duration
+        label: How Long Have You Used This Service
+        hint: Duration of usage
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1 to 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - Over 2 years
+        required: true
+      - id: 8
+        name: usage_frequency
+        label: How Often Do You Use This Service
+        hint: Your usage frequency
+        type: select_one
+        options:
+          - Weekly or more
+          - 2-3 times a month
+          - Once a month
+          - A few times a year
+          - Only once
+        required: true
+      - id: 9
+        name: overall_satisfaction
+        label: Overall Satisfaction Rating
+        hint: How satisfied are you with this service
+        type: select_one
+        options:
+          - Extremely Satisfied
+          - Very Satisfied
+          - Satisfied
+          - Somewhat Satisfied
+          - Not Satisfied
+        required: true
+      - id: 10
+        name: ease_of_use
+        label: Platform Ease of Use
+        hint: How easy is the platform to navigate
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Somewhat Difficult
+          - Very Difficult
+        required: true
+      - id: 11
+        name: provider_quality
+        label: Healthcare Provider Quality
+        hint: Rate the quality of providers on the platform
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: wait_time
+        label: Average Wait Time
+        hint: How long do you typically wait for an appointment
+        type: select_one
+        options:
+          - Same day
+          - 1 to 2 days
+          - 3 to 5 days
+          - 1 to 2 weeks
+          - More than 2 weeks
+        required: true
+      - id: 13
+        name: technology_quality
+        label: Video and Audio Quality
+        hint: Rate the technical quality of consultations
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: privacy_security
+        label: Privacy and Security Confidence
+        hint: How confident are you in their privacy measures
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Neutral
+          - Somewhat Concerned
+          - Very Concerned
+        required: true
+      - id: 15
+        name: cost_value
+        label: Cost and Value Rating
+        hint: Is the service worth the cost
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 16
+        name: standout_features
+        label: Standout Features
+        hint: What features make this service exceptional
+        type: select_multiple
+        options:
+          - Easy Scheduling
+          - Short Wait Times
+          - Quality Providers
+          - User-Friendly App
+          - Good Insurance Coverage
+          - Affordable Pricing
+          - 24/7 Availability
+          - Prescription Services
+          - Follow-Up Care
+          - Specialist Access
+        required: true
+      - id: 17
+        name: nomination_reason
+        label: Why Are You Nominating This Service
+        hint: Explain why this service deserves recognition
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What could make this service better
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: would_recommend
+        label: Would You Recommend This Service
+        hint: Would you recommend this to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about this telehealth service
+        type: text
+        options: []
+        required: false

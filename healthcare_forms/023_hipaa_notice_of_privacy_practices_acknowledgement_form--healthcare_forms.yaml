@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: hipaa_notice_of_privacy_practices_and_acknowledgement_form
+    pages:
+    - id: 1
+      name: form_title
+      label: HIPAA Notice Of Privacy Practices & Acknowledgement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

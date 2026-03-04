@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orthodontics PreScreening Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - Diabetes
+      - Hypertension
+      - Allergies
+      - None
+      required: false
+    - id: 5
+      name: medical_condition_other
+      label: other_medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medication
+      label: medication
+      hint: List the types of medication you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_relationship
+      label: emergency_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergy
+      label: allergy
+      hint: null
+      type: select_multiple
+      options:
+      - Peanuts
+      - Gluten
+      - Soy
+      - Dairy
+      - None
+      required: false
+    - id: 13
+      name: medical_device
+      label: medical_device
+      hint: List the medical device(s) you have in your home
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact2
+      label: emergency_contact2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_device2
+      label: medical_device2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_device3
+      label: medical_device3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_device4
+      label: medical_device4
+      hint: null
+      type: text
+      options: []
+      required: false

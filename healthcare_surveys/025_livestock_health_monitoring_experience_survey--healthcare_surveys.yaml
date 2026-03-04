@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Health Monitoring Experience Survey
+    pages:
+    - id: 1
+      name: livestock_health_monitoring_survey_form
+      label: Livestock Health Monitoring Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_methods
+      label: Monitoring Methods
+      hint: null
+      type: select_one
+      options:
+      - Farmers and veterinarians use different monitoring tools
+      - Electronic monitoring systems
+      - Monitoring methods vary depending on the size of the operation
+      - Monitoring is not done
+      required: false
+    - id: 3
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: How often do farmers and veterinarians monitor their animals?
+      type: select_multiple
+      options:
+      - 5 days
+      - 3 days
+      - 1 week
+      - 2 weeks
+      - 1 month
+      - Never
+      required: false
+    - id: 4
+      name: animal_health_programs
+      label: Animal Health Programs
+      hint: Which animal health programs do you currently use?
+      type: select_multiple
+      options:
+      - Animal health monitoring
+      - Vaccination
+      - Animal health insurance
+      - Animal health education
+      - Veterinary care
+      - No programs
+      required: false
+    - id: 5
+      name: monitoring_challenges
+      label: Monitoring Challenges
+      hint: What challenges do you encounter when monitoring animal health?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: challenges_frequency
+      label: How often do you encounter these challenges?
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: What areas for improvement do you see when monitoring animal health?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_frequency
+      label: How often do you identify areas for improvement?
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 9
+      name: animal_health_programs_implementation
+      label: Animal Health Program Implementation
+      hint: How do you think you could better implement animal health programs?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: animal_health_programs_efficacy
+      label: Efficacy of Animal Health Programs
+      hint: How effective do you think animal health programs are?
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Health Equity Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Male''}'
+      - Female
+      - Other
+      required: false
+    - id: 3
+      name: age_range
+      label: age_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: health_insurance
+      label: health_insurance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True}'
+      - 'False'
+      - Don't know/Prefer not to answer
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_access
+      label: healthcare_access
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: health_care_cost
+      label: health_care_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: health_care_accessibility
+      label: health_care_accessibility
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: mental_health
+      label: mental_health
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: physical_education
+      label: physical_education
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: social_support
+      label: social_support
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: health_care_workers
+      label: health_care_workers
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: medical_professionals
+      label: medical_professionals
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: community_support
+      label: community_support
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 16
+      name: health_care_costs
+      label: health_care_costs
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: health_care_funding
+      label: health_care_funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medical_facilities
+      label: medical_facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: healthcare_accessibility_costs
+      label: healthcare_accessibility_costs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: social_services
+      label: social_services
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 21
+      name: mental_health_services
+      label: mental_health_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: healthcare_worker_satisfaction
+      label: healthcare_worker_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 23
+      name: healthcare_access
+      label: healthcare_access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: healthcare_worker_safety
+      label: healthcare_worker_safety
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Severance Agreement Release Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_departure
+      label: Reason for Departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: severance_amount
+      label: Severance Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: last_day_of_work
+      label: Last Day of Work
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: termination_effective_date
+      label: Termination Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: release_of_all_claims
+      label: Release of All Claims
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_sign_date
+      label: Agreement Sign Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: text
+      options: []
+      required: true

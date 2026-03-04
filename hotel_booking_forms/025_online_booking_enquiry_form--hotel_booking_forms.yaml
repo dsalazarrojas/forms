@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Booking Enquiry Form
+    pages:
+    - id: 1
+      name: online_booking_enquiry_form_page
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: select_multiple
+      options:
+      - single
+      - double
+      - suite
+      required: false
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false

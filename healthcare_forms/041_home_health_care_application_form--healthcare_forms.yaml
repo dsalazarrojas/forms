@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Care Application Form
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: home_health_care_services
+      label: Home Health Care Services
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: date_of_application
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: uploaded_documents
+      label: Uploading Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: uploaded_documents_list
+      label: Uploading Documents List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: upload_additional_documents
+      label: Upload Additional Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: uploaded_additional_documents
+      label: Uploading Additional Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_additional_documents_list
+      label: Uploading Additional Documents List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_additional_services
+      label: Upload Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: uploaded_additional_services
+      label: Uploading Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: uploaded_additional_services_list
+      label: Uploading Additional Services List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: upload_additional_info
+      label: Upload Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: uploaded_additional_info
+      label: Uploading Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_additional_info_list
+      label: Uploading Additional Info List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_additional_info_files
+      label: Upload Additional Info Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: uploaded_additional_info_files_list
+      label: Uploading Additional Info Files List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: upload_additional_info_files_list
+      label: Uploading Additional Info Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

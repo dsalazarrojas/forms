@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_medical_cover_enquiry_form
+    pages:
+    - id: 1
+      name: event_medical_cover_enquiry_form_page_1
+      label: Event details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_medical_cover_details
+      label: Event medical cover details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_medical_cover_type
+      label: Event medical cover type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Basic'', ''value'': ''basic''}'
+      - '{''label'': ''Comprehensive'', ''value'': ''comprehensive''}'
+      - '{''label'': ''Enhanced'', ''value'': ''enhanced''}'
+      required: false
+    - id: 4
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer
+      label: Event organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_participants
+      label: Event participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_medical_cover_request_type
+      label: Event medical cover request type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General'', ''value'': ''general''}'
+      - '{''label'': ''Specific'', ''value'': ''specific''}'
+      required: false
+    - id: 11
+      name: event_medical_cover_request_status
+      label: Event medical cover request status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New'', ''value'': ''new''}'
+      - '{''label'': ''In-progress'', ''value'': ''in_progress''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      required: false

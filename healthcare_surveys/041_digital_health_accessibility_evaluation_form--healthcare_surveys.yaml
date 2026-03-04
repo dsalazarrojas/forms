@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_health_accessibility_evaluation_form
+    pages:
+    - id: 1
+      name: platform_type
+      label: Platform Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Website''}'
+      - '{''label'': ''Mobile App''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: user_group
+      label: User Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Healthcare Provider''}'
+      - '{''label'': ''Patient''}'
+      - '{''label'': ''Family Member''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accessibility_features
+      label: Accessibility Features
+      hint: List all accessibility features available in the platform, including audio
+        descriptions of images and video.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accessibility_bar
+      label: Accessibility Bar
+      hint: On a scale of 1-5, how accessible is the platform?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: platform_accessibility
+      label: Platform Accessibility
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

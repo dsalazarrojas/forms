@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Party Food Preferences
+    pages:
+    - id: 1
+      name: holiday_party_food_preferences
+      label: food_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''attending'', ''value'': ''Attending''}'
+      - '{''name'': ''not_attending'', ''value'': ''Not attending''}'
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: Select any food restrictions
+      type: select_multiple
+      options:
+      - '{''name'': ''vegetarian'', ''value'': ''Vegetarian''}'
+      - '{''name'': ''vegan'', ''value'': ''Vegan''}'
+      - '{''name'': ''gluten_free'', ''value'': ''Gluten-free''}'
+      - '{''name'': ''dairy_free'', ''value'': ''Dairy-free''}'
+      required: false
+    - id: 4
+      name: allergies
+      label: allergies
+      hint: Select any allergies
+      type: select_multiple
+      options:
+      - '{''name'': ''peanuts'', ''value'': ''Peanuts''}'
+      - '{''name'': ''shellfish'', ''value'': ''Shellfish''}'
+      - '{''name'': ''soy'', ''value'': ''Soy''}'
+      required: false
+    - id: 5
+      name: cuisine_preferences
+      label: select_food_cuisine
+      hint: Select any
+      type: select_multiple
+      options:
+      - '{''name'': ''mexican'', ''value'': ''Mexican''}'
+      - '{''name'': ''italian'', ''value'': ''Italian''}'
+      - '{''name'': ''chinese'', ''value'': ''Chinese''}'
+      required: false
+    - id: 6
+      name: additional_notes
+      label: additional_notes
+      hint: Is there anything else?
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: rsvp_email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: rsvp_phone
+      hint: Phone
+      type: text
+      options: []
+      required: false

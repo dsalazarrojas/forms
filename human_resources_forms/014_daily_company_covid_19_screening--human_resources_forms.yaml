@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Company Covid 19 Screening
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Difficulty breathing
+      - Sore Throat
+      - Runny Nose or Sore Throat
+      required: true
+    - id: 5
+      name: traveled_from
+      label: Traveled From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: symptoms_since_last_travel
+      label: Symptoms Since Last Travel
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Difficulty breathing
+      - Sore Throat
+      - Runny Nose or Sore Throat
+      required: true
+    - id: 9
+      name: tested_positive
+      label: Tested Positive
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: contact_tracing
+      label: Contact Tracing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: exposure_to_covid
+      label: Exposure To Covid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: symptoms_description
+      label: Symptoms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medication_taken
+      label: Medication Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_countries
+      label: Travel Countries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tested_location
+      label: Tested Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tested_date
+      label: Tested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: tested_location
+      label: Tested Location
+      hint: null
+      type: text
+      options: []
+      required: false

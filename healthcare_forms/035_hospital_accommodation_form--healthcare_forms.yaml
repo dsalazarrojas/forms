@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Accommodation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Private Room''}'
+      - '{''label'': ''Shared Room''}'
+      - '{''label'': ''Ward''}'
+      required: false
+    - id: 4
+      name: accommodation_duration
+      label: accommodation_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_start_date
+      label: accommodation_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_end_date
+      label: accommodation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_additional_notes
+      label: accommodation_additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_family_name
+      label: patient_family_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false

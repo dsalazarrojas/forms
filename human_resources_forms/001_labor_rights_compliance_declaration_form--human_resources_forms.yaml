@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Rights Compliance Declaration Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department_id
+      label: department_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: labor_law_version_id
+      label: labor_law_version
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 4
+      name: date_of_completion
+      label: date_of_completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: declaration_text
+      label: declaration_text
+      hint: null
+      type: text
+      options: []
+      required: false

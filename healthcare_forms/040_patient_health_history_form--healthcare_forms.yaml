@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Health History Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: past_treatments
+      label: Past Treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: test_result
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_test_result
+      label: Medical Test Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_test_result_2
+      label: Medical Test Result 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_test_result_3
+      label: Medical Test Result 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

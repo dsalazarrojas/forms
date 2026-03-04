@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight And Hotel Accommodation Booking Form
+    pages:
+    - id: 1
+      name: meeting_response
+      label: respond
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: flight_details
+      label: flight_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_date
+      label: arrival
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: departure_date
+      label: departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: flight_type
+      label: flight_type
+      hint: null
+      type: select_multiple
+      options:
+      - One-way
+      - Return
+      - Multi-Stop
+      required: false
+    - id: 7
+      name: hotel_details
+      label: hotel_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hotel_name
+      label: hotel_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: hotel_address
+      label: hotel_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: hotel_room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - double
+      - triple
+      required: true
+    - id: 11
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: guest_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-29
+      - 30-44
+      - 45-59
+      - 60-74
+      - 75 or older
+      required: true
+    - id: 3
+      name: vaccination_status
+      label: Current COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Unvaccinated
+      - One dose
+      - Fully vaccinated
+      - Boosted
+      - Undecided
+      required: true
+    - id: 4
+      name: vaccine_interest
+      label: Are You Interested in Getting Vaccinated
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not interested
+      - Already vaccinated
+      required: true
+    - id: 5
+      name: vaccine_concerns
+      label: What Are Your Main Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safety concerns
+      - Side effects
+      - Effectiveness
+      - Allergic reactions
+      - Religious beliefs
+      - Government mandates
+      - Misinformation concerns
+      - No concerns
+      required: false
+    - id: 6
+      name: vaccine_information_source
+      label: Where Do You Get Vaccine Information
+      hint: Select all sources used
+      type: select_multiple
+      options:
+      - Healthcare provider
+      - Government websites
+      - Social media
+      - News media
+      - Family or friends
+      - Workplace
+      - Religious community
+      required: false
+    - id: 7
+      name: information_trust
+      label: How Much Do You Trust Available Information
+      hint: null
+      type: select_one
+      options:
+      - Very much
+      - Somewhat
+      - Neutral
+      - Not much
+      - Not at all
+      required: true
+    - id: 8
+      name: healthcare_provider_communication
+      label: Has Your Healthcare Provider Discussed Vaccine
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, briefly
+      - No
+      - Do not have a healthcare provider
+      required: false
+    - id: 9
+      name: vaccine_effectiveness
+      label: Do You Believe Vaccine Is Effective
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Neutral
+      - Not very effective
+      - Not effective at all
+      required: true
+    - id: 10
+      name: vaccine_side_effects
+      label: Likelihood of Experiencing Serious Side Effects
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      - Do not know
+      required: false
+    - id: 11
+      name: vaccination_mandate
+      label: Opinion on Workplace Vaccination Requirements
+      hint: null
+      type: select_one
+      options:
+      - Strongly support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly oppose
+      required: false
+    - id: 12
+      name: covid_impact
+      label: COVID-19 Has Impacted Me Personally
+      hint: null
+      type: select_one
+      options:
+      - Very significantly
+      - Somewhat
+      - Minimal
+      - Not at all
+      required: false
+    - id: 13
+      name: vaccine_decision_timeline
+      label: When Would You Consider Getting Vaccinated
+      hint: null
+      type: select_one
+      options:
+      - Already vaccinated
+      - As soon as possible
+      - Within next few months
+      - Waiting and watching
+      - Will not get vaccinated
+      required: false
+    - id: 14
+      name: additional_information_needed
+      label: What Additional Information Would Help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback
+      label: Additional Feedback or Comments
+      hint: Share any thoughts or concerns
+      type: text
+      options: []
+      required: false

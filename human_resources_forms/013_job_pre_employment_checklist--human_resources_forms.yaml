@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Pre Employment Checklist
+    pages:
+    - id: 1
+      name: job_pre_employment_checklist
+      label: Job Pre-employment Checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pre_hire_tasks
+      label: Pre-hire Tasks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: onboarding_readiness
+      label: Onboarding Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: job_offer_details
+      label: Job Offer Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: job_pre_employment_checklist_notes
+      label: Job Pre-employment Checklist Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents_uploaded
+      label: Supporting Documents Uploaded
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: job_pre_employment_status
+      label: Job Pre-employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: job_pre_employment_checklist_status
+      label: Job Pre-employment Checklist Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiological Adaptations To Exercise Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_exercise_habits
+      label: exercise_habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: survey_perceived_adaptations
+      label: perceived_adaptations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: perceived_adaptations_2
+      label: perceived_adaptations_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_comments_2
+      label: additional_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_perceived_body_changes
+      label: perceived_body_changes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments_3
+      label: additional_comments_3
+      hint: null
+      type: text
+      options: []
+      required: false

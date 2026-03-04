@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Ownership Assessment Form
+    pages:
+    - id: 1
+      name: patient_ownership_form
+      label: Patient Ownership Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_decision_form
+      label: Medical Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_decision_list
+      label: Medical Decisions
+      hint: List all medical decisions you have made regarding this patient
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: health_records_form
+      label: Health Records
+      hint: List all health records you have access to
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: records_access_form
+      label: Records Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: record_location_form
+      label: Record Location
+      hint: Please enter the location where the records are stored
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ownership_form
+      label: Ownership
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_form
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_name_form
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false

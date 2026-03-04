@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospice_care_patient_demographics_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Other
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: caregiver_relationship
+      label: Caregiver Relationship
+      hint: null
+      type: select_one
+      options:
+      - Family Member
+      - Friend
+      - Health Care Professional
+      - Other
+      required: false
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Family Member
+      - Friend
+      - Other
+      required: false
+    - id: 15
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: patient_medical_insurance
+      label: Patient Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Medicaid
+      - Medicare
+      - Medicaid-Medicare
+      - Other
+      required: false
+    - id: 17
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false

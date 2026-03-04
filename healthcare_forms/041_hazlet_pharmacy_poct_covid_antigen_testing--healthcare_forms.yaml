@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: HAZLET PHARMACY POCT Covid Antigen Testing
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_question_1
+      label: Have you visited the patient recently?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: form_question_2
+      label: What is the date of the patient visit?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: form_question_3
+      label: What is the date of symptom onset?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: form_question_4
+      label: What is the patient’s temperature?
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Elevated
+      - High
+      required: true
+    - id: 6
+      name: form_question_5
+      label: What is the patient’s oxygen saturation?
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Low
+      - High
+      required: true
+    - id: 7
+      name: form_question_6
+      label: Is the patient experiencing any symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Cough
+      - Sore Throat
+      - Fatigue
+      - Headache
+      required: true
+    - id: 8
+      name: form_question_7
+      label: Has the patient been in contact with anyone with COVID-19?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 9
+      name: form_question_8
+      label: Has the patient recently traveled?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: form_question_9
+      label: Has the patient recently been tested for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: form_question_10
+      label: Has the patient received any COVID-19 vaccines?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: form_question_11
+      label: Date of last test?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_question_12
+      label: Time of last test?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_question_13
+      label: Patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_question_14
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_question_15
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: form_question_16
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: form_question_17
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: form_question_18
+      label: Medical provider name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_question_19
+      label: Medical provider contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_question_20
+      label: Additional information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_question_21
+      label: Test result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: true
+    - id: 23
+      name: form_question_22
+      label: Test result notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_question_23
+      label: Test date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: form_question_24
+      label: Test time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: form_question_25
+      label: Result comments
+      hint: null
+      type: text
+      options: []
+      required: false

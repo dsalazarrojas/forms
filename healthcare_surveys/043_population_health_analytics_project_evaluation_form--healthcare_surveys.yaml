@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: population_health_analytics_project_evaluation_form
+    pages:
+    - id: 1
+      name: project_objectives
+      label: Project Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_outcomes
+      label: Project Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_challenges
+      label: Project Challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: future_improvements
+      label: Future Improvements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_leadership
+      label: Project Leadership
+      hint: null
+      type: select_one
+      options:
+      - Public Health Team
+      - Hospitals
+      - Researchers
+      required: true
+    - id: 6
+      name: project_collaboration
+      label: Project Collaboration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_and_comments
+      label: Feedback and Comments
+      hint: null
+      type: note
+      options: []
+      required: false

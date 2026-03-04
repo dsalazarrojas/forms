@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_verification_form
+    pages:
+    - id: 1
+      name: provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: policy_info
+      label: policy_information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''policy_1'', ''value'': ''policy_1''}'
+      - '{''label'': ''policy_2'', ''value'': ''policy_2''}'
+      - '{''label'': ''policy_3'', ''value'': ''policy_3''}'
+      required: true
+    - id: 5
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: claim_info
+      label: claim_information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''claim_1'', ''value'': ''claim_1''}'
+      - '{''label'': ''claim_2'', ''value'': ''claim_2''}'
+      required: true
+    - id: 7
+      name: claim_number
+      label: claim_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_info
+      label: billing_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''provider_1'', ''value'': ''provider_1''}'
+      - '{''label'': ''provider_2'', ''value'': ''provider_2''}'
+      required: true
+    - id: 10
+      name: insurance_plan
+      label: insurance_plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''plan_1'', ''value'': ''plan_1''}'
+      - '{''label'': ''plan_2'', ''value'': ''plan_2''}'
+      required: true
+    - id: 11
+      name: policy_holder
+      label: policy_holder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''status_1'', ''value'': ''status_1''}'
+      - '{''label'': ''status_2'', ''value'': ''status_2''}'
+      - '{''label'': ''status_3'', ''value'': ''status_3''}'
+      required: true

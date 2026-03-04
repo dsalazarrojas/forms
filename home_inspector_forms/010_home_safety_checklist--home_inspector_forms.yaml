@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Home Safety Checklist
+    pages:
+    - id: 1
+      name: home_safety_checklist
+      label: Home Safety Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_list
+      label: Room List
+      hint: List each room
+      type: select_multiple
+      options:
+      - Basement
+      - Bedroom
+      - Bathroom
+      - Den
+      - Dining Room
+      - Garage
+      - Hallway
+      - Kitchen
+      - Living Room
+      - Office
+      - Other
+      required: false
+    - id: 3
+      name: safety_items
+      label: Safety Items
+      hint: Check each of the following items in the room listed above
+      type: select_multiple
+      options:
+      - Electrical
+      - Flooring
+      - Handrails
+      - Lighting
+      - Smoke Alarms
+      - Water Supply
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Comments or special notes
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_items_comments
+      label: Safety Items Comments
+      hint: Comments on safety items
+      type: text
+      options: []
+      required: false

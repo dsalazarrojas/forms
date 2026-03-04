@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Root Canal Therapy Consent Form
+    pages:
+    - id: 1
+      name: root_canal_therapy_form
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: root_canal_therapy_treatment_terms
+      label: Treatment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent
+      label: Do you consent
+      hint: null
+      type: select_one
+      options:
+      - I agree to the treatment terms
+      - I do not agree to the treatment terms
+      required: true
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: allergy_info
+      label: Allergy Info
+      hint: null
+      type: text
+      options: []
+      required: false

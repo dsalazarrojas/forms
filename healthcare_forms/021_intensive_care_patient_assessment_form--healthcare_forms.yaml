@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intensive Care Patient Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Please list all medical conditions
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_notes
+      label: Medical History Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vital_signs
+      label: Vital Signs
+      hint: Please list all vital signs
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: medical_devices
+      label: Medical Devices
+      hint: List all medical devices currently attached
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: medical_devices_location
+      label: Medical Devices Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_devices_status
+      label: Medical Devices Status
+      hint: List all medical devices currently attached status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: medical_devices_frequency
+      label: Medical Devices Frequency
+      hint: List all medical devices currently attached frequency
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: medical_devices_last_used
+      label: Medical Devices Last Used
+      hint: List all medical devices currently attached last used
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: medical_devices_next_used
+      label: Medical Devices Next Used
+      hint: List all medical devices currently attached next used
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: laboratory_results
+      label: Laboratory Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: laboratory_results_location
+      label: Laboratory Results Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: laboratory_results_status
+      label: Laboratory Results Status
+      hint: List all laboratory results currently attached status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: laboratory_results_frequency
+      label: Laboratory Results Frequency
+      hint: List all laboratory results currently attached frequency
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: laboratory_results_last_used
+      label: Laboratory Results Last Used
+      hint: List all laboratory results currently attached last used
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: laboratory_results_next_used
+      label: Laboratory Results Next Used
+      hint: List all laboratory results currently attached next used
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_list_location
+      label: Medication List Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medication_list_status
+      label: Medication List Status
+      hint: List all medication list currently attached status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: medication_list_frequency
+      label: Medication List Frequency
+      hint: List all medication list currently attached frequency
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: medication_list_last_used
+      label: Medication List Last Used
+      hint: List all medication list currently attached last used
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

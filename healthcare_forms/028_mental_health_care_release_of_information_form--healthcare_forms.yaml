@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_care_release_of_information_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization_type
+      label: Authorization Type
+      hint: Select one
+      type: select_one
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Nurse''}'
+      - '{''label'': ''Family Member''}'
+      required: false
+    - id: 4
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: release_info
+      label: Release Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_type
+      label: Release Type
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_zip
+      label: Facility Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_fax
+      label: Facility Fax
+      hint: null
+      type: text
+      options: []
+      required: false

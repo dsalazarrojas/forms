@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Antibiotic Selection Form For Surgery
+    pages:
+    - id: 1
+      name: section_patient_information
+      label: -- Patient Information --
+      hint: Collect basic patient demographics and contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For dosing and record keeping
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: allergies
+      label: Known drug allergies
+      hint: Include nature of reaction
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_medications
+      label: Current medications
+      hint: List any antibiotics or other key medicines
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: surgical_procedure
+      label: Scheduled surgical procedure
+      hint: Brief description of the operation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: infection_risk
+      label: Assessed infection risk level
+      hint: Low medium or high risk classification
+      type: select_one
+      options:
+        - Low
+        - Medium
+        - High
+      required: true
+    - id: 8
+      name: recommended_antibiotic
+      label: Recommended antibiotic option
+      hint: Agent name dose and route
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rationale_for_choice
+      label: Rationale for antibiotic selection
+      hint: Clinical reasons or protocol reference
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prescriber_name
+      label: Prescriber name
+      hint: Surgeon or prescribing clinician
+      type: text
+      options: []
+      required: true

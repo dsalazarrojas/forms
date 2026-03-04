@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: MedeoLinx Performance Self Assessment Form
+    pages:
+    - id: 1
+      name: performance_level_rating
+      label: Performance Level Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 3 months
+      - Every 6 months
+      - Every 12 months
+      required: false
+    - id: 6
+      name: performance_comments
+      label: Performance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: performance_category
+      label: Performance Category
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Improvement
+      required: false
+    - id: 13
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: self_assessment
+      label: Self-Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

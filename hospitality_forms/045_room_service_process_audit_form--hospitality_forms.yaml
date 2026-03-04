@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: room_service_process_audit_form
+    pages:
+    - id: 1
+      name: room_service_process
+      label: Room Service Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quality_checks
+      label: Quality Checks
+      hint: List and describe each quality check performed, including any issues found.
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 3
+      name: performance_by_shift
+      label: Performance by Shift
+      hint: Choose the shift for which the audit applies.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manager_date
+      label: Manager Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: manager_time
+      label: Manager Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shift_1_shift_start
+      label: Shift 1 Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: shift_1_end
+      label: Shift 1 End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: shift_2_shift_start
+      label: Shift 2 Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: shift_2_end
+      label: Shift 2 End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: manager_review_shift_1
+      label: Manager Review Shift 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: manager_review_shift_2
+      label: Manager Review Shift 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

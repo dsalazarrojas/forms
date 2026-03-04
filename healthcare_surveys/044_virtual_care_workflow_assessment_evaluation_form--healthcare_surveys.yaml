@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Care Workflow Assessment Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Virtual care workflow assessment evaluation form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_experience
+      label: what_is_your_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: workflow_info
+      label: workflow_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assessment
+      label: assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_location
+      label: submission_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: form_completed
+      label: form_completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

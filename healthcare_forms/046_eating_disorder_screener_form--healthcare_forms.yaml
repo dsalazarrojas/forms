@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eating Disorder Screener Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_frequency
+      label: daily_food_frequency
+      hint: null
+      type: select_one
+      options:
+      - Rarely, Less than once a day
+      - ประก 'Less than 5 times a week'
+      - 5-6 times a week
+      - Every day
+      - Every other day
+      - 2-3 times a day
+      - More than once a week
+      - Every 2 days
+      - Every 3 days
+      required: false
+    - id: 3
+      name: food_frequency_other
+      label: other_food_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: eating_behaviors
+      label: eating_behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - Bingeing
+      - Gorging
+      - Eating in response to emotional states
+      - Restrictive eating
+      - Eating in secret
+      - Purging
+      - Purging
+      - Eating very fast
+      - Eating very little
+      required: false
+    - id: 5
+      name: food_preferences
+      label: food_preferences
+      hint: null
+      type: select_one
+      options:
+      - Fruits
+      - Vegetables
+      - Grains
+      - Meat
+      - Dairy
+      - Fats/Oils
+      required: false
+    - id: 6
+      name: food_aversions
+      label: food_aversion
+      hint: null
+      type: select_one
+      options:
+      - Fruits
+      - Vegetables
+      - Grains
+      - Meat
+      - Dairy
+      - Fats/Oils
+      required: false
+    - id: 7
+      name: eating_habits
+      label: eating_habits
+      hint: null
+      type: select_multiple
+      options:
+      - Eating in response to boredom
+      - Eating in response to stress
+      - Eating to soothe emotions
+      - Eating when not hungry
+      - Eating when hungry
+      - Eating in secret
+      - Eating very fast
+      - Eating very little
+      required: false
+    - id: 8
+      name: food_control
+      label: food_control
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Somewhat
+      - Some control
+      - A little control
+      - Quite a bit of control
+      - A lot of control
+      - Almost complete control
+      required: false
+    - id: 9
+      name: eating_frequency
+      label: eating_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: eating_duration
+      label: eating_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: food_avoidance
+      label: food_avoidance
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - A lot
+      - Almost none
+      required: false
+    - id: 12
+      name: food_avoidance_other
+      label: other_food_avoidance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: eating_avoidance_reasons
+      label: eating_avoidance_reasons
+      hint: null
+      type: select_multiple
+      options:
+      - Weight
+      - Body image
+      - Fear of choking
+      - Other
+      - Fear of vomiting
+      required: false
+    - id: 14
+      name: body_image_distortion
+      label: body_image_distortion
+      hint: null
+      type: select_multiple
+      options:
+      - Body fat
+      - Body shape
+      - Weight
+      - Muscle mass
+      - Body strength
+      - Body appearance
+      required: false
+    - id: 15
+      name: emotional_states
+      label: emotional_states
+      hint: null
+      type: select_multiple
+      options:
+      - Fear of failure
+      - Shame
+      - Anger
+      - Fear of weight gain
+      - Anxiety
+      - Sadness
+      - Fear of loss
+      - Fear of rejection
+      - Fear of success
+      required: false
+    - id: 16
+      name: food_refusal
+      label: food_refusal
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - A lot
+      - Almost none
+      required: false
+    - id: 17
+      name: food_refusal_other
+      label: other_food_refusal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: eating_refusal_reasons
+      label: eating_refusal_reasons
+      hint: null
+      type: select_multiple
+      options:
+      - Fear of choking
+      - Fear of vomiting
+      - Fear of losing control
+      - Other
+      required: false
+    - id: 19
+      name: weight_concerns
+      label: weight_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Weight gain
+      - Weight loss
+      - Body fat
+      - Weight distribution
+      required: false
+    - id: 20
+      name: weight_concerns_other
+      label: other_weight_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: weight_preoccupation
+      label: weight_preoccupation
+      hint: null
+      type: select_multiple
+      options:
+      - Weight gain
+      - Weight loss
+      - Body fat
+      - Weight distribution
+      required: false
+    - id: 22
+      name: weight_preoccupation_other
+      label: other_weight_preoccupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: eating_frequency_1
+      label: eating_frequency_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: eating_duration_1
+      label: eating_duration_1
+      hint: null
+      type: number
+      options: []
+      required: false

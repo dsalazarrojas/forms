@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Self Declaration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Employee Self Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shift_start_date
+      label: Shift Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: shift_end_date
+      label: Shift End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship with Employee
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 16
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: work_weekdays
+      label: Work Weekdays
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_days_start
+      label: Work Days Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: work_days_end
+      label: Work Days End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 21
+      name: work_notes
+      label: Work Notes
+      hint: null
+      type: note
+      options: []
+      required: false

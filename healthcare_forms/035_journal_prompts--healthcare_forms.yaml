@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Journal Prompts
+    pages:
+    - id: 1
+      name: introduction_to_journaling
+      label: Introduction To Journaling
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feeling_overwhelmed
+      label: Feeling Overwhelmed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feeling_overwhelmed_answer
+      label: How Are You Feeling?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: save_and_continue
+      label: What's Next?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: journaling_tips
+      label: What Journaling Tips Have You Found Helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: journaling_tips_answer
+      label: Answer
+      hint: null
+      type: text
+      options: []
+      required: false

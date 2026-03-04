@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child's Holiday Letter Creator
+    pages:
+    - id: 1
+      name: letter_date
+      label: Letter Date
+      hint: Date of holiday letter creation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: child_grade_level
+      label: Child Grade Level
+      hint: Current grade level of the child
+      type: select_one
+      options:
+      - Pre-K
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 6
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: holiday_occasion
+      label: Holiday Occasion
+      hint: Which holiday is this letter for?
+      type: select_one
+      options:
+      - Christmas
+      - Hanukkah
+      - Kwanzaa
+      - New Year
+      - Winter holidays (general)
+      - Easter
+      - Thanksgiving
+      - Other
+      required: true
+    - id: 10
+      name: letter_recipient
+      label: Letter Recipient
+      hint: Who is this letter addressed to?
+      type: select_one
+      options:
+      - Santa Claus
+      - Family members
+      - Friends
+      - Teacher
+      - Community members
+      - General holiday greetings
+      - Other
+      required: true
+    - id: 11
+      name: recipient_name
+      label: Recipient Name
+      hint: Specific name of recipient if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: letter_greeting
+      label: Letter Greeting
+      hint: How would you like to start the letter?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: favorite_holiday_memory
+      label: Favorite Holiday Memory
+      hint: What is your favorite holiday memory this year?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: holiday_activities
+      label: Holiday Activities Enjoyed
+      hint: What holiday activities did you participate in?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: favorite_holiday_food
+      label: Favorite Holiday Food
+      hint: What was your favorite holiday food or treat?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: gifts_received
+      label: Favorite Gifts Received
+      hint: What was your favorite gift this holiday?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gifts_given
+      label: Gifts You Gave
+      hint: What gifts did you give to others?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: holiday_traditions
+      label: Family Holiday Traditions
+      hint: What holiday traditions does your family have?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: something_learned
+      label: Something New Learned
+      hint: What is something new you learned this year?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: favorite_subject
+      label: Favorite School Subject
+      hint: What is your favorite subject in school?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hobbies_and_interests
+      label: Hobbies and Interests
+      hint: What are your current hobbies or interests?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: goals_for_next_year
+      label: Goals for Next Year
+      hint: What are your goals for the coming year?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: holiday_wishes
+      label: Holiday Wishes for Recipient
+      hint: What wishes do you have for the recipient?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: letter_closing
+      label: Letter Closing
+      hint: How would you like to end the letter?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: child_signature
+      label: Child Signature
+      hint: Child's name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: include_drawing
+      label: Include a Drawing
+      hint: Would you like to include a drawing with your letter?
+      type: select_one
+      options:
+      - Yes, I will upload one
+      - Yes, please provide space to draw
+      - false
+      required: true
+    - id: 27
+      name: letter_style
+      label: Letter Style Preference
+      hint: What style would you like for your letter?
+      type: select_one
+      options:
+      - Festive and colorful
+      - Simple and classic
+      - Winter theme
+      - Religious theme
+      - Fun and playful
+      - Elegant
+      required: true
+    - id: 28
+      name: additional_message
+      label: Additional Message
+      hint: Any additional message you would like to add
+      type: text
+      options: []
+      required: false

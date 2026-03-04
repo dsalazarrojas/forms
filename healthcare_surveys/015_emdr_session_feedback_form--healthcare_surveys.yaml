@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: emdr_session_feedback_form
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: therapist_rating
+      label: Therapist Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: session_effectiveness
+      label: Session Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false

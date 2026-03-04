@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Therapy Referral Form
+    pages:
+    - id: 1
+      name: section_referral
+      label: -- Referral Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referral_date
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: referring_provider_name
+      label: Referring Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referring_provider_title
+      label: Provider Title
+      hint: MD, DO, NP, PA, etc.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referring_facility
+      label: Referring Facility/Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referring_phone
+      label: Referring Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_patient
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_phone
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: insurance_name
+      label: Insurance Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_number
+      label: Policy/Member ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_diagnosis
+      label: -- Clinical Diagnosis and Presenting Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Major Depressive Disorder
+      - Generalized Anxiety Disorder
+      - Social Anxiety Disorder
+      - Panic Disorder
+      - PTSD
+      - OCD
+      - Phobias
+      - Eating Disorder
+      - Other
+      required: true
+    - id: 16
+      name: secondary_diagnosis
+      label: Secondary Diagnosis
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: symptom_description
+      label: Description of Presenting Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: symptom_duration
+      label: Duration of Current Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: false
+    - id: 19
+      name: functional_impairment
+      label: Functional Impairment Level
+      hint: How much does this affect daily functioning
+      type: select_one
+      options:
+      - Minimal
+      - Mild
+      - Moderate
+      - Severe
+      - Very Severe
+      required: true
+    - id: 20
+      name: section_history
+      label: -- Treatment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: prior_therapy
+      label: Prior Mental Health Treatment
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: prior_therapy_details
+      label: Details of Prior Treatment
+      hint: Type, duration, outcomes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: current_medications
+      label: Current Psychiatric Medications
+      hint: Medication names and dosages
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_service
+      label: -- Requested Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: therapy_type
+      label: Type of Behavioral Therapy Requested
+      hint: null
+      type: select_one
+      options:
+      - Cognitive Behavioral Therapy (CBT)
+      - Dialectical Behavior Therapy (DBT)
+      - Acceptance and Commitment Therapy (ACT)
+      - Exposure Therapy
+      - Applied Behavior Analysis (ABA)
+      - Other
+      required: true
+    - id: 26
+      name: session_frequency
+      label: Recommended Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Needed
+      required: false
+    - id: 27
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Soon (2-4 weeks)
+      - Urgent (within 1 week)
+      - Emergency
+      required: true

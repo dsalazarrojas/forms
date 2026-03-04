@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Depression
+      - Anxiety
+      - Stress
+      required: false
+    - id: 3
+      name: demographics
+      label: Demographics
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 4
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 5
+      name: quiz_results
+      label: Quiz Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: recommended_resources
+      label: Recommended Resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mental_health_specialties
+      label: Mental Health Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - Depression
+      - Anxiety
+      - Trauma
+      - Addiction
+      required: false
+    - id: 8
+      name: mental_health_professionals
+      label: Mental Health Professionals
+      hint: null
+      type: select_one
+      options:
+      - Psychologist
+      - Therapist
+      - Counselor
+      - Doctor
+      required: false
+    - id: 9
+      name: quiz_comments
+      label: Quiz Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Follow-up
+      - Further Evaluation
+      - Referral
+      required: false
+    - id: 11
+      name: medical_interventions
+      label: Medical Interventions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Environment Feedback Form
+    pages:
+    - id: 1
+      name: facilities_rating
+      label: Facilities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: cleanliness_rating
+      label: Cleanliness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: overall_rating
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Please provide any comments
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_facilities_option
+      label: Facilities
+      hint: What do you think about the hospital facilities?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very Good'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''Poor'', ''value'': 2}'
+      - '{''id'': 5, ''name'': ''Very Poor'', ''value'': 1}'
+      required: true
+    - id: 6
+      name: select_cleanliness_option
+      label: Cleanliness
+      hint: What do you think about the hospital cleanliness?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very Good'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''Poor'', ''value'': 2}'
+      - '{''id'': 5, ''name'': ''Very Poor'', ''value'': 1}'
+      required: true
+    - id: 7
+      name: select_facilities_comments
+      label: Facilities Comments
+      hint: Please describe any facilities comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: select_cleanliness_comments
+      label: Cleanliness Comments
+      hint: Please describe any cleanliness comments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: select_overall_comments
+      label: Overall Comments
+      hint: Please describe overall comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parking_rating
+      label: Parking
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: waiting_time
+      label: Waiting Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: Please provide any comments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: select_parking_option
+      label: Parking
+      hint: What do you think about the hospital parking?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very Good'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''Poor'', ''value'': 2}'
+      - '{''id'': 5, ''name'': ''Very Poor'', ''value'': 1}'
+      required: true
+    - id: 15
+      name: select_waiting_time_option
+      label: Waiting Time
+      hint: What do you think about the hospital waiting time?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very Good'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''Poor'', ''value'': 2}'
+      - '{''id'': 5, ''name'': ''Very Poor'', ''value'': 1}'
+      required: true
+    - id: 16
+      name: select_communication_effectiveness_option
+      label: Communication Effectiveness
+      hint: What do you think about the hospital communication effectiveness?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very Good'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''Poor'', ''value'': 2}'
+      - '{''id'': 5, ''name'': ''Very Poor'', ''value'': 1}'
+      required: true
+    - id: 17
+      name: select_communication_comments
+      label: Communication Comments
+      hint: Please describe communication comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: select_parking_comments
+      label: Parking Comments
+      hint: Please describe parking comments
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: select_waiting_time_comments
+      label: Waiting Time Comments
+      hint: Please describe waiting time comments
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: select_communication_effectiveness_comments
+      label: Communication Effectiveness Comments
+      hint: Please describe communication effectiveness comments
+      type: text
+      options: []
+      required: false

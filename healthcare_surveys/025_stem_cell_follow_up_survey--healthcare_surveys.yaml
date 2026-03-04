@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stem Cell Follow Up Survey
+    pages:
+    - id: 1
+      name: form_page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_page_2
+      label: treatment-information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: form_page_3
+      label: health-status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_page_4
+      label: side-effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: form_page_5
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_page_6
+      label: patient-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_page_7
+      label: treatment-dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_page_8
+      label: treatment-centre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_page_9
+      label: treatment-provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_page_10
+      label: follow-up-date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outpatient Telehealth Consent Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: general_consent
+      label: general_consent
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware that by signing this form, I grant permission for
+      - I am not aware and do not grant permission for
+      required: false
+    - id: 3
+      name: telehealth_details
+      label: telehealth_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: provider
+      label: provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_contact
+      label: provider_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: electronic_signature
+      label: electronic_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: telehealth_consent
+      label: telehealth_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_acknowledgement
+      label: patient_acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware that I will not receive the same level of care in person
+      - I am not aware and do not agree with this statement
+      required: true
+    - id: 19
+      name: provider_acknowledgement
+      label: provider_acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consultation Form
+    pages:
+    - id: 1
+      name: medical_consultation_form
+      label: Medical Consultation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: chief_complaints
+      label: chief_complaints
+      hint: Describe your main symptoms
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: Provide a detailed medical history
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: allergies
+      hint: List any allergies or sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_specialties
+      label: medical_specialties
+      hint: null
+      type: select_one
+      options:
+      - cardiology
+      - dermatology
+      - endocrinology
+      - gastroenterology
+      - general_medicine
+      - neurology
+      - oncology
+      - psychiatry
+      required: false
+    - id: 10
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_email
+      label: doctor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: doctor_phone
+      label: doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_consultation_notes
+      label: medical_consultation_notes
+      hint: null
+      type: note
+      options: []
+      required: false

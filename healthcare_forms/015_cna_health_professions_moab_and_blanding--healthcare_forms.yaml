@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNA Health Professions Moab And Blanding
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: campus_location
+      label: Campus location
+      hint: Moab or Blanding
+      type: select_one
+      options:
+      - Moab
+      - Blanding
+      required: true
+    - id: 3
+      name: program_start
+      label: Program start date
+      hint: Date training begins
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_clearance
+      label: Health clearance
+      hint: Clearance for clinical activities
+      type: select_one
+      options:
+      - Cleared
+      - Pending
+      - Not cleared
+      required: true
+    - id: 6
+      name: clinical_preference
+      label: Clinical preference
+      hint: Preferred clinical assignment or unit
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transportation_needs
+      label: Transportation needs
+      hint: Notes about travel or transport assistance
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodations_required
+      label: Accommodations required
+      hint: Accessibility or scheduling needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_contact
+      label: Instructor contact
+      hint: Name and contact for instructor
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immunization Record Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: purpose
+      label: Purpose for request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: immunization_record_request_details
+      label: Immunization Record Request Details
+      hint: null
+      type: text
+      options: []
+      required: true

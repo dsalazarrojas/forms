@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: mpox_exposure_risk_assessment_form
+    pages:
+    - id: 1
+      name: exposure_history
+      label: exposure_history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_history
+      label: travel_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: close_contact
+      label: close_contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: exposure_risk
+      label: exposure_risk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: prevention_measures
+      label: prevention_measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_trace
+      label: contact_trace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exposure_risk_level
+      label: exposure_risk_level
+      hint: null
+      type: select_one
+      options:
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 9
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: review
+      label: review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

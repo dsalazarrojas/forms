@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scenario Based Technical Interview Question Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scenario
+      label: scenario
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: Rating Scale
+      hint: 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

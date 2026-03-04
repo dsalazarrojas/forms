@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Wait Time Assessment
+    pages:
+    - id: 1
+      name: wait_time_satisfaction
+      label: Patient Wait Time Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 2
+      name: waiting_experience
+      label: Waiting Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Very Short''}'
+      - '{''value'': ''Short''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Long''}'
+      - '{''value'': ''Very Long''}'
+      required: false
+    - id: 3
+      name: waiting_time
+      label: Waiting Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department_wait_time
+      label: Department Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: doctor_wait_time
+      label: Doctor Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: nurse_wait_time
+      label: Nurse Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: other_wait_time
+      label: Other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_wait_time
+      label: Total Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: department_satisfaction
+      label: Department Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 12
+      name: doctor_satisfaction
+      label: Doctor Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 13
+      name: nurse_satisfaction
+      label: Nurse Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 14
+      name: other_satisfaction
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 15
+      name: department_satisfaction_score
+      label: Department Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: doctor_satisfaction_score
+      label: Doctor Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: nurse_satisfaction_score
+      label: Nurse Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: other_satisfaction_score
+      label: Other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: department_rating
+      label: Department Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 20
+      name: doctor_rating
+      label: Doctor Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 21
+      name: nurse_rating
+      label: Nurse
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 22
+      name: other_rating
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 23
+      name: overall_rating
+      label: Overall
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 24
+      name: visit_date_satisfaction
+      label: Visit Date Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 25
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

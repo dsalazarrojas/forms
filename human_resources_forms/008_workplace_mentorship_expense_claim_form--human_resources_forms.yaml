@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Mentorship Expense Claim Form
+    pages:
+    - id: 1
+      name: expense_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: Briefly describe your expense
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_expense
+      label: Date of Expense
+      hint: (mm/dd/yyyy)
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Type of Expense
+      hint: null
+      type: select_one
+      options:
+      - ID1
+      - ID2
+      - ID3
+      required: false
+    - id: 5
+      name: expense_category
+      label: Category of Expense
+      hint: null
+      type: select_multiple
+      options:
+      - CAT1
+      - CAT2
+      - CAT3
+      required: false
+    - id: 6
+      name: expense_subcategory
+      label: Subcategory of Expense
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: expense_subcategory2
+      label: Subcategory of Expense 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: expense_subcategory3
+      label: Subcategory of Expense 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: amount
+      label: Claimed Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: expense_subcategory4
+      label: Subcategory of Expense 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: claimed_amount
+      label: Claimed Amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Health Referral Form
+    pages:
+    - id: 1
+      name: section_referral
+      label: -- Referral Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referral_date
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: referring_provider
+      label: Referring Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: provider_phone
+      label: Referring Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Referring Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_patient
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_reason
+      label: -- Reason for Referral --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_concern
+      label: Primary Behavioral Health Concern
+      hint: null
+      type: select_one
+      options:
+      - Depression
+      - Anxiety
+      - Substance Use
+      - PTSD
+      - Bipolar Disorder
+      - Schizophrenia
+      - Personality Disorder
+      - Other
+      required: true
+    - id: 16
+      name: clinical_presentation
+      label: Clinical Presentation
+      hint: Description of patient symptoms
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: duration_of_symptoms
+      label: Duration of Symptoms
+      hint: How long has patient experienced this
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - More than 6 months
+      required: false
+    - id: 18
+      name: prior_treatment
+      label: Prior Behavioral Health Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: List any psychiatric medications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_assessment
+      label: Safety Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - No Acute Risk
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Imminent Risk
+      required: true
+    - id: 21
+      name: suicidal_ideation
+      label: Suicidal or Homicidal Ideation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Active Planning
+      required: true
+    - id: 22
+      name: section_service
+      label: -- Requested Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: service_type_requested
+      label: Type of Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Individual Therapy
+      - Group Therapy
+      - Psychiatric Evaluation
+      - Medication Management
+      - Crisis Intervention
+      - Inpatient Treatment
+      - Outpatient Treatment
+      - Other
+      required: true
+    - id: 24
+      name: frequency_preference
+      label: Preferred Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Needed
+      required: false
+    - id: 25
+      name: authorization
+      label: Authorization for Referral
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

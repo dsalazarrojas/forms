@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Hotel Booking Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Full name of lead guest
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Contact phone for check in
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_in_date
+      label: Check in date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: check_out_date
+      label: Check out date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: room_type
+      label: Room type
+      hint: Select preferred room
+      type: select_one
+      options:
+      - Standard
+      - Deluxe
+      - Suite
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of guests
+      hint: Total guests staying
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: special_requests
+      label: Special requests
+      hint: Dietary accessibility or other needs
+      type: text
+      options: []
+      required: false

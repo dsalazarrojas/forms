@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sensitive Skin Product Testing Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_used
+      label: product_used
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Product A''}'
+      - '{''label'': ''Product B''}'
+      - '{''label'': ''Product C''}'
+      required: true
+    - id: 3
+      name: skin_area
+      label: skin_area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Face''}'
+      - '{''label'': ''Neck''}'
+      - '{''label'': ''Hands''}'
+      required: true
+    - id: 4
+      name: skin_condition
+      label: skin_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Redness''}'
+      - '{''label'': ''Itching''}'
+      - '{''label'': ''Burning''}'
+      required: true
+    - id: 5
+      name: irritation_level
+      label: irritation_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mild''}'
+      - '{''label'': ''Moderate''}'
+      - '{''label'': ''Severe''}'
+      required: true
+    - id: 6
+      name: irritation_location
+      label: irritation_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Face''}'
+      - '{''label'': ''Neck''}'
+      - '{''label'': ''Hands''}'
+      required: true
+    - id: 7
+      name: product_rating
+      label: product_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      required: true
+    - id: 8
+      name: product_recommended
+      label: product_recommended
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: skin_condition_description
+      label: skin_condition_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Allergy''}'
+      - '{''label'': ''Acne''}'
+      - '{''label'': ''Rosacea''}'
+      required: true
+    - id: 12
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone
+      label: doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_email
+      label: doctor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      required: true
+    - id: 18
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true

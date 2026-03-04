@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Treatment Waiver
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergy_information
+      label: Allergy Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_treatment_waiver
+      label: Medical Treatment Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: text
+      options: []
+      required: false

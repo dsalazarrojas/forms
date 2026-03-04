@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Treat Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: guarantor_name
+      label: Guarantor Name
+      hint: Person responsible for payment if different
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guarantor_relationship
+      label: Guarantor Relationship
+      hint: Relationship to patient
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance_company
+      label: Insurance Company
+      hint: Name of insurance provider
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_group
+      label: Group Number
+      hint: Insurance group number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Reason for seeking treatment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Describe your symptoms
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: Existing Medical Conditions
+      hint: List any chronic or significant conditions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: List all medications and dosages
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: List all allergies including medications
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: previous_surgeries
+      label: Previous Surgeries or Hospitalizations
+      hint: List significant medical history
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_medical_history
+      label: Family Medical History
+      hint: Relevant family health conditions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: proposed_treatment
+      label: Proposed Treatment Plan
+      hint: Description of recommended treatment
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: treating_provider
+      label: Treating Provider
+      hint: Name of physician or provider
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: risks_discussed
+      label: Risks and Benefits Discussed
+      hint: Have risks and benefits been explained
+      type: select_one
+      options:
+      - Yes - Fully Understood
+      - Yes - Partially Understood
+      - false
+      required: true
+    - id: 23
+      name: alternatives_discussed
+      label: Alternative Treatments Discussed
+      hint: Have other options been explained
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: questions_asked
+      label: Were Your Questions Answered
+      hint: Did you have opportunity to ask questions
+      type: select_one
+      options:
+      - Yes - All Answered
+      - Yes - Some Answered
+      - No Questions Asked
+      required: true
+    - id: 25
+      name: pain_management_consent
+      label: Consent to Pain Management
+      hint: Do you consent to pain management as needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: emergency_treatment_consent
+      label: Consent to Emergency Treatment
+      hint: Do you consent to emergency treatment if needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: financial_responsibility
+      label: Financial Responsibility Acknowledged
+      hint: Do you understand you are responsible for charges
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: hipaa_acknowledged
+      label: HIPAA Privacy Practices Acknowledged
+      hint: Have you received privacy practices notice
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: consent_decision
+      label: Consent Decision
+      hint: Do you consent to treatment
+      type: select_one
+      options:
+      - Yes - I Consent to Treatment
+      - No - I Do Not Consent
+      required: true
+    - id: 30
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if patient is minor
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: provider_signature
+      label: Provider Signature
+      hint: Name of treating provider
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false

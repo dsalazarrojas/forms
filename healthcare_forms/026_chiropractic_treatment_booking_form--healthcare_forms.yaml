@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Treatment Booking Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: new_or_existing
+      label: Are you a new or existing patient
+      hint: null
+      type: select_one
+      options:
+      - New patient
+      - Existing patient
+      - Returning patient
+      required: true
+    - id: 9
+      name: patient_id
+      label: Patient ID Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_details
+      label: Appointment Details
+      hint: Scheduling preferences
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - Initial consultation
+      - Follow-up visit
+      - Adjustment only
+      - Full treatment
+      - Emergency appointment
+      - Wellness check
+      required: true
+    - id: 14
+      name: preferred_doctor
+      label: Preferred Doctor
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: appointment_duration
+      label: Expected Duration
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - Not sure
+      required: false
+    - id: 16
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: What brings you in
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_complaint
+      label: Primary Complaint
+      hint: Main reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: pain_location
+      label: Location of Pain or Discomfort
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Neck
+      - Upper back
+      - Mid back
+      - Lower back
+      - Shoulder
+      - Arm or hand
+      - Hip
+      - Leg or foot
+      - Head
+      - Multiple areas
+      required: false
+    - id: 19
+      name: pain_level
+      label: Current Pain Level
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: urgency
+      label: How urgent is your appointment
+      hint: null
+      type: select_one
+      options:
+      - Emergency - same day
+      - Very urgent - within 2 days
+      - Urgent - within a week
+      - Routine - flexible timing
+      required: true
+    - id: 21
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: Your availability
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: available_days
+      label: Available Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 23
+      name: available_times
+      label: Available Times of Day
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any time
+      required: true
+    - id: 24
+      name: flexible_schedule
+      label: Is your schedule flexible
+      hint: null
+      type: select_one
+      options:
+      - Yes, very flexible
+      - Somewhat flexible
+      - Not very flexible
+      - No, very limited
+      required: true
+    - id: 25
+      name: insurance_payment
+      label: Insurance and Payment
+      hint: Coverage information
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: has_insurance
+      label: Do you have health insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Insurance
+      - Cash
+      - Credit card
+      - Debit card
+      - HSA/FSA
+      - Payment plan
+      required: false
+    - id: 30
+      name: additional_information
+      label: Additional Information
+      hint: Anything else
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: special_needs
+      label: Do you have any special needs or accommodations
+      hint: Accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Internet search
+      - Social media
+      - Advertisement
+      - Previous patient
+      - Other
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: consent_contact
+      label: I consent to being contacted about my appointment
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 35
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: booking_date
+      label: Date of Booking
+      hint: null
+      type: date
+      options: []
+      required: true

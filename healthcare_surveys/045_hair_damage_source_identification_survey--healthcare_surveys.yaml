@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Damage Source Identification Survey
+    pages:
+    - id: 1
+      name: hair_damage_source_identification_survey_form
+      label: Hair Damage Source Identification Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_damage_source
+      label: Hair Damage Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: chemical_processing
+      label: Chemical Processing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: hair_style
+      label: Hair Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: hair_damaging_habits
+      label: Hair Damaging Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: hair_damaging_products
+      label: Hair Damaging Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: hair_damaging_treatments
+      label: Hair Damaging Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Communication Consent Form
+    pages:
+    - id: 1
+      name: user_email_address
+      label: User Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: provider_email_address
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Client Information Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dog''}'
+      - '{''id'': 2, ''label'': ''Cat''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Up-to-date''}'
+      - '{''id'': 2, ''label'': ''Out of date''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_notes
+      label: Owner Notes
+      hint: null
+      type: note
+      options: []
+      required: false

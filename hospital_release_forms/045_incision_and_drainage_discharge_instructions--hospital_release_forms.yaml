@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incision And Drainage Discharge Instructions
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: Include contact details of patient
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: surgeon_name
+      label: Surgeon's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: surgical_unit
+      label: Surgical Unit
+      hint: null
+      type: select_one
+      options:
+      - Ward 1
+      - Ward 2
+      - Ward 3
+      required: false
+    - id: 6
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_contact
+      label: Follow-Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: surgeon_signature
+      label: Surgeon Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_doctor
+      label: Follow-Up Doctor
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Brown
+      required: false
+    - id: 20
+      name: follow_up_clinic
+      label: Follow-Up Clinic
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic A
+      - Clinic B
+      - Clinic C
+      required: false
+    - id: 21
+      name: follow_up_phone
+      label: Follow-Up Phone
+      hint: null
+      type: select_multiple
+      options:
+      - Phone 1
+      - Phone 2
+      - Phone 3
+      required: false
+    - id: 22
+      name: follow_up_email
+      label: Follow-Up E-mail
+      hint: null
+      type: select_multiple
+      options:
+      - Email 1
+      - Email 2
+      - Email 3
+      required: false
+    - id: 23
+      name: follow_up_address
+      label: Follow-Up Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_note
+      label: Follow-Up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

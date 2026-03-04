@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Rental Agreement Form
+    pages:
+    - id: 1
+      name: renter_first_name
+      label: Renter First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_last_name
+      label: Renter Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rental_purpose
+      label: Purpose of Rental
+      hint: What is the event or activity
+      type: select_one
+      options:
+      - Corporate retreat
+      - Church group
+      - School group
+      - Sports team
+      - Family reunion
+      - Wedding
+      - Conference
+      - Other
+      required: true
+    - id: 11
+      name: facility_requested
+      label: Facility or Area Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Main lodge
+      - Cabins
+      - Dining hall
+      - Conference room
+      - Sports field
+      - Swimming pool
+      - Amphitheater
+      - Waterfront
+      - Entire camp
+      required: true
+    - id: 12
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Check-in date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rental_start_time
+      label: Rental Start Time
+      hint: Check-in time
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: rental_end_date
+      label: Rental End Date
+      hint: Check-out date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: rental_end_time
+      label: Rental End Time
+      hint: Check-out time
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: number_of_guests
+      label: Estimated Number of Guests
+      hint: Total attendees
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: number_of_overnight_guests
+      label: Number of Overnight Guests
+      hint: Staying overnight
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: age_range_of_guests
+      label: Age Range of Guests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Under 12
+      - 13-17
+      - 18-30
+      - 31-50
+      - 51 and over
+      required: true
+    - id: 19
+      name: catering_needed
+      label: Catering Services Needed
+      hint: Meal services
+      type: select_one
+      options:
+      - false
+      - Breakfast only
+      - Lunch only
+      - Dinner only
+      - Full board
+      - Snacks only
+      required: true
+    - id: 20
+      name: equipment_rental
+      label: Equipment Rental Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Audio visual equipment
+      - Sports equipment
+      - Tables and chairs
+      - Linens
+      - Kitchen equipment
+      - Other
+      required: false
+    - id: 21
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Describe any special needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rental_fee
+      label: Total Rental Fee
+      hint: Calculated amount
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: security_deposit
+      label: Security Deposit
+      hint: Refundable deposit
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_schedule
+      label: Payment Schedule
+      hint: Select payment plan
+      type: select_one
+      options:
+      - Full payment now
+      - 50 percent deposit - balance due 30 days before
+      - Payment plan requested
+      required: true
+    - id: 25
+      name: cancellation_policy_acknowledged
+      label: Cancellation Policy Acknowledged
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - false
+      required: true
+    - id: 26
+      name: damage_responsibility
+      label: Damage Responsibility Acknowledgement
+      hint: I accept responsibility for damages
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 27
+      name: rules_and_regulations
+      label: Camp Rules and Regulations Acknowledged
+      hint: I have read and agree to follow
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 28
+      name: insurance_required
+      label: Do You Have Event Insurance
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - will provide certificate
+      - No - need information
+      - Not applicable
+      required: true
+    - id: 29
+      name: renter_signature
+      label: Renter Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: camp_representative
+      label: Camp Representative Name
+      hint: Staff member name
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: camp_representative_signature
+      label: Camp Representative Signature
+      hint: Staff signature
+      type: text
+      options: []
+      required: false

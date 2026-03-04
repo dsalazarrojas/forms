@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Loyalty Program Survey Form
+    pages:
+    - id: 1
+      name: loyalty_program_membership
+      label: Are you a member of our hotel loyalty program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_information
+      label: What is your contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_score
+      label: On a scale of 0-10, how would you rate your overall score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: favorite_hotel_stay
+      label: What is your favorite hotel stay
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: favorite_hotel_room
+      label: What is your favorite hotel room type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

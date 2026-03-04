@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospice_care_discharge_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: care_team
+      label: patient_care_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hospice_id
+      label: hospice_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_care_setting
+      label: next_care_setting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: discharge_to
+      label: discharge_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up_care
+      label: Follow-up Care
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_discharge
+      label: Time of Discharge
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_phone_number
+      label: Physician Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physician_address
+      label: Physician Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: discharge_disposition
+      label: Discharge Disposition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: discharge_date_time
+      label: Discharge Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false

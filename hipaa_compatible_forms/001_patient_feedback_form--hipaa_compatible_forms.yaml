@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Feedback Form
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: What was the quality of service provided to you today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: doctor_nurse
+      label: Who did you meet or interact with today?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Doctor''}'
+      - '{''value'': ''Nurse''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: What do you think could be improved about your visit today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rate your overall experience with our clinic?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      required: false
+    - id: 5
+      name: date_time
+      label: When did you visit our clinic?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: At what time did you visit our clinic?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Do you have any additional comments or concerns?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Do you have an e-mail address you'd like us to use for correspondence?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Do you have a phone number where we can contact you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_step
+      label: What would you like us to do next to improve your experience?
+      hint: null
+      type: text
+      options: []
+      required: false

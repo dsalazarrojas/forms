@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Home Attic Access Inspection Checklist
+    pages:
+    - id: 1
+      name: attic_access_inspection
+      label: Inspect The Attic
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 4
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_notes
+      label: Inspector Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inspector_hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: inspection_cost
+      label: Inspection Cost
+      hint: null
+      type: number
+      options: []
+      required: false

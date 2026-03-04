@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Medical History Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to answer
+      required: false
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: chronic_conditions
+      label: Do you have any chronic health conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - Hypertension
+      - Lung disease
+      - Kidney disease
+      - Cancer
+      - Obesity
+      - None
+      - Other
+      required: true
+    - id: 10
+      name: condition_details
+      label: Details of chronic conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergic_reactions
+      label: Describe any severe allergic reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_covid_history
+      label: -- COVID-19 History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: covid_diagnosis
+      label: Have you been diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, currently
+      - Yes, previously
+      required: true
+    - id: 16
+      name: covid_diagnosis_date
+      label: Date of COVID-19 diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: hospitalization
+      label: Were you hospitalized for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 18
+      name: hospitalization_duration
+      label: Duration of hospitalization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_vaccination
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Prefer not to answer
+      required: true
+    - id: 21
+      name: vaccine_type
+      label: Vaccine Type (if vaccinated)
+      hint: null
+      type: select_multiple
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson & Johnson
+      - Other
+      required: false
+    - id: 22
+      name: booster_doses
+      label: Number of booster doses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_lifestyle
+      label: -- Lifestyle and Wellness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: exercise_frequency
+      label: How often do you exercise?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5+ times per week
+      required: false
+    - id: 25
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Pregnancy Test Survey
+    pages:
+    - id: 1
+      name: test_brand
+      label: Test Brand
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 2
+      name: test_timing
+      label: Test Timing
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 3
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 4
+      name: user_confidence
+      label: User Confidence
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 5
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 6
+      name: test_uses
+      label: Test Uses
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 7
+      name: test_uses_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: timing_of_test
+      label: Timing Of Test
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: when_did_test
+      label: When Did Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: result_of_test
+      label: Result Of Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: confidence_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: other_phone
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_email
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

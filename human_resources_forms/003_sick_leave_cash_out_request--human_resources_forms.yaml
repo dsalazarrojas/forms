@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sick Leave Cash Out Request
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount_requested
+      label: amount_requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: manager_approvals
+      label: manager_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Reject
+      - Return to Employee
+      required: false
+    - id: 6
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_approved
+      label: date_approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      required: false
+    - id: 14
+      name: submitted_by_name
+      label: submitted_by_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitted_to_manager_name
+      label: submitted_to_manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitted_to_manager_phone
+      label: submitted_to_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: division
+      label: division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: branch
+      label: branch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: job_position
+      label: job_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: true

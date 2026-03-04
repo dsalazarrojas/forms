@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 48 Hour Opt Out Agreement
+    pages:
+    - id: 1
+      name: header_section
+      label: '--- Patient Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Contact number where you can be reached
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 9
+      name: visit_section
+      label: '--- Visit Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: visit_date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: visit_time
+      label: Time of visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: reason_for_visit
+      label: Reason for visit
+      hint: Briefly describe why you are seeking care
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: symptoms
+      label: Current symptoms (select all that apply)
+      hint: Check all symptoms you are experiencing
+      type: select_multiple
+      options:
+      - Fever
+      - Headache
+      - Fatigue
+      - Cough
+      - Pain
+      - Nausea
+      - Dizziness
+      - Shortness of breath
+      - Chest pain
+      - Other
+      required: false
+    - id: 14
+      name: pain_level
+      label: Pain level (0-10)
+      hint: 0 = no pain, 10 = worst pain imaginable
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: medication_section
+      label: '--- Medication and Medical History ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: current_medications
+      label: Current medications
+      hint: List all medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known allergies
+      hint: Include drug allergies and reactions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Existing medical conditions
+      hint: Chronic conditions or previous surgeries
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: opt_out_section
+      label: '--- 48-Hour Opt-Out Declaration ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: understands_opt_out
+      label: Do you understand the implications of opting out of treatment for 48
+        hours?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 21
+      name: opt_out_reason
+      label: Reason for opting out of treatment
+      hint: Please be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: consent_to_follow_up
+      label: Do you consent to follow-up contact within 48 hours?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like us to know
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_consent
+      label: I acknowledge that I have read and understood the 48-hour opt-out agreement
+      hint: By checking this box, you agree to the terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

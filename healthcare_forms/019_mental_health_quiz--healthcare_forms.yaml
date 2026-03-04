@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: mental_health_quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_page_section_1
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health_quiz_answers
+      label: mental_health_quiz_answers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: mental_health_quiz_results
+      label: mental_health_quiz_results
+      hint: null
+      type: note
+      options: []
+      required: false

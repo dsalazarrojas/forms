@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Policy Approval Acknowledgement Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Employee Full Name
+      hint: Enter your name as it appears in payroll.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Unique identifier assigned by the organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_department
+      label: Department
+      hint: Select your primary department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - IT and Security
+      - Legal and Compliance
+      - Operations
+      - Sales and Marketing
+      - Research and Development
+      required: true
+    - id: 4
+      name: manager_supervisor_name
+      label: Manager or Supervisor Name
+      hint: To whom do you report?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policy_information_section
+      label: -- Policy Information --
+      hint: Confirm the specific policy being acknowledged.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: policy_title_and_version
+      label: Policy Title and Version
+      hint: As listed in the policy document
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_policy_received
+      label: Date Policy Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: employee_acknowledgement_statement
+      label: Employee Acknowledgement
+      hint: Check all that apply to confirm understanding.
+      type: select_multiple
+      options:
+      - I have received a copy of the policy.
+      - I have read and understood the policy requirements.
+      - I agree to comply with all terms and conditions.
+      - I understand that non-compliance may result in disciplinary action.
+      required: true
+    - id: 9
+      name: questions_clarifications
+      label: Questions or Clarifications
+      hint: Did you require or receive any clarification regarding this policy?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_completion
+      label: Training Completion
+      hint: Have you completed the required training for this policy?
+      type: select_one
+      options:
+      - true
+      - false
+      - Training Not Required
+      required: true
+    - id: 11
+      name: acknowledgement_date
+      label: Date of Acknowledgement
+      hint: Current date of submission
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signature_acknowledgement
+      label: Digital Signature Confirmation
+      hint: I confirm that this electronic submission serves as my official acknowledgement.
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hr_review_status
+      label: HR Review Status
+      hint: For HR Office Use Only
+      type: select_one
+      options:
+      - Received
+      - Pending Review
+      - Approved
+      - Needs Clarification
+      required: false

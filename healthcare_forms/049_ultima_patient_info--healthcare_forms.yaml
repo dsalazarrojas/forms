@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: ultima_patient_info
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_gender
+      label: patient_gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_info
+      label: doctor_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_specialty
+      label: doctor_specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: hospital_name
+      label: hospital_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hospital_address
+      label: hospital_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_medical_record_number
+      label: patient_medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_medical_record_type
+      label: patient_medical_record_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: patient_medical_record_date
+      label: patient_medical_record_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: patient_medical_record_status
+      label: patient_medical_record_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: patient_medical_record_note
+      label: patient_medical_record_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: patient_medical_history
+      label: patient_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_medical_history_date
+      label: patient_medical_history_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: patient_medical_history_status
+      label: patient_medical_history_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: patient_medical_history_note
+      label: patient_medical_history_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: patient_allergies
+      label: patient_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_allergies_status
+      label: patient_allergies_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: patient_medical_image
+      label: patient_medical_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_medical_image_date
+      label: patient_medical_image_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: patient_medical_image_status
+      label: patient_medical_image_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

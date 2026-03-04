@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Medical Leave Of Absence Request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Flight operations
+      - Cabin crew
+      - Maintenance
+      - Ground operations
+      - Customer service
+      - Administration
+      - Other
+      required: true
+    - id: 5
+      name: base_location
+      label: Base Location
+      hint: Your home base or station
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your work or personal email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number during leave
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hire_date
+      label: Date of Hire
+      hint: When were you hired
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: leave_type
+      label: Type of Medical Leave
+      hint: Select the type of leave requested
+      type: select_one
+      options:
+      - Personal medical condition
+      - Family medical leave (FMLA)
+      - Pregnancy/maternity leave
+      - Workers compensation
+      - Disability leave
+      - Medical certification renewal
+      - Other
+      required: true
+    - id: 10
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of leave
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: expected_return_date
+      label: Expected Return Date
+      hint: When you plan to return to work
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: total_days_requested
+      label: Total Days Requested
+      hint: Total number of calendar days
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: intermittent_leave
+      label: Is This Intermittent Leave
+      hint: Will you need occasional time off
+      type: select_one
+      options:
+      - No, continuous leave
+      - Yes, intermittent
+      - Yes, reduced schedule
+      required: true
+    - id: 14
+      name: intermittent_schedule
+      label: Intermittent Schedule Details
+      hint: Describe the intermittent schedule if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_certification_attached
+      label: Medical Certification Attached
+      hint: Have you included medical documentation
+      type: select_one
+      options:
+      - Yes, attached
+      - Will provide within 15 days
+      - Not yet obtained
+      required: true
+    - id: 16
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: Name of your treating physician
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: Provider contact number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_facility
+      label: Medical Facility or Clinic
+      hint: Name of hospital or clinic
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_restrictions
+      label: Expected Work Restrictions
+      hint: Any restrictions upon return
+      type: select_one
+      options:
+      - None expected
+      - Light duty only
+      - No flying duties
+      - Ground duties only
+      - Full duty with monitoring
+      - To be determined
+      required: true
+    - id: 20
+      name: faa_medical_certificate
+      label: FAA Medical Certificate Status
+      hint: Current status of your FAA medical
+      type: select_one
+      options:
+      - Current and valid
+      - Expired - will renew
+      - Surrendered
+      - Special issuance required
+      - Not applicable
+      required: false
+    - id: 21
+      name: benefits_continuation
+      label: Benefits Continuation Request
+      hint: Do you want to continue benefits during leave
+      type: select_one
+      options:
+      - Yes, continue all benefits
+      - Health insurance only
+      - No, suspend benefits
+      - Unsure
+      required: true
+    - id: 22
+      name: contact_during_leave
+      label: Contact Preference During Leave
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email only
+      - Phone calls
+      - Text messages
+      - Regular mail
+      - No contact except emergency
+      required: true
+    - id: 23
+      name: supervisor_name
+      label: Immediate Supervisor Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: handover_notes
+      label: Work Handover Notes
+      hint: Brief notes on pending work or responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_signature
+      label: I Certify This Information Is Accurate
+      hint: Check to confirm accuracy
+      type: select_one
+      options:
+      - Yes, I certify
+      - Other
+      required: true
+    - id: 26
+      name: request_submission_date
+      label: Date of Request
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentation Policy Acknowledgment
+    pages:
+    - id: 1
+      name: form_title
+      label: Documentation Policy Acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: documentation_date
+      label: Documentation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Complete
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: true

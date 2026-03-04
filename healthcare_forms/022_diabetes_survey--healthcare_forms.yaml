@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diabetes Survey
+    pages:
+    - id: 1
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_responses
+      label: Treatment Responses
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: risk_factors_hemoglobin_a1c
+      label: Hemoglobin A1c
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: symptoms_frequency
+      label: Symptom Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_last_doctor_visit
+      label: Date Last Doctor Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_last_doctor_visit
+      label: Time Last Doctor Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: hospitalization_history
+      label: Hospitalization History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: diabetes_treatment
+      label: Diabetes Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: blood_workups
+      label: Blood Workups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: smoking_history
+      label: Smoking History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: alcohol_history
+      label: Alcohol History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: blood_sugar_testing_frequency
+      label: Blood Sugar Testing Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: diabetes_education
+      label: Diabetes Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medication_non_adherence
+      label: Medication Non-Adherence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_caregiver_name
+      label: Patient Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false

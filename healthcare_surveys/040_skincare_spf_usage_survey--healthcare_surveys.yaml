@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare SPF Usage Survey
+    pages:
+    - id: 1
+      name: sunscreen_frequency
+      label: How often do you use sunscreen
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 2
+      name: spf_level
+      label: What SPF level do you use?
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '30'
+      - '50'
+      required: false
+    - id: 3
+      name: sunscreen_type
+      label: What type of sunscreen do you use?
+      hint: null
+      type: select_one
+      options:
+      - Aerosol
+      - Lotion
+      - Cream
+      - Spray
+      required: false
+    - id: 4
+      name: apply_sunscreen
+      label: How do you apply sunscreen?
+      hint: null
+      type: select_one
+      options:
+      - Hand
+      - Spray
+      - Roll-on
+      required: false
+    - id: 5
+      name: sunscreen_ingredients
+      label: What ingredients do you look for in a sunscreen?
+      hint: null
+      type: select_multiple
+      options:
+      - Zinc
+      - Titanium
+      - Fragrance
+      - Moisturizer
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional note
+      hint: null
+      type: note
+      options: []
+      required: false

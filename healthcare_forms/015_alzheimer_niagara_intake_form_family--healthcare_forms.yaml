@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alzheimer Niagara Intake Form Family
+    pages:
+    - id: 1
+      name: section_client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full legal name of the person affected
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Day month and year
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_name
+      label: Primary contact name
+      hint: Family member or caregiver
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone
+      label: Primary contact phone
+      hint: Best number to reach caregiver
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: diagnosis_date
+      label: Diagnosis date
+      hint: Approximate date of diagnosis if known
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: support_services_needed
+      label: Support services needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day programs
+      - Respite care
+      - Counseling
+      - Home support
+      required: false
+    - id: 8
+      name: medical_notes
+      label: Medical notes
+      hint: Relevant health information or medications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_to_contact
+      label: Consent to contact healthcare providers
+      hint: Select yes to allow outreach
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

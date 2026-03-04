@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dyspnea Assessment Survey
+    pages:
+    - id: 1
+      name: shortness_of_breath_severity
+      label: Shortness of Breath Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: breath_triggers
+      label: Breath triggers
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Daytime
+      - Nighttime
+      - Evening
+      required: false
+    - id: 3
+      name: breath_triggers_details
+      label: Breath triggers details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: breath_history
+      label: Breath history
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: breath_symptoms
+      label: Breath symptoms
+      hint: null
+      type: select_one
+      options:
+      - Chest tightness
+      - Wheezing
+      - Difficulty breathing
+      - Blue discoloration of the lips and fingers
+      - Other (please describe)
+      required: false
+    - id: 6
+      name: other_breath_symptoms
+      label: Other breath symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_list
+      label: Medication list
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: medication_dose
+      label: Medication dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider
+      label: Healthcare provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_name
+      label: Healthcare provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_location
+      label: Healthcare provider location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: date_of_last_visit
+      label: Date of last visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_last_visit
+      label: Time of last visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: number_of_visits
+      label: Number of visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: number_of_visits_2
+      label: Number of visits 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: number_of_visits_3
+      label: Number of visits 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: visit_frequency
+      label: Visit frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_visit_date
+      label: Next visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: next_visit_time
+      label: Next visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: patient_contact
+      label: Patient contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 22
+      name: patient_contact_info
+      label: Patient contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_relationship
+      label: Patient relationship
+      hint: null
+      type: select_one
+      options:
+      - Primary care provider
+      - Family member
+      - Friend
+      - Other
+      required: false
+    - id: 24
+      name: patient_relationship_info
+      label: Patient relationship info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

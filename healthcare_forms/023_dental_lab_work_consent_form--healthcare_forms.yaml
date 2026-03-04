@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Lab Work Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_to_disclose
+      label: consent_to_disclose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: consent_to_share
+      label: consent_to_share
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Scientist Job Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resume_link
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: skills
+      label: Skills
+      hint: List your relevant skills
+      type: select_multiple
+      options:
+      - Machine Learning
+      - Data Science
+      - Statistics
+      required: true
+    - id: 8
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - Doctorate
+      required: true
+    - id: 10
+      name: research_interests
+      label: Research interests
+      hint: List your research interests
+      type: select_multiple
+      options:
+      - Machine Learning
+      - Data Science
+      - Statistics
+      required: false
+    - id: 11
+      name: github
+      label: GitHub
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: linkedin
+      label: LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: research_paper
+      label: Research Paper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: research_paper_link
+      label: Research Paper Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: certification_link
+      label: Certification Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: portfolio_link
+      label: Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: github_profile
+      label: GitHub Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: twitter
+      label: Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: research_area
+      label: Research Area
+      hint: null
+      type: select_one
+      options:
+      - Natural Language Processing
+      - Machine Learning
+      - Computer Vision
+      - Data Science
+      - Statistics
+      required: true
+    - id: 23
+      name: research_methodology
+      label: Research Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: research_contribution
+      label: Research Contribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false

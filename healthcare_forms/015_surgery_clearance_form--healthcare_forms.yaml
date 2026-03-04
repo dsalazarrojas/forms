@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Clearance Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: surgery_details
+      label: Surgery Details
+      hint: Provide as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false

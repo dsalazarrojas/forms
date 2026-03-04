@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Band Adjustment Form
+    pages:
+      - id: 1
+        name: employee_information
+        label: -- Employee Information --
+        hint: provide details for compensation review
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: employee name
+        hint: full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: employee id
+        hint: internal identifier
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: current_band
+        label: current compensation band
+        hint: select band
+        type: select_one
+        options:
+          - Band 1
+          - Band 2
+          - Band 3
+          - Band 4
+          - Band 5
+        required: true
+      - id: 5
+        name: requested_band
+        label: requested compensation band
+        hint: select requested band
+        type: select_one
+        options:
+          - Band 1
+          - Band 2
+          - Band 3
+          - Band 4
+          - Band 5
+        required: true
+      - id: 6
+        name: effective_date
+        label: requested effective date
+        hint: date change should take effect
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: justification
+        label: justification for adjustment
+        hint: explain reasons and evidence
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: manager_name
+        label: manager name
+        hint: approving manager
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: manager_approval
+        label: manager approval status
+        hint: manager to select approval
+        type: select_one
+        options:
+          - Approved
+          - Denied
+          - Pending
+        required: true
+      - id: 10
+        name: hr_notes
+        label: hr notes
+        hint: internal use only
+        type: text
+        options: []
+        required: false

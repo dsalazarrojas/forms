@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Mass Index Calculator
+    pages:
+    - id: 1
+      name: user_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: calculation_date
+      label: Date of Calculation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: measurement_system
+      label: Measurement System
+      hint: Choose your preferred system
+      type: select_one
+      options:
+      - Metric (kg and cm)
+      - Imperial (lbs and inches)
+      required: true
+    - id: 4
+      name: weight_kilograms
+      label: Weight in Kilograms
+      hint: If using metric system
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weight_pounds
+      label: Weight in Pounds
+      hint: If using imperial system
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: height_centimeters
+      label: Height in Centimeters
+      hint: If using metric system
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: height_feet
+      label: Height - Feet
+      hint: If using imperial system
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: height_inches
+      label: Height - Inches
+      hint: If using imperial system
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gender
+      label: Gender
+      hint: Optional - for reference only
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Not Applicable
+      required: false
+    - id: 10
+      name: age_group
+      label: Age Group
+      hint: Optional - for reference only
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Under 18
+      - Not Disclosed
+      required: false
+    - id: 11
+      name: calculated_bmi
+      label: Your BMI
+      hint: Calculated from height and weight
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: bmi_category
+      label: BMI Category
+      hint: null
+      type: select_one
+      options:
+      - Underweight (Below 18.5)
+      - Normal Weight (18.5 - 24.9)
+      - Overweight (25.0 - 29.9)
+      - Obese Class I (30.0 - 34.9)
+      - Obese Class II (35.0 - 39.9)
+      - Obese Class III (40.0+)
+      required: false
+    - id: 13
+      name: health_conditions
+      label: Relevant Health Conditions
+      hint: Optional - for context
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: Optional - for context
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How often do you exercise
+      type: select_one
+      options:
+      - Sedentary
+      - Light - 1-3 times per week
+      - Moderate - 3-5 times per week
+      - Active - 5-7 times per week
+      - Very Active - Daily
+      required: false
+    - id: 16
+      name: diet_type
+      label: Diet Type
+      hint: null
+      type: select_one
+      options:
+      - Omnivore
+      - Vegetarian
+      - Vegan
+      - Keto
+      - Paleo
+      - Other
+      - Not Specified
+      required: false
+    - id: 17
+      name: weight_goals
+      label: Weight Goals
+      hint: What are you trying to achieve
+      type: select_one
+      options:
+      - Maintain Current Weight
+      - Lose Weight
+      - Gain Weight
+      - Build Muscle
+      - Improve Health
+      - No Specific Goal
+      required: false
+    - id: 18
+      name: bmi_awareness
+      label: Prior BMI Knowledge
+      hint: Were you aware of your BMI before
+      type: select_one
+      options:
+      - Yes, already knew
+      - Roughly knew
+      - Did not know
+      - First time calculating
+      required: false
+    - id: 19
+      name: health_provider_consultation
+      label: Plan to discuss with health provider
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      - Already Discussed
+      required: false
+    - id: 20
+      name: disclaimer_acceptance
+      label: I understand BMI is a screening tool only
+      hint: Not a diagnostic measure
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      - Need More Information
+      required: true

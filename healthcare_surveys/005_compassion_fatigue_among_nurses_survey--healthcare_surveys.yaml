@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassion Fatigue Among Nurses Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Welcome to the Compassion Fatigue Survey
+      hint: This survey assesses compassion fatigue levels among nursing professionals
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nurse_id
+      label: Nurse ID Number
+      hint: Optional anonymous identifier
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: years_experience
+      label: Years of Nursing Experience
+      hint: How long have you been a nurse
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 6 years
+      - 7 to 10 years
+      - 11 to 15 years
+      - More than 15 years
+      required: true
+    - id: 4
+      name: work_setting
+      label: Primary Work Setting
+      hint: Where do you primarily work
+      type: select_one
+      options:
+      - Hospital - ICU
+      - Hospital - Emergency Department
+      - Hospital - Medical Surgical
+      - Hospital - Oncology
+      - Hospital - Pediatrics
+      - Long-term Care Facility
+      - Outpatient Clinic
+      - Home Health
+      - Other
+      required: true
+    - id: 5
+      name: hours_per_week
+      label: Average Hours Worked Per Week
+      hint: Including overtime
+      type: select_one
+      options:
+      - Less than 20 hours
+      - 20 to 32 hours
+      - 33 to 40 hours
+      - 41 to 50 hours
+      - More than 50 hours
+      required: true
+    - id: 6
+      name: shift_type
+      label: Primary Shift Type
+      hint: What shift do you typically work
+      type: select_one
+      options:
+      - Day shift
+      - Evening shift
+      - Night shift
+      - Rotating shifts
+      - On-call
+      required: true
+    - id: 7
+      name: patient_load
+      label: Average Number of Patients Per Shift
+      hint: Typical patient assignment
+      type: select_one
+      options:
+      - 1 to 3 patients
+      - 4 to 6 patients
+      - 7 to 9 patients
+      - 10 or more patients
+      - Varies widely
+      required: true
+    - id: 8
+      name: emotional_exhaustion
+      label: I feel emotionally drained from my work
+      hint: Rate how often you feel this way
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 9
+      name: work_dread
+      label: I dread going to work
+      hint: Rate how often you feel this way
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 10
+      name: emotional_overwhelm
+      label: I feel overwhelmed by my patients emotions
+      hint: Rate how often you feel this way
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 11
+      name: detachment_from_patients
+      label: I feel detached or numb toward patients
+      hint: Rate how often you feel this way
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 12
+      name: loss_compassion
+      label: I have lost my ability to feel compassion
+      hint: Rate how often you feel this way
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 13
+      name: work_intrusion_personal
+      label: Work problems follow me home
+      hint: Rate how often you feel this way
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 14
+      name: sleep_disturbances
+      label: I have trouble sleeping due to work stress
+      hint: Rate how often you experience this
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 15
+      name: irritability_increase
+      label: I have become more irritable at work
+      hint: Rate how often you feel this way
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 16
+      name: job_satisfaction
+      label: Overall job satisfaction
+      hint: How satisfied are you with your nursing job
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: support_from_management
+      label: I feel supported by my management team
+      hint: Rate your level of agreement
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 18
+      name: support_from_colleagues
+      label: I feel supported by my colleagues
+      hint: Rate your level of agreement
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 19
+      name: access_mental_health
+      label: Do you have access to mental health resources
+      hint: Through your employer
+      type: select_one
+      options:
+      - Yes - and I use them
+      - Yes - but I do not use them
+      - No - not available
+      - Not sure
+      required: true
+    - id: 20
+      name: self_care_activities
+      label: How often do you engage in self-care activities
+      hint: Exercise meditation hobbies etc
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Once a week
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: considering_leaving
+      label: Have you considered leaving nursing due to stress
+      hint: In the past 6 months
+      type: select_one
+      options:
+      - Yes - actively planning to leave
+      - Yes - thinking about it
+      - No - but I have in the past
+      - No - never considered it
+      required: true
+    - id: 22
+      name: burnout_level
+      label: How would you rate your current burnout level
+      hint: 1 being none 10 being severe
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: helpful_interventions
+      label: What interventions would be most helpful
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Counseling services
+      - Stress management workshops
+      - Reduced patient load
+      - More breaks during shifts
+      - Peer support groups
+      - Mindfulness training
+      - Flexible scheduling
+      - Additional staffing
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Share any additional thoughts or experiences
+      type: text
+      options: []
+      required: false

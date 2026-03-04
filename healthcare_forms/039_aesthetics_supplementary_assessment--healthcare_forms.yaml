@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetics Supplementary Assessment
+    pages:
+    - id: 1
+      name: general_assessment_header
+      label: -- General Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: main_concern
+      label: Main Aesthetic Concern
+      hint: What bothers you the most?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lifestyle_header
+      label: -- Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sun_exposure
+      label: Daily Sun Exposure
+      hint: Average time outdoors.
+      type: select_one
+      options:
+      - Minimal (Indoors mostly)
+      - Moderate (1-2 hours)
+      - High (Outdoor job/hobbies)
+      required: true
+    - id: 6
+      name: spf_usage
+      label: Sunscreen Usage
+      hint: How often do you apply SPF?
+      type: select_one
+      options:
+      - Daily
+      - Occasionally
+      - Rarely / Never
+      - Only on vacation
+      required: true
+    - id: 7
+      name: skincare_routine
+      label: Current Skincare Routine
+      hint: Briefly describe (Cleanser, Moisturizer, Actives).
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diet_water
+      label: Diet and Hydration
+      hint: How would you rate your water intake?
+      type: select_one
+      options:
+      - Excellent (>2L/day)
+      - Good
+      - Poor
+      required: false
+    - id: 9
+      name: stress_levels
+      label: Stress Levels
+      hint: Can impact skin health.
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 10
+      name: facial_assessment_header
+      label: -- Specific Areas (Self-Assessment) --
+      hint: Check areas you want to improve.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: concern_areas
+      label: Areas of Concern
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Forehead Lines
+      - Frown Lines (11s)
+      - Crows Feet (Eyes)
+      - Cheeks / Volume Loss
+      - Lips (Shape/Volume)
+      - Jawline / Chin
+      - Neck
+      - Skin Texture / Pores
+      - Pigmentation / Spots
+      required: true
+    - id: 12
+      name: pain_tolerance
+      label: Pain Tolerance
+      hint: Helps us plan numbing.
+      type: select_one
+      options:
+      - High
+      - Average
+      - Low
+      - Very Low (Need anxiety management)
+      required: true
+    - id: 13
+      name: budget_expectations
+      label: Budget Range for Treatment Plan
+      hint: Helps us tailor recommendations.
+      type: select_one
+      options:
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000+
+      - Unsure
+      required: false

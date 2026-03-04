@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Healthcare Workload Survey
+    pages:
+    - id: 1
+      name: patient_interactions
+      label: Patient Interactions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: work_finish_time
+      label: Work Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: time_worked
+      label: Time Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: break_time
+      label: Break Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: breaks
+      label: Breaks
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: false
+    - id: 7
+      name: patient_wait_time
+      label: Patient Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_between_patients
+      label: Time Between Patients
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: workload
+      label: Workload
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Busy
+      - Available
+      - On Break
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_count
+      label: Number of Patients
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: patient_visits
+      label: Number of Patient Visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: patient_surgeries
+      label: Number of Surgeries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: patient_emergencies
+      label: Number of Emergencies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: patient_requests
+      label: Number of Requests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: work_level
+      label: Work Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 18
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: shift_start
+      label: Shift Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: shift_end
+      label: Shift End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: hours_worked_today
+      label: Hours Worked Today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: breaks_taken
+      label: Breaks Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: break_durations
+      label: Break Durations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: total_break_time
+      label: Total Break Time
+      hint: null
+      type: number
+      options: []
+      required: false

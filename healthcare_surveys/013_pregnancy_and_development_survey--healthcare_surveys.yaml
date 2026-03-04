@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy And Development Survey
+    pages:
+    - id: 1
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undetermined''}'
+      required: false
+    - id: 2
+      name: gestation_week
+      label: gestation_week
+      hint: Week 1-36
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: prenatal_care_habit
+      label: prenatal_care_habit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hospitalization_status
+      label: Hospitalization Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: hospitalization_length
+      label: hospitalization_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hospitalization_type
+      label: Hospitalization Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal Delivery''}'
+      - '{''label'': ''C-Section''}'
+      - '{''label'': ''Induced Labor''}'
+      required: false
+    - id: 7
+      name: complications
+      label: Complications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: complications_details
+      label: complications_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: birth_weight
+      label: Birth Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: birth_length
+      label: birth_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: birth_status
+      label: Birth Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alive''}'
+      - '{''label'': ''Dead''}'
+      required: false
+    - id: 12
+      name: maternal_care_provider
+      label: maternal_care_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: maternal_care_provider_type
+      label: maternal_care_provider_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Public Hospital''}'
+      - '{''label'': ''Private Hospital''}'
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history_details
+      label: medical_history_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insurance_provider_type
+      label: insurance_provider_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Public''}'
+      - '{''label'': ''Private''}'
+      required: false
+    - id: 19
+      name: health_insurance_type
+      label: health_insurance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Public''}'
+      - '{''label'': ''Private''}'
+      required: false
+    - id: 20
+      name: insurance_provider_phone
+      label: insurance_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_provider_email
+      label: insurance_provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: insurance_provider_address
+      label: insurance_provider_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: hospital_address
+      label: Hospital Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hospital_phone
+      label: Hospital Phone
+      hint: null
+      type: text
+      options: []
+      required: false

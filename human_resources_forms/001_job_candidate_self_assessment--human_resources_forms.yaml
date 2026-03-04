@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_citizen_self_assessment
+    pages:
+    - id: 1
+      name: given_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_phone
+      label: work_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_salary
+      label: current_salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: expected_salary
+      label: expected_salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''0-2 years''}'
+      - '{''label'': ''2-5 years''}'
+      - '{''label'': ''5-10 years''}'
+      - '{''label'': ''10-20 years''}'
+      - '{''label'': ''More than 20 years''}'
+      required: true
+    - id: 11
+      name: degree
+      label: degree
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: major
+      label: major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: university_name
+      label: university_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: diploma
+      label: diploma
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''BSc''}'
+      - '{''label'': ''BEng''}'
+      - '{''label'': ''BCom''}'
+      - '{''label'': ''BA''}'
+      - '{''label'': ''BBSc''}'
+      - '{''label'': ''BBA''}'
+      - '{''label'': ''BEngTech''}'
+      - '{''label'': ''BMSc''}'
+      - '{''label'': ''BEd''}'
+      - '{''label'': ''MA''}'
+      - '{''label'': ''MBA''}'
+      - '{''label'': ''MSc''}'
+      - '{''label'': ''Ph.D''}'
+      - '{''label'': ''MCom''}'
+      - '{''label'': ''MEng''}'
+      - '{''label'': ''MEd''}'
+      - '{''label'': ''MBSc''}'
+      - '{''label'': ''MBA''}'
+      - '{''label'': ''MPEng''}'
+      - '{''label'': ''MBA''}'
+      - '{''label'': ''MSocSc''}'
+      - '{''label'': ''MArch''}'
+      - '{''label'': ''MBA''}'
+      - '{''label'': ''BSc''}'
+      - '{''label'': ''BBA''}'
+      - '{''label'': ''PhD''}'
+      - '{''label'': ''BPEng''}'
+      - '{''label'': ''MAppl''}'
+      - '{''label'': ''MBA''}'
+      - '{''label'': ''MBA''}'
+      - '{''label'': ''MBSc''}'
+      - '{''label'': ''MBA''}'
+      required: true

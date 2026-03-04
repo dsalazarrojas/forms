@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Weight And Height Log
+    pages:
+    - id: 1
+      name: patient_weight
+      label: weight_in_kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height_in_cm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_measurement
+      label: date_of_measurement
+      hint: null
+      type: date
+      options: []
+      required: false

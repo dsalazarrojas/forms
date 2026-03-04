@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Manager Self Evaluation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: position_title
+      label: Position Title
+      hint: Current management position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporting_period
+      label: Evaluation Period
+      hint: Date range being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: time_in_position
+      label: Time in Current Position
+      hint: How long in this management role
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: direct_reports_count
+      label: Number of Direct Reports
+      hint: How many employees do you manage
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: accomplishments
+      label: Major Accomplishments This Year
+      hint: Key achievements and milestones
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: goals_achieved
+      label: Goals Achievement Rate
+      hint: Percentage of annual goals achieved
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: leadership_effectiveness
+      label: Rate your leadership effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Below expectations
+      required: true
+    - id: 11
+      name: team_performance
+      label: Overall team performance under your leadership
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 12
+      name: communication_skills
+      label: Rate your communication skills
+      hint: Clarity and effectiveness in communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 13
+      name: decision_making
+      label: Quality of decision-making
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 14
+      name: problem_solving
+      label: Problem-solving and conflict resolution abilities
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 15
+      name: employee_development
+      label: Success in developing your team members
+      hint: Training and growth of direct reports
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 16
+      name: budget_management
+      label: Budget and resource management
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: false
+    - id: 17
+      name: collaboration
+      label: Cross-functional collaboration
+      hint: Working with other departments
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 18
+      name: areas_strength
+      label: Your Key Strengths as a Manager
+      hint: What do you do well
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: areas_improvement
+      label: Areas for Personal Improvement
+      hint: Skills or areas to develop
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: professional_development
+      label: Professional Development Plans
+      hint: Training or certifications pursued this year
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: challenges_faced
+      label: Challenges Faced This Year
+      hint: Obstacles or difficulties encountered
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: goals_next_year
+      label: Goals for Next Year
+      hint: Key objectives and plans
+      type: text
+      options: []
+      required: true

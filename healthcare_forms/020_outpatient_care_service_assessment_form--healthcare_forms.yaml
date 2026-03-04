@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outpatient Care Service Assessment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: out_patient_care_service_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: type_of_care
+      label: type_of_care
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''type_of_care_option_0''}'
+      - '{''label'': ''type_of_care_option_1''}'
+      - '{''label'': ''type_of_care_option_2''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 6
+      name: care_delivered
+      label: care_delivered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option_0''}'
+      - '{''label'': ''option_1''}'
+      - '{''label'': ''option_2''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_rating
+      label: patient_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: provider_rating
+      label: provider_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false

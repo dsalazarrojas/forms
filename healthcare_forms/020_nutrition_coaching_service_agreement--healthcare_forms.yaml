@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Coaching Service Agreement
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: What are your goals for this coaching program?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: terms
+      label: Terms and Conditions
+      hint: Please read and agree to these terms
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: E-Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: client_details_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_goals
+      label: Goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coaching_terms
+      label: Coaching Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: client_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: terms_acknowledgement
+      label: Terms Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Disagreed
+      required: false
+    - id: 12
+      name: coaching_terms_acknowledgement
+      label: Coaching Terms Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Disagreed
+      required: false
+    - id: 13
+      name: coaching_terms_version
+      label: Coaching Terms Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

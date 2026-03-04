@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canine Heartworm Prevalence Survey
+    pages:
+    - id: 1
+      name: clinic_information
+      label: Clinic Information
+      hint: Provide your veterinary clinic details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clinic_name
+      label: Clinic Name
+      hint: Full name of your veterinary clinic or hospital
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: clinic_address
+      label: Clinic Address
+      hint: Street address of your clinic
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: state_region
+      label: State or Region
+      hint: Select your state or region
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      required: true
+    - id: 5
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: Name of the reporting veterinarian
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: survey_period
+      label: Survey Period
+      hint: Time period this survey covers
+      type: select_one
+      options:
+      - January 2025
+      - February 2025
+      - March 2025
+      - Q1 2025
+      - Q2 2025
+      - Q3 2025
+      - Q4 2025
+      - Full Year 2025
+      required: true
+    - id: 7
+      name: case_reporting
+      label: Case Reporting
+      hint: Report heartworm cases diagnosed
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: total_cases_diagnosed
+      label: Total Cases Diagnosed
+      hint: Number of canine heartworm cases diagnosed in this period
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: diagnostic_methods
+      label: Diagnostic Methods Used
+      hint: Select all diagnostic methods used
+      type: select_multiple
+      options:
+      - Antigen Testing
+      - Microfilaria Testing
+      - Radiography
+      - Echocardiography
+      - Clinical Signs Only
+      - Necropsy
+      required: true
+    - id: 10
+      name: case_severity
+      label: Case Severity Distribution
+      hint: Breakdown of case severity levels
+      type: select_one
+      options:
+      - Mostly mild cases
+      - Mostly moderate cases
+      - Mostly severe cases
+      - Mixed severity
+      required: true
+    - id: 11
+      name: prevention_practices
+      label: Prevention Practices
+      hint: Information about prevention recommendations
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: prevention_compliance
+      label: Owner Prevention Compliance Rate
+      hint: Estimated percentage of owners following prevention protocols
+      type: select_one
+      options:
+      - Less than 25%
+      - 25-50%
+      - 51-75%
+      - 76-90%
+      - Over 90%
+      required: true
+    - id: 13
+      name: preventive_products
+      label: Preventive Products Recommended
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monthly Oral Medication
+      - Monthly Topical Treatment
+      - 6-Month Injectable
+      - 12-Month Injectable
+      - Combination Products
+      - None
+      required: true
+    - id: 14
+      name: patient_demographics
+      label: Patient Demographics
+      hint: Information about affected dogs
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: most_affected_age_group
+      label: Most Affected Age Group
+      hint: Age group with highest heartworm prevalence
+      type: select_one
+      options:
+      - Under 1 year
+      - 1-3 years
+      - 4-6 years
+      - 7-10 years
+      - Over 10 years
+      required: true
+    - id: 16
+      name: breed_predisposition
+      label: Breed Predisposition Observed
+      hint: Have you noticed breed-specific patterns?
+      type: select_one
+      options:
+      - Yes - certain breeds more affected
+      - No - all breeds equally affected
+      - Unable to determine
+      required: true
+    - id: 17
+      name: outdoor_exposure
+      label: Outdoor Exposure Level
+      hint: Typical outdoor exposure of affected dogs
+      type: select_one
+      options:
+      - Primarily indoor
+      - Mixed indoor/outdoor
+      - Primarily outdoor
+      - Working/hunting dogs
+      required: true
+    - id: 18
+      name: treatment_outcomes
+      label: Treatment Outcomes
+      hint: Information about treatment success
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: treatment_success_rate
+      label: Treatment Success Rate
+      hint: Estimated success rate of heartworm treatments
+      type: select_one
+      options:
+      - Less than 50%
+      - 50-70%
+      - 71-85%
+      - 86-95%
+      - Over 95%
+      required: true
+    - id: 20
+      name: complications_observed
+      label: Treatment Complications
+      hint: Common complications observed during treatment
+      type: select_multiple
+      options:
+      - Pulmonary Thromboembolism
+      - Respiratory Distress
+      - Caval Syndrome
+      - Kidney Complications
+      - Liver Complications
+      - None/Mild
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional observations or comments
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_email
+      label: Contact Email
+      hint: Email for follow-up questions
+      type: email
+      options: []
+      required: true

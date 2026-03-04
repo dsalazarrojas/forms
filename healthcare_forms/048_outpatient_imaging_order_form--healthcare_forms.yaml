@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: outpatient_imaging_order_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: imaging_type
+      label: imaging_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_imaging
+      label: reason_for_imaging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: authorized_provider
+      label: authorized_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_ordered
+      label: date_ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_ordered
+      label: time_ordered
+      hint: null
+      type: time
+      options: []
+      required: false

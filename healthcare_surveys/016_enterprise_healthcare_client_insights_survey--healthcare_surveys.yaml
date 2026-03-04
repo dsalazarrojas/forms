@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enterprise Healthcare Client Insights Survey
+    pages:
+    - id: 1
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_organization
+      label: Client Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Not at All Satisfied
+      required: false
+    - id: 5
+      name: client_improvement_ideas
+      label: Client Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referral_intent
+      label: Referral Intent
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Neutral
+      - Somewhat Unlikely
+      - Very Unlikely
+      required: false
+    - id: 7
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Word of Mouth
+      - Online Search
+      - Print Ad
+      - TV/Radio Ad
+      - Email
+      - Other
+      required: false
+    - id: 8
+      name: referral_comments
+      label: Referral Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_completion
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Client Manager
+      - Account Manager
+      - Other
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_contacted
+      label: Follow-up Contacted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - No Follow-up
+      required: false
+    - id: 22
+      name: next_steps_actions
+      label: Next Steps Actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: next_steps_date
+      label: Next Steps Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: next_steps_by
+      label: Next Steps By
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Client Manager
+      - Account Manager
+      - Other
+      required: false

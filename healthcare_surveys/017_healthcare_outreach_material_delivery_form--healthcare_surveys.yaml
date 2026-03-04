@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Outreach Material Delivery Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: material type
+      hint: null
+      type: select_multiple
+      options:
+      - Educational Booklet
+      - Brochure
+      - Poster
+      - Other
+      required: false
+    - id: 3
+      name: distribution_channel
+      label: distribution channel
+      hint: null
+      type: select_one
+      options:
+      - In Office
+      - Mail
+      - Online
+      - Social Media
+      - Other
+      required: false
+    - id: 4
+      name: patient_phone
+      label: patient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_distribution
+      label: date of distribution
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_email
+      label: healthcare provider email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_phone
+      label: healthcare provider phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: patient email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool_user
+      label: assigned tool user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: material_id
+      label: material id
+      hint: null
+      type: text
+      options: []
+      required: false

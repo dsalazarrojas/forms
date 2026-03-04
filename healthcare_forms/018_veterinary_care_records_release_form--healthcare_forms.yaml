@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_care_records_release_form
+    pages:
+    - id: 1
+      name: title
+      label: Veterinary Care Records Release Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pet_birthday
+      label: Pet Birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: veterinary_clinic_name
+      label: Veterinary Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: transfer_to
+      label: Transfer To
+      hint: null
+      type: select_multiple
+      options:
+      - Primary care clinic
+      - Specialty clinic
+      - Another clinic
+      required: true
+    - id: 12
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

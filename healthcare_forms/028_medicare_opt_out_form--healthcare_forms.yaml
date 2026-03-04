@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_opt_out_form
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: practice_name
+      label: Practice name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_of_opt_out
+      label: Date of opt out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_opt_out
+      label: Reason for opt out
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: provider_id
+      label: Provider ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: practice_address_1
+      label: Practice address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: practice_address_2
+      label: Practice address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practice_city
+      label: Practice city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: practice_state
+      label: Practice state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: practice_zip
+      label: Practice zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: provider_phone
+      label: Provider phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: practice_email
+      label: Practice email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: practice_fax
+      label: Practice fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: practice_license
+      label: Practice license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: practice_npi
+      label: Practice NPI
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: provider_npi
+      label: Provider NPI
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: opt_out_reason
+      label: Reason for opt out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: opt_out_agreement
+      label: Opt out agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: date_of_last_update
+      label: Date of last update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: date_of_next_update
+      label: Date of next update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: opt_out_status
+      label: Opt out status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 24
+      name: opt_out_date
+      label: Opt out date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature date
+      hint: null
+      type: date
+      options: []
+      required: true

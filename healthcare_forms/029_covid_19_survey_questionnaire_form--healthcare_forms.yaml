@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Survey Questionnaire Form
+    pages:
+    - id: 1
+      name: covid_concerns
+      label: What are your current concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: covid_symptoms
+      label: Do you have any of the following symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      - Runny Nose
+      - Shortness of Breath
+      required: true
+    - id: 3
+      name: contact_location
+      label: Did you visit any public places recently?
+      hint: null
+      type: select_multiple
+      options:
+      - Public Place
+      - Grocery Store
+      - Restaurant
+      - School
+      - Work
+      - Other
+      required: false
+    - id: 4
+      name: contact_people
+      label: Who you have been in contact with recently?
+      hint: null
+      type: select_multiple
+      options:
+      - Family Member
+      - Friend
+      - Coworker
+      - Classmate
+      - Neighbour
+      - Other
+      required: true
+    - id: 5
+      name: healthcare_provider
+      label: Have you visited a healthcare provider recently?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: healthcare_type
+      label: What type of health care provider did you visit?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: visit_time
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: contact_other
+      label: Please provide more information about contact
+      hint: Please provide more information about your contact.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Do you have any underlying medical conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Asthma
+      - Heart Disease
+      - Other
+      required: false
+    - id: 11
+      name: medication
+      label: Are you currently taking any medication?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: vaccine_status
+      label: Have you received any vaccines?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: travel_history
+      label: Have you traveled outside of the country recently?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_facility
+      label: Name of Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_facility_address
+      label: Address of Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_facility_phone
+      label: Phone number of Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_facility_email
+      label: Email of Medical Facility
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

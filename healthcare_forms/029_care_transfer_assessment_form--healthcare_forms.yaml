@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Transfer Assessment Form
+    pages:
+      - id: 1
+        name: transfer_header
+        label: -- Transfer Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient name
+        hint: Name of the patient being transferred
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: transferring_facility
+        label: Transferring facility
+        hint: Where patient is coming from
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: receiving_facility
+        label: Receiving facility
+        hint: Destination facility for transfer
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: transfer_date
+        label: Transfer date
+        hint: Scheduled date for transfer
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: clinical_status
+        label: Current clinical status
+        hint: Summary of condition and stability
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: essential_equipment
+        label: Essential equipment to accompany patient
+        hint: List equipment oxygen monitors etc
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: medication_list
+        label: Medication list at transfer
+        hint: Current medications and dosages
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: contact_for_queries
+        label: Contact for queries during transfer
+        hint: Phone or email for transfer coordinator
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: family_notified
+        label: Family notified of transfer
+        hint: Confirm notification status
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

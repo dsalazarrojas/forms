@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist Resorts Reopening Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: whats_your_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: where_are_you_from
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mode_of_travel
+      label: how_did_you_travel
+      hint: null
+      type: select_one
+      options:
+      - Airplane
+      - Car
+      - Walking
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: travel_date
+      label: when_did_you_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction
+      label: how_satisfied_with_your_visit
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 9
+      name: service_quality
+      label: what_were_your_impressions_of_the_service
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 10
+      name: food_quality
+      label: what_were_your_impressions_of_the_food_quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 11
+      name: cleanliness
+      label: how_would_rate_the_cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 12
+      name: overall_experience
+      label: what_was_your_overall_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: any_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Service
+      - Food quality
+      - Cleanliness
+      - Staff
+      - Overall Experience
+      required: false
+    - id: 15
+      name: rating
+      label: how_would_you_rate_your_visit
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 16
+      name: will_recommend
+      label: will_you_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: visit_duration
+      label: how_long_was_your_visit
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      required: false
+    - id: 18
+      name: visit_fulfillment
+      label: how_fulfilled_was_your_visit
+      hint: null
+      type: select_one
+      options:
+      - Very Fulfilled
+      - Somewhat Fulfilled
+      - Neutral
+      - Somewhat Frustrated
+      - Very Frustrated
+      required: false
+    - id: 19
+      name: visit_frequency
+      label: how_ofetn_do_you_visit
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Second time
+      - Third time
+      - More than three times
+      required: false
+    - id: 20
+      name: repeat_visit
+      label: would_you_return
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: survey
+      label: would_you_recommend_us_to_survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: follow_up
+      label: would_you_like_to_be_followed_up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: survey_comments
+      label: any_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_feedback
+      label: survey_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Service
+      - Food quality
+      - Cleanliness
+      - Staff
+      - Overall Experience
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Staff Assessment Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Support Staff
+      - Team Lead
+      - Manager
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_hire
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: last_reviewed
+      label: Last Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: performance_comments
+      label: Performance Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: strengths
+      label: Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weaknesses
+      label: Weaknesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_ratings
+      label: Performance Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      - Needs Improvement
+      required: true
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_next_review
+      label: Date of Next Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false

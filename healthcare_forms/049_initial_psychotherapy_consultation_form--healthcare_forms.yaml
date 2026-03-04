@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Psychotherapy Consultation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Initial Psychotherapy Consultation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: client name
+      hint: Please provide your name as the client would like to be addressed
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact number
+      hint: Please provide your contact number as the client would like to be contacted
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: chief_complaints
+      label: chief complaints
+      hint: Please specify the chief complaints that brought you here today
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_list
+      label: medication list
+      hint: null
+      type: select_multiple
+      options:
+      - Select from the list below
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Food
+      - Environmental
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Condition 1
+      - Medical Condition 2
+      - Medical Condition 3
+      required: false
+    - id: 12
+      name: medical_tests
+      label: medical tests
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Test 1
+      - Medical Test 2
+      - Medical Test 3
+      required: false
+    - id: 13
+      name: medical_procedures
+      label: medical procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Procedure 1
+      - Medical Procedure 2
+      - Medical Procedure 3
+      required: false
+    - id: 14
+      name: medical_history_comments
+      label: medical history comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: chief_complaints_comments
+      label: chief complaints comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medication_comments
+      label: medication comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions_comments
+      label: medical conditions comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_tests_comments
+      label: medical tests comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: medical_procedures_comments
+      label: medical procedures comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: client_signature
+      label: client signature
+      hint: Please provide your signature as the client
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_dob
+      label: client d.o.b
+      hint: Date of Birth
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: client_signature_dob
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Patient Registration Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_allergies
+      label: Medication & Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_of_kin
+      label: Next of Kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_registration_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Number
+      - Email
+      - Address
+      required: false
+    - id: 12
+      name: patient_info_list
+      label: Patient Information List
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Date of Birth
+      - Social Security Number
+      - Address
+      - Phone Number
+      - Email
+      - Emergency Contact Information
+      required: false
+    - id: 13
+      name: contact_info_list
+      label: Contact Information List
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Number
+      - Email
+      - Address
+      - Emergency Contact Information
+      required: false
+    - id: 14
+      name: medical_history_list
+      label: Medical History List
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Conditions
+      - Medications
+      - Allergies
+      - Surgical History
+      required: false
+    - id: 15
+      name: next_of_kin_info
+      label: Next of Kin Info
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Phone Number
+      - Relation
+      required: false
+    - id: 16
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      required: false
+    - id: 17
+      name: medical_procedures_list
+      label: Medical Procedures List
+      hint: null
+      type: select_multiple
+      options:
+      - Surgical History
+      - Medical Conditions
+      - Medications
+      - Allergies
+      required: false
+    - id: 18
+      name: patient_signature_image
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_signature_image
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_date
+      label: Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: medication_list
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: allergy_list
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: medical_procedure_date
+      label: Medical Procedures Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: contact_person_info
+      label: Contact Person Info
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Relationship
+      - Phone Number
+      - Address
+      required: false

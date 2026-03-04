@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: tuberculosis_surveillance_form
+    pages:
+    - id: 1
+      name: case_id
+      label: Case Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_status
+      label: treatment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: treatment_date
+      label: treatment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: case_closed_date
+      label: case_closed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up_frequency_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

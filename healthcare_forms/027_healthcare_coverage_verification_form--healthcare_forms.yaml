@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_coverage_verification_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      - '{''value'': ''option_3''}'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Handover Checklist
+    pages:
+    - id: 1
+      name: shift_handover_checklist
+      label: Shift Handover Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_shift_employee
+      label: Next Shift Employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: expected_end_time
+      label: Expected End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: actual_end_time
+      label: Actual End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shift_start_date
+      label: Shift Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: expected_shift_end_date
+      label: Expected Shift End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: actual_shift_end_date
+      label: Actual Shift End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_shift_start_time
+      label: Next Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: next_shift_end_time
+      label: Next Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: next_shift_duration
+      label: Next Shift Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_shift_employee_comments
+      label: Next Shift Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: employee_confirmation_comments
+      label: Employee Confirmation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_shift_employee
+      label: Next Shift Employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: next_shift_supervisor
+      label: Next Shift Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: next_shift_supervisor_comments
+      label: Next Shift Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shift_supervisor_confirmation
+      label: Shift Supervisor Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: shift_supervisor_comments
+      label: Shift Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: handover_notes
+      label: Handover Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: email
+      options: []
+      required: false

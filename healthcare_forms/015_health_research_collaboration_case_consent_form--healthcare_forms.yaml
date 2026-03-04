@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Research Collaboration Case Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Health Research Collaboration Case Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Healthcare Forms''}'
+      - '{''value'': ''Research Forms''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''yes''}'
+      - '{''value'': ''no''}'
+      - '{''value'': ''not sure''}'
+      required: false
+    - id: 5
+      name: participant_questions
+      label: Participant Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Q1''}'
+      - '{''value'': ''Q2''}'
+      - '{''value'': ''Q3''}'
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Participant email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: researcher_note
+      label: Researcher Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitter_note
+      label: Submitter's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter_info
+      label: Submitter's Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''self''}'
+      - '{''value'': ''researcher''}'
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: researcher_info
+      label: Researcher's Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''self''}'
+      - '{''value'': ''team''}'
+      required: false
+    - id: 17
+      name: researcher_phone
+      label: Researcher's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: researcher_email
+      label: Researcher's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: participant_info
+      label: Participant's Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''self''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 20
+      name: participant_phone
+      label: Participant's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_email
+      label: Participant's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: researcher_name
+      label: Researcher's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_name
+      label: Participant's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: participant_sex
+      label: Participant Sex
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''M''}'
+      - '{''value'': ''F''}'
+      - '{''value'': ''O''}'
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Accommodation Form
+    pages:
+    - id: 1
+      name: hotel_accommodation_form
+      label: guest_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - single_room
+      - double_room
+      - suite
+      required: true
+    - id: 3
+      name: room_preferences
+      label: room_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_check_in
+      label: date_check_in
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_check_out
+      label: date_check_out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: room_rate
+      label: room_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: guest_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - double
+      - suite
+      required: true
+    - id: 12
+      name: accommodation_preferences
+      label: accommodation_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

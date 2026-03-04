@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_treatment_plan
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: therapeutic_goals
+      label: Therapeutic Goals
+      hint: null
+      type: select_one
+      options:
+      - Goals 1
+      - Goals 2
+      - Goals 3
+      required: false
+    - id: 3
+      name: strategies
+      label: Strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: progress_tracking
+      label: Progress Tracking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: treatment_start_date
+      label: Treatment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: treatment_end_date
+      label: Treatment End Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bylaw Complaint Form
+    pages:
+    - id: 1
+      name: complainant_info
+      label: -- Complainant Information --
+      hint: Your information will be kept confidential according to HOA policy.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_address
+      label: Your Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: complaint_details_section
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: violation_address
+      label: Address of the Alleged Violation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category_of_violation
+      label: Category of Violation
+      hint: null
+      type: select_one
+      options:
+      - Noise Complaint
+      - Property Maintenance
+      - Parking Violation
+      - Pet Nuisance
+      - Unapproved Exterior Change
+      - Other
+      required: true
+    - id: 8
+      name: date_of_occurrence
+      label: Date when the violation was first observed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_occurrence
+      label: Time of occurrence
+      hint: If applicable
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: is_ongoing
+      label: Is this an ongoing issue?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: detailed_description
+      label: Detailed description of the issue
+      hint: Please be specific about what you observed.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: evidence_available
+      label: Do you have photographic or video evidence?
+      hint: Do not upload here, state availability.
+      type: select_one
+      options:
+      - Yes, photos available
+      - Yes, video available
+      - No evidence available
+      required: true
+    - id: 13
+      name: previous_contact
+      label: Have you attempted to contact the resident regarding this?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: contact_outcome
+      label: If yes, what was the outcome of that contact?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_preference
+      label: Preferred method for follow-up
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No follow-up needed
+      required: true
+    - id: 16
+      name: official_use_only
+      label: -- Official Use Only --
+      hint: Do not fill this section.
+      type: note
+      options: []
+      required: false

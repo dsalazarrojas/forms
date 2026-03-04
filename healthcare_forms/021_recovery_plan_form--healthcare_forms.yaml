@@ -1,0 +1,50 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Recovery Plan Form
+    pages:
+    - id: 1
+      name: recovery_plan_form
+      label: recovery-plan-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''healthcare-forms'', ''label'': ''Healthcare Forms''}'
+      - '{''id'': 2, ''name'': ''other-forms'', ''label'': ''Other Forms''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: A Recovery Plan Form is a form template intended to aid businesses, organizations,
+        or individuals in devising and executing a strategy to return to normalcy
+        after a disruptive event.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''Chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other-tool'', ''label'': ''Other Tool''}'
+      required: false

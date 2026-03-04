@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Injury Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: what-happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical-history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pain_level
+      label: pain-level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: treatment_plan
+      label: treatment-plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: daily_activities
+      label: daily-activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: doctor_info
+      label: doctor-info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: contact-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_info
+      label: patient-info
+      hint: null
+      type: email
+      options: []
+      required: false

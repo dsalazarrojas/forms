@@ -1,0 +1,336 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Medical Administration Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to camper
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: physician_name
+      label: Primary Physician Name
+      hint: Doctor and clinic
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: physician_address
+      label: Physician Address
+      hint: Clinic address
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_insurance_group_number
+      label: Insurance Group Number
+      hint: Group number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: blood_type
+      label: Blood Type
+      hint: If known
+      type: select_one
+      options:
+      - A positive
+      - A negative
+      - B positive
+      - B negative
+      - AB positive
+      - AB negative
+      - O positive
+      - O negative
+      - Unknown
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies
+      hint: Include food, insect, medication, environmental
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: allergy_severity
+      label: Allergy Severity
+      hint: Describe reactions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: epipen_required
+      label: Is EpiPen Required
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - will provide
+      - false
+      - Not sure
+      required: true
+    - id: 26
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List all conditions
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: chronic_illnesses
+      label: Chronic Illnesses
+      hint: Asthma, diabetes, epilepsy, etc
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: physical_limitations
+      label: Physical Limitations
+      hint: Any restrictions on activity
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: current_medications
+      label: Current Medications
+      hint: List all with dosages and schedule
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: medication_administration_instructions
+      label: Medication Administration Instructions
+      hint: Special instructions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: medication_storage_location
+      label: Where Will Medications Be Stored
+      hint: Select location
+      type: select_one
+      options:
+      - Health center
+      - With camper
+      - Counselor held
+      - Other
+      required: false
+    - id: 32
+      name: recent_hospitalizations
+      label: Recent Hospitalizations
+      hint: Within past year
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: recent_surgeries
+      label: Recent Surgeries
+      hint: Within past 2 years
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: immunization_status
+      label: Immunization Status
+      hint: Select status
+      type: select_one
+      options:
+      - Up to date
+      - Partially up to date
+      - Not up to date
+      - Medical exemption
+      - Religious exemption
+      required: true
+    - id: 35
+      name: tetanus_date
+      label: Date of Last Tetanus Shot
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 36
+      name: mental_health_concerns
+      label: Mental Health Concerns
+      hint: Anxiety, depression, etc
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: behavioral_supports
+      label: Behavioral Supports Needed
+      hint: Describe if needed
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: medical_treatment_authorization
+      label: I Authorize Medical Treatment
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I authorize
+      - false
+      required: true
+    - id: 39
+      name: medication_administration_authorization
+      label: I Authorize Medication Administration
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I authorize
+      - false
+      required: true
+    - id: 40
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true
+    - id: 42
+      name: physician_signature
+      label: Physician Signature
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: physician_signature_date
+      label: Physician Signature Date
+      hint: Date
+      type: date
+      options: []
+      required: false

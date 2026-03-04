@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: scoliosis quality of life questionnaire
+    pages:
+    - id: 1
+      name: demographics
+      label: Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: condition_duration
+      label: Condition Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: condition_severity
+      label: Condition Severity
+      hint: null
+      type: select_one
+      options:
+      - mild
+      - moderate
+      - severe
+      required: true
+    - id: 5
+      name: condition_impact
+      label: Condition Impact
+      hint: null
+      type: select_multiple
+      options:
+      - work
+      - social
+      - emotional
+      - physical
+      required: true
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_one
+      options:
+      - none
+      - active
+      - inactive
+      required: false
+    - id: 12
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: provider_contact_information
+      label: Provider Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_contact_information
+      label: Patient Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_questions
+      label: Follow-up Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: provider_comments
+      label: Provider Comments
+      hint: null
+      type: note
+      options: []
+      required: false

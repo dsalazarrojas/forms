@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Statement Copy Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Enter employee ID
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Select department
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accounting''}'
+      - '{''id'': 2, ''label'': ''Operations''}'
+      - '{''id'': 3, ''label'': ''Management''}'
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: Enter manager name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: Enter start date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: Enter end date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_request
+      label: Reason for Request
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Requesting a copy for my records''}'
+      - '{''id'': 2, ''label'': ''Requesting for my manager''}'
+      - '{''id'': 3, ''label'': ''Requesting for HR''}'
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: Submit or save for later
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Submit Form''}'
+      - '{''id'': 2, ''label'': ''Save for Later''}'
+      required: false
+    - id: 11
+      name: employee_email
+      label: Employee Email
+      hint: Enter employee email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_email
+      label: Manager Email
+      hint: Enter manager email
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: employee_phone
+      label: Employee Phone
+      hint: Enter employee phone number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_phone
+      label: Manager Phone
+      hint: Enter manager phone number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: Enter notes
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: employee_address
+      label: Employee Address
+      hint: Enter employee address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_address
+      label: Manager Address
+      hint: Enter manager address
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department_2
+      label: Department
+      hint: Select department
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accounting''}'
+      - '{''id'': 2, ''label'': ''Operations''}'
+      - '{''id'': 3, ''label'': ''Management''}'
+      required: false
+    - id: 20
+      name: job_title
+      label: Job Title
+      hint: Enter job title
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_code
+      label: Job Code
+      hint: Enter job code
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_group
+      label: Job Group
+      hint: Enter job group
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_family
+      label: Job Family
+      hint: Enter job family
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter
+      label: Submitter
+      hint: Select submitter
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employee''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      required: false
+    - id: 25
+      name: date_submitted
+      label: Date Submitted
+      hint: Enter date submitted
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: time_submitted
+      label: Time Submitted
+      hint: Enter time submitted
+      type: time
+      options: []
+      required: false
+    - id: 27
+      name: form_id
+      label: Form ID
+      hint: Enter form ID
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: user_id
+      label: User ID
+      hint: Enter user ID
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: form_version
+      label: Form Version
+      hint: Enter form version
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: timestamp
+      label: Timestamp
+      hint: Enter timestamp
+      type: date
+      options: []
+      required: false

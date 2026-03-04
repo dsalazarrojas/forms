@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: care_team_members
+      label: Care Team Members
+      hint: List all care team members who interacted with the patient
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: care_team_name
+      label: Care Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: care_provider_name
+      label: Care Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: care_provider_type
+      label: Care Provider Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_completed
+      label: Survey Completed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: survey_started
+      label: Started Survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: survey_ended
+      label: Ended Survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: survey_started_time
+      label: Started Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: survey_ended_time
+      label: Ended Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: care_days_provided
+      label: Care Days Provided
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: care_hours_provided
+      label: Care Hours Provided
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: rating_5
+      label: Rating (5)
+      hint: null
+      type: number
+      options: []
+      required: false

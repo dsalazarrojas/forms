@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Support Program Launch Registration Form
+    pages:
+    - id: 1
+      name: employee_support_program_launch_registration_form_page_1
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: approver_status
+      label: Approver Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: reviewer_status
+      label: Reviewer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

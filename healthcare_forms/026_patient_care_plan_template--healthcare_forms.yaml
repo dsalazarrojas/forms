@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Care Plan Template
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 4
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - Medication A
+      - Medication B
+      - Medication C
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: test_results
+      label: test_results
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: lab_tests
+      label: lab_tests
+      hint: null
+      type: select_one
+      options:
+      - Test A
+      - Test B
+      - Test C
+      required: false

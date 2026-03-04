@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonclinical Study Feedback Form
+    pages:
+    - id: 1
+      name: study_feedback
+      label: Study Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_questions
+      label: Research Questions
+      hint: What questions do you have about this study?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: Please provide your contact information
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_contact_info
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: study_name
+      label: Study Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: study_description
+      label: Study Description
+      hint: null
+      type: text
+      options: []
+      required: false

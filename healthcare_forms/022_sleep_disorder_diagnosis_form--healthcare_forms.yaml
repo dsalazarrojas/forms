@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Disorder Diagnosis Form
+    pages:
+    - id: 1
+      name: morning_routine
+      label: Morning Routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 3
+      name: sleep_quality
+      label: Quality of Sleep
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Fair
+      - Poor
+      - Terrible
+      required: false
+    - id: 4
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wake_time
+      label: Wake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: bedtime
+      label: Bedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sleepiness
+      label: Do you feel sleepy?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Somewhat
+      - Very much
+      - Extremely much
+      required: false
+    - id: 8
+      name: snore
+      label: Do you snore?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 9
+      name: sleep_turbulence
+      label: Sleep turbulence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medication
+      label: Medication
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Morning
+      - Afternoon
+      - Evening
+      - At night
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Insomnia
+      - Sleep disorder
+      - Narcolepsy
+      - Sleep apnea
+      - Other
+      required: false
+    - id: 12
+      name: medical_treatments
+      label: Medical treatments
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - None
+      required: false

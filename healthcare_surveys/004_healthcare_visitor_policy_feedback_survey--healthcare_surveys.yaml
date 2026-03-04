@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Visitor Policy Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_compliance
+      label: Policy Compliance
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: true
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visitor_info
+      label: Visitor Info
+      hint: null
+      type: text
+      options: []
+      required: false

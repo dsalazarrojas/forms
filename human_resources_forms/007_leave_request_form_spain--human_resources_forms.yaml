@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leave Request Form (Spain)
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purpose
+      label: leave_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      required: false
+    - id: 7
+      name: team_leader
+      label: team_leader
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - Jotform
+      - Google Forms
+      - Microsoft Forms
+      required: false
+    - id: 12
+      name: created_by
+      label: created_by
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 13
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 14
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: comments_count
+      label: comments_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Citizen Program Discharge Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Senior Citizen Program Discharge Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_discharge
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_discharge
+      label: discharge_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason_discharge
+      label: reason_for_discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_contact
+      label: next_contact
+      hint: null
+      type: select_one
+      options:
+      - Discharge
+      - Follow-up
+      - Other
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

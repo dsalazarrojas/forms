@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_feedback_channel_survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback_channel
+      label: Feedback Channel
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Video Call
+      required: true
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_day
+      label: Time Of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: manager_id
+      label: Manager Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - IT
+      - Finance
+      required: true
+    - id: 10
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 11
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: channel_preference
+      label: Channel Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Video Call
+      - In Person
+      required: false
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: feedback_request
+      label: Feedback Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: last_follow_up
+      label: Last Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Twice
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 18
+      name: channel_of_last_follow_up
+      label: Channel Of Last Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Video Call
+      required: false
+    - id: 19
+      name: last_follow_up_time
+      label: Last Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: manager_contact
+      label: Manager Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: channel_preference_last_contact
+      label: Channel Preference Last Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Video Call
+      required: true
+    - id: 22
+      name: last_contact_time
+      label: Last Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: manager_department
+      label: Manager Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: last_contact_channel
+      label: Last Contact Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: last_contact_location
+      label: Last Contact Location
+      hint: null
+      type: text
+      options: []
+      required: false

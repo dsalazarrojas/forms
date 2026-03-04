@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outside Employment Form
+    pages:
+    - id: 1
+      name: new_employee_data
+      label: new employee data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: new_employment_date
+      label: new employment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: new_start_date
+      label: new start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: new_location
+      label: new location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_position
+      label: new position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: old_position
+      label: old position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_leaving
+      label: reason leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_type
+      label: employee type
+      hint: null
+      type: text
+      options: []
+      required: false

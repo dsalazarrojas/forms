@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anatole It Access
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Enter the full name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Enter the employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Select the department
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      - Human Resources
+      - Finance
+      - Operations
+      - Customer Support
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Enter the employee job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Enter the name of the direct manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_request_type
+      label: -- Request Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: request_type
+      label: Request Type
+      hint: Select the type of IT access request
+      type: select_one
+      options:
+      - New Hire Onboarding
+      - Employee Offboarding
+      - Access Modification
+      - Temporary Access
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: Enter the effective start date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: Enter the end date for temporary access or offboarding
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_access_requirements
+      label: -- Access Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_access
+      label: Email Access Required
+      hint: Select if email access is needed
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 13
+      name: computer_type
+      label: Computer Type
+      hint: Select the type of computer needed
+      type: select_one
+      options:
+      - Windows Laptop
+      - MacBook
+      - Desktop PC
+      - Not Required
+      required: true
+    - id: 14
+      name: software_access
+      label: Software Access Required
+      hint: Select all software that access is needed for
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Google Workspace
+      - Slack
+      - Zoom
+      - Salesforce
+      - Jira
+      - GitHub
+      - VPN Access
+      required: true
+    - id: 15
+      name: network_drive_access
+      label: Network Drive Access
+      hint: Select if network drive access is needed
+      type: select_one
+      options:
+      - Yes - Full Access
+      - Yes - Read Only
+      - No
+      required: false
+    - id: 16
+      name: special_access_requirements
+      label: Special Access Requirements
+      hint: Describe any additional access requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_approval
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: approved_by
+      label: Approved By
+      hint: Enter the name of the approving manager
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: Select the date of approval
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Enter any additional notes or comments
+      type: text
+      options: []
+      required: false

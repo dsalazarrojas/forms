@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concussion Symptoms Survey
+    pages:
+    - id: 1
+      name: patient_initials
+      label: Patient initials
+      hint: Optional for anonymous submissions
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_incident
+      label: Date of incident
+      hint: When the head injury occurred
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: current_symptoms
+      label: Current symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Headache
+      - Dizziness
+      - Nausea
+      - Sensitivity to light
+      - Sensitivity to noise
+      - Memory problems
+      required: true
+    - id: 4
+      name: symptom_severity
+      label: Symptom severity overall
+      hint: Mild, moderate, or severe
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 5
+      name: sleep_changes
+      label: Changes in sleep patterns
+      hint: Difficulty sleeping or sleeping more
+      type: select_one
+      options:
+      - No change
+      - Sleeping more
+      - Difficulty sleeping
+      required: false
+    - id: 6
+      name: cognitive_changes
+      label: Cognitive changes noticed
+      hint: Concentration or memory issues
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prior_concussions
+      label: Prior concussion history
+      hint: Number of previous concussions
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current medications
+      hint: Include over the counter medications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: urgent_follow_up
+      label: Urgent follow up required
+      hint: If symptoms are worsening seek immediate care
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

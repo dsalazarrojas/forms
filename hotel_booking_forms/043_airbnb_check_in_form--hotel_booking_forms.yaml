@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Check In Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Name on the reservation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: arrival_time
+      label: Arrival time
+      hint: Estimated check in time
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: id_document
+      label: ID document number
+      hint: Passport or ID for records
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: room_number
+      label: Room or unit number
+      hint: Assigned accommodation unit
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile for host to contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For urgent matters during stay
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: check_in_notes
+      label: Check in notes
+      hint: Any key collection or access instructions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_signature
+      label: Guest acknowledgement
+      hint: Guest confirms check in and rules
+      type: note
+      options: []
+      required: true

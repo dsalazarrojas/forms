@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: LS54 Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: labor_law_section
+      label: Labor Law Section
+      hint: null
+      type: select_one
+      options:
+      - Section 195.1
+      - Other
+      required: false
+    - id: 5
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_multiple
+      options:
+      - Exempt
+      - Non-Exempt
+      - Other
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - Discharge
+      - Resignation
+      - Other
+      required: false
+    - id: 10
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: termination_status
+      label: Termination Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: termination_cause
+      label: Termination Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: termination_effective_date
+      label: Termination Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: termination_termination_type
+      label: Termination Type
+      hint: null
+      type: select_one
+      options:
+      - Voluntary
+      - Involuntary
+      required: false
+    - id: 16
+      name: employer_id
+      label: Employer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

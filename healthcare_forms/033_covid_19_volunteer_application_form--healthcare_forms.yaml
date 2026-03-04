@@ -1,0 +1,237 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_personal_header
+      label: -- Personal Information --
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: volunteer_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: volunteer_city_state_zip
+      Label: City, State, ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: volunteer_background_header
+      label: -- Background Information --
+      hint: Education and work experience
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_education_level
+      Label: Education Level
+      hint: Highest education completed
+      type: select_one
+      options:
+        - High school
+        - Some college
+        - Associate degree
+        - Bachelor degree
+        - Graduate degree
+        - Other
+      required: false
+    - id: 11
+      name: volunteer_medical_background
+      label: Do You Have Medical Background
+      hint: Healthcare education or experience
+      type: select_one
+      options:
+        - No medical background
+        - Medical student
+        - Healthcare professional
+        - Previous healthcare experience
+        - Other relevant training
+      required: true
+    - id: 12
+      name: volunteer_relevant_skills
+      Label: Relevant Skills or Certifications
+      hint: CPR, first aid, nursing, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_languages
+      label: Languages You Speak Fluently
+      hint: Languages besides English
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_opportunity_header
+      Label: -- Volunteer Opportunity --
+      hint: Details about your volunteering
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_position_interest
+      label: Position or Role You Are Interested In
+      hint: Type of volunteer work
+      type: select_one
+      options:
+        - Patient care
+        - Administrative support
+        - Community outreach
+        - Data entry
+        - Transportation
+        - Facility maintenance
+        - Communication and outreach
+        - Other
+      required: true
+    - id: 16
+      name: volunteer_time_commitment
+      Label: Time Commitment Available
+      hint: Hours per week you can volunteer
+      type: select_one
+      options:
+        - Under 5 hours per week
+        - 5-10 hours per week
+        - 10-20 hours per week
+        - 20-40 hours per week
+        - 40+ hours per week
+      required: true
+    - id: 17
+      name: volunteer_start_date
+      label: Preferred Start Date
+      hint: When can you begin volunteering
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: volunteer_commitment_duration
+      Label: Commitment Duration
+      hint: How long can you volunteer
+      type: select_one
+      options:
+        - Short term - 1 month
+        - 1-3 months
+        - 3-6 months
+        - 6-12 months
+        - Long term - over 1 year
+      required: true
+    - id: 19
+      name: volunteer_scheduling_header
+      label: -- Scheduling --
+      hint: Your availability details
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: volunteer_available_days
+      Label: Available Days
+      hint: Days you can volunteer
+      type: select_multiple
+      options:
+        - Monday
+        - Tuesday
+        - Wednesday
+        - Thursday
+        - Friday
+        - Saturday
+        - Sunday
+      required: true
+    - id: 21
+      name: volunteer_available_times
+      label: Available Times
+      hint: Preferred shift times
+      type: select_multiple
+      options:
+        - Early morning - 6 AM to 12 PM
+        - Afternoon - 12 PM to 5 PM
+        - Evening - 5 PM to 10 PM
+        - Night - 10 PM to 6 AM
+      required: true
+    - id: 22
+      name: volunteer_health_header
+      Label: -- Health Information --
+      hint: Your health status
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_covid_vaccination
+      label: COVID-19 Vaccination Status
+      hint: Your vaccination status
+      type: select_one
+      options:
+        - Fully vaccinated
+        - Partially vaccinated
+        - Not vaccinated
+        - Prefer not to disclose
+      required: true
+    - id: 24
+      name: volunteer_health_conditions
+      Label: Any Health Conditions That May Affect Volunteering
+      hint: Conditions affecting ability to volunteer
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: volunteer_agreement
+      label: I Agree to the Volunteer Code of Conduct
+      hint: Agreement to volunteer terms
+      type: select_one
+      options:
+        - I agree
+        - I do not agree
+      required: true

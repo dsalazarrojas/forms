@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: knowledge_transfer_offboarding_form
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Project 1''}'
+      - '{''label'': ''Project 2''}'
+      - '{''label'': ''Project 3''}'
+      required: false
+    - id: 5
+      name: knowledge_domains
+      label: Knowledge Domains
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Domain 1''}'
+      - '{''label'': ''Domain 2''}'
+      - '{''label'': ''Domain 3''}'
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_departure
+      label: Reason for Departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: knowledge_transfer_notes
+      label: Knowledge Transfer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: knowledge_transfer_plan
+      label: Knowledge Transfer Plan
+      hint: null
+      type: text
+      options: []
+      required: false

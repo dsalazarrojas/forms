@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Task Observation Survey
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: prophets_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: observation_date
+      label: observation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: visit_location
+      label: visit_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Hospital
+      required: false
+    - id: 5
+      name: visit_type
+      label: visit_type
+      hint: null
+      type: select_multiple
+      options:
+      - Therapy
+      - Visits
+      - HomeCare
+      required: false
+    - id: 6
+      name: task_status
+      label: task_status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Pending
+      - Completed
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: task_performed
+      label: task_performed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

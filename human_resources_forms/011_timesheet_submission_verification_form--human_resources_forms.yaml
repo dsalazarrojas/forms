@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Timesheet Submission Verification Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: false

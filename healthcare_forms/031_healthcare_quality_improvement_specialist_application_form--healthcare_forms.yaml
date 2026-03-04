@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_quality_improvement_specialist_application_form
+    pages:
+    - id: 1
+      name: user_input
+      label: form_input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: qualifications
+      label: relevant_qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true

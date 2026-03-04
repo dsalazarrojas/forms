@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Celebration Guessing Poll
+    pages:
+    - id: 1
+      name: holiday_celebration_guessing_poll_form
+      label: holiday_celebration_guessing_poll_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one_holiday
+      label: select_one_holiday
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New Year''}'
+      - '{''id'': 2, ''label'': ''Halloween''}'
+      - '{''id'': 3, ''label'': ''Christmas''}'
+      - '{''id'': 4, ''label'': ''Fourth of July''}'
+      - '{''id'': 5, ''label'': ''Thanksgiving''}'
+      required: false
+    - id: 6
+      name: select_multiple_holidays
+      label: select_multiple_holidays
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''New Year''}'
+      - '{''id'': 2, ''label'': ''Halloween''}'
+      - '{''id'': 3, ''label'': ''Christmas''}'
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: integer_value
+      label: integer_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: decimal_value
+      label: decimal_value
+      hint: null
+      type: number
+      options: []
+      required: false

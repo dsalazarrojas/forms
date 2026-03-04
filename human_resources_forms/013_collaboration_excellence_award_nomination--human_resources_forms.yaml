@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Collaboration Excellence Award Nomination
+    pages:
+      - id: 1
+        name: nominator_name
+        label: Nominator Full Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: nominator_email
+        label: Nominator Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: nominator_department
+        label: Your Department
+        hint: Department name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: nominator_title
+        label: Your Job Title
+        hint: Your position
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: nomination_date
+        label: Nomination Date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: award_category
+        label: Award Category
+        hint: Type of nomination
+        type: select_one
+        options:
+          - Individual Excellence
+          - Team Excellence
+          - Cross-Departmental Collaboration
+          - Innovation in Collaboration
+          - Leadership in Collaboration
+          - Rising Star
+        required: true
+      - id: 7
+        name: nominee_type
+        label: Nominee Type
+        hint: Who are you nominating
+        type: select_one
+        options:
+          - Individual Employee
+          - Team
+          - Department
+          - Cross-Functional Group
+        required: true
+      - id: 8
+        name: nominee_name
+        label: Nominee Full Name
+        hint: Name of person being nominated
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: nominee_email
+        label: Nominee Email
+        hint: Email of nominee
+        type: email
+        options: []
+        required: false
+      - id: 10
+        name: nominee_department
+        label: Nominee Department
+        hint: Department of nominee
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: nominee_title
+        label: Nominee Job Title
+        hint: Position of nominee
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: team_members
+        label: Team Members if Team Nomination
+        hint: List all team members
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: years_of_service
+        label: Years of Service
+        hint: How long has nominee been with organization
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - 10-15 years
+          - Over 15 years
+        required: true
+      - id: 14
+        name: project_name
+        label: Project or Initiative Name
+        hint: Specific project demonstrating collaboration
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: project_description
+        label: Project Description
+        hint: Describe the project
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: collaboration_example
+        label: Example of Outstanding Collaboration
+        hint: Describe specific collaborative actions
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: impact_description
+        label: Impact of Collaboration
+        hint: What was the result
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: challenges_overcome
+        label: Challenges Overcome Through Collaboration
+        hint: What obstacles were faced
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: stakeholders_involved
+        label: Stakeholders or Departments Involved
+        hint: Who participated
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: collaboration_behaviors
+        label: Collaboration Behaviors Demonstrated
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Active Listening
+          - Knowledge Sharing
+          - Mutual Support
+          - Conflict Resolution
+          - Inclusive Decision Making
+          - Cross-Functional Communication
+          - Mentoring Others
+          - Building Trust
+          - Accountability
+          - Flexibility
+        required: true
+      - id: 21
+        name: measurable_outcomes
+        label: Measurable Outcomes Achieved
+        hint: Quantifiable results
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: business_impact
+        label: Business Impact
+        hint: How did this benefit the organization
+        type: select_multiple
+        options:
+          - Increased Revenue
+          - Cost Savings
+          - Improved Efficiency
+          - Enhanced Customer Satisfaction
+          - Better Employee Engagement
+          - Innovation
+          - Risk Reduction
+          - Quality Improvement
+          - Faster Time to Market
+          - Other
+        required: true
+      - id: 23
+        name: nomination_statement
+        label: Nomination Statement
+        hint: Why does this nominee deserve this award
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: supporting_documents
+        label: Supporting Documents Available
+        hint: Do you have additional materials
+        type: select_one
+        options:
+          - Yes Will Submit Separately
+          - Yes Attached
+          - No
+        required: true
+      - id: 25
+        name: previous_nominations
+        label: Has Nominee Been Nominated Before
+        hint: Previous award nominations
+        type: select_one
+        options:
+          - Yes This Year
+          - Yes Previous Years
+          - No
+          - Not Sure
+        required: false
+      - id: 26
+        name: witness_statements
+        label: Additional Witness Statements
+        hint: Others who can support this nomination
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: nominator_relationship
+        label: Your Relationship to Nominee
+        hint: How do you know the nominee
+        type: select_one
+        options:
+          - Direct Supervisor
+          - Peer
+          - Direct Report
+          - Cross-Functional Partner
+          - Client or Customer
+          - Other
+        required: true
+      - id: 28
+        name: confidentiality_preference
+        label: Should Nominee Know About This Nomination
+        hint: Confidentiality preference
+        type: select_one
+        options:
+          - Yes Tell Them
+          - No Keep Confidential
+          - Nominee Already Knows
+        required: true
+      - id: 29
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

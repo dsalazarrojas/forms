@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Worker Intake Survey
+    pages:
+    - id: 1
+      name: home_care_worker_intake_survey_page_1
+      label: Home Care Worker Intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: caregiver_info
+      label: Caregiver Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_contact
+      label: Date of Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_contact
+      label: Time of Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 8
+      name: agency_contact_name
+      label: Agency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agency_contact_number
+      label: Agency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: caregiver_signature
+      label: Caregiver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: caregiver_signature_image
+      label: Caregiver Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agency_signature
+      label: Agency Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agency_signature_image
+      label: Agency Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_tasks
+      label: Follow-up Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_follow_up_time
+      label: Next Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: next_follow_up_method
+      label: Next Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 19
+      name: next_follow_up_contact
+      label: Next Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_follow_up_location
+      label: Next Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_follow_up_tasks
+      label: Next Follow-up Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: completed_follow_ups
+      label: Completed Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

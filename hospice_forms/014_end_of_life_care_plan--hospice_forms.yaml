@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Life Care Plan
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_provisions
+      label: Medical Provisions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: advance_directives
+      label: Advance Directives
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: care_team
+      label: Care Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: care_facility
+      label: Care Facility
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: end_of_life_care_plan
+      label: End Of Life Care Plan
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: family_info
+      label: Family Info
+      hint: null
+      type: text
+      options: []
+      required: false

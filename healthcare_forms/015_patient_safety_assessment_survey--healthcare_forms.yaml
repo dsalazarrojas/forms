@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Safety Assessment Survey
+    pages:
+    - id: 1
+      name: patient_safety_survey
+      label: Patient Safety Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_setting
+      label: Healthcare Setting
+      hint: Where were you in during the incident?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: date_of_incident
+      label: Date of Incident
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_incident
+      label: Time of Incident
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: incident_description
+      label: Incident Description
+      hint: Describe what happened.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false

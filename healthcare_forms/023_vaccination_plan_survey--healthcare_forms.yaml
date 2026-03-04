@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Plan Survey
+    pages:
+    - id: 1
+      name: vaccination_plan_survey
+      label: Vaccination Plan Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Vaccinated
+      - Not Vaccinated
+      required: false
+    - id: 4
+      name: vaccine_dose
+      label: Vaccine Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vaccination_time
+      label: Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Covid-19
+      - Diabetes
+      - Heart condition
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vaccination_side_effects
+      label: Vaccination Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false

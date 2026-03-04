@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Screening Form For Patients
+    pages:
+    - id: 1
+      name: patient_name_full
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob_val
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: screening_date_val
+      label: Date of Screening
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: temp_recorded_val
+      label: Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: symptoms_check_list
+      label: Are you currently experiencing any of the following?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Loss of taste/smell
+      - Sore throat
+      - Fatigue
+      required: true
+    - id: 6
+      name: recent_pos_test_yn
+      label: Have you had a positive COVID-19 test in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: recent_exposure_yn
+      label: Have you had close contact with a confirmed COVID-19 case in 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: household_exposure_yn
+      label: Is anyone in your household currently positive or awaiting test results?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: travel_14d_yn
+      label: Have you traveled outside the region in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: patient_sig_text
+      label: Patient Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: telehealth_consent_yn
+      label: I consent to telehealth consultation if deemed necessary
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I consent
+      required: true
+    - id: 12
+      name: patient_screening_cert
+      label: I certify the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

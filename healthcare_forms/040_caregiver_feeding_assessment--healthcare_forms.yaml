@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Feeding Assessment
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_name
+      label: Child's Name
+      hint: Full name of child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_age
+      label: Child's Age
+      hint: Years and months
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: healthcare_provider
+      label: Healthcare Provider or Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_assessment
+      label: Reason for Feeding Assessment
+      hint: Why is this assessment being done?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: feeding_concerns
+      label: Primary Feeding Concerns
+      hint: What are your main concerns?
+      type: select_multiple
+      options:
+      - Difficulty swallowing or choking
+      - Refuses to eat or poor appetite
+      - Selective eating or limited foods
+      - Difficulty chewing
+      - Drooling or dribbling
+      - Food aversion
+      - Weight gain or growth concerns
+      - Allergies or sensitivities
+      - Gastrointestinal issues
+      - Behavioral feeding problems
+      required: true
+    - id: 9
+      name: feeding_history
+      label: Feeding History
+      hint: Describe child's feeding background
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_diet
+      label: Current Diet and Foods Consumed
+      hint: What does child currently eat?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: bottle_formula
+      label: Bottle Feeding and Formula (if applicable)
+      hint: Type and amount of formula
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: breast_feeding
+      label: Breastfeeding Status (if applicable)
+      hint: Current breastfeeding situation
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: food_preferences
+      label: Food Preferences and Favorites
+      hint: Foods child enjoys
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: food_dislikes
+      label: Food Dislikes or Refused Foods
+      hint: Foods child rejects
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: texture_preferences
+      label: Texture Preferences
+      hint: Smooth, chunky, crunchy, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feeding_utensils
+      label: Feeding Utensils and Independence
+      hint: How does child eat? Self-feeding abilities?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meals_per_day
+      label: Number of Meals and Snacks Per Day
+      hint: How often does child eat?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: feeding_time
+      label: Typical Feeding Time Duration
+      hint: How long does meal take?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: feeding_environment
+      label: Typical Feeding Environment
+      hint: Where and how is child fed?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: behavior_during_meals
+      label: Child's Behavior During Meals
+      hint: Mood, cooperation, attention span
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: gagging_choking
+      label: Gagging, Coughing, or Choking Episodes
+      hint: Frequency and circumstances
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergies_sensitivities
+      label: Known Food Allergies or Sensitivities
+      hint: List all known allergies
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Special Diets
+      hint: Religious, medical, preference-based
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: current_appetite
+      label: Current Appetite Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent - eats well and enthusiastically
+      - Good - adequate appetite
+      - Fair - inconsistent appetite
+      - Poor - minimal appetite
+      - Refuses food
+      required: true
+    - id: 25
+      name: recent_appetite_changes
+      label: Recent Changes in Appetite
+      hint: Has appetite changed recently?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: digestion_concerns
+      label: Digestion or Gastrointestinal Concerns
+      hint: Constipation, diarrhea, reflux, etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: weight_growth
+      label: Weight and Growth Concerns
+      hint: Any concerns about growth or weight?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: developmental_delays
+      label: Any Developmental Delays or Special Needs?
+      hint: Related to feeding or general development
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: medical_conditions
+      label: Medical Conditions Affecting Feeding
+      hint: Cleft palate, reflux, sensory issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: medications
+      label: Current Medications
+      hint: Any medications affecting feeding?
+      type: text
+      options: []
+      required: false

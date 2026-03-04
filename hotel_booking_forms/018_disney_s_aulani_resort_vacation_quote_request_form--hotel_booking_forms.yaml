@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disney’s Aulani Resort Vacation Quote Request Form
+    pages:
+    - id: 1
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: checkin_check_out_dates
+      label: Check In Check Out Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: guest_type
+      label: Guest Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: guests
+      label: Guests
+      hint: How many people in your group
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_agency_address
+      label: Travel Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agent_notes
+      label: Travel Agent Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_agent_authorized
+      label: Travel Agent Authorized
+      hint: null
+      type: select_one
+      options:
+      - Authorized
+      - Unauthorized
+      required: false
+    - id: 13
+      name: travel_agency_notes
+      label: Travel Agency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quote_request
+      label: Quote Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

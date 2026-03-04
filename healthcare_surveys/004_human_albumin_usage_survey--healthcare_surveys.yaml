@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Albumin Usage Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cardiology''}'
+      - '{''id'': 2, ''label'': ''Dermatology''}'
+      - '{''id'': 3, ''label'': ''Emergency Medicine''}'
+      - '{''id'': 4, ''label'': ''General Medicine''}'
+      - '{''id'': 5, ''label'': ''Neurology''}'
+      - '{''id'': 6, ''label'': ''Oncology''}'
+      - '{''id'': 7, ''label'': ''Radiology''}'
+      - '{''id'': 8, ''label'': ''Surgery''}'
+      - '{''id'': 9, ''label'': ''Urology''}'
+      required: true
+    - id: 3
+      name: albumin_use
+      label: Albumin Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''label'': ''Rarely''}'
+      required: true
+    - id: 5
+      name: department_staff
+      label: Department Staff
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cardiology''}'
+      - '{''id'': 2, ''label'': ''Dermatology''}'
+      - '{''id'': 3, ''label'': ''Emergency Medicine''}'
+      - '{''id'': 4, ''label'': ''General Medicine''}'
+      - '{''id'': 5, ''label'': ''Neurology''}'
+      - '{''id'': 6, ''label'': ''Oncology''}'
+      - '{''id'': 7, ''label'': ''Radiology''}'
+      - '{''id'': 8, ''label'': ''Surgery''}'
+      - '{''id'': 9, ''label'': ''Urology''}'
+      required: true
+    - id: 6
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

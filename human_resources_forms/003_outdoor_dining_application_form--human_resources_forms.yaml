@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Dining Application Form
+    pages:
+    - id: 1
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: form_of_payment
+      label: Form of Payment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cash''}'
+      - '{''value'': ''Check''}'
+      - '{''value'': ''Credit Card''}'
+      required: false
+    - id: 4
+      name: establishment_name
+      label: Establishment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: establishment_address
+      label: Establishment Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: completed_by_who
+      label: Completed By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Assistant''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: outdoor_dining_details
+      label: Outdoor Dining Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submitter_name
+      label: Form Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submitter_title
+      label: Form Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitter_department
+      label: Form Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false

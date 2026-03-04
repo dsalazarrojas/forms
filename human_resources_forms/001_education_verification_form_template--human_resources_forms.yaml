@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Verification Form Template
+    pages:
+    - id: 1
+      name: form_title
+      label: Education Verification Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: A Education Verification Form is used by employers to verify education
+        details for potential employees.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: employer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_school
+      label: School
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: employee_degree
+      label: Degree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: employee_grad_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employee_grad_month
+      label: Graduation Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 13
+      name: employee_grad_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: employee_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: employee_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Community Outreach Perception Survey
+    pages:
+    - id: 1
+      name: community_outreach_page
+      label: community_outreach
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: services_page
+      label: services_used
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: service_satisfaction_page
+      label: service_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_satisfaction_page
+      label: question4
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_page
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_page
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: survey_page
+      label: how_did_you_hear
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 9
+      name: how_did_you_hear_page
+      label: question9
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: demographic_page
+      label: demographic
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: demographic_page
+      label: question11
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: demographic_page
+      label: question12
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: demographic_page
+      label: question13
+      hint: null
+      type: text
+      options: []
+      required: false

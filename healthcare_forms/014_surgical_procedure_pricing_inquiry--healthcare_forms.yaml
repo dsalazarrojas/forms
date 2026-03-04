@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Procedure Pricing Inquiry
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surgery_type
+      label: Surgery Type
+      hint: null
+      type: select_one
+      options:
+      - Cardiac
+      - Dermatologic
+      - Gastrointestinal
+      - Neurosurgery
+      - Obstetrics And Gynecology
+      - Ophthalmic
+      - Plastics
+      - Thoracic
+      - Urology
+      required: false
+    - id: 3
+      name: procedure_name
+      label: Procedure Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: procedure_duration
+      label: Procedure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: surgeon_fee
+      label: Surgeon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: anesthetist_fee
+      label: Anesthetist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_fee
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assistant_fee
+      label: Assistant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_fee
+      label: Total Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

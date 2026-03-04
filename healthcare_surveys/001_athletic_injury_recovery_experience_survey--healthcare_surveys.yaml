@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Injury Recovery Experience Survey
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_sport
+      label: Primary Sport
+      hint: Which sport were you playing when the injury occurred?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_injury
+      label: -- Injury Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: injury_type
+      label: Type of Injury
+      hint: e.g., Sprain, Fracture, ACL Tear
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: injury_date
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: recovery_methods
+      label: Recovery Methods Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical Therapy
+      - Surgery
+      - Rest and Ice
+      - Chiropractic Care
+      - Massage Therapy
+      - Medication
+      required: true
+    - id: 9
+      name: treatment_professional
+      label: Primary Treatment Professional
+      hint: null
+      type: select_one
+      options:
+      - Sports Physician
+      - Physical Therapist
+      - Surgeon
+      - General Practitioner
+      - Trainer
+      required: true
+    - id: 10
+      name: section_experience
+      label: -- Recovery Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recovery_duration_weeks
+      label: Recovery Duration (in weeks)
+      hint: Total time until returned to sport
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: treatment_satisfaction
+      label: Satisfaction with Treatment
+      hint: 1 is very dissatisfied, 5 is very satisfied
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 13
+      name: pain_level_initial
+      label: Initial Pain Level (1-10)
+      hint: Pain level at time of injury
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pain_level_current
+      label: Current Pain Level (1-10)
+      hint: Pain level after recovery process
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_feedback
+      label: Additional Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

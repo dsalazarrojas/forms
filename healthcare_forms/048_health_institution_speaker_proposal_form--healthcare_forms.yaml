@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_institution_speaker_proposal_form
+    pages:
+    - id: 1
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: speaker_name
+      label: speaker_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_title
+      label: speaker_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bio
+      label: bio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: speaker_experience
+      label: speaker_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: speaker_qualification
+      label: speaker_qualification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: proposed_event
+      label: proposed_event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposed_date
+      label: proposed_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: proposed_time
+      label: proposed_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_message
+      label: contact_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: proposed_location
+      label: proposed_location
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B_goals
+      - Option C
+      required: true
+    - id: 14
+      name: proposed_duration
+      label: proposed_duration
+      hint: null
+      type: select_multiple
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      - 1 hour and 15 minutes
+      - 2 hours
+      - 3 hours
+      required: true
+    - id: 15
+      name: additional_requirements
+      label: additional_requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: file_uploads
+      label: files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save as Draft
+      required: true

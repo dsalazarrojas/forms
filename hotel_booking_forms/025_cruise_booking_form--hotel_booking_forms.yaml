@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise_Booking_Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 123, ''label'': ''John Doe''}'
+      - '{''value'': 456, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 3
+      name: ship_info
+      label: Ship Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cabin_info
+      label: Cabin Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Credit Card''}'
+      - '{''value'': 2, ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false

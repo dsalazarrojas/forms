@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_health_questionnaire_phq9
+    pages:
+    - id: 1
+      name: patient_health
+      label: patient_health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_history
+      label: social_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: general_health
+      label: general_health
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Depression
+      - Psychiatric Disorders
+      required: true
+    - id: 4
+      name: psychological_health
+      label: psychological_health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_support
+      label: social_support
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Healthcare provider
+      required: false
+    - id: 7
+      name: mental_health
+      label: mental_health
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: alcohol_history
+      label: alcohol_history
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: substance_history
+      label: substance_history
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: physical_activity
+      label: physical_activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sleep_history
+      label: sleep_history
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 12
+      name: diet_history
+      label: diet_history
+      hint: null
+      type: select_multiple
+      options:
+      - Fruits
+      - Vegetables
+      - Protein-rich foods
+      required: false
+    - id: 13
+      name: medication_history
+      label: medication_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pain_history
+      label: pain_history
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false

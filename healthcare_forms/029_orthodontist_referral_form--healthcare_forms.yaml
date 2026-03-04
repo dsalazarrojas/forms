@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orthodontist Referral Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referring_provider
+      label: Referring Provider
+      hint: null
+      type: select_one
+      options:
+      - Dr Smith
+      - Dr John
+      - Dr. Jane
+      required: true
+    - id: 8
+      name: patient_medical_record
+      label: Medical Record
+      hint: null
+      type: select_multiple
+      options:
+      - Existing
+      - Non-Existing
+      required: true
+    - id: 9
+      name: patient_referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: referring_facility
+      label: Referring Facility
+      hint: null
+      type: select_one
+      options:
+      - Facility 1
+      - Facility 2
+      required: true
+    - id: 12
+      name: patient_referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_history_other
+      label: Medical History Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_referral_note
+      label: Referral Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: patient_follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_referral_date_follow_up
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_referral_time_follow_up
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: patient_referral_facility
+      label: Referral Facility
+      hint: null
+      type: select_one
+      options:
+      - Facility 1
+      - Facility 2
+      required: true
+    - id: 23
+      name: patient_referral_doctor
+      label: Referral Doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr Smith
+      - Dr John
+      required: false
+    - id: 24
+      name: patient_referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: patient_referral_notes
+      label: Referral Notes
+      hint: null
+      type: note
+      options: []
+      required: false

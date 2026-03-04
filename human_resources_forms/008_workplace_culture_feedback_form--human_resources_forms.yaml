@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Culture Feedback Form
+    pages:
+    - id: 1
+      name: employee_satisfaction
+      label: Employee satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: engagement_level
+      label: Engagement level
+      hint: How do you feel about your job?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 3
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_life_balance
+      label: Work life balance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: communication_channels
+      label: Communication channels
+      hint: How do you typically communicate with your team and manager?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: Feedback frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: What would you suggest to improve our workplace culture?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

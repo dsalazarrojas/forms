@@ -1,0 +1,308 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Customer Consent Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: visit_date
+      label: Visit Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: visit_purpose
+      label: Purpose of Visit
+      hint: Why are you here
+      type: select_one
+      options:
+      - Medical appointment
+      - COVID-19 testing
+      - Vaccination
+      - Pharmacy
+      - Visitor
+      - Other
+      required: true
+    - id: 11
+      name: health_screening
+      label: Health Screening
+      hint: COVID-19 symptoms
+      type: select_one
+      options:
+      - No symptoms present
+      - Symptoms present - disclosed
+      - Prefer not to answer
+      required: true
+    - id: 12
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select if any
+      type: select_multiple
+      options:
+      - None
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      required: true
+    - id: 13
+      name: known_exposure
+      label: Known COVID-19 Exposure
+      hint: In past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: recent_positive_test
+      label: Recent Positive Test
+      hint: In past 10 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand COVID-19 risks
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 17
+      name: safety_protocols
+      label: Safety Protocols Agreement
+      hint: Mask distancing hygiene
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 18
+      name: mask_requirement
+      label: Mask Requirement
+      hint: I will wear a mask
+      type: select_one
+      options:
+      - Yes I Agree
+      - No - Medical exemption
+      - false
+      required: true
+    - id: 19
+      name: social_distancing
+      label: Social Distancing
+      hint: I will maintain 6 feet
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 20
+      name: hand_hygiene
+      label: Hand Hygiene
+      hint: I will sanitize hands
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 21
+      name: visitor_limit
+      label: Visitor Limit
+      hint: Limited companions allowed
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 22
+      name: capacity_limitations
+      label: Capacity Limitations
+      hint: Services may be delayed
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 23
+      name: liability_release
+      label: Liability Release
+      hint: Release facility from claims
+      type: select_one
+      options:
+      - Yes I Release
+      - false
+      required: true
+    - id: 24
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I assume all risks
+      type: select_one
+      options:
+      - Yes I Assume
+      - false
+      required: true
+    - id: 25
+      name: contact_tracing
+      label: Contact Tracing Consent
+      hint: Information may be used
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 26
+      name: information_sharing
+      label: Information Sharing
+      hint: Share with health authorities
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 27
+      name: policy_changes
+      label: Policy Changes
+      hint: Rules may change
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 28
+      name: symptom_reporting
+      label: Symptom Reporting
+      hint: I will report if symptoms develop
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 29
+      name: minor_customer
+      label: Is Customer a Minor
+      hint: Under 18 years
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If minor
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: customer_signature
+      label: Customer Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: witness_name
+      label: Witness Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

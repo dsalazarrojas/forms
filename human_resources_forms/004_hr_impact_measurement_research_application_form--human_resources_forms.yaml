@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr-impact-measurement-research-application-form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: research_proposal
+      label: Research Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_docs
+      label: Supporting Docs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Resume''}'
+      - '{''value'': ''Letter of Recommendation''}'
+      - '{''value'': ''Other (please provide details)''}'
+      required: true
+    - id: 6
+      name: impact_details
+      label: Impact Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Financial''}'
+      - '{''value'': ''HR metrics''}'
+      - '{''value'': ''Other (please provide details)''}'
+      required: true
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: funding_status
+      label: Funding Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fully Funded''}'
+      - '{''value'': ''Partially Funded''}'
+      - '{''value'': ''Not Funded''}'
+      required: true
+    - id: 12
+      name: funding_source
+      label: Funding Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Government''}'
+      - '{''value'': ''Private''}'
+      - '{''value'': ''Other (please provide details)''}'
+      required: true
+    - id: 13
+      name: funding_amount
+      label: Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: research_methodology
+      label: Research Methodology
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: research_outcomes
+      label: Research Outcomes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: research_conclusions
+      label: Research Conclusions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_contacts
+      label: Project Contacts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: research_justification
+      label: Research Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: supporting_docs
+      label: Supporting Docs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Resume''}'
+      - '{''value'': ''Letter of Recommendation''}'
+      - '{''value'': ''Other (please provide details)''}'
+      required: true
+    - id: 20
+      name: impact_assessment
+      label: Impact Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: impact_assessment_ratio
+      label: Impact Assessment Ratio
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: impact_assessment_status
+      label: Impact Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Ongoing''}'
+      - '{''value'': ''Not Started''}'
+      required: true
+    - id: 23
+      name: impact_assessment_date
+      label: Impact Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: impact_assessment_duration
+      label: Impact Assessment Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: impact_assessment_funding
+      label: Impact Assessment Funding
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fully Funded''}'
+      - '{''value'': ''Partially Funded''}'
+      - '{''value'': ''Not Funded''}'
+      required: true
+    - id: 26
+      name: impact_assessment_notes
+      label: Impact Assessment Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Ongoing''}'
+      - '{''value'': ''Not Started''}'
+      required: true

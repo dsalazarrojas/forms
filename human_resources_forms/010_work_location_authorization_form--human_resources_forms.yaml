@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Location Authorization Form
+    pages:
+    - id: 1
+      name: work_location_request
+      label: Work Location Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: team_lead_approvals
+      label: Team Lead Approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: work_location
+      label: Work Location
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: team_lead_signature
+      label: Team Lead Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: work_days
+      label: Work Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: work_location_id
+      label: Work Location ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: employee_job_title
+      label: Employee Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: employee_manager
+      label: Employee Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

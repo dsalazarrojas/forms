@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: NonProfit Donation Consent Template
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 4
+      name: causes
+      label: Causes
+      hint: null
+      type: select_multiple
+      options:
+      - Cancer
+      - Diabetes
+      - Heart Disease
+      - Other
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 6
+      name: donor_info
+      label: Donor Info
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Address
+      - Email
+      - Phone
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

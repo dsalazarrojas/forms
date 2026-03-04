@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: cooperative_leadership_skills_assessment
+    pages:
+    - id: 1
+      name: team_leader_skills
+      label: Team Leader Skills
+      hint: null
+      type: select_one
+      options:
+      - Leader Development
+      - Team Collaboration
+      - Conflict Resolution
+      - Adaptability
+      - Communication
+      - Strategic Planning
+      required: false
+    - id: 2
+      name: self_leadership_skills
+      label: Self Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Emotional Intelligence
+      - Empathy
+      - Adaptability
+      - Self-Awareness
+      - Resilience
+      required: false
+    - id: 3
+      name: collaboration_skills
+      label: Collaboration Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conflict_resolution_skills
+      label: Conflict Resolution Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: leadership_capability_scale
+      label: Leadership Capability Scale
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: team_capacity
+      label: Team Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_capacity_assessment
+      label: Team Capacity Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_capacity_important
+      label: Team Capacity is Important
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Neutral
+      - Not Very Important
+      - Not At All Important
+      required: false
+    - id: 10
+      name: team_capacity_impact
+      label: Team Capacity is Important
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: leadership_capability_scale_assessment
+      label: Leadership Capability Scale Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assessment_notes
+      label: Assessment Notes
+      hint: Additional comments or observations about this assessment
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assessment_results
+      label: Assessment Results
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

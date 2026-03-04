@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Health Policy Awareness Survey
+    pages:
+    - id: 1
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_role
+      label: Current Role or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_awareness_level
+      label: Awareness of Current Animal Health Policies
+      hint: null
+      type: select_one
+      options:
+      - Very Aware
+      - Somewhat Aware
+      - Neutral
+      - Not Aware
+      required: true
+    - id: 4
+      name: training_status
+      label: Have you received policy training in the last 12 months?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 5
+      name: accessibility_rating
+      label: Ease of Accessing Policy Documents
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 6
+      name: quarantine_clarity
+      label: Clarity of Quarantine Procedures
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      required: true
+    - id: 7
+      name: compliance_challenges
+      label: Major Challenges in Policy Compliance
+      hint: Describe any barriers you face
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_suggestions
+      label: Suggestions for Policy Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: update_frequency_preference
+      label: Preferred Frequency of Policy Updates
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      - Only as needed
+      required: false

@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thyroid Health Feedback Form
+    pages:
+    - id: 1
+      name: thyroid_health_form
+      label: thyroid_health_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: thyroid_health_clinics
+      label: thyroid_health_clinics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: thyroid_health_symptoms
+      label: thyroid_health_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: thyroid_health_tests
+      label: thyroid_health_tests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: thyroid_health_diagnoses
+      label: thyroid_health_diagnoses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: thyroid_health_medication
+      label: thyroid_health_medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: thyroid_health_treatment_plan
+      label: thyroid_health_treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_scheduled
+      label: follow_up_scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_completed
+      label: follow_up_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: thyroid_health_rating
+      label: thyroid_health_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 16
+      name: thyroid_health_comments
+      label: thyroid_health_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: thyroid_health_additional_comments
+      label: thyroid_health_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

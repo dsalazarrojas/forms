@@ -1,0 +1,52 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Meal Break Acknowledgment
+    pages:
+    - id: 1
+      name: employee_meal_break_acknowledgment_form_1_1
+      label: Are you aware of the meal break policy?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 2
+      name: employee_meal_break_acknowledgment_form_1_2
+      label: Have you read the employee handbook?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: employee_meal_break_acknowledgment_form_1_3
+      label: Are you aware of any meal break rules?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: employee_meal_break_acknowledgment_form_2_1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

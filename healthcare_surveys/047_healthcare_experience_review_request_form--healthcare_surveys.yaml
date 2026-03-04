@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_experience_review_request_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_satisfaction
+      label: Rating Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 9
+      name: rating_comfort
+      label: Rating Comfort
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 10
+      name: rating_care
+      label: Rating Care
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 11
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: doctor_id
+      label: Doctor ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: hospital_id
+      label: Hospital ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: clinic_id
+      label: Clinic ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department_id
+      label: Department ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - Immunology
+      - Infectious Diseases
+      - Neurology
+      - Oncology
+      - Pulmonology
+      - Rheumatology
+      - Urology
+      required: false
+    - id: 19
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: select_one
+      options:
+      - Dr.
+      - Mrs.
+      - Ms.
+      - Prof.
+      - Ph.D
+      required: false
+    - id: 20
+      name: doctor_department
+      label: Doctor Department
+      hint: null
+      type: select_one
+      options:
+      - Cardio
+      - Dermatology
+      - Endo
+      - Gastro
+      - Immunology
+      - Infectious Diseases
+      - Neurology
+      - Oncology
+      - Pulmonology
+      - Rheumatology
+      - Urology
+      required: false
+    - id: 21
+      name: doctor_license
+      label: Doctor License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: doctor_certification
+      label: Doctor Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Board Certified
+      - Non-Board Certified
+      - Fellow
+      - Resident
+      - Intern
+      required: false
+    - id: 23
+      name: doctor_languages
+      label: Doctor Languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Arabic
+      - Chinese
+      - Portuguese
+      - Russian
+      - German
+      - Korean
+      - Japanese
+      required: false
+    - id: 24
+      name: doctor_languages_other
+      label: Other Languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Yet Completed
+      - In Progress
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: TTC Contact Tracing Form Card
+    pages:
+    - id: 1
+      name: contact_tracing_form_card
+      label: Contact Tracing Form Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exposed_contact
+      label: Exposed Contact
+      hint: Exposure date
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exposure_location
+      label: Exposure Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exposure_date_range
+      label: Exposure Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: exposure_duration
+      label: Exposure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exposure_symptoms
+      label: Exposure Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false

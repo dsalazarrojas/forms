@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Learning Specialist Interview Form
+    pages:
+    - id: 1
+      name: e_learning_specialist_interview_form
+      label: eLearningSpecialistInterviewForm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: JobDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: e_learning_courses
+      label: ElearningCourses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: candidate_name
+      label: CandidateName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: ContactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: ContactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: e_learning_expertise
+      label: ElearningExpertise
+      hint: null
+      type: text
+      options: []
+      required: false

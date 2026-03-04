@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Daily Report Form
+    pages:
+    - id: 1
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 2
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: shift_details
+      label: Shift Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: important_situations
+      label: Important Situations
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 6
+      name: activity_summary
+      label: Activity Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: situation_1
+      label: Situation 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: situation_2
+      label: Situation 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: situation_3
+      label: Situation 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: situation_4
+      label: Situation 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: situation_5
+      label: Situation 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: situation_6
+      label: Situation 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: situation_7
+      label: Situation 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: situation_8
+      label: Situation 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: start_time_hours
+      label: Start Time Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: start_time_minutes
+      label: Start Time Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: end_time_hours
+      label: End Time Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: end_time_minutes
+      label: End Time Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: start_time_24
+      label: Start Time 24
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: end_time_24
+      label: End Time 24
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: situation_9
+      label: Situation 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: situation_10
+      label: Situation 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: situation_11
+      label: Situation 11
+      hint: null
+      type: text
+      options: []
+      required: false

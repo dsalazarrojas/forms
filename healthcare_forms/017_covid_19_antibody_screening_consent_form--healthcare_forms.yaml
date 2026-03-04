@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Antibody Screening Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number if available
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_date
+      label: Date of COVID-19 Antibody Test
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: test_type
+      label: Type of Antibody Test
+      hint: null
+      type: select_one
+      options:
+      - IgG Antibody Test
+      - IgM Antibody Test
+      - IgG and IgM Combined
+      - Not Sure
+      required: true
+    - id: 8
+      name: informed_consent_understanding
+      label: I understand the purpose and procedure of the COVID-19 antibody test
+      hint: Acknowledge your understanding
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - I have questions
+      required: true
+    - id: 9
+      name: test_risks_benefits
+      label: I understand the risks and benefits of this test
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully understand
+      - Partially understand
+      - Do not understand
+      required: true
+    - id: 10
+      name: false_positives_negatives
+      label: I understand test results can be false positive or false negative
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 11
+      name: sample_collection
+      label: I consent to blood sample collection for this test
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Need more information
+      required: true
+    - id: 12
+      name: sample_storage
+      label: I understand my sample may be stored for future testing or research
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Not sure
+      required: false
+    - id: 13
+      name: result_notification
+      label: I understand how and when I will receive my test results
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 14
+      name: positive_result_implications
+      label: I understand implications of a positive antibody result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 15
+      name: privacy_hipaa
+      label: I understand my health information will be kept confidential per HIPAA
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 16
+      name: voluntary_participation
+      label: I understand my participation is voluntary and I can withdraw anytime
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 17
+      name: alternative_declined
+      label: I have been informed of alternative testing options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 18
+      name: questions_answered
+      label: All my questions have been answered to my satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 19
+      name: formal_consent
+      label: I voluntarily consent to the COVID-19 antibody screening test
+      hint: By checking this box, you are giving your informed consent
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 20
+      name: consent_signature_date
+      label: Consent Date
+      hint: Date you are providing this consent
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Name of person obtaining consent
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: provider_title
+      label: Healthcare Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false

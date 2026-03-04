@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: hiring_procedure_checklist
+    pages:
+    - id: 1
+      name: new_hiring_request
+      label: New Hiring Request
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      - Unknown
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - Management
+      - Sales
+      - Marketing
+      - Operations
+      - IT
+      required: false
+    - id: 5
+      name: job_location
+      label: job_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_level
+      label: job_level
+      hint: null
+      type: select_one
+      options:
+      - Entry
+      - Manager
+      - Director
+      required: false
+    - id: 7
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: false
+    - id: 9
+      name: job_priority
+      label: job_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: job_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: job_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false

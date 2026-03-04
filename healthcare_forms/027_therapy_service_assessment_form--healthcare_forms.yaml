@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Service Assessment Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_concerns
+      label: Client Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: available_days
+      label: Available Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: available_time
+      label: Available Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

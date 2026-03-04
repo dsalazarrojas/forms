@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Program Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: program_evaluation_header
+      label: -- Care Coordination Program Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_name_title
+      label: Care Coordination Program Name
+      hint: Enter the title of the program being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_assessor_name
+      label: Evaluator/Assessor Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_period_dates
+      label: Evaluation Period
+      hint: e.g., FY 2024 or Q1-Q3 2025
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_metrics_header
+      label: -- Program Enrollment & Clinical Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_patients_enrolled_count
+      label: Total Patients Enrolled
+      hint: Total number of active patients during period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: readmission_rate_change_percent
+      label: Readmission Rate Change (%)
+      hint: Percentage change compared to baseline
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: outcome_measures_header
+      label: -- Outcome & Quality Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: average_patient_satisfaction_score
+      label: Average Patient Satisfaction Score
+      hint: Rate from 1 to 5 (5 is Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: staff_collaboration_rating_score
+      label: Staff Collaboration Rating
+      hint: How well did the care team communicate? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: resource_utilization_efficiency_rating
+      label: Resource Utilization Efficiency
+      hint: How effectively were program resources used? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: program_performance_header
+      label: -- Successes, Barriers, and Future Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: barrier_identification_challenges
+      label: Identified Program Barriers and Challenges
+      hint: What hindered program effectiveness?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: success_story_key_milestone
+      label: Key Milestone or Success Story
+      hint: Share a moment where the program succeeded
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: future_program_goals_objectives
+      label: Future Program Goals and Objectives
+      hint: What do you hope to achieve in the next period?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: evaluation_conclusion_notes
+      label: Evaluation Conclusion & Final Notes
+      hint: Summary of program effectiveness assessment
+      type: text
+      options: []
+      required: false

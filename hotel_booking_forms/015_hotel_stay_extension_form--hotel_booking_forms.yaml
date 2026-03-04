@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Stay Extension Form
+    pages:
+    - id: 1
+      name: request_extension
+      label: request_an_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: check_in_date
+      label: check_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: check_out_date
+      label: check_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_number
+      label: room_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: assign_to
+      label: assign_to
+      hint: null
+      type: select_one
+      options:
+      - Hotel Staff
+      - Reception
+      - Front Desk
+      - Housekeeping
+      - Management
+      required: false
+    - id: 10
+      name: assign_to_other
+      label: assign_to_other
+      hint: null
+      type: text
+      options: []
+      required: false

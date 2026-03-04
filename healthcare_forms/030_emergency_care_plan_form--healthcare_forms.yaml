@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Care Plan Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_medical_conditions
+      label: Patient Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''name'': ''primary-contact'', ''label'': ''Primary Contact'',
+        ''type'': ''text'', ''options'': []}'
+      - '{''id'': 12, ''name'': ''secondary-contact'', ''label'': ''Secondary Contact'',
+        ''type'': ''text'', ''options'': []}'
+      - '{''id'': 13, ''name'': ''doctor-name'', ''label'': "Doctor''s Name", ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 14, ''name'': ''doctor-phone'', ''label'': "Doctor''s Phone", ''type'':
+        ''phone'', ''options'': []}'
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''medications-1'', ''label'': ''None'', ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 22, ''name'': ''medications-2'', ''label'': ''Aspirin'', ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 23, ''name'': ''medications-3'', ''label'': ''Blood Pressure Medication'',
+        ''type'': ''text'', ''options'': []}'
+      - '{''id'': 24, ''name'': ''medications-4'', ''label'': ''Insuline'', ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 25, ''name'': ''medications-5'', ''label'': ''Oxygen'', ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 26, ''name'': ''medications-6'', ''label'': ''Other'', ''type'':
+        ''text'', ''options'': []}'
+      required: false

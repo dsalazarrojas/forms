@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsible Person Questionnaire
+    pages:
+    - id: 1
+      name: responsible_person_details
+      label: Responsible Person Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: responsible_person_name
+      label: responsible_person_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: responsible_person_email
+      label: responsible_person_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: responsible_person_phone_number
+      label: responsible_person_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: responsible_person_address
+      label: responsible_person_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: responsible_person_relationship
+      label: responsible_person_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: responsible_person_position
+      label: responsible_person_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: responsible_person_date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: responsible_person_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

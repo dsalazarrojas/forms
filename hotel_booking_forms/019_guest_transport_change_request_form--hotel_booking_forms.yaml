@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Guest Transport Change Request Form
+    pages:
+    - id: 1
+      name: guest_arrival_details
+      label: Guest Arrival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_transport_method
+      label: Guest Transport Method
+      hint: null
+      type: select_multiple
+      options:
+      - Taxi
+      - Bus
+      - Train
+      - Other
+      required: false
+    - id: 3
+      name: pick_up_time
+      label: Pick Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: drop_off_time
+      label: Drop Off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Day
+      - Evening
+      - Late Evening
+      - Early Morning
+      required: false
+    - id: 6
+      name: transport_type
+      label: Transport Type
+      hint: null
+      type: select_one
+      options:
+      - Self Drive
+      - Driver
+      - Airport Pick Up
+      required: false
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_confirmation
+      label: Guest Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: form_submitted_date
+      label: Date of Form Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted_time
+      label: Form Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

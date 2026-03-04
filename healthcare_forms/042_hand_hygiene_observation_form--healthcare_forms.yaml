@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: hand_hygiene_observation_form
+    pages:
+    - id: 1
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: observation_date
+      label: observation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: observation_time
+      label: observation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: observed_by
+      label: observed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: handwashing_count
+      label: handwashing_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hands_cleansed_with
+      label: hands_cleansed_with
+      hint: soap
+      type: select_one
+      options:
+      - handsoap
+      - hand sanitizer
+      - alcohol
+      - other
+      required: false
+    - id: 10
+      name: soap_location
+      label: soap_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: handwashing_method
+      label: handwashing_method
+      hint: null
+      type: select_one
+      options:
+      - handwashing
+      - handrub
+      - hand sanitizer
+      - other
+      required: true
+    - id: 12
+      name: handwashing_frequency
+      label: handwashing_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - never
+      - occasionally
+      - usually
+      - always
+      required: true
+    - id: 13
+      name: handwashing_hygiene
+      label: handwashing_hygiene
+      hint: null
+      type: select_multiple
+      options:
+      - very_good
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 14
+      name: handwashing_note
+      label: handwashing_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: handwashing_comment
+      label: handwashing_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: handwashing_recommendation
+      label: handwashing_recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: true
+    - id: 17
+      name: handwashing_recommendation_note
+      label: handwashing_recommendation_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hand_hygiene_training
+      label: hand_hygiene_training
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: true
+    - id: 19
+      name: hand_hygiene_training_note
+      label: hand_hygiene_training_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hand_hygiene_policy
+      label: hand_hygiene_policy
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: true
+    - id: 21
+      name: hand_hygiene_policy_note
+      label: hand_hygiene_policy_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hand_hygiene_supervisory_level
+      label: hand_hygiene_supervisory_level
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 23
+      name: hand_hygiene_supervisory_note
+      label: hand_hygiene_supervisory_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: hand_hygiene_supervisory_frequency
+      label: hand_hygiene_supervisory_frequency
+      hint: null
+      type: select_one
+      options:
+      - none
+      - daily
+      - weekly
+      - monthly
+      required: true
+    - id: 25
+      name: hand_hygiene_supervisory_note
+      label: hand_hygiene_supervisory_note
+      hint: null
+      type: text
+      options: []
+      required: false

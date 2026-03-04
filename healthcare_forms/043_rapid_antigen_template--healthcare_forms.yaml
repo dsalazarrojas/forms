@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rapid Antigen Template
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: antigen_type
+      label: antigen_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: job_number
+      label: job_number
+      hint: null
+      type: number
+      options: []
+      required: false

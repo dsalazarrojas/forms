@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: quarterly_qapi_meeting_feedback_form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meeting_facilitator
+      label: Meeting Facilitator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: meeting_purpose
+      label: Meeting Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_1
+      label: Feedback Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_question_2
+      label: Feedback Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_question_3
+      label: Feedback Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false

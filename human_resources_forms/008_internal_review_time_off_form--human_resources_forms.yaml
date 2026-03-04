@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Review Time-Off Form
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dates_offered_start
+      label: Date Start Offered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: dates_offered_end
+      label: Date End Offered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_medical_leave
+      label: Reason For Medical Leave
+      hint: Please provide a clear and detailed description of the medical leave reason
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_note
+      label: Doctor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - No Action
+      required: false
+    - id: 8
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_review_comments
+      label: Manager Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_review_comments
+      label: Employee Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_approved_date
+      label: Manager Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: manager_rejection_reason
+      label: Manager Rejection Reason
+      hint: null
+      type: text
+      options: []
+      required: true

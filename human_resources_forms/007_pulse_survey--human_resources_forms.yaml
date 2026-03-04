@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pulse Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Engineering
+      - Sales
+      - HR
+      - Operations
+      - Marketing
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: select_one
+      options:
+      - Pleasant
+      - Average
+      - Not Pleasant
+      required: false
+    - id: 7
+      name: open_time
+      label: Open Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: close_time
+      label: Close Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

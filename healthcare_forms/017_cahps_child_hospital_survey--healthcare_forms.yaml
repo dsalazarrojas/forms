@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Child Hospital Survey
+    pages:
+    - id: 1
+      name: hospital_survey_header
+      label: -- Child Hospital Patient Experience --
+      hint: Parents or guardians should complete this survey.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_patient_name
+      label: Child Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hospital_name_location
+      label: Name of Hospital and Unit (e.g., PICU)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nurse_communication_parent
+      label: How often did nurses explain things about your child’s care in a way
+        you could understand?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 5
+      name: doctor_communication_child
+      label: How often did doctors treat your child with courtesy and respect?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 6
+      name: child_comfort_management
+      label: Did the hospital staff do everything they could to help your child feel
+        comfortable?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - false
+      required: true
+    - id: 7
+      name: parent_involvement_decision
+      label: Were you involved as much as you wanted in decisions about your child’s
+        care?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - false
+      required: true
+    - id: 8
+      name: medicine_info_clarity
+      label: Before giving your child a new medicine, did staff tell you what it was
+        for and its side effects?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - false
+      required: true
+    - id: 9
+      name: night_quiet_rating
+      label: How often was the area around your child’s room quiet at night?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 10
+      name: bathroom_cleanliness_rating
+      label: How often were the bathroom and child’s room kept clean?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 11
+      name: discharge_symptoms_info
+      label: Did you get information in writing about what health problems to look
+        for after your child left the hospital?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: overall_hospital_rating_child
+      label: Overall rating of this hospital for your child’s care
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 13
+      name: recommendation_status_hospital
+      label: Would you recommend this hospital to friends and family?
+      hint: null
+      type: select_one
+      options:
+      - Definitely No
+      - Probably No
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 14
+      name: length_of_stay
+      label: Number of nights your child stayed in the hospital
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: parent_feedback_text
+      label: Please share any other comments about your child’s stay
+      hint: null
+      type: text
+      options: []
+      required: false

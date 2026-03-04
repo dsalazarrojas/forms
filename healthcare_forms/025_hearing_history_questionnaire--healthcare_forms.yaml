@@ -1,0 +1,233 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hearing History Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hearing_health
+      label: Hearing Health
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ear_infection
+      label: Ear Infection
+      hint: null
+      type: select_one
+      options:
+      - Ear infection
+      - No Ear infection
+      - Not specified
+      required: true
+    - id: 4
+      name: hearing_loss
+      label: Hearing Loss
+      hint: null
+      type: select_multiple
+      options:
+      - Left
+      - Right
+      - Both
+      required: false
+    - id: 5
+      name: hearing_impairment
+      label: Hearing Impairment
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 6
+      name: treatment_history
+      label: Treatment History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: other_health_issues
+      label: Other Health Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hearing_test_results
+      label: Hearing Test Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: hearing_test_date
+      label: Hearing Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: hearing_test_result_date
+      label: Hearing Test Result Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: hearing_test_results_location
+      label: Hearing Test Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: doctor_name_hearing_test
+      label: Doctor's Name Hearing Test
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: hearing_testing_method
+      label: Hearing Testing Method
+      hint: null
+      type: select_one
+      options:
+      - Pure Tone Threshold
+      - Recruitment
+      - Speech Recognition
+      - Bone Conduction
+      - Other
+      required: true
+    - id: 16
+      name: hearing_loss_type
+      label: Type of Hearing Loss
+      hint: null
+      type: select_multiple
+      options:
+      - Sensorineural
+      - Conductive
+      - Mixed
+      required: false
+    - id: 17
+      name: hearing_loss_cause
+      label: Cause of Hearing Loss
+      hint: null
+      type: select_multiple
+      options:
+      - Genetic
+      - Injury
+      - Age-related
+      - Noise exposure
+      - Unknown
+      required: false
+    - id: 18
+      name: ear_wax
+      label: Ear Wax
+      hint: null
+      type: select_one
+      options:
+      - Ear Wax Buildup
+      - No Ear Wax Buildup
+      - Not Specified
+      required: true
+    - id: 19
+      name: hearing_assistance_device
+      label: Hearing Assistance Device
+      hint: null
+      type: select_one
+      options:
+      - Hearing Aid
+      - None
+      - Other
+      required: false
+    - id: 20
+      name: hearing_aids_use
+      label: Hearing Aids Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: hearing_loss_impact
+      label: Impact of Hearing Loss
+      hint: null
+      type: select_multiple
+      options:
+      - Emotional
+      - Social
+      - Professional
+      - Financial
+      required: false
+    - id: 22
+      name: hearing_loss_symptoms
+      label: Hearing Loss Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Difficulty understanding speech
+      - Difficulty understanding phone calls
+      - Difficulty understanding TV
+      - Difficulty with phone
+      - Difficulty hearing in background noise
+      - Difficulty hearing conversation
+      - Difficulty hearing in quiet
+      required: true
+    - id: 23
+      name: hearing_loss_duration
+      label: Duration of Hearing Loss
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: hearing_loss_start_date
+      label: Date of Hearing Loss
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

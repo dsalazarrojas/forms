@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Symptoms Questionnaire
+    pages:
+    - id: 1
+      name: symptom_category
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''General Symptoms'', ''label'': ''General Symptoms''}'
+      - '{''value'': ''Neurological Symptoms'', ''label'': ''Neurological Symptoms''}'
+      - '{''value'': ''Musculoskeletal Symptoms'', ''label'': ''Musculoskeletal Symptoms''}'
+      required: true
+    - id: 2
+      name: pain_location
+      label: Pain
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Head'', ''label'': ''Head''}'
+      - '{''value'': ''Neck'', ''label'': ''Neck''}'
+      - '{''value'': ''Back'', ''label'': ''Back''}'
+      - '{''value'': ''Stomach'', ''label'': ''Stomach''}'
+      - '{''value'': ''Legs'', ''label'': ''Legs''}'
+      required: false
+    - id: 3
+      name: symptom_1
+      label: Cough
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cough'', ''label'': ''Cough''}'
+      - '{''value'': ''Coughing Up Blood'', ''label'': ''Coughing Up Blood''}'
+      - '{''value'': ''Chest Pain'', ''label'': ''Chest Pain''}'
+      - '{''value'': ''Shortness of Breath'', ''label'': ''Shortness of Breath''}'
+      required: true
+    - id: 4
+      name: symptom_2
+      label: Fatigue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      required: false
+    - id: 5
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Information (2)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: email_2
+      label: Email (2)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: symptom_3
+      label: Fever
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fever'', ''label'': ''Fever''}'
+      - '{''value'': ''Fever'', ''label'': ''Fever''}'
+      - '{''value'': ''Fever'', ''label'': ''Fever''}'
+      - '{''value'': ''Fever'', ''label'': ''Fever''}'
+      - '{''value'': ''Fever'', ''label'': ''Fever''}'
+      required: false
+    - id: 13
+      name: symptom_4
+      label: Nausea
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Nausea'', ''label'': ''Nausea''}'
+      - '{''value'': ''Vomiting'', ''label'': ''Vomiting''}'
+      - '{''value'': ''Diarrhea'', ''label'': ''Diarrhea''}'
+      required: false
+    - id: 14
+      name: date_2
+      label: Date (2)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: symptom_5
+      label: Chills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Chills'', ''label'': ''Chills''}'
+      - '{''value'': ''Chills'', ''label'': ''Chills''}'
+      - '{''value'': ''Chills'', ''label'': ''Chills''}'
+      - '{''value'': ''Chills'', ''label'': ''Chills''}'
+      required: false
+    - id: 16
+      name: symptom_6
+      label: Cough
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cough'', ''label'': ''Cough''}'
+      - '{''value'': ''Cough'', ''label'': ''Cough''}'
+      required: false
+    - id: 17
+      name: symptom_7
+      label: Nausea
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Nausea'', ''label'': ''Nausea''}'
+      - '{''value'': ''Nausea'', ''label'': ''Nausea''}'
+      - '{''value'': ''Nausea'', ''label'': ''Nausea''}'
+      - '{''value'': ''Vomiting'', ''label'': ''Vomiting''}'
+      required: false
+    - id: 18
+      name: email_2
+      label: Email (3)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: symptom_8
+      label: Fatigue
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      required: false
+    - id: 20
+      name: symptom_9
+      label: Fatigue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      required: false
+    - id: 21
+      name: symptom_10
+      label: Cough
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Cough'', ''label'': ''Cough''}'
+      - '{''value'': ''Cough'', ''label'': ''Cough''}'
+      - '{''value'': ''Cough'', ''label'': ''Cough''}'
+      required: false
+    - id: 22
+      name: symptom_11
+      label: Fatigue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      required: false
+    - id: 23
+      name: symptom_12
+      label: Fatigue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      required: false
+    - id: 24
+      name: symptom_13
+      label: Nausea
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Nausea'', ''label'': ''Nausea''}'
+      - '{''value'': ''Nausea'', ''label'': ''Nausea''}'
+      - '{''value'': ''Nausea'', ''label'': ''Nausea''}'
+      required: false
+    - id: 25
+      name: symptom_14
+      label: Fatigue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''value'': ''Fatigue'', ''label'': ''Fatigue''}'
+      required: false

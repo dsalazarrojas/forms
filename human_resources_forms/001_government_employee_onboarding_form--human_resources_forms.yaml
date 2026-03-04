@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Employee Onboarding Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Child
+      - Other
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self-Quarantine Time Off Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: select_one
+      options:
+      - Self Isolating
+      - Family Member Isolating
+      - Other
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Size Assessment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: headcount
+      label: Headcount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: manager_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: team_type
+      label: Team Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: team_status
+      label: Team Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: team_lead_email
+      label: Team Lead
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: team_lead_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: team_members_count
+      label: Team Members Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: team_members_name
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: team_members_email
+      label: Team Member Emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_members_phone
+      label: Team Member Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_members_job_title
+      label: Team Member Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_members_headcount
+      label: Team Member Headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: team_members_department
+      label: Team Member Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_members_manager_name
+      label: Team Member Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_members_manager_email
+      label: Team Member Manager
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: team_members_manager_phone
+      label: Team Member Manager
+      hint: null
+      type: text
+      options: []
+      required: false

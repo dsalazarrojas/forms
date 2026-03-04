@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Manager Leave of Absence Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Product Manager Leave of Absence Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_group
+      label: Job Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: from_date
+      label: From Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: to_date
+      label: To Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

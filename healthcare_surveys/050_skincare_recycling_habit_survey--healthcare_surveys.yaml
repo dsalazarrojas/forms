@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Recycling Habit Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your skincare recycling habit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skincare_products_used
+      label: Which skincare products do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: recyclable_materials_used
+      label: Which materials are you recycling?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: frequency_of_recycling
+      label: How often do you recycle?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Often''}'
+      - '{''option'': ''Occasionally''}'
+      - '{''option'': ''Rarely''}'
+      - '{''option'': ''Never''}'
+      required: false
+    - id: 5
+      name: benefits_of_recycling
+      label: What motivates you to recycle?
+      hint: null
+      type: text
+      options: []
+      required: false

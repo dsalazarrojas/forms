@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Records Authorization Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''View''}'
+      - '{''id'': 2, ''name'': ''Edit''}'
+      - '{''id'': 3, ''name'': ''Share''}'
+      required: false
+    - id: 3
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: authorization_details
+      label: Authorization Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_record_access
+      label: Medical Record Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: medical_record_sharing
+      label: Medical Record Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true

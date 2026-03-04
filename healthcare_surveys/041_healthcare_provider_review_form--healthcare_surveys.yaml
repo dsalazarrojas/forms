@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Provider Review Form
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Quality of care received
+      hint: How would you rate your experience with this provider?
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 4
+      name: question_2
+      label: Communication
+      hint: How would you rate the communication with this provider?
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 5
+      name: question_3
+      label: Time of service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Early'', ''value'': ''early''}'
+      - '{''id'': 1, ''label'': ''On time'', ''value'': ''on_time''}'
+      - '{''id'': 2, ''label'': ''Late'', ''value'': ''late''}'
+      required: false
+    - id: 6
+      name: question_4
+      label: Willingness to listen
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 7
+      name: question_5
+      label: Willingness to listen
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 8
+      name: question_6
+      label: Willingness to help
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 9
+      name: question_7
+      label: Overall experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 10
+      name: provider_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Submit'', ''value'': ''submit''}'
+      - Other
+      required: false
+    - id: 14
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Cancel'', ''value'': ''cancel''}'
+      - Other
+      required: false

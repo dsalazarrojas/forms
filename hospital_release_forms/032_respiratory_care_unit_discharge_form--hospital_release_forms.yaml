@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respiratory Care Unit Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: admission_date
+      label: Admission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_discharge
+      label: Reason for Discharge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: respiratory_care_unit
+      label: Respiratory Care Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Home
+      - Rehab
+      - Other
+      required: true
+    - id: 11
+      name: other_discharge_status
+      label: Other Discharge Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: nurse_signature
+      label: Nurse Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: respiratory_care_units
+      label: Respiratory Care Unit
+      hint: null
+      type: select_multiple
+      options:
+      - Pulmonary Clinic
+      - ICU
+      - Step Down
+      - Rehabilitation
+      required: true
+    - id: 19
+      name: respiratory_therapist_signature
+      label: Respiratory Therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: physician_info
+      label: Physician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: nurse_info
+      label: Nurse
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: respiratory_treatment
+      label: Respiratory Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: respiratory_status
+      label: Respiratory Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Employment Separation Form
+    pages:
+    - id: 1
+      name: offboarding_date
+      label: Offboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_separation
+      label: Reason for Separation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_day_of_work
+      label: Last Day of Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_separation_details
+      label: Reason for Separation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: separation_status
+      label: Separation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Active''}'
+      - '{''option_2'': ''Inactive''}'
+      - '{''option_3'': ''On Leave''}'
+      - '{''option_4'': ''On Vacation''}'
+      required: false
+    - id: 7
+      name: last_date_of_work_status
+      label: Last Date of Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Completed''}'
+      - '{''option_2'': ''Pending''}'
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: separation_date
+      label: Separation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Involuntary Termination''}'
+      - '{''option_2'': ''Voluntary Resignation''}'
+      - '{''option_3'': ''Retirement''}'
+      - '{''option_4'': ''Other''}'
+      required: false
+    - id: 13
+      name: separation_type
+      label: Separation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Offboarding''}'
+      - '{''option_2'': ''Lay-Off''}'
+      - '{''option_3'': ''Retirement''}'
+      required: false

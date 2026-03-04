@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Declaration Form
+    pages:
+    - id: 1
+      name: traveler_type
+      label: Traveler Type
+      hint: null
+      type: select_one
+      options:
+      - Traveler
+      - Patient
+      - Employee
+      - Event Attendee
+      - Student
+      - Visitor
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Other
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Food
+      - Insect Stings
+      - Dust
+      - Pet Hair
+      - Mold
+      - Dust Mites
+      - Latex
+      - Latex Glove
+      - Seasickness
+      required: false
+    - id: 9
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false

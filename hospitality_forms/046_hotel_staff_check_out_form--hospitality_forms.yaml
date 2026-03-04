@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Staff Check Out Form
+    pages:
+    - id: 1
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Front Desk''}'
+      - '{''id'': 2, ''label'': ''Housekeeping''}'
+      - '{''id'': 3, ''label'': ''Management''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_departure
+      label: Date of Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_departure
+      label: Time of Departure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_preferred
+      label: Contact Preferred
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Text Message''}'
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false

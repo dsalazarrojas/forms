@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Closing Dinner RSVP
+    pages:
+    - id: 1
+      name: rsvp_header
+      label: Closing Dinner RSVP
+      hint: Reserve your spot at the closing dinner
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dinner_details
+      label: Dinner Details
+      hint: Event information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: conference_name
+      label: Conference Name
+      hint: Associated event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dinner_date
+      label: Dinner Date
+      hint: When dinner is held
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: dinner_time
+      label: Dinner Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: dinner_venue
+      label: Dinner Venue
+      hint: Location
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_response
+      label: RSVP Response
+      hint: Will you attend
+      type: select_one
+      options:
+      - Yes I Will Attend
+      - No I Cannot Attend
+      required: true
+    - id: 11
+      name: guest_info
+      label: Guest Information
+      hint: Additional attendees
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: number_of_guests
+      label: Number of Additional Guests
+      hint: Plus ones
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: guest_names
+      label: Guest Names
+      hint: Names of additional attendees
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meal_selection
+      label: Meal Selection
+      hint: Choose your entree
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_entree
+      label: Primary Entree Choice
+      hint: Main course
+      type: select_one
+      options:
+      - Grilled Salmon
+      - Beef Tenderloin
+      - Chicken Marsala
+      - Vegetarian Pasta
+      - Vegan Buddha Bowl
+      required: true
+    - id: 16
+      name: guest_entree
+      label: Guest Entree Choice
+      hint: For additional guests
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: beverage_preference
+      label: Beverage Preference
+      hint: Drink selection
+      type: select_one
+      options:
+      - Wine Pairing
+      - Beer
+      - Soft Drinks
+      - Water Only
+      - No Alcohol
+      required: false
+    - id: 19
+      name: seating_preference
+      label: Seating Preference
+      hint: Table arrangement
+      type: select_one
+      options:
+      - No Preference
+      - Quiet Area
+      - Near Stage
+      - With Colleagues
+      - Meet New People
+      required: false
+    - id: 20
+      name: special_occasions
+      label: Special Occasions
+      hint: Celebrating something
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Getting to venue
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: shuttle_needed
+      label: Shuttle Service Needed
+      hint: Require transportation
+      type: select_one
+      options:
+      - Yes Need Shuttle
+      - No I Have Transport
+      required: false
+    - id: 23
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rsvp_deadline
+      label: RSVP Deadline Acknowledgment
+      hint: Submit by deadline
+      type: select_one
+      options:
+      - I Understand Deadline
+      - I Need Extension
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: minors_covid_19_liability_release_waiver
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

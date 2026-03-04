@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roofing Inspection Form
+    pages:
+    - id: 1
+      name: inspect_roofing
+      label: inspect-roofing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: roof_type
+      label: roof-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: roof_condition
+      label: roof-condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: material_type
+      label: material-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: material_condition
+      label: material-condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: damage_type
+      label: damage-type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: damage_condition
+      label: damage-condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: inspection_date
+      label: inspection-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspection_time
+      label: inspection-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: inspector_name
+      label: inspector-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_email
+      label: inspector-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: inspector_phone
+      label: inspector-phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Case Report Form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_diagnosis
+      label: Date Of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_history
+      label: Contact History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Mpox Confirmed
+      - Mpox Suspected
+      - Not Mpox
+      required: false
+    - id: 9
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Recovered
+      - Hospitalized
+      - Fatal
+      - Unknown
+      required: false
+    - id: 11
+      name: contact_trace
+      label: Contact Trace
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 12
+      name: reporting_unit
+      label: Reporting Unit
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Unit
+      - Outpatient Clinic
+      - Inpatient Ward
+      - Community Clinic
+      - Other
+      required: false
+    - id: 13
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: case_closed
+      label: Case Closed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: case_closed_date
+      label: Case Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_trace_completed
+      label: Contact Trace Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 19
+      name: contact_trace_completed_date
+      label: Contact Trace Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: test_result_confirmed
+      label: Test Result Confirmed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: test_result_date
+      label: Test Result Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: test_result_sensivity
+      label: Test Result Sensitivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_multiple
+      options:
+      - Imported
+      - Exported
+      - Local
+      - Imported/Exported
+      required: false
+    - id: 24
+      name: travel_history_countries
+      label: Countries Visited Before Illness Onset
+      hint: null
+      type: select_multiple
+      options:
+      - Africa
+      - Asia
+      - Europe
+      - North America
+      - South America
+      - Other
+      required: false
+    - id: 25
+      name: reporting_unit_name
+      label: Reporting Unit Name
+      hint: null
+      type: text
+      options: []
+      required: false

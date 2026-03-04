@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Correction Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: The employee whose pay is being corrected
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pay_error
+      label: Pay Error Type
+      hint: null
+      type: select_one
+      options:
+      - Overpayment
+      - Underpayment
+      - Payroll error
+      - Discrepency
+      required: false
+    - id: 5
+      name: error_amount
+      label: Error Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: error_reason
+      label: Error Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: Requested by
+      hint: Name of the person submitting the request
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Payroll
+      - HR
+      - Management
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_location
+      label: Submitted Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Resolved
+      - In Progress
+      - Closed
+      required: false
+    - id: 22
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: due_location
+      label: Due Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments_count
+      label: Comments Count
+      hint: null
+      type: number
+      options: []
+      required: false

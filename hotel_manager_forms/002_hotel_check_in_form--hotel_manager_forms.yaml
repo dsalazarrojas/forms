@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_hotel
+      label: Assigned Hotel
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel A
+      - Hotel B
+      - Hotel C
+      required: false

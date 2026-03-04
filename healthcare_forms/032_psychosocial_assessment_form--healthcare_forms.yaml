@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychosocial Assessment Form
+    pages:
+    - id: 1
+      name: how_do_you_feel
+      label: how_do_you_feel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_frequency
+      label: assessment_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: what_domain
+      label: what_domain
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Depression
+      - Trauma
+      - Mood Disorder
+      - Psychosis
+      - Addiction
+      - ADHD
+      - Other
+      required: true
+    - id: 4
+      name: emotional_state
+      label: emotional_state
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sleep_patterns
+      label: sleep_patterns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: anxiety
+      label: anxiety
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: depression
+      label: depression
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: trauma
+      label: trauma
+      hint: null
+      type: select_multiple
+      options:
+      - Childhood trauma
+      - Adulthood trauma
+      - Other
+      required: true
+    - id: 9
+      name: mood_disorder
+      label: mood_disorder
+      hint: null
+      type: select_one
+      options:
+      - Depression
+      - Anxiety
+      - Bipolar Disorder
+      - Adjustment Disorder
+      - Other
+      required: true
+    - id: 10
+      name: psychosis
+      label: psychosis
+      hint: null
+      type: select_one
+      options:
+      - Schizophrenia
+      - Schizoaffective
+      - Other
+      required: true
+    - id: 11
+      name: addiction
+      label: addiction
+      hint: null
+      type: select_one
+      options:
+      - Alcohol
+      - Substance use
+      - Tobacco
+      - Other
+      required: true
+    - id: 12
+      name: adhd
+      label: adhd
+      hint: null
+      type: select_one
+      options:
+      - Inattentive
+      - Hyperactive
+      - Combined
+      - Other
+      required: true
+    - id: 13
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: medication
+      label: medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: therapy
+      label: therapy
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: hospitalization
+      label: hospitalization
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Heart condition
+      - Respiratory condition
+      - Other
+      required: false
+    - id: 19
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: hospitalization_length
+      label: hospitalization_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_other
+      label: medical_condition_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hospitalization_other
+      label: hospitalization_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medication_other
+      label: medication_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: therapy_other
+      label: therapy_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: psychosocial_domain
+      label: psychosocial_domain
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Depression
+      - Trauma
+      - Mood Disorder
+      - Psychosis
+      - Addiction
+      - ADHD
+      - Other
+      required: true
+    - id: 26
+      name: sleep_patterns
+      label: sleep_patterns
+      hint: null
+      type: text
+      options: []
+      required: false

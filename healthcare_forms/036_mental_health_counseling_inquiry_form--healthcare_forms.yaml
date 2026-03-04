@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_counseling_inquiry_form
+    pages:
+    - id: 1
+      name: general_informations
+      label: General Informations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_informations
+      label: Contact Informations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: mental_health_informations
+      label: Mental Health Informations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_informations
+      label: Medical Informations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: mental_health_support
+      label: Mental Health Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_support
+      label: Medical Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing
+      label: Billing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

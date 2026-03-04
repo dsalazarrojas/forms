@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_incident_records_release_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reported_by
+      label: Reported by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_nature
+      label: Incident nature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: incident_description
+      label: Incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_cause
+      label: Incident cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_effect
+      label: Incident effect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_prevention_method
+      label: Incident prevention method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_outcome
+      label: Incident outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporter_name
+      label: Incident reporter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_position
+      label: Incident reporter position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_email
+      label: Incident reporter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter_phone
+      label: Incident reporter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reported_date
+      label: Incident reported date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: incident_investigation_status
+      label: Incident investigation status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 17
+      name: incident_closure_status
+      label: Incident closure status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 18
+      name: incident_comments
+      label: Incident comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_reviewed_date
+      label: Reviewed date
+      hint: null
+      type: date
+      options: []
+      required: false

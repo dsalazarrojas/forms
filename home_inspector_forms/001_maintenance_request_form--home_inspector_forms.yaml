@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Request Form
+    pages:
+    - id: 1
+      name: maintenance_request_form_1
+      label: Maintenance Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: building_manager
+      label: Building Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_issue
+      label: Maintenance Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: maintenance_request_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Pending
+      - Cancelled
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: building_floor
+      label: Building Floor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: building_room
+      label: Building Room
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: building_equipment
+      label: Building Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 16
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: status_comments
+      label: Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Request
+      - Other
+      required: true
+    - id: 21
+      name: maintenance_request_id
+      label: Maintenance Request ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: service_request_status
+      label: Service Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: service_request_id
+      label: Service Request ID
+      hint: null
+      type: text
+      options: []
+      required: false

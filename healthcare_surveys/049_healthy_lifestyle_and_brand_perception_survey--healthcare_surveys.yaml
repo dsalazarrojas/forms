@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy Lifestyle And Brand Perception Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Welcome to the Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Professional
+      - Non-Healthcare Professional
+      - Student
+      - Other
+      required: false
+    - id: 5
+      name: healthcare_provider_experience
+      label: healthcare provider experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - 20+ years
+      required: false
+    - id: 6
+      name: brand_loyalty
+      label: Brand Loyal
+      hint: null
+      type: select_one
+      options:
+      - Very Loyal
+      - Somewhat Loyal
+      - Not Loyal
+      required: false
+    - id: 7
+      name: brand_awareness
+      label: Brand Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_header_2
+      label: Section 1 - Lifestyle and Habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: select_one
+      options:
+      - Very Active
+      - Moderately Active
+      - Somewhat Active
+      - Not Active
+      required: false
+    - id: 10
+      name: sleep_pattern
+      label: Sleep Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - 7-8 hours
+      - 8-9 hours
+      - 9-10 hours
+      - 10+ hours
+      required: false
+    - id: 11
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-4 times a week
+      - 1-2 times a week
+      - Rarely
+      required: false
+    - id: 12
+      name: stress_management
+      label: Stress Management
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      required: false
+    - id: 13
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_one
+      options:
+      - Balanced
+      - Mostly Healthy
+      - Mostly Unhealthy
+      - Very Unhealthy
+      required: false
+    - id: 14
+      name: survey_header_3
+      label: Section 2 - Brand Perception
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: brand_image
+      label: Brand Image
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 16
+      name: product_liking
+      label: Product Liking
+      hint: null
+      type: select_one
+      options:
+      - Strongly Like
+      - Somewhat Like
+      - Neither Like Nor Dislike
+      - Somewhat Dislike
+      - Strongly Dislike
+      required: false
+    - id: 17
+      name: price_sensitivity
+      label: Price Sensitivity
+      hint: null
+      type: select_one
+      options:
+      - Not Sensitive
+      - Somewhat Sensitive
+      - Very Sensitive
+      required: false

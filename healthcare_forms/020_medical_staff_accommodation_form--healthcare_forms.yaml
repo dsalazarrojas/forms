@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Staff Accommodation Form
+    pages:
+    - id: 1
+      name: staff_id
+      label: staff_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accommodation_request_type
+      label: accommodation_request_type
+      hint: null
+      type: select_one
+      options:
+      - accommodation_request_type
+      - accommodation_request_type_0
+      required: false
+    - id: 3
+      name: accommodation_start_date
+      label: accommodation_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_end_date
+      label: accommodation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_nights
+      label: number_of_nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_address
+      label: accommodation_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_postal_code
+      label: accommodation_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_additional_info
+      label: accommodation_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_member_name
+      label: staff_member_name
+      hint: null
+      type: text
+      options: []
+      required: false

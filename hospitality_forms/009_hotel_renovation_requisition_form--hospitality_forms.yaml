@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Renovation Requisition Form
+    pages:
+    - id: 1
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 7
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: due_by
+      label: Due By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: hotel_id
+      label: Hotel ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: room_id
+      label: Room ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: building_id
+      label: Building ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: status_id
+      label: Status ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: assigned_to_id
+      label: Assigned to ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 20
+      name: created_by_id
+      label: Created by ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 21
+      name: updated_by_id
+      label: Updated by ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 22
+      name: comments_id
+      label: Comments ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: due_by_id
+      label: Due by ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false

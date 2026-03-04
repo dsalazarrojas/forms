@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Knowledge Sharing Evaluation Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Start Of Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_questions
+      label: Evaluation Questions
+      hint: null
+      type: select_one
+      options:
+      - Question 1
+      - Question 2
+      - Question 3
+      required: false
+    - id: 3
+      name: rating_score
+      label: Rating Score
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

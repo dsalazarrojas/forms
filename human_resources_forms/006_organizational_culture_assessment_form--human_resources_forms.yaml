@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Culture Assessment Form
+    pages:
+    - id: 1
+      name: page_1
+      label: page_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: values
+      label: values
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: overall_satisfaction
+      hint: How satisfied are you with your overall job satisfaction?
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: communication_frequency
+      label: communication_frequency
+      hint: How often do you communicate with your team/department?
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - never
+      required: false
+    - id: 6
+      name: communication_style
+      label: communication_style
+      hint: How would you describe your team's communication style?
+      type: select_multiple
+      options:
+      - open
+      - closed
+      - informal
+      - formal
+      required: false
+    - id: 7
+      name: communication_effectiveness
+      label: communication_effectiveness
+      hint: How would you rate the effectiveness of communication in our team/department?
+      type: select_one
+      options:
+      - strong
+      - moderate
+      - weak
+      - neutral
+      required: false
+    - id: 8
+      name: team_values
+      label: team_values
+      hint: What are the core values of your team/department?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: individual_values
+      label: individual_values
+      hint: What are the core values of the organization?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: overall_satisfaction2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: communication_frequency2
+      label: communication_frequency2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: communication_style2
+      label: communication_style2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

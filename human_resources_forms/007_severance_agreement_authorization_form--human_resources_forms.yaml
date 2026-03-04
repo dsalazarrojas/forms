@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Severance Agreement Authorization Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_last_change
+      label: Date of Last Change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: severance_amount
+      label: Severance Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: last_date_of_pay
+      label: Last Date of Pay
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: severance_date
+      label: Severance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - Termination due to performance
+      - Termination due to redundancy
+      - Termination due to other reasons
+      required: false
+    - id: 11
+      name: severance_agreement_status
+      label: Severance Agreement Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: last_date_of_pay_period
+      label: Last Date of Pay Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pay_in_lieu
+      label: Pay In Lieu
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notice_period_start_date
+      label: Notice Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: notice_period_end_date
+      label: Notice Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: pay_period_end_date
+      label: Pay Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: severance_agreement_end_date
+      label: Severance Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: severance_agreement_start_date
+      label: Severance Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: last_pay_period
+      label: Last Pay Period
+      hint: null
+      type: select_one
+      options:
+      - 1st pay period
+      - 2nd pay period
+      - 3rd pay period
+      - 4th pay period
+      - 5th pay period
+      - Other
+      required: false
+    - id: 21
+      name: severance_agreement
+      label: Severance Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - Termination due to performance
+      - Termination due to redundancy
+      - Termination due to other reasons
+      required: false
+    - id: 24
+      name: severance_agreement_status
+      label: Severance Agreement Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: pay_out
+      label: Pay Out
+      hint: null
+      type: number
+      options: []
+      required: false

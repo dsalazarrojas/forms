@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: sleep_tracker_form
+    pages:
+    - id: 1
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_quality
+      label: Sleep Quality
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wake_time
+      label: Wake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: sleep_time
+      label: Sleep Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: sleep_frequency
+      label: Sleep Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: false
+    - id: 7
+      name: sleep_frequency_options
+      label: Sleep Frequency Options
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: false
+    - id: 8
+      name: sleep_frequency_note
+      label: Sleep Frequency Note
+      hint: null
+      type: note
+      options: []
+      required: false

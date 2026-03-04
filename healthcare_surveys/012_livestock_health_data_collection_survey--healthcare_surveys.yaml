@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Health Data Collection Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animal_id
+      label: Animal ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: animal_info
+      label: Animal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - '{''ID'': 1, ''label'': ''Healthy''}'
+      - '{''ID'': 2, ''label'': ''Diseased''}'
+      - '{''ID'': 3, ''label'': ''Dead''}'
+      required: false
+    - id: 6
+      name: disease_treatment
+      label: Disease Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''ID'': 1, ''label'': ''Antibiotics''}'
+      - '{''ID'': 2, ''label'': ''Surgery''}'
+      - '{''ID'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: health_care_services_used
+      label: Health Care Services Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: veterinary_care
+      label: Veterinary Care
+      hint: null
+      type: select_one
+      options:
+      - '{''ID'': 1, ''label'': True}'
+      - '{''ID'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: farm_info
+      label: Farm Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: herd_size
+      label: Herd Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: select_one
+      options:
+      - '{''ID'': 1, ''label'': ''North''}'
+      - '{''ID'': 2, ''label'': ''South''}'
+      - '{''ID'': 3, ''label'': ''East''}'
+      - '{''ID'': 4, ''label'': ''West''}'
+      required: false
+    - id: 12
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - '{''ID'': 1, ''label'': ''Urban''}'
+      - '{''ID'': 2, ''label'': ''Rural''}'
+      required: false
+    - id: 13
+      name: date_of_data_collection
+      label: Date of Data Collection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Flowchart Data Collection
+    pages:
+    - id: 1
+      name: patient_concerns
+      label: Patient Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medication_details
+      label: Medication Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_details
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_preferences2
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medication_details
+      label: Medication Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

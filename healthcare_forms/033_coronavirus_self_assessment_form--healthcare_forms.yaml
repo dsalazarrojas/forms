@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_self_assessment_form
+    pages:
+    - id: 1
+      name: patient_survey
+      label: Patient Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: contact_exposure
+      label: Contact Exposure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: We will keep this information private and secure. By submitting this form,
+        you agree to our privacy policy.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_symptoms
+      label: Time of Symptoms
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: date_of_symptoms
+      label: Date of Symptoms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

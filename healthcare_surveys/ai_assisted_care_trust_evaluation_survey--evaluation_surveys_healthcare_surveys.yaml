@@ -1,0 +1,194 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Assisted Care Trust Evaluation Survey
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: Calculated automatically if you prefer
+      type: integer
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: We'll use this for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_header_visit_details
+      label: '--- Visit Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: visit_date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: visit_time
+      label: Preferred appointment time
+      hint: Optional
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: section_header_health_assessment
+      label: '--- Health Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: symptoms
+      label: Current symptoms (select all that apply)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Fever
+      - Headache
+      - Fatigue
+      - Cough
+      - Pain
+      - Nausea
+      - Other
+      required: false
+    - id: 12
+      name: pain_level
+      label: Pain level (0-10)
+      hint: 0 = no pain, 10 = worst pain
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: current_medications
+      label: Current medications
+      hint: List all medications, including OTC
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Known allergies
+      hint: List any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Relevant medical history
+      hint: Include prior conditions or surgeries
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_ai_trust_evaluation
+      label: '--- AI Trust Evaluation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: trust_in_ai
+      label: Trust in AI
+      hint: Choose the option that best reflects your overall trust level
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 18
+      name: confidence_in_ai
+      label: Confidence in AI
+      hint: How confident are you that the AI will make accurate recommendations?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 19
+      name: understand_ai_explanation
+      label: Understand AI explanation
+      hint: Did the AI explain its recommendations clearly?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: trust_rating
+      label: Rate your trust in AI (1-10)
+      hint: 1 = lowest trust, 10 = highest trust
+      type: integer
+      options: []
+      required: false
+    - id: 21
+      name: section_header_feedback
+      label: '--- Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other comments or suggestions
+      type: text
+      options: []
+      required: false

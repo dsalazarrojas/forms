@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Leave
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reporting_manager
+      label: reporting_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leave_duration
+      label: leave_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: leave_date_from
+      label: Leave Date From
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leave_date_to
+      label: Leave Date To
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: leave_days
+      label: leave_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: leave_type_other
+      label: leave_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_manager_other
+      label: reporting_manager_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: leave_from_other
+      label: leave_from_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: leave_to_other
+      label: leave_to_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: leave_status_other
+      label: leave_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: leave_reason_other
+      label: leave_reason_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: leave_duration_other
+      label: leave_duration_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: leave_days_other
+      label: leave_days_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_other
+      label: comments_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: leave_type_1
+      label: Leave Type 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: reporting_manager_1
+      label: Reporting Manager 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: leave_duration_1
+      label: Leave Duration 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: comments_1
+      label: Comments 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: leave_type_2
+      label: Leave Type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: reporting_manager_2
+      label: Reporting Manager 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

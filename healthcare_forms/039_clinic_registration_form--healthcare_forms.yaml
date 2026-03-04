@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinic Registration Form
+    pages:
+    - id: 1
+      name: patient_info_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Transgender
+      - Prefer to self-describe
+      - Prefer not to answer
+      required: false
+    - id: 8
+      name: pronouns
+      label: Pronouns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: language_section
+      label: -- Language and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_language
+      label: Primary Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: interpreter_needed
+      label: Need interpreter services?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: accessibility_needs
+      label: Accessibility needs or accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_section
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: insurance_section
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: has_insurance
+      label: Do you have health insurance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: insurance_name
+      label: Insurance Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: insurance_member_id
+      label: Member ID
+      hint: null
+      type: text
+      options: []
+      required: false

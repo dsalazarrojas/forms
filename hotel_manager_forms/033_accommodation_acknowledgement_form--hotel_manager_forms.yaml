@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Acknowledgement Form
+    pages:
+    - id: 1
+      name: guest_full_name
+      label: Guest Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Guest Email
+      hint: Your email address for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: guest_phone
+      label: Guest Phone
+      hint: Your phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: check_in_date
+      label: Check In Date
+      hint: Date of arrival
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: check_out_date
+      label: Check Out Date
+      hint: Date of departure
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Type of accommodation booked
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Suite
+      - Apartment
+      - Cabin
+      - Other
+      required: true
+    - id: 7
+      name: room_number
+      label: Room Number
+      hint: Assigned room number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_name
+      label: Property Name
+      hint: Name of the accommodation property
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: Complete address of the accommodation property
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cancellation_policy_acknowledged
+      label: Cancellation Policy Acknowledged
+      hint: Do you acknowledge and agree to the property's cancellation policy?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 11
+      name: check_in_out_times_acknowledged
+      label: Check In Out Times Acknowledged
+      hint: Do you acknowledge the check-in and check-out times?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 12
+      name: smoking_policy_acknowledged
+      label: Smoking Policy Acknowledged
+      hint: Do you acknowledge the property's smoking policy?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 13
+      name: pet_policy_acknowledged
+      label: Pet Policy Acknowledged
+      hint: Do you acknowledge the property's pet policy?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 14
+      name: noise_policy_acknowledged
+      label: Noise Policy Acknowledged
+      hint: Do you acknowledge the property's noise policy?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 15
+      name: amenity_usage_acknowledged
+      label: Amenity Usage Acknowledged
+      hint: Do you acknowledge the rules for using property amenities?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 16
+      name: liability_disclaimer_acknowledged
+      label: Liability Disclaimer Acknowledged
+      hint: Do you acknowledge the property's liability disclaimer?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 17
+      name: housekeeping_schedule_acknowledged
+      label: Housekeeping Schedule Acknowledged
+      hint: Do you acknowledge the housekeeping schedule?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 18
+      name: emergency_procedures_acknowledged
+      label: Emergency Procedures Acknowledged
+      hint: Do you acknowledge the emergency procedures?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 19
+      name: guest_signature
+      label: Guest Signature
+      hint: Electronic signature confirming your acknowledgment
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Addiction Treatment Consent Form
+    pages:
+    - id: 1
+      name: --consent_overview
+      label: -- Consent Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_description
+      label: Treatment description
+      hint: Overview of proposed treatment approach
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: risks_and_benefits
+      label: Risks and benefits explained
+      hint: Acknowledge understanding of risks and benefits
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: alternatives
+      label: Treatment alternatives discussed
+      hint: Other options covered during consent
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent to treatment
+      hint: Select to provide informed consent
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 7
+      name: confidentiality_limits
+      label: Limits of confidentiality
+      hint: Mandatory reporting and legal exceptions
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For urgent communications
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature_name
+      label: Signature name
+      hint: Typed name accepted as signature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date signed
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

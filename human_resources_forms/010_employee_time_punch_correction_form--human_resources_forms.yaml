@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Time Punch Correction Form
+    pages:
+    - id: 1
+      name: employee_time_punch_correction_form
+      label: employee_time_punch_correction_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false

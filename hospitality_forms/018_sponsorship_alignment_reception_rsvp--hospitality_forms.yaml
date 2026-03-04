@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Alignment Reception RSVP
+    pages:
+    - id: 1
+      name: reception_date
+      label: Reception Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_title
+      label: Guest Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guest_dietary
+      label: Dietary Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Non-Vegetarian''}'
+      - '{''label'': ''Omnivore''}'
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Additional Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_type
+      label: RSVP Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_note
+      label: Additional Note
+      hint: null
+      type: note
+      options: []
+      required: false

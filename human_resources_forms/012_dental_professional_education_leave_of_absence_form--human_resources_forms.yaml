@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Professional Education Leave Of Absence Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Education Leave Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_start_date
+      label: Education Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: education_end_date
+      label: Education End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: approval_manager
+      label: Approval Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: education_institution
+      label: Education Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: education_institution_url
+      label: Education Institution URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: denial_reason
+      label: Denial Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: denied_by
+      label: Denied By
+      hint: null
+      type: text
+      options: []
+      required: false

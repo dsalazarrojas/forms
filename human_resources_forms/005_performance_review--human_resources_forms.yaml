@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_period
+      label: review_period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_items
+      label: action_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: manager_signoff
+      label: manager_signoff
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: false
+    - id: 11
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_due_date
+      label: review_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false

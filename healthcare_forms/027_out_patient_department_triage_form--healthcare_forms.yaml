@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Out Patient Department Triage Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: chief_complaint
+      label: Chief Complaint
+      hint: What is the primary reason the patient came in for medical attention?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: triage_info
+      label: Triage Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false

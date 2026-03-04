@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Treatment Repeat Frequency Survey
+    pages:
+    - id: 1
+      name: client_treatment_habits
+      label: Client Treatment Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_visit_frequency
+      label: Preferred Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: treatment_satisfaction
+      label: Treatment Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very satisfied''}'
+      - '{''value'': ''Somewhat satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat dissatisfied''}'
+      - '{''value'': ''Very dissatisfied''}'
+      required: false
+    - id: 5
+      name: recommended_treatment
+      label: Recommended Treatment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Skin Analysis''}'
+      - '{''value'': ''Chemical Peel''}'
+      - '{''value'': ''Microdermabrasion''}'
+      - '{''value'': ''Microdermabrasion with Chemical Peel''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: skincare_products
+      label: Skincare Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: visit_satisfaction
+      label: Visit Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: client_service_experience
+      label: Client Service Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spa_facility
+      label: Spa Facility
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiology Order Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: imaging_type
+      label: Imaging Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''X-ray''}'
+      - '{''id'': 2, ''text'': ''MRI''}'
+      - '{''id'': 3, ''text'': ''CT Scan''}'
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Primary Care''}'
+      - '{''id'': 2, ''text'': ''Referring Physician''}'
+      required: false
+    - id: 16
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Male''}'
+      - '{''id'': 2, ''text'': ''Female''}'
+      - '{''id'': 3, ''text'': ''Other''}'
+      required: false
+    - id: 17
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: order_priority
+      label: Order Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Normal''}'
+      - '{''id'': 2, ''text'': ''Urgent''}'
+      - '{''id'': 3, ''text'': ''Emergency''}'
+      required: false
+    - id: 19
+      name: imaging_department
+      label: Imaging Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''X-ray''}'
+      - '{''id'': 2, ''text'': ''MRI''}'
+      - '{''id'': 3, ''text'': ''CT''}'
+      - '{''id'': 4, ''text'': ''Ultrasound''}'
+      - '{''id'': 5, ''text'': ''Other''}'
+      required: false
+    - id: 20
+      name: imaging_modality
+      label: Imaging Modality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''X-ray''}'
+      - '{''id'': 2, ''text'': ''MRI''}'
+      - '{''id'': 3, ''text'': ''CT''}'
+      - '{''id'': 4, ''text'': ''Ultrasound''}'
+      - '{''id'': 5, ''text'': ''Other''}'
+      required: false
+    - id: 21
+      name: exam_location
+      label: Exam Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''In-Patient''}'
+      - '{''id'': 2, ''text'': ''Out-Patient''}'
+      required: false
+    - id: 22
+      name: exam_duration
+      label: Exam Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''10 minutes''}'
+      - '{''id'': 2, ''text'': ''30 minutes''}'
+      - '{''id'': 3, ''text'': ''60 minutes''}'
+      required: false
+    - id: 23
+      name: exam_status
+      label: Exam Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Pending''}'
+      - '{''id'': 2, ''text'': ''Complete''}'
+      - '{''id'': 3, ''text'': ''Canceled''}'
+      required: false
+    - id: 24
+      name: exam_comments
+      label: Exam Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_notes2
+      label: Order Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false

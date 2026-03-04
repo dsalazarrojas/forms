@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Anesthesia Complications Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Dental Anesthesia Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Anesthesia Complication 1
+      - Anesthesia Complication 2
+      - Anesthesia Complication 3
+      required: false
+    - id: 2
+      name: patient_dose
+      label: Patient's Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: anes_dose_unit
+      label: Dose Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: anes_dose_administered
+      label: Dose Administered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: anes_complication_1
+      label: Anesthesia Complication 1
+      hint: null
+      type: select_one
+      options:
+      - No Complications
+      - Cardiovascular
+      - Respiratory
+      - Hematologic
+      - Neurologic
+      - Gastrointestinal
+      - Renal
+      - Musculoskeletal
+      - Dermatologic
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: anes_complication_1_details
+      label: Anesthesia Complication 1 Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: anes_complications_2
+      label: Anesthesia Complications 2
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiovascular
+      - Respiratory
+      - Hematologic
+      - Neurologic
+      - Gastrointestinal
+      - Renal
+      - Musculoskeletal
+      - Dermatologic
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: anes_complications_2_details
+      label: Anesthesia Complications 2 Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save Draft
+      required: false

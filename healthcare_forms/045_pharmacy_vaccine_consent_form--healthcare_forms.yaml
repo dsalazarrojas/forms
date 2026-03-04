@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Vaccine Consent Form
+    pages:
+    - id: 1
+      name: vaccine_consent_form
+      label: Vaccine Consent Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_practice_name
+      label: Medical Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_practice_id
+      label: Medical Practice ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_refusal
+      label: Reason for Refusal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vaccine_refused
+      label: Vaccine Refused
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: reason_for_refusal_details
+      label: Reason for Refusal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Proxy Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: proxy_designation_date
+      label: Proxy Designation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: relationship_to_patient
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Child''}'
+      - '{''label'': ''Sibling''}'
+      - '{''label'': ''Parent of Sibling''}'
+      - '{''label'': ''Spouse of Sibling''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: proxy_signature_date
+      label: Proxy Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: proxy_signature
+      label: Proxy Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature_date
+      label: Patient Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Sibling''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship_to_patient
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Sibling''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 19
+      name: patient_conversation
+      label: Conversation with Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_conversation_date
+      label: Conversation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider_relationship
+      label: Relationship to Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Primary''}'
+      - '{''label'': ''Secondary''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 24
+      name: healthcare_provider_address
+      label: Healthcare Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false

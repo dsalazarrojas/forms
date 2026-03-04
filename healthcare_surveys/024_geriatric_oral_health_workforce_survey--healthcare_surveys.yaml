@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geriatric Oral Health Workforce Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: geriatric_care
+      label: geriatric_care
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 8
+      name: barriers
+      label: barriers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workforce_needs_goals
+      label: workforce_needs_goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: geriatric_training
+      label: geriatric_training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 11
+      name: oral_health_professional
+      label: oral_health_professional
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dentist''}'
+      - '{''label'': ''Hygienist''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: hours_worked_last_14_days
+      label: hours_worked_last_14_days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: geriatric_care_education
+      label: geriatric_care_education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 15
+      name: geriatric_care_confidence
+      label: geriatric_care_confidence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very_confident''}'
+      - '{''label'': ''Somewhat_confident''}'
+      - '{''label'': ''Not_at_all_confident''}'
+      required: true
+    - id: 16
+      name: geriatric_care_priority
+      label: geriatric_care_priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very_important''}'
+      - '{''label'': ''Somewhat_important''}'
+      - '{''label'': ''Not_important_at_all''}'
+      required: true
+    - id: 17
+      name: geriatric_care_barriers
+      label: geriatric_care_barriers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: geriatric_care_barriers_what
+      label: geriatric_care_barriers_what
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: prophets_barriers
+      label: prophets_barriers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 20
+      name: geriatric_care_barriers_why
+      label: prophets_barriers_why
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: geriatric_care_barriers_whom
+      label: prophets_barriers_whom
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: geriatric_care_barriers_how
+      label: prophets_barriers_how
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: geriatric_care_barriers_what_else
+      label: prophets_barriers_what_else
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: geriatric_care_barriers_what_else
+      label: prophets_barriers_what_else
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 25
+      name: geriatric_care_barriers_what_else_how
+      label: prophets_barriers_what_else_how
+      hint: null
+      type: text
+      options: []
+      required: true

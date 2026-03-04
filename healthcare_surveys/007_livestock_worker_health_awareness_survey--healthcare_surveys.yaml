@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Worker Health Awareness Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Livestock Worker Health Awareness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Surveys
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Surveys
+      - Other
+      required: true
+    - id: 5
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cooperative_name
+      label: Cooperative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_working
+      label: Years Working
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hours_worked_per_week
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Hard Hats
+      - Gloves
+      - Mask
+      - Safety Vest
+      required: true
+    - id: 11
+      name: health_issues
+      label: Health Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Heat-Related Illnesses
+      - Physical Injuries
+      - Mental Health
+      required: false
+    - id: 12
+      name: access_to_care
+      label: Access to Care
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Care
+      - Specialist Care
+      - Emergency Care
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

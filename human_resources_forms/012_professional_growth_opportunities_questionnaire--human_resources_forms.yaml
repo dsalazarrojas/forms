@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_growth_opportunities_questionnaire
+    pages:
+    - id: 1
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction_rating
+      label: Job Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: skills_needed
+      label: Skills Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false

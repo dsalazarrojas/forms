@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work From Home Request Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_office_info
+      label: Home Office Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_reason
+      label: Request Reason
+      hint: Why are you requesting to work from home?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false

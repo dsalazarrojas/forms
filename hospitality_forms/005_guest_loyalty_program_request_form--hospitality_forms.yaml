@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest LoyalitY Program Request Form
+    pages:
+    - id: 1
+      name: guest_loyalty_request
+      label: Guest Loyalty Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''SMS''}'
+      - '{''id'': 4, ''label'': ''In-app''}'
+      required: true
+    - id: 3
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_questions
+      label: Follow-up Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''What are your favorite destinations?''}'
+      - '{''id'': 2, ''label'': ''What is your preferred method of communication?''}'
+      - '{''id'': 3, ''label'': ''Can we help you with something else?''}'
+      required: false
+    - id: 7
+      name: loyalty_program_requests
+      label: Loyalty Program Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hospitality''}'
+      - '{''id'': 2, ''label'': ''Sales''}'
+      - '{''id'': 3, ''label'': ''Marketing''}'
+      required: true

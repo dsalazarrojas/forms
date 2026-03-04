@@ -1,0 +1,299 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Screening Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: screening_section
+      label: -- COVID-19 Vaccine Eligibility Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_worker
+      label: Do you work in healthcare
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: essential_worker
+      label: Are you an essential worker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: vulnerable_age
+      label: Are you 65 years of age or older
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: high_risk_condition
+      label: Do you have a high-risk medical condition
+      hint: Diabetes, heart disease, chronic lung disease, obesity, immunocompromised
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 11
+      name: condition_description
+      label: If yes, describe your condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: health_section
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_symptoms
+      label: Currently experiencing COVID-19 symptoms
+      hint: Fever, cough, shortness of breath
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: positive_test_recent
+      label: Tested positive for COVID-19 in past 3 months
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: fever_today
+      label: Do you have a fever today
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: temperature_check
+      label: Temperature if fever present
+      hint: Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: medications_section
+      label: -- Medications and Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vaccine_allergies
+      label: Allergies to vaccine or components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: allergy_details
+      label: Describe allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: severe_reaction_history
+      label: History of severe allergic reaction or anaphylaxis
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: blood_thinners
+      label: Currently on blood thinners or anticoagulants
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: immunocompromised_section
+      label: -- Immune Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: immunocompromised
+      label: Immunocompromised or on immunosuppressive therapy
+      hint: HIV, cancer treatment, transplant
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: pregnancy_section
+      label: -- Pregnancy Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: pregnant
+      label: Are you pregnant or planning to become pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 26
+      name: breastfeeding
+      label: Are you breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 27
+      name: vaccination_history_section
+      label: -- Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: prior_covid_vaccine
+      label: Previously received COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: prior_doses
+      label: Number of prior doses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: prior_vaccine_type
+      label: Vaccine type received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: prior_reaction
+      label: Any adverse reactions to prior vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 32
+      name: prior_reaction_description
+      label: Describe reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: conclusion_section
+      label: -- Screening Conclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: eligible_for_vaccine
+      label: Eligible for COVID-19 Vaccination
+      hint: To be determined by healthcare provider
+      type: select_one
+      options:
+      - Yes - proceed with vaccination
+      - No - contraindication present
+      - Defer - consult with physician
+      - Requires further evaluation
+      required: false
+    - id: 35
+      name: screener_name
+      label: Screener Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: screening_notes
+      label: Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

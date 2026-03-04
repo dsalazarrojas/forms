@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOA Records Request Form
+    pages:
+    - id: 1
+      name: hoa_records_request_form
+      label: homeowmer_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hoa_records_request_form_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hoa_records_request_form_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: hoa_records_request_form_note
+      label: request_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: hoa_records_request_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: hoa_records_request_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hoa_records_request_form_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hoa_records_request_form_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hoa_records_request_form_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: hoa_records_request_form_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hoa_records_request_form_records_requested
+      label: records_requested
+      hint: null
+      type: select_multiple
+      options:
+      - HOA meeting minutes
+      - Financial records
+      - Bylaws
+      - Other
+      required: true
+    - id: 12
+      name: hoa_records_request_form_other_records
+      label: other_records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hoa_records_request_form_requester
+      label: requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hoa_records_request_form_requester_type
+      label: requester_type
+      hint: null
+      type: select_one
+      options:
+      - Homeowner
+      - Real estate agent
+      - Lender
+      required: true
+    - id: 15
+      name: hoa_records_request_form_agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: hoa_records_request_form_signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - No signature
+      required: true
+    - id: 17
+      name: hoa_records_request_form_agreement_signature_date
+      label: agreement_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: hoa_records_request_form_agreement_signature
+      label: agreement_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hoa_records_request_form_requester_signature
+      label: requester_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hoa_records_request_form_requester_signature_date
+      label: requester_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: hoa_records_request_form_requester_signature
+      label: requester_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hoa_records_request_form_requester_note
+      label: requester_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: hoa_records_request_form_requester_agreement
+      label: requester_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: hoa_records_request_form_requester_agreement_signature
+      label: requester_agreement_signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - No signature
+      required: true
+    - id: 25
+      name: hoa_records_request_form_requester_agreement_signature_date
+      label: requester_agreement_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false

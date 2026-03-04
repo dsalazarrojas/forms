@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: New-Property-Onboarding
+    pages:
+    - id: 1
+      name: property_name
+      label: property name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: host_name
+      label: host name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_name
+      label: guest name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Resort
+      - Other
+      required: true
+    - id: 5
+      name: checkin_date
+      label: checkin date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: checkout_date
+      label: checkout date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: arrival_time
+      label: arrival time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: room_number
+      label: room number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: room_name
+      label: room name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: room_type
+      label: room type
+      hint: null
+      type: select_one
+      options:
+      - King
+      - Queen
+      - Twin
+      - Other
+      required: true
+    - id: 11
+      name: bed_type
+      label: bed type
+      hint: null
+      type: select_multiple
+      options:
+      - Double
+      - Single
+      - Queen
+      - King
+      required: false
+    - id: 12
+      name: extra_beds
+      label: extra beds
+      hint: null
+      type: select_one
+      options:
+      - One extra bed
+      - Two extra beds
+      - Three extra beds
+      required: true
+    - id: 13
+      name: property_features
+      label: property features
+      hint: null
+      type: select_multiple
+      options:
+      - Balcony
+      - TV
+      - Air Conditioning
+      required: true
+    - id: 14
+      name: special_features
+      label: special features
+      hint: null
+      type: select_multiple
+      options:
+      - Free WiFi
+      - Gym
+      - Swimming pool
+      required: false

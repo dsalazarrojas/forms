@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Monthly Feedback Form
+    pages:
+    - id: 1
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 2
+      name: work_life_balance
+      label: Work Life Balance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_security
+      label: Job Security
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: management_support
+      label: Management Support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: work_life_balance_goal
+      label: Work Life Balance Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_security_goal
+      label: Job Security Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: management_support_goal
+      label: Management Support Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: team_collaboration_goal
+      label: Team Collaboration Goal
+      hint: null
+      type: number
+      options: []
+      required: false

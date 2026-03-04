@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hospital_id
+      label: hospital_id
+      hint: null
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      required: true
+    - id: 4
+      name: authorized_person
+      label: authorized_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: authorized_phone
+      label: authorized_phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorized_email
+      label: authorized_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: authorization_type
+      label: authorization_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_release
+      label: reason_for_release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_signature
+      label: authorized_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_signed
+      label: time_signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorized_address
+      label: authorized_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: patient_city
+      label: patient_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: authorized_city
+      label: authorized_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: patient_state
+      label: patient_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: authorized_state
+      label: authorized_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: patient_postal_code
+      label: patient_postal_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: authorized_postal_code
+      label: authorized_postal_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: patient_country
+      label: patient_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: authorized_country
+      label: authorized_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: patient_agreement
+      label: patient_agreement
+      hint: null
+      type: text
+      options: []
+      required: true

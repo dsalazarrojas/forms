@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health And Wellness Survey
+    pages:
+    - id: 1
+      name: main_information
+      label: main_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_professionals
+      label: medical_professionals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: health_conditions
+      label: health_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Heart conditions''}'
+      - '{''id'': 2, ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''label'': ''Cancer''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: lifestyle_questions
+      label: lifestyle_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than 1 time per week''}'
+      - '{''id'': 2, ''label'': ''1-2 times per week''}'
+      - '{''id'': 3, ''label'': ''3-4 times per week''}'
+      - '{''id'': 4, ''label'': ''5-6 times per week''}'
+      required: false
+    - id: 6
+      name: diet_questions
+      label: diet_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: health_behaviors
+      label: health_behaviors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_outcomes
+      label: health_outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_coverage
+      label: healthcare_coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: health_insights
+      label: health_insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_contact_info
+      label: patient_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_provider_contact_info
+      label: healthcare_provider_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_symptoms
+      label: patient_symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false

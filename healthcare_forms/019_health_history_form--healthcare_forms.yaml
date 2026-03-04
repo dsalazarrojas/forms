@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health History Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sufferings
+      label: sufferings
+      hint: null
+      type: select_multiple
+      options:
+      - Pain in head
+      - Pain in neck
+      - Pain in shoulders
+      - Pain in back
+      - Pain in arms
+      - Pain in hands
+      - Pain in legs
+      - Pain in hips
+      - Pain in knees
+      - Pain in feet
+      required: false
+    - id: 4
+      name: family_info
+      label: family_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: habits
+      label: habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: draw_pain_area
+      label: draw_pain_area
+      hint: null
+      type: select_one
+      options:
+      - Chest
+      - Back
+      - Abdomen
+      - Head
+      - Neck
+      - Shoulders
+      - Hips
+      - Hands
+      - Legs
+      - Knees
+      - Feet
+      - Other
+      required: false
+    - id: 7
+      name: patient_name
+      label: patient_name
+      hint: Enter the name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_birth_date
+      label: patient_birth_date
+      hint: Enter the birth date of patient
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: family_member_name
+      label: family_member_name
+      hint: Enter the family member's name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_member_relationship
+      label: family_member_relationship
+      hint: Select the relationship with the family member
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      - Other
+      required: true
+    - id: 11
+      name: patient_email
+      label: patient_email
+      hint: Enter the patient's email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: patient_phone
+      label: patient_phone
+      hint: Enter the patient's phone number
+      type: text
+      options: []
+      required: true

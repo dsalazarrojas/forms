@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sapphire Brow Clinic PMU
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pmu_technician
+      label: PMU Technician
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Technician 1''}'
+      - '{''name'': ''Technician 2''}'
+      - '{''name'': ''Technician 3''}'
+      required: false
+    - id: 5
+      name: pmu_date
+      label: PMU Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pmu_time
+      label: PMU Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false

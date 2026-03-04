@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Registration
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Primary Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Primary Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_group_details
+      label: -- Group and Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event or Group Name
+      hint: Name of the conference, meeting, or group
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_guests
+      label: Total Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: check_out_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_room_requirements
+      label: -- Room Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: single_rooms_needed
+      label: Number of Single Rooms Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: double_rooms_needed
+      label: Number of Double Rooms Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: suite_rooms_needed
+      label: Number of Suites Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: accessible_rooms_needed
+      label: Number of Accessible Rooms Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: room_preferences
+      label: Room Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Non-smoking
+      - High floor
+      - Connecting rooms
+      - Near elevator
+      - Quiet location
+      - Early check-in
+      - Late check-out
+      required: false
+    - id: 17
+      name: section_additional
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: meal_plan
+      label: Meal Plan Required
+      hint: null
+      type: select_one
+      options:
+      - No meal plan
+      - Breakfast only
+      - Half board (breakfast and dinner)
+      - Full board (all meals)
+      required: true
+    - id: 19
+      name: meeting_rooms
+      label: Do You Need Meeting or Conference Rooms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: transportation
+      label: Do You Need Airport or Station Transfers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: special_requirements
+      label: Special Requirements or Requests
+      hint: Dietary needs, accessibility, AV equipment, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_per_night
+      label: Budget Per Room Per Night
+      hint: null
+      type: number
+      options: []
+      required: false

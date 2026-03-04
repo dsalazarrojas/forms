@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health AI Explainability Awareness Survey
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: select_multiple
+      options:
+      - Please select all that apply
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ai_understanding
+      label: AI Understanding
+      hint: How well do you understand how AI works?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ai_impact
+      label: AI Impact
+      hint: How much impact does AI have on your healthcare
+      type: select_one
+      options:
+      - Significant
+      - Somewhat Significant
+      - Not Significant
+      required: false
+    - id: 5
+      name: survey_conducted
+      label: Survey Conducted
+      hint: How often do you participate in surveys about AI?
+      type: select_multiple
+      options:
+      - Every time
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: trust_in_ai
+      label: Trust In AI
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 7
+      name: concerns_about_ai
+      label: Concerns About AI
+      hint: null
+      type: select_multiple
+      options:
+      - Data Privacy
+      - Bias
+      - Other (Please specify)
+      required: false
+    - id: 8
+      name: other_concerns
+      label: Other Concerns
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

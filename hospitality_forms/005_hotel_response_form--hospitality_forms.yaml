@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Response Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: Customer First Name
+      hint: Please enter first name of customer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: Email address of customer
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: hotel_id
+      label: Hotel ID
+      hint: ID of hotel where customer stayed
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_stay_date
+      label: Customer Stay Date
+      hint: Date customer stayed at hotel
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: booking_reference
+      label: Booking Reference
+      hint: Reference of booking at hotel
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_message
+      label: Customer Message
+      hint: Message from customer to hotel
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hotel_message
+      label: Hotel Message
+      hint: Message from hotel to customer
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_1
+      label: What was the reason for your visit?
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Business
+      - Vacation
+      - Other
+      required: true
+    - id: 10
+      name: question_2
+      label: Which of the following amenities would you like to see improved?
+      hint: null
+      type: select_multiple
+      options:
+      - Wi-Fi
+      - Pool
+      - Breakfast
+      - Restaurant
+      - Parking
+      required: true
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

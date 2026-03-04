@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Policy Implementation Evaluation
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_title
+      label: policy_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_area
+      label: policy_area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: policy_description
+      label: policy_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: policy_area_other
+      label: policy_area_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: policy_effectiveness
+      label: policy_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: policy_implementation
+      label: policy_implementation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: policy_barriers
+      label: policy_barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_benefits
+      label: policy_benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_implementation_barriers
+      label: policy_implementation_barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_implementation_benefits
+      label: policy_implementation_benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_awareness
+      label: policy_awareness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: policy_awareness_other
+      label: policy_awareness_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_recommendation
+      label: policy_recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: policy_recommendation_other
+      label: policy_recommendation_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_awareness_source
+      label: policy_awareness_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: policy_awareness_source_other
+      label: policy_awareness_source_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_awareness_confidence
+      label: policy_awareness_confidence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: policy_awareness_confidence_other
+      label: policy_awareness_confidence_other
+      hint: null
+      type: text
+      options: []
+      required: false

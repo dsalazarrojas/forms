@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Presentation Follow Up Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name as registered in medical records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visit_date
+      label: Original Clinic Visit Date
+      hint: Date of the appointment being followed up
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: follow_up_date
+      label: Follow Up Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_symptoms
+      label: -- Current Symptoms --
+      hint: Report any symptoms you are currently experiencing
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_symptoms
+      label: Have your primary symptoms improved, worsened, or stayed the same
+      hint: null
+      type: select_one
+      options:
+      - Improved significantly
+      - Improved slightly
+      - Stayed the same
+      - Worsened slightly
+      - Worsened significantly
+      required: true
+    - id: 7
+      name: symptom_description
+      label: Describe any new or persistent symptoms
+      hint: Provide details about symptoms you are experiencing
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_treatment
+      label: -- Treatment and Medication --
+      hint: Information about prescribed treatments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medications_taken
+      label: Are you taking your prescribed medications as directed
+      hint: null
+      type: select_one
+      options:
+      - Yes, all medications
+      - Yes, most medications
+      - Sometimes
+      - No, not taking them
+      - Not prescribed any medications
+      required: true
+    - id: 10
+      name: medication_adherence_reason
+      label: If not taking medications, please explain
+      hint: Optional - help us understand any barriers
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: side_effects
+      label: Have you experienced any side effects from your medications
+      hint: null
+      type: select_one
+      options:
+      - No side effects
+      - Mild side effects
+      - Moderate side effects
+      - Severe side effects
+      - Uncertain
+      required: true
+    - id: 12
+      name: side_effect_details
+      label: Please describe the side effects
+      hint: Detail type, timing, and severity
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment_compliance
+      label: Have you completed all recommended treatments
+      hint: null
+      type: select_one
+      options:
+      - Yes, all treatments completed
+      - Partially completed
+      - Have not started
+      - Not applicable
+      required: true
+    - id: 14
+      name: section_lifestyle
+      label: -- Lifestyle and Wellness --
+      hint: General health and wellness information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: lifestyle_changes
+      label: Have you made any lifestyle changes recommended by your clinician
+      hint: null
+      type: select_multiple
+      options:
+      - Dietary changes
+      - Exercise or physical activity
+      - Sleep improvements
+      - Stress management
+      - Smoking or alcohol reduction
+      - Other
+      - No changes made
+      required: false
+    - id: 16
+      name: activity_level
+      label: How would you rate your current activity level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly active
+      - Moderately active
+      - Very active
+      - Unable to assess
+      required: true
+    - id: 17
+      name: section_appointments
+      label: -- Follow Up Care --
+      hint: Information about future care needs
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: appointments_needed
+      label: Do you need any additional appointments or specialist referrals
+      hint: null
+      type: select_one
+      options:
+      - Yes, urgent
+      - Yes, soon
+      - Maybe, not sure
+      - No, not needed
+      - Already scheduled
+      required: true
+    - id: 19
+      name: concerns
+      label: What health concerns do you have since your last visit
+      hint: List any new or ongoing concerns
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: clinician_contact
+      label: Do you feel you can contact your clinician if needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, very accessible
+      - Somewhat accessible
+      - Not sure
+      - No, difficult to reach
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional notes or comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

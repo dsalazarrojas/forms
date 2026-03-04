@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Care Planning Survey
+    pages:
+    - id: 1
+      name: planning_header
+      label: -- Care Planning Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: living_will_status
+      label: Living will in place
+      hint: Indicate if documented
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Unsure
+      required: false
+    - id: 4
+      name: health_care_agent
+      label: Health care agent appointed
+      hint: Name and contact if yes
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: end_of_life_preferences
+      label: End of life care preferences
+      hint: Describe preferences succinctly
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organ_donation_preference
+      label: Organ donation preference
+      hint: Choose preference
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Undecided
+      required: true
+    - id: 7
+      name: palliative_care_interest
+      label: Interest in palliative care
+      hint: Would you like information
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 8
+      name: concerns_or_questions
+      label: Concerns or questions
+      hint: Anything you would like to discuss
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_for_follow_up
+      label: Contact info for follow up
+      hint: Provide phone or email
+      type: text
+      options: []
+      required: false

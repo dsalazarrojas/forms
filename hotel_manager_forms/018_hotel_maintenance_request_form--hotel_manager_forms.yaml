@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Maintenance Request Form
+    pages:
+    - id: 1
+      name: general
+      label: general
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''General'', ''value'': ''general''}'
+      - '{''id'': 2, ''label'': ''Maintenance'', ''value'': ''maintenance''}'
+      - '{''id'': 3, ''label'': ''Repair'', ''value'': ''repair''}'
+      required: false
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 6
+      name: maintenance_request
+      label: maintenance_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_location
+      label: issue_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Hallway'', ''value'': ''hall''}'
+      - '{''id'': 2, ''label'': ''Bathroom'', ''value'': ''bathroom''}'
+      - '{''id'': 3, ''label'': ''Bedroom'', ''value'': ''bedroom''}'
+      - '{''id'': 4, ''label'': ''Lobby'', ''value'': ''lobby''}'
+      - '{''id'': 5, ''label'': ''Elevator'', ''value'': ''elevator''}'
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_time
+      label: date_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Biller Application Form
+    pages:
+    - id: 1
+      name: medical_biller_application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_years
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: experience_description
+      label: Experience Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability_days_per_week
+      label: Availability Days Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: availability_hours_per_week
+      label: Availability Hours Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: work_days_per_week
+      label: Work Days Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_hours_per_day
+      label: Work Hours Per Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: break_duration
+      label: Break Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 11
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: medical_school_attended
+      label: Medical School Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: medical_degree
+      label: Medical Degree
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: malpractice_insurance
+      label: Malpractice Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Required
+      required: false
+    - id: 16
+      name: malpractice_coverage
+      label: Malpractice Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - In House
+      - Out of House
+      required: false
+    - id: 17
+      name: malpractice_limit
+      label: Malpractice Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: malpractice_coverage_limit
+      label: Malpractice Coverage Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: medical_biller_application_fee
+      label: Medical Biller Application Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: medical_biller_application_fee_currency
+      label: Medical Biller Application Fee Currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - CAD
+      required: false
+    - id: 21
+      name: medical_biller_application_fee_amount
+      label: Medical Biller Application Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: medical_biller_application_fee_payment_method
+      label: Medical Biller Application Fee Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Credit Card
+      - Cash
+      required: false
+    - id: 23
+      name: medical_biller_application_fee_includes
+      label: Medical Biller Application Fee Includes
+      hint: null
+      type: select_multiple
+      options:
+      - Certification
+      - Application Fee
+      - Other
+      required: false
+    - id: 24
+      name: medical_biller_application_fee_refund_policy
+      label: Medical Biller Application Fee Refund Policy
+      hint: null
+      type: select_multiple
+      options:
+      - Full Refund
+      - Partial Refund
+      - No Refund
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false

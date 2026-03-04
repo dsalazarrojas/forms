@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Health Integration Form
+    pages:
+    - id: 1
+      name: section_patient
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_family
+      label: -- Family Member/Caretaker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: family_member_name
+      label: Family Member/Caretaker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: relationship
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Adult Child
+      - Parent
+      - Sibling
+      - Other Family
+      - Caretaker
+      required: true
+    - id: 10
+      name: family_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: family_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: section_services
+      label: -- Behavioral Health Services Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Type of Behavioral Health Service Recommended
+      hint: null
+      type: select_one
+      options:
+      - Counseling
+      - Therapy
+      - Psychiatric Evaluation
+      - Substance Abuse Treatment
+      - Mental Health Crisis Support
+      - Wellness Program
+      - Other
+      required: true
+    - id: 14
+      name: service_provider
+      label: Recommended Provider/Facility
+      hint: Name or facility
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Soon (within 2 weeks)
+      - Urgent (within days)
+      - Emergency
+      required: true
+    - id: 17
+      name: section_consent
+      label: -- Information Sharing Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: consent_sharing
+      label: I consent to share behavioral health information
+      hint: Between medical provider and behavioral health provider
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: consent_family_notification
+      label: Family member may be notified of services
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - With Limits
+      required: true
+    - id: 20
+      name: section_commitment
+      label: -- Commitment to Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: patient_commitment
+      label: I commit to attending recommended services
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 22
+      name: family_support
+      label: Family will support patient participation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: form_date
+      label: Date of Form Completion
+      hint: null
+      type: date
+      options: []
+      required: true

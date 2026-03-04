@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Facility Selection Survey
+    pages:
+    - id: 1
+      name: selection_header
+      label: -- Selection Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional enter if comfortable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_to_patient
+      label: Relationship to patient
+      hint: Select relationship
+      type: select_one
+      options:
+      - Self
+      - Family member
+      - Care manager
+      - Other
+      required: true
+    - id: 4
+      name: important_factors
+      label: Most important factors when selecting a facility
+      hint: Select up to three
+      type: select_multiple
+      options:
+      - Location
+      - Cost
+      - Quality of care
+      - Staff qualifications
+      - Amenities
+      required: true
+    - id: 5
+      name: maximum_budget
+      label: Maximum budget per month
+      hint: Enter approximate amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: preferred_location
+      label: Preferred location or area
+      hint: City neighborhood or postcode
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: required_services
+      label: Required services
+      hint: Services patient must have
+      type: select_multiple
+      options:
+      - Skilled nursing
+      - Physical therapy
+      - Memory care
+      - Respite care
+      required: true
+    - id: 8
+      name: visit_priority
+      label: Priority for in person visit
+      hint: How soon would you like a tour
+      type: select_one
+      options:
+      - Within one week
+      - Within one month
+      - No preference
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Any other preferences or notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share
+      label: Consent to share information with facilities
+      hint: Allow sharing of preferences
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

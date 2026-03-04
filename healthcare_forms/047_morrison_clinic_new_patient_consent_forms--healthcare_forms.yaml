@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: morrison_clinic_new_patient_consent_forms
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Address
+      required: false
+    - id: 4
+      name: emergency_info
+      label: Emergency Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Phone
+      - Relationship
+      - Address
+      required: false
+    - id: 5
+      name: contact_purpose
+      label: Contact Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false

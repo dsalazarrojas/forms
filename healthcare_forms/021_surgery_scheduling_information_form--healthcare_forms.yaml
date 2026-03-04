@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Scheduling Information Form
+    pages:
+    - id: 1
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Surgery Scheduling Information Form
+      - Surgery Scheduling Information Form
+      - Surgery Scheduling Information Form
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history_date
+      label: Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Partner
+      - Son
+      - Daughter
+      - Son-in-law
+      - Daughter-in-law
+      - Grandson
+      - Granddaughter
+      - Grandson-in-law
+      - Granddaughter-in-law
+      - Nephew
+      - Niece
+      - Parent
+      - Parent's Parent
+      - Sibling
+      - Spouse's Parent
+      - Other
+      required: false
+    - id: 12
+      name: procedure
+      label: Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: anesthesia_type
+      label: Type of Anesthesia
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: procedure_steps
+      label: Procedure Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: surgical_date
+      label: Surgical Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: surgeon
+      label: Surgeon
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medical_history_other
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_other_notes
+      label: Other Medical History Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition_notes
+      label: Medical Condition Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Party Date Poll
+    pages:
+    - id: 1
+      name: holiday_party_date_poll_form
+      label: Choose Date
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: holiday_party_date_poll_form_date
+      label: Date
+      hint: Choose date
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: holiday_party_date_poll_form_attendance
+      label: Attendance
+      hint: Choose attendance
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Maybe
+      required: false
+    - id: 4
+      name: holiday_party_date_poll_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

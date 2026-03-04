@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Eye Care Feedback Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Parent/guardian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: eye_clinic_visit
+      label: Visit to the eye clinic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      required: false
+    - id: 5
+      name: feedback_comment
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''parent'', ''label'': ''Parent''}'
+      - '{''value'': ''guardian'', ''label'': ''Guardian''}'
+      required: false
+    - id: 10
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''0-1'', ''label'': ''0-1''}'
+      - '{''value'': ''2-4'', ''label'': ''2-4''}'
+      - '{''value'': ''5-10'', ''label'': ''5-10''}'
+      - '{''value'': ''11-16'', ''label'': ''11-16''}'
+      - '{''value'': ''17-24'', ''label'': ''17-24''}'
+      - '{''value'': ''25+'', ''label'': ''25+''}'
+      required: false

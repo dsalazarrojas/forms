@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bach Flower Remedies Selection Survey
+    pages:
+      - id: 1
+        name: client_name
+        label: Client name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: assessment_date
+        label: Assessment date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: emotional_state
+        label: Primary emotional state
+        hint: Select applicable states
+        type: select_multiple
+        options: [Anxious, Sad, Overwhelmed, Irritable, Indecisive, Lonely]
+        required: true
+      - id: 4
+        name: symptom_severity
+        label: Symptom severity
+        hint: Rate from 1 low to 5 high
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 5
+        name: sleep_quality
+        label: Sleep quality
+        hint: Recent sleep pattern
+        type: select_one
+        options: [Poor, Fair, Good, Excellent]
+        required: false
+      - id: 6
+        name: stress_triggers
+        label: Primary stress triggers
+        hint: Work family health finances
+        type: select_multiple
+        options: [Work, Family, Health, Financial, Other]
+        required: false
+      - id: 7
+        name: desired_outcome
+        label: Desired outcome from remedies
+        hint: What client hopes to achieve
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: prior_remedies
+        label: Prior remedy use
+        hint: Previous Bach flower or other remedies
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: practitioner_notes
+        label: Practitioner notes
+        hint: For clinician use only
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: consent_to_treatment
+        label: Consent to treatment and record keeping
+        hint: Client consent required
+        type: select_one
+        options: [Yes, No]
+        required: true

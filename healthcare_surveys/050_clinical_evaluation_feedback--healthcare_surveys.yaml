@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Evaluation Feedback
+    pages:
+    - id: 1
+      name: participant_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name or ID
+      hint: Optional - can remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_section
+      label: -- Clinical Evaluation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evaluator_name
+      label: Clinician/Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: clinical_setting
+      label: Clinical Setting
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Testing center
+      - Educational institution
+      - Research facility
+      - Other
+      required: true
+    - id: 8
+      name: evaluation_type
+      label: Type of Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Patient care
+      - Student performance
+      - Staff competency
+      - Program quality
+      - Treatment outcome
+      - Other
+      required: true
+    - id: 9
+      name: experience_section
+      label: -- Your Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: process_clarity
+      label: Evaluation process was clearly explained
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: fairness
+      label: Evaluation was fair and objective
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: professionalism
+      label: Evaluator was professional and respectful
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 13
+      name: feedback_section
+      label: -- Feedback Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: feedback_clarity
+      label: Feedback was clear and constructive
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: feedback_usefulness
+      label: Feedback was useful for improvement
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 16
+      name: specific_examples
+      label: Feedback included specific examples
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 17
+      name: satisfaction_section
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall satisfaction with evaluation
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 19
+      name: confidence_in_evaluation
+      label: I am confident in the evaluation results
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 20
+      name: comments_section
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: positive_feedback
+      label: What went well in the evaluation?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvement_areas
+      label: Areas for improvement in the evaluation process
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Optional
+      type: text
+      options: []
+      required: false

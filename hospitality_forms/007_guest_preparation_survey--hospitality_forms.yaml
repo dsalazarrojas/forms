@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Preparation Survey
+    pages:
+    - id: 1
+      name: guest_type
+      label: Guest Type
+      hint: null
+      type: select_one
+      options:
+      - Guest
+      - Staff
+      - Vendor
+      - Other
+      required: false
+    - id: 2
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Resort
+      - Motel
+      - Other
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: arrival_method
+      label: Arrival Method
+      hint: null
+      type: select_one
+      options:
+      - By Car
+      - By Plane
+      - By Train
+      - Other
+      required: false
+    - id: 9
+      name: arrival_details
+      label: Arrival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: arrival_notes
+      label: Arrival Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Other
+      required: false
+    - id: 12
+      name: special_request_details
+      label: Special Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parking_details
+      label: Parking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

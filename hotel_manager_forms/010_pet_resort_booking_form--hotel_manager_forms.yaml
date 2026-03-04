@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Resort Booking Form
+    pages:
+    - id: 1
+      name: pet_resort_booking_form
+      label: pet_resort_booking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''dog''}'
+      - '{''name'': ''cat''}'
+      - '{''name'': ''other''}'
+      required: false
+    - id: 4
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_count
+      label: participant_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_participant
+      label: confirm_participant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 11
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: NHS Style Form
+    pages:
+    - id: 1
+      name: main_page
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surname
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_provider
+      label: Medical Record Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Doctor'', ''value'': ''doctor''}'
+      - '{''id'': 2, ''label'': ''Nurse'', ''value'': ''nurse''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      required: false
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male'', ''value'': ''male''}'
+      - '{''id'': 2, ''label'': ''Female'', ''value'': ''female''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: post_code
+      label: Postcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_record_notes
+      label: Medical Record Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_status
+      label: Medical Record Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: medical_record_status_notes
+      label: Medical Record Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_record_type_notes
+      label: Medical Record Type Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_specialty_2
+      label: Medical Specialty 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_record_provider_2
+      label: Medical Record Provider 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: medical_record_notes_2
+      label: Medical Record Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_record_status_2
+      label: Medical Record Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: medical_record_notes_2
+      label: Medical Record Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_provider_2_2
+      label: Medical Record Provider 2 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: medical_record_provider_3
+      label: Medical Record Provider 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

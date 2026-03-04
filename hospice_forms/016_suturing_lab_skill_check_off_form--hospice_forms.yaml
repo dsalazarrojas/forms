@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suturing Lab Skill Check Off Form
+    pages:
+    - id: 1
+      name: suturing_lab_skill_check_off_form_page1
+      label: medical_practitioner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procedure
+      label: procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: suturing_device_type
+      label: suturing_device_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: patient_safety_precautions
+      label: patient_safety_precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: knowledge_of_suturing_techiques
+      label: knowledge_of_suturing_techiques
+      hint: null
+      type: text
+      options: []
+      required: false

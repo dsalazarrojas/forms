@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinician Survey - Diabetes and Hearing Loss
+    pages:
+    - id: 1
+      name: clinician_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: specialty
+      label: Your Primary Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Endocrinology
+      - Otolaryngology (ENT)
+      - General Medicine
+      - Family Medicine
+      - Internal Medicine
+      - Other
+      required: true
+    - id: 3
+      name: years_experience
+      label: Years of clinical experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: institution_type
+      label: Type of healthcare institution
+      hint: null
+      type: select_one
+      options:
+      - Academic Medical Center
+      - Private Practice
+      - Community Health Center
+      - Hospital
+      - Clinic
+      - Other
+      required: true
+    - id: 5
+      name: section_diabetes
+      label: -- Diabetes Management --
+      hint: Questions about diabetes practice
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_volume_diabetes
+      label: Approximate number of patients with diabetes you care for
+      hint: null
+      type: select_one
+      options:
+      - Less than 50
+      - 50-100
+      - 100-250
+      - 250-500
+      - More than 500
+      - Not applicable
+      required: true
+    - id: 7
+      name: diabetes_awareness
+      label: Are you aware of the link between diabetes and hearing loss
+      hint: null
+      type: select_one
+      options:
+      - Yes, very aware
+      - Somewhat aware
+      - Minimally aware
+      - Not aware
+      required: true
+    - id: 8
+      name: hearing_screening
+      label: Do you routinely screen diabetic patients for hearing loss
+      hint: null
+      type: select_one
+      options:
+      - Always or almost always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: screening_barriers
+      label: What are the main barriers to hearing screening in diabetes care
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of awareness of link
+      - Time constraints
+      - Lack of referral resources
+      - Cost considerations
+      - Patient resistance
+      - Not standard of care
+      - Other
+      required: false
+    - id: 10
+      name: section_hearing
+      label: -- Hearing Loss Assessment --
+      hint: Questions about hearing loss practices
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hearing_education
+      label: Do you educate diabetic patients about hearing loss risk
+      hint: null
+      type: select_one
+      options:
+      - Yes, routinely
+      - Yes, sometimes
+      - No, rarely
+      - No, never
+      required: true
+    - id: 12
+      name: referral_practices
+      label: Do you refer diabetic patients with hearing loss to audiology
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: audiology_access
+      label: Is audiology easily accessible for your patients
+      hint: null
+      type: select_one
+      options:
+      - Yes, very accessible
+      - Somewhat accessible
+      - Limited access
+      - No access available
+      required: true
+    - id: 14
+      name: section_current
+      label: -- Current Practice Patterns --
+      hint: Your existing protocols and approaches
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_protocols
+      label: Do you have formal protocols for diabetes and hearing loss assessment
+      hint: null
+      type: select_one
+      options:
+      - Yes, detailed protocols
+      - Yes, basic guidelines
+      - No formal protocols
+      - Not sure
+      required: true
+    - id: 16
+      name: interdisciplinary
+      label: Do you collaborate with other specialists on diabetes care
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - No, rarely
+      - No, never
+      required: true
+    - id: 17
+      name: section_knowledge
+      label: -- Knowledge and Confidence --
+      hint: Assess your knowledge and comfort level
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: knowledge_confidence
+      label: How confident are you in your knowledge about diabetes-related hearing
+        loss
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Moderately confident
+      - Somewhat uncertain
+      - Very uncertain
+      required: true
+    - id: 19
+      name: training_needs
+      label: Would additional training on this topic be valuable
+      hint: null
+      type: select_one
+      options:
+      - Yes, very valuable
+      - Yes, somewhat valuable
+      - Neutral
+      - No, not needed
+      required: true
+    - id: 20
+      name: section_support
+      label: -- Support and Resources --
+      hint: What would help improve care
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: needed_resources
+      label: Which resources would most help your practice
+      hint: null
+      type: select_multiple
+      options:
+      - Clinical guidelines
+      - Patient education materials
+      - Screening tools
+      - Referral network connections
+      - Staff training programs
+      - Technology solutions
+      - Research data
+      - None
+      required: false
+    - id: 22
+      name: interested_collaboration
+      label: Would you be interested in participating in research on this topic
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, possibly
+      - Maybe
+      - Probably not
+      - false
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

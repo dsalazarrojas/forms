@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Medical History Form
+    pages:
+    - id: 1
+      name: family_medical_history_form
+      label: Family medical history form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_history
+      label: Family history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history_questions
+      label: Medical history questions
+      hint: null
+      type: text
+      options: []
+      required: false

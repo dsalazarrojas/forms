@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiology Referral Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: test_request
+      label: Test Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - Blood Gas Analysis
+      - ECG
+      - Chest X-Ray
+      required: true
+    - id: 5
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 7
+      name: test_location
+      label: Test Location
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic
+      - Hospital
+      - Home
+      required: true
+    - id: 8
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: clinical_diagnosis
+      label: Clinical Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_request_comments
+      label: Test Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_order
+      label: Test Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: laboratory_result_comments
+      label: Laboratory Result Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_phone_type
+      label: Patient Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Landline
+      - Mobile
+      - Fax
+      required: true
+    - id: 25
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Canceled
+      required: true

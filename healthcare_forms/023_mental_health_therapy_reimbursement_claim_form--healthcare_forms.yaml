@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Therapy Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_info
+      label: Session Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_info
+      label: Billing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Claim Approved
+      - Claim Denied
+      - Claim Pending
+      required: false
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_reason
+      label: Claim Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: provider_info
+      label: Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Inpatient
+      - Outpatient
+      - Other
+      required: false
+    - id: 11
+      name: claim_frequency
+      label: Claim Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: claim_duration
+      label: Claim Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: claim_amount_captured
+      label: Claim Amount Captured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: claim_currency
+      label: Claim Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - Other
+      required: false
+    - id: 15
+      name: claim_currency_rate
+      label: Claim Currency Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: claim_total_amount
+      label: Claim Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: claim_tax_rate
+      label: Claim Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: claim_total_claim
+      label: Claim Total Claim
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: claim_total_amount_captured
+      label: Claim Total Amount Captured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: claim_currency_exchange_rate
+      label: Claim Currency Exchange Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: claim_total_tax_rate
+      label: Claim Total Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: claim_other_claim
+      label: Other Claim
+      hint: null
+      type: select_multiple
+      options:
+      - Other Claim 1
+      - Other Claim 2
+      - Other Claim 3
+      required: false
+    - id: 23
+      name: claim_other_amount
+      label: Other Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: claim_other_currency_rate
+      label: Other Claim Currency Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: claim_other_claim_currency
+      label: Other Claim Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - Other
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Tech Integration Readiness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: organizational_readiness
+      label: organizational_readiness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: barriers
+      label: barriers
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option_1'', ''value'': ''option_1''}'
+      - '{''label'': ''option_2'', ''value'': ''option_2''}'
+      - '{''label'': ''option_3'', ''value'': ''option_3''}'
+      required: true
+    - id: 5
+      name: integration_level
+      label: integration_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: tech_stack
+      label: tech_stack
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: submission_info
+      label: submission_info
+      hint: null
+      type: text
+      options: []
+      required: false

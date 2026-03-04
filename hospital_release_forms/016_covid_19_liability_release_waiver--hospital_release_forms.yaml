@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Liability Release Waiver
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_activity_description
+      label: -- Activity Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: activity_type
+      label: Activity or Service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: activity_date
+      label: Date of Activity
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: section_health_status
+      label: -- Health Status and Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: acknowledge_covid_risk
+      label: I acknowledge the risk of COVID-19 transmission
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: no_covid_symptoms
+      label: I certify that I do not have COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: not_diagnosed
+      label: I have not been diagnosed with COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: no_close_contact
+      label: I have not had close contact with a confirmed COVID-19 case in the past
+        14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: section_liability_waiver
+      label: -- Liability Waiver Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assume_risk
+      label: I voluntarily assume all risks related to COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 20
+      name: release_liability
+      label: I release and hold harmless the organization from any COVID-19 related
+        claims
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 21
+      name: waiver_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: acknowledgment_signature
+      label: I acknowledge and accept this waiver
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_trainer_interview_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: previous_company
+      label: previous_company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''next step 1'', ''value'': ''next step 1''}'
+      - '{''id'': 2, ''label'': ''next step 2'', ''value'': ''next step 2''}'
+      - '{''id'': 3, ''label'': ''next step 3'', ''value'': ''next step 3''}'
+      required: true
+    - id: 5
+      name: interview_date
+      label: interview_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interview_time
+      label: interview_time
+      hint: null
+      type: time
+      options: []
+      required: true

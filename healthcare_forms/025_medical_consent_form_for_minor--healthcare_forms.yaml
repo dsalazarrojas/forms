@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consent Form For Minor
+    pages:
+    - id: 1
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: minor_details
+      label: Minor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: provider_info
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false

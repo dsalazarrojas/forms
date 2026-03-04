@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anger Management Evaluation Form
+    pages:
+    - id: 1
+      name: section_client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referral_reason
+      label: Reason for referral
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: frequency_of_anger
+      label: Frequency of anger episodes
+      hint: Select one
+      type: select_one
+      options: [Daily, Weekly, Monthly, Rarely]
+      required: false
+    - id: 5
+      name: triggers
+      label: Common triggers
+      hint: List typical triggers
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prior_treatment
+      label: Prior treatment history
+      hint: Any counseling or therapy
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment
+      label: Risk assessment result
+      hint: Low medium or high
+      type: select_one
+      options: [Low, Medium, High]
+      required: true
+    - id: 8
+      name: evaluator_notes
+      label: Evaluator notes
+      hint: For clinician use
+      type: text
+      options: []
+      required: false

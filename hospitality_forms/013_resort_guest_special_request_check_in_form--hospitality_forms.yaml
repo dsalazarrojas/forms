@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: resort_guest_special_request_check_in_form
+    pages:
+    - id: 1
+      name: guest_preferences
+      label: Guest Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 6
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact_frequency
+      label: Preferred Contact Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Twice a day
+      - Three times a day
+      required: false
+    - id: 8
+      name: preferred_meal_time
+      label: Preferred Meal Time
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 9
+      name: preferred_smoking_area
+      label: Preferred Smoking Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: preferred_view
+      label: Preferred View
+      hint: null
+      type: select_one
+      options:
+      - Sea View
+      - Pool View
+      - Mountain View
+      required: false
+    - id: 11
+      name: preferred_activity
+      label: Preferred Activity
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Pool
+      - Outdoor
+      required: false
+    - id: 12
+      name: preferred_room_type
+      label: Preferred Room Type
+      hint: null
+      type: select_one
+      options:
+      - King
+      - Queen
+      - Twin
+      required: false
+    - id: 13
+      name: preferred_room_location
+      label: Preferred Room Location
+      hint: null
+      type: select_one
+      options:
+      - Beachfront
+      - Poolside
+      - Mountain
+      required: false
+    - id: 14
+      name: preferred_bed_type
+      label: Preferred Bed Type
+      hint: null
+      type: select_one
+      options:
+      - King
+      - Queen
+      - Twin
+      required: false
+    - id: 15
+      name: preferred_bathroom_preferences
+      label: Preferred Bathroom Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: preferred_meal_preferences
+      label: Preferred Meal Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: preferred_transportation
+      label: Preferred Transportation
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      required: false

@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bed And Breakfast Review
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: stay_date
+      label: Date of Stay
+      hint: When did you stay with us
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: checkout_date
+      label: Checkout Date
+      hint: When did you check out
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: room_number
+      label: Room Number or Name
+      hint: Which room did you stay in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: room_type
+      label: Room Type
+      hint: Type of room
+      type: select_one
+      options:
+      - Standard Room
+      - Deluxe Room
+      - Suite
+      - Family Room
+      - Cottage or Cabin
+      - Other
+      required: true
+    - id: 7
+      name: number_of_nights
+      label: Number of Nights
+      hint: How many nights did you stay
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many guests in your party
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Why did you visit
+      type: select_one
+      options:
+      - Leisure or Vacation
+      - Business
+      - Wedding or Event
+      - Anniversary or Celebration
+      - Visiting Family or Friends
+      - Other
+      required: true
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied were you with your stay
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: How clean was your room and facilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: comfort_rating
+      label: Comfort Rating
+      hint: How comfortable was your room
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: How friendly was our staff
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 14
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: How helpful was our staff
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: breakfast_quality
+      label: Breakfast Quality
+      hint: How was the breakfast
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Did Not Have Breakfast
+      required: true
+    - id: 16
+      name: room_amenities
+      label: Room Amenities
+      hint: How were the room amenities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 17
+      name: location_rating
+      label: Location Rating
+      hint: How would you rate our location
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: value_for_money
+      label: Value for Money
+      hint: Was your stay worth the price
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 19
+      name: wifi_quality
+      label: WiFi Quality
+      hint: How was the internet connection
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Did Not Use
+      required: true
+    - id: 20
+      name: favorite_feature
+      label: Favorite Feature
+      hint: What did you like most about your stay
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: What could we improve
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: likelihood_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend us
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 23
+      name: will_return
+      label: Will You Return
+      hint: Do you plan to visit us again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

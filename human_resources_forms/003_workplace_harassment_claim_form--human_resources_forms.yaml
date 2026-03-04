@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Harassment Claim Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: description_of_incident
+      label: description_of_incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: perpetrator
+      label: perpetrator
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: witness_list
+      label: witness_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_info
+      label: employee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment
+      label: attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: case_status
+      label: case_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: investigator
+      label: investigator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: closure_date
+      label: closure_date
+      hint: null
+      type: date
+      options: []
+      required: false

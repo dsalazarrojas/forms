@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient History Questionnaire
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: patient_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: medical_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_frequency
+      label: frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_specialist
+      label: medical_specialist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_tests
+      label: medical_tests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_results
+      label: medical_results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_procedures
+      label: medical_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: family_history
+      label: family_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

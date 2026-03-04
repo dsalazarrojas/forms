@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Result Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: lab_order_id
+      label: Lab Order ID
+      hint: Please provide your Lab Order ID
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: result_date
+      label: Result Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: result_value
+      label: Result Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: test_name
+      label: Test Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lab_name
+      label: Lab Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: text
+      options: []
+      required: true

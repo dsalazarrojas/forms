@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Three Factor Eating Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: eating_habits
+      label: Eating Habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Rarely''}'
+      required: true
+    - id: 3
+      name: eating_frequency
+      label: Eating Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: eating_frequency_scale
+      label: Eating Frequency Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: true
+    - id: 5
+      name: eating_frequency_scale_type
+      label: Eating Frequency Scale Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: true
+    - id: 6
+      name: eating_frequency_scale_description
+      label: Eating Frequency Scale Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: food_groups
+      label: Food Groups
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Carbohydrates''}'
+      - '{''label'': ''Fats''}'
+      - '{''label'': ''Sugary Foods''}'
+      - '{''label'': ''Protein''}'
+      required: true
+    - id: 8
+      name: food_groups_description
+      label: Food Groups Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food_groups_scale
+      label: Food Groups Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 10
+      name: food_groups_scale_type
+      label: Food Groups Scale Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Carbohydrates''}'
+      - '{''label'': ''Fats''}'
+      - '{''label'': ''Sugary Foods''}'
+      - '{''label'': ''Protein''}'
+      required: false
+    - id: 11
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_goals_description
+      label: Patient Goals Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_goals_scale
+      label: Patient Goals Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 14
+      name: patient_goals_scale_type
+      label: Patient Goals Scale Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Carbohydrates''}'
+      - '{''label'': ''Fats''}'
+      - '{''label'': ''Sugary Foods''}'
+      - '{''label'': ''Protein''}'
+      required: false
+    - id: 15
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: healthcare_provider_name_2
+      label: Healthcare Provider Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider_email_2
+      label: Healthcare Provider Email 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider_phone_2
+      label: Healthcare Provider Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_name_2
+      label: Patient Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_email_2
+      label: Patient Email 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: patient_phone_2
+      label: Patient Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false

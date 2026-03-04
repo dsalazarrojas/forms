@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Prescription Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dosage
+      label: Dosage
+      hint: Enter the medication dosage
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: Enter the frequency of medication
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prescription_date
+      label: Prescription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: prescription_note
+      label: Prescription Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: prescription_status
+      label: Prescription Status
+      hint: Active or Inactive
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: prescriber_name
+      label: Prescriber Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: Enter patient phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_phone
+      label: Provider Phone
+      hint: Enter provider phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_last_refill
+      label: Date of Last Refill
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: refill_count
+      label: Refill Count
+      hint: Enter the refill count
+      type: number
+      options: []
+      required: false

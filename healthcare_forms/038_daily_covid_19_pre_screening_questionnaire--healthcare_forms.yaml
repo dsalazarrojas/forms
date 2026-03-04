@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: daily_covid_19_pre_screening_questionnaire
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: Name of healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''No Medical Condition'', ''label'': ''No Medical Condition''}'
+      - '{''id'': 2, ''name'': ''Medical Condition Present'', ''label'': ''Medical
+        Condition Present''}'
+      - '{''id'': 3, ''name'': ''Unknown Medical Condition'', ''label'': ''Unknown
+        Medical Condition''}'
+      required: false
+    - id: 5
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vaccine_interest
+      label: Interested in Vaccine
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - '{''id'': 3, ''name'': ''Undecided'', ''label'': ''Undecided''}'
+      required: false
+    - id: 7
+      name: patient_symptoms
+      label: Patient Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Fever'', ''label'': ''Fever''}'
+      - '{''id'': 2, ''name'': ''Chills'', ''label'': ''Chills''}'
+      - '{''id'': 3, ''name'': ''Muscle'', ''label'': ''Muscle''}'
+      - '{''id'': 4, ''name'': ''Fatigue'', ''label'': ''Fatigue''}'
+      - '{''id'': 5, ''name'': ''Headache'', ''label'': ''Headache''}'
+      required: false
+    - id: 8
+      name: medical_travel_history
+      label: Medical Travel History
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': False, ''label'': False}'
+      - '{''id'': 2, ''name'': True, ''label'': True}'
+      required: false
+    - id: 9
+      name: medical_conditions_present
+      label: Medical Conditions Present
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High Blood Pressure'', ''label'': ''High Blood Pressure''}'
+      - '{''id'': 2, ''name'': ''Diabetes'', ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: previous_vaccinations
+      label: Previous Vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''None'', ''label'': ''None''}'
+      - '{''id'': 2, ''name'': ''Vaccinated'', ''label'': ''Vaccinated''}'
+      required: false
+    - id: 11
+      name: medical_device_use
+      label: Medical Device Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''None'', ''label'': ''None''}'
+      - '{''id'': 2, ''name'': True, ''label'': True}'
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: PICU LfE Reporting Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reporting_time_zone
+      label: Reporting Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false

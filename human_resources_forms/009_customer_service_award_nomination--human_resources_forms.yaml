@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Award Nomination
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''A'', ''name'': ''Customer Service'', ''label'': ''Customer Service'',
+        ''value'': ''Customer Service''}'
+      - '{''id'': ''B'', ''name'': ''Other'', ''label'': ''Other'', ''value'': ''Other''}'
+      - '{''id'': ''C'', ''name'': ''Team Player'', ''label'': ''Team Player'', ''value'':
+        ''Team Player''}'
+      required: false
+    - id: 7
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_job_title
+      label: Employee Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_department
+      label: Manager Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_achievement
+      label: Employee Achievement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_agree
+      label: I agree to the
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''A'', ''name'': ''terms_of_service_1'', ''label'': ''terms of service
+        1'', ''value'': ''terms of service 1''}'
+      - '{''id'': ''B'', ''name'': ''terms_of_service_2'', ''label'': ''terms of service
+        2'', ''value'': ''terms of service 2''}'
+      - '{''id'': ''C'', ''name'': ''terms_of_service_3'', ''label'': ''terms of service
+        3'', ''value'': ''terms of service 3''}'
+      required: false
+    - id: 23
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: review
+      label: Review
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''A'', ''name'': ''pending'', ''label'': ''pending'', ''value'':
+        ''pending''}'
+      - '{''id'': ''B'', ''name'': ''approved'', ''label'': ''approved'', ''value'':
+        ''approved''}'
+      - '{''id'': ''C'', ''name'': ''rejected'', ''label'': ''rejected'', ''value'':
+        ''rejected''}'
+      required: false
+    - id: 25
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false

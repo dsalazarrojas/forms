@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Informed Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_study
+      label: Research Study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: researcher_information
+      label: Researcher Information
+      hint: Contact information for researchers involved in the study
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: study_location
+      label: Study Location
+      hint: Address or location of the study
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_statement
+      label: Participant Statement
+      hint: A statement about the participant's rights
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: researcher_statement
+      label: Researcher Statement
+      hint: A statement about the researcher's rights
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: Contact information for future reference
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: research_institutional_review
+      label: Research Institutional Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_institutional_review
+      label: Other Institutional Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_signature
+      label: Participant Signature
+      hint: Participant signature (participant's name or initials)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: researcher_signature
+      label: Researcher Signature
+      hint: Researcher signature (researcher's name or initials)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: study_id
+      label: Study ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: research_study_name
+      label: Research Study Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: study_status
+      label: Study Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: institutional_review_date
+      label: Institutional Review Date
+      hint: Date of Institutional Review
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: institutional_review_version
+      label: Institutional Review Version
+      hint: Version of Institutional Review
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_institutional_review_version
+      label: Other Institutional Review Version
+      hint: Version of Other Institutional Review
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_version
+      label: Participant Version
+      hint: Participant version of Institutional Review
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: institutional_review_status
+      label: Institutional Review Status
+      hint: Status of Institutional Review
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: participant_review
+      label: Participant Review
+      hint: Participant review (yes/no)
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_review_status
+      label: Participant Review Status
+      hint: Participant review status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

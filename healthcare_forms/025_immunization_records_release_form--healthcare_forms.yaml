@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: immunization_records_release_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider_consent
+      label: Healthcare Provider Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      required: false
+    - id: 4
+      name: healthcare_providers_list
+      label: Healthcare Providers List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: immunization_records
+      label: Immunization Records
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: school_enrollment_information
+      label: School Enrollment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_enrollment
+      label: School Enrollment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      required: false
+    - id: 9
+      name: childcare_facility_enrollment
+      label: Childcare Facility Enrollment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      required: false
+    - id: 10
+      name: immunization_records_release
+      label: Immunization Records Release
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      required: false

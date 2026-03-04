@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canyonview Ministries Reference Form
+    pages:
+    - id: 1
+      name: reference_information
+      label: Reference Information
+      hint: Information about the person providing the reference
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reference_name
+      label: Your Name
+      hint: Full name of the reference provider
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reference_title
+      label: Your Title/Position
+      hint: Your current job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization or company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reference_email
+      label: Your Email
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: reference_phone
+      label: Your Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_applicant
+      label: Relationship to Applicant
+      hint: How do you know the applicant?
+      type: select_one
+      options:
+      - Former Supervisor
+      - Current Supervisor
+      - Colleague/Coworker
+      - Professor/Teacher
+      - Ministry Leader
+      - Volunteer Coordinator
+      - Other
+      required: true
+    - id: 8
+      name: relationship_duration
+      label: How Long Have You Known Them
+      hint: Duration of your relationship with the applicant
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-5 years
+      - Over 5 years
+      required: true
+    - id: 9
+      name: applicant_information
+      label: Applicant Information
+      hint: Details about the candidate
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of the job applicant
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: position_applied_for
+      label: Position Applied For
+      hint: Which position are they applying for?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: evaluation_questions
+      label: Evaluation Questions
+      hint: Please answer the following questions
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: work_quality_rating
+      label: Work Quality Rating
+      hint: How would you rate their work quality?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: reliability_rating
+      label: Reliability Rating
+      hint: How reliable is the applicant?
+      type: select_one
+      options:
+      - Always reliable
+      - Usually reliable
+      - Sometimes reliable
+      - Rarely reliable
+      - Not reliable
+      required: true
+    - id: 15
+      name: teamwork_ability
+      label: Teamwork Ability
+      hint: How well do they work with others?
+      type: select_one
+      options:
+      - Excellent team player
+      - Good team player
+      - Works better independently
+      - Struggles with teamwork
+      - Difficult to work with
+      required: true
+    - id: 16
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate their communication abilities
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 17
+      name: spiritual_maturity
+      label: Spiritual Maturity
+      hint: Rate their spiritual maturity and character
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Developing
+      - Unable to assess
+      required: true
+    - id: 18
+      name: leadership_potential
+      label: Leadership Potential
+      hint: Do they demonstrate leadership abilities?
+      type: select_one
+      options:
+      - Strong leader
+      - Emerging leader
+      - Capable when needed
+      - Prefers to follow
+      - Not observed
+      required: true
+    - id: 19
+      name: strengths
+      label: Greatest Strengths
+      hint: What are their top 3 strengths?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: areas_for_growth
+      label: Areas for Growth
+      hint: What areas could they improve?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: would_rehire
+      label: Would You Rehire/Recommend
+      hint: Would you work with them again?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reference_signature
+      label: Confirmation
+      hint: Confirm this reference is truthful
+      type: select_one
+      options:
+      - I confirm this reference is accurate and truthful
+      - I cannot confirm
+      required: true
+    - id: 24
+      name: reference_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

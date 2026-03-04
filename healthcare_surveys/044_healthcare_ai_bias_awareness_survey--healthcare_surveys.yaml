@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: HealthCare AI Bias Awareness Survey
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ai_bias
+      label: AI Bias
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: healthcare_background
+      label: Healthcare Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_data
+      label: Patient Data
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: ai_training
+      label: AI Training
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: ai_use
+      label: AI Use
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: ai_concerns
+      label: AI Concerns
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

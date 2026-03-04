@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Saving Attitudes Survey
+    pages:
+    - id: 1
+      name: school_settings
+      label: School settings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: confidence_in_cpr
+      label: Confidence in CPR
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: training_needs
+      label: Training needs
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: first_aid_kit_availability
+      label: First aid kit availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cpr_equipment_availability
+      label: CPR equipment availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cpr_training_hours
+      label: CPR training hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cpr_certification
+      label: CPR certification
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: cpr_confidence
+      label: Confidence in CPR
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: cpr_frequency
+      label: Frequency of CPR
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: cpr_training
+      label: CPR training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: cpr_certification_type
+      label: Type of CPR certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cpr_certification_status
+      label: Status of CPR certification
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: first_aid_informal_training
+      label: Formal training on first aid
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: informal_first_aid_training
+      label: Informal first aid training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: cpr_training_facility
+      label: Facility that provided CPR training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

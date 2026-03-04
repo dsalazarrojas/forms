@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice License Application Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Home Health Agency
+      - Hospice
+      required: false
+    - id: 9
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Counseling
+      - Spiritual
+      required: true
+    - id: 10
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Active
+      - Expired
+      required: true
+    - id: 11
+      name: license_date
+      label: License Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city_2
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state_2
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip_code_2
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip_code_3
+      label: Zip Code 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hospice_license_number
+      label: Hospice License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: facility_type_2
+      label: Facility Type 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: license_date_2
+      label: License Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: date_of_license
+      label: Date of License
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: hospice_license_date
+      label: Hospice License Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

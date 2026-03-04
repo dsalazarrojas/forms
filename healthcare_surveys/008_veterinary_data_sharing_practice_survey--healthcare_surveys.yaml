@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Data Sharing Practice Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: data_sharing_habits
+      label: What data do you share?
+      hint: null
+      type: select_multiple
+      options:
+      - Clinical data
+      - Treatment data
+      - Patient data
+      - Research data
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: tools_used
+      label: What tools do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Data sharing platforms
+      - Data analytics tools
+      - Data repositories
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: barriers
+      label: What are the main barriers?
+      hint: null
+      type: select_multiple
+      options:
+      - Data quality
+      - Data security
+      - Data format
+      - Lack of standardization
+      - Cost
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: willingness_to_share
+      label: Will you share data for research?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Depends on context
+      required: false
+    - id: 6
+      name: public_health_projects
+      label: Will you share data for public health projects?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Depends on context
+      required: false
+    - id: 7
+      name: data_sharing_with_partners
+      label: Will you share data with partners?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Depends on context
+      required: false
+    - id: 8
+      name: other_partners
+      label: Who are your partners?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_sharing_purposes
+      label: Other data sharing purposes?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_tools
+      label: Other tools?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_employee_document_upload
+    pages:
+    - id: 1
+      name: new_uploads
+      label: new_uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: proof_of_address
+      label: proof_of_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: onboarding_documents
+      label: onboarding_documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: upload_date
+      label: upload_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: upload_time
+      label: upload_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false

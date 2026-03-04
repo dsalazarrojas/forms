@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: reservation_request_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_details
+      label: Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reservation_request
+      label: Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: select_one
+      options:
+      - 01-01-2022
+      - 02-01-2022
+      - 03-01-2022
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - '660'
+      - '840'
+      required: true
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_reservation
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: true
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 18
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

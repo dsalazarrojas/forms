@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Literacy In Healthcare Evaluation Form
+    pages:
+    - id: 1
+      name: professional_profile_header
+      label: '--- Professional Profile ---'
+      hint: Details about your role and experience in healthcare.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_role
+      label: Healthcare Professional Role
+      hint: null
+      type: select_one
+      options:
+      - label: Physician / Specialist
+        value: physician
+      - label: Registered Nurse / Practitioner
+        value: nurse
+      - label: Medical Technician / Radiographer
+        value: technician
+      - label: Healthcare Administrator / Management
+        value: admin
+      - label: Researcher / Academic
+        value: researcher
+      - label: Pharmacist
+        value: pharmacist
+      required: true
+    - id: 4
+      name: department_unit
+      label: Department / Unit
+      hint: e.g., Radiology, Oncology, Intensive Care
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years of Clinical Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ai_familiarity_header
+      label: '--- AI Familiarity and Literacy ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ai_term_knowledge
+      label: How familiar are you with general AI terminology (e.g., Deep Learning,
+        Neural Networks, NLP)?
+      hint: null
+      type: select_one
+      options:
+      - label: Not familiar at all
+        value: none
+      - label: Slightly familiar (Heard terms)
+        value: low
+      - label: Moderately familiar (Understand basic concepts)
+        value: moderate
+      - label: Very familiar (Can explain to others)
+        value: high
+      required: true
+    - id: 8
+      name: clinical_ai_usage_freq
+      label: Frequency of AI tool usage in your current clinical practice
+      hint: null
+      type: select_one
+      options:
+      - label: Never
+        value: never
+      - label: Rarely (Few times a year)
+        value: rarely
+      - label: Occasionally (Monthly)
+        value: occasionally
+      - label: Frequently (Weekly)
+        value: frequently
+      - label: Daily
+        value: daily
+      required: true
+    - id: 9
+      name: ai_application_types
+      label: Which AI applications have you encountered or used?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: AI-assisted Diagnostic Imaging (e.g., X-ray/MRI analysis)
+        value: imaging
+      - label: Predictive Risk Analytics (e.g., Sepsis prediction)
+        value: predictive_risk
+      - label: Clinical Decision Support Systems (CDSS)
+        value: cdss
+      - label: AI Virtual Assistants / Chatbots for Patients
+        value: patient_chatbots
+      - label: Automated Transcription / Scribes
+        value: scribes
+      - label: Robotic Surgery Assistance
+        value: robotic_surgery
+      required: false
+    - id: 10
+      name: comfort_decision_making
+      label: Comfort level with AI-assisted clinical decision making
+      hint: 1 = Very Uncomfortable, 5 = Very Comfortable
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: perception_and_concerns_header
+      label: '--- Perceptions and Concerns ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: perceived_benefits
+      label: What are the primary benefits of AI in your field?
+      hint: null
+      type: select_multiple
+      options:
+      - label: Increased Diagnostic Accuracy
+        value: accuracy
+      - label: Reduced Administrative Burden
+        value: reduced_admin
+      - label: Early Detection of Diseases
+        value: early_detection
+      - label: Personalized Treatment Plans
+        value: personalization
+      - label: Faster Processing of Lab Results
+        value: speed
+      required: true
+    - id: 13
+      name: primary_concerns
+      label: What are your primary concerns regarding AI in healthcare?
+      hint: null
+      type: select_multiple
+      options:
+      - label: Patient Data Privacy & Security
+        value: privacy
+      - label: Algorithmic Bias & Inequality
+        value: bias
+      - label: Liability & Accountability for Errors
+        value: liability
+      - label: Loss of the 'Human Touch' in care
+        value: human_touch
+      - label: Over-reliance on Technology
+        value: overreliance
+      required: true
+    - id: 14
+      name: training_interest
+      label: Would you be interested in participating in advanced AI literacy training?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, definitely
+        value: true
+      - label: Yes, if provided during work hours
+        value: yes_conditional
+      - label: Maybe (Need more information)
+        value: maybe
+      - label: false
+        value: false
+      required: true
+    - id: 15
+      name: open_feedback_training
+      label: What specific AI topics would you like to learn more about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agreement_quality_impact
+      label: 'Statement: ''AI will significantly improve the quality of patient care
+        in my department over the next 5 years.'''
+      hint: null
+      type: select_one
+      options:
+      - label: Strongly Disagree
+        value: 1
+      - label: Disagree
+        value: 2
+      - label: Neutral
+        value: 3
+      - label: Agree
+        value: 4
+      - label: Strongly Agree
+        value: 5
+      required: true
+    - id: 17
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true

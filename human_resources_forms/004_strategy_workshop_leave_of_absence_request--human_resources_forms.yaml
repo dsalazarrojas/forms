@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategy Workshop Leave Of Absence Request
+    pages:
+    - id: 1
+      name: strategy_workshop_leave_of_absence_request_form_1
+      label: Leave Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_hours
+      label: Number of Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: impact_to_planning
+      label: Impact to Planning
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_name
+      label: Employee Name
+      hint: Required for HR to process
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_name
+      label: Supervisor's Name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: approver_name
+      label: Approver Name
+      hint: HR
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: hr_approval
+      label: HR Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: approvals
+      label: Approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approvals_status
+      label: Approvals Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

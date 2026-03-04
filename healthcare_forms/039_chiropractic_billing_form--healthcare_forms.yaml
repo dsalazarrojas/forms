@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Billing Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: billing_address
+      label: Billing Address
+      hint: Street, city, state and zip
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services_rendered
+      label: Services Rendered
+      hint: Brief list of treatments billed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Amount to be paid by patient or insurer
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Select payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Insurance
+      - Check
+      - Cash
+      required: true
+    - id: 8
+      name: billing_contact
+      label: Billing Contact Phone
+      hint: Phone for billing inquiries
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_notes
+      label: Billing Notes
+      hint: Any special billing instructions
+      type: text
+      options: []
+      required: false

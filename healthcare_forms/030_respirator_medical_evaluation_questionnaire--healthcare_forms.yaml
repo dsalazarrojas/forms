@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: respirator_medical_evaluation_questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: respiratory_system
+      label: Respiratory System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: oxygen_dependence
+      label: Oxygen Dependence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: physical_exam
+      label: Physical Exam
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: surgical_history
+      label: Surgical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: medical_history_additional
+      label: Medical History Additional
+      hint: null
+      type: note
+      options: []
+      required: false

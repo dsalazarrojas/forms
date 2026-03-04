@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: FLOURISH_New_Patient_Intake
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_relationships
+      label: Patient Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Acetaminophen''}'
+      - '{''value'': ''Amoxicillin''}'
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_history_notes
+      label: Medical History Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: practitioner
+      label: Practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: followup_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: followup_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Walk-in''}'
+      required: true
+    - id: 15
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_1
+      label: Medical Condition 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: medical_condition_2
+      label: Medical Condition 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: practitioner_notes
+      label: Practitioner Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: false

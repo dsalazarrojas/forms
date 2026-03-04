@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Health Awareness Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: pediatric_health_awareness_quiz_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: quiz_completed
+      label: completed_quiz
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: quiz_score
+      label: quiz_score
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: quiz_result
+      label: quiz_result
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: educator_name
+      label: participant_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: participant_education_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 9
+      name: quiz_participation
+      label: quiz_participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: healthcare_provider
+      label: participant_healthcare_provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: quiz_comments
+      label: quiz_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submission_time
+      label: completed_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: submitted_by
+      label: participant_submitted_by
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submitted_ip_address
+      label: ip_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: quiz_duration
+      label: quiz_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: quiz_score_out_of
+      label: score_out_of
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: quiz_score_value
+      label: score_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: participant_survey_id
+      label: participant_survey_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: survey_completed
+      label: survey_completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: survey_completed_date
+      label: survey_completed_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: survey_completed_time
+      label: survey_completed_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: survey_completed_by
+      label: survey_completed_by
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: survey_completed_ip_address
+      label: survey_completed_ip_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_survey_id
+      label: submitted_survey_id
+      hint: null
+      type: text
+      options: []
+      required: true

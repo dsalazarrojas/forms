@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motel Booking Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: type_of_booking
+      label: Type of Booking
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Triple Room
+      - Suite
+      required: false
+    - id: 5
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_adults
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_option
+      label: Accommodation Option
+      hint: null
+      type: select_multiple
+      options:
+      - Single Room
+      - Double Room
+      - Triple Room
+      - Suite
+      required: false
+    - id: 9
+      name: accommodation_number
+      label: Accommodation Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: check_in_time
+      label: Check-In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: check_out_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: check_out_time
+      label: Check-Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Clinic Booking Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: appointment_service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - Cleaning
+      - Check-up
+      - Emergency
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

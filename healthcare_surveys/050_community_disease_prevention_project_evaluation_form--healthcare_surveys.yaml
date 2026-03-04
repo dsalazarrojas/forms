@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Disease Prevention Project Evaluation Form
+    pages:
+    - id: 1
+      name: section_project_evaluation_intro
+      label: -- Community Disease Prevention Project Evaluation --
+      hint: Your evaluation helps us improve our disease prevention initiatives!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_full_name_evl
+      label: Full Name of Evaluator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_email_evl
+      label: Email Address for Evaluation Results
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_phone_evl
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name_evaluated_evl
+      label: Name of the Project Being Evaluated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_evaluation_assessment_evl
+      label: -- Project Assessment and Results --
+      hint: Assess the project's results and impact.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_outcome_assessment_evl
+      label: Were the project's intended outcomes achieved
+      hint: null
+      type: select_one
+      options:
+      - Yes, outcomes achieved
+      - Partially achieved
+      - No, outcomes not met
+      required: true
+    - id: 8
+      name: community_impact_satisfaction_evl
+      label: Rate the project's impact on our community's health
+      hint: 1 (Very Low) to 5 (Very High)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: project_engagement_evaluation_evl
+      label: Rate the level of community engagement in the project
+      hint: 1 (Very Low) to 5 (Very High)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: improvement_ideas_evaluation_evl
+      label: What are your ideas for improving our disease prevention projects
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_community_impact_feedback_evl
+      label: -- Community Impact and Feedback --
+      hint: Tell us about your satisfaction and ideas.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: overall_project_satisfaction_evl
+      label: Rate your overall satisfaction with the project
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: future_project_ideas_evl
+      label: What are your ideas for future disease prevention projects
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: development_support_availability_evl
+      label: Would you be willing to support a disease prevention project
+      hint: null
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      - Maybe, more info please
+      required: true
+    - id: 15
+      name: section_final_submission_evaluation_evl
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: evaluator_signature_digital_evl
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date_final_evl
+      label: Date of Evaluation Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: newsletter_opt_in_evl
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 19
+      name: referral_source_evl
+      label: How did you hear about this project evaluation form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 20
+      name: emergency_contact_full_name_evl
+      label: Emergency Contact Person
+      hint: Someone not living with the evaluator
+      type: text
+      options: []
+      required: true

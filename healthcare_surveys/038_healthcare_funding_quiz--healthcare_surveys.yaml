@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_funding_quiz
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: funding_challenge
+      label: Funding Challenge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cost and insurance coverage''}'
+      - '{''value'': ''Affordability''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 3
+      name: pay_for_care
+      label: How do you pay for care
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''value'': ''Private insurance''}'
+      - '{''value'': ''Medicaid''}'
+      - '{''value'': ''Medicare''}'
+      - '{''value'': ''Self-pay''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_support
+      label: Follow-up support
+      hint: How would you like to be contacted?
+      type: select_one
+      options:
+      - '{''value'': ''Phone call''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Mail''}'
+      - '{''value'': ''In-person''}'
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_info
+      label: Follow-up info
+      hint: Any other information about your experience?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Therapy Program Feedback Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating_2
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: question_1
+      label: What did you like most about the program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_2
+      label: What did you like least about the program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_3
+      label: How likely are you to recommend the program?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 13
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_4
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: question_5
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,413 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Complaint Form
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Ambulance Complaint Form --
+      hint: We value your feedback. Please complete this form to submit a complaint
+        about our ambulance services.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complaint_type
+      label: Type of Complaint
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Response time
+      - Staff behavior
+      - Quality of care
+      - Billing issue
+      - Equipment concern
+      - Vehicle condition
+      - Communication issue
+      - Other
+      required: true
+    - id: 3
+      name: section_incident_info
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Location of Incident
+      hint: Pickup location or address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ambulance_unit
+      label: Ambulance Unit Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: destination_facility
+      label: Destination Facility
+      hint: Hospital or facility name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_complainant_info
+      label: -- Complainant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: relationship_to_patient
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - Self - I was the patient
+      - Spouse/Partner
+      - Parent
+      - Child
+      - Sibling
+      - Other family member
+      - Friend
+      - Witness
+      - Other
+      required: true
+    - id: 13
+      name: email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: section_staff_involved
+      label: -- Staff Involved --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: staff_identified
+      label: Can You Identify the Staff Involved
+      hint: null
+      type: select_one
+      options:
+      - Yes - By name
+      - Yes - By description
+      - No - Unknown
+      required: false
+    - id: 25
+      name: staff_names
+      label: Staff Names
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: staff_descriptions
+      label: Staff Descriptions
+      hint: Physical description or role
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: number_of_staff
+      label: Approximate Number of Staff Involved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: section_complaint_details
+      label: -- Complaint Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: complaint_description
+      label: Detailed Description of Complaint
+      hint: Please provide a detailed account of what happened
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: response_time_issue
+      label: Response Time Concerns
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: care_quality_issue
+      label: Quality of Care Concerns
+      hint: Describe specific concerns
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: behavior_issue
+      label: Staff Behavior Concerns
+      hint: Describe specific behaviors
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: witnesses_present
+      label: Were There Any Witnesses
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 34
+      name: witness_names
+      label: Witness Names and Contact Information
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: section_impact
+      label: -- Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: patient_impact
+      label: How Did This Affect the Patient
+      hint: Physical, emotional, or other impact
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: outcome
+      label: What Was the Outcome
+      hint: Result of the incident
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: section_previous_contact
+      label: -- Previous Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: previous_contact
+      label: Have You Contacted Us Before About This
+      hint: null
+      type: select_one
+      options:
+      - No - First complaint
+      - Yes - Called customer service
+      - Yes - Spoke to supervisor
+      - Yes - Written complaint
+      required: false
+    - id: 40
+      name: previous_contact_date
+      label: Date of Previous Contact
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 41
+      name: previous_contact_outcome
+      label: Outcome of Previous Contact
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: section_resolution
+      label: -- Desired Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: desired_resolution
+      label: What Resolution Are You Seeking
+      hint: What would make this right
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: response_preference
+      label: How Would You Like Us to Respond
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - Letter
+      - No response needed
+      required: false
+    - id: 45
+      name: section_documentation
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: documentation_available
+      label: Do You Have Supporting Documentation
+      hint: Photos, records, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 47
+      name: documentation_description
+      label: Describe Documentation
+      hint: What do you have
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: section_consent
+      label: -- Consent and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: investigation_consent
+      label: Consent to Investigate
+      hint: I authorize investigation of this complaint
+      type: select_one
+      options:
+      - Yes - I authorize investigation
+      - Other
+      required: true
+    - id: 50
+      name: information_accuracy
+      label: Information Accuracy
+      hint: I certify this information is accurate
+      type: select_one
+      options:
+      - Yes - Information is accurate to the best of my knowledge
+      - Other
+      required: true
+    - id: 51
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to add
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: submit_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

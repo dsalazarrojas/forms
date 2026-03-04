@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Assisted Care Workflow Evaluation Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Full name
+      hint: Enter your full name as a healthcare professional
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_role
+      label: Your role in healthcare
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Administrator
+      - IT Specialist
+      - Clinical Assistant
+      - Other
+      required: true
+    - id: 4
+      name: department
+      label: Department/Unit
+      hint: Specify your department or unit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Date of evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_ai_usage
+      label: '--- AI System Usage ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ai_system_used
+      label: Which AI-assisted care system are you evaluating?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: usage_frequency
+      label: How often do you use AI-assisted tools in your workflow?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time using
+      required: true
+    - id: 9
+      name: ai_features_used
+      label: Which AI features do you regularly use? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Diagnostic assistance
+      - Treatment recommendations
+      - Patient monitoring
+      - Administrative tasks
+      - Documentation
+      - Image analysis
+      - Drug interaction checking
+      required: true
+    - id: 10
+      name: section_header_satisfaction
+      label: '--- Satisfaction Metrics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: accuracy_rating
+      label: How would you rate the accuracy of AI recommendations?
+      hint: 1 = Very inaccurate, 5 = Very accurate
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: efficiency_improvement
+      label: Has AI improved your workflow efficiency?
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Somewhat improved
+      - No change
+      - Somewhat decreased
+      - Significantly decreased
+      required: true
+    - id: 13
+      name: time_saved_daily
+      label: Approximately how much time does AI save you daily?
+      hint: In minutes
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: trust_level
+      label: How much do you trust the AI system's recommendations?
+      hint: 1 = No trust, 5 = Complete trust
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: section_header_challenges
+      label: '--- Challenges and Concerns ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: main_challenges
+      label: What are the main challenges you face with AI-assisted care? (Select
+        all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of transparency in recommendations
+      - Integration with existing systems
+      - Data privacy concerns
+      - Learning curve
+      - Reliability issues
+      - Cost considerations
+      - Resistance from colleagues
+      required: false
+    - id: 17
+      name: patient_concerns
+      label: Have patients expressed concerns about AI involvement in their care?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Rarely
+      - No concerns expressed
+      required: true
+    - id: 18
+      name: error_incidents
+      label: Have you encountered any errors or incorrect recommendations from the
+        AI system?
+      hint: null
+      type: select_one
+      options:
+      - Yes, major errors
+      - Yes, minor errors
+      - No errors encountered
+      - Uncertain
+      required: true
+    - id: 19
+      name: section_header_improvements
+      label: '--- Improvement Suggestions ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: priority_improvements
+      label: What improvements would you most like to see in AI-assisted care? (Select
+        top 3)
+      hint: null
+      type: select_multiple
+      options:
+      - Better integration with EMR
+      - Improved accuracy
+      - More transparent decision-making
+      - Enhanced user interface
+      - Better training resources
+      - Expanded capabilities
+      - Reduced processing time
+      required: true
+    - id: 21
+      name: training_needs
+      label: What additional training do you need to effectively use AI tools?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendation_likelihood
+      label: How likely are you to recommend this AI system to colleagues?
+      hint: 0 = Not at all likely, 10 = Extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 23
+      name: additional_feedback
+      label: Additional comments or suggestions
+      hint: Please share any other thoughts about AI-assisted care workflows
+      type: text
+      options: []
+      required: false

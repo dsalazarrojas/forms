@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Lights And Floor Mats Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Safety Equipment Usage Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department - Unit
+      hint: Select your primary work area
+      type: select_one
+      options:
+      - Medical-Surgical
+      - Intensive Care Unit (ICU)
+      - Emergency Room
+      - Pediatrics
+      - Geriatrics
+      - Other
+      required: true
+    - id: 3
+      name: staff_role
+      label: Staff Role
+      hint: Your professional designation
+      type: select_one
+      options:
+      - Registered Nurse (RN)
+      - Licensed Practical Nurse (LPN)
+      - Certified Nursing Assistant (CNA)
+      - Therapist
+      - Administrator
+      required: true
+    - id: 4
+      name: work_shift
+      label: Typical Work Shift
+      hint: null
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      - Rotating
+      required: true
+    - id: 5
+      name: call_lights_section
+      label: -- Call Light System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: call_light_reliability
+      label: Reliability of Call Light System
+      hint: How often does the system function correctly?
+      type: select_one
+      options:
+      - Always Reliable
+      - Mostly Reliable
+      - Sometimes Fails
+      - Frequently Fails
+      required: true
+    - id: 7
+      name: call_light_ease_of_use
+      label: Ease of Use for Patients
+      hint: Based on your observations and patient feedback
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 8
+      name: call_light_issues
+      label: Common Call Light Issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Buttons sticking
+      - Volume too low
+      - Delay in notification
+      - Visual indicator not working
+      - Cord length insufficient
+      required: false
+    - id: 9
+      name: floor_mats_section
+      label: -- Safety Floor Mats --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: floor_mat_frequency
+      label: Frequency of Floor Mat Usage
+      hint: How often are safety mats deployed for at-risk patients?
+      type: select_one
+      options:
+      - Every Shift
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: floor_mat_effectiveness
+      label: Effectiveness in Fall Prevention
+      hint: Your professional opinion on mat efficacy
+      type: select_one
+      options:
+      - Highly Effective
+      - Moderately Effective
+      - Slightly Effective
+      - Not Effective
+      required: true
+    - id: 12
+      name: mat_maintenance_issues
+      label: Maintenance Issues with Mats
+      hint: e.g., curling edges, cleaning difficulties
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_satisfaction_score
+      label: Overall Equipment Satisfaction Score
+      hint: Rate from 1 (lowest) to 10 (highest)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: improvement_suggestions
+      label: Suggestions for Safety Equipment Improvements
+      hint: Any ideas to make the environment safer?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_submitted
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

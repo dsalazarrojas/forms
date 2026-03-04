@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Simulation Training Evaluation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: simulation_details
+      label: simulation_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: simulation_date
+      label: simulation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: training_level
+      label: training_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 5
+      name: training_session
+      label: training_session
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: medical_specialty
+      label: medical_specialty
+      hint: null
+      type: select_one
+      options:
+      - General Surgery
+      - Cardiology
+      - Dermatology
+      required: true
+    - id: 7
+      name: simulation_score
+      label: simulation_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

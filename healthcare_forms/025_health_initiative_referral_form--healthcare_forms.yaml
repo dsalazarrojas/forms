@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_initiative_referral_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referral_reason
+      label: referral_reason
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''health_initiative'', ''label'': ''Health Initiative''}'
+      - Other
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_contact_info
+      label: patient_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_info
+      label: follow_up_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: referral_comments
+      label: referral_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_initiatives
+      label: healthcare_initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''health_initiative_1'', ''label'': ''Health Initiative 1''}'
+      - '{''value'': ''health_initiative_2'', ''label'': ''Health Initiative 2''}'
+      - '{''value'': ''health_initiative_3'', ''label'': ''Health Initiative 3''}'
+      required: false
+    - id: 12
+      name: healthcare_initiatives_details
+      label: healthcare_initiatives_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_contact
+      label: follow_up_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_source
+      label: referral_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''mail'', ''label'': ''Mail''}'
+      required: false
+    - id: 16
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily'', ''label'': ''Daily''}'
+      - '{''value'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      required: false
+    - id: 17
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_method_details
+      label: follow_up_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_frequency_details
+      label: follow_up_frequency_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_contact_method
+      label: follow_up_contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''mail'', ''label'': ''Mail''}'
+      required: false
+    - id: 21
+      name: follow_up_contact_location
+      label: follow_up_contact_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_method_details
+      label: follow_up_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false

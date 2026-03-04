@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Access Authorization Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_multiple
+      options:
+      - Authorization for treatment team
+      - Authorization for billing
+      - Authorization for insurance
+      required: false
+    - id: 8
+      name: authorization_expires_on
+      label: Authorization Expires On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

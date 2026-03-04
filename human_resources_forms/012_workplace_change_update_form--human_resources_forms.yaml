@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Change Update Form
+    pages:
+    - id: 1
+      name: new_location
+      label: New location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_change
+      label: reason for change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_approval
+      label: Manager Approval
+      hint: Select manager
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Approve''}'
+      - '{''value'': 2, ''label'': ''Reject''}'
+      - '{''value'': 3, ''label'': ''Pending''}'
+      required: false
+    - id: 4
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Employee''}'
+      - '{''value'': 2, ''label'': ''Manager''}'
+      - '{''value'': 3, ''label'': ''System''}'
+      required: false
+    - id: 5
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_manager
+      label: New manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Manager 1''}'
+      - '{''value'': 2, ''label'': ''Manager 2''}'
+      - '{''value'': 3, ''label'': ''Manager 3''}'
+      required: false
+    - id: 8
+      name: old_location
+      label: Old location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: old_department
+      label: Old department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_department
+      label: New department
+      hint: null
+      type: text
+      options: []
+      required: false

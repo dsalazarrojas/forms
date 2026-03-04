@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Illness Employment Impact Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 6
+      name: employment_status
+      label: -- Employment Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time employed
+      - Part-time employed
+      - Self-employed
+      - Unemployed
+      - Retired
+      - On disability leave
+      required: true
+    - id: 8
+      name: employment_field
+      label: Employment Field or Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_type
+      label: Type of Work
+      hint: null
+      type: select_one
+      options:
+      - Office/Desk work
+      - Manual labor
+      - Healthcare
+      - Education
+      - Service industry
+      - Other
+      required: false
+    - id: 10
+      name: illness_impact
+      label: -- Illness Impact on Employment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_affected
+      label: How has chronic illness affected your work?
+      hint: null
+      type: select_one
+      options:
+      - Significantly affected
+      - Moderately affected
+      - Slightly affected
+      - Not affected
+      - No longer employed due to illness
+      required: true
+    - id: 12
+      name: impact_areas
+      label: Specific Impact Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Absenteeism (missed days)
+      - Reduced productivity
+      - Difficulty with physical tasks
+      - Difficulty with cognitive tasks
+      - Fatigue and energy levels
+      - Pain or discomfort
+      - Concentration difficulties
+      - Work-life balance challenges
+      required: true
+    - id: 13
+      name: missed_workdays
+      label: Approximately how many workdays missed per month due to illness?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: productivity_loss
+      label: Estimated Productivity Loss at Work
+      hint: Percent
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: workplace_accommodations
+      label: -- Workplace Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accommodations_received
+      label: Are workplace accommodations provided?
+      hint: null
+      type: select_one
+      options:
+      - Yes, adequate accommodations
+      - Yes, but inadequate
+      - No accommodations provided
+      - Requested but denied
+      - Did not request
+      required: true
+    - id: 17
+      name: accommodation_types
+      label: Types of Accommodations Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Flexible work hours
+      - Remote work options
+      - Modified duties
+      - Reduced workload
+      - Additional breaks
+      - Assistive equipment
+      - Ergonomic adjustments
+      - Other
+      required: false
+    - id: 18
+      name: employer_support
+      label: Employer Support and Attitude
+      hint: null
+      type: select_one
+      options:
+      - Very supportive
+      - Supportive
+      - Neutral
+      - Unsupportive
+      - Hostile
+      required: true
+    - id: 19
+      name: disclosure
+      label: -- Disclosure and Stigma --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: disclosed_condition
+      label: Have you disclosed your condition at work?
+      hint: null
+      type: select_one
+      options:
+      - Yes, to management
+      - Yes, to colleagues
+      - Yes, to both
+      - No, kept private
+      - Partially disclosed
+      required: true
+    - id: 21
+      name: stigma_concerns
+      label: Do you experience stigma or discrimination?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 22
+      name: career_impact
+      label: -- Career Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: career_affected
+      label: Has your career progression been affected?
+      hint: null
+      type: select_one
+      options:
+      - Significantly hindered
+      - Somewhat hindered
+      - Not affected
+      - Enhanced (illness provided perspective)
+      required: true
+    - id: 24
+      name: job_change_consideration
+      label: Are you considering changing or leaving your job?
+      hint: null
+      type: select_one
+      options:
+      - Yes, planning to leave soon
+      - Yes, considering leaving
+      - Maybe
+      - No, planning to stay
+      - Already left
+      required: true
+    - id: 25
+      name: financial_impact
+      label: Has there been financial impact?
+      hint: null
+      type: select_one
+      options:
+      - Significant income loss
+      - Some income loss
+      - Increased expenses
+      - Both income loss and expenses
+      - No financial impact
+      required: false
+    - id: 26
+      name: support_needed
+      label: What support would help you continue working?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

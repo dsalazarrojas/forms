@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sickness Leave Form
+    pages:
+    - id: 1
+      name: sickness_leave_form
+      label: sickness_leave_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: days_absent
+      label: days_absent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_approval
+      label: supervisor_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: approved_by_user
+      label: approved_by_user
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: sickness_status
+      label: sickness_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: leave_credits_used
+      label: leave_credits_used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: remaining_leave_credits
+      label: remaining_leave_credits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_leave_credits
+      label: total_leave_credits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: leave_balance
+      label: leave_balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: leave_balance_status
+      label: leave_balance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: payroll_status
+      label: payroll_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: payroll_action
+      label: payroll_action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

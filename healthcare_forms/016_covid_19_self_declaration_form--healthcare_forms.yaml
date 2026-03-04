@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Declaration Form
+    pages:
+    - id: 1
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: race_ethnicity
+      label: Race or Ethnicity
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - Native Hawaiian or Other Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: workplace_type
+      label: What type of workplace do you work in
+      hint: Work environment
+      type: select_one
+      options:
+      - Hospital or healthcare facility
+      - Long-term care facility
+      - School or daycare
+      - Grocery store
+      - Restaurant
+      - Public transportation
+      - Law enforcement or first responder
+      - Office setting
+      - Remote from home
+      - Other
+      required: true
+    - id: 15
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Cancer
+      - Chronic kidney disease
+      - COPD
+      - Heart conditions
+      - Obesity
+      - Diabetes
+      - Immunocompromised state
+      - Pregnancy
+      - Smoking history
+      required: true
+    - id: 16
+      name: household_high_risk
+      label: Does anyone in your household have high-risk conditions
+      hint: Household risk
+      type: select_one
+      options:
+      - true
+      - false
+      - I live alone
+      required: true
+    - id: 17
+      name: vaccination_interest
+      label: I am interested in receiving the COVID-19 vaccine
+      hint: Vaccine interest declaration
+      type: select_one
+      options:
+      - Yes I declare my interest
+      - No I am not interested
+      required: true
+    - id: 18
+      name: vaccine_reason
+      label: Why do you want to get vaccinated
+      hint: Motivation
+      type: select_one
+      options:
+      - Protect myself
+      - Protect my family
+      - Protect my community
+      - Work requirement
+      - Travel requirement
+      - Return to normal activities
+      - Healthcare provider recommendation
+      - Other
+      required: true
+    - id: 19
+      name: previous_covid_infection
+      label: Have you previously tested positive for COVID-19
+      hint: Infection history
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 20
+      name: previous_infection_date
+      label: When did you test positive
+      hint: Approximate date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: vaccine_preference
+      label: Do you have a vaccine brand preference
+      hint: Vaccine type
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      required: false
+    - id: 22
+      name: availability_preference
+      label: When are you available for vaccination
+      hint: Scheduling preference
+      type: select_one
+      options:
+      - Weekdays mornings
+      - Weekdays afternoons
+      - Weekdays evenings
+      - Weekends
+      - Any time
+      required: true
+    - id: 23
+      name: transportation_needs
+      label: Do you need transportation assistance
+      hint: Transportation access
+      type: select_one
+      options:
+      - No I have transportation
+      - Yes I need assistance
+      required: false
+    - id: 24
+      name: language_preference
+      label: Preferred Language
+      hint: For communications
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Other
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: declaration_statement
+      label: I declare that the information provided is true and accurate to the best
+        of my knowledge
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I declare this information is true
+      - No I cannot declare this
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

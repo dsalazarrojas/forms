@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Privacy Release Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - HIPAA
+      - FCR
+      - BIPA
+      - Other
+      required: false
+    - id: 3
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: release_to
+      label: Release To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_signature
+      label: Employee Signature
+      hint: Please sign this form to acknowledge that you understand and agree to
+        the terms of this privacy release
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

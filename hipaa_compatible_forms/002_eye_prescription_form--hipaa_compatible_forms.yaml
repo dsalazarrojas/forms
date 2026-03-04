@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye Prescription Form
+    pages:
+    - id: 1
+      name: eye_prescription_form_section
+      label: Patient Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: prescription_type
+      label: Prescription Type
+      hint: null
+      type: select_one
+      options:
+      - Eye Specialist
+      - Contact Lens
+      - Glasses
+      required: false
+    - id: 5
+      name: eye_condition
+      label: Eye Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: eye_prescribption_note
+      label: Eye Prescription Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: prescription_date
+      label: Prescription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: refraction_type
+      label: Refraction Type
+      hint: null
+      type: select_one
+      options:
+      - Near-sighted
+      - Far-sighted
+      - Astigmatism
+      required: false
+    - id: 9
+      name: prescription_number
+      label: Prescription Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: eye_doctor_signature
+      label: Eye Doctor's Signature
+      hint: null
+      type: text
+      options: []
+      required: false

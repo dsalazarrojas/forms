@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: health-services-availability-form
+    pages:
+    - id: 1
+      name: services_list_page
+      label: Services List
+      hint: Select services provided by your healthcare organization
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: availability_page
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_availability_page
+      label: Service Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: availability_schedule_page
+      label: Availability Schedule
+      hint: Select the schedule you are available on
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_inquiries_page
+      label: Patient Inquiries
+      hint: Patient inquiries are handled on a daily basis
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_contact_page
+      label: Patient Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: provider_info_page
+      label: Provider Info
+      hint: Enter provider name and credentials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: provider_contact_page
+      label: Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false

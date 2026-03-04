@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Industry Employment Form
+    pages:
+    - id: 1
+      name: job_application
+      label: Job Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: Enter your contact details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_position
+      label: Job Position
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sales Representative''}'
+      - '{''id'': 2, ''name'': ''Marketing Manager''}'
+      - '{''id'': 3, ''name'': ''Operations Manager''}'
+      required: true
+    - id: 4
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''New York City''}'
+      - '{''id'': 2, ''name'': ''Chicago''}'
+      - '{''id'': 3, ''name'': ''Los Angeles''}'
+      required: true
+    - id: 5
+      name: resume
+      label: Resume Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_references
+      label: Job References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_start_date
+      label: Employment Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: job_end_date
+      label: Employment End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: previous_work_experience
+      label: Previous Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: available_to_start
+      label: Available To Start
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full-Time''}'
+      - '{''id'': 2, ''name'': ''Part-Time''}'
+      - '{''id'': 3, ''name'': ''Freelance''}'
+      required: true
+    - id: 17
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Employed''}'
+      - '{''id'': 2, ''name'': ''Unemployed''}'
+      - '{''id'': 3, ''name'': ''Retired''}'
+      required: true
+    - id: 18
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Passive''}'
+      - '{''id'': 3, ''name'': ''Inactive''}'
+      required: true
+    - id: 19
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Contract''}'
+      - '{''id'': 2, ''name'': ''Permanent''}'
+      - '{''id'': 3, ''name'': ''Freelance''}'
+      required: true
+    - id: 20
+      name: job_status_update
+      label: Job Status Update
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 21
+      name: employment_length
+      label: Employment Length
+      hint: Years
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: required_fields
+      label: Required Fields
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 24
+      name: form_id
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_category
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false

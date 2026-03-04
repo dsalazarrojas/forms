@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Preference Questionnaire
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_preferences
+      label: food_preferences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Dairy''}'
+      - '{''label'': ''Gluten''}'
+      - '{''label'': ''Vegan''}'
+      required: true
+    - id: 4
+      name: food_allergies
+      label: food_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_cuisines
+      label: favorite_cuisines
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Italian''}'
+      - '{''label'': ''Mexican''}'
+      - '{''label'': ''Chinese''}'
+      required: true
+    - id: 6
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: food_preferred_time
+      label: food_preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: food_allergy_info
+      label: food_allergy_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: food_preference_frequency
+      label: food_preference_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Never''}'
+      required: true
+    - id: 15
+      name: food_preference_frequency_2
+      label: food_preference_frequency_2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 16
+      name: food_preference_frequency_3
+      label: food_preference_frequency_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: additional_comments_2
+      label: additional_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments_3
+      label: additional_comments_3
+      hint: null
+      type: text
+      options: []
+      required: false

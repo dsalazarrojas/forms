@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Guest Evaluation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stay_dates
+      label: Stay Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate your overall experience.reportedly
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_quality
+      label: Service Quality
+      hint: How would you rate the quality of service?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: cleanliness
+      label: Cleanliness
+      hint: How clean were the facilities?
+      type: select_multiple
+      options:
+      - Very Clean
+      - Somewhat Clean
+      - Not Very Clean
+      - Not Clean At All
+      required: false
+    - id: 6
+      name: staff_interaction
+      label: Staff Interaction
+      hint: How would you rate the interaction with the staff?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: facilities
+      label: Facilities
+      hint: Were the facilities satisfactory?
+      type: select_multiple
+      options:
+      - Very Satisfactory
+      - Somewhat Satisfactory
+      - Not Very Satisfactory
+      - Not Satisfactory At All
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: Do you have any recommendations for our spa?
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Do you have any additional comments?
+      type: note
+      options: []
+      required: false

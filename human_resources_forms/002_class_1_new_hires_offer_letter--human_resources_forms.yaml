@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class 1 New Hires Offer Letter
+    pages:
+      - id: 1
+        name: candidate_name
+        label: Candidate full name
+        hint: Enter the full legal name of the new hire
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: candidate_email
+        label: Candidate email address
+        hint: Use a personal or preferred contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: position_title
+        label: Position title offered
+        hint: Job title included in the offer
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: start_date
+        label: Proposed start date
+        hint: Expected first day of employment
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: employment_type
+        label: Employment type
+        hint: Select the employment arrangement
+        type: select_one
+        options:
+          - Full time
+          - Part time
+          - Contract
+          - Temporary
+        required: true
+      - id: 6
+        name: compensation
+        label: Compensation summary
+        hint: Brief description of salary or hourly rate
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: reporting_manager
+        label: Reporting manager name
+        hint: Direct manager or supervisor
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: conditions_of_employment
+        label: Conditions of employment
+        hint: Background checks, eligibility, and other conditions
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: acceptance
+        label: Acceptance of offer
+        hint: Candidate confirms acceptance
+        type: select_one
+        options:
+          - Accept
+          - Decline
+          - Request changes
+        required: true
+      - id: 10
+        name: signature_date
+        label: Signature date
+        hint: Date candidate signs the offer
+        type: date
+        options: []
+        required: false

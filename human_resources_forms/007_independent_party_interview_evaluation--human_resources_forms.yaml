@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Party Interview Evaluation
+    pages:
+    - id: 1
+      name: candidate_information
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_rating
+      label: Candidate Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: candidate_interview_date
+      label: Candidate Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: candidate_interviewer
+      label: Candidate Interviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candidate_recommendation
+      label: Candidate Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - First Choice
+      - Second Choice
+      - Third Choice
+      required: true
+    - id: 7
+      name: candidate_comments
+      label: Candidate Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: candidate_email
+      label: Candidate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: candidate_phone
+      label: Candidate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recruiter_comments
+      label: Recruiter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 12
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      required: true
+    - id: 13
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - Completed by
+      - Not Completed by
+      required: true

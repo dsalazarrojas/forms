@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: salon_application_of_employment
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_position
+      label: Job Position
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Hairdresser
+      - Hair stylist
+      - Receptionist
+      - Barber
+      - Cosmetologist
+      - Hair designer
+      - Hair model
+      required: false
+    - id: 3
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self employed
+      - Unemployed
+      - Retired
+      - Student
+      - Other
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false

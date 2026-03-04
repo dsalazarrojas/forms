@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Shift Report Form
+    pages:
+    - id: 1
+      name: section_shift_info
+      label: -- Shift Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      - Split shift
+      required: true
+    - id: 5
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: section_staff_info
+      label: -- Staff Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shift_manager
+      label: Shift Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: staff_on_duty
+      label: Number of Staff On Duty
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: staff_absent
+      label: Number of Staff Absent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_operations
+      label: -- Operations Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_check_ins
+      label: Total Check-Ins During Shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_check_outs
+      label: Total Check-Outs During Shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: rooms_occupied
+      label: Total Rooms Occupied at End of Shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: rooms_available
+      label: Total Rooms Available at End of Shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: maintenance_issues
+      label: Maintenance Issues Reported
+      hint: Describe any maintenance problems reported during the shift
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: guest_complaints
+      label: Guest Complaints Received
+      hint: Summarize any complaints and actions taken
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incidents
+      label: Incidents or Unusual Occurrences
+      hint: Describe any safety, security, or notable events
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cash_on_hand
+      label: Cash on Hand at End of Shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: handover_notes
+      label: Handover Notes for Next Shift
+      hint: Important information for the incoming shift manager
+      type: text
+      options: []
+      required: true

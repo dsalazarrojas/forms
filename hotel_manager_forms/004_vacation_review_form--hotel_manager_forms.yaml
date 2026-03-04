@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Review Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: accommodation_name
+      label: Accommodation Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trip_rating
+      label: Trip Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: trip_comments
+      label: Trip Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false

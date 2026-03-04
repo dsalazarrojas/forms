@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: payroll_statement_delivery_consent_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Electronic Delivery Consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: payroll_statements
+      label: Payroll Statements
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payroll_statements_start
+      label: Payroll Statements Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payroll_statements_end
+      label: Payroll Statements End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payroll_statements_frequency
+      label: Payroll Statements Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: delivery_preference_frequency
+      label: Delivery Preference Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: electronic_payroll_statements
+      label: Electronic Payroll Statements
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: hr_signature
+      label: HR Signature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

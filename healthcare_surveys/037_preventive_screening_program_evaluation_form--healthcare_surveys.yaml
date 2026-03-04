@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Screening Program Evaluation Form
+    pages:
+    - id: 1
+      name: screening_participant_id
+      label: Screening Participant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_screening
+      label: Date of Screening
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_screening
+      label: Time of Screening
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: screening_location
+      label: Screening Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: screening_type
+      label: Screening Type
+      hint: null
+      type: select_one
+      options:
+      - Screening A
+      - Screening B
+      - Screening C
+      required: false
+    - id: 8
+      name: screening_result
+      label: Screening Result
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: false
+    - id: 9
+      name: screening_comments
+      label: Screening Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: screening_score
+      label: Screening Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: screening_outcome
+      label: Screening Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: false
+    - id: 17
+      name: participant_outcome
+      label: Participant Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: false
+    - id: 18
+      name: participant_satisfaction_score
+      label: Participant Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false

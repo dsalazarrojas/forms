@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Exposure Survey
+    pages:
+    - id: 1
+      name: exposed_individual_name
+      label: Exposed Individual Name
+      hint: Enter the name of the person who was exposed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Enter the employee ID of the exposed individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_unit
+      label: Department/Unit
+      hint: Enter the department or unit where the exposure occurred
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: exposure_date
+      label: Exposure Date
+      hint: Enter the date when the exposure occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: exposure_time
+      label: Exposure Time
+      hint: Enter the approximate time when the exposure occurred
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: exposure_details_header
+      label: -- Exposure Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exposure_type
+      label: Type of Exposure
+      hint: Select the type of exposure that occurred
+      type: select_one
+      options: ["Chemical", "Biological", "Radiation", "Physical", "Environmental", "Other"]
+      required: true
+    - id: 8
+      name: specific_agent_exposed_to
+      label: Specific Agent Exposed To
+      hint: Specify the exact substance, organism, or agent involved
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: route_of_exposure
+      label: Route of Exposure
+      hint: How did the exposure occur?
+      type: select_one
+      options: ["Inhalation", "Skin Contact", "Eye Contact", "Ingestion", "Injection", "Multiple Routes"]
+      required: true
+    - id: 10
+      name: exposure_location
+      label: Exposure Location
+      hint: Where did the exposure occur?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: exposure_circumstances
+      label: Circumstances of Exposure
+      hint: Describe the circumstances that led to the exposure
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: protective_equipment_used
+      label: Protective Equipment Used
+      hint: What protective equipment was worn during the exposure?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: symptoms_header
+      label: -- Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: immediate_symptoms
+      label: Immediate Symptoms
+      hint: Did the exposed individual experience any immediate symptoms?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 15
+      name: immediate_symptoms_description
+      label: Immediate Symptoms Description
+      hint: If yes, describe the immediate symptoms experienced
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delayed_symptoms
+      label: Delayed Symptoms
+      hint: Have any delayed symptoms appeared since the exposure?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 17
+      name: delayed_symptoms_description
+      label: Delayed Symptoms Description
+      hint: If yes, describe the delayed symptoms experienced
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_attention_sought
+      label: Medical Attention Sought
+      hint: Did the exposed individual seek medical attention?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 19
+      name: medical_attention_details
+      label: Medical Attention Details
+      hint: If yes, provide details about the medical attention received
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: actions_taken_header
+      label: -- Actions Taken --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: immediate_actions_taken
+      label: Immediate Actions Taken
+      hint: What immediate actions were taken after the exposure?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: What follow-up actions were implemented?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preventive_measures
+      label: Preventive Measures
+      hint: What preventive measures will be implemented to avoid future exposures?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reporter_name
+      label: Reporter Name
+      hint: Enter the name of the person reporting this exposure
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Digital signature of the reporter
+      type: text
+      options: []
+      required: true

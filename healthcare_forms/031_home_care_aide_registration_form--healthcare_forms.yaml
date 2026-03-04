@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Aide Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: caretaker_or_companion
+      label: Are you a caretaker or companion
+      hint: null
+      type: select_one
+      options:
+      - A
+      - C
+      required: false
+    - id: 7
+      name: healthcare_worker
+      label: Health care worker
+      hint: null
+      type: select_one
+      options:
+      - P
+      - V
+      required: false
+    - id: 8
+      name: volunteer
+      label: Volunteer
+      hint: null
+      type: select_one
+      options:
+      - Y
+      - N
+      required: false

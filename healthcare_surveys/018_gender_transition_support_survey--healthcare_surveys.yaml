@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Transition Support Survey
+    pages:
+    - id: 1
+      name: gender_transition_survey
+      label: Gender Transition Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Nonbinary
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_counselor
+      label: Support Counselor
+      hint: null
+      type: select_multiple
+      options:
+      - Supportive
+      - Not Supportive
+      - Neutral
+      - Prefer Not to Answer
+      required: false
+    - id: 5
+      name: support_clinician
+      label: Support Clinician
+      hint: null
+      type: select_multiple
+      options:
+      - Supportive
+      - Not Supportive
+      - Neutral
+      - Prefer Not to Answer
+      required: false
+    - id: 6
+      name: support_nurse
+      label: Support Nurse
+      hint: null
+      type: select_multiple
+      options:
+      - Supportive
+      - Not Supportive
+      - Neutral
+      - Prefer Not to Answer
+      required: false
+    - id: 7
+      name: support_facility
+      label: Support Facility
+      hint: null
+      type: select_multiple
+      options:
+      - Supportive
+      - Not Supportive
+      - Neutral
+      - Prefer Not to Answer
+      required: false
+    - id: 8
+      name: support_family
+      label: Support Family
+      hint: null
+      type: select_multiple
+      options:
+      - Supportive
+      - Not Supportive
+      - Neutral
+      - Prefer Not to Answer
+      required: false
+    - id: 9
+      name: support_friends
+      label: Support Friends
+      hint: null
+      type: select_multiple
+      options:
+      - Supportive
+      - Not Supportive
+      - Neutral
+      - Prefer Not to Answer
+      required: false
+    - id: 10
+      name: support_other
+      label: Support Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gender_transition_support
+      label: Gender Transition Support
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Somewhat Disagree
+      - Strongly Disagree
+      - Neutral
+      - Prefer Not to Answer
+      required: false

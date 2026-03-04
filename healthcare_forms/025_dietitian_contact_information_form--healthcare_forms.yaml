@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: dietitian-contact-information-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Client's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Client's last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Client's email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Client's phone number
+      type: text
+      options: []
+      required: true

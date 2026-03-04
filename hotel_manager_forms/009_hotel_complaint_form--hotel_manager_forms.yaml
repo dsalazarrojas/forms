@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Complaint Form
+    pages:
+    - id: 1
+      name: complaint_title
+      label: Complaint Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_description
+      label: complaint_description
+      hint: Describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_number
+      label: room_number
+      hint: Which room were you in?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: complaint_date
+      label: complaint_date
+      hint: When did the incident occur?
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: complaint_details
+      label: complaint_details
+      hint: null
+      type: text
+      options: []
+      required: false

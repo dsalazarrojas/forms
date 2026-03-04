@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Transfusion Consent Form
+    pages:
+    - id: 1
+      name: transfusion_intro
+      label: -- Blood Transfusion Informed Consent --
+      hint: Please read and provide your informed consent
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: blood_type
+      label: Patient Blood Type
+      hint: null
+      type: select_one
+      options:
+      - O+
+      - O-
+      - A+
+      - A-
+      - B+
+      - B-
+      - AB+
+      - AB-
+      - Unknown
+      required: true
+    - id: 7
+      name: rh_factor
+      label: RH Factor
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: false
+    - id: 8
+      name: procedure_explanation
+      label: I understand the purpose and procedure of blood transfusion
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - I have questions
+      required: true
+    - id: 9
+      name: risks_benefits_discussed
+      label: Risks and benefits have been explained to me
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: acknowledge_transfusion_risks
+      label: I acknowledge potential risks of blood transfusion
+      hint: Infection, allergic reaction, hemolytic reaction
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: alternatives_discussed
+      label: Alternative treatments have been discussed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: screening_understanding
+      label: I understand blood has been screened for infectious diseases
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 13
+      name: incompatibility_risk
+      label: I understand risk of blood type incompatibility
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 14
+      name: informed_consent
+      label: I voluntarily give informed consent to this transfusion
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 15
+      name: previous_transfusion
+      label: Have you received blood transfusions before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: transfusion_reactions
+      label: Any previous transfusion reactions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_name
+      label: Witness/Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

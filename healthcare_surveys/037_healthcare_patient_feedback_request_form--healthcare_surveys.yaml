@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare patient feedback request form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: feedback_question_1
+      label: How was the doctor?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Somewhat Good
+      - Neutral
+      - Somewhat Bad
+      - Very Bad
+      required: true
+    - id: 5
+      name: feedback_question_2
+      label: How would you rate the doctor?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Do you consent to our collection of your feedback?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: hospital_visit_details
+      label: Hospital Visit Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 14
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: patient_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: heart_rate
+      label: Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medication_list
+      label: Meds
+      hint: null
+      type: select_multiple
+      options:
+      - Asprin
+      - Ibuprofen
+      - Cetrizine
+      - Paracetamol
+      - Other
+      required: false
+    - id: 19
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_department
+      label: Medical Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugar Intake Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sugar_consumption
+      label: How much sugar do you consume
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Less than 10 grams''}'
+      - '{''id'': 2, ''text'': ''10 to 20 grams''}'
+      - '{''id'': 3, ''text'': ''20 to 30 grams''}'
+      - '{''id'': 4, ''text'': ''More than 30 grams''}'
+      required: false
+    - id: 3
+      name: sugar_frequency
+      label: How frequently do you consume sugar
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Never''}'
+      - '{''id'': 2, ''text'': ''Daily''}'
+      - '{''id'': 3, ''text'': ''Occasionally''}'
+      - '{''id'': 4, ''text'': ''Often''}'
+      required: false
+    - id: 4
+      name: sugar_type
+      label: What type of sugar do you consume
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''White sugar''}'
+      - '{''id'': 2, ''text'': ''Brown sugar''}'
+      - '{''id'': 3, ''text'': ''Honey''}'
+      - '{''id'': 4, ''text'': ''Artificial sweeteners''}'
+      - '{''id'': 5, ''text'': ''Fruit''}'
+      required: false
+    - id: 5
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: hR Policy Review Appointment Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: policy_update
+      label: Policy Update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Rescheduled
+      - Cancelled
+      required: true
+    - id: 9
+      name: reschedule_date
+      label: Reschedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reschedule_time
+      label: Reschedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_employee
+      label: Assigned Employee
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true

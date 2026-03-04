@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: hipaa_agreement_form_health_care_operations
+    pages:
+    - id: 1
+      name: patient_involvement
+      label: Patient Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_care_operations
+      label: Health Care Operations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_rights
+      label: Patient Rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: provider_involvement
+      label: Provider Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_privacy
+      label: Patient Privacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: provider_privacy
+      label: Provider Privacy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Of Medical Information Form
+    pages:
+    - id: 1
+      name: owner_information
+      label: owner_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization
+      label: authorization
+      hint: null
+      type: select_one
+      options:
+      - authorized
+      - not_authorized
+      required: false
+    - id: 3
+      name: reason_for_release
+      label: reason_for_release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_info_be_released
+      label: what_info_be_released
+      hint: null
+      type: select_one
+      options:
+      - medical_records
+      - other_health_info
+      required: false
+    - id: 5
+      name: consent_to_release_info
+      label: consent_to_release_info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: name_of_person_receiving_info
+      label: name_of_person_receiving_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth_of_person_receiving_info
+      label: date_of_birth_of_person_receiving_info
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: purpose_of_releasing_info
+      label: purpose_of_releasing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: owner_signature_date
+      label: owner_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: authorized_person_signature
+      label: authorized_person_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: authorized_person_signature_date
+      label: authorized_person_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_title
+      label: owner_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: authorized_person_title
+      label: authorized_person_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorized_person_address
+      label: authorized_person_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: authorized_person_phone
+      label: authorized_person_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorized_person_email
+      label: authorized_person_email
+      hint: null
+      type: email
+      options: []
+      required: false

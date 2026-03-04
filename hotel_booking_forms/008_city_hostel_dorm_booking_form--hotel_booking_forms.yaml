@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Hostel Dorm Booking Form
+    pages:
+    - id: 1
+      name: guest_full_name
+      label: Guest full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: check_in_date
+      label: Check in date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: check_out_date
+      label: Check out date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: bed_preference
+      label: Bed preference
+      hint: Select bed type
+      type: select_one
+      options:
+      - Upper bunk
+      - Lower bunk
+      - Single bed
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: Number of guests
+      hint: Total people in booking
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: Emergency contact phone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special requests
+      hint: Accessibility or dietary notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Choose preferred payment option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Pay on arrival
+      required: true
+    - id: 10
+      name: booking_terms_note
+      label: Booking terms and conditions
+      hint: Please review cancellation policy
+      type: note
+      options: []
+      required: true

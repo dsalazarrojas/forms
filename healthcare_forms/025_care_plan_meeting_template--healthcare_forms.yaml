@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Plan Meeting Template
+    pages:
+      - id: 1
+        name: meeting_header
+        label: -- Meeting Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: meeting_date
+        label: Meeting date
+        hint: Date of care plan meeting
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: patient_name
+        label: Patient name
+        hint: Full name of patient
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: attendees
+        label: Attendees
+        hint: List participants and roles
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: goals_of_care
+        label: Goals of care
+        hint: Short term and long term goals
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: interventions_planned
+        label: Interventions planned
+        hint: Describe interventions responsibilities
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: responsible_person
+        label: Responsible person for follow up
+        hint: Assign accountability
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: timeline_for_review
+        label: Timeline for review
+        hint: When to reassess the plan
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: additional_resources_needed
+        label: Additional resources needed
+        hint: Equipment staffing or referrals
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: meeting_summary
+        label: Meeting summary
+        hint: Brief summary of decisions and next steps
+        type: text
+        options: []
+        required: true

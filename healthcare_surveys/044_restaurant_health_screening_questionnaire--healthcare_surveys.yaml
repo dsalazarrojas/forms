@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Health Screening Questionnaire
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_location
+      label: Employee Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_screening_date
+      label: Health Screening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: has_temperature
+      label: Has Temperature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 11
+      name: has_chills
+      label: Has Chills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 12
+      name: has_cough
+      label: Has Cough
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 13
+      name: has_runny_nose
+      label: Has Runny Nose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 14
+      name: has_headache
+      label: Has Headache
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 15
+      name: has_sore_throat
+      label: Has Sore Throat
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 16
+      name: has_fever
+      label: Has Fever
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 17
+      name: health_screening_question
+      label: Health Screening Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_instructions
+      label: Follow-Up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_contact_name
+      label: Follow-Up Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_contact_phone
+      label: Follow-Up Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_contact_email
+      label: Follow-Up Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false
+    - id: 26
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false

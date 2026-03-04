@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Harassment Report Intake Form
+    pages:
+    - id: 1
+      name: workplace_harassment_report
+      label: Workplace Harassment Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: harasser
+      label: Harasser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - In Progress
+      required: false
+    - id: 9
+      name: witness_witnessed
+      label: Witness Witnessed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: false
+    - id: 10
+      name: witness_witnessed_harasser
+      label: Witness Witnessed Harasser
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: employee_witnessed
+      label: Employee Witnessed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

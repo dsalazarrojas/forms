@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Management Training Application
+    pages:
+    - id: 1
+      name: form_title
+      label: health_management_training_application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_information
+      label: applicant_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_applications
+      label: job_applications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth_day
+      label: date_of_birth_day
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth_month
+      label: date_of_birth_month
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: date_of_birth_year
+      label: date_of_birth_year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: training_programs
+      label: training_programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: training_provider
+      label: training_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: training_provider_location
+      label: training_provider_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_date_start
+      label: training_date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: training_date_end
+      label: training_date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: training_hours
+      label: training_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_hours_per_week
+      label: training_hours_per_week
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_status
+      label: training_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: training_status_other
+      label: training_status_other
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: tb_skin_test_results_form
+    pages:
+    - id: 1
+      name: test_results
+      label: Test Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_results
+      label: patient_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: test_site
+      label: test_site
+      hint: null
+      type: select_one
+      options:
+      - Right forearm
+      - Other
+      required: false
+    - id: 5
+      name: test_site_other
+      label: other_test_site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: result_interpretation
+      label: result_interpretation
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Indeterminate
+      required: false
+    - id: 7
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Jones
+      required: false
+    - id: 8
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false

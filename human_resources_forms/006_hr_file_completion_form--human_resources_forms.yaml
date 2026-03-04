@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR File Completion Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: documents
+      label: Documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: policy_acknowledgments
+      label: Policy Acknowledgments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

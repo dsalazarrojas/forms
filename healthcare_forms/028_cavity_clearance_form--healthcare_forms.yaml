@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cavity Clearance Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id_number
+      label: Patient ID Number
+      hint: Chart or patient number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Known Allergies
+      hint: Medications, materials, foods
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current Medications
+      hint: List all medications patient is taking
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Significant Medical Conditions
+      hint: Diabetes, heart disease, bleeding disorders, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recent_illness
+      label: Recent Illness or Infection
+      hint: Any current infections or illnesses
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_dental_status
+      label: -- Dental Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: decay_extent
+      label: Extent of Tooth Decay
+      hint: Single cavity, multiple cavities, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cavity_location
+      label: Cavity Location
+      hint: Tooth number and surface affected
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: infection_present
+      label: Any Infection Present
+      hint: Abscess, periapical inflammation, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Under Treatment
+      required: true
+    - id: 15
+      name: section_treatment_plan
+      label: -- Treatment Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: proposed_treatment
+      label: Proposed Treatment
+      hint: Filling, extraction, root canal, etc.
+      type: select_one
+      options:
+      - Filling
+      - Root Canal
+      - Extraction
+      - Crown
+      - Cleaning and Monitoring
+      - Other
+      required: true
+    - id: 17
+      name: anesthesia_type
+      label: Anesthesia Type
+      hint: Local, general, or none
+      type: select_one
+      options:
+      - Local Anesthesia
+      - General Anesthesia
+      - Topical Only
+      - None Required
+      required: true
+    - id: 18
+      name: section_risks_benefits
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: treatment_benefits
+      label: Benefits of Proposed Treatment
+      hint: Removal of infection, restoration of tooth, etc.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: potential_risks
+      label: Potential Risks
+      hint: Sensitivity, complications, other side effects
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: section_clearance
+      label: -- Clearance and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_questions
+      label: Do you have questions about the procedure?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: questions_answered
+      label: Have all questions been answered?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 24
+      name: treatment_consent
+      label: I consent to the proposed dental treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: clearance_signature_date
+      label: Date of Clearance
+      hint: null
+      type: date
+      options: []
+      required: true

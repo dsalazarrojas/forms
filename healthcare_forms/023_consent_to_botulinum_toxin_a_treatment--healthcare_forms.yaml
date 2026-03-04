@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Botulinum Toxin A Treatment
+    pages:
+    - id: 1
+      name: section_ident
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_medical_history
+      label: -- Relevant Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: neuromuscular_disorders
+      label: Do you have any neuromuscular disorders (e.g., ALS, Myasthenia Gravis)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: allergies_botox
+      label: Are you allergic to any botulinum toxin product or albumin?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: pregnant_nursing
+      label: Are you currently pregnant or nursing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 8
+      name: section_treatment_consent
+      label: -- Consent for Treatment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: side_effects_awareness
+      label: I have been informed of potential side effects (bruising, swelling, ptosis)
+      hint: null
+      type: select_one
+      options:
+      - I am informed
+      - Other
+      required: true
+    - id: 10
+      name: result_expectations
+      label: I understand that results vary and are temporary
+      hint: Typically lasts 3 to 4 months
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 11
+      name: treatment_areas
+      label: Authorized Areas for Treatment
+      hint: Select all discussed
+      type: select_multiple
+      options:
+      - Forehead Lines
+      - Glabellar (Frown) Lines
+      - Crow's Feet
+      - Brow Lift
+      - Other
+      required: true
+    - id: 12
+      name: section_auth
+      label: -- Final Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: consent_declaration
+      label: I hereby authorize the administration of Botulinum Toxin A
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - Other
+      required: true
+    - id: 14
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physician_signature
+      label: Physician/Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: treatment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hormone Optimization Patient Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fatigue''}'
+      - '{''value'': ''Weight gain''}'
+      - '{''value'': ''Mood swings''}'
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Birth control''}'
+      - '{''value'': ''Hormone replacement therapy''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: diet_restrictions
+      label: Diet Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Vegetarian''}'
+      - '{''value'': ''Vegan''}'
+      - '{''value'': ''Gluten-free''}'
+      required: false
+    - id: 8
+      name: social_life
+      label: Social Life
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exercise_patterns
+      label: Exercise Patterns
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mental_state
+      label: Mental State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: stress_levels
+      label: Stress Levels
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Moderate''}'
+      - '{''value'': ''High''}'
+      required: true
+    - id: 12
+      name: work_life
+      label: Work Life
+      hint: null
+      type: text
+      options: []
+      required: true

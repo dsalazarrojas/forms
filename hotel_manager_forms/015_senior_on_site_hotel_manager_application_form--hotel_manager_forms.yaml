@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior On Site Hotel Manager Application Form
+    pages:
+    - id: 1
+      name: senior_on_site_hotel_manager_application_form_first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_experience
+      label: work_experience
+      hint: Please describe your work experience
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: references
+      label: references
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': 2, ''name'': ''phone'', ''label'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''address'', ''label'': ''Address''}'
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: dd/mm/yyyy
+      type: date
+      options: []
+      required: false

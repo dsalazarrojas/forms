@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Client Referral Form Template
+    pages:
+    - id: 1
+      name: referring_consultant_name
+      label: Referring Consultant Name
+      hint: Name of the consultant making the referral
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referring_consultant_email
+      label: Referring Consultant Email
+      hint: Email address of referring consultant
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referring_consultant_phone
+      label: Referring Consultant Phone
+      hint: Phone number of referring consultant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referring_organization
+      label: Referring Organization
+      hint: Name of the referring organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_date
+      label: Referral Date
+      hint: Date of this referral
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: client_first_name
+      label: Client First Name
+      hint: First name of the client being referred
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_last_name
+      label: Client Last Name
+      hint: Last name of the client being referred
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_date_of_birth
+      label: Client Date of Birth
+      hint: Date of birth of the client
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: Email address of the client
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: Phone number of the client
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_address
+      label: Client Address
+      hint: Street address of the client
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_city
+      label: Client City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_state
+      label: Client State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_zip
+      label: Client ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member ID number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_referral
+      label: Reason for Referral
+      hint: Primary reason for this referral
+      type: select_one
+      options:
+      - Specialized Consultation
+      - Second Opinion
+      - Additional Services Needed
+      - Geographic Relocation
+      - Insurance Requirements
+      - Client Request
+      - Other
+      required: true
+    - id: 18
+      name: referral_details
+      label: Referral Details
+      hint: Describe the reason for referral in detail
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: current_services
+      label: Current Services Being Received
+      hint: List any current services or treatments
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history
+      label: Relevant Medical History
+      hint: Summary of relevant health information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: List current medications if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this referral
+      type: select_one
+      options:
+      - Routine
+      - Semi-Urgent
+      - Urgent
+      - Emergency
+      required: true
+    - id: 23
+      name: preferred_consultant
+      label: Preferred Consultant
+      hint: Any specific consultant requested
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_consent
+      label: Client Consent for Referral
+      hint: Has the client consented to this referral
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

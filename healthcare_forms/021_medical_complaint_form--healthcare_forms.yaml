@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_complaint_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Smith
+      - Dr. Jane Doe
+      - Dr. Bob Johnson
+      required: false
+    - id: 7
+      name: patient_medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Erythromycin
+      - Amoxicillin
+      required: false
+    - id: 9
+      name: patient_medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

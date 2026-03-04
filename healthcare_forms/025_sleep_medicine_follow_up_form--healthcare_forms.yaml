@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: reported_sleep_problems
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_diff_reported_duration
+      label: How long has the problem been going on
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sleep_diff_current_symptoms
+      label: What are some of the symptoms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sleep_diff_medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reported_sleep_problems
+      label: Reported Sleep Problems
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sleep_medicine_treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_plan_progress
+      label: Treatment Plan Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_appointment_date
+      label: Next Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

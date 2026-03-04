@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_assistant_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_assistant_application_form_experience
+      label: Medical Assistant Application Form - Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_school_attended
+      label: Medical School Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_assistant_application_form_education
+      label: Medical Assistant Application Form - Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_license_issued
+      label: Medical License Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_license_issued_date
+      label: Medical License Issued Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_language_proficiency
+      label: Medical Language Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - French
+      required: false
+    - id: 11
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - BLS (Basic Life Support)
+      - ACLS (Advanced Cardiovascular Life Support)
+      - ACLS-PE (Advanced Cardiovascular Life Support - Prehospital Emergency)
+      required: false
+    - id: 12
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - General Medicine
+      - Surgery
+      - Pediatric Care
+      required: false
+    - id: 13
+      name: medical_experience
+      label: Medical Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      required: true
+    - id: 14
+      name: medical_languages_spoken
+      label: Medical Languages Spoken
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: true
+    - id: 15
+      name: medical_worked_at
+      label: Medical Worked At
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: medical_worked_at_location
+      label: Medical Worked At Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_certifications_earned
+      label: Medical Certifications Earned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: medical_specialties_certified
+      label: Medical Specialties Certified
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: medical_certifications_date
+      label: Medical Certifications Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_school_attended
+      label: Medical School Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_degree
+      label: Medical Degree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_school_graduation_date
+      label: Medical School Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_assistant_application_form_education_level
+      label: Medical Assistant Application Form - Education Level
+      hint: null
+      type: select_one
+      options:
+      - Associate
+      - Bachelor's
+      - Master's
+      - Doctoral
+      required: true

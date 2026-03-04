@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Bulletin
+    pages:
+    - id: 1
+      name: section_guest_identification
+      label: -- Guest Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: As it appears on your identification document
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: id_document_type
+      label: Identification Document Type
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - National ID card
+      - Driving license
+      - Residence permit
+      - Other
+      required: true
+    - id: 7
+      name: id_document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: id_issue_date
+      label: Document Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: id_expiry_date
+      label: Document Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: permanent_address
+      label: Permanent Address
+      hint: Full home address including city and country
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: Include country code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_stay_details
+      label: -- Stay Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_name
+      label: Accommodation Name
+      hint: Name of hotel, hostel, or rental property
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: check_out_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: purpose_of_stay
+      label: Purpose of Stay
+      hint: null
+      type: select_one
+      options:
+      - Tourism
+      - Business
+      - Study
+      - Medical treatment
+      - Family visit
+      - Transit
+      - Other
+      required: true
+    - id: 19
+      name: coming_from
+      label: Arriving From (city or country)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: next_destination
+      label: Next Destination (city or country)
+      hint: null
+      type: text
+      options: []
+      required: false

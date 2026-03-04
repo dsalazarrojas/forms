@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Living Entrepreneur Space Booking Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Startup Name
+      hint: Name of your business or startup
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: URL of your business website
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Select your industry sector
+      type: select_one
+      options:
+      - Technology
+      - E-Commerce
+      - Healthcare
+      - Finance
+      - Education
+      - Creative Arts
+      - Consulting
+      - Other
+      required: true
+    - id: 7
+      name: company_stage
+      label: Company Stage
+      hint: What stage is your startup
+      type: select_one
+      options:
+      - Idea Stage
+      - Pre-Seed
+      - Seed
+      - Series A
+      - Series B or Later
+      - Bootstrapped
+      - Established Business
+      required: true
+    - id: 8
+      name: team_size
+      label: Team Size
+      hint: Number of people in your team
+      type: select_one
+      options:
+      - Solo Founder
+      - 2-5 people
+      - 6-10 people
+      - 11-20 people
+      - Over 20 people
+      required: true
+    - id: 9
+      name: space_type
+      label: Space Type Needed
+      hint: What type of space do you need
+      type: select_one
+      options:
+      - Private Office
+      - Shared Desk
+      - Meeting Room
+      - Event Space
+      - Hot Desk
+      - Virtual Office
+      required: true
+    - id: 10
+      name: check_in_date
+      label: Check-In Date
+      hint: When do you want to start
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: check_out_date
+      label: Check-Out Date
+      hint: When will you leave
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: duration_type
+      label: Booking Duration Type
+      hint: What type of booking is this
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Long-term
+      required: true
+    - id: 13
+      name: number_of_guests
+      label: Number of People
+      hint: How many people will use the space
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: amenities_needed
+      label: Amenities Needed
+      hint: Select required amenities
+      type: select_multiple
+      options:
+      - High-Speed WiFi
+      - Printer and Scanner
+      - Whiteboard
+      - Projector
+      - Video Conferencing
+      - Kitchen Access
+      - 24-7 Access
+      - Parking
+      required: false
+    - id: 15
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Why are you booking this space
+      type: select_one
+      options:
+      - Work Retreat
+      - Team Meeting
+      - Client Meetings
+      - Networking Event
+      - Workshop or Training
+      - Regular Office Use
+      - Other
+      required: true
+    - id: 16
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget for this stay
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1001-$2500
+      - $2501-$5000
+      - Over $5000
+      required: false
+    - id: 18
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: How did you find our space
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 19
+      name: previous_stay
+      label: Have You Stayed Before
+      hint: Have you booked with us previously
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: networking_interest
+      label: Interested in Networking Events
+      hint: Would you like to join community events
+      type: select_one
+      options:
+      - Yes Definitely
+      - Maybe
+      - No Thanks
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: You agree to house rules and policies
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 22
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false

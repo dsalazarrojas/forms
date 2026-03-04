@@ -1,0 +1,426 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Survey
+    pages:
+      - id: 1
+        name: patient_information
+        label: Patient Information
+        hint: Optional identification
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: visit_date
+        label: Date of Last Visit
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 4
+        name: number_of_visits
+        label: How many times have you visited our office
+        hint: null
+        type: select_one
+        options:
+          - First visit
+          - 2-5 visits
+          - 6-10 visits
+          - 11-20 visits
+          - More than 20 visits
+        required: false
+      - id: 5
+        name: overall_experience
+        label: Overall Experience
+        hint: Your general impression
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction with Our Office
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: would_recommend
+        label: Would you recommend our office to others
+        hint: null
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 8
+        name: office_environment
+        label: Office Environment
+        hint: Facility and atmosphere
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: office_cleanliness
+        label: Office Cleanliness
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: office_comfort
+        label: Office Comfort and Atmosphere
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: waiting_area
+        label: Waiting Area Comfort
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: true
+      - id: 12
+        name: staff_evaluation
+        label: Staff Evaluation
+        hint: Our team members
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: front_desk_staff
+        label: Front Desk Staff Friendliness
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: front_desk_helpfulness
+        label: Front Desk Staff Helpfulness
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: assistant_staff
+        label: Assistant Staff Professionalism
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did not interact
+        required: true
+      - id: 16
+        name: billing_staff
+        label: Billing Staff Helpfulness
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did not interact
+        required: true
+      - id: 17
+        name: doctor_evaluation
+        label: Doctor Evaluation
+        hint: Your chiropractor
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: doctor_listening
+        label: Doctor's Ability to Listen
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 19
+        name: doctor_explanation
+        label: Doctor's Explanation of Treatment
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: doctor_knowledge
+        label: Doctor's Knowledge and Expertise
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 21
+        name: doctor_bedside_manner
+        label: Doctor's Bedside Manner
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: treatment_effectiveness
+        label: Treatment Effectiveness
+        hint: Results achieved
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: symptom_improvement
+        label: Improvement in Symptoms
+        hint: null
+        type: select_one
+        options:
+          - Complete resolution
+          - Significant improvement
+          - Moderate improvement
+          - Slight improvement
+          - No improvement
+          - Worse
+        required: true
+      - id: 24
+        name: treatment_met_expectations
+        label: Did treatment meet your expectations
+        hint: null
+        type: select_one
+        options:
+          - Exceeded expectations
+          - Met expectations
+          - Partially met expectations
+          - Did not meet expectations
+        required: true
+      - id: 25
+        name: pain_relief
+        label: Level of Pain Relief
+        hint: null
+        type: select_one
+        options:
+          - Complete relief
+          - Significant relief
+          - Moderate relief
+          - Slight relief
+          - No relief
+        required: true
+      - id: 26
+        name: functional_improvement
+        label: Improvement in Daily Function
+        hint: Ability to perform activities
+        type: select_one
+        options:
+          - Significant improvement
+          - Moderate improvement
+          - Slight improvement
+          - No change
+          - Worse
+        required: true
+      - id: 27
+        name: scheduling_access
+        label: Scheduling and Access
+        hint: Appointment process
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: scheduling_ease
+        label: Ease of Scheduling Appointments
+        hint: null
+        type: select_one
+        options:
+          - Very easy
+          - Somewhat easy
+          - Neutral
+          - Somewhat difficult
+          - Very difficult
+        required: true
+      - id: 29
+        name: wait_time
+        label: Typical Wait Time
+        hint: In the waiting room
+        type: select_one
+        options:
+          - Less than 10 minutes
+          - 10-20 minutes
+          - 21-30 minutes
+          - 31-45 minutes
+          - More than 45 minutes
+        required: true
+      - id: 30
+        name: appointment_availability
+        label: Availability of Preferred Appointment Times
+        hint: null
+        type: select_one
+        options:
+          - Always available
+          - Usually available
+          - Sometimes available
+          - Rarely available
+          - Never available
+        required: true
+      - id: 31
+        name: value_assessment
+        label: Value Assessment
+        hint: Cost and value
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: value_for_money
+        label: Value for Money
+        hint: null
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 33
+        name: insurance_handling
+        label: Insurance Claims Handling
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: true
+      - id: 34
+        name: additional_services
+        label: Additional Services
+        hint: Other offerings
+        type: note
+        options: []
+        required: false
+      - id: 35
+        name: interested_services
+        label: What additional services would interest you
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Massage therapy
+          - Physical therapy
+          - Nutritional counseling
+          - Wellness programs
+          - Exercise classes
+          - Stress management
+          - Weight loss programs
+          - None
+          - Other
+        required: false
+      - id: 36
+        name: open_feedback
+        label: Open Feedback
+        hint: Your comments
+        type: note
+        options: []
+        required: false
+      - id: 37
+        name: what_liked_most
+        label: What did you like most about our office
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: what_needs_improvement
+        label: What areas need improvement
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: additional_comments
+        label: Any Additional Comments
+        hint: We value your feedback
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: follow_up_permission
+        label: May we contact you about your feedback
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false

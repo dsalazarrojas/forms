@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: template_covid_19_daily_health_checklist_city_of_fresno
+    pages:
+    - id: 1
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Chills
+      - Cough
+      - Shortness of breath
+      - Sore Throat
+      - Runny nose
+      - Sore Throat
+      - Fatigue
+      - Muscle or body aches
+      - Diarrhea
+      - Headache
+      - New loss of taste or smell
+      - Numbness or tingling
+      - Confusion
+      - Difficulty breathing or shortness of breath
+      - Chest pain or discomfort
+      - Constriction or chest tightness
+      - Repeated shaking or trembling
+      - Confusion
+      - Dizziness or feeling faint
+      - Muscle or body aches
+      - Nausea or vomiting
+      - Runny nose
+      - Sore Throat
+      - Headache
+      - Fatigue
+      - Diarrhea
+      - Cough
+      - New loss of taste or smell
+      - New loss of smell
+      - Shortness of breath
+      - Sore Throat
+      - Chest pain or discomfort
+      - Cough
+      - New loss of taste or smell
+      - Repeated shaking or trembling
+      required: true
+    - id: 2
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_tracing
+      label: Contact Tracing
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: recent_travel
+      label: Recent Travel
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: symptoms_onset
+      label: Symptoms Onset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: symptoms_description
+      label: Symptoms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_conditions
+      label: Previous Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_conditions
+      label: Current Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_vaccinations
+      label: Previous Vaccinations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_vaccinations
+      label: Current Vaccinations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_tests
+      label: Previous Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_source
+      label: Contact Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: text
+      options: []
+      required: false

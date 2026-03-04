@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holistic Therapies Covid 19 Pre Consultation Form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surname
+      label: surname
+      hint: Enter your surname
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_center
+      label: medical_center
+      hint: Enter your medical center
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interested
+      label: interested
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 Vaccine
+      - Booster Dose
+      - Other
+      required: false
+    - id: 10
+      name: other
+      label: other
+      hint: Please specify what else you're interested in
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - SMS
+      - Other
+      required: false
+    - id: 12
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 13
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: medical_specialties
+      label: medical_specialties
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - Other
+      required: false
+    - id: 18
+      name: medical_specialties_others
+      label: other_specialties
+      hint: Please specify other medical specialties
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: available_at
+      label: available_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: available_to
+      label: available_to
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Sector Employment Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_applicant
+      label: Job Applicant
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
+      - Other
+      required: false
+    - id: 5
+      name: job_position
+      label: Job Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false

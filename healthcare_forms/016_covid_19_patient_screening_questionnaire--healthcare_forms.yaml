@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Screening Questionnaire
+    pages:
+    - id: 1
+      name: header
+      label: -- Patient Screening --
+      hint: Screen patients for COVID-19 related risk factors
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Best number to reach patient
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: Select any symptoms present
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore throat
+      - Loss of taste or smell
+      - None
+      required: true
+    - id: 6
+      name: exposure_history
+      label: Exposure history
+      hint: Contact with confirmed case in last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 7
+      name: travel_history
+      label: Recent travel history
+      hint: Travel outside local area in last 14 days
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: chronic_conditions
+      label: Chronic health conditions
+      hint: List ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: screening_outcome
+      label: Screening outcome
+      hint: Action recommended after screening
+      type: select_one
+      options:
+      - Proceed with appointment
+      - Defer and test
+      - Refer to clinician
+      required: true
+    - id: 10
+      name: screener_name
+      label: Screener name
+      hint: Staff member performing screening
+      type: text
+      options: []
+      required: true

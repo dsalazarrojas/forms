@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_medical_expense_claim_form
+    pages:
+    - id: 1
+      name: claimant_details
+      label: Claimant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_expense
+      label: Medical Expense
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medical_receipt
+      label: Medical Receipt
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: medical_report
+      label: Medical Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_expense_claim
+      label: Medical Expense Claim
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submit_claim
+      label: Submit Claim
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: medical_certificate_attachment
+      label: Medical Certificate Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_report_attachment
+      label: Medical Report Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

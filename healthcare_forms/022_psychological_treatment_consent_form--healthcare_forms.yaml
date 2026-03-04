@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Treatment Consent Form
+    pages:
+    - id: 1
+      name: main_page
+      label: psychological_treatment_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: informed_consent
+      label: informed_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: client_signature_date
+      label: client_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: client_signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_effective
+      label: date_effective
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: treatment_duration
+      label: treatment_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: session_schedule
+      label: session_schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_relationship
+      label: emergency_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance
+      label: insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: text
+      options: []
+      required: false

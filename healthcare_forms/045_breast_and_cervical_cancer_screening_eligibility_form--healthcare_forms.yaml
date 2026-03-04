@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast and Cervical Cancer Screening Eligibility Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_gender
+      label: Gender at Birth
+      hint: Gender assigned at birth
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Intersex
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: For appointment communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_address
+      label: Home Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_status
+      label: Insurance Status
+      hint: Do you have health insurance
+      type: select_one
+      options:
+      - Insured
+      - Uninsured
+      - Underinsured
+      - Medicaid
+      - Medicare
+      required: true
+    - id: 8
+      name: family_history_breast_cancer
+      label: Family History of Breast Cancer
+      hint: Any family history
+      type: select_one
+      options:
+      - Yes, Mother or Sister
+      - Yes, Other Relative
+      - false
+      - Unknown
+      required: true
+    - id: 9
+      name: family_history_cervical_cancer
+      label: Family History of Cervical Cancer
+      hint: Any family history
+      type: select_one
+      options:
+      - Yes, Mother or Sister
+      - Yes, Other Relative
+      - false
+      - Unknown
+      required: true
+    - id: 10
+      name: personal_history_cancer
+      label: Personal History of Cancer
+      hint: Have you ever had cancer
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: previous_mammogram
+      label: Previous Mammogram
+      hint: Have you ever had a mammogram
+      type: select_one
+      options:
+      - Yes, Within Last Year
+      - Yes, 1-2 Years Ago
+      - Yes, Over 2 Years Ago
+      - Never
+      required: true
+    - id: 12
+      name: previous_pap_smear
+      label: Previous Pap Smear
+      hint: Have you ever had a Pap smear
+      type: select_one
+      options:
+      - Yes, Within Last Year
+      - Yes, 1-3 Years Ago
+      - Yes, Over 3 Years Ago
+      - Never
+      required: true
+    - id: 13
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Are you experiencing any symptoms
+      type: select_multiple
+      options:
+      - None
+      - Breast Lump
+      - Breast Pain
+      - Nipple Discharge
+      - Skin Changes
+      - Pelvic Pain
+      - Abnormal Bleeding
+      - Other
+      required: true
+    - id: 14
+      name: symptom_description
+      label: Symptom Description
+      hint: Describe your symptoms
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hpv_vaccination
+      label: HPV Vaccination Status
+      hint: Have you received HPV vaccine
+      type: select_one
+      options:
+      - Yes, Complete Series
+      - Yes, Partial Series
+      - false
+      - Not Sure
+      required: true
+    - id: 16
+      name: smoking_history
+      label: Smoking History
+      hint: Do you or did you smoke
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      required: true
+    - id: 17
+      name: eligibility_consent
+      label: Consent for Eligibility Assessment
+      hint: Do you consent to assessment
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 18
+      name: preferred_screening_type
+      label: Preferred Screening Type
+      hint: What screening are you seeking
+      type: select_one
+      options:
+      - Breast Cancer Screening
+      - Cervical Cancer Screening
+      - Both
+      - Not Sure
+      required: true
+    - id: 19
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like to come in
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: additional_health_conditions
+      label: Additional Health Conditions
+      hint: Any other health conditions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

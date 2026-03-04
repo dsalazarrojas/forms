@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Program Customer Registration Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: height_feet
+      label: Height (ft)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: height_inches
+      label: Height (in)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: height_units
+      label: Height Units
+      hint: null
+      type: select_one
+      options:
+      - ft
+      - cm
+      - meters
+      required: true
+    - id: 11
+      name: weight_units
+      label: Weight Units
+      hint: null
+      type: select_one
+      options:
+      - lbs
+      - kg
+      required: true

@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Questionnaire
+    pages:
+      - id: 1
+        name: questionnaire_header
+        label: -- Care Questionnaire --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: relationship_to_patient
+        label: Relationship to patient
+        hint: Select relationship
+        type: select_one
+        options:
+          - Self
+          - Family
+          - Caregiver
+          - Other
+        required: true
+      - id: 4
+        name: physical_health_concerns
+        label: Physical health concerns
+        hint: Describe current physical concerns
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: mental_health_concerns
+        label: Mental health concerns
+        hint: Describe any emotional or cognitive issues
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: social_support
+        label: Social support available
+        hint: Family friends community resources
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: mobility_status
+        label: Mobility status
+        hint: Independent assisted or dependent
+        type: select_one
+        options:
+          - Independent
+          - Assisted
+          - Dependent
+        required: true
+      - id: 8
+        name: medication_list
+        label: Medication list
+        hint: Current medications and dosages
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: care_goals
+        label: Care goals
+        hint: Priorities for care
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other helpful information
+        type: text
+        options: []
+        required: false

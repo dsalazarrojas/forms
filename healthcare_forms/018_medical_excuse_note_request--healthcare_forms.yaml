@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Excuse Note Request
+    pages:
+    - id: 1
+      name: medical_excuse_note_request
+      label: What is the reason for the request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_one_option
+      label: What kind of doctor will provide the excuse note
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Practitioner'', ''value'': ''General Practitioner''}'
+      - '{''label'': ''Specialist'', ''value'': ''Specialist''}'
+      required: false
+    - id: 5
+      name: select_multiple_option
+      label: Which of the following conditions apply
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Acute'', ''value'': ''Acute''}'
+      - '{''label'': ''Chronic'', ''value'': ''Chronic''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: note
+      label: Please provide a note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm_authorized
+      label: Is this request authorized
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: response_from
+      label: Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: response_to
+      label: To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: response_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: response_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm_status
+      label: Confirm Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''label'': ''Completed'', ''value'': ''Completed''}'
+      - '{''label'': ''Cancelled'', ''value'': ''Cancelled''}'
+      required: false
+    - id: 20
+      name: confirm_note
+      label: Confirm Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: select_multiple_option_2
+      label: Another multiple option
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Another option 1'', ''value'': ''Another option 1''}'
+      - '{''label'': ''Another option 2'', ''value'': ''Another option 2''}'
+      - '{''label'': ''Another option 3'', ''value'': ''Another option 3''}'
+      required: false
+    - id: 22
+      name: select_one_option_2
+      label: Another option for select one
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Another option'', ''value'': ''Another option''}'
+      - '{''label'': ''Another option 2'', ''value'': ''Another option 2''}'
+      - '{''label'': ''Another option 3'', ''value'': ''Another option 3''}'
+      required: false
+    - id: 23
+      name: another_text
+      label: Another text field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: another_date
+      label: Another date field
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: another_time
+      label: Another time field
+      hint: null
+      type: time
+      options: []
+      required: false

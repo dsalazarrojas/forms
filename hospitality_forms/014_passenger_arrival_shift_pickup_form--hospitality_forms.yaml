@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Arrival Shift Pickup Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Passenger Arrival Shift Pickup Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_details
+      label: Arrival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: arrival_shift
+      label: Arrival Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pickup_shift
+      label: Pickup Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Event Management Audit Form
+    pages:
+    - id: 1
+      name: hospitality_event_management_audit_form_1
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Hotels''}'
+      - Conference
+      - Wedding
+      - Meeting
+      - Event
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_planner
+      label: Event Planner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_score
+      label: Event Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: event_rating
+      label: Event Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_feedback
+      label: Event Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_phone_numbers
+      label: Event Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_emails
+      label: Event Emails
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: event_website
+      label: Event Website
+      hint: null
+      type: text
+      options: []
+      required: false

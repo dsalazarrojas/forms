@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthy_human_evaluation_form
+    pages:
+    - id: 1
+      name: user_information
+      label: user_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_health
+      label: general_health
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''healthy''}'
+      - '{''id'': 2, ''value'': ''unhealthy''}'
+      - '{''id'': 3, ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: heart_rate
+      label: heart_rate
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''low''}'
+      - '{''id'': 2, ''value'': ''normal''}'
+      - '{''id'': 3, ''value'': ''high''}'
+      required: false
+    - id: 5
+      name: respiratory_rate
+      label: respiratory_rate
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''fast''}'
+      - '{''id'': 2, ''value'': ''slow''}'
+      - '{''id'': 3, ''value'': ''normal''}'
+      required: false
+    - id: 6
+      name: blood_sugar
+      label: blood_sugar
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: body_mass_index
+      label: body_mass_index
+      hint: null
+      type: number
+      options: []
+      required: false

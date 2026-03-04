@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dietary Information Collection Form
+    pages:
+    - id: 1
+      name: dietary_preferences
+      label: What is your dietary preference
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other
+      required: true
+    - id: 2
+      name: food_intake
+      label: How much do you eat per day
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: daily_sugar_intake
+      label: Daily sugar intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: daily_sodium_intake
+      label: Daily sodium intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: daily_fat_intake
+      label: Daily fat intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: daily_fiber_intake
+      label: Daily fiber intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: daily_water_intake
+      label: Daily water intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: food_preferences
+      label: What are your food preferences
+      hint: null
+      type: select_one
+      options:
+      - Vegetables
+      - Fruits
+      - Proteins
+      - Fats
+      - Carbohydrates
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-Free
+      - Vegan
+      - Other
+      required: true
+    - id: 10
+      name: notes
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false

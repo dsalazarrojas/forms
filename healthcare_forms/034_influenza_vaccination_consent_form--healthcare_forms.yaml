@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: influenza_vaccination_consent_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Has the patient got any of the following medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Hypersensitivity to eggs
+      - Diabetes
+      - Allergic to peanuts
+      - Allergic to shellfish
+      - Allergic to soy
+      - Allergic to gluten
+      - Allergic to milk
+      - Allergic to tree nuts
+      - Allergic to sesame
+      - Allergic to fish
+      - Allergic to shellfish
+      - Allergic to sulfites
+      - Allergic to strawberries
+      - Allergic to bananas
+      - Allergic to apples
+      - Allergic to oranges
+      - Allergic to lemons
+      - Allergic to limes
+      - Allergic to avocados
+      - Allergic to pears
+      - Allergic to water
+      - Allergic to wheat
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: flu_vaccination
+      label: Flu Vaccination
+      hint: null
+      type: select_one
+      options:
+      - FluMist
+      - FluLoose
+      - FluMist+FluLoose
+      - FluMist+FluMist
+      - FluLoose+FluMist
+      - FluLoose+FluLoose
+      - FluMist+FluLoose
+      - FluLoose+FluMist+FluMist
+      - FluMist
+      - FluMist+FluLoose+FluMist
+      - FluLoose+FluLoose+FluMist
+      - FluMist+FluMist+FluLoose
+      - FluLoose
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_consent
+      label: Patient Consent
+      hint: Please sign below to indicate that you have obtained the patient's consent
+        to vaccinate
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: physician_title
+      label: Physician Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_office
+      label: Physician Office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: medical_supplies
+      label: Medical Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: flu_type
+      label: Flu Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_allergies
+      label: Other Allergies
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Record And Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Applicable
+      required: true
+    - id: 9
+      name: medical_license_expiration
+      label: Medical License Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_license_issuing_state
+      label: Medical License Issuing State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_license_issuing_country
+      label: Medical License Issuing Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_record_review
+      label: Medical Record Review
+      hint: null
+      type: select_one
+      options:
+      - Routine Review
+      - Specialized Review
+      required: false
+    - id: 14
+      name: medical_record_review_comments
+      label: Medical Record Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_license_renewal_date
+      label: Medical License Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: medical_license_renewal_status
+      label: Medical License Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      required: false
+    - id: 17
+      name: medical_license_renewal_notes
+      label: Medical License Renewal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_license_removal_date
+      label: Medical License Removal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_license_removal_status
+      label: Medical License Removal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      required: false
+    - id: 20
+      name: medical_license_removal_notes
+      label: Medical License Removal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_license_cancellation_date
+      label: Medical License Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_cancellation_status
+      label: Medical License Cancellation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      required: false
+    - id: 23
+      name: medical_license_cancellation_notes
+      label: Medical License Cancellation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_license_reinstatement_date
+      label: Medical License Reinstatement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: medical_license_reinstatement_status
+      label: Medical License Reinstatement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      required: false

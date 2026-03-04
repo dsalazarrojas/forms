@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Room Reservation Form
+    pages:
+    - id: 1
+      name: guest
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_arrival
+      label: date_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_departure
+      label: date_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Double
+      - Single
+      - Suite
+      - Family
+      - Other
+      required: false
+    - id: 5
+      name: room_quantity
+      label: Room Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: room_rate
+      label: Room Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: room_rate_plan
+      label: Room Rate Plan
+      hint: Select multiple room rate plans.
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 12
+      name: room_rate_discount
+      label: Room Rate Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: room_description
+      label: Room Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: room_status
+      label: Room Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 18
+      name: card_number
+      label: Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: card_expiration
+      label: Card Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: card_code
+      label: Card Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: card_holder
+      label: Card Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: note_2
+      label: Note 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: note_3
+      label: Note 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: note_4
+      label: Note 4
+      hint: null
+      type: text
+      options: []
+      required: false

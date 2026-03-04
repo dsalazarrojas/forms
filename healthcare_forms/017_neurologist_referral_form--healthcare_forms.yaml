@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: neurologist_referral_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: referring_provider
+      label: Referring Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

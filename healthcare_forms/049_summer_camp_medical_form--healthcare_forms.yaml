@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Medical Form
+    pages:
+    - id: 1
+      name: summer_camp_medical_form_first_page
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_conditions
+      label: health_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Allergies
+      - Medical Conditions
+      required: true
+    - id: 3
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vaccination_information
+      label: vaccination_information
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true
+    - id: 5
+      name: allergy_information
+      label: allergy_information
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 6
+      name: first_medication
+      label: first_medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medication_frequency
+      label: medication_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: second_medication
+      label: second_medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: other_medication
+      label: other_medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact Person
+      - Parent
+      required: true
+    - id: 13
+      name: parent_consent
+      label: parent_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_history_other
+      label: medical_history_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_other
+      label: emergency_contact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_last_visit
+      label: date_last_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: date_last_vaccination
+      label: date_last_vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: date_next_vaccination
+      label: date_next_vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_record
+      label: medical_record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photo
+      label: photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_history_additional
+      label: medical_history_additional
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: allergies_medication
+      label: allergies_medication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_comments
+      label: medical_history_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_comments
+      label: emergency_contact_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: medical_history_other_comments
+      label: medical_history_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false

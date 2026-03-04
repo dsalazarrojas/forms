@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Home Inspection Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller_contact_information
+      label: seller_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mobile_home_address
+      label: mobile_home_address
+      hint: Address of mobile home
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_sale
+      label: date_of_sale
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sale_price
+      label: sale_price
+      hint: Price of sale
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: current_owner
+      label: current_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: property_type
+      hint: Type of property
+      type: select_one
+      options:
+      - Mobile Home
+      - House
+      - Condo
+      - Townhouse
+      - Apartment
+      - Duplex
+      - Single Family
+      required: false
+    - id: 9
+      name: property_size
+      label: property_size
+      hint: Square feet
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_age
+      label: property_age
+      hint: Age of property
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: roof_condition
+      label: roof_condition
+      hint: Condition of roof
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: foundation_condition
+      label: foundation_condition
+      hint: Condition of foundation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: electrical
+      label: electrical
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 15
+      name: plumbing
+      label: plumbing
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 16
+      name: heating
+      label: heating
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 17
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 18
+      name: exterior_paint
+      label: exterior_paint
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Needs Repair
+      required: false
+    - id: 19
+      name: interior_paint
+      label: interior_paint
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Needs Repair
+      required: false
+    - id: 20
+      name: electrical_outlets
+      label: electrical_outlets
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 21
+      name: electrical_fixtures
+      label: electrical_fixtures
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 22
+      name: plumbing_fixtures
+      label: plumbing_fixtures
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 23
+      name: heating_fixtures
+      label: heating_fixtures
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Repair
+      - Unknown
+      required: false
+    - id: 24
+      name: appliances
+      label: appliances
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Needs Repair
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

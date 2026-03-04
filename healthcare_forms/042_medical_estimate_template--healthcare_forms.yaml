@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Estimate Template
+    pages:
+    - id: 1
+      name: medical_estimate_template
+      label: Medical Estimate Template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: estimate_date
+      label: Estimate Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: estimated_range
+      label: Estimated Range
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false

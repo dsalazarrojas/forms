@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Crew Self Assessment COVID Screening
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risk_assessment_question1
+      label: Question 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: risk_assessment_question2
+      label: Question 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment_question3
+      label: Question 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: risk_assessment_question4
+      label: Question 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: risk_assessment_question5
+      label: Question 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: risk_assessment_question6
+      label: Question 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 12
+      name: risk_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Mini Session Contract
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mini Session''}'
+      - '{''label'': ''Full Session''}'
+      - '{''label'': ''Extended Session''}'
+      required: true
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Payment 1''}'
+      - '{''label'': ''Payment 2''}'
+      - '{''label'': ''Payment 3''}'
+      required: true
+    - id: 13
+      name: terms_agreement
+      label: Terms and Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Consent 1''}'
+      - '{''label'': ''Consent 2''}'
+      - '{''label'': ''Consent 3''}'
+      required: true
+    - id: 15
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: text
+      options: []
+      required: false

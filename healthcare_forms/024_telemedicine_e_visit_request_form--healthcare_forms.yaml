@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemedicine E Visit Request Form
+    pages:
+    - id: 1
+      name: telemedicine_e_visit_request_form_page_1
+      label: telemedicine_e_visit_request_form_page_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: telemedicine_e_visit_request_form_page_2
+      label: telemedicine_e_visit_request_form_page_2_label
+      hint: null
+      type: select_one
+      options:
+      - Telemedicine Visit
+      - In-person Visit
+      - Phone Call
+      required: false
+    - id: 3
+      name: telemedicine_e_visit_request_form_page_3
+      label: telemedicine_e_visit_request_form_page_3_label
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Specialist
+      - Nurse
+      required: false
+    - id: 4
+      name: telemedicine_e_visit_request_form_page_4
+      label: telemedicine_e_visit_request_form_page_4_label
+      hint: Which day and time do you prefer for the visit?
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: telemedicine_e_visit_request_form_page_5
+      label: telemedicine_e_visit_request_form_page_5_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: telemedicine_e_visit_request_form_page_6
+      label: telemedicine_e_visit_request_form_page_6_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: telemedicine_e_visit_request_form_page_7
+      label: telemedicine_e_visit_request_form_page_7_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: telemedicine_e_visit_request_form_page_8
+      label: telemedicine_e_visit_request_form_page_8_label
+      hint: null
+      type: text
+      options: []
+      required: false

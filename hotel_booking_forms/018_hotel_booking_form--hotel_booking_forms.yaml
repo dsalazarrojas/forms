@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: checkin
+      label: Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checkout
+      label: Checkout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: Room type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: room_quantity
+      label: Room quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: card_type
+      label: Card type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: card_number
+      label: Card number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expiration_date
+      label: Expiration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: security_code
+      label: Security code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: accept_terms
+      label: Accept terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: card_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: card_number_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: expiration_date_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

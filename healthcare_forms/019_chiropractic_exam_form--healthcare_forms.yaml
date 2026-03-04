@@ -1,0 +1,420 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Exam Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Basic patient details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: occupation
+      label: Occupation
+      hint: Current job
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Main reason for visit
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_complaint
+      label: What is your primary complaint
+      hint: Describe your main issue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: pain_location
+      label: Where is your pain or discomfort
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Neck
+      - Upper back
+      - Mid back
+      - Lower back
+      - Shoulder
+      - Arm
+      - Hand
+      - Hip
+      - Leg
+      - Knee
+      - Ankle
+      - Foot
+      - Head
+      - Other
+      required: true
+    - id: 15
+      name: pain_level
+      label: Current Pain Level
+      hint: Scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: pain_scale
+      label: Pain Scale Reference
+      hint: 1 is minimal, 10 is worst
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: symptom_onset
+      label: When did symptoms begin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: symptom_cause
+      label: What caused your symptoms
+      hint: Injury, gradual, etc.
+      type: select_one
+      options:
+      - Specific injury
+      - Gradual onset
+      - Work-related
+      - Sports-related
+      - Auto accident
+      - Unknown
+      - Other
+      required: true
+    - id: 19
+      name: symptoms_description
+      label: Describe Your Symptoms
+      hint: Type of pain or discomfort
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: aggravating_factors
+      label: What makes symptoms worse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: relieving_factors
+      label: What makes symptoms better
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_treatment
+      label: Have you received treatment for this before
+      hint: null
+      type: select_one
+      options:
+      - Yes, chiropractic care
+      - Yes, medical doctor
+      - Yes, physical therapy
+      - Yes, other treatment
+      - No, first time
+      required: true
+    - id: 23
+      name: medical_history
+      label: Medical History
+      hint: Your health background
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_conditions
+      label: Do you have any of the following conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Heart disease
+      - Diabetes
+      - Arthritis
+      - Osteoporosis
+      - Cancer
+      - Stroke
+      - Blood clots
+      - Autoimmune disorder
+      - None of the above
+      required: true
+    - id: 26
+      name: surgeries
+      label: Previous Surgeries
+      hint: List any surgeries and dates
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: family_history
+      label: Relevant Family Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Daily habits
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: exercise_frequency
+      label: How often do you exercise
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times per week
+      - 1-2 times per week
+      - Rarely
+      - Never
+      required: true
+    - id: 30
+      name: occupation_physical
+      label: Is your occupation physically demanding
+      hint: null
+      type: select_one
+      options:
+      - Very demanding
+      - Moderately demanding
+      - Light activity
+      - Sedentary
+      - Not working
+      required: true
+    - id: 31
+      name: sleep_quality
+      label: How is your sleep quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 32
+      name: stress_level
+      label: Current Stress Level
+      hint: null
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 33
+      name: smoking_status
+      label: Do you smoke or use tobacco
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Former smoker
+      - Current smoker
+      - Use other tobacco
+      required: true
+    - id: 34
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Moderate
+      - Regular
+      required: false
+    - id: 35
+      name: examination_findings
+      label: Examination Findings
+      hint: For clinical use
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: posture_assessment
+      label: Posture Assessment
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Needs correction
+      required: false
+    - id: 37
+      name: range_of_motion
+      label: Range of Motion
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Slightly limited
+      - Moderately limited
+      - Severely limited
+      required: false
+    - id: 38
+      name: neurological_findings
+      label: Neurological Findings
+      hint: Reflexes, sensation, strength
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: orthopedic_tests
+      label: Orthopedic Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: palpation_findings
+      label: Palpation Findings
+      hint: Tenderness, spasms, etc.
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: xray_indicated
+      label: Are X-Rays Indicated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending review
+      required: false
+    - id: 42
+      name: diagnosis
+      label: Preliminary Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: treatment_plan
+      label: Recommended Treatment Plan
+      hint: Proposed care
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: visit_frequency
+      label: Recommended Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times per week
+      - Once per week
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: false
+    - id: 45
+      name: examiner_notes
+      label: Additional Examiner Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: exam_date
+      label: Date of Examination
+      hint: null
+      type: date
+      options: []
+      required: true

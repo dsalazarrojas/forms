@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_wellness_research_recording_consent_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      required: false
+    - id: 4
+      name: participant_consent
+      label: Participant Consent
+      hint: We value your privacy and confidentiality.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_privacy
+      label: Participant Privacy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_consent
+      label: Contact Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_consent_date
+      label: Participant Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submitter_phone
+      label: Form Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter_email
+      label: Form Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

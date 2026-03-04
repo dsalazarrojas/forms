@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Information And Preferences
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: stay_length
+      label: Stay Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Chinese''}'
+      - '{''label'': ''Japanese''}'
+      required: true
+    - id: 7
+      name: stay_preferences
+      label: Stay Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

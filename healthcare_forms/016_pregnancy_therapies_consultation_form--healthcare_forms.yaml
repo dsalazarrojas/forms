@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy Therapies Consultation Form
+    pages:
+    - id: 1
+      name: client_personal_info
+      label: Client Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pregnancy_info
+      label: Pregnancy Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: health_info
+      label: Health Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: Please provide consent to the treatment terms and conditions.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: week_of_pregnancy
+      label: Week of Pregnancy
+      hint: Enter week of pregnancy
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: current_state
+      label: Current State
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: further_details
+      label: Further Details
+      hint: Please provide further details about your treatment
+      type: text
+      options: []
+      required: false

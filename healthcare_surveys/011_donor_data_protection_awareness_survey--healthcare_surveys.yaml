@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Data Protection Awareness Survey
+    pages:
+    - id: 1
+      name: general_questions
+      label: General Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: Donor Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Value 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Value 3''}'
+      required: false
+    - id: 3
+      name: data_privacy
+      label: Data Privacy
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: data_security
+      label: Data Security
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: data_retention
+      label: Data Retention
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Value 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Value 3''}'
+      required: false
+    - id: 9
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Value 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Value 3''}'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leave Or Remote Work Request Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: remote_work_start_date
+      label: Remote Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: remote_work_end_date
+      label: Remote Work End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_remote_work
+      label: Reason For Remote Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: remote_work_duration
+      label: Remote Work Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Sick Leave
+      - Vacation Leave
+      - Business Leave
+      - Other
+      required: false
+    - id: 7
+      name: remote_work_location
+      label: Remote Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Management
+      - Sales
+      - Marketing
+      - IT
+      required: false
+    - id: 11
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: approval_reason
+      label: Approval Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false

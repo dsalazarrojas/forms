@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychotherapy Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_last_visit
+      label: Date of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relation
+      label: Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_group_number
+      label: Group Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_plan
+      label: Plan
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Blue Shield
+      - Medicaid
+      - Private Insurance
+      - United Healthcare
+      - Other
+      required: false
+    - id: 18
+      name: insurance_effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: insurance_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: insurance_group
+      label: Group Name
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 21
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false
+    - id: 22
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

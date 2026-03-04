@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Animal Health Monitoring Form
+    pages:
+    - id: 1
+      name: animal_id
+      label: animal_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: health_notes
+      label: health_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: health_status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Sick
+      - Unknown
+      required: true
+    - id: 4
+      name: vital_signs_temperature
+      label: vital_signs_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vital_signs_blood_pressure
+      label: vital_signs_blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vital_signs_respiratory_rate
+      label: vital_signs_respiratory_rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinary_notes
+      label: veterinary_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_action
+      label: next_action
+      hint: null
+      type: select_multiple
+      options:
+      - Check-in again in 1 hour
+      - Contact Zoo Director
+      - Contact VET
+      required: false
+    - id: 9
+      name: followup_date
+      label: followup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: followup_time
+      label: followup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: followup_method
+      label: followup_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person visit
+      required: false
+    - id: 12
+      name: veterinary_contact
+      label: veterinary_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: animal_name
+      label: animal_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: animal_type
+      label: animal_type
+      hint: null
+      type: select_one
+      options:
+      - Mammals
+      - Reptiles
+      - Birds
+      required: true
+    - id: 15
+      name: enclosure_number
+      label: enclosure_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: animal_status
+      label: animal_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Retired
+      - In transit
+      required: false
+    - id: 17
+      name: animal_species
+      label: animal_species
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: animal_breed
+      label: animal_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: animal_sex
+      label: animal_sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 20
+      name: animal_weight
+      label: animal_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: animal_length
+      label: animal_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: animal_height
+      label: animal_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: animal_color
+      label: animal_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: animal_diet
+      label: animal_diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: animal_housing_location
+      label: animal_housing_location
+      hint: null
+      type: text
+      options: []
+      required: true

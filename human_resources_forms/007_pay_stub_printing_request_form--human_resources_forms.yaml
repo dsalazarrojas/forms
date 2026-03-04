@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pay Stub Printing Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: pay_rate
+      label: Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: departmental_note
+      label: Departmental Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payroll_manager_name
+      label: Payroll Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: departmental_manager
+      label: Departmental Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: departmental_note_2
+      label: Departmental Note 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

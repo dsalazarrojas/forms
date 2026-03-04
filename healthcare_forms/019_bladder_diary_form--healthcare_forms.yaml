@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bladder Diary Form
+    pages:
+    - id: 1
+      name: diary_intro
+      label: Bladder Health Diary
+      hint: Track your bladder habits to help your healthcare provider
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: diary_start_date
+      label: Diary Start Date
+      hint: When are you starting this diary
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: diary_end_date
+      label: Diary End Date
+      hint: When will you finish this diary
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: day_1_wake_time
+      label: Day 1 Wake Time
+      hint: What time did you wake up
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: day_1_void_times
+      label: Day 1 Voiding Times
+      hint: List times you urinated
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: day_1_volume_estimates
+      label: Day 1 Volume Estimates
+      hint: Estimate amount each time small medium large
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: day_1_leakage_episodes
+      label: Day 1 Leakage Episodes
+      hint: Note any accidents or leakage
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: day_1_fluid_intake
+      label: Day 1 Fluid Intake
+      hint: List all drinks with times and amounts
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: day_1_urgency_level
+      label: Day 1 Urgency Level
+      hint: Rate urgency 1-5 for each void
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: day_1_pad_usage
+      label: Day 1 Pad Usage
+      hint: Number of pads or protective garments used
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: day_1_activities
+      label: Day 1 Activities
+      hint: Note activities that may affect bladder
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: day_1_symptoms
+      label: Day 1 Symptoms
+      hint: Note any pain burning or discomfort
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: day_1_sleep_quality
+      label: Day 1 Sleep Quality
+      hint: How well did you sleep
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: medications_taken
+      label: Medications Taken
+      hint: List any bladder related medications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: caffeine_intake
+      label: Caffeine Intake
+      hint: How much caffeine daily
+      type: select_one
+      options:
+      - None
+      - 1-2 servings
+      - 3-4 servings
+      - 5 plus servings
+      required: false
+    - id: 18
+      name: alcohol_intake
+      label: Alcohol Intake
+      hint: How much alcohol daily
+      type: select_one
+      options:
+      - None
+      - 1 drink
+      - 2-3 drinks
+      - 4 plus drinks
+      required: false
+    - id: 19
+      name: bowel_movements
+      label: Bowel Movement Regularity
+      hint: How regular are your bowel movements
+      type: select_one
+      options:
+      - Regular Daily
+      - Every Other Day
+      - Irregular
+      - Constipated Often
+      required: false
+    - id: 20
+      name: exercise_routine
+      label: Exercise Routine
+      hint: Describe your physical activity
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

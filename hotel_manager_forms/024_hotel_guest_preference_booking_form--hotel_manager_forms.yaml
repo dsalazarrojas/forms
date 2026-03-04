@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Guest Preference Booking Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: smoking_preference
+      label: smoking_preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: bed_type
+      label: bed_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: special_request
+      label: special_request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: diet
+      label: diet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: restrictions
+      label: restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

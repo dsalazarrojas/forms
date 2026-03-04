@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immunoglobulin A Nephropathy Survey
+    pages:
+    - id: 1
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quality_of_life
+      label: Quality of Life
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_access
+      label: Healthcare Access
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (Specify)''}'
+      required: true
+    - id: 5
+      name: healthcare_experience
+      label: Healthcare Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 6
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: symptoms_frequency
+      label: Symptoms Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: symptoms_severity
+      label: Symptoms Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quality_of_life_scale
+      label: Quality of Life Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_services_utilization
+      label: Healthcare Services Utilization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Hospital''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Home care''}'
+      required: true
+    - id: 11
+      name: healthcare_access_barriers
+      label: Healthcare Access Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_access_barriers_frequency
+      label: Healthcare Access Barriers Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: healthcare_access_barriers_severity
+      label: Healthcare Access Barriers Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_access_barriers_duration
+      label: Healthcare Access Barriers Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Support Group''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: support_needs_frequency
+      label: Support Needs Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: support_needs_severity
+      label: Support Needs Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: quality_of_life_affected
+      label: Quality of Life Affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: quality_of_life_improvement
+      label: Quality of Life Improvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: symptoms_affected
+      label: Symptoms Affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: symptoms_improvement
+      label: Symptoms Improvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: support_needs_improvement
+      label: Support Needs Improvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_access_improvement
+      label: Healthcare Access Improvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: quality_of_life_scale_improvement
+      label: Quality of Life Scale Improvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: symptoms_severity_improvement
+      label: Symptoms Severity Improvement
+      hint: null
+      type: number
+      options: []
+      required: false

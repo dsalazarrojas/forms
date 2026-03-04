@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Manager Onboarding Form
+    pages:
+    - id: 1
+      name: header_onboarding
+      label: -- Onboarding information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: Start date
+      hint: Employment start date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Internal identifier if available
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_location
+      label: Work location
+      hint: Office or region assignment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor name
+      hint: Direct manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: caseload_limit
+      label: Caseload limit
+      hint: Recommended maximum active cases
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: required_training_completed
+      label: Required training completed
+      hint: Select trainings already completed
+      type: select_multiple
+      options:
+      - Safeguarding
+      - Data privacy
+      - Case documentation
+      - Risk assessment
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Any onboarding concerns or requests
+      type: text
+      options: []
+      required: false

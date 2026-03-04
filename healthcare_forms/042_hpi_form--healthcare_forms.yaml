@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: hpi_form
+    pages:
+    - id: 1
+      name: patient_disease_history_form_1
+      label: Patient Disease History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_practitioner
+      label: Medical Practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_last_visit
+      label: Date of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_visit_number
+      label: Date of Visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_diagnosis
+      label: Medical Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: disease_history
+      label: Disease History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_practitioner_2
+      label: Medical Practitioner 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: disease_history_2
+      label: Disease History 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

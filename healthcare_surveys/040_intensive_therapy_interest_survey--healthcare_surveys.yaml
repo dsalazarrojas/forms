@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Intensive Therapy Interest Survey
+    pages:
+    - id: 1
+      name: therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: select_multiple
+      options:
+      - Client Name
+      - Address
+      - Contact Information
+      required: true
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: concerns
+      label: Concerns
+      hint: Please list your concerns
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: therapy_goals_1
+      label: What brings you in for therapy
+      hint: null
+      type: select_multiple
+      options:
+      - Stress Management
+      - Anxiety
+      - Relationship Issues
+      - Depression
+      - Trauma
+      - Other
+      required: true
+    - id: 6
+      name: client_concerns
+      label: What are you concerned about
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: therapy_goals_2
+      label: What do you hope to achieve through therapy
+      hint: Please list your goals
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: availability_1
+      label: What is your availability for therapy
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: therapy_goals_3
+      label: What is your availability for online sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Mornings
+      - Afternoons
+      - Evenings
+      required: true
+    - id: 10
+      name: therapy_goals_4
+      label: How often would you like to have online sessions
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - 2-3 times a week
+      - 4-5 times a week
+      required: true
+    - id: 11
+      name: therapy_session_preferences
+      label: What type of therapy sessions do you prefer
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Group
+      - Phone
+      - Video
+      - In-person
+      required: true
+    - id: 12
+      name: client_preferences
+      label: What are you looking for in a therapist
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Message
+      required: true
+    - id: 15
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: therapy_session_notes
+      label: Therapy Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

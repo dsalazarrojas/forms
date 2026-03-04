@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adolescent Well Being Perception Survey
+    pages:
+    - id: 1
+      name: section_perception
+      label: -- Well-being Perception --
+      hint: Your feedback helps us improve support systems
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_happiness
+      label: General Happiness
+      hint: How would you describe your overall happiness lately?
+      type: select_one
+      options:
+      - Very happy
+      - Happy
+      - Neutral
+      - Unhappy
+      - Very unhappy
+      required: true
+    - id: 3
+      name: school_stress_level
+      label: School Stress Level
+      hint: Rate your current academic and social stress
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 4
+      name: sense_of_belonging_at_school
+      label: Sense of Belonging at School
+      hint: How connected do you feel to your school community?
+      type: select_one
+      options:
+      - Strong
+      - Moderate
+      - Weak
+      - None
+      required: true
+    - id: 5
+      name: peer_support_availability
+      label: Peer Support Availability
+      hint: Can you count on friends when you need help?
+      type: select_one
+      options:
+      - Always available
+      - Often available
+      - Sometimes available
+      - Rarely available
+      - Never available
+      required: true
+    - id: 6
+      name: adult_support_at_school
+      label: Adult Support at School
+      hint: Is there an adult at school you trust?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: extracurricular_involvement
+      label: Extracurricular Involvement
+      hint: What activities do you participate in?
+      type: select_multiple
+      options:
+      - Sports
+      - Arts
+      - Academic clubs
+      - Community service
+      - None
+      required: false
+    - id: 8
+      name: hobby_or_interest_description
+      label: Hobby or Interest Description
+      hint: What do you enjoy doing in your free time?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sleep_quality
+      label: Sleep Quality
+      hint: Rate your sleep over the past week
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: average_hours_of_sleep
+      label: Average Hours of Sleep
+      hint: On a typical weeknight
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: wellness_goals
+      label: Wellness Goals
+      hint: One thing you would like to improve about your well-being
+      type: text
+      options: []
+      required: false

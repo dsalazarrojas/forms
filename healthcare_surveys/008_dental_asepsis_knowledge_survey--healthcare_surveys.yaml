@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Asepsis Knowledge Survey
+    pages:
+    - id: 1
+      name: clinic_type
+      label: clinic_type
+      hint: null
+      type: select_one
+      options:
+      - dental
+      - medical
+      - other
+      required: true
+    - id: 2
+      name: asepsis_knowledge
+      label: Asepsis Knowledge
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: asepsis_training_needs
+      label: Asepsis Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, asepsis training is required
+      - No asepsis training is required
+      - Not sure
+      required: false
+    - id: 4
+      name: asepsis_training_frequency
+      label: Asepsis Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 5
+      name: asepsis_awareness
+      label: Asepsis Awareness
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Not much agree
+      - Not at all agree
+      required: true
+    - id: 6
+      name: asepsis_practice
+      label: Asepsis Practice
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: asepsis_practice_frequency
+      label: Asepsis Practice Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 8
+      name: asepsis_practice_confidence
+      label: Asepsis Practice Confidence
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Not at all confident
+      required: true
+    - id: 9
+      name: asepsis_supervision
+      label: Supervision
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 10
+      name: asepsis_supervision_frequency
+      label: Supervision frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 11
+      name: asepsis_supervision_confidence
+      label: Supervision confidence
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Not at all confident
+      required: true
+    - id: 12
+      name: asepsis_policy
+      label: Dental asepsis policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 13
+      name: asepsis_policy_frequency
+      label: Dental asepsis policy frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 14
+      name: asepsis_policy_confidence
+      label: Dental asepsis policy confidence
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Not at all confident
+      required: true
+    - id: 15
+      name: asepsis_supervision_policy
+      label: Supervision and policy
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 16
+      name: asepsis_supervision_policy_frequency
+      label: Supervision and policy frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 17
+      name: asepsis_supervision_policy_confidence
+      label: Supervision and policy confidence
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Not at all confident
+      required: true
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

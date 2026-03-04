@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Protection Pledge Form
+    pages:
+    - id: 1
+      name: protection_pledge_form
+      label: protection_pledge_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_first_pledge
+      label: date_of_first_pledge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_or_employee
+      label: student_or_employee
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Employee
+      required: true
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - On Site
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Operations
+      - Finance
+      required: true
+    - id: 7
+      name: shift
+      label: shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: true
+    - id: 8
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Manager
+      - Specialist
+      required: true
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department_head
+      label: department_head
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

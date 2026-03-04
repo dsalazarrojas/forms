@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Reference Form
+    pages:
+    - id: 1
+      name: reference_name
+      label: reference_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reference_email
+      label: reference_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: reference_title
+      label: reference_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reference_company
+      label: reference_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reference_years_of_service
+      label: years_of_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reference_last_contacted
+      label: last_contacted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reference_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_agree_terms
+      label: agree_terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      - Maybe
+      required: false
+    - id: 10
+      name: reference_agree_terms_other
+      label: agree_terms_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reference_notes
+      label: notes
+      hint: Any additional comments or information about the reference
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reference_signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Exit Interview Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_company
+      label: new_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_date_worked
+      label: last_date_worked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_title
+      label: last_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: last_salary_range
+      label: last_salary_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_salary_range
+      label: new_salary_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: new_title
+      label: new_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: last_manager_name
+      label: last_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: last_manager_phone
+      label: last_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: last_termination_date
+      label: last_termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_termination
+      label: reason_for_termination
+      hint: null
+      type: text
+      options: []
+      required: false

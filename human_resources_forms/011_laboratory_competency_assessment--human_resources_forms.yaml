@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Competency Assessment
+    pages:
+    - id: 1
+      name: general_understanding
+      label: General Understanding
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: laboratory_safety_and_security
+      label: Laboratory Safety and Security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: blood_bloodstream_infection_control
+      label: Blood Borestream Infection Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: chemical_handling
+      label: Chemical Handling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: blood_sample_handling
+      label: Blood Sample Handling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: laboratory_equipment
+      label: Laboratory Equipment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: quality_control_and_improvement
+      label: Quality Control and Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 8
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: general_laboratory_instrumentation
+      label: General Laboratory Instrumentation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: safety_procedures
+      label: Safety Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

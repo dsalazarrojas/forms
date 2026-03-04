@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Research Data Access Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_project
+      label: research project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: access_type
+      label: access type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: access_start
+      label: access start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: access_end
+      label: access end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_dept
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitter_title
+      label: submitter title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_note
+      label: submitter note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_acknowledgment
+      label: submitter acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false

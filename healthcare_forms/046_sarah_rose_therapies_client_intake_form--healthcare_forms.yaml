@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: sarah_rose_therapies_client_intake_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergies
+      label: allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history_3
+      label: Medical History 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications_2
+      label: Medications 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

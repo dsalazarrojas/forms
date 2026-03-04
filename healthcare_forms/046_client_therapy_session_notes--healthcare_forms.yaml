@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Therapy Session Notes
+    pages:
+    - id: 1
+      name: session_header
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: session_duration
+      label: Session Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_modality
+      label: Session Modality
+      hint: null
+      type: select_one
+      options:
+      - Individual therapy
+      - Couples therapy
+      - Family therapy
+      - Group therapy
+      - Telehealth
+      - In-person
+      required: true
+    - id: 8
+      name: client_presentation
+      label: Client Presentation
+      hint: How did the client present during this session?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: stated_concerns
+      label: Stated Concerns and Issues
+      hint: What did the client discuss?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: clinical_observations
+      label: Clinical Observations
+      hint: Notable behaviors, mood, affect, engagement level
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: therapeutic_focus
+      label: Focus of This Session
+      hint: Treatment goals addressed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: interventions_used
+      label: Interventions or Techniques Used
+      hint: Specific therapeutic approaches applied
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_response
+      label: Client Response to Interventions
+      hint: How did the client respond?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: progress_update
+      label: Progress Toward Treatment Goals
+      hint: Measurable progress or setbacks noted
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_insights
+      label: Insights or Breakthroughs
+      hint: Any significant realizations or aha moments
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: homework_assigned
+      label: Homework or Practice Assignments
+      hint: What should the client work on before next session?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: clinical_impression
+      label: Clinical Impression
+      hint: Therapist's assessment and observations
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Any safety concerns or risks
+      type: select_one
+      options:
+      - No risk identified
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Crisis
+      required: true
+    - id: 19
+      name: next_session_plan
+      label: Plan for Next Session
+      hint: Focus areas and treatment approach
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_needed
+      label: Follow-up Required?
+      hint: Any urgent follow-up or referrals needed?
+      type: select_one
+      options:
+      - false
+      - Yes - clinical follow-up
+      - Yes - referral needed
+      - Yes - other
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

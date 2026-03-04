@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Eligibility Form
+    pages:
+    - id: 1
+      name: form_1
+      label: vaccine_eligibility_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors_form
+      label: Do you have any of the following risk factors?
+      hint: null
+      type: select_multiple
+      options:
+      - High-risk behavior
+      - Underlying health condition
+      - Other
+      required: false
+    - id: 3
+      name: health_status_form
+      label: What is your current health status?
+      hint: null
+      type: select_one
+      options:
+      - Good health
+      - Poor health
+      required: false
+    - id: 4
+      name: vaccination_history_form
+      label: Have you had any vaccinations in the past 5 years?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: medical_condition_form
+      label: Do you have any medical conditions that may affect your eligibility?
+      hint: null
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Diabetes
+      - Other
+      required: false
+    - id: 6
+      name: previous_vaccination_form
+      label: Have you had the MPOX vaccine previously?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: medical_documentation_form
+      label: Have you provided your medical documentation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: contact_information_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name_form
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_form
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number_form
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps_form
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth_form
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: medical_documentation_file
+      label: Medical Documentation File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_documentation_upload
+      label: Upload Medical Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address_form
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city_form
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: state_form
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: zip_code_form
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false

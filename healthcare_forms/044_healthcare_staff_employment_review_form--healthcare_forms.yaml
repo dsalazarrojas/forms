@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Staff Employment Review Form
+    pages:
+    - id: 1
+      name: employee_performance_rating
+      label: Employee Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Operations
+      - Administration
+      - Finance
+      - Marketing
+      required: false
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_review
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: review_cycle_start_date
+      label: Review Cycle Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_cycle_end_date
+      label: Review Cycle End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_due_date
+      label: Review Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 15
+      name: reason_for_status
+      label: Reason for Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_performance
+      label: Job Performance
+      hint: null
+      type: text
+      options: []
+      required: false

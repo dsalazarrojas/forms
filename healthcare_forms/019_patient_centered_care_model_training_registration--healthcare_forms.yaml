@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient-Centered-Care-Model-Training-Registration
+    pages:
+    - id: 1
+      name: staff_members
+      label: Staff Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: staff_qualification
+      label: Staff Qualification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: staff_training_previous
+      label: Staff Training Previous
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: submission_file
+      label: Submission File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_files
+      label: Submission Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: form_owner
+      label: Form Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: form_owner_phone
+      label: Form Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_owner_email
+      label: Form Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_1
+      label: Reviewer 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: reviewer_2
+      label: Reviewer 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submission_status_form_owner
+      label: Submission Status Form Owner
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

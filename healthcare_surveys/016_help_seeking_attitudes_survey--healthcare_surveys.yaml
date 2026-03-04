@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Help Seeking Attitudes Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Help Seeking Attitudes Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Healthcare Surveys, Questionnaire Templates''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_description
+      label: Survey Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_help_source
+      label: Preferred Help Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Family and Friends''}'
+      - '{''name'': ''Doctor''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 6
+      name: comfortable_with_support
+      label: Comfortable with Seeking Support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comfort_level_1
+      label: Comfort Level 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comfort_level_2
+      label: Comfort Level 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Phone''}'
+      - '{''name'': ''Email''}'
+      - '{''name'': ''In-Person''}'
+      required: false
+    - id: 10
+      name: follow_up_question
+      label: Follow up Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_answer
+      label: Follow up Answer
+      hint: null
+      type: text
+      options: []
+      required: false

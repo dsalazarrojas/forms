@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Plan Approval Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Engineer
+      - Other
+      required: false
+    - id: 4
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - Senior
+      - Junior
+      - Entry-Level
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      required: false
+    - id: 6
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_posting_date
+      label: Job Posting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_close_date
+      label: Job Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: date_rejected
+      label: Date Rejected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Association Estoppel Request
+    pages:
+    - id: 1
+      name: hoas_title
+      label: Homeowners Association Estoppel Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hoas_title
+      label: Homeowners Association Estoppel Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hoas_estoppel_type
+      label: Estoppel Type
+      hint: null
+      type: select_one
+      options:
+      - Homeowners Association Estoppel Request
+      - Homeowners Association Estoppel Response
+      - Homeowners Association Estoppel Certificate
+      required: false
+    - id: 4
+      name: hoas_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hoas_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hoas_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hoas_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: hoas_signed_auth_date
+      label: Signed Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: hoas_signed_auth_time
+      label: Signed Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: hoas_delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Mail
+      - Email
+      - Fax
+      - In-Person
+      required: false
+    - id: 11
+      name: hoas_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hoas_buyer_signed_auth_date
+      label: Buyer Signed Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: hoas_property_manager_signed_auth_date
+      label: Property Manager Signed Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Record Request Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Enter patient's name as it appears on their medical record
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: Name of Provider
+      hint: Enter name of healthcare provider or facility
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_name
+      label: Name of Facility
+      hint: Enter name of healthcare facility
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: Enter reason for requesting this form
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_sent
+      label: Date Sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false

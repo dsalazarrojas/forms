@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vitamin B 12 Treatment Survey
+    pages:
+    - id: 1
+      name: vitamin_b_12_therapy_effectiveness
+      label: Vitamin B 12 Therapy Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vitamin_b_12_therapy_duration
+      label: vitamin b 12 therapy duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vitamin_b_12_side_effects
+      label: vitamin b 12 side effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: vitamin_b_12_treatment_schedule
+      label: vitamin b 12 treatment schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vitamin_b_12_treatment_dosage
+      label: vitamin b 12 treatment dosages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vitamin_b_12_treatment_frequency
+      label: vitamin b 12 treatment frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vitamin_b_12_treatment_side_effects_other
+      label: vitamin b 12 treatment side effects other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_experience
+      label: patient experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Good''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Very Poor''}'
+      required: true
+    - id: 9
+      name: provider_info
+      label: provider info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Provider A''}'
+      - '{''value'': ''Provider B''}'
+      - '{''value'': ''Provider C''}'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: healthcare_provider_name
+      label: healthcare provider name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: healthcare_provider_title
+      label: healthcare provider title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: healthcare_provider_department
+      label: healthcare provider department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: healthcare_provider_clinic
+      label: healthcare provider clinic
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Clinic A''}'
+      - '{''value'': ''Clinic B''}'
+      - '{''value'': ''Clinic C''}'
+      required: true
+    - id: 18
+      name: healthcare_provider_specialty
+      label: healthcare provider specialty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: healthcare_provider_npi
+      label: healthcare provider npi
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: practice_name
+      label: practice name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: practice_address
+      label: practice address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: practice_city
+      label: practice city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: practice_state
+      label: practice state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: practice_zip
+      label: practice zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

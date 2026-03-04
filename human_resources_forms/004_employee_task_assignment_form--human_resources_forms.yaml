@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Task Assignment Form
+    pages:
+    - id: 1
+      name: employee_task_assignment_form
+      label: Employee Task Assignment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: task_name
+      label: Task Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: task_progress
+      label: Task Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_type
+      label: Assigned Tool Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool_user
+      label: Assigned Tool User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_tool_password
+      label: Assigned Tool Password
+      hint: null
+      type: text
+      options: []
+      required: false

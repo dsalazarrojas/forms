@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Product Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: health_product_id
+      label: health product id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: overall satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 4
+      name: feedback
+      label: what is your feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion
+      label: what do you suggest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: additional information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiograph Interpretation Request Form
+    pages:
+    - id: 1
+      name: radiograph_interpretation_request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_impression
+      label: medical_impression
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: radiologist_impression
+      label: radiologist_impression
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_service
+      label: request_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: radiologist_name
+      label: radiologist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: patient_gender
+      label: patient_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: patient_birthdate
+      label: patient_birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_number_2
+      label: contact_number_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: request_reason
+      label: request_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: radiologist_comment
+      label: radiologist_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: radiologist_signature
+      label: radiologist_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: radiologist_initials
+      label: radiologist_initials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: radiologist_license_number
+      label: radiologist_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: request_status
+      label: request_status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Complete
+      required: false
+    - id: 22
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: request_notes
+      label: request_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

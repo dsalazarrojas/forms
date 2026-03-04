@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Records Release Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Please provide your information for secure release authorization
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Physician
+      - Dentist
+      - Specialist
+      - Ophthalmologist
+      - Chiropractor
+      - Podiatrist
+      required: true
+    - id: 3
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: release_reason
+      label: Release Reason
+      hint: Reason for release authorization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Your contact number for secure release authorization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Hand-written signature
+      - Digital signature
+      required: true
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: Please sign below with your finger
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: provider_signature
+      label: Healthcare Provider Signature
+      hint: Please have your healthcare provider sign below
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      required: true
+    - id: 9
+      name: patient_records
+      label: Patient Records
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Records
+      - Medications
+      - Lab Results
+      - Radiology Results
+      - Imaging Results
+      - Surgery Records
+      - Dental Records
+      required: true

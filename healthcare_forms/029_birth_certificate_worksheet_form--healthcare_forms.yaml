@@ -1,0 +1,309 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Certificate Worksheet Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birth Registration Worksheet --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Official worksheet for birth record documentation
+      hint: Complete accurately for official registry
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_infant
+      label: -- Infant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: infant_first_name
+      label: Infant First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: infant_middle_name
+      label: Infant Middle Name
+      hint: Middle name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: infant_last_name
+      label: Infant Last Name
+      hint: Surname
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_birth
+      label: Time of Birth
+      hint: Hour and minute of birth
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: sex
+      label: Sex
+      hint: Male or Female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 10
+      name: weight_at_birth
+      label: Weight at Birth
+      hint: In pounds and ounces or grams
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: length_at_birth
+      label: Length at Birth
+      hint: In inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: apgar_score
+      label: Apgar Score
+      hint: If recorded
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_mother
+      label: -- Mother Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: mother_first_name
+      label: Mother First Name
+      hint: Mother's given name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: mother_middle_name
+      label: Mother Middle Name
+      hint: Mother's middle name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mother_last_name
+      label: Mother Last Name
+      hint: Mother's surname
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: mother_maiden_name
+      label: Mother Maiden Name
+      hint: If different from current
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mother_dob
+      label: Mother Date of Birth
+      hint: Mother's birth date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: mother_age
+      label: Mother Age at Birth
+      hint: Age when child born
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: mother_ssn
+      label: Mother Social Security Number
+      hint: Last 4 digits acceptable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mother_address
+      label: Mother Address
+      hint: Current residence
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mother_city
+      label: Mother City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: mother_state
+      label: Mother State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_father
+      label: -- Father Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: father_included
+      label: Is Father's Name Being Included
+      hint: Will father appear on certificate
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 26
+      name: father_first_name
+      label: Father First Name
+      hint: Father's given name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: father_middle_name
+      label: Father Middle Name
+      hint: Father's middle name
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: father_last_name
+      label: Father Last Name
+      hint: Father's surname
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: father_dob
+      label: Father Date of Birth
+      hint: Father's birth date
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: father_age
+      label: Father Age at Birth
+      hint: Age when child born
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: father_ssn
+      label: Father Social Security Number
+      hint: Last 4 digits acceptable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: father_address
+      label: Father Address
+      hint: Current residence
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_birth_details
+      label: -- Birth Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: birth_facility
+      label: Facility Name or Hospital
+      hint: Where birth occurred
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: birth_facility_city
+      label: Facility City
+      hint: City of facility
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: birth_facility_state
+      label: Facility State
+      hint: State of facility
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: delivery_method
+      label: Method of Delivery
+      hint: Type of delivery
+      type: select_one
+      options:
+      - Vaginal
+      - Cesarean Section
+      - Vacuum Assisted
+      - Forceps Assisted
+      - Other
+      required: true
+    - id: 38
+      name: attending_provider
+      label: Attending Provider Name
+      hint: Doctor or midwife
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: section_certifier
+      label: -- Certifying Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: certifier_name
+      label: Certifying Official Name
+      hint: Person certifying birth
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: certifier_title
+      label: Certifier Title
+      hint: Position or credentials
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: certification_date
+      label: Date of Certification
+      hint: When form is certified
+      type: date
+      options: []
+      required: true

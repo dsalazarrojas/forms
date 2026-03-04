@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dependents Addition Request Form
+    pages:
+    - id: 1
+      name: dependent_name
+      label: Dependent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dependent_type
+      label: Dependent Type
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Partner
+      - Parent
+      required: false
+    - id: 3
+      name: dependent_date_of_birth
+      label: Dependent Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: dependent_relationship_status
+      label: Dependent Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Common Law
+      - Married
+      - Divorced
+      required: false
+    - id: 5
+      name: dependent_employment_status
+      label: Dependent Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Student
+      - Retired
+      - Unemployed
+      required: false
+    - id: 6
+      name: dependent_income_range
+      label: Dependent Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $20,000
+      - $20,000-$30,000
+      - $30,000-$40,000
+      - More than $40,000
+      required: false
+    - id: 7
+      name: dependents_age
+      label: Dependents Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: dependent_address
+      label: Dependent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_review
+      label: Manager Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_department
+      label: Manager Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_location
+      label: Manager Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dependent_relationship_manager_approval
+      label: Dependent Relationship Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Not Required
+      - Not Required
+      - Required
+      required: false
+    - id: 20
+      name: dependent_relationship_manager_comment
+      label: Dependent Relationship Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_relationship_manager_approval
+      label: Employee Relationship Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Not Required
+      - Required
+      required: false
+    - id: 22
+      name: employee_relationship_manager_comment
+      label: Employee Relationship Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_of_review
+      label: Date of Review
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Not Required
+      required: false
+    - id: 25
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false

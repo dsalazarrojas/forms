@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Employee Onboarding Form
+    pages:
+    - id: 1
+      name: email_address
+      label: email address
+      hint: Enter your work email address
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_tasks
+      label: onboarding tasks
+      hint: Select the tasks you've completed
+      type: select_one
+      options:
+      - Task 1
+      - Task 2
+      - Task 3
+      required: false
+    - id: 3
+      name: onboarding_tasks_other
+      label: onboarding_tasks_other
+      hint: List any other tasks you think are relevant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_name
+      label: supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_email
+      label: supervisor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_phone
+      label: supervisor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: onboarding_date
+      label: onboarding date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: it_department
+      label: it department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - HR
+      - Finance
+      required: false
+    - id: 9
+      name: it_contact
+      label: it contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: it_manager
+      label: it manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 12
+      name: shift
+      label: shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false

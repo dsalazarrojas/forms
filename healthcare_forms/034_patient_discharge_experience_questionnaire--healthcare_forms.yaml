@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Discharge Experience Questionnaire
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: hospital_id
+      label: Hospital ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: discharge_cause
+      label: Reason for Discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discharge_location
+      label: Location of Discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Pending
+      required: false
+    - id: 10
+      name: discharge_outcomes
+      label: Outcome prophets
+      hint: null
+      type: note
+      options: []
+      required: false

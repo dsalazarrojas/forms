@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellnees Profile
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_license
+      label: Medical license
+      hint: null
+      type: select_one
+      options:
+      - License 1
+      - License 2
+      - License 3
+      required: false
+    - id: 6
+      name: specialty
+      label: Specialty
+      hint: Enter specialty
+      type: select_multiple
+      options:
+      - Specialty 1
+      - Specialty 2
+      - Specialty 3
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_school
+      label: Medical school
+      hint: null
+      type: select_one
+      options:
+      - Medical School 1
+      - Medical School 2
+      - Medical School 3
+      required: false

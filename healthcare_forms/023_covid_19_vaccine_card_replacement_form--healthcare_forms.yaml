@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Card Replacement Form
+    pages:
+    - id: 1
+      name: person_name
+      label: Full Name
+      hint: As it appears on vaccination record
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: person_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For delivery of replacement card
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address_section
+      label: -- Mailing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: original_card_section
+      label: -- Original Vaccination Card Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_replacement
+      label: Reason for Card Replacement
+      hint: null
+      type: select_one
+      options:
+      - Lost or misplaced
+      - Damaged or worn
+      - Never received
+      - Stolen
+      - Illegible
+      - Other
+      required: true
+    - id: 12
+      name: original_card_date
+      label: Approximate Date Card Was Lost or Damaged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: vaccine_type
+      label: Vaccine Type Received
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Novavax
+      - Other
+      - Unsure
+      required: true
+    - id: 14
+      name: dose1_date
+      label: Date of First Dose
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: dose1_location
+      label: Location of First Dose
+      hint: Clinic, pharmacy, hospital, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dose2_date
+      label: Date of Second Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: dose2_location
+      label: Location of Second Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: booster_date
+      label: Date of Booster Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: booster_location
+      label: Location of Booster Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: card_batch_numbers
+      label: Batch Numbers - If you remember them
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vaccination_section
+      label: -- Vaccination History Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: fully_vaccinated
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Completed primary series with boosters
+      required: true
+    - id: 23
+      name: vaccinating_provider_clinic
+      label: Primary Vaccinating Provider or Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_contact
+      label: Provider Contact Information
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: delivery_section
+      label: -- Delivery Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Mail to address
+      - Email as PDF
+      - Pickup at clinic
+      - Pick up at pharmacy
+      required: true
+    - id: 27
+      name: urgent_request
+      label: This is an urgent request
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: consent_section
+      label: -- Consent and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: information_verification
+      label: I verify the vaccination information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 30
+      name: privacy_consent
+      label: I consent to release my vaccination records
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_appointment_check_out_form
+    pages:
+    - id: 1
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirm''}'
+      - '{''label'': ''Reschedule''}'
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: patient_feedback
+      label: Patient Feedback
+      hint: Share your thoughts
+      type: note
+      options: []
+      required: false

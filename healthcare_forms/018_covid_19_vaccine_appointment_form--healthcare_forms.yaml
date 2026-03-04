@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_email
+      label: Email Address
+      hint: Appointment confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appointment_section
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: appointment_reason
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Single dose vaccine
+      - Vaccination card replacement
+      required: true
+    - id: 8
+      name: vaccine_preference
+      label: Vaccine Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      required: true
+    - id: 9
+      name: insurance_section
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: insurance_status
+      label: Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - Insured
+      - Uninsured
+      - Medicaid
+      - Medicare
+      required: true
+    - id: 11
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_id
+      label: Insurance Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_section
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Known allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: chronic_conditions
+      label: Chronic medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: immunocompromised
+      label: Are you immunocompromised
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: pregnancy
+      label: Are you pregnant or may be pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Prefer not to answer
+      required: true
+    - id: 19
+      name: screening_section
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: fever
+      label: Do you have a fever or feel sick
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: covid_symptoms
+      label: COVID-19 symptoms in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: covid_positive
+      label: Tested positive for COVID-19 recently
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: covid_positive_date
+      label: If yes, date of positive test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_section
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: accessibility_needs
+      label: Accessibility accommodations needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: interpreter_needed
+      label: Need language interpreter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: interpreter_language
+      label: If yes, language needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: consent
+      label: I have read and agree to the appointment terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

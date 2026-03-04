@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Survey
+    pages:
+    - id: 1
+      name: exit_reason
+      label: What was the main reason you are leaving our company?
+      hint: null
+      type: select_one
+      options:
+      - Poor salary
+      - Unsatisfactory work environment
+      - Lack of career growth
+      - Poor work-life balance
+      - Lack of challenge
+      - Other reason
+      required: false
+    - id: 2
+      name: exit_date
+      label: When did you decide to leave the company?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_leaving
+      label: What is the most important reason for your departure?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Do you have any feedback or suggestions for the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exit_survey
+      label: Have you been approached for an exit survey by HR?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: manager_name
+      label: What is your manager's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Your work email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Your work phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_extension
+      label: Office extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Any other comments
+      hint: null
+      type: text
+      options: []
+      required: false

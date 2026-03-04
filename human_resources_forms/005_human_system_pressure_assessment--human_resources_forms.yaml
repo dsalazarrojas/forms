@@ -1,0 +1,272 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Human System Pressure Assessment
+    pages:
+    - id: 1
+      name: workplace_pressure
+      label: What is the current state of workplace pressure?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_pressure_level
+      label: Select the current pressure level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: work_pressure_duration
+      label: How long has this pressure been present?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_pressure
+      label: How many team members report feeling pressure?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Many''}'
+      - '{''id'': 2, ''label'': ''Few''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 5
+      name: manager_pressure
+      label: How many managers report feeling pressure?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Many''}'
+      - '{''id'': 2, ''label'': ''Few''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 6
+      name: work_life_balance
+      label: Do you have a healthy work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: employee_support
+      label: How often do you receive employee support?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Often''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      required: false
+    - id: 8
+      name: work_family_life
+      label: How do you handle work-family conflicts?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_health
+      label: Are you experiencing any health issues due to work pressure?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: stress_management
+      label: What stress management techniques are you using?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Mindfulness''}'
+      - '{''id'': 2, ''label'': ''Exercise''}'
+      - '{''id'': 3, ''label'': ''Meditation''}'
+      required: false
+    - id: 11
+      name: manager_support
+      label: How often do you receive manager support?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Often''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      required: false
+    - id: 12
+      name: employee_pressure_sources
+      label: What causes pressure at work?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Workload''}'
+      - '{''id'': 2, ''label'': ''Workload/Deadlines''}'
+      - '{''id'': 3, ''label'': ''Workload/Deadlines and Workload/Work-life balance''}'
+      - '{''id'': 4, ''label'': ''Workload/Deadlines and Work-life balance''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: work_environment
+      label: What is the most stressful work environment aspect?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_dysfunction
+      label: What causes team dysfunction?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication problems''}'
+      - '{''id'': 2, ''label'': ''Conflicting interests''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: work_schedules
+      label: Are you satisfied with work schedules?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 16
+      name: work_space
+      label: Is your work space comfortable?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very comfortable''}'
+      - '{''id'': 2, ''label'': ''Somewhat comfortable''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat uncomfortable''}'
+      - '{''id'': 5, ''label'': ''Very uncomfortable''}'
+      required: false
+    - id: 17
+      name: team_leadership
+      label: How would you rate team leadership?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very effective''}'
+      - '{''id'': 2, ''label'': ''Somewhat effective''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat ineffective''}'
+      - '{''id'': 5, ''label'': ''Very ineffective''}'
+      required: false
+    - id: 18
+      name: work_equipment
+      label: Is your work equipment adequate?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very adequate''}'
+      - '{''id'': 2, ''label'': ''Somewhat adequate''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat inadequate''}'
+      - '{''id'': 5, ''label'': ''Very inadequate''}'
+      required: false
+    - id: 19
+      name: work_life_balance_adequate
+      label: Is work life balance adequate?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very adequate''}'
+      - '{''id'': 2, ''label'': ''Somewhat adequate''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat inadequate''}'
+      - '{''id'': 5, ''label'': ''Very inadequate''}'
+      required: false
+    - id: 20
+      name: team_dysfunction_causes
+      label: What causes team dysfunction?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication problems''}'
+      - '{''id'': 2, ''label'': ''Conflicting interests''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: work_schedules_satisfaction
+      label: Satisfaction with work schedules?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 22
+      name: employee_satisfaction
+      label: How satisfied are you with your current role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 23
+      name: work_pressure_reduction
+      label: How do you reduce work pressure?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Mindfulness''}'
+      - '{''id'': 2, ''label'': ''Exercise''}'
+      - '{''id'': 3, ''label'': ''Meditation''}'
+      required: false
+    - id: 24
+      name: work_environment_satisfaction
+      label: How satisfied are you with the work environment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 25
+      name: employee_satisfaction_adequate
+      label: Is employee satisfaction adequate?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very adequate''}'
+      - '{''id'': 2, ''label'': ''Somewhat adequate''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat inadequate''}'
+      - '{''id'': 5, ''label'': ''Very inadequate''}'
+      required: false

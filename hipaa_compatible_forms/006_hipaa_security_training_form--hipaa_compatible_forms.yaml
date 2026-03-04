@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: HIPAA Security Training Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Overdue
+      - Not Started
+      required: false
+    - id: 5
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_facility
+      label: Training Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_instructor
+      label: Training Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_notes
+      label: Training Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      - Pending
+      required: false
+    - id: 12
+      name: training_hours_completed
+      label: Training Hours Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: training_hours_required
+      label: Training Hours Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: training_status_update
+      label: Training Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: false
+    - id: 24
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false

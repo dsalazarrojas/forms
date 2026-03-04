@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Information Credibility Survey
+    pages:
+    - id: 1
+      name: health_information_source
+      label: Health Information Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: how_often_use
+      label: How Often
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times per year
+      - 3-5 times per year
+      - Daily
+      - Monthly
+      - Never
+      - Weekly
+      - Yearly
+      required: false
+    - id: 3
+      name: how_confident
+      label: How Confident
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Somewhat
+      - Very
+      - Extremely
+      required: false
+    - id: 4
+      name: information_type
+      label: Information Type
+      hint: null
+      type: select_one
+      options:
+      - Health News
+      - Health Information
+      - Medical Literature
+      - Social Media
+      - Other
+      - Online Search
+      - Healthcare Professional
+      required: false
+    - id: 5
+      name: trust_level
+      label: Trust Level
+      hint: null
+      type: select_one
+      options:
+      - No Trust
+      - Low
+      - Moderate
+      - High
+      - Extremely High
+      required: false
+    - id: 6
+      name: information_source
+      label: Information Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: why_dont_trust
+      label: Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trust_reasons
+      label: Reasons
+      hint: null
+      type: text
+      options: []
+      required: false

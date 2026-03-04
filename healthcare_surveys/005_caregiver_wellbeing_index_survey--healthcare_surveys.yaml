@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Wellbeing Index Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Caregiver Wellbeing Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_to_care_receiver
+      label: Relationship to care receiver
+      hint: Family, professional caregiver, friend, other
+      type: select_one
+      options:
+      - Family caregiver
+      - Professional caregiver
+      - Friend
+      - Other
+      required: true
+    - id: 4
+      name: average_hours_caring_per_week
+      label: Average hours spent caring per week
+      hint: Estimate usual weekly caregiving hours
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: stress_level
+      label: Current stress level
+      hint: Self assessment over past two weeks
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 6
+      name: sleep_hours_average
+      label: Average sleep hours per night
+      hint: Typical nightly sleep duration
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: social_support
+      label: Perceived social support
+      hint: Support from friends family or community
+      type: select_one
+      options:
+      - None
+      - Some
+      - Adequate
+      - Strong
+      required: true
+    - id: 8
+      name: burnout_symptoms
+      label: Burnout symptoms experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fatigue
+      - Sleep problems
+      - Irritability
+      - Loss of interest
+      - Physical aches
+      required: false
+    - id: 9
+      name: coping_strategies_used
+      label: Coping strategies used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Exercise
+      - Support groups
+      - Professional counseling
+      - Relaxation techniques
+      - None
+      required: false
+    - id: 10
+      name: need_for_additional_support
+      label: Need for additional support services
+      hint: Would you like to be contacted about support options
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: immediate_concerns
+      label: Immediate concerns or safety risks
+      hint: Describe if there are pressing issues
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information to help assess wellbeing
+      type: text
+      options: []
+      required: false

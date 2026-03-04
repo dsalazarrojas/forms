@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Skills Upgrade Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: training_request
+      label: Training Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false

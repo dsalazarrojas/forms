@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Pre Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_ssn
+      label: Last 4 Digits of Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to answer
+      required: true
+    - id: 5
+      name: contact_info_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_primary
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_secondary
+      label: Secondary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: registration_section
+      label: -- Registration Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vaccination_location
+      label: Preferred Vaccination Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_date
+      label: Preferred Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_time
+      label: Preferred Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      required: true
+    - id: 18
+      name: registration_reason
+      label: Reason for Registration
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Unsure
+      required: true
+    - id: 19
+      name: insurance_section
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: insurance_status
+      label: Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - Insured
+      - Uninsured
+      - Medicaid
+      - Medicare
+      - Self-pay
+      required: true
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_member_id
+      label: Insurance Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Allergies to medications or vaccine components
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: chronic_conditions
+      label: Chronic medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: current_medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: immunocompromised
+      label: Immunocompromised status
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 28
+      name: pregnancy
+      label: Pregnant or planning pregnancy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 29
+      name: prior_covid_section
+      label: -- COVID-19 History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: prior_covid
+      label: Previously diagnosed with COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 31
+      name: covid_diagnosis_date
+      label: If yes, date of diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: emergency_contact_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: registration_acknowledgment
+      label: I confirm the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

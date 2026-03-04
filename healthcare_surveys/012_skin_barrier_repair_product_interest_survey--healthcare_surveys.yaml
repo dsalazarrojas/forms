@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Barrier Repair Product Interest Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: user-demographics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: skin_concerns
+      label: skin-concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skin_concerns_frequency
+      label: how-often-do-you-experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: product_preferences
+      label: product-preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: key_features
+      label: key-features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: brand
+      label: brand
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_interest
+      label: product-interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_features
+      label: product-features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

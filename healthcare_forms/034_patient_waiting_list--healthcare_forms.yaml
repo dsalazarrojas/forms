@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Waiting List
+    pages:
+    - id: 1
+      name: patient_waiting_list_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_waiting_list_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_waiting_list_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: patient_waiting_list_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_waiting_list_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_waiting_list_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_waiting_list_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_waiting_list_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Waiting List 1
+      - Waiting List 2
+      - Waiting List 3
+      required: false
+    - id: 9
+      name: patient_waiting_list_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: patient_waiting_list_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Archived
+      - Cancelled
+      required: false
+    - id: 11
+      name: patient_waiting_list_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      - chatjohn
+      required: false
+    - id: 12
+      name: patient_waiting_list_id
+      label: ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_waiting_list_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_waiting_list_category_2
+      label: Category 2
+      hint: null
+      type: text
+      options: []
+      required: false

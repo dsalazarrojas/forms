@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elder Care Technology Adoption Survey
+    pages:
+    - id: 1
+      name: caregiver_identity
+      label: Caregiver Identity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: caregiver_role
+      label: Caregiver Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''primary caregiver''}'
+      - '{''id'': 2, ''name'': ''secondary caregiver''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 3
+      name: care_receiver_identity
+      label: Care Receiver Identity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: care_receiver_care_levels
+      label: Care Receiver Care Levels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''basic care''}'
+      - '{''id'': 2, ''name'': ''skilled care''}'
+      - '{''id'': 3, ''name'': ''custodial care''}'
+      required: false
+    - id: 5
+      name: technology_usage
+      label: Technology Usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''smart home''}'
+      - '{''id'': 2, ''name'': ''telecare''}'
+      - '{''id'': 3, ''name'': ''video monitoring''}'
+      required: false
+    - id: 6
+      name: technology_impact
+      label: Technology Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''improved quality of care''}'
+      - '{''id'': 2, ''name'': ''cost savings''}'
+      - '{''id'': 3, ''name'': ''enhanced caregiver engagement''}'
+      required: false
+    - id: 7
+      name: technology_challenges
+      label: Technology Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''cost''}'
+      - '{''id'': 2, ''name'': ''training''}'
+      - '{''id'': 3, ''name'': ''adoption''}'
+      required: false
+    - id: 8
+      name: care_quality
+      label: Care Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tech_assistance
+      label: Tech Assistance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''in-person''}'
+      - '{''id'': 2, ''name'': ''remote''}'
+      - '{''id'': 3, ''name'': ''both''}'
+      required: false
+    - id: 10
+      name: survey_response
+      label: Survey Response
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: survey_completion
+      label: Survey Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: tool_used
+      label: Tool Used
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''carequal''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 13
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Appointment Scheduling Process Poll
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: appointment_type
+      label: appointment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Appointment'', ''label'': ''Appointment''}'
+      - '{''id'': 2, ''name'': ''Walk-in'', ''label'': ''Walk-in''}'
+      - '{''id'': 3, ''name'': ''No-show'', ''label'': ''No-show''}'
+      required: false
+    - id: 3
+      name: scheduling_method
+      label: Scheduling Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Online Scheduling'', ''label'': ''Online Scheduling''}'
+      - '{''id'': 2, ''name'': ''Call Center'', ''label'': ''Call Center''}'
+      - '{''id'': 4, ''name'': ''Walk-in'', ''label'': ''Walk-in''}'
+      - '{''id'': 5, ''name'': ''Email'', ''label'': ''Email''}'
+      - '{''id'': 6, ''name'': ''Other (please specify)'', ''label'': ''Other (please
+        specify)''}'
+      required: false
+    - id: 4
+      name: preferred_scheduling_time
+      label: Preferred Scheduling Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_scheduling_day
+      label: Preferred Scheduling Day
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monday'', ''label'': ''Monday''}'
+      - '{''id'': 2, ''name'': ''Tuesday'', ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''name'': ''Wednesday'', ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''name'': ''Thursday'', ''label'': ''Thursday''}'
+      - '{''id'': 5, ''name'': ''Friday'', ''label'': ''Friday''}'
+      - '{''id'': 6, ''name'': ''Saturday'', ''label'': ''Saturday''}'
+      - '{''id'': 7, ''name'': ''Sunday'', ''label'': ''Sunday''}'
+      required: false
+    - id: 6
+      name: scheduling_wait_time
+      label: Scheduling Wait Time
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''name'': ''Somewhat Satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 8, ''name'': ''Neither Satisfied'', ''label'': ''Neither Satisfied''}'
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Mentorship Program Assessment Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Employee Mentorship Program Assessment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1_header
+      label: Mentorship Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: question_1
+      label: Have you found a mentor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: question_2
+      label: How do you rate your experience with your mentor?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: question_3
+      label: What are the biggest benefits you have experienced from this mentorship?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_4
+      label: What are some potential areas for improvement in the mentorship program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_2_header
+      label: Mentorship Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: goal_1
+      label: What are your goals for the mentorship program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: goal_2
+      label: How often would you like to meet with your mentor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

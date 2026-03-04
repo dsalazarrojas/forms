@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magnesium Chloride Usage Survey
+    pages:
+    - id: 1
+      name: magnesium_chloride_usage
+      label: What Do You Use Magnesium Chloride For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_one_magnitude
+      label: Which Magnesium Product Do You Use
+      hint: null
+      type: select_one
+      options:
+      - Magnesium Citrate
+      - Magnesium Glycinate
+      - Magnesium Oxide
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: select_multiple_magnesium_use
+      label: How Often Do You Use Magnesium Product In A Week?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Several times a day
+      - Once a week
+      - Rarely
+      required: false
+    - id: 8
+      name: select_multiple_magnitude_product_preferences
+      label: What Product Characteristics Do You Prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Magnesium Citrate
+      - Magnesium Glycinate
+      - Magnesium Oxide
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: decimal_magnitude_level
+      label: How Often Do You Use Magnesium Products At Home
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: integer_magnitude_level
+      label: How Often Do You Use Magnesium Products On The Go
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: select_multiple_magnitude_frequency
+      label: Magnesium Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Several times a day
+      - Once a week
+      - Rarely
+      required: false
+    - id: 15
+      name: select_multiple_magnitude_frequency_2
+      label: How Often Do You Use Magnesium Product For
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Several times a day
+      - Once a week
+      - Rarely
+      required: false

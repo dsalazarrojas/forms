@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Schedule Submission
+    pages:
+    - id: 1
+      name: quarterly_schedules
+      label: Quarterly Schedules
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: weekly_schedules
+      label: Weekly Schedules
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_notes
+      label: Risk Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: quarterly_plans
+      label: Quarterly Plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

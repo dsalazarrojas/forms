@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Vaccination Checklist For COVID 19 Vaccines
+    pages:
+    - id: 1
+      name: patient_info
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vital_signs
+      label: vital signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: vaccination_site
+      label: vaccination site
+      hint: null
+      type: select_one
+      options:
+      - Left Arm
+      - Right Arm
+      - Left Leg
+      - Right Leg
+      - Scalene
+      required: true
+    - id: 7
+      name: patient_status
+      label: patient status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: date_and_time
+      label: date and time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: medical_notes
+      label: medical notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: medical history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: laboratory
+      label: laboratory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: blood_tire
+      label: blood tire
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

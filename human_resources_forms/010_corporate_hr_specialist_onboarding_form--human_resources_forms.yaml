@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_hr_specialist_onboarding_form
+    pages:
+    - id: 1
+      name: page_1
+      label: welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hire_date
+      label: hire_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manager_info
+      label: manager_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: job_description
+      label: job_description
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false

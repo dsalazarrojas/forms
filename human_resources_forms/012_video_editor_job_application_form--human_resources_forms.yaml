@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: video_editor_job_application_form
+    pages:
+    - id: 1
+      name: job_application
+      label: Job Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: video_samples
+      label: video_samples
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - Video Editing
+      - Video Production
+      - Visual Effects
+      - Color Grading
+      - Sound Design
+      required: false
+    - id: 7
+      name: previous_work_experience
+      label: previous_work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor
+      - Associate
+      - Master
+      - Phd
+      required: false
+    - id: 9
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: desired_salary
+      label: desired_salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Child
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship_description
+      label: emergency_contact_relationship_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship_type
+      label: emergency_contact_relationship_type
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Partner
+      - Child
+      - Parent
+      - Friend
+      - Other
+      required: false
+    - id: 18
+      name: emergency_contact_relationship_since
+      label: emergency_contact_relationship_since
+      hint: null
+      type: text
+      options: []
+      required: false

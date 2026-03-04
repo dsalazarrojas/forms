@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stroke Recovery Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - stable
+      - critical
+      - other
+      required: true
+    - id: 4
+      name: discharge_care
+      label: Discharge Care
+      hint: null
+      type: select_one
+      options:
+      - homecare
+      - hospitalization
+      - other
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physician_note
+      label: Physician Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_care
+      label: Follow-up Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: discharge_diagnosis
+      label: Discharge Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_education
+      label: Patient Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_provider
+      label: Next Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: healthcare_provider
+      label: HealthCare Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: patient_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: patient_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

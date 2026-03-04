@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_shift_report
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: week_starting_date
+      label: week_starting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shift_days
+      label: shift_days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: text
+      options: []
+      required: false

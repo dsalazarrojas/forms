@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Transfer And Pay Rate Survey
+    pages:
+    - id: 1
+      name: employee_transfer_and_pay_rate_survey_page
+      label: Employee Transfer and Pay Rate Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employee A'', ''label'': ''Employee A''}'
+      - '{''value'': ''Employee B'', ''label'': ''Employee B''}'
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: pay_rate
+      label: Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_responsibilities
+      label: Job Responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Internal'', ''label'': ''Internal''}'
+      - '{''value'': ''External'', ''label'': ''External''}'
+      required: false

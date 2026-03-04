@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contraception Request Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contraceptive_type
+      label: Contraceptive Type Requested
+      hint: Select the method
+      type: select_one
+      options:
+      - Birth control pills
+      - IUD - hormonal
+      - IUD - copper
+      - Implant
+      - Injection
+      - Patch
+      - Vaginal ring
+      - Diaphragm
+      - Condoms
+      - Emergency contraception
+      required: true
+    - id: 8
+      name: previous_contraceptive_use
+      label: Previous Contraceptive Use
+      hint: Have you used contraception before?
+      type: select_one
+      options:
+      - Yes, currently using
+      - Yes, used in the past
+      - No, first time
+      required: true
+    - id: 9
+      name: previous_method
+      label: Previous Method
+      hint: What did you use before?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why are you switching or starting?
+      type: select_one
+      options:
+      - Side effects with current method
+      - Seeking better effectiveness
+      - Planning pregnancy timing
+      - Health considerations
+      - Cost considerations
+      - Convenience
+      - First time use
+      - Other
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any relevant health conditions?
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Blood clots
+      - Heart disease
+      - Liver disease
+      - Breast cancer
+      - Migraines
+      - Diabetes
+      - None
+      required: true
+    - id: 12
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you take
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: Any known allergies?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke?
+      type: select_one
+      options:
+      - Non-smoker
+      - Former smoker
+      - Current smoker
+      required: true
+    - id: 15
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Could you be pregnant now?
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 16
+      name: breastfeeding
+      label: Breastfeeding
+      hint: Are you currently breastfeeding?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 17
+      name: side_effects_experienced
+      label: Side Effects Experienced
+      hint: Have you had side effects before?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_pharmacy
+      label: Preferred Pharmacy
+      hint: Pharmacy name and location
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: provider_name
+      label: Provider Name
+      hint: Requesting provider
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_preference
+      label: Follow-up Preference
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Patient portal
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

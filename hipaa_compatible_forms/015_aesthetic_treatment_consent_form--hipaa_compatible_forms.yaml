@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetic Treatment Consent Form
+    pages:
+    - id: 1
+      name: patient_information_section
+      label: Patient Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_address
+      label: Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: Your primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: Your email address for appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treatment_information_section
+      label: Treatment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: treatment_type
+      label: Type of Aesthetic Treatment
+      hint: What specific aesthetic treatment are you consenting to?
+      type: select_one
+      options:
+      - Botox Injection
+      - Dermal Fillers
+      - Chemical Peel
+      - Laser Resurfacing
+      - Microneedling
+      - IPL Photofacial
+      - CoolSculpting
+      - Kybella
+      - PRP Therapy
+      - Other
+      required: true
+    - id: 11
+      name: treatment_area
+      label: Treatment Area
+      hint: Which area of the body will be treated?
+      type: select_one
+      options:
+      - Face
+      - Neck
+      - Hands
+      - Décolletage
+      - Arms
+      - Legs
+      - Abdomen
+      - Other
+      required: true
+    - id: 12
+      name: treatment_provider
+      label: Treatment Provider
+      hint: Name of the healthcare provider who will perform the treatment
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: treatment_risks_benefits_section
+      label: Treatment Risks and Benefits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: risks_explained
+      label: Risks Explained
+      hint: Has your provider explained the potential risks of the treatment?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: common_risks_acknowledged
+      label: Common Risks Acknowledged
+      hint: I acknowledge that I understand the common risks may include bruising,
+        swelling, redness, and temporary discomfort
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: rare_risks_acknowledged
+      label: Rare Risks Acknowledged
+      hint: I acknowledge that I understand rare risks may include infection, scarring,
+        allergic reaction, or unsatisfactory results
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: benefits_understood
+      label: Benefits Understood
+      hint: Do you understand the expected benefits of the treatment?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: realistic_expectations
+      label: Realistic Expectations
+      hint: Do you have realistic expectations about the treatment outcomes?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: medical_history_section
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: allergies
+      label: Allergies
+      hint: List any known allergies, especially to medications or cosmetic products
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: previous_adverse_reactions
+      label: Previous Adverse Reactions
+      hint: Have you had any adverse reactions to aesthetic treatments before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: previous_adverse_reactions_details
+      label: Details of Previous Adverse Reactions
+      hint: If yes, please describe the previous adverse reactions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions that might affect the treatment?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent_agreement_section
+      label: Consent Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: I consent to receive the above-mentioned aesthetic treatment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: right_to_ask_questions
+      label: Right to Ask Questions
+      hint: I understand that I have the right to ask questions about the procedure
+        and have them answered
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: right_to_withdraw_consent
+      label: Right to Withdraw Consent
+      hint: I understand that I have the right to withdraw my consent at any time
+        before the procedure begins
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: photography_consent
+      label: Photography Consent
+      hint: Do you consent to before and after photographs for medical record purposes?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 30
+      name: signature_section
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: patient_signature
+      label: Patient Signature
+      hint: Sign your name to indicate your consent
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date of Signature
+      hint: Date when the consent is signed
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: provider_signature
+      label: Provider Signature
+      hint: Signature of the healthcare provider
+      type: text
+      options: []
+      required: true

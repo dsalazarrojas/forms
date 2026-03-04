@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Team Collaboration Workshop Evaluation
+    pages:
+    - id: 1
+      name: workshop_quality
+      label: Workshop Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_effectiveness
+      label: Collaboration Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Effective''}'
+      - '{''label'': ''Ineffective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Ineffective''}'
+      - '{''label'': ''Ineffective''}'
+      required: false
+    - id: 5
+      name: workshop_participants
+      label: Workshop Participants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Effective''}'
+      - '{''label'': ''Ineffective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Ineffective''}'
+      - '{''label'': ''Ineffective''}'
+      required: false
+    - id: 6
+      name: improvement_ideas_description
+      label: Improvement Ideas Description
+      hint: Provide details about improvement ideas
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_ideas_implement
+      label: Will Implement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: feedback_comments
+      label: Feedback Comments
+      hint: Provide any additional comments
+      type: text
+      options: []
+      required: false

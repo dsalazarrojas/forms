@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Collagen Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For results delivery
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 25
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: question_1
+        label: What is collagen
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A type of protein found in skin and connective tissues
+          - A vitamin supplement
+          - A type of fat
+          - A carbohydrate
+        required: true
+      - id: 5
+        name: question_2
+        label: At what age does collagen production naturally begin to decline
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Mid-20s
+          - Age 40
+          - Age 50
+          - Age 60
+        required: true
+      - id: 6
+        name: question_3
+        label: Which of the following can deplete collagen
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Sun exposure
+          - Smoking
+          - High sugar diet
+          - Stress
+          - Lack of sleep
+          - All of the above
+        required: true
+      - id: 7
+        name: question_4
+        label: What are the benefits of collagen supplementation
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Improved skin elasticity
+          - Reduced joint pain
+          - Stronger hair and nails
+          - Better gut health
+          - Muscle recovery
+          - All of the above
+        required: true
+      - id: 8
+        name: question_5
+        label: Which vitamin is essential for collagen production
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Vitamin C
+          - Vitamin D
+          - Vitamin E
+          - Vitamin B12
+        required: true
+      - id: 9
+        name: question_6
+        label: What are the main types of collagen
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Type I, II, and III
+          - Type A, B, and C
+          - Type X, Y, and Z
+          - Alpha, Beta, and Gamma
+        required: true
+      - id: 10
+        name: question_7
+        label: Type I collagen is primarily found in
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Skin, bones, and tendons
+          - Cartilage only
+          - Blood vessels only
+          - Muscles only
+        required: true
+      - id: 11
+        name: question_8
+        label: Type II collagen is primarily found in
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Cartilage and joints
+          - Skin only
+          - Bones only
+          - Hair and nails
+        required: true
+      - id: 12
+        name: question_9
+        label: Which foods naturally contain collagen
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Bone broth
+          - Chicken skin
+          - Fish with skin
+          - Egg whites
+          - Citrus fruits
+          - Leafy greens
+        required: true
+      - id: 13
+        name: question_10
+        label: What is hydrolyzed collagen
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Collagen broken into smaller peptides for better absorption
+          - Synthetic collagen
+          - Plant-based collagen
+          - Collagen with added vitamins
+        required: true
+      - id: 14
+        name: question_11
+        label: How long does it typically take to see results from collagen supplementation
+        hint: Select the best answer
+        type: select_one
+        options:
+          - 4-12 weeks
+          - 1-2 weeks
+          - 6 months
+          - 1 year
+        required: true
+      - id: 15
+        name: question_12
+        label: Can vegans get collagen from plants
+        hint: Select the best answer
+        type: select_one
+        options:
+          - No but they can consume collagen boosters
+          - Yes many plants contain collagen
+          - Only from supplements
+          - Yes from soy products
+        required: true
+      - id: 16
+        name: question_13
+        label: What factors can boost natural collagen production
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Eating vitamin C rich foods
+          - Getting adequate sleep
+          - Using sunscreen
+          - Avoiding smoking
+          - Eating antioxidant rich foods
+          - All of the above
+        required: true
+      - id: 17
+        name: question_14
+        label: Is collagen supplementation safe for everyone
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Most people but consult a doctor if pregnant or have conditions
+          - Yes completely safe for everyone
+          - No it is not safe
+          - Only for people over 40
+        required: true
+      - id: 18
+        name: question_15
+        label: What is the recommended daily dose of collagen
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Typically 2.5-15 grams depending on goals
+          - 1 gram per day
+          - 50 grams per day
+          - There is no recommended dose
+        required: true
+      - id: 19
+        name: current_collagen_use
+        label: Do You Currently Use Collagen Products
+        hint: Select one
+        type: select_one
+        options:
+          - Yes Daily
+          - Yes Occasionally
+          - No But Interested
+          - No Not Interested
+        required: true
+      - id: 20
+        name: interest_level
+        label: Interest Level in Learning More
+        hint: How interested are you
+        type: select_one
+        options:
+          - Very Interested
+          - Somewhat Interested
+          - Neutral
+          - Not Interested
+        required: true

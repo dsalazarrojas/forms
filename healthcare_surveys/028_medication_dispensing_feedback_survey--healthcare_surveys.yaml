@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_dispensing_feedback_survey
+    pages:
+    - id: 1
+      name: intro
+      label: welcome_to_the_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_type
+      label: how_did_you_visit_us
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''doctor_visit'', ''value'': ''Doctor''}'
+      - '{''id'': 2, ''name'': ''pharmacy_visit'', ''value'': ''Pharmacy''}'
+      - '{''id'': 3, ''name'': ''both_doctor_and_pharmacy'', ''value'': ''Both''}'
+      required: false
+    - id: 4
+      name: medication_info
+      label: medication_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dispensing_process
+      label: how_was_medication_dispensed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''on_time'', ''value'': ''On Time''}'
+      - '{''id'': 2, ''name'': ''before_expected'', ''value'': ''Before Expected''}'
+      - '{''id'': 3, ''name'': ''after_expected'', ''value'': ''After Expected''}'
+      required: false
+    - id: 6
+      name: communication
+      label: how_were_you_communicated_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_clear'', ''value'': ''Very Clear''}'
+      - '{''id'': 2, ''name'': ''somewhat_clear'', ''value'': ''Somewhat Clear''}'
+      - '{''id'': 3, ''name'': ''not_clear_at_all'', ''value'': ''Not Clear At All''}'
+      required: false
+    - id: 7
+      name: concerns
+      label: do_you_have_any_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 8
+      name: comments
+      label: any_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: how_would_you_rate_your_visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''good'', ''value'': ''Good''}'
+      - '{''id'': 3, ''name'': ''fair'', ''value'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''bad'', ''value'': ''Bad''}'
+      required: false
+    - id: 11
+      name: submit
+      label: submit_your_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''follow_up_yes'', ''value'': True}'
+      - '{''id'': 2, ''name'': ''follow_up_no'', ''value'': False}'
+      required: false

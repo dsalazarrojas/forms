@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Data Security Program Evaluation Form
+    pages:
+    - id: 1
+      name: page_1
+      label: What is the level of risk to your organization?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 2
+      name: page_2
+      label: What is the scope of the Medical Data Security Program?
+      hint: null
+      type: select_multiple
+      options:
+      - Compliance
+      - Risk Management
+      - Security Awareness
+      - Security Policy
+      - Data Loss Prevention
+      required: false
+    - id: 3
+      name: page_3
+      label: What is the current status of the Medical Data Security Program?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Started
+      required: false
+    - id: 4
+      name: page_4
+      label: Goals and scope of the Medical Data Security Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Security measures of the Medical Data Security Program
+      hint: null
+      type: select_multiple
+      options:
+      - Firewalls
+      - Intrusion detection
+      - Vulnerability Scanning
+      - Regular Penetration
+      required: false
+    - id: 6
+      name: page_6
+      label: Security challenges of the Medical Data Security Program
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of resources
+      - Lack of awareness
+      - Lack of budget
+      - Data breaches
+      required: false
+    - id: 7
+      name: page_7
+      label: Other security challenges of the Medical Data Security Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Program scope of the Medical Data Security Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Other security measures of the Medical Data Security Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: Risk factors of the Medical Data Security Program
+      hint: null
+      type: select_multiple
+      options:
+      - Security policies
+      - Lack of resources
+      - Human error
+      - Technical issues
+      required: false
+    - id: 11
+      name: page_11
+      label: Other risk factors of the Medical Data Security Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: page_12
+      label: Current status of the Medical Data Security Program
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Started
+      required: false
+    - id: 13
+      name: page_13
+      label: Other status of the Medical Data Security Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: page_14
+      label: Last review date of the Medical Data Security Program?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: page_15
+      label: Next review date of the Medical Data Security Program?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: page_16
+      label: Name of the program manager of the Medical Data Security Program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: page_17
+      label: Email of the program manager of the Medical Data Security Program?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: page_18
+      label: Phone number of the program manager of the Medical Data Security Program?
+      hint: null
+      type: text
+      options: []
+      required: false

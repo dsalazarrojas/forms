@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_support_check_out_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: question_1
+      label: How satisfied are you with the therapist?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_1_value
+      label: Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_2
+      label: What do you like most about our services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_3
+      label: Is there anything we could have done differently?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_4
+      label: Would you like to be contacted for a follow up?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: question_5
+      label: How can we improve our services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

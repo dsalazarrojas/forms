@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Conference Registration Form
+    pages:
+    - id: 1
+      name: registrant_info
+      label: -- Registrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send you confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Your employer or organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Education
+      - Government
+      - Non-Profit
+      - Other
+      required: false
+    - id: 9
+      name: conference_section
+      label: -- Conference Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attending_days
+      label: Days you will attend
+      hint: Select all days you will participate
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - Keynote Only
+      required: true
+    - id: 11
+      name: track_preference
+      label: Preferred track or sessions
+      hint: Which sessions interest you most?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meal_preferences
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 14
+      name: special_dietary_note
+      label: Additional dietary notes
+      hint: Any allergies or preferences not listed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_section
+      label: -- Accommodation and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: hotel_needed
+      label: Do you need hotel accommodation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: arrival_date
+      label: Arrival Date
+      hint: When will you arrive?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: departure_date
+      label: Departure Date
+      hint: When will you depart?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: transportation
+      label: Transportation needs
+      hint: Do you need airport shuttle service?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_section
+      label: -- Payment and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration package
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Keynote Only
+      - Virtual Only
+      required: true
+    - id: 22
+      name: early_bird_eligible
+      label: Early bird pricing
+      hint: Is this an early bird registration?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: terms_acceptance
+      label: I agree to the terms and conditions
+      hint: You must accept to complete registration
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

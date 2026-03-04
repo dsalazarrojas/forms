@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Clinical Evaluation Form
+    pages:
+    - id: 1
+      name: page1
+      label: start_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section1
+      label: personal_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''good'', ''label'': ''Good''}'
+      - '{''value'': ''fair'', ''label'': ''Fair''}'
+      - '{''value'': ''poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: section1_1
+      label: patient_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''patient_name'', ''label'': ''Patient Name''}'
+      - '{''value'': ''patient_age'', ''label'': ''Patient Age''}'
+      - '{''value'': ''patient_gender'', ''label'': ''Patient Gender''}'
+      - '{''value'': ''patient_weight'', ''label'': ''Patient Weight''}'
+      required: false
+    - id: 4
+      name: section1_2
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''good'', ''label'': ''Good''}'
+      - '{''value'': ''fair'', ''label'': ''Fair''}'
+      - '{''value'': ''poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: section2
+      label: medication_administered
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False, ''label'': False}'
+      - '{''value'': True, ''label'': True}'
+      required: false
+    - id: 6
+      name: section2_1
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section3
+      label: medication_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: section4
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section4_1
+      label: medical_history_pre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section4_2
+      label: medical_history_post
+      hint: null
+      type: text
+      options: []
+      required: false

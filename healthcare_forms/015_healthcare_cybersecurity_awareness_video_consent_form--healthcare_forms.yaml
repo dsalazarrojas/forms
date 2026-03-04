@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Cybersecurity Awareness Video Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Email of participant
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_video_screening
+      label: Date of Video Screening
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent_type
+      label: Type of Consent
+      hint: null
+      type: select_one
+      options:
+      - Video Screening
+      - Online Training
+      - Training Session
+      required: true
+    - id: 7
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_session_id
+      label: Training Session ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_number
+      label: Project Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Consent to participate in the video screening
+      - Consent to participate in online training
+      - Consent to participate in a training session
+      required: true
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: video_file
+      label: Video File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: uploaded_files
+      label: Upload files
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: uploaded_video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: uploaded_video_description
+      label: Video Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_video_tags
+      label: Video Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

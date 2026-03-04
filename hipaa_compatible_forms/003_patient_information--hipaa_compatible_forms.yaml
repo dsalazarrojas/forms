@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Information
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_security_number
+      label: patient_social_security_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: patient_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false

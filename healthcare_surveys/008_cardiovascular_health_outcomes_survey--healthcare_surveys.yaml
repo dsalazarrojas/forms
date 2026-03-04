@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular Health Outcomes Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: Respondent age
+      hint: Patient age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: respondent_gender
+      label: Respondent gender
+      hint: Select the best option
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non binary
+      - Prefer not to say
+      required: false
+    - id: 4
+      name: history_of_cvd
+      label: History of cardiovascular disease
+      hint: Any prior diagnosis of heart disease
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: smoking_status
+      label: Smoking status
+      hint: Current tobacco use
+      type: select_one
+      options:
+      - Current smoker
+      - Former smoker
+      - Never smoked
+      required: true
+    - id: 6
+      name: blood_pressure_reading
+      label: Most recent blood pressure reading
+      hint: Provide systolic over diastolic if known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cholesterol_levels_known
+      label: Cholesterol levels known
+      hint: If available list total cholesterol
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physical_activity_level
+      label: Physical activity level
+      hint: Typical weekly activity level
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 9
+      name: medications_for_cvd
+      label: Medications for cardiovascular conditions
+      hint: List current medications
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes_and_follow_up
+      label: Notes and follow up recommendations
+      hint: Clinician recommendations or comments
+      type: text
+      options: []
+      required: false

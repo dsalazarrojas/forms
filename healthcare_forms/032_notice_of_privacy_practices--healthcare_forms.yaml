@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notice Of Privacy Practices
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose_and_use
+      label: Purpose And Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: categories_of_information
+      label: Categories Of Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: third_party_sharing
+      label: Third Party Sharing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: access_control
+      label: Access Control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_rights
+      label: Patient Rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false

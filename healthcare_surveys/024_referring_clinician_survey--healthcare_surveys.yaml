@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referring Clinician Survey
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Mail''}'
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: practice_address
+      label: Practice Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: practice_phone
+      label: Practice Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: practice_email
+      label: Practice Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referral_reason
+      label: Referral Reason
+      hint: Why do you refer to this medical service?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New Patient''}'
+      - '{''id'': 2, ''label'': ''Existing Patient''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 11
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: true

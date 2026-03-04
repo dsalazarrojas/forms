@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Awareness Survey
+    pages:
+    - id: 1
+      name: patient_survey_page
+      label: Patient Survey Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics_page
+      label: Demographics
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - Native American or Alaskan Native
+      - White
+      - Other
+      required: false
+    - id: 3
+      name: prevention_methods_page
+      label: Prevention Methods
+      hint: null
+      type: select_one
+      options:
+      - Hand washing
+      - Social distancing
+      - Masking
+      - Other
+      required: false
+    - id: 4
+      name: hospital_visits_page
+      label: Hospital Visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: symptoms_page
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Headache
+      - Sore throat
+      - Runny nose or stuffy nose
+      - Body aches or pains
+      - Diarrhea
+      - Nausea or vomiting
+      - Fatigue
+      - Difficulty breathing or shortness of breath
+      - Sore throat
+      - Congestion or stuffy nose
+      - Coughing
+      - Sneezing
+      - Loss of taste or smell
+      - Loss of appetite
+      - Loss of smell
+      - Muscle aches or pains
+      - Diarrhea
+      - Abnormal heart rate or rhythm
+      - Chest pain
+      - Loss of taste
+      - Other
+      required: false
+    - id: 6
+      name: contact_tracing_page
+      label: Contact Tracing
+      hint: If you have recently visited this facility, please let us know who you've
+        visited
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_page
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_tracing_confirmation_page
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: survey_completed_page
+      label: Survey Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments_page
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_worker_info_page
+      label: Healthcare Worker Info
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Healthcare assistant
+      - Other
+      required: false
+    - id: 12
+      name: healthcare_worker_info_confirmation_page
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

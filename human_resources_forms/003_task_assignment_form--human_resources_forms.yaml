@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Assignment Form
+    pages:
+    - id: 1
+      name: task_assignment_form_1
+      label: assign_task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_assignment_form_2
+      label: task_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: task_assignment_form_3
+      label: employee_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: task_deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: task_hours
+      label: hours
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Reporting Feedback Form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reporting_method
+      label: Reporting Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reporting_status
+      label: Reporting Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

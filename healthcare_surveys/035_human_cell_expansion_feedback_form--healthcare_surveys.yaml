@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Cell Expansion Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form_data
+      label: feedback_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_info
+      label: Sample Info
+      hint: Please enter some sample information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lab_info
+      label: Lab Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lab_location
+      label: Lab Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Lab 1''}'
+      - '{''id'': 2, ''value'': ''Lab 2''}'
+      - '{''id'': 3, ''value'': ''Lab 3''}'
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_tel
+      label: Contact Tel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_submission
+      label: Time of Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments_2
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: date_of_submission_2
+      label: Date of Submission 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_of_submission_2
+      label: Time of Submission 2
+      hint: null
+      type: time
+      options: []
+      required: false

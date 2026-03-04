@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Negative Feedback Mechanism Explanation Form
+    pages:
+    - id: 1
+      name: negative_feedback_mechanism
+      label: Negative Feedback Mechanism
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collected_from
+      label: Collected From
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: handled_by
+      label: Handled By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: handled_by_team
+      label: Handled by Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback_collected
+      label: Feedback Collected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: explanation_provided
+      label: Explanation Provided
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: explanation_provided_to
+      label: Explanation Provided To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: collected_by
+      label: Collected By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false

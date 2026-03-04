@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_awareness_of_preventive_medicine_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sex
+      label: sex
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 6
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preventive_medicine
+      label: preventive_medicine
+      hint: null
+      type: select_multiple
+      options:
+      - Regular check-ups
+      - Healthy eating
+      - Exercise
+      - Stress management
+      required: false
+    - id: 8
+      name: awareness
+      label: awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medication
+      label: medication
+      hint: null
+      type: select_one
+      options:
+      - Prescription
+      - Non-prescription
+      - 'False'
+      required: false
+    - id: 13
+      name: religious_affiliation
+      label: religious_affiliation
+      hint: null
+      type: select_one
+      options:
+      - Protestant
+      - Catholic
+      - Muslim
+      - Other
+      required: false
+    - id: 14
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - Some
+      - High school
+      - Bachelor degree
+      - Master degree
+      - PhD
+      required: false
+    - id: 15
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 17
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Caucasian
+      - Black
+      - Hispanic
+      required: false

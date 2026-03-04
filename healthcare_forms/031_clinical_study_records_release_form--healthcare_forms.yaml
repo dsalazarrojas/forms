@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Study Records Release Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinical Study Records Release Authorization
+      hint: This form authorizes the release of your medical records for clinical
+        research purposes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or MRN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Current Address
+      hint: Street city state zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: study_name
+      label: Clinical Study Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: study_id
+      label: Study ID or Protocol Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: institution_name
+      label: Institution or Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: records_requested
+      label: Types of Records to Be Released
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medical History
+      - Laboratory Results
+      - Imaging Reports
+      - Pathology Reports
+      - Operative Reports
+      - Discharge Summaries
+      - Medication Records
+      - Allergy Records
+      - Vital Signs
+      - Progress Notes
+      - Consultation Reports
+      - Emergency Department Records
+      - Other
+      required: true
+    - id: 13
+      name: date_range_from
+      label: Date Range From
+      hint: Start date for records
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: date_range_to
+      label: Date Range To
+      hint: End date for records
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: purpose_of_release
+      label: Purpose of Records Release
+      hint: null
+      type: select_one
+      options:
+      - Clinical Research Study
+      - Data Analysis
+      - Quality Improvement
+      - Regulatory Review
+      - Other Research Purpose
+      required: true
+    - id: 16
+      name: recipient_name
+      label: Recipient Name or Organization
+      hint: Who will receive the records
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recipient_address
+      label: Recipient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recipient_contact
+      label: Recipient Contact Information
+      hint: Email or phone
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: format_preference
+      label: Preferred Format for Records
+      hint: null
+      type: select_one
+      options:
+      - Electronic PDF
+      - Electronic HL7
+      - Paper Copies
+      - CD or USB Drive
+      - No Preference
+      required: false
+    - id: 20
+      name: sensitive_information
+      label: Sensitive Information Authorization
+      hint: HIV mental health substance abuse genetic testing
+      type: select_one
+      options:
+      - Include All Relevant Information
+      - Exclude Sensitive Information
+      - Include Only Specified Types
+      required: true
+    - id: 21
+      name: sensitive_specifications
+      label: Specify Which Sensitive Information
+      hint: If include only specified
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: expiration_date
+      label: Authorization Expiration Date
+      hint: When does this authorization expire
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: revocation_understanding
+      label: I Understand I Can Revoke This Authorization
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 24
+      name: treatment_not_conditioned
+      label: I Understand Treatment Is Not Conditioned on Signing
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 25
+      name: redisclosure_notice
+      label: I Understand Information May Be Subject to Redisclosure
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 26
+      name: copy_requested
+      label: Would You Like a Copy of This Authorization
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: hipaa_notice_provided
+      label: HIPAA Notice of Privacy Practices Provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 32
+      name: staff_name
+      label: Staff Member Obtaining Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false

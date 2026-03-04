@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mucus Less Tracking Form
+    pages:
+    - id: 1
+      name: mucus_collection_date
+      label: Mucus Collection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: collection_method
+      label: Collection Method
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 3
+      name: amount_collected
+      label: Amount Collected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_takes
+      label: Medication Takes
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: tracking_location
+      label: Tracking Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tracking_method
+      label: Tracking Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tracking_comments
+      label: Tracking Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tracking_status
+      label: Tracking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Disabled
+      - Closed
+      required: false

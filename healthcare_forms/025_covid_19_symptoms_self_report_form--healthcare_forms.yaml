@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Symptoms Self Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_time
+      label: Report Time
+      hint: Current time
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: primary_symptom
+      label: What is your primary symptom
+      hint: Main complaint
+      type: select_one
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion or runny nose
+      - Nausea or vomiting
+      - Diarrhea
+      - Other
+      required: true
+    - id: 14
+      name: all_symptoms
+      label: Select all symptoms you are experiencing
+      hint: Complete symptom list
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion or runny nose
+      - Nausea or vomiting
+      - Diarrhea
+      - Chest pain
+      - Abdominal pain
+      - Rash
+      - Other
+      required: true
+    - id: 15
+      name: symptom_onset_date
+      label: When did your symptoms start
+      hint: First symptom date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: symptom_progression
+      label: Are your symptoms getting better worse or staying the same
+      hint: Symptom trend
+      type: select_one
+      options:
+      - Getting better
+      - Staying the same
+      - Getting worse
+      required: true
+    - id: 17
+      name: symptom_severity
+      label: How severe are your symptoms on a scale of 1 to 10
+      hint: 1 is mild 10 is severe
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: fever_present
+      label: Do you currently have a fever
+      hint: Fever status
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: temperature_reading
+      label: What is your current temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: breathing_status
+      label: Are you having trouble breathing
+      hint: Respiratory status
+      type: select_one
+      options:
+      - No breathing problems
+      - Mild shortness of breath
+      - Moderate shortness of breath
+      - Severe difficulty breathing
+      required: true
+    - id: 21
+      name: activity_limitation
+      label: Are your symptoms limiting your daily activities
+      hint: Functional impact
+      type: select_one
+      options:
+      - No limitation
+      - Mild limitation
+      - Moderate limitation
+      - Severe limitation
+      - Unable to perform activities
+      required: true
+    - id: 22
+      name: work_status
+      label: Are you able to work
+      hint: Work capability
+      type: select_one
+      options:
+      - Yes working normally
+      - Yes working with difficulty
+      - Unable to work
+      - Not employed
+      required: true
+    - id: 23
+      name: home_isolation
+      label: Are you currently in isolation at home
+      hint: Isolation status
+      type: select_one
+      options:
+      - Yes in strict isolation
+      - Yes with some precautions
+      - No not isolating
+      required: true
+    - id: 24
+      name: household_vulnerable
+      label: Do you live with anyone who is high-risk
+      hint: Vulnerable household members
+      type: select_one
+      options:
+      - false
+      - Yes elderly 65 or older
+      - Yes with underlying conditions
+      - Yes both
+      required: true
+    - id: 25
+      name: medication_taken
+      label: Have you taken any medication for your symptoms
+      hint: Medication use
+      type: select_one
+      options:
+      - false
+      - Yes over-the-counter
+      - Yes prescription
+      required: true
+    - id: 26
+      name: medication_list
+      label: List medications taken
+      hint: Include dosages
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: home_remedies
+      label: What home remedies are you using
+      hint: Self-care measures
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: patient_attestation
+      label: I attest that the information provided is true and accurate
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I attest
+      - No I cannot attest
+      required: true

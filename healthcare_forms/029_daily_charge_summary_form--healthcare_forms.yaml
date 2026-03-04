@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Charge Summary Form
+    pages:
+    - id: 1
+      name: daily_charge_form
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: daily_charge_date
+      label: daily_charge_date
+      hint: Select date of charges
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: daily_summary
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_charges
+      label: total_charges
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total_payments
+      label: total_payments
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: net_charges
+      label: net_charges
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: daily_charges
+      label: daily_charges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: charge_type
+      label: charge_type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Other
+      required: true
+    - id: 9
+      name: charge_amount
+      label: charge_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit
+      - Other
+      required: true
+    - id: 11
+      name: charge_description
+      label: charge_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 13
+      name: payment_method_details
+      label: payment_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false

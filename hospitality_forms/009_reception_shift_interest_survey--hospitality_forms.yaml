@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reception Shift Interest Survey
+    pages:
+    - id: 1
+      name: staff_name
+      label: First Name
+      hint: First name of staff member
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_contact_email
+      label: Contact Email
+      hint: Staff email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: staff_contact_phone
+      label: Contact Phone
+      hint: Staff phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_available_shift_1
+      label: Available Shift 1
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: staff_available_shift_2
+      label: Available Shift 2
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: staff_available_shift_3
+      label: Available Shift 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: staff_available_shift_4
+      label: Available Shift 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: staff_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: staff_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: staff_notes
+      label: Notes
+      hint: Additional details for staff
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_email
+      label: Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: manager_phone
+      label: Manager's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_notes
+      label: Manager's Notes
+      hint: Additional details for manager
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_leader_name
+      label: Team Leader's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_leader_email
+      label: Team Leader's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: team_leader_phone
+      label: Team Leader's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_leader_notes
+      label: Team Leader's Notes
+      hint: Additional details for team leader
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: availability_notes
+      label: Availability Notes
+      hint: Details on staff availability
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: availability_shift
+      label: Availability Shift
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 21
+      name: availability_start_time
+      label: Availability Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: availability_end_time
+      label: Availability End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: availability_preferred_start_time
+      label: Preferred Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: availability_preferred_end_time
+      label: Preferred End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: availability_preferred_day
+      label: Preferred Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false

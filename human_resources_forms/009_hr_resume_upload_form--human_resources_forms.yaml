@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Resume Upload Form
+    pages:
+    - id: 1
+      name: uploaded_by
+      label: Upload resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_applicant_name
+      label: Job Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_applicant_address
+      label: Job Applicant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: resume_upload_date
+      label: Resume Upload Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: resume_upload_time
+      label: Resume Upload Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_applicant_id
+      label: Job Applicant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: job_title_1
+      label: Job Title 1
+      hint: Select one of the following job titles
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: job_title_2
+      label: Job Title 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: job_description_1
+      label: Job Description 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: job_description_2
+      label: Job Description 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: job_location_1
+      label: Job Location 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: job_location_2
+      label: Job Location 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: resume_1
+      label: Resume 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: resume_2
+      label: Resume 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: upload_by
+      label: Upload By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

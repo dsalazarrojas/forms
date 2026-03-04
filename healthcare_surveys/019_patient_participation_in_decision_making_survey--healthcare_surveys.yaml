@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Participation In Decision Making Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: What is your preferred language of contact?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''English'', ''value'': ''English''}'
+      - '{''name'': ''French'', ''value'': ''French''}'
+      - '{''name'': ''Spanish'', ''value'': ''Spanish''}'
+      required: false
+    - id: 3
+      name: question_two
+      label: What is your current occupation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Student'', ''value'': ''Student''}'
+      - '{''name'': ''Teacher'', ''value'': ''Teacher''}'
+      - '{''name'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 4
+      name: question_three
+      label: How did you hear about this survey?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Email'', ''value'': ''Email''}'
+      - '{''name'': ''Social media'', ''value'': ''Social media''}'
+      - '{''name'': ''Word of mouth'', ''value'': ''Word of mouth''}'
+      required: false
+    - id: 5
+      name: question_four
+      label: How important is the ability to have your doctor or healthcare team communicate
+        with you in your preferred language?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_five
+      label: How often do you prefer to receive information from your healthcare provider?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Daily'', ''value'': ''Daily''}'
+      - '{''name'': ''Weekly'', ''value'': ''Weekly''}'
+      - '{''name'': ''Monthly'', ''value'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: question_six
+      label: How do you prefer to contact your healthcare provider?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Phone'', ''value'': ''Phone''}'
+      - '{''name'': ''Email'', ''value'': ''Email''}'
+      - '{''name'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: question_seven
+      label: What time do you think is best for your healthcare provider to reach
+        out to you?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: question_eight
+      label: Which time of day do you prefer to be contacted at?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: question_nine
+      label: Do you have trouble hearing or speaking in your preferred language?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: true
+    - id: 11
+      name: question_ten
+      label: Do you feel more likely to answer surveys and provide feedback in your
+        preferred language?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: true
+    - id: 12
+      name: question_eleven
+      label: How confident are you in your ability to understand and communicate with
+        your healthcare provider about your health issues?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: question_twelve
+      label: How confident are you in your ability to understand and communicate with
+        your healthcare provider about your health issues?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: question_thirteen
+      label: What time do you prefer to have your healthcare provider contact you?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: question_fourteen
+      label: What time of day do you prefer to be contacted at?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: question_fifteen
+      label: Do you prefer to receive information from your healthcare provider at
+        any time of day?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 17
+      name: question_sixteen
+      label: Do you prefer to receive information from your healthcare provider at
+        any time?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 18
+      name: question_seventeen
+      label: Do you prefer to receive information from your healthcare provider at
+        any time of day?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 19
+      name: question_eighteen
+      label: Do you prefer to receive information from your healthcare provider at
+        any time of day?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 20
+      name: question_nineteen
+      label: Do you prefer to receive information from your healthcare provider at
+        any time?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 21
+      name: question_twenty
+      label: Do you prefer to receive information from your healthcare provider at
+        any time of day?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 22
+      name: question_twenty_one
+      label: Do you prefer to receive information from your healthcare provider at
+        any time?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 23
+      name: question_twenty_two
+      label: Do you prefer to receive information from your healthcare provider at
+        any time?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 24
+      name: question_twenty_three
+      label: Do you prefer to receive information from your healthcare provider at
+        any time of day?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 25
+      name: question_twenty_four
+      label: Do you prefer to receive information from your healthcare provider at
+        any time?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false

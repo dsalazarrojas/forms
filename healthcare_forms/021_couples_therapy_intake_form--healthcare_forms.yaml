@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Therapy Intake Form
+    pages:
+    - id: 1
+      name: couples_therapist_info
+      label: Therapist Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: couple_info
+      label: Couple Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: problem_area
+      label: Problem Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship_length
+      label: Relationship Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency_of_conflict
+      label: Frequency of Conflict
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: couple_counseling_experiences
+      label: Couple Counseling Experiences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: conflict_resolution_skills
+      label: Conflict Resolution Skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: couple_counseling_goal
+      label: Couple Counseling Goal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Relationship Improvement''}'
+      - '{''label'': ''Relationship Dissolution''}'
+      required: false
+    - id: 10
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment
+      label: Payment Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: couple_counseling_session_goal
+      label: Couple Counseling Session Goal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Relationship Repair''}'
+      - '{''label'': ''Relationship Improvement''}'
+      - '{''label'': ''Relationship Dissolution''}'
+      required: false
+    - id: 14
+      name: couple_counseling_session_frequency
+      label: Couple Counseling Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Card''}'
+      - '{''label'': ''Pay Now''}'
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Availability Survey
+    pages:
+    - id: 1
+      name: meeting_availability_survey_form
+      label: meeting_availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: meeting_date
+      label: meeting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_location
+      label: meeting_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_department
+      label: manager_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: meeting_frequency
+      label: meeting_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: meeting_frequency_label
+      label: meeting_frequency_label
+      hint: null
+      type: select_one
+      options:
+      - Meeting Weekly
+      - Meeting Daily
+      - Meeting Bi-Weekly
+      - Meeting Monthly
+      - Meeting Quarterly
+      - Meeting Annually
+      - Meeting As Needed
+      required: true
+    - id: 15
+      name: meeting_frequency_other
+      label: meeting_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_availability
+      label: manager_availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: manager_availability_label
+      label: manager_availability_label
+      hint: null
+      type: select_one
+      options:
+      - All
+      - Some
+      - None
+      required: false
+    - id: 18
+      name: manager_availability_other
+      label: manager_availability_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_availability
+      label: employee_availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: employee_availability_label
+      label: employee_availability_label
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Unavailable
+      required: false
+    - id: 21
+      name: employee_availability_other
+      label: employee_availability_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: meeting_request
+      label: meeting_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: meeting_response
+      label: meeting_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: meeting_response_required
+      label: meeting_response_required
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: meeting_response_other
+      label: meeting_response_other
+      hint: null
+      type: text
+      options: []
+      required: false

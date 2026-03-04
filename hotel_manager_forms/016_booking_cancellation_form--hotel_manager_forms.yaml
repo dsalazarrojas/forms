@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Cancellation Form
+    pages:
+    - id: 1
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Your original booking confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Full name of the person who made the booking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: Email associated with the booking
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number for confirmation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_date_from
+      label: Original Check-in Date
+      hint: Date you were scheduled to arrive
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reservation_date_to
+      label: Original Check-out Date
+      hint: Date you were scheduled to leave
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: How many rooms were booked
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: Why are you canceling this booking
+      type: select_one
+      options:
+      - Travel plans changed
+      - Work conflict
+      - Health issue
+      - Personal emergency
+      - Financial reasons
+      - Found alternative accommodation
+      - Other
+      required: true
+    - id: 9
+      name: detailed_reason
+      label: Detailed Explanation
+      hint: Provide more details about the cancellation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cancellation_urgency
+      label: How soon do you need to cancel
+      hint: Timing of the cancellation
+      type: select_one
+      options:
+      - Immediate
+      - As soon as possible
+      - By end of week
+      - Can wait
+      required: true
+    - id: 11
+      name: refund_preference
+      label: Refund Preference
+      hint: How would you like to receive refund
+      type: select_one
+      options:
+      - Original payment method
+      - Credit card
+      - Bank transfer
+      - Hotel credit
+      - Other
+      required: false
+    - id: 12
+      name: refund_account_details
+      label: Refund Account Details
+      hint: Bank account or payment details if needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: acknowledgement
+      label: I understand the cancellation policy
+      hint: Confirm you have read the cancellation policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information or comments
+      type: text
+      options: []
+      required: false

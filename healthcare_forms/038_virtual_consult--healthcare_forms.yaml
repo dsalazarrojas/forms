@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Consult
+    pages:
+    - id: 1
+      name: virtual_consult_form_data
+      label: Virtual Consult Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: email confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: email_type
+      label: email type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: schedule_virtual_consult
+      label: schedule a virtual consult
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: schedule_virtual_consult_time
+      label: schedule virtual consult time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: schedule_virtual_consult_date
+      label: schedule virtual consult date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: schedule_virtual_consult_duration
+      label: schedule virtual consult duration
+      hint: null
+      type: number
+      options: []
+      required: false

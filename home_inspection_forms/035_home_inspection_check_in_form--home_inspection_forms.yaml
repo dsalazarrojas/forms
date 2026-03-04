@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: home-inspection-check-in-form
+    pages:
+    - id: 1
+      name: address_input
+      label: address-input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: property_inspection_date
+      label: property-inspection-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_inspector
+      label: home-inspector
+      hint: null
+      type: select_multiple
+      options:
+      - HomeInspector1
+      - HomeInspector2
+      required: true

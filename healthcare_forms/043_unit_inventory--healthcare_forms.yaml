@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unit Inventory
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_id
+      label: Unit Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_name
+      label: Unit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: unit_condition
+      label: Unit Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: unit_location
+      label: Unit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inventory_type
+      label: Inventory Type
+      hint: null
+      type: select_one
+      options:
+      - Stock
+      - Non-Stock
+      required: true
+    - id: 17
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: unit_model
+      label: Unit Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: unit_make
+      label: Unit Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: unit_year
+      label: Unit Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: unit_vendor
+      label: Unit Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: unit_description
+      label: Unit Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: unit_image
+      label: Unit Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: unit_note
+      label: Unit Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: unit_email
+      label: Unit Email
+      hint: null
+      type: email
+      options: []
+      required: false

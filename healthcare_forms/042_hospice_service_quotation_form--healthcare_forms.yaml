@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Service Quotation Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_info
+      label: Service Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: care_team
+      label: Care Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Inpatient'', ''label'': ''Hospice Inpatient''}'
+      - '{''name'': ''Outpatient'', ''label'': ''Hospice Outpatient''}'
+      - '{''name'': ''Both'', ''label'': ''Both inpatient and outpatient''}'
+      - '{''name'': ''Other'', ''label'': ''Other''}'
+      - '{''name'': ''None'', ''label'': ''None''}'
+      required: false
+    - id: 11
+      name: care_frequency
+      label: Care Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Daily'', ''label'': ''Daily''}'
+      - '{''name'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''name'': ''Biweekly'', ''label'': ''Biweekly''}'
+      - '{''name'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''name'': ''Other'', ''label'': ''Other''}'
+      - '{''name'': ''None'', ''label'': ''None''}'
+      required: false
+    - id: 12
+      name: care_duration
+      label: Care Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: service_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: service_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: address1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false

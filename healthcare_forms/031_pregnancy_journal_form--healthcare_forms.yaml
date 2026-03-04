@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy Journal Form
+    pages:
+    - id: 1
+      name: new_pregnancy
+      label: New Pregnancy
+      hint: Record of new pregnancies
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: baby_birthdate
+      label: baby_birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: baby_weight
+      label: baby_weight
+      hint: weight of baby
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: baby_length
+      label: baby_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mother_height
+      label: mother_height
+      hint: height of mother
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mother_weight
+      label: mother_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: baby_notes
+      label: prophets_and_predictions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: baby_name
+      label: baby_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional notes about the pregnancy
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: any medical conditions or concerns the mother has
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: medications
+      hint: any medications the mother is taking
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_notes
+      label: Medical Notes
+      hint: Any medical notes about the pregnancy or birth
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: baby_test_results
+      label: Baby Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: complications
+      label: Complications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: birth_location
+      label: Birth Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: birth_method
+      label: Birth Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

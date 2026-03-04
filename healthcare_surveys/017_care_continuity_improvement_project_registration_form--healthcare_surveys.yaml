@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Continuity Improvement Project Registration Form
+    pages:
+    - id: 1
+      name: lead_info_header
+      label: -- Project Lead & Institution Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_lead_full_name
+      label: Project Lead Name
+      hint: Enter the name of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_lead_email_address
+      label: Project Lead Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution_organization_name
+      label: Institution/Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_details_header
+      label: -- Project Overview & Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: care_continuity_project_title
+      label: Project Title
+      hint: Give your project a clear, concise name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: care_continuity_project_description
+      label: Project Description
+      hint: Briefly describe the scope of the project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: care_continuity_project_goals
+      label: Project Goals and Objectives
+      hint: What do you hope to achieve? (SMART goals)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: care_continuity_project_category
+      label: Project Category
+      hint: Select the primary focus area
+      type: select_one
+      options:
+      - label: Quality Improvement (QI)
+        value: quality_improvement
+      - label: Patient Safety
+        value: patient_safety
+      - label: Staff Education/Training
+        value: staff_education
+      - label: Technology Implementation
+        value: technology
+      - label: Process Optimization
+        value: process_optimization
+      required: true
+    - id: 10
+      name: project_timeline_header
+      label: -- Project Timeline & Team --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_start_date_initial
+      label: Anticipated Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_end_date_target
+      label: Anticipated End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: project_team_members_list
+      label: Project Team Members (List Names)
+      hint: Separate names with commas
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: anticipated_outcomes_summary
+      label: Anticipated Outcomes
+      hint: Key milestones and expected impact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lead_registration_authorization
+      label: I authorize the registration of this care continuity project
+      hint: null
+      type: select_one
+      options:
+      - label: Authorized and Registered
+        value: authorized
+      - Other
+      required: true

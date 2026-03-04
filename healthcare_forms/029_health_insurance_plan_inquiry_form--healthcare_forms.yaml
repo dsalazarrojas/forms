@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Plan Inquiry Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coverage_details
+      label: Coverage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: premium_rates
+      label: Premium Rates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_insurance_type
+      label: Health Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Group
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 10
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_agreement
+      label: Contact Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: contact_agreement_hint
+      label: None
+      hint: Please indicate that you accept our terms of service by checking Yes or
+        No in the box
+      type: text
+      options: []
+      required: false

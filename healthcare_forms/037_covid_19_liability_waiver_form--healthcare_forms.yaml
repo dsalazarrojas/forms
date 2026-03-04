@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Liability Waiver Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_header
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Organization or Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_type
+      label: Type of Service or Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: health_assessment
+      label: -- Health Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_symptoms
+      label: COVID-19 symptoms currently present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: symptom_details
+      label: Describe symptoms if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recent_positive
+      label: Positive COVID-19 test recently
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: positive_test_date
+      label: Date of positive test if applicable
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: exposure_recent
+      label: Known COVID-19 exposure in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: true
+    - id: 18
+      name: waiver_header
+      label: -- Waiver Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assume_risk
+      label: I assume the risk of COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Assume Risk
+      - No, I Do Not Assume Risk
+      required: true
+    - id: 20
+      name: release_liability
+      label: I release the organization from liability
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Release
+      - No, I Do Not Release
+      required: true
+    - id: 21
+      name: hold_harmless
+      label: I hold the organization harmless from claims
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Hold Harmless
+      - No, I Do Not Hold Harmless
+      required: true
+    - id: 22
+      name: indemnify
+      label: I indemnify the organization from liability
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Indemnify
+      - No, I Do Not Indemnify
+      required: true
+    - id: 23
+      name: understanding_confirmation
+      label: I understand the risks and consequences
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 24
+      name: agreement_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true

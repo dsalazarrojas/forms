@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Handover Form
+    pages:
+    - id: 1
+      name: patient_transfer
+      label: Patient Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_chart
+      label: Medical Chart
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active Medications''}'
+      - '{''id'': 2, ''label'': ''Allergies''}'
+      - '{''id'': 3, ''label'': ''Surgical History''}'
+      required: false
+    - id: 3
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medication 1''}'
+      - '{''id'': 2, ''label'': ''Medication 2''}'
+      required: false
+    - id: 7
+      name: patient_care_plan
+      label: Patient Care Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nurse_name
+      label: Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hospital
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: nurse_signature
+      label: Nurse Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: notes_2
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_of_kin
+      label: Next of Kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_of_kin_phone
+      label: Next of Kin Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: next_of_kin_email
+      label: Next of Kin Email
+      hint: null
+      type: text
+      options: []
+      required: false

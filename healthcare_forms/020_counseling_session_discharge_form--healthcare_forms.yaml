@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: counseling_session_discharge_form
+    pages:
+    - id: 1
+      name: client_progress
+      label: Client Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: treatment_outcomes
+      label: Treatment Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: follow_up_instructions
+      label: Follow Up Instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: mental_health_provider
+      label: Mental Health Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: discharge_summary
+      label: Discharge Summary
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

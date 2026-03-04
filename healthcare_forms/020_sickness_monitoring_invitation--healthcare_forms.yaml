@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: sickness_monitoring_invitation
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sicknesses
+      label: Sicknesses
+      hint: null
+      type: select_multiple
+      options:
+      - Sore Throat
+      - Headache
+      - Flu
+      - Cough
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Medical Team
+      - Family Member
+      - Other
+      required: false
+    - id: 11
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: text
+      options: []
+      required: false

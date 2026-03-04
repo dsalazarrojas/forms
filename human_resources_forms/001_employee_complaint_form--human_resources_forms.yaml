@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Complaint Form
+    pages:
+    - id: 1
+      name: employee_complaint_form
+      label: Employee Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_complained_against
+      label: Employee Complained Against
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description_of_complaint
+      label: Description Of Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evidence_attachements
+      label: Evidence Attachements
+      hint: null
+      type: note
+      options: []
+      required: false

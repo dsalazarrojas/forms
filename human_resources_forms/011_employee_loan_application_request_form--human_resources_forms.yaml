@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Loan Application Request Form
+    pages:
+    - id: 1
+      name: employee_loan_application_request_form
+      label: Employee Loan Application Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Approve''}'
+      - '{''text'': ''Deny''}'
+      required: false
+    - id: 4
+      name: employee_loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''1 month''}'
+      - '{''text'': ''2 months''}'
+      - '{''text'': ''3 months''}'
+      required: false
+    - id: 6
+      name: loan_rate
+      label: Loan Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: loan_start_date
+      label: Loan Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: loan_end_date
+      label: Loan End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: loan_comments
+      label: Loan Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

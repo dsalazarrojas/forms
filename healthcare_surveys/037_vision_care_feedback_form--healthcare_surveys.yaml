@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vision Care Feedback Form
+    pages:
+    - id: 1
+      name: vision_care_feedback_form
+      label: Vision Care Feedback Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What was the reason for your visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: How would you rate your overall satisfaction with your visit?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Fair''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: What could we do better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: Were your expectations met?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': 1, ''label'': True}'
+      - '{''id'': 2, ''value'': 2, ''label'': False}'
+      required: false
+    - id: 6
+      name: question_5
+      label: How likely are you to recommend this clinic?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Extremely likely''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Likely''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Not likely''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Not likely at all''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Not likely at all''}'
+      required: false
+    - id: 7
+      name: question_6
+      label: How can we contact you for follow-up?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: How would you rate the staff's professionalism?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Good''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Average''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Fair''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: question_8
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: What is your contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_10
+      label: Your comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: Your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: Phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_13
+      label: How long did you wait in the waiting area?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: question_14
+      label: How long did you wait in the exam room?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: question_15
+      label: Were you given a treatment plan?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': 1, ''label'': True}'
+      - '{''id'': 2, ''value'': 2, ''label'': False}'
+      required: false
+    - id: 17
+      name: question_16
+      label: Was the doctor friendly?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Extremely friendly''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Friendly''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Somewhat unfriendly''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Not friendly at all''}'
+      required: false
+    - id: 18
+      name: question_17
+      label: Was the nurse friendly?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Extremely friendly''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Friendly''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Somewhat unfriendly''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Not friendly at all''}'
+      required: false
+    - id: 19
+      name: question_18
+      label: Was the clinic clean?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Extremely clean''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Clean''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Somewhat dirty''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Extremely dirty''}'
+      required: false
+    - id: 20
+      name: question_19
+      label: Did you feel safe?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Extremely safe''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Safe''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Somewhat not safe''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Not safe at all''}'
+      required: false
+    - id: 21
+      name: question_20
+      label: How long did you stay in the clinic?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: question_21
+      label: Was the parking easy to access?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Extremely easy''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Easy''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Somewhat difficult''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Extremely difficult''}'
+      required: false
+    - id: 23
+      name: question_22
+      label: Was the parking lot clean?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5, ''label'': ''Extremely clean''}'
+      - '{''id'': 2, ''value'': 4, ''label'': ''Clean''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''value'': 2, ''label'': ''Somewhat dirty''}'
+      - '{''id'': 5, ''value'': 1, ''label'': ''Extremely dirty''}'
+      required: false
+    - id: 24
+      name: question_23
+      label: Were you provided with a copy of your records?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 1, ''label'': True}'
+      - '{''id'': 2, ''value'': 2, ''label'': False}'
+      required: false
+    - id: 25
+      name: question_25
+      label: Any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false

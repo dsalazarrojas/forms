@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headache Diary Form
+    pages:
+    - id: 1
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: triggers
+      label: triggers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient
+      label: patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practitioner
+      label: practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: treatment
+      label: treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: followup
+      label: followup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_visit
+      label: next visit
+      hint: null
+      type: date
+      options: []
+      required: false

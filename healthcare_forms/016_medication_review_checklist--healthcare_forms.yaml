@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_review_checklist
+    pages:
+    - id: 1
+      name: patient_medication_history
+      label: Patient Medication History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications_list
+      label: list_of_medications
+      hint: null
+      type: select_multiple
+      options:
+      - Acetaminophen
+      - Amlodipine
+      - Aspirin
+      - Ibuprofen
+      - Prednisolone
+      - Zolpidem
+      required: false
+    - id: 3
+      name: review_frequency
+      label: review_frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 4
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Sulfa
+      - Other
+      required: false
+    - id: 5
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dosing_frequency
+      label: dosing_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Every other day
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Dizziness
+      - Headache
+      - Other
+      required: false
+    - id: 8
+      name: patient_dose
+      label: patient_dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_dose_units
+      label: patient_dose_units
+      hint: null
+      type: select_one
+      options:
+      - milligrams
+      - milliliters
+      - grams
+      required: false
+    - id: 10
+      name: patient_dose_strength
+      label: patient_dose_strength
+      hint: null
+      type: select_one
+      options:
+      - 10mg
+      - 20mg
+      - 40mg
+      - 60mg
+      required: false
+    - id: 11
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false

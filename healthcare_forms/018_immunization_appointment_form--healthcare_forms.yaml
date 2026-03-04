@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immunization Appointment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_type
+      label: Vaccination Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Flu''}'
+      - '{''id'': 2, ''label'': ''COVID-19''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: dose_one_date
+      label: Dose 1 Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: dose_two_date
+      label: Dose 2 Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

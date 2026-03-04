@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Stress Leave Of Absence Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Customer Service Stress Leave of Absence Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_stress_leave_id
+      label: Customer Service Stress Leave ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: date_of_absence_start
+      label: Date of Absence Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_of_absence_end
+      label: Date of Absence End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_lead_approval
+      label: Team Lead Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: team_lead_comment
+      label: Team Lead Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_lead_notes
+      label: Team Lead Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_service_team_lead
+      label: Customer Service Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: customer_service_manager
+      label: Customer Service Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: manager_status
+      label: Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: customer_service_stress_leave_id_2
+      label: Customer Service Stress Leave ID 2
+      hint: null
+      type: number
+      options: []
+      required: false

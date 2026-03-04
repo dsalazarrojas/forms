@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Prophets Equity Survey
+    pages:
+    - id: 1
+      name: demographic_info
+      label: Community Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info_2
+      label: Age
+      hint: How old are you?
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: health_info
+      label: Health Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: true
+    - id: 4
+      name: communication_channels
+      label: Preferred Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Phone''}'
+      - '{''value'': 2, ''label'': ''Email''}'
+      - '{''value'': 3, ''label'': ''Social Media''}'
+      - '{''value'': 4, ''label'': ''Print Newspaper''}'
+      - '{''value'': 5, ''label'': ''Television''}'
+      - '{''value'': 6, ''label'': ''Radio''}'
+      - '{''value'': 7, ''label'': ''None''}'
+      required: true
+    - id: 5
+      name: contact_info
+      label: How often do you get in touch with health information?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Daily''}'
+      - '{''value'': 2, ''label'': ''2-3 times a week''}'
+      - '{''value'': 3, ''label'': ''1 time a week''}'
+      - '{''value'': 4, ''label'': ''2 times a week''}'
+      - '{''value'': 5, ''label'': ''1 time a month''}'
+      - '{''value'': 6, ''label'': ''Less than 1 time a month''}'
+      - '{''value'': 7, ''label'': ''Never''}'
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Male''}'
+      - '{''value'': 2, ''label'': ''Female''}'
+      - '{''value'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: race_ethnicity
+      label: race/ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''American Indian/Alaska Native''}'
+      - '{''value'': 2, ''label'': ''Asian''}'
+      - '{''value'': 3, ''label'': ''Native Hawaiian/Pacific Islander''}'
+      - '{''value'': 4, ''label'': ''White''}'
+      - '{''value'': 5, ''label'': ''Black or African American''}'
+      - '{''value'': 6, ''label'': ''Some other race/ethnicity''}'
+      - '{''value'': 7, ''label'': ''Prefer not to report''}'
+      required: true
+    - id: 8
+      name: preferred_language
+      label: What is your preferred language?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''English''}'
+      - '{''value'': 2, ''label'': ''Spanish''}'
+      required: true

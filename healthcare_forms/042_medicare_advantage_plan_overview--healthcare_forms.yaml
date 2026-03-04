@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: medicare_advantage_plan_overview
+    pages:
+    - id: 1
+      name: plan_name
+      label: Plan Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan_category
+      label: Plan Category
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Basic
+      - Premium
+      - Special Needs
+      - Dual
+      required: false
+    - id: 3
+      name: plan_type
+      label: Plan Type
+      hint: null
+      type: select_one
+      options:
+      - Part A
+      - Part B
+      - Part C
+      - Part D
+      - Part E
+      - Part F
+      - Part G
+      - Part H
+      required: false
+    - id: 4
+      name: network_name
+      label: Network Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: network_address
+      label: Network Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: provider_license
+      label: Provider License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: plan_start_date
+      label: Plan Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

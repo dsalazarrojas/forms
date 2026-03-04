@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Insurance Application
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_info
+      label: Employment Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_insurance_info
+      label: Medical Insurance Information
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Blue Cross'', ''value'': 1}'
+      - '{''name'': ''Green Cross'', ''value'': 2}'
+      - '{''name'': ''Red Cross'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: medical_history_1
+      label: Medical History 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Diabetes'', ''value'': 1}'
+      - '{''name'': ''Asthma'', ''value'': 2}'
+      - '{''name'': ''High Blood Pressure'', ''value'': 3}'
+      required: false
+    - id: 10
+      name: medical_history_3
+      label: Medical History 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Cancer'', ''value'': 1}'
+      - '{''name'': ''HIV/AIDS'', ''value'': 2}'
+      - '{''name'': ''Epilepsy'', ''value'': 3}'
+      required: false
+    - id: 11
+      name: contact_info_1
+      label: Contact Information 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info_2
+      label: Contact Information 2
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Phone'', ''value'': 1}'
+      - '{''name'': ''Email'', ''value'': 2}'
+      required: false
+    - id: 13
+      name: upload_documents_1
+      label: Upload Documents 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: upload_documents_2
+      label: Upload Documents 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_documents_3
+      label: Upload Documents 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Prescription'', ''value'': 1}'
+      - '{''name'': ''Insurance Card'', ''value'': 2}'
+      - '{''name'': ''ID Card'', ''value'': 3}'
+      required: false
+    - id: 16
+      name: upload_documents_4
+      label: Upload Documents 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: upload_documents_5
+      label: Upload Documents 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employment_info_1
+      label: Employment Information 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: employment_info_2
+      label: Employment Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_insurance_info_2
+      label: Medical Insurance Information 2
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Blue Cross'', ''value'': 1}'
+      - '{''name'': ''Green Cross'', ''value'': 2}'
+      - '{''name'': ''Red Cross'', ''value'': 3}'
+      required: false

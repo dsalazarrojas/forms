@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Immunization Screening And Consent Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Immunization Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: screening_section
+      label: -- Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_component_allergy
+      label: Allergic reaction to vaccine components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 9
+      name: allergy_type
+      label: Type of allergic reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fever_currently
+      label: Do you currently have a fever
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: fever_temperature
+      label: Temperature if applicable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: acute_illness
+      label: Currently have acute illness or infection
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: illness_details
+      label: Describe illness if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_section
+      label: -- Medication and Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: antivirals_medications
+      label: Taking antiviral or immunosuppressive medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: medication_details
+      label: List medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: blood_clotting_disorder
+      label: Have bleeding or blood clotting disorder
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 18
+      name: immunocompromised
+      label: Are you immunocompromised
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 19
+      name: prior_covid_infection
+      label: Prior COVID-19 infection confirmed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 20
+      name: prior_infection_date
+      label: Date of prior infection if applicable
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: pregnancy_section
+      label: -- Pregnancy Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: pregnant
+      label: Are you pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - N/A
+      required: true
+    - id: 23
+      name: pregnancy_date
+      label: Expected delivery date if pregnant
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: nursing
+      label: Are you nursing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: consent_section
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: benefits_understanding
+      label: I understand benefits of COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: risks_understanding
+      label: I understand potential side effects and risks
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: consent_to_vaccine
+      label: I consent to receive COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 29
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

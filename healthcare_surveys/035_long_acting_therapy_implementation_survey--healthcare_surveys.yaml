@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: long-acting-therapy-implementation-survey
+    pages:
+    - id: 1
+      name: benefits
+      label: What benefits do you see when implementing long-acting therapies in your
+        practice?
+      hint: Please choose all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: barrier
+      label: What barriers do you experience with implementing long-acting therapies
+        in your practice?
+      hint: Please choose all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: confidence
+      label: How much confidence do you have in recommending long-acting therapies?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_needs
+      label: What kind of support do you need to implement long-acting therapies in
+        your practice?
+      hint: Please choose all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: practice_benefits
+      label: What benefits have you experienced with implementing long-acting therapies
+        in your practice?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: practice_barriers
+      label: What barriers do you experience with implementing long-acting therapies
+        in your practice?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: confidence_support
+      label: How much support do you get from your practice for implementing long-acting
+        therapies?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: knowledge
+      label: What knowledge do you think health care professionals in your practice
+        need to effectively implement long-acting therapies?
+      hint: null
+      type: select_one
+      options:
+      - knowledge-need-1
+      - knowledge-need-2
+      - knowledge-need-3
+      required: true
+    - id: 9
+      name: knowledge_needs
+      label: What specific knowledge do you need to effectively implement long-acting
+        therapies?
+      hint: null
+      type: select_multiple
+      options:
+      - knowledge-need-1
+      - knowledge-need-2
+      - knowledge-need-3
+      required: true
+    - id: 10
+      name: resources
+      label: What resources do you have for implementing long-acting therapies?
+      hint: null
+      type: select_one
+      options:
+      - resource-need-1
+      - Other
+      required: false
+    - id: 11
+      name: resource_needs
+      label: What resources do you need to effectively implement long-acting therapies?
+      hint: null
+      type: select_multiple
+      options:
+      - resource-need-1
+      - Other
+      required: true
+    - id: 12
+      name: long_acting_therapy
+      label: How do you rate your experience with long-acting therapies?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: implementation_barriers
+      label: What barriers do you experience with implementing long-acting therapies?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: practice_benefit_need
+      label: What benefit do you think your practice will get from implementing long-acting
+        therapies?
+      hint: null
+      type: select_one
+      options:
+      - benefit-need-1
+      - Other
+      required: false

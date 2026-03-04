@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Union Representative Exit Offboarding Form
+    pages:
+    - id: 1
+      name: union_representative_exit_offboarding_form
+      label: exit_reason
+      hint: null
+      type: select_multiple
+      options:
+      - Union Agreement
+      - Voluntarily
+      - Other
+      required: false
+    - id: 2
+      name: reason_other
+      label: other_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: union_representative_name
+      label: union_representative_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: union_representative_title
+      label: union_representative_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: union_representative_contact
+      label: union_representative_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: union_representative_notes
+      label: union_representative_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Order Close Out Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: contractor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contract_number
+      label: contract_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: materials_used
+      label: materials_used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Pending
+      required: false
+    - id: 7
+      name: job_notes
+      label: job_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: text
+      options: []
+      required: false

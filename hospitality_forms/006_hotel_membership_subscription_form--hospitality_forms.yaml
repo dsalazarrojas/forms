@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Membership Subscription Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Hotel Membership Subscription Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_plan
+      label: Select Membership Plan
+      hint: Select a membership plan
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 3
+      name: plan_term
+      label: Membership Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      - Stripe
+      required: false
+    - id: 8
+      name: payment_cvv
+      label: CVV/CVV
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: membership_end_date
+      label: Membership-End-Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Success
+      - Failed
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_optional
+      label: Payment Method (Optional)
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 15
+      name: name_optional
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_cvv_optional
+      label: CVV/CVV (Optional)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: note_optional
+      label: Note (Optional)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: membership_duration
+      label: Membership Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Month
+      - Quarter
+      - Year
+      required: false
+    - id: 19
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Corporate
+      required: false
+    - id: 20
+      name: payment_method_alt
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Stripe
+      required: false

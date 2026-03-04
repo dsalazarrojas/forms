@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Information Sheet Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contacts
+      label: emergency_contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_procedure
+      label: medical_procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_history_condition
+      label: medical_history_condition
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: medical_history_date
+      label: medical_history_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_location
+      label: medical_history_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history_provider
+      label: medical_history_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history_other
+      label: medical_history_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: doctor_phone
+      label: doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false

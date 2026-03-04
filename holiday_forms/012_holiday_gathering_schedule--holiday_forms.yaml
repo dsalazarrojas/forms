@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Gathering Schedule
+    pages:
+    - id: 1
+      name: host_name
+      label: Hosts Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: host_email
+      label: Hosts Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: potluck_details
+      label: Potluck Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guests_invited
+      label: Guests Invited
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Maybe''}'
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: holiday_name
+      label: Holiday Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: holiday_date
+      label: Holiday Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: potluck_location
+      label: Potluck Location
+      hint: null
+      type: text
+      options: []
+      required: false

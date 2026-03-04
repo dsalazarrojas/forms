@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Blockchain Network Registration Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: use_case
+      label: Use Case
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: terms_of_service_1
+      label: Terms of Service 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: terms_of_service_2
+      label: Terms of Service 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: terms_of_service_3
+      label: Terms of Service 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

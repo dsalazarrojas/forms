@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehab Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rehab_services
+      label: rehab_services
+      hint: null
+      type: select_one
+      options:
+      - Rehab
+      - Therapy
+      - Counseling
+      required: false
+    - id: 4
+      name: date_of_admission
+      label: date_of_admission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_discharge
+      label: date_of_discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rehab_goals
+      label: rehab_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rehab_plan
+      label: rehab_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_clearance
+      label: medical_clearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Discharged
+      required: false
+    - id: 10
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false

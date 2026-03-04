@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joint Health Support Interest Survey
+    pages:
+    - id: 1
+      name: survey_info
+      label: Survey Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: joint_health_support_services
+      label: What joint health support services do you or your family member need?
+      hint: null
+      type: select_one
+      options:
+      - Arthritis management
+      - Chronic pain management
+      - Cognitive support
+      - Fall prevention
+      - Home help
+      - Mental health support
+      - Nutrition support
+      - Osteoarthritis management
+      - Physical rehabilitation
+      - Respite care
+      required: true
+    - id: 7
+      name: joint_health_support_services_other
+      label: Other joint health support services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Do you consent for our team to follow up with you about your survey answers?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: contact_details
+      label: Contact details (if you're willing to share)
+      hint: null
+      type: select_multiple
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Letter
+      required: false
+    - id: 10
+      name: how_did_you_find_us
+      label: How did you find out about the JHA Health Service?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Online search
+      - Word of mouth
+      - Other
+      required: false

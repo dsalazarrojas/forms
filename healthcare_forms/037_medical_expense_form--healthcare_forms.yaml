@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Expense Form
+    pages:
+    - id: 1
+      name: medical_expense_form
+      label: Medical Expense Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_provider_address
+      label: Healthcare Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_expense_type
+      label: Medical Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Medicine
+      - Doctor visit
+      - Hospitalization
+      - Surgery
+      required: true
+    - id: 9
+      name: medical_expense_category
+      label: Medical Expense Category
+      hint: null
+      type: text
+      options: []
+      required: false

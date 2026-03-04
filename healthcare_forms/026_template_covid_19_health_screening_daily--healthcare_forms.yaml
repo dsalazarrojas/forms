@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: TEMPLATE COVID 19 Health Screening Daily
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: health_status
+      label: health_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''good''}'
+      - '{''id'': 2, ''label'': ''bad''}'
+      - '{''id'': 3, ''label'': ''critical''}'
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fever
+      label: fever
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cough
+      label: cough
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: shortness_breathing
+      label: shortness_of_breath
+      hint: null
+      type: text
+      options: []
+      required: true

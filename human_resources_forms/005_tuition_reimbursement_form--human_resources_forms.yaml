@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tuition Reimbursement Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tuition_amount
+      label: Tuition Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reimbursed_amount
+      label: Reimbursed Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reimbursement_rate
+      label: Reimbursement Rate
+      hint: null
+      type: select_one
+      options:
+      - 10% per semester
+      - 15% per semester
+      - 20% per semester
+      - Other ( specify below)
+      required: true
+    - id: 7
+      name: other_reimbursement_rate
+      label: Other Reimbursement Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_reimbursement
+      label: Reason for Reimbursement
+      hint: null
+      type: select_multiple
+      options:
+      - Tuition fees
+      - Room and board
+      - Books and supplies
+      - Other
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

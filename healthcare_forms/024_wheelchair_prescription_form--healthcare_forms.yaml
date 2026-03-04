@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair Prescription Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wheelchair_type
+      label: Wheelchair Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Standard''}'
+      - '{''value'': ''Tilt-in-space''}'
+      - '{''value'': ''Tilt-in-space 2''}'
+      required: true
+    - id: 6
+      name: height_and_width
+      label: Height and Width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: depth_range
+      label: Depth Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wheelchair_size
+      label: Wheelchair Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 16}'
+      - '{''value'': 18}'
+      - '{''value'': 20}'
+      - '{''value'': 22}'
+      required: true
+    - id: 9
+      name: wheelchair_weight
+      label: Wheelchair Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: seat_depth
+      label: Seat Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: frame_type
+      label: Frame Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Standard''}'
+      - '{''value'': ''Tilt-in-space''}'
+      - '{''value'': ''Tilt-in-space 2''}'
+      required: true
+    - id: 12
+      name: wheelchair_model
+      label: Wheelchair Model
+      hint: null
+      type: text
+      options: []
+      required: true

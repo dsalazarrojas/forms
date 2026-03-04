@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Facility Discharge Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: post_discharge_care
+      label: Post-Discharge Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: followup_appointment
+      label: Followup Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: followup_doctor
+      label: followup_doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: followup_phone
+      label: followup_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: followup_email
+      label: followup_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: followup_address
+      label: followup_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Discharged
+      - Transferred
+      - Dead
+      - Other
+      required: true
+    - id: 13
+      name: discharge_status_other
+      label: discharge_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: followup_instructions
+      label: followup_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: followup_date
+      label: followup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: followup_time
+      label: followup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: followup_location
+      label: followup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: discharge_diagnosis
+      label: discharge_diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false

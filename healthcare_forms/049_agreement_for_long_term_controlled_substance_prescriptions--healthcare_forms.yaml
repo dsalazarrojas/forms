@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agreement For Long Term Controlled Substance Prescriptions
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: Patient Address
+      hint: Enter your current address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Patient Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prescribing_physician_name
+      label: Prescribing Physician Name
+      hint: Enter the name of your prescribing physician
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_practice_clinic
+      label: Medical Practice/Clinic
+      hint: Enter the name of the medical practice or clinic
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medication_details_header
+      label: -- Medication Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: controlled_substance_prescribed
+      label: Controlled Substance Prescribed
+      hint: Enter the name of the controlled substance prescribed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dosage_amount
+      label: Dosage Amount
+      hint: Enter the dosage amount prescribed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: Enter how often the medication should be taken
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: treatment_duration
+      label: Treatment Duration
+      hint: Enter the expected duration of treatment
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: agreement_terms_header
+      label: -- Agreement Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agreement_to_follow_prescription_directions
+      label: Agreement to Follow Prescription Directions
+      hint: Do you agree to take the medication exactly as prescribed?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 14
+      name: agreement_not_to_share_medication
+      label: Agreement Not to Share Medication
+      hint: Do you agree not to share this medication with others?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 15
+      name: agreement_to_secure_medication
+      label: Agreement to Secure Medication
+      hint: Do you agree to securely store the medication away from children and unauthorized
+        persons?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 16
+      name: agreement_to_notify_changes
+      label: Agreement to Notify of Changes
+      hint: Do you agree to notify your physician of any changes in your condition
+        or side effects?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 17
+      name: agreement_to_regular_monitoring
+      label: Agreement to Regular Monitoring
+      hint: Do you agree to attend all scheduled monitoring appointments?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 18
+      name: understanding_risks_benefits
+      label: Understanding of Risks and Benefits
+      hint: Do you understand the potential risks and benefits of long-term controlled
+        substance use?
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 19
+      name: awareness_of_addiction_potential
+      label: Awareness of Addiction Potential
+      hint: Do you understand the potential for addiction or dependence with this
+        medication?
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Do Not Understand
+      required: true
+    - id: 20
+      name: agreement_to_urine_screening
+      label: Agreement to Urine Screening
+      hint: Do you agree to undergo urine screening tests as required by your physician?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 21
+      name: agreement_to_single_prescriber
+      label: Agreement to Single Prescriber
+      hint: Do you agree to receive this controlled substance from only one prescriber?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 22
+      name: agreement_to_no_early_refills
+      label: Agreement to No Early Refills
+      hint: Do you agree not to request early refills of this medication?
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 23
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature indicating your agreement to these terms
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Enter the date you are signing this agreement
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: physician_signature
+      label: Physician Signature
+      hint: Physician's signature acknowledging the prescription agreement
+      type: text
+      options: []
+      required: true

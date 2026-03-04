@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: senior_executive_panel_interview_feedback_form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: panel_reviewer
+      label: Panel Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

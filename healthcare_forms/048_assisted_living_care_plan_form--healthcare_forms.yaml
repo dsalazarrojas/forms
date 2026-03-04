@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assisted Living Care Plan Form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resident_id
+      label: Resident ID
+      hint: Room or unit number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: admission_date
+      label: Admission Date
+      hint: When admitted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: care_plan_date
+      label: Care Plan Date
+      hint: Date of plan
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: care_manager
+      label: Care Manager Name
+      hint: Who created plan
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relation to resident
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_physician
+      label: Primary Physician Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: List diagnoses
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: allergies
+      label: Known Allergies
+      hint: Food drug etc
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: List all
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: mobility_status
+      label: Mobility Status
+      hint: Movement ability
+      type: select_one
+      options:
+      - Independent
+      - Requires Cane
+      - Requires Walker
+      - Requires Wheelchair
+      - Bedbound
+      - Requires Assistance
+      required: true
+    - id: 16
+      name: fall_risk
+      label: Fall Risk Level
+      hint: Risk assessment
+      type: select_one
+      options:
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Very High Risk
+      required: true
+    - id: 17
+      name: activities_of_daily_living
+      label: Activities of Daily Living Assessment
+      hint: ADL capabilities
+      type: select_multiple
+      options:
+      - Bathing - Independent
+      - Bathing - Needs Assistance
+      - Dressing - Independent
+      - Dressing - Needs Assistance
+      - Eating - Independent
+      - Eating - Needs Assistance
+      - Toileting - Independent
+      - Toileting - Needs Assistance
+      - Transferring - Independent
+      - Transferring - Needs Assistance
+      required: true
+    - id: 18
+      name: cognitive_status
+      label: Cognitive Status
+      hint: Mental function
+      type: select_one
+      options:
+      - Alert and Oriented
+      - Mild Impairment
+      - Moderate Impairment
+      - Severe Impairment
+      - Dementia Diagnosed
+      required: true
+    - id: 19
+      name: dietary_needs
+      label: Dietary Needs
+      hint: Food requirements
+      type: select_multiple
+      options:
+      - Regular Diet
+      - Low Sodium
+      - Diabetic Diet
+      - Pureed Food
+      - Thickened Liquids
+      - Kosher
+      - Vegetarian
+      - Other Special Diet
+      required: true
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: What cannot eat
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: social_preferences
+      label: Social Preferences
+      hint: Activities liked
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: religious_preferences
+      label: Religious or Spiritual Preferences
+      hint: Faith practices
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: care_goals
+      label: Care Goals
+      hint: Objectives
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: interventions_required
+      label: Interventions Required
+      hint: What care needed
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Important notes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: family_involvement
+      label: Family Involvement Level
+      hint: How involved
+      type: select_one
+      options:
+      - Very Involved
+      - Moderately Involved
+      - Minimally Involved
+      - Not Involved
+      required: true
+    - id: 27
+      name: care_plan_review_date
+      label: Next Review Date
+      hint: When to update
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: resident_consent
+      label: Resident Consents to Care Plan
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes I Consent
+      - 'No'
+      - Guardian Consent
+      required: true
+    - id: 29
+      name: resident_signature
+      label: Resident Signature
+      hint: Type name
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: guardian_signature
+      label: Guardian Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: care_manager_signature
+      label: Care Manager Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: physician_review_date
+      label: Physician Review Date
+      hint: When doctor reviewed
+      type: date
+      options: []
+      required: false

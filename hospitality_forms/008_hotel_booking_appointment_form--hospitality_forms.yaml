@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Appointment Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Check In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: form_data_check_out
+      label: Check Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_data_arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_data_arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_data_number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_data_number_of_rooms
+      label: Number of Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_data_room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      - Suite with Balcony
+      required: false
+    - id: 12
+      name: form_data_room_amenities
+      label: Room Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - TV
+      - Minibar
+      - Wi-Fi
+      - Hairdryer
+      required: false
+    - id: 13
+      name: form_data_parking
+      label: Parking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: form_data_smoking_policy
+      label: Smoking Policy
+      hint: null
+      type: select_one
+      options:
+      - Non-Smoking
+      - Smoking
+      required: false
+    - id: 15
+      name: form_data_breakfast
+      label: Breakfast
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: form_data_meals
+      label: Meals
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 17
+      name: form_data_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: form_data_form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Submission
+      - Cancellation
+      required: false
+    - id: 19
+      name: form_data_form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_data_form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: form_data_form_submission_user
+      label: Form Submission User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_data_form_submission_ip_address
+      label: Form Submission IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_data_form_submission_user_agent
+      label: Form Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false

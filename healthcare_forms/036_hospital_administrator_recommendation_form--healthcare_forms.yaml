@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospital_administrator_recommendation_form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_phone_2
+      label: Alternate Supervisor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship
+      label: What is the applicant's relationship to you?
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Other
+      required: true
+    - id: 8
+      name: recommendation
+      label: What is your relationship to the candidate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Date you started working with candidate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: Date you ended working with candidate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: length_of_employment
+      label: Length of employment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: job_duties
+      label: Job duties and accomplishments
+      hint: null
+      type: select_multiple
+      options:
+      - Candidate was an excellent worker
+      - Candidate was a team player
+      - Candidate was a leader
+      - Candidate showed initiative
+      - Candidate was dependable
+      required: true
+    - id: 13
+      name: recommendation_comments
+      label: Any other comments
+      hint: null
+      type: text
+      options: []
+      required: false

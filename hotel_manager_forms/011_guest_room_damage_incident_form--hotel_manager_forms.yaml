@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Room Damage Incident Form
+    pages:
+    - id: 1
+      name: guest_room_damage_incident_form_page_1
+      label: Report Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: upload_attachment
+      label: Upload Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

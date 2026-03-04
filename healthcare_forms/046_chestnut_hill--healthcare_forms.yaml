@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chestnut Hill
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of your insurance company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Your insurance member ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like to come in
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: What time works best for you
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: vaccine_type
+      label: Vaccine Type Needed
+      hint: Which vaccine do you need
+      type: select_one
+      options:
+      - Flu vaccine
+      - COVID-19 vaccine
+      - Tdap (Tetanus, Diphtheria, Pertussis)
+      - Shingles vaccine
+      - Pneumonia vaccine
+      - Hepatitis vaccine
+      - Travel vaccines
+      - Other
+      required: true
+    - id: 11
+      name: vaccine_availability_check
+      label: Check Vaccine Availability
+      hint: Have you checked if vaccine is in stock
+      type: select_one
+      options:
+      - Yes, confirmed available
+      - No, please check
+      - Not sure
+      required: true
+    - id: 12
+      name: previous_vaccinations
+      label: Previous Vaccinations at This Location
+      hint: Have you received vaccines here before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any relevant medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: List any allergies especially to medications or vaccines
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you pregnant or planning pregnancy
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, planning
+      - false
+      - Not applicable
+      required: false
+    - id: 17
+      name: immune_compromised
+      label: Are You Immunocompromised
+      hint: Do you have a weakened immune system
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 18
+      name: recent_illness
+      label: Recent Illness
+      hint: Have you been ill in the past 2 weeks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: previous_vaccine_reactions
+      label: Previous Vaccine Reactions
+      hint: Have you had reactions to vaccines before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: reaction_details
+      label: Reaction Details
+      hint: Describe any previous reactions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pharmacy_preference
+      label: Pharmacy Preference
+      hint: Which pharmacy location do you prefer
+      type: select_one
+      options:
+      - Chestnut Hill location
+      - Sunshine Pharmacy
+      - VCare Pharmacy
+      - Any location
+      required: true
+    - id: 22
+      name: appointment_reminder
+      label: Appointment Reminder Preference
+      hint: How would you like to be reminded
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - No reminder needed
+      required: true
+    - id: 23
+      name: consent_to_vaccinate
+      label: Consent to Vaccination
+      hint: I consent to receive the vaccine
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false

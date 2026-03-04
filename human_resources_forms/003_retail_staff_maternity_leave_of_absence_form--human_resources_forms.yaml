@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Staff Maternity Leave Of Absence Form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe'', ''description'': ''Employee''}'
+      - '{''id'': 2, ''name'': ''Jane Doe'', ''description'': ''Employee''}'
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John Smith'', ''description'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''Jane Smith'', ''description'': ''Manager''}'
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

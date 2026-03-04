@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concierge Weekly Quiz
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: Concierge completing the quiz
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: week_ending
+      label: Week ending date
+      hint: Date for this quiz period
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_service_scenario
+      label: Customer service scenario knowledge
+      hint: Select the best response for the scenario
+      type: select_one
+      options:
+      - Offer alternative options
+      - Escalate to manager
+      - Offer refund
+      required: true
+    - id: 4
+      name: local_attractions_knowledge
+      label: Local attractions knowledge rating
+      hint: Evaluate knowledge of guest offerings
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs improvement
+      required: true
+    - id: 5
+      name: safety_protocols
+      label: Safety protocols understanding
+      hint: Familiarity with emergency procedures
+      type: select_one
+      options:
+      - Fully familiar
+      - Partially familiar
+      - Not familiar
+      required: true
+    - id: 6
+      name: customer_handling_example
+      label: Provide a brief example of handling a guest request
+      hint: Short description of approach
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_needs
+      label: Training needs identified
+      hint: Topics that would help performance
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quiz_score
+      label: Quiz score
+      hint: Numeric score for this quiz
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager comments
+      hint: Feedback from supervisor
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_actions
+      label: Follow up actions
+      hint: Required next steps or coaching
+      type: text
+      options: []
+      required: false

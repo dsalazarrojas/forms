@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Offer Approval Form
+    pages:
+    - id: 1
+      name: job_offer_approval_form
+      label: Job Offer Approval Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - New Hire
+      - Promotions
+      - Transfers
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending Approval
+      - Approved
+      - On Hold
+      required: false
+    - id: 7
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Executive
+      - Management
+      - Non-Executive
+      - Non-Management
+      required: false
+    - id: 8
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: select_one
+      options:
+      - Exempt
+      - Non-Exempt
+      - Overtime Eligible
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_date
+      label: Job Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: job_start_time
+      label: Job Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: job_end_time
+      label: Job End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_hours
+      label: Job Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: job_shift
+      label: Job Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 20
+      name: job_workweek
+      label: Job Workweek
+      hint: null
+      type: select_one
+      options:
+      - 5/7
+      - 4/7
+      - 3/7
+      - 2/7
+      - 1/7
+      required: false
+    - id: 21
+      name: job_education
+      label: Job Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_experience
+      label: Job Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_skills
+      label: Job Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

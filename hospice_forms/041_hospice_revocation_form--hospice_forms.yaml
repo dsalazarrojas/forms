@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Revocation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_practitioner
+      label: medical practitioner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_practitioner_license
+      label: medical practitioner license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_dob
+      label: patient dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: hospice_name
+      label: hospice name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_revocation
+      label: reason for revocation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_revocation
+      label: date of revocation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_certificate
+      label: medical certificate
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_insurance_subscription_form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_enrollment
+      label: Insurance Enrollment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: billing_amount
+      label: Billing Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: billing_method
+      label: Billing Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

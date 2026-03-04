@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Necessity Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: medical_necessity
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_necessity_reasons
+      label: reasons_for_medication_or_service
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac Arrhythmia
+      - Chronic Kidney Disease
+      - Congenital Heart Defect
+      - Congenital Heart Disease
+      - COPD
+      - Cystic Fibrosis
+      - Dementia
+      - Diabetes
+      - Heart Failure
+      - HIV/AIDS
+      - Hypertension
+      - Hypothyroidism
+      - Malignancy
+      - Mental Health
+      - Neurodegenerative Disease
+      - Neurological Disorder
+      - Obesity
+      - Other Medical Necessity Reason
+      - Palliative Care
+      - Rheumatoid Arthritis
+      - Sleep Disorder
+      - Spinal Cord Injuries
+      - Surgery
+      - Trauma
+      required: false
+    - id: 5
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: note
+      options: []
+      required: false

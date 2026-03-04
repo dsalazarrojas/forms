@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_hospitality_service_quotation_form
+    pages:
+    - id: 1
+      name: guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

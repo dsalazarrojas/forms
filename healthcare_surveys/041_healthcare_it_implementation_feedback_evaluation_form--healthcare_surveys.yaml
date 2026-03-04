@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare IT Implementation Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Healthcare IT Implementation Feedback Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Surveys
+      - Other
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_it_implementation
+      label: Healthcare IT Implementation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: healthcare_it_implementation_rating
+      label: Healthcare IT Implementation Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: effectiveness_of_technology
+      label: Effectiveness of Technology
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ease_of_use
+      label: Ease of Use
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ease_of_training
+      label: Ease of Training
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: user_friendly_interface
+      label: User Friendly Interface
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: support
+      label: Support
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: pubn-regis-amp-pay-vaccine-snp
+    pages:
+    - id: 1
+      name: first_page
+      label: first-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_info
+      label: registration-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vaccine_dose
+      label: vaccine-dose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_info
+      label: payment-info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payment_date
+      label: payment-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: payee_name
+      label: payee-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payee_email
+      label: payee-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: payee_phone
+      label: payee-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: total_amt
+      label: total-amt
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payee_info
+      label: payee-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payee_address
+      label: payee-address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_status
+      label: payment-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: payee_status_update
+      label: payee-status-update
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: pubn_regis_status
+      label: pubn-regis-status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pubn_regis_date
+      label: pubn-regis-date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: pubn_regis_time
+      label: pubn-regis-time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: pubn_regis_remark
+      label: pubn-regis-remark
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pubn_regis_status_update
+      label: pubn-regis-status-update
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: total_count
+      label: total-count
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: pubn_regis_total_remark
+      label: pubn-regis-total-remark
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pubn_regis_note
+      label: pubn-regis-note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pubn_regis_file
+      label: pubn-regis-file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: pubn_regis_attached_file
+      label: pubn-regis-attached-file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pubn_regis_remark
+      label: pubn-regis-remark
+      hint: null
+      type: text
+      options: []
+      required: false

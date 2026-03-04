@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Event Recovery Survey
+    pages:
+    - id: 1
+      name: attendee_feedback
+      label: Attendee Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: future_interest
+      label: Future Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: well_being
+      label: Overall Well-being
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: program_interest
+      label: Program Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true

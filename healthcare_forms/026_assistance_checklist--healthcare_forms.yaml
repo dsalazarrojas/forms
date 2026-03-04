@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assistance Checklist
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient Name
+        hint: Full name of patient
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: patient_id
+        label: Patient ID
+        hint: Medical record number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: checklist_date
+        label: Checklist Date
+        hint: Date of this checklist
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: healthcare_provider
+        label: Healthcare Provider Name
+        hint: Clinic, hospital, or facility
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: caregiver_name
+        label: Caregiver Name
+        hint: Name of person assisting
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: shift_time_period
+        label: Shift or Time Period
+        hint: Morning, afternoon, evening, night
+        type: select_one
+        options:
+          - Morning 6am - 2pm
+          - Afternoon 2pm - 10pm
+          - Night 10pm - 6am
+          - Full Day
+          - As Needed
+        required: true
+      - id: 7
+        name: personal_hygiene_bathing
+        label: Personal Hygiene - Bathing
+        hint: Assisted with bath or shower?
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 8
+        name: personal_hygiene_grooming
+        label: Personal Hygiene - Grooming
+        hint: Grooming and dressing assistance
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 9
+        name: toileting_assistance
+        label: Toileting Assistance
+        hint: Bathroom assistance provided
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 10
+        name: mobility_assistance
+        label: Mobility Assistance
+        hint: Walking, transfer, positioning
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 11
+        name: medication_administration
+        label: Medication Administration
+        hint: Medications given as prescribed
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 12
+        name: nutrition_meal_assistance
+        label: Nutrition - Meal Assistance
+        hint: Feeding or food preparation help
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 13
+        name: hydration_monitoring
+        label: Hydration Monitoring
+        hint: Fluid intake monitored
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 14
+        name: wound_care
+        label: Wound Care
+        hint: Dressing changes, wound checks
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 15
+        name: catheter_care
+        label: Catheter or Ostomy Care
+        hint: Catheter or ostomy management
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 16
+        name: pain_management
+        label: Pain Management
+        hint: Pain assessed and managed
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 17
+        name: vital_signs_monitoring
+        label: Vital Signs Monitoring
+        hint: Temperature, blood pressure, pulse, respiration
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 18
+        name: cognitive_mental_support
+        label: Cognitive and Mental Health Support
+        hint: Emotional support, conversation
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 19
+        name: activity_engagement
+        label: Activity or Exercise Engagement
+        hint: Recreation, therapy, mobility activities
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 20
+        name: environment_safety
+        label: Environment and Safety Check
+        hint: Fall prevention, infection control
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 21
+        name: documentation_records
+        label: Documentation and Record Keeping
+        hint: Records updated and filed
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Not Needed
+          - Pending
+          - Refused
+        required: true
+      - id: 22
+        name: items_needed
+        label: Supplies or Items Needed
+        hint: List any supplies to order
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: patient_observations
+        label: Patient Observations and Changes
+        hint: Note any changes in condition
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: caregiver_signature
+        label: Caregiver Signature
+        hint: Type name as signature
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: supervisor_review_date
+        label: Supervisor Review/Signature
+        hint: Reviewed by supervisor
+        type: text
+        options: []
+        required: false

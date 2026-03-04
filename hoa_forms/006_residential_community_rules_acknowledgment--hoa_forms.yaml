@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Community Rules Acknowledgment
+    pages:
+    - id: 1
+      name: residential_community_rules_acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_person
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Phone Number
+      hint: Phone number (or null)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact Person
+      - Family Member
+      - Friend
+      - Neighbor
+      - Other
+      required: true
+    - id: 12
+      name: emergency_contact_relationship_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_alternate_phone
+      label: Alternate Phone Number
+      hint: Alternate phone number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_alternate_email
+      label: Alternate Email
+      hint: Alternate email address
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_alternate_relationship
+      label: Alternate Relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact Person
+      - Family Member
+      - Friend
+      - Neighbor
+      - Other
+      required: true
+    - id: 16
+      name: emergency_contact_alternate_relationship_other
+      label: Alternate Relationship (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_message_to
+      label: To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_message_from
+      label: From
+      hint: null
+      type: text
+      options: []
+      required: false

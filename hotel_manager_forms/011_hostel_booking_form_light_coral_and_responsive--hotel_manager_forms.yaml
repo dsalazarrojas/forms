@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostel Booking Form Light Coral And Responsive
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: Customer First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: checkin
+      label: Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: checkout
+      label: Checkout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': ''Australia''}'
+      - '{''id'': 7.1, ''label'': ''United States''}'
+      - '{''id'': 7.2, ''label'': ''Canada''}'
+      - '{''id'': 7.2, ''label'': ''United Kingdom''}'
+      - '{''id'': 7.3, ''label'': ''Germany''}'
+      - '{''id'': 7.4, ''label'': ''France''}'
+      required: false
+    - id: 8
+      name: customer_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8.1, ''label'': ''English''}'
+      - '{''id'': 8.1, ''label'': ''Spanish''}'
+      - '{''id'': 8.2, ''label'': ''French''}'
+      - '{''id'': 8.2, ''label'': ''German''}'
+      - '{''id'': 8.3, ''label'': ''Chinese''}'
+      - '{''id'': 8.4, ''label'': ''Japanese''}'
+      required: false
+    - id: 9
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false

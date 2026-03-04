@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Communication Challenges In Autism
+    pages:
+    - id: 1
+      name: assessment_information
+      label: Assessment Information
+      hint: Details about the communication assessment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the healthcare professional
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessor_title
+      label: Assessor Title
+      hint: Professional title or role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: individual_information
+      label: Individual Information
+      hint: Details about the individual being assessed
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: individual_name
+      label: Individual Name
+      hint: Full name of the individual
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: individual_age
+      label: Individual Age
+      hint: Age of the individual
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: diagnosis_status
+      label: Diagnosis Status
+      hint: Autism diagnosis status
+      type: select_one
+      options:
+      - Formally Diagnosed
+      - Under Evaluation
+      - Suspected
+      - No Formal Diagnosis
+      required: true
+    - id: 9
+      name: diagnosis_age
+      label: Diagnosis Age
+      hint: Age at diagnosis if applicable
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: verbal_communication
+      label: Verbal Communication
+      hint: Assessment of verbal communication abilities
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: speech_ability
+      label: Speech Ability
+      hint: Current speech and verbal ability level
+      type: select_one
+      options:
+      - Nonverbal
+      - Limited Words
+      - Simple Phrases
+      - Full Sentences
+      - Advanced Verbal
+      required: true
+    - id: 12
+      name: speech_clarity
+      label: Speech Clarity
+      hint: How clear is their speech
+      type: select_one
+      options:
+      - Very Clear
+      - Mostly Clear
+      - Sometimes Unclear
+      - Often Unclear
+      - Very Difficult to Understand
+      - Not Applicable
+      required: true
+    - id: 13
+      name: echolalia_presence
+      label: Echolalia Presence
+      hint: Is echolalia observed
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      - Not Observed
+      required: true
+    - id: 14
+      name: nonverbal_communication
+      label: Nonverbal Communication
+      hint: Assessment of nonverbal communication
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: eye_contact
+      label: Eye Contact
+      hint: Quality of eye contact
+      type: select_one
+      options:
+      - Consistent
+      - Inconsistent
+      - Limited
+      - Minimal
+      - Absent
+      required: true
+    - id: 16
+      name: facial_expressions
+      label: Facial Expressions
+      hint: Use of facial expressions
+      type: select_one
+      options:
+      - Age Appropriate
+      - Somewhat Limited
+      - Limited
+      - Very Limited
+      - Absent
+      required: true
+    - id: 17
+      name: gesture_use
+      label: Gesture Use
+      hint: Use of hand gestures and body language
+      type: select_one
+      options:
+      - Age Appropriate
+      - Somewhat Limited
+      - Limited
+      - Uses Alternative Gestures
+      - No Gesture Use
+      required: true
+    - id: 18
+      name: social_communication
+      label: Social Communication
+      hint: Assessment of social communication skills
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: initiating_interaction
+      label: Initiating Interaction
+      hint: Ability to initiate social interaction
+      type: select_one
+      options:
+      - Frequently Initiates
+      - Sometimes Initiates
+      - Rarely Initiates
+      - Never Initiates
+      - Needs Prompting
+      required: true
+    - id: 20
+      name: responding_to_others
+      label: Responding to Others
+      hint: How do they respond to social approaches
+      type: select_one
+      options:
+      - Consistently Responds
+      - Usually Responds
+      - Inconsistently Responds
+      - Rarely Responds
+      - Does Not Respond
+      required: true
+    - id: 21
+      name: joint_attention
+      label: Joint Attention
+      hint: Ability to share focus with others
+      type: select_one
+      options:
+      - Age Appropriate
+      - Developing
+      - Limited
+      - Minimal
+      - Absent
+      required: true
+    - id: 22
+      name: conversation_skills
+      label: Conversation Skills
+      hint: Ability to maintain conversations
+      type: select_one
+      options:
+      - Age Appropriate
+      - Mild Difficulty
+      - Moderate Difficulty
+      - Severe Difficulty
+      - Unable to Engage
+      required: true
+    - id: 23
+      name: communication_challenges
+      label: Communication Challenges
+      hint: What are the primary challenges observed
+      type: select_multiple
+      options:
+      - Limited Vocabulary
+      - Difficulty Understanding Instructions
+      - Trouble Expressing Needs
+      - Social Interaction Difficulties
+      - Literal Interpretation
+      - Difficulty with Abstract Concepts
+      - Sensory Overload
+      - Anxiety in Social Situations
+      - None Observed
+      required: true
+    - id: 24
+      name: communication_strengths
+      label: Communication Strengths
+      hint: What are the observed strengths
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supports_used
+      label: Supports Used
+      hint: What communication supports are currently used
+      type: select_multiple
+      options:
+      - None
+      - Visual Schedules
+      - Picture Exchange System
+      - Speech Generating Device
+      - Sign Language
+      - Written Communication
+      - Social Stories
+      - Communication Apps
+      required: true
+    - id: 26
+      name: recommendations
+      label: Recommendations
+      hint: Recommended interventions or supports
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: follow_up_needed
+      label: Follow-Up Needed
+      hint: Is follow-up assessment needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

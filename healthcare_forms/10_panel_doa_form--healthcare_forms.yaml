@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 10 Panel DOA Form
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: '--- Patient Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient's Full Name
+      hint: As it appears on official identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Patient Phone Number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Patient Email Address
+      hint: Optional, for communication regarding results or follow-up
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: patient_mrn
+      label: Medical Record Number (MRN)
+      hint: If applicable, enter the patient's existing MRN
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_collection_details
+      label: '--- Specimen Collection Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: collection_date
+      label: Date of Collection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: collection_time
+      label: Time of Collection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: collector_name
+      label: Collector's Full Name
+      hint: Printed name of the collection technician
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: collection_site_name
+      label: Collection Site Name
+      hint: Name of the clinic or facility where collected
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: specimen_type
+      label: Specimen Type
+      hint: null
+      type: select_one
+      options:
+      - Urine
+      - Oral Fluid
+      - Hair Follicle
+      - Blood
+      - Other (Specify in Notes)
+      required: true
+    - id: 14
+      name: observed_collection
+      label: Collection Observation Status
+      hint: Was the collection process directly observed by the collector?
+      type: select_one
+      options:
+      - Observed
+      - Unobserved
+      required: true
+    - id: 15
+      name: temperature_strip_valid
+      label: Specimen Temperature Valid?
+      hint: For urine samples, confirm temperature strip reading (90-100°F / 32-38°C)
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A (Non-urine specimen)
+      required: true
+    - id: 16
+      name: section_header_reason_for_test
+      label: '--- Reason for Drug Test ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_test
+      label: Primary Reason for Test
+      hint: null
+      type: select_one
+      options:
+      - Pre-employment
+      - Random
+      - Post-accident
+      - Reasonable Suspicion/Cause
+      - Return-to-duty
+      - Follow-up
+      - Court Ordered
+      - Other (Specify below)
+      required: true
+    - id: 18
+      name: other_reason_details
+      label: If 'Other' reason selected, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_patient_declaration
+      label: '--- Patient Declaration ---'
+      hint: This information is for medical context and may influence result interpretation.
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: currently_taking_medications
+      label: Are you currently taking any prescription or over-the-counter medications?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: list_current_medications
+      label: If Yes, please list all medications
+      hint: Include dosage and frequency if known (e.g., Tylenol, 500mg, twice daily)
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consumed_substances_72h
+      label: Have you consumed any alcohol, cannabis, or other illicit substances
+        in the last 72 hours?
+      hint: This information is for medical context only.
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 23
+      name: section_header_collector_observations
+      label: '--- Collector''s Observations ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: signs_of_tampering
+      label: Any signs of specimen tampering or adulteration observed?
+      hint: e.g., unusual color, odor, foreign objects, or patient behavior
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: collector_notes
+      label: Additional Notes or Comments by Collector
+      hint: Document any unusual circumstances, patient behavior, or issues encountered
+        during the collection.
+      type: text
+      options: []
+      required: false

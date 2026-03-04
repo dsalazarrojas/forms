@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Day Participation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Human Resources
+      - Sales
+      - Marketing
+      - Operations
+      - IT
+      - Finance
+      - Administration
+      - Other
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your company email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Casual Day Date
+      hint: Date of the casual day event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: participation_status
+      label: Will You Participate
+      hint: Confirm your participation
+      type: select_one
+      options:
+      - Yes - Participating
+      - No - Not Participating
+      - Maybe - Undecided
+      required: true
+    - id: 7
+      name: dress_code_acknowledgment
+      label: Dress Code Acknowledgment
+      hint: Do you understand the casual dress guidelines
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - Need Clarification
+      required: true
+    - id: 8
+      name: outfit_theme
+      label: Outfit Theme
+      hint: What theme will you follow if applicable
+      type: select_one
+      options:
+      - Casual Comfortable
+      - Sports Team Colors
+      - Decade Theme
+      - Character Theme
+      - No Specific Theme
+      - Not Applicable
+      required: false
+    - id: 9
+      name: bringing_snacks
+      label: Will You Bring Snacks to Share
+      hint: Optional snack contribution
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: snack_details
+      label: Snack Details
+      hint: What will you bring
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary restrictions we should know
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_help
+      label: Volunteer to Help Organize
+      hint: Would you like to help organize future events
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: photo_consent
+      label: Photo Consent
+      hint: Can photos be taken for internal communications
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 14
+      name: feedback_suggestions
+      label: Suggestions for Future Events
+      hint: Any ideas for future casual days
+      type: text
+      options: []
+      required: false

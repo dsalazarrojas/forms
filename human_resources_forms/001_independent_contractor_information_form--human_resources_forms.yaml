@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Contractor Information Form
+    pages:
+    - id: 1
+      name: contract_info
+      label: Contract Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_id
+      label: Tax Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_rate
+      label: Payment Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fixed Rate''}'
+      - '{''label'': ''Hourly Rate''}'
+      - '{''label'': ''Daily Rate''}'
+      required: false
+    - id: 8
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Net 15''}'
+      - '{''label'': ''Net 30''}'
+      required: false
+    - id: 9
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full Time''}'
+      - '{''label'': ''Part Time''}'
+      required: false
+    - id: 10
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: work_end_time
+      label: Work End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: work_days
+      label: Work Days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: false
+    - id: 14
+      name: payment_terms_note
+      label: Payment Terms Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Bi-Weekly''}'
+      - '{''label'': ''Semi-Monthly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Yearly''}'
+      required: false
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Check''}'
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''PayPal''}'
+      required: false
+    - id: 18
+      name: tax_id_type
+      label: Tax Id Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''EIN''}'
+      - '{''label'': ''SSN''}'
+      required: false
+    - id: 19
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Unpaid''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tax_address
+      label: Tax Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tax_name
+      label: Tax Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tax_ein
+      label: Tax EIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tax_ssn
+      label: Tax SSN
+      hint: null
+      type: text
+      options: []
+      required: false

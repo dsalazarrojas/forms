@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Street Food Experience Registration
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten Free
+      - Vegetarian
+      - Vegan
+      - None
+      required: true
+    - id: 7
+      name: experience_level
+      label: experience_level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 8
+      name: emergency_contact_information
+      label: emergency_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resort Amenities Requisition Form
+    pages:
+    - id: 1
+      name: guest_request
+      label: Guest Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: staff_request
+      label: Staff Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department_id
+      label: Department
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: request_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amenity_type
+      label: Amenity Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: modified_at
+      label: Modified At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: fax_number
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: internal_note
+      label: Internal Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: external_note
+      label: External Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: true

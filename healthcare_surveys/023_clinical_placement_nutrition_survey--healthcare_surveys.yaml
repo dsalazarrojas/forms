@@ -1,0 +1,322 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Placement Nutrition Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Clinical Placement Nutrition Survey
+        hint: Please share your experience during your dietetics and nutrition clinical placement
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: student_id
+        label: Student ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: placement_site
+        label: Placement Site Name
+        hint: Hospital clinic or facility
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: placement_department
+        label: Department or Unit
+        hint: null
+        type: select_one
+        options:
+          - Inpatient Nutrition
+          - Outpatient Clinic
+          - Pediatric Nutrition
+          - Renal Nutrition
+          - Oncology Nutrition
+          - Diabetes Education
+          - Eating Disorders
+          - Community Nutrition
+          - Food Service Management
+          - Other
+        required: true
+      - id: 6
+        name: placement_start_date
+        label: Placement Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: placement_end_date
+        label: Placement End Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: preceptor_name
+        label: Preceptor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: preceptor_support
+        label: How Would You Rate Preceptor Support
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: preceptor_availability
+        label: How Available Was Your Preceptor
+        hint: null
+        type: select_one
+        options:
+          - Always Available
+          - Usually Available
+          - Sometimes Available
+          - Rarely Available
+          - Never Available
+        required: true
+      - id: 11
+        name: learning_objectives_met
+        label: Were Learning Objectives Met
+        hint: null
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Fully Met
+          - Mostly Met
+          - Partially Met
+          - Not Met
+        required: true
+      - id: 12
+        name: hands_on_experience
+        label: How Would You Rate Hands-On Experience
+        hint: Direct patient care counseling etc.
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: patient_interactions
+        label: How Many Patient Interactions Did You Have
+        hint: null
+        type: select_one
+        options:
+          - Many - Daily
+          - Several - Few Times Per Week
+          - Moderate - Once Per Week
+          - Few - A Few Total
+          - None
+        required: true
+      - id: 14
+        name: nutrition_assessments
+        label: How Many Nutrition Assessments Did You Perform
+        hint: null
+        type: select_one
+        options:
+          - 20+
+          - 11-20
+          - 6-10
+          - 1-5
+          - None
+        required: true
+      - id: 15
+        name: care_plans_developed
+        label: How Many Care Plans Did You Develop
+        hint: null
+        type: select_one
+        options:
+          - 10+
+          - 6-10
+          - 3-5
+          - 1-2
+          - None
+        required: true
+      - id: 16
+        name: interdisciplinary_exposure
+        label: Exposure to Interdisciplinary Team
+        hint: null
+        type: select_one
+        options:
+          - Extensive
+          - Moderate
+          - Limited
+          - None
+        required: true
+      - id: 17
+        name: team_members_worked_with
+        label: Team Members You Worked With
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Physicians
+          - Nurses
+          - Pharmacists
+          - Social Workers
+          - Physical Therapists
+          - Occupational Therapists
+          - Speech Therapists
+          - Psychologists
+          - Other Dietitians
+          - Food Service Staff
+        required: false
+      - id: 18
+        name: documentation_training
+        label: How Would You Rate Documentation Training
+        hint: EMR charting etc.
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did Not Receive
+        required: false
+      - id: 19
+        name: resource_availability
+        label: How Would You Rate Resource Availability
+        hint: Reference materials guidelines etc.
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: feedback_quality
+        label: How Would You Rate Feedback Quality
+        hint: From preceptor and staff
+        type: select_one
+        options:
+          - Excellent - Timely and Constructive
+          - Very Good
+          - Good
+          - Fair - Infrequent
+          - Poor - Not Helpful
+        required: true
+      - id: 21
+        name: confidence_improvement
+        label: How Much Did Your Confidence Improve
+        hint: null
+        type: select_one
+        options:
+          - Significantly Improved
+          - Moderately Improved
+          - Slightly Improved
+          - No Change
+          - Decreased
+        required: true
+      - id: 22
+        name: skills_improved
+        label: Which Skills Improved Most
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Nutrition Assessment
+          - Care Plan Development
+          - Patient Counseling
+          - Medical Nutrition Therapy
+          - Documentation
+          - Critical Thinking
+          - Communication
+          - Time Management
+          - Interdisciplinary Collaboration
+          - Other
+        required: true
+      - id: 23
+        name: challenges_faced
+        label: What Challenges Did You Face
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - Time Management
+          - Complex Cases
+          - Documentation System
+          - Communication
+          - Confidence
+          - Knowledge Gaps
+          - Workload
+          - Preceptor Availability
+          - Other
+        required: true
+      - id: 24
+        name: site_environment
+        label: How Would You Rate the Site Environment
+        hint: Supportive welcoming etc.
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 25
+        name: would_recommend
+        label: Would You Recommend This Site to Other Students
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 26
+        name: best_aspect
+        label: What Was the Best Aspect of This Placement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: areas_for_improvement
+        label: What Could Be Improved
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else about your placement experience
+        type: text
+        options: []
+        required: false

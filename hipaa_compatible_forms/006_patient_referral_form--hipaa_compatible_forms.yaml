@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Referral Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: doctor_phone
+      label: Doctor Phone
+      hint: in E. 123-456-7890 format
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: Date of Visit
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referring_diagnosis
+      label: Referring Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - In Progress
+      - Completed
+      required: false
+    - id: 14
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 18
+      name: patient_race
+      label: Race
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black or African American
+      - Asian or Pacific Islander
+      - Native American or Alaska Native
+      - Other
+      required: false
+    - id: 19
+      name: patient_ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Hispanic or Latino
+      - American Indian or Alaska Native
+      - Other
+      required: false
+    - id: 20
+      name: patient_language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 21
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: doctor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_specialty
+      label: Specialty
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Wellness Initiative Evaluation Form
+    pages:
+    - id: 1
+      name: program_participant_info
+      label: Program Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_details
+      label: Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: true
+    - id: 4
+      name: program_outcome
+      label: Program Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_survey
+      label: Participant Survey
+      hint: null
+      type: time
+      options: []
+      required: true

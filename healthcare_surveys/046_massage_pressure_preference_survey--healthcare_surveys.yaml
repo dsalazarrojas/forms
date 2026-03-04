@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Pressure Preference Survey
+    pages:
+    - id: 1
+      name: massage_pressure_preference_survey_page_1
+      label: Massage Pressure
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Light''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Firm''}'
+      - '{''label'': ''Very Firm''}'
+      - '{''label'': ''Very Light''}'
+      required: false
+    - id: 2
+      name: massage_pressure_preference_survey_page_2
+      label: Pressure Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Chest''}'
+      - '{''label'': ''Back''}'
+      - '{''label'': ''Arms and Legs''}'
+      - '{''label'': ''Hands and Feet''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: massage_pressure_preference_survey_page_3
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: massage_pressure_preference_survey_page_4
+      label: Massage Pressure Preference Survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: massage_pressure_preference_survey_page_5
+      label: Massage Pressure Preference Survey
+      hint: null
+      type: number
+      options: []
+      required: false

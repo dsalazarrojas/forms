@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Session Assignment And Feedback Form (SAFF)
+    pages:
+    - id: 1
+      name: session_assignment
+      label: Session Assignment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_booking_payment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_arrival
+      label: Date Of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_departure
+      label: Date Of Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: room_price
+      label: Room Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: number
+      options: []
+      required: false

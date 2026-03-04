@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Medicine Kit Giveaway Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Domestic''}'
+      - '{''option_2'': ''International''}'
+      - '{''option_3'': ''Other''}'
+      required: false
+    - id: 7
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''US''}'
+      - '{''option_2'': ''Asia''}'
+      - '{''option_3'': ''Europe''}'
+      - '{''option_4'': ''Other''}'
+      required: false
+    - id: 8
+      name: medicine_kit
+      label: Medicine Kit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

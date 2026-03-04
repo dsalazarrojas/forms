@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostel Booking Form Light Coral And Responsive
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Triple Room
+      required: false
+    - id: 7
+      name: adult_count
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: child_count
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: extra_service
+      label: Extra Service
+      hint: null
+      type: select_multiple
+      options:
+      - Room Cleaning
+      - Room Laundry
+      - Food Service
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Hostel
+      required: false

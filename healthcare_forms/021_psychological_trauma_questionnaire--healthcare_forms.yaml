@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Trauma Questionnaire
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trauma_types_page
+      label: Trauma Types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''physical''}'
+      - '{''name'': ''emotional''}'
+      - '{''name'': ''psychological''}'
+      required: true
+    - id: 3
+      name: trauma_events_page
+      label: Trauma Events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: trauma_duration_page
+      label: Trauma Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: trauma_frequency_page
+      label: Trauma Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: trauma_impact_page
+      label: Trauma Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''high''}'
+      - '{''name'': ''low''}'
+      - '{''name'': ''moderate''}'
+      required: true
+    - id: 7
+      name: trauma_symptoms_page
+      label: Trauma Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trauma_treatment_page
+      label: Trauma Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: trauma_impact_2_page
+      label: Trauma Impact 2
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''high''}'
+      - '{''name'': ''low''}'
+      - '{''name'': ''moderate''}'
+      required: false
+    - id: 10
+      name: trauma_frequency_2_page
+      label: Trauma Frequency 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: trauma_symptoms_2_page
+      label: Trauma Symptoms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trauma_treatment_2_page
+      label: Trauma Treatment 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: trauma_physical_symptoms_page
+      label: Trauma Physical Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trauma_psychological_symptoms_page
+      label: Trauma Psychological Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trauma_emotional_symptoms_page
+      label: Trauma Emotional Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trauma_behavioral_symptoms_page
+      label: Trauma Behavioral Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trauma_social_symptoms_page
+      label: Trauma Social Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trauma_financial_symptoms_page
+      label: Trauma Financial Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trauma_physical_page
+      label: Physical Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: trauma_emotional_page
+      label: Emotional Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: trauma_psychological_page
+      label: Psychological Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: trauma_behavioral_page
+      label: Behavioral Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: trauma_social_page
+      label: Social Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: trauma_financial_page
+      label: Financial Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: summary_page
+      label: Summary
+      hint: null
+      type: note
+      options: []
+      required: false

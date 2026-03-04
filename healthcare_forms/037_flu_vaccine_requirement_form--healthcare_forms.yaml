@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flu Vaccine Requirement Form
+    pages:
+    - id: 1
+      name: flu_vaccine_requirement_form
+      label: Flu Vaccine Requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_date_of_birth
+      label: Patient Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: flu_vaccine_type
+      label: Flu Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Flu Vaccine A
+      - Flu Vaccine B
+      - Flu Vaccine A + B
+      - Flu Vaccine A + Flu Vaccine B
+      required: true
+    - id: 5
+      name: flu_vaccine_administered
+      label: Flu Vaccine Administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: flu_vaccine_next_administered
+      label: Flu Vaccine Next Administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Thompson
+      required: true
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: flu_vaccine_status
+      label: Flu Vaccine Status
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Required
+      - Requires Referral
+      required: true

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Income Verification Form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_employment_date
+      label: Employment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_last_name
+      label: employee_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_first_name
+      label: employee_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_address
+      label: employee_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_salary_start_date
+      label: salary_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: employee_salary_end_date
+      label: salary_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employer_name
+      label: employer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_address
+      label: employer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_phone
+      label: employer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employer_email
+      label: employer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: certification_issued
+      label: certification_issued
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      - Unknown
+      required: true
+    - id: 13
+      name: certification_date
+      label: certification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_termination
+      label: reason_for_termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: certification_issuer
+      label: certification_issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: verification_note
+      label: verification_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: employer_confirmation
+      label: employer_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: employee_confirmation
+      label: employee_confirmation
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 20
+      name: verification_status
+      label: verification_status
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Unverified
+      - Pending
+      required: true
+    - id: 21
+      name: employee_status
+      label: employee_status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 22
+      name: date_of_death
+      label: date_of_death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_of_death
+      label: time_of_death
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: place_of_death
+      label: place_of_death
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employer_signature
+      label: employer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: verification_date
+      label: verification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: verification_time
+      label: verification_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 29
+      name: verification_employee
+      label: verification_employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: verification_employee_signature
+      label: verification_employee_signature
+      hint: null
+      type: text
+      options: []
+      required: false

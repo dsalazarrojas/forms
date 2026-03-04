@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Leave Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Direct Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_leave_request
+      label: -- Leave Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: leave_type
+      label: Type of Leave
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 quarantine
+      - COVID-19 sick leave
+      - Caregiver leave
+      - Vaccination appointment
+      - Vaccination side effects
+      - Other COVID-related
+      required: true
+    - id: 9
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: select_one
+      options:
+      - Diagnosed with COVID-19
+      - Exposed to COVID-19
+      - Caring for family member
+      - Vaccine appointment
+      - Vaccine side effects
+      - Work environment concern
+      - Other
+      required: true
+    - id: 10
+      name: reason_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: end_date
+      label: Anticipated End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: duration_days
+      label: Estimated Duration - Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_documentation
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medical_documentation
+      label: Do you have medical documentation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide later
+      required: true
+    - id: 16
+      name: documentation_type
+      label: Type of Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - Positive COVID-19 test
+      - Doctor note
+      - Vaccine appointment confirmation
+      - Medical certificate
+      - Other
+      required: false
+    - id: 17
+      name: section_work_coverage
+      label: -- Work Coverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: work_handoff
+      label: Have you arranged coverage for your work?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 19
+      name: coverage_details
+      label: Coverage Details
+      hint: Who will cover your work and what tasks
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_acknowledgment
+      label: -- Employee Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: acknowledge_policy
+      label: I have read and understand the COVID-19 leave policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: submission_date
+      label: Request Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

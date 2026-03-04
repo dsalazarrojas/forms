@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Job Technical Assessment
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: technical_skills
+      label: technical skills
+      hint: null
+      type: select_multiple
+      options:
+      - Java
+      - Python
+      - JavaScript
+      required: true
+    - id: 5
+      name: programming_languages
+      label: programming languages
+      hint: null
+      type: select_one
+      options:
+      - Java
+      - Python
+      - C++
+      - C
+      - JavaScript
+      - TypeScript
+      - Ruby
+      - Swift
+      - Rust
+      required: true
+    - id: 6
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: available_date
+      label: available date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - Monday to Friday
+      - Tuesday to Thursday
+      - Wednesday to Friday
+      - Monday to Wednesday
+      - Tuesday to Thursday
+      required: true

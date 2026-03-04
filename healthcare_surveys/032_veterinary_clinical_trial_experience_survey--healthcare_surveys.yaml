@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Clinical Trial Experience Survey
+    pages:
+    - id: 1
+      name: clinical_trial_id
+      label: Clinical Trial ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_owner_survey
+      label: Pet Owner Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: study_design
+      label: Study Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: study_inclusion
+      label: Study Inclusion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: study_exclusion
+      label: Study Exclusion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: study_duration
+      label: Study Duration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: clinical_trial_phase
+      label: Clinical Trial Phase
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: veterinary_clinical_trial_site
+      label: Veterinary Clinical Trial Site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: clinical_trial_investigator
+      label: Clinical Trial Investigator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_owners_participation
+      label: Pet Owners Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: clinical_trial_fees
+      label: Clinical Trial Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: study_funding_source
+      label: Study Funding Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: study_funding_amount
+      label: Study Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: study_funding_currency
+      label: Study Funding Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: veterinary_clinical_trial_institution
+      label: Veterinary Clinical Trial Institution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

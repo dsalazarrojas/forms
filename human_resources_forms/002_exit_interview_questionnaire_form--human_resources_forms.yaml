@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Interview Questionnaire Form
+    pages:
+    - id: 1
+      name: company_formation
+      label: How was your overall experience at this company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_type
+      label: What type of job were you in while here?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Manager''}'
+      - '{''id'': 2, ''value'': ''Non-Mgr''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: job_satisfaction
+      label: How was your level of job satisfaction while here?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_security
+      label: How secure did you feel in your position?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: manager_satisfaction
+      label: How would you rate your manager's performance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor''}'
+      required: false
+    - id: 6
+      name: work_life_balance
+      label: How would you rate your work-life balance while at this company?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: salary
+      label: What was your salary while here?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_departure
+      label: What is the reason for your departure?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Retirement''}'
+      - '{''id'': 2, ''value'': ''Other''}'
+      - '{''id'': 3, ''value'': ''Career advancement''}'
+      - '{''id'': 4, ''value'': ''Burnout''}'
+      - '{''id'': 5, ''value'': ''Health issues''}'
+      - '{''id'': 6, ''value'': ''Family issues''}'
+      - '{''id'': 7, ''value'': ''Lack of challenge''}'
+      - '{''id'': 8, ''value'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments or suggestions for improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Is there anything we should contact you regarding this form?
+      hint: null
+      type: email
+      options: []
+      required: false

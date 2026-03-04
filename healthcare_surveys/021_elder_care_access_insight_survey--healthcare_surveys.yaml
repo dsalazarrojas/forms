@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elder Care Access Insight Survey
+    pages:
+    - id: 1
+      name: organization
+      label: what_is_your_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: what_is_your_role_in_the_elder_care_sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service
+      label: what_elder_care_services_do_you_provide
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: barrier
+      label: what_are_your_major_barriers_to_providing_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: what_is_your_level_of_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: region
+      label: what_regions_do_you_provide_services_to
+      hint: null
+      type: select_one
+      options:
+      - Region 1
+      - Region 2
+      - Region 3
+      required: false
+    - id: 7
+      name: feedback
+      label: any_other_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false

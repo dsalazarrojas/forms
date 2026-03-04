@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Equity Grant Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name of organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Nonprofit 501(c)(3)
+      - Community Organization
+      - Healthcare Provider
+      - Educational Institution
+      - Government Agency
+      - Tribal Organization
+      - Other
+      required: true
+    - id: 3
+      name: ein_number
+      label: EIN Number
+      hint: Tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_address
+      label: Organization Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_first_name
+      label: Contact First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Contact Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_title
+      label: Project Title
+      hint: Name of your project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_summary
+      label: Project Summary
+      hint: Brief description of project
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: health_equity_focus
+      label: Health Equity Focus Area
+      hint: Primary focus of project
+      type: select_one
+      options:
+      - Access to Healthcare
+      - Chronic Disease Prevention
+      - Maternal and Child Health
+      - Mental Health
+      - Nutrition and Food Security
+      - Environmental Health
+      - Health Education
+      - Other
+      required: true
+    - id: 14
+      name: target_population
+      label: Target Population
+      hint: Who will benefit?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: population_served
+      label: Number of People to Serve
+      hint: Estimated reach
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: project_duration
+      label: Project Duration
+      hint: How long will project run?
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      required: true
+    - id: 17
+      name: grant_amount_requested
+      label: Grant Amount Requested
+      hint: Total funding needed
+      type: select_one
+      options:
+      - $10,000-$25,000
+      - $25,001-$50,000
+      - $50,001-$100,000
+      - $100,001-$250,000
+      - Over $250,000
+      required: true
+    - id: 18
+      name: project_goals
+      label: Project Goals
+      hint: What do you aim to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_objectives
+      label: Measurable Objectives
+      hint: Specific, measurable outcomes
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: implementation_plan
+      label: Implementation Plan
+      hint: How will you execute the project?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: evaluation_plan
+      label: Evaluation Plan
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: organization_capacity
+      label: Organizational Capacity
+      hint: Why is your org qualified?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: community_partners
+      label: Community Partners
+      hint: List any partners
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sustainability_plan
+      label: Sustainability Plan
+      hint: How will project continue after funding?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

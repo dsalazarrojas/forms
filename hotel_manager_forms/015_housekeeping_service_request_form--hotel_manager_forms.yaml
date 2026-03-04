@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Service Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_description
+      label: Room Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning
+      - Disinfecting
+      - Linen
+      - Maintenance
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_status
+      label: Assigned Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - Hotel Manager
+      - Front Desk
+      - Housekeeping Team
+      required: false
+    - id: 13
+      name: completion_time
+      label: Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false

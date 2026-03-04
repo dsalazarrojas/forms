@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Care And Treatment Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Address
+      hint: Patient mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to patient
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_care_provider
+      label: Primary Care Provider
+      hint: Name of primary physician
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member ID number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: chief_complaint
+      label: Chief Complaint or Reason for Visit
+      hint: Main reason for seeking care
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_history
+      label: Relevant Medical History
+      hint: List significant medical conditions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: List all medications you take
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: List all known allergies
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: proposed_treatment
+      label: Proposed Treatment or Procedure
+      hint: Description of recommended care
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: treatment_provider
+      label: Treating Provider Name
+      hint: Name of healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: risks_explained
+      label: Risks and Benefits Explained
+      hint: Have risks and benefits been explained
+      type: select_one
+      options:
+      - Yes - Fully Understood
+      - Yes - Partially Understood
+      - false
+      required: true
+    - id: 21
+      name: alternatives_explained
+      label: Alternative Treatments Explained
+      hint: Have alternatives been discussed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: questions_answered
+      label: Were Your Questions Answered
+      hint: Did you have opportunity to ask questions
+      type: select_one
+      options:
+      - Yes - All Questions Answered
+      - Yes - Some Questions Answered
+      - No - No Questions Asked
+      required: true
+    - id: 23
+      name: consent_decision
+      label: Your Consent Decision
+      hint: Do you consent to treatment
+      type: select_one
+      options:
+      - Yes - I Consent to Care and Treatment
+      - No - I Do Not Consent
+      - I Need More Information
+      required: true
+    - id: 24
+      name: consent_scope
+      label: Scope of Consent
+      hint: What does your consent cover
+      type: select_one
+      options:
+      - All Proposed Treatments
+      - Specific Treatments Only
+      - Emergency Treatment Only
+      - Evaluation Only
+      required: true
+    - id: 25
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Date of Signature
+      hint: Date when signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: provider_signature
+      label: Provider Signature
+      hint: Name of healthcare provider
+      type: text
+      options: []
+      required: true

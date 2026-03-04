@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Energy Efficiency Awareness Survey
+    pages:
+    - id: 1
+      name: hospital_energy_efficiency_survey
+      label: hospital_energy_efficiency_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_usage_question
+      label: energy_usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: energy_consumption_question
+      label: energy_consumption
+      hint: null
+      type: select_one
+      options:
+      - Energy
+      - Water
+      - Electricity
+      - Gas
+      - Steam
+      - Others
+      required: false
+    - id: 4
+      name: building_location
+      label: building_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Maintenance
+      - Operations
+      - Others
+      required: false
+    - id: 6
+      name: staff_size
+      label: staff_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: awareness_level
+      label: awareness_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: awareness_frequency
+      label: awareness_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 10
+      name: awareness_source
+      label: awareness_source
+      hint: null
+      type: select_one
+      options:
+      - Colleagues
+      - Management
+      - Training
+      - Online Resources
+      - Others
+      required: false
+    - id: 11
+      name: awareness_level_awareness
+      label: awareness_level_awareness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: awareness_level_awareness_source
+      label: awareness_level_awareness_source
+      hint: null
+      type: select_one
+      options:
+      - Colleagues
+      - Management
+      - Training
+      - Online Resources
+      - Others
+      required: false
+    - id: 13
+      name: suggestions_received
+      label: suggestions_received
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: energy_efficiency_measures
+      label: energy_efficiency_measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: implementation_status
+      label: implementation_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Not Done
+      required: false
+    - id: 16
+      name: implementation_status_source
+      label: implementation_status_source
+      hint: null
+      type: select_one
+      options:
+      - Colleagues
+      - Management
+      - Training
+      - Online Resources
+      - Others
+      required: false
+    - id: 17
+      name: implementation_progress_percentage
+      label: implementation_progress_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: comments_or_suggestions
+      label: comments_or_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_or_suggestions_source
+      label: comments_or_suggestions_source
+      hint: null
+      type: select_one
+      options:
+      - Colleagues
+      - Management
+      - Training
+      - Online Resources
+      - Others
+      required: false
+    - id: 20
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_source
+      label: follow_up_source
+      hint: null
+      type: select_one
+      options:
+      - Colleagues
+      - Management
+      - Training
+      - Online Resources
+      - Others
+      required: false
+    - id: 23
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Not Done
+      required: false
+    - id: 24
+      name: follow_up_status_source
+      label: follow_up_status_source
+      hint: null
+      type: select_one
+      options:
+      - Colleagues
+      - Management
+      - Training
+      - Online Resources
+      - Others
+      required: false
+    - id: 25
+      name: follow_up_next_steps
+      label: follow_up_next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Luncheon Entrée Selection
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_page
+      label: RSVPs
+      hint: Enter your RSVP information
+      type: select_one
+      options:
+      - '{''RSVP'': True}'
+      - '{''RSVP'': False}'
+      required: false
+    - id: 3
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: entr_e_choice
+      label: Entrée Choice
+      hint: Select your preferred entrée
+      type: select_one
+      options:
+      - Entrée Choice 1
+      - Entrée Choice 2
+      - Entrée Choice 3
+      required: false
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false

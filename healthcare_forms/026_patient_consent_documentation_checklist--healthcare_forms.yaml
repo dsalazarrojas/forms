@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Consent Documentation Checklist
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_medical_history
+      label: patient_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergy_list
+      label: allergy_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_treatment
+      label: consent_to_treatment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: consent_to_treatment_description
+      label: consent_to_treatment_description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_center_policies_and_procedures_agreement_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Mental Health Center Policies And Procedures Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: policies_and_procedures
+      label: Policies And Procedures
+      hint: A Mental Health Center Policies and Procedures Agreement Form is a template
+        that streamlines and ensures proper policy adherence.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: policies_list
+      label: Policies List
+      hint: null
+      type: select_multiple
+      options:
+      - Client Rights and Responsibilities
+      - Client Information and Confidentiality
+      - Code of Conduct
+      required: true
+    - id: 5
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_one
+      options:
+      - Client has read, understands and agrees to the Mental Health Center Policies
+        and Procedures.
+      - Client has read, understands and agrees to the Mental Health Center Policies
+        and Procedures.
+      required: true
+    - id: 6
+      name: center_signature
+      label: Center Signature
+      hint: null
+      type: select_one
+      options:
+      - I, [Center Representative], confirm that I have read, understand and agree
+        to the Mental Health Center Policies and Procedures.
+      - I, [Center Representative], confirm that I have read, understand and agree
+        to the Mental Health Center Policies and Procedures.
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true

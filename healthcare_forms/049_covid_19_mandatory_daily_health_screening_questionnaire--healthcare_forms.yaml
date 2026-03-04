@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Mandatory Daily Health Screening Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: symptoms_yes
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore Throat
+      - Runny nose/congestion
+      - Muscle aches
+      - Headache
+      - Sore Throat
+      - Diarrhea
+      - Nausea
+      - Vomiting
+      - Confusion
+      - Headache
+      - Fatigue
+      - Runny eyes
+      - Coughing up blood
+      - Chest pain
+      - Shortness of breath
+      - Difficulty breathing
+      required: false
+    - id: 7
+      name: travel_history
+      label: Have you traveled outside of the home recently?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: contact_history
+      label: Have you had contact with a person who tested positive for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: symptoms_2
+      label: Do you have any other health issues that you are not experiencing today?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vaccination
+      label: Vaccination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

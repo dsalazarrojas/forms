@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depression Assessment (PHQ 9)
+    pages:
+    - id: 1
+      name: first_page
+      label: depression_assessment_phq_9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_feeling
+      label: has_general_feeling_bad_today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: good_hopeful_tomorrow
+      label: good_hopeful_tomorrow
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a little
+      - somewhat
+      - quite a bit
+      - very
+      required: false
+    - id: 4
+      name: sleep
+      label: have_you_slept
+      hint: null
+      type: select_multiple
+      options:
+      - less than 6 hours
+      - 6-7 hours
+      - 8 hours
+      - 9-10 hours
+      - more than 10 hours
+      required: false
+    - id: 5
+      name: energy
+      label: how_much_energy_do_you_have
+      hint: null
+      type: select_one
+      options:
+      - little or none
+      - some
+      - some more
+      - much
+      - more than
+      required: false
+    - id: 6
+      name: concentration
+      label: how_much_difficulty_do_you_have_with_concentration
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a little
+      - somewhat
+      - quite a bit
+      - very
+      required: false
+    - id: 7
+      name: feel_pretty
+      label: pretty_good_tired
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a little
+      - somewhat
+      - quite a bit
+      - very
+      required: false
+    - id: 8
+      name: enjoy_normal_activities
+      label: how_much_do_you_enjoy_your_normal_activities
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a little
+      - somewhat
+      - quite a bit
+      - very
+      required: false
+    - id: 9
+      name: close_friends
+      label: have_you_feel_close_to_your_friends
+      hint: null
+      type: select_multiple
+      options:
+      - not close
+      - a little close
+      - somewhat close
+      - quite close
+      - very close
+      required: false
+    - id: 10
+      name: blamess
+      label: have_you_blamed_yourself
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a little
+      - somewhat
+      - quite a bit
+      - very
+      required: false
+    - id: 11
+      name: appetite
+      label: has_your_appetite_been
+      hint: null
+      type: select_one
+      options:
+      - decreased
+      - increased
+      - no change
+      required: false
+    - id: 12
+      name: pleasure
+      label: how_much_pleasure_have_you_felt
+      hint: null
+      type: select_one
+      options:
+      - no pleasure
+      - a little pleasure
+      - quite a bit
+      - very little pleasure
+      - a good deal of pleasure
+      required: false
+    - id: 13
+      name: guilt
+      label: have_you_felt_guilty
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 14
+      name: worth_feeling
+      label: feel_worthwhile
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a little
+      - somewhat
+      - quite a bit
+      - very
+      required: false
+    - id: 15
+      name: pain
+      label: have_you_felt_pain
+      hint: null
+      type: select_one
+      options:
+      - no pain
+      - 'yes'
+      required: false
+    - id: 16
+      name: self_care
+      label: take_care_of_yourself
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 17
+      name: social_contacts
+      label: have_you_tended_to_see_your_friends
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 18
+      name: work
+      label: have_you_felt_well_at_work
+      hint: null
+      type: select_one
+      options:
+      - not at all
+      - a little
+      - somewhat
+      - quite a bit
+      - very
+      required: false
+    - id: 19
+      name: sad
+      label: have_you_felt_sad
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 20
+      name: loss_interest_in_sex
+      label: loss_interest_in_sex
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 21
+      name: loss_interest_in_activities_men
+      label: loss_interest_in_activities
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 22
+      name: loss_interest_in_work
+      label: loss_interest_in_work
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 23
+      name: last_year
+      label: have_you_taken_last_year
+      hint: null
+      type: select_multiple
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 24
+      name: months_last_year
+      label: how_many_months_last_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: months_last_year_frequency
+      label: how_many_months_last_year
+      hint: null
+      type: number
+      options: []
+      required: false

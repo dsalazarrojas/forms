@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: M22 IPL Consent Form Sample
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Diabetes''}'
+      - '{''value'': ''Hypertension''}'
+      - '{''value'': ''Hypothyroidism''}'
+      required: false
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false

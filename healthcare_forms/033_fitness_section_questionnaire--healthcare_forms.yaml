@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Section Questionnaire
+    pages:
+    - id: 1
+      name: health_lifestyle
+      label: Health Lifestyle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_lifestyle
+      label: Do you smoke
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: diet_type
+      label: Do you follow a particular diet
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 4
+      name: sleep_duration
+      label: How many hours do you usually sleep per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: How often do you exercise
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 6
+      name: exercise_type
+      label: What type of exercise do you usually do
+      hint: null
+      type: select_one
+      options:
+      - Gym
+      - Outdoor
+      - Home
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Do you have any medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undisclosed
+      required: false
+    - id: 8
+      name: medications
+      label: Do you take any medications
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Don't Know
+      required: false
+    - id: 9
+      name: doctor_visits
+      label: How many doctor visits do you have per month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medical_records
+      label: Do you have any medical records
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: medical_records_type
+      label: What type of medical records do you have
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false

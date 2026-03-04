@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: health_information_sharing_preferences_survey
+    pages:
+    - id: 1
+      name: health_information_sharing_preferences
+      label: Health Information Sharing Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_sharing_purpose
+      label: Data Sharing Purpose
+      hint: null
+      type: select_one
+      options:
+      - General Health Information
+      - Healthcare and Insurance
+      - Wellness and Prevention
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: data_sharing_frequency
+      label: Data Sharing Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Several times
+      - Always
+      - Never
+      required: false
+    - id: 4
+      name: who_to_share_with
+      label: With Whom
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare Providers
+      - Insurance Companies
+      - Family and Friends
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: health_data
+      label: Health Data
+      hint: null
+      type: select_multiple
+      options:
+      - Personal Data (e.g., medical history)
+      - Family Data (e.g., family medical history)
+      - Medical Data (e.g., lab results, medications)
+      - Treatment Data (e.g., treatment plans, diagnoses)
+      required: false
+    - id: 6
+      name: sharing_preferences
+      label: Sharing Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Share with healthcare providers
+      - Share with insurance companies
+      - Share with family and friends
+      - Keep private
+      required: false
+    - id: 7
+      name: data_sharing_concerns
+      label: Data Sharing Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_purpose
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_purpose_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

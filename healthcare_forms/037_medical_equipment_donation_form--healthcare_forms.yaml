@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Equipment Donation Form
+    pages:
+    - id: 1
+      name: donation_item
+      label: Donation Item
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: true
+    - id: 4
+      name: serial_number
+      label: Serial Number
+      hint: Enter the serial number of the donated item.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: model_year
+      label: Model Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact
+      label: Contact
+      hint: Enter the contact information for the donor.
+      type: text
+      options: []
+      required: true

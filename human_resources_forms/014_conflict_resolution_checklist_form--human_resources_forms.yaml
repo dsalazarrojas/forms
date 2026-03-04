@@ -1,0 +1,278 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Resolution Checklist Form
+    pages:
+      - id: 1
+        name: form_date
+        label: Form Date
+        hint: Date of this checklist form
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: facilitator_name
+        label: Facilitator Name
+        hint: Name of person facilitating resolution
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: facilitator_role
+        label: Facilitator Role
+        hint: Role of facilitator
+        type: select_one
+        options:
+          - HR Representative
+          - Manager
+          - External Mediator
+          - Team Lead
+          - Other
+        required: true
+      - id: 4
+        name: employee_one_name
+        label: Employee One Name
+        hint: Name of first party
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: employee_one_department
+        label: Employee One Department
+        hint: Department of first party
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: employee_two_name
+        label: Employee Two Name
+        hint: Name of second party
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: employee_two_department
+        label: Employee Two Department
+        hint: Department of second party
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: conflict_summary
+        label: Summary of Conflict
+        hint: Brief description of the issue
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: conflict_duration
+        label: Duration of Conflict
+        hint: How long has this been ongoing
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1 to 4 weeks
+          - 1 to 3 months
+          - 3 to 6 months
+          - More than 6 months
+        required: true
+      - id: 10
+        name: previous_attempts
+        label: Previous Resolution Attempts
+        hint: Have there been prior attempts to resolve
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: previous_attempts_details
+        label: Previous Attempts Details
+        hint: Describe what was tried before
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: ground_rules_established
+        label: Ground Rules Established
+        hint: Have communication ground rules been set
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 13
+        name: ground_rules_list
+        label: Ground Rules
+        hint: List the agreed ground rules
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: each_party_heard
+        label: Each Party Has Been Heard
+        hint: Has each person shared their perspective
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 15
+        name: perspectives_documented
+        label: Perspectives Documented
+        hint: Are all viewpoints recorded
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: common_ground_identified
+        label: Common Ground Identified
+        hint: Have areas of agreement been found
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partially
+        required: true
+      - id: 17
+        name: common_ground_details
+        label: Common Ground Details
+        hint: Describe areas of agreement
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: underlying_issues
+        label: Underlying Issues Identified
+        hint: Have root causes been explored
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In Progress
+        required: true
+      - id: 19
+        name: underlying_issues_list
+        label: Underlying Issues
+        hint: List the root causes identified
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: solutions_brainstormed
+        label: Solutions Brainstormed
+        hint: Have potential solutions been discussed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 21
+        name: solutions_list
+        label: Proposed Solutions
+        hint: List potential solutions discussed
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: action_plan_created
+        label: Action Plan Created
+        hint: Has a resolution action plan been developed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 23
+        name: action_plan_details
+        label: Action Plan Details
+        hint: Describe the agreed action steps
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: responsibilities_assigned
+        label: Responsibilities Assigned
+        hint: Are tasks assigned to specific people
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 25
+        name: timeline_established
+        label: Timeline Established
+        hint: Is there a timeline for implementation
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 26
+        name: implementation_timeline
+        label: Implementation Timeline
+        hint: Describe the timeline
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: follow_up_scheduled
+        label: Follow-Up Meeting Scheduled
+        hint: Is a follow-up session planned
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 28
+        name: follow_up_date
+        label: Follow-Up Date
+        hint: Date of follow-up meeting
+        type: date
+        options: []
+        required: false
+      - id: 29
+        name: agreement_reached
+        label: Agreement Reached
+        hint: Have parties reached mutual agreement
+        type: select_one
+        options:
+          - Yes - Full Agreement
+          - Yes - Partial Agreement
+          - No - Continue Mediation
+          - No - Escalate
+        required: true
+      - id: 30
+        name: employee_one_signature
+        label: Employee One Signature
+        hint: Name of first employee
+        type: text
+        options: []
+        required: true
+      - id: 31
+        name: employee_two_signature
+        label: Employee Two Signature
+        hint: Name of second employee
+        type: text
+        options: []
+        required: true
+      - id: 32
+        name: facilitator_signature
+        label: Facilitator Signature
+        hint: Name of facilitator
+        type: text
+        options: []
+        required: true

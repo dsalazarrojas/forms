@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicines Fridge Check Form
+    pages:
+    - id: 1
+      name: medicine_name
+      label: Medicine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: temperature_reading_1
+      label: Morning Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: temperature_reading_2
+      label: Afternoon Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: temperature_reading_3
+      label: Evening Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Average
+      - High
+      required: false
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Checked the temperature
+      - Adjusted the temperature
+      - Called maintenance
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false

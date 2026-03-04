@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antibody And Antigen Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 18-29
+      - 30-39
+      - 40-49
+      - 50-59
+      - 60+
+      - Prefer not to answer
+      required: true
+    - id: 4
+      name: previous_diagnosis
+      label: Have you been diagnosed with any infectious disease?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 5
+      name: diagnosis_details
+      label: If yes, please specify which disease
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vaccination_status
+      label: Vaccination status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Unsure
+      - Prefer not to answer
+      required: true
+    - id: 7
+      name: recent_symptoms
+      label: Have you experienced any of these symptoms in the past 30 days?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Sore throat
+      - Fatigue
+      - Loss of appetite
+      - Rash
+      - None of the above
+      required: true
+    - id: 8
+      name: exposure_history
+      label: Potential exposure to infectious disease
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Healthcare facility
+      - Travel
+      - Close contact with infected person
+      - Food or waterborne exposure
+      - Occupational exposure
+      - No known exposure
+      required: true
+    - id: 9
+      name: antibody_test_history
+      label: Have you had antibody testing done?
+      hint: null
+      type: select_one
+      options:
+      - Yes, positive result
+      - Yes, negative result
+      - Yes, inconclusive
+      - false
+      - Unsure
+      required: true
+    - id: 10
+      name: antigen_test_history
+      label: Have you had antigen testing done?
+      hint: null
+      type: select_one
+      options:
+      - Yes, positive result
+      - Yes, negative result
+      - Yes, inconclusive
+      - false
+      - Unsure
+      required: true
+    - id: 11
+      name: test_dates
+      label: Date of most recent test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medication_use
+      label: Are you taking any medications currently?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 13
+      name: medication_details
+      label: If yes, please list current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: chronic_conditions
+      label: Do you have any chronic health conditions?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart disease
+      - Respiratory disease
+      - Immunocompromised
+      - Other
+      - None
+      required: true
+    - id: 15
+      name: healthcare_worker
+      label: Are you a healthcare worker?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Retired healthcare worker
+      required: true
+    - id: 16
+      name: occupational_exposure_risk
+      label: If healthcare worker, exposure risk level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - N/A
+      required: false
+    - id: 17
+      name: household_members
+      label: Number of household members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: household_infection
+      label: Has anyone in your household had confirmed infection?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: testing_willingness
+      label: Would you be willing to participate in follow-up testing?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, possibly
+      - Maybe
+      - false
+      - Prefer not to answer
+      required: false
+    - id: 20
+      name: additional_information
+      label: Any additional information about your health status or concerns?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: privacy_consent
+      label: I consent to use of this data for research purposes
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

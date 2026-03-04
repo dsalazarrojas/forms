@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breastfeeding Consultation Form
+    pages:
+    - id: 1
+      name: mother_name
+      label: Mother's Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Mother's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: consultation_date
+      label: Consultation Date
+      hint: Date of this consultation
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: infant_name
+      label: Infant's Name
+      hint: Name of the baby
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: infant_age
+      label: Infant Age
+      hint: Age of the baby
+      type: select_one
+      options:
+      - Newborn - 0 to 1 week
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - Over 12 months
+      required: true
+    - id: 8
+      name: birth_weight
+      label: Infant Birth Weight
+      hint: Weight in pounds or kilograms
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: current_weight
+      label: Current Infant Weight
+      hint: Current weight
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: breastfeeding_status
+      label: Current Breastfeeding Status
+      hint: How are you currently feeding
+      type: select_one
+      options:
+      - Exclusively breastfeeding
+      - Breastfeeding with supplements
+      - Exclusively formula feeding
+      - Previously breastfed
+      - Pumping exclusively
+      required: true
+    - id: 11
+      name: breastfeeding_duration
+      label: How long have you been breastfeeding
+      hint: Duration of breastfeeding
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 3 months
+      - 3 to 6 months
+      - Over 6 months
+      required: false
+    - id: 12
+      name: chief_concern
+      label: Primary Concern or Reason for Consultation
+      hint: Main issue you want to address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: feeding_frequency
+      label: Feeding Frequency
+      hint: How often is baby feeding
+      type: select_one
+      options:
+      - Every 1-2 hours
+      - Every 2-3 hours
+      - Every 3-4 hours
+      - Every 4-5 hours
+      - Irregular
+      required: false
+    - id: 14
+      name: feeding_duration
+      label: Duration Per Feeding
+      hint: How long does baby feed
+      type: select_one
+      options:
+      - 5-10 minutes
+      - 10-15 minutes
+      - 15-20 minutes
+      - 20-30 minutes
+      - Variable duration
+      required: false
+    - id: 15
+      name: breast_symptoms
+      label: Breast Symptoms or Issues
+      hint: Select any issues you are experiencing
+      type: select_multiple
+      options:
+      - Pain or soreness
+      - Engorgement
+      - Plugged ducts
+      - Nipple damage
+      - Inverted or flat nipples
+      - Low milk supply concerns
+      - Oversupply
+      - Mastitis
+      - No issues
+      required: false
+    - id: 16
+      name: infant_feeding_issues
+      label: Infant Feeding Issues
+      hint: Any feeding problems with baby
+      type: select_multiple
+      options:
+      - Latch problems
+      - Tongue tie
+      - Difficulty swallowing
+      - Reflux or spitting up
+      - Fussiness during feeding
+      - Sleepiness while feeding
+      - Weight concerns
+      - No issues
+      required: false
+    - id: 17
+      name: milk_production
+      label: Milk Production Assessment
+      hint: How would you assess milk supply
+      type: select_one
+      options:
+      - Very low supply
+      - Low supply
+      - Adequate supply
+      - Oversupply
+      - Unsure
+      required: false
+    - id: 18
+      name: pumping_experience
+      label: Experience with Pumping
+      hint: Have you used a pump
+      type: select_one
+      options:
+      - No pumping
+      - Occasional pumping
+      - Regular pumping
+      - Exclusively pumping
+      required: false
+    - id: 19
+      name: return_to_work
+      label: Returning to Work or School
+      hint: When will you return
+      type: select_one
+      options:
+      - Not returning soon
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - Over 6 months
+      required: false
+    - id: 20
+      name: support_system
+      label: Support System
+      hint: Who is supporting you
+      type: select_multiple
+      options:
+      - Spouse or partner
+      - Family members
+      - Friends
+      - Lactation consultant
+      - Breastfeeding group
+      - No support
+      required: false
+    - id: 21
+      name: goals
+      label: Your Breastfeeding Goals
+      hint: What would you like to achieve
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maltese English Reservation & Booking
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: checkin_date
+      label: Checkin date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: checkout_date
+      label: Checkout date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: Room type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single'', ''value'': ''single''}'
+      - '{''label'': ''Double'', ''value'': ''double''}'
+      - '{''label'': ''Suite'', ''value'': ''suite''}'
+      required: false
+    - id: 8
+      name: number_of_guests
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: arrival_time
+      label: Arrival time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Party'', ''value'': ''party''}'
+      - '{''label'': ''Event'', ''value'': ''event''}'
+      - '{''label'': ''Meeting'', ''value'': ''meeting''}'
+      required: false
+    - id: 11
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

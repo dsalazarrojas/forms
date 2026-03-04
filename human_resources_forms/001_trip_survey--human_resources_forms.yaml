@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trip Survey
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Travel Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_details
+      label: Travel Destination
+      hint: Destination location
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_duration
+      label: Trip Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: flight_details
+      label: Flight Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mode_of_transportation
+      label: Transport
+      hint: null
+      type: select_one
+      options:
+      - Train
+      - Car
+      - Bus
+      - Plane
+      required: true
+    - id: 7
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Personal
+      - Family
+      required: false
+    - id: 8
+      name: travel_budget
+      label: Travel Budget
+      hint: Budget information
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_currency
+      label: Travel Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      required: true
+    - id: 10
+      name: travel_currency_other
+      label: Other Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_currency_other_description
+      label: Other Currency Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

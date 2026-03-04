@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily-health-questionnaire-fill-up
+    pages:
+    - id: 1
+      name: daily_health_questionnaire_fill_up_page_1
+      label: Daily Health Questionnaire Fill Up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: daily_health_questionnaire_fill_up_page_2
+      label: Health Questionnaire Page 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: daily_health_questionnaire_fill_up_page_3
+      label: Health Questionnaire Page 3
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Normal''}'
+      - '{''option2'': ''Fever''}'
+      - '{''option3'': ''Cough''}'
+      required: false
+    - id: 4
+      name: daily_health_questionnaire_fill_up_page_4
+      label: Health Questionnaire Page 4
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Fever
+      - Cough
+      required: false
+    - id: 5
+      name: daily_health_questionnaire_fill_up_page_5
+      label: Health Questionnaire Page 5
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: daily_health_questionnaire_fill_up_page_6
+      label: Health Questionnaire Page 6
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: daily_health_questionnaire_fill_up_page_7
+      label: Health Status 7
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: daily_health_questionnaire_fill_up_page_8
+      label: Health Questionnaire Page 8
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: daily_health_questionnaire_fill_up_page_9
+      label: Health Questionnaire Page 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: daily_health_questionnaire_fill_up_page_10
+      label: Health Questionnaire Page 10
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: daily_health_questionnaire_fill_up_page_11
+      label: Health Questionnaire Page 11
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: daily_health_questionnaire_fill_up_page_12
+      label: Health Questionnaire Page 12
+      hint: null
+      type: text
+      options: []
+      required: false

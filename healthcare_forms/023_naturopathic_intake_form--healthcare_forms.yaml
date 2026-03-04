@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Naturopathic Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Arthritis
+      - Back Pain
+      - Cancer
+      - Chronic Fatigue Syndrome
+      - Chronic Pain
+      - Diabetes
+      - Fibromyalgia
+      - Migraine
+      - Multiple Sclerosis
+      - Neurological Disorder
+      - Rheumatoid Arthritis
+      - Tachycardia
+      - Thyroid Disorder
+      required: true
+    - id: 4
+      name: medical_history_date
+      label: Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_info_phone
+      label: Contact Info Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_time
+      label: Medical History Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_one
+      options:
+      - Naturopathic Doctor
+      - Homeopath
+      - Massage Therapist
+      - Chiropractic Doctor
+      - Acupuncture Specialist
+      - Physical Therapist
+      - Nutritionist
+      required: false
+    - id: 13
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physician_license_number
+      label: Physician License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: physician_license_expiration
+      label: Physician License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: doctor_license_number
+      label: Doctor License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: doctor_license_expiration
+      label: Doctor License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: medical_record_time
+      label: Medical Record Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: medical_license_status
+      label: Medical License Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Acknowledgement Form For Bookings And Short Term Rentals
+    pages:
+    - id: 1
+      name: guest_acknowledgement_form_for_bookings_and_short_term_rentals
+      label: Guest Acknowledgement Form For Bookings And Short Term Rentals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_dispute
+      label: Reason For Dispute
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cc_number
+      label: CC Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cc_month
+      label: CC Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: cc_year
+      label: CC Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: exp_month
+      label: Exp. Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: exp_year
+      label: Exp. Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: bank_acct
+      label: Bank Acct
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: bank_routing_num
+      label: Bank Routing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: bank_aba
+      label: Bank ABA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: check_number
+      label: Check Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: dispute_date
+      label: Dispute Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: dispute_description
+      label: Dispute Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: dispute_amount
+      label: Dispute Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: cc_type
+      label: CC Type
+      hint: null
+      type: select_one
+      options:
+      - visa
+      - mastercard
+      - amex
+      - discovery
+      required: true
+    - id: 24
+      name: cc_provider
+      label: CC Provider
+      hint: null
+      type: select_one
+      options:
+      - visa
+      - mastercard
+      - amex
+      - bank_of_america
+      - chase
+      - capital_one
+      - bank_of_america
+      required: true
+    - id: 25
+      name: dispute_status
+      label: Dispute Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Paid
+      - Dispute
+      required: true

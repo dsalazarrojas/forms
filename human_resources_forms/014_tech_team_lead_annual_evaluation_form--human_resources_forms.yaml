@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Team Lead Annual Evaluation Form
+    pages:
+    - id: 1
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: feedback_from_peers
+      label: Feedback from Peers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback_from_manager
+      label: Feedback from Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: goals_met
+      label: Goals Met
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: areas
+      label: Areas of Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: evaluation_form_completion_time
+      label: Evaluation Form Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_on_next_steps
+      label: Feedback on Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

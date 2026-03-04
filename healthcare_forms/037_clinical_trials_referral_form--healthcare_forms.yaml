@@ -1,0 +1,308 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Trials Referral Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinical Trials Referral Form
+      hint: Use this form to refer patients to appropriate clinical trials
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: referring_provider_name
+      label: Referring Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referring_provider_credentials
+      label: Provider Credentials
+      hint: MD DO NP etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referring_organization
+      label: Referring Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_id
+      label: Patient ID or MRN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: Street city state zip
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_email
+      label: Patient Email
+      hint: If available
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: patient_insurance
+      label: Patient Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: diagnosis_code
+      label: Diagnosis Code ICD-10
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: diagnosis_date
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: disease_stage
+      label: Disease Stage or Severity
+      hint: TNM classification etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: current_treatment
+      label: Current Treatment Regimen
+      hint: Medications dosages schedules
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: treatment_history
+      label: Previous Treatments Tried
+      hint: Include responses and outcomes
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: relevant_lab_results
+      label: Relevant Laboratory Results
+      hint: Recent values and dates
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: imaging_results
+      label: Imaging Results
+      hint: Recent scans and findings
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: biomarker_status
+      label: Biomarker or Genetic Testing Status
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comorbidities
+      label: Significant Comorbidities
+      hint: Other medical conditions
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: current_medications
+      label: Current Medications
+      hint: All medications with dosages
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: allergies
+      label: Allergies
+      hint: Medication food other
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: performance_status
+      label: Performance Status
+      hint: ECOG or Karnofsky
+      type: select_one
+      options:
+      - ECOG 0 - Fully Active
+      - ECOG 1 - Restricted Strenuous Activity
+      - ECOG 2 - Ambulatory Capable of Self-Care
+      - ECOG 3 - Limited Self-Care
+      - ECOG 4 - Completely Disabled
+      - Karnofsky 90-100
+      - Karnofsky 70-80
+      - Karnofsky 50-60
+      - Karnofsky Below 50
+      - Not Assessed
+      required: false
+    - id: 29
+      name: trials_of_interest
+      label: Specific Trials of Interest
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: trial_criteria_met
+      label: Known Eligibility Criteria Met
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: urgency
+      label: Referral Urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - Stat
+      required: true
+    - id: 32
+      name: patient_interest_level
+      label: Patient Interest in Clinical Trials
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Interested
+      - Neutral
+      - Hesitant
+      - Not Interested
+      required: true
+    - id: 33
+      name: patient_questions
+      label: Patient Questions or Concerns
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: language_preference
+      label: Patient Language Preference
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Other
+      required: false
+    - id: 35
+      name: interpreter_needed
+      label: Is an Interpreter Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 36
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: records_attached
+      label: Are Medical Records Attached
+      hint: null
+      type: select_one
+      options:
+      - Yes All
+      - Partially
+      - Will Follow
+      - false
+      required: true
+    - id: 38
+      name: follow_up_preference
+      label: Preferred Follow-Up Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Fax
+      - Secure Message
+      - No Preference
+      required: false

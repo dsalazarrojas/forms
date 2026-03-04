@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Army Interview Questionnaire
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: citizenship_status
+      label: Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - U.S. citizen
+      - Permanent resident
+      - Other
+      required: true
+    - id: 8
+      name: section_position
+      label: -- Position Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: position_interested
+      label: Military Position or Career Field Interested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_interest
+      label: Why are you interested in this position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: army_knowledge
+      label: Knowledge about the Army and this position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_qualifications
+      label: -- Education and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: highest_education
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Graduate degree
+      required: true
+    - id: 14
+      name: relevant_skills
+      label: Relevant Skills or Qualifications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_military
+      label: Previous military experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: technical_skills
+      label: Technical or specialized skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_fitness
+      label: -- Physical and Mental Fitness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: health_status
+      label: Current Health Status
+      hint: Any medical conditions that may affect service
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physical_fitness
+      label: Current Physical Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: willingness_to_relocate
+      label: Willingness to relocate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - With conditions
+      required: true
+    - id: 21
+      name: availability_start
+      label: Availability to Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: section_background
+      label: -- Background Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: criminal_history
+      label: Any criminal convictions or legal issues
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 24
+      name: motivation
+      label: What motivates you to serve in the Army
+      hint: null
+      type: text
+      options: []
+      required: true

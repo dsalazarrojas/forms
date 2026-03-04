@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Discovery Intake
+    pages:
+    - id: 1
+      name: life_domains
+      label: Life Domains
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_goals
+      label: Treatment Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 3
+      name: coaching_goals
+      label: Coaching Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 4
+      - Goal 5
+      required: true
+    - id: 5
+      name: self_selected_goals
+      label: Self-Selected Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: domain_expertise
+      label: Domain Expertise
+      hint: null
+      type: select_one
+      options:
+      - Sara Zelda
+      - Other
+      required: false
+    - id: 8
+      name: coaching_approach
+      label: Coaching Approach
+      hint: null
+      type: text
+      options: []
+      required: false

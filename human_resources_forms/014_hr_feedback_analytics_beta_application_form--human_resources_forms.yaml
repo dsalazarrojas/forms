@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question
+      label: question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: motivation
+      label: motivation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: use_cases
+      label: Use Cases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: qualification
+      label: Qualification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_0'', ''label'': ''option_0''}'
+      - '{''value'': ''option_1'', ''label'': ''option_1''}'
+      - '{''value'': ''option_2'', ''label'': ''option_2''}'
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: use_cases_other
+      label: Use Cases Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: motivation_other
+      label: Motivation Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: qualification_other
+      label: Qualification Other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_0'', ''label'': ''option_0''}'
+      - '{''value'': ''option_1'', ''label'': ''option_1''}'
+      - '{''value'': ''option_2'', ''label'': ''option_2''}'
+      required: true

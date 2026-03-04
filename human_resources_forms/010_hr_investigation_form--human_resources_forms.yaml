@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HR Investigation Form
+    pages:
+    - id: 1
+      name: investigation_form_1
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: investigator_name
+      label: investigator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investigation_start_date
+      label: investigation_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: investigation_end_date
+      label: investigation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: summary_of_event
+      label: summary_of_event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_statement
+      label: employee_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_statements
+      label: witness_statements
+      hint: null
+      type: select_multiple
+      options:
+      - witness1
+      - witness2
+      - witness3
+      - witness4
+      required: false
+    - id: 10
+      name: investigation_status
+      label: investigation_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - complete
+      - onhold
+      required: false
+    - id: 11
+      name: investigation_notes
+      label: investigation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: outcome
+      label: outcome
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - unresolved
+      - unknown
+      required: false
+    - id: 14
+      name: employee_sincerely
+      label: employee_sincerely
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: investigator_sincerely
+      label: investigator_sincerely
+      hint: null
+      type: text
+      options: []
+      required: false

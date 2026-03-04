@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Racism Employee Training Registration
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your employee identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Work Email Address
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - Sales
+      - Marketing
+      - IT
+      - Customer Service
+      - Legal
+      - Executive
+      - Other
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Work Location
+      hint: Office or remote
+      type: select_one
+      options:
+      - Headquarters
+      - Regional office
+      - Remote
+      - Hybrid
+      - Field location
+      required: true
+    - id: 9
+      name: employment_type
+      label: Employment Type
+      hint: Your employment status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Intern
+      required: true
+    - id: 10
+      name: hire_date
+      label: Hire Date
+      hint: When did you start
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: previous_training
+      label: Have you completed DEI training before
+      hint: Prior diversity, equity, and inclusion training
+      type: select_one
+      options:
+      - Yes, within the past year
+      - Yes, 1 to 2 years ago
+      - Yes, more than 2 years ago
+      - No, never
+      required: true
+    - id: 12
+      name: training_motivation
+      label: What motivates you to attend
+      hint: Your reasons for registering
+      type: select_multiple
+      options:
+      - Required by employer
+      - Personal growth
+      - Better workplace culture
+      - Leadership development
+      - Support DEI initiatives
+      - Learn best practices
+      - Address specific concerns
+      required: true
+    - id: 13
+      name: session_preference
+      label: Preferred Session Format
+      hint: How would you like to attend
+      type: select_one
+      options:
+      - In-person workshop
+      - Virtual live session
+      - Self-paced online
+      - Hybrid option
+      - No preference
+      required: true
+    - id: 14
+      name: preferred_date
+      label: Preferred Training Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (8 AM to 12 PM)
+      - Afternoon (12 PM to 5 PM)
+      - Evening (5 PM to 8 PM)
+      - Flexible
+      required: true
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Any accommodations required
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair access
+      - Sign language interpreter
+      - Closed captioning
+      - Large print materials
+      - Other
+      required: true
+    - id: 17
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Please specify if other
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For in-person sessions with catering
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Nut allergy
+      - Other
+      required: false
+    - id: 19
+      name: discussion_comfort
+      label: Comfort Level with Group Discussions
+      hint: How comfortable are you sharing
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Somewhat comfortable
+      - Nervous but willing
+      - Prefer not to share
+      required: true
+    - id: 20
+      name: specific_topics
+      label: Specific Topics of Interest
+      hint: What would you like to focus on
+      type: select_multiple
+      options:
+      - Unconscious bias
+      - Microaggressions
+      - Inclusive language
+      - Allyship
+      - Systemic racism
+      - Cultural competency
+      - Conflict resolution
+      - Bystander intervention
+      required: true
+    - id: 21
+      name: concerns_or_questions
+      label: Concerns or Questions Before Training
+      hint: Anything you would like addressed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_approval
+      label: Manager Approval Status
+      hint: Has your manager approved
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Self-approved
+      required: true
+    - id: 23
+      name: time_commitment_acknowledged
+      label: Time Commitment Acknowledged
+      hint: Do you understand the time required
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 24
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Discussions remain confidential
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

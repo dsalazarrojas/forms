@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mucosal Knowledge Assessment Survey
+    pages:
+    - id: 1
+      name: education_institutions
+      label: Educators Hospitals And Research Teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mucosal_concepts
+      label: Mucosal Immunology Concepts
+      hint: null
+      type: select_multiple
+      options:
+      - Immunology
+      - Inflammation
+      - Pathogen
+      - Immune Response
+      required: false
+    - id: 3
+      name: assessment_feedback
+      label: Collect Feedback For Training Or Studies
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: education_level
+      label: What Is Your Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      required: false
+    - id: 5
+      name: experience_hours
+      label: How Many Hours Of Immunology Training Have You Had?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page1
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: page2
+      label: Page 2
+      hint: null
+      type: note
+      options: []
+      required: false

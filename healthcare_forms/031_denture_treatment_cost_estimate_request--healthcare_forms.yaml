@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Denture Treatment Cost Estimate Request
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_needs
+      label: Treatment Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Denture Repair
+      - Partial Denture
+      - Full Denture
+      - Dental Implants
+      required: false
+    - id: 3
+      name: images
+      label: Images
+      hint: Upload up to 10 images of the patient's face and upper and lower jaws
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: estimated_costs
+      label: Estimated Costs
+      hint: null
+      type: number
+      options: []
+      required: false

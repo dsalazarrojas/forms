@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Facility Compliance Form
+    pages:
+    - id: 1
+      name: medical_facility_compliance_form_first_page
+      label: medical facility compliance form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_facility_compliance_form_second_page
+      label: risk assessments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_facility_compliance_form_third_page
+      label: audit reports
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_facility_compliance_form_fourth_page
+      label: medical certifications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_facility_compliance_form_fifth_page
+      label: compliance procedures
+      hint: null
+      type: text
+      options: []
+      required: false

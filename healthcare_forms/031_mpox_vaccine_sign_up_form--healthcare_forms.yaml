@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Sign Up Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccination_preferences
+      label: Vaccination Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_condition_other
+      label: Medical Condition (other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vaccination_sites
+      label: Vaccination Sites
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vaccine_schedule
+      label: Vaccine Schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vaccine_dose
+      label: Vaccine Dose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

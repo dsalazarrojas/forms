@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Complaint Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_description
+      label: Describe Your Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact_method
+      label: How Do You Prefer to Be Contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 5
+      name: hospital_location
+      label: Location
+      hint: Where did this occur?
+      type: select_one
+      options:
+      - Outpatient Department
+      - Inpatient Department
+      - Emergency Department
+      - Pharmacy
+      required: false
+    - id: 6
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: complaint_resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - Solved
+      - Unresolved
+      - Escalated to Manager
+      required: false
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hospital_signature
+      label: Hospital Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false

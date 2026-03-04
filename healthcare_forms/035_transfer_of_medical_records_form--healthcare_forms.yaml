@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transfer of Medical Records Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_records_request_date
+      label: Medical Records Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_records
+      label: Medical Records
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Emergency Medical Condition''}'
+      - '{''id'': 2, ''label'': ''Non-Emergency''}'
+      required: true
+    - id: 6
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_contact_information
+      label: Patient Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_1_name
+      label: Healthcare Provider 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_1_contact_information
+      label: Healthcare Provider 1 Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider_2_name
+      label: Healthcare Provider 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: healthcare_provider_2_contact_information
+      label: Healthcare Provider 2 Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_record_transfer_date
+      label: Medical Record Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_return_date
+      label: Medical Record Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_transfer_status
+      label: Medical Record Transfer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: transfer_method
+      label: Transfer Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

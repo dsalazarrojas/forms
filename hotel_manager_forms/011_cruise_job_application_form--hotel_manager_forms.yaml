@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Job Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Cruise Director
+      - Hotel Manager
+      - Cruise Officer
+      required: true
+    - id: 9
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Intern
+      required: true
+    - id: 10
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reference1
+      label: Reference 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reference2
+      label: Reference 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reference3
+      label: Reference 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: first_name_error
+      label: First Name Error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: last_name_error
+      label: Last Name Error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: email_error
+      label: Email Error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: phone_error
+      label: Phone Error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: job_title_error
+      label: Job Title Error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: job_description_error
+      label: Job Description Error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: work_experience_error
+      label: Work Experience Error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: job_type_error
+      label: Job Type Error
+      hint: null
+      type: note
+      options: []
+      required: false

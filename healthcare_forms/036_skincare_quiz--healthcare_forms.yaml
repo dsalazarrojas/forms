@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Quiz
+    pages:
+    - id: 1
+      name: skin_type
+      label: What is your skin type
+      hint: null
+      type: select_multiple
+      options:
+      - dry
+      - oily
+      - combination
+      required: false
+    - id: 2
+      name: concerns
+      label: What are your skin concerns
+      hint: null
+      type: select_multiple
+      options:
+      - acne
+      - aging
+      - sensitivity
+      required: false
+    - id: 3
+      name: product_use
+      label: Which products do you currently use on your skin
+      hint: null
+      type: select_one
+      options:
+      - cleanser
+      - moisturizer
+      - sunscreen
+      required: false
+    - id: 4
+      name: skin_concerns_important
+      label: How important are these concerns to you
+      hint: null
+      type: select_multiple
+      options:
+      - acne
+      - aging
+      - sensitivity
+      required: false
+    - id: 5
+      name: skin_type_other
+      label: Is there anything else you would like to add about your skin type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skin_concerns_other
+      label: Are there any other skin concerns you have
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_products
+      label: What products should we recommend you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review
+      label: How likely are you to purchase a recommended product
+      hint: null
+      type: select_one
+      options:
+      - definitely
+      - probably
+      - not_likely
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

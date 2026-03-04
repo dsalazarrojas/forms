@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immunization Consent Form CPESN Pharmacy
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: immunization_preferences
+      label: immunization_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: payment_preferences
+      label: payment_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: schedule_appointments
+      label: schedule_appointments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_details
+      label: medical_details
+      hint: null
+      type: text
+      options: []
+      required: false

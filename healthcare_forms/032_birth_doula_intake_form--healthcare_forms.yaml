@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Doula Intake Form
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: best_contact_time
+      label: Best Time to Contact You
+      hint: Preferred contact times
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_pregnancy_info
+      label: -- Pregnancy Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: expected_due_date
+      label: Expected Due Date
+      hint: When is baby due
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_age
+      label: Current Age
+      hint: Your age
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: gravidity
+      label: Number of Pregnancies Including This One
+      hint: Total pregnancies
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: parity
+      label: Number of Previous Births
+      hint: How many times have you given birth
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: miscarriage_loss
+      label: Number of Miscarriages or Losses
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_obstetric_history
+      label: -- Obstetric History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: previous_deliveries
+      label: Type of Previous Deliveries
+      hint: Describe past births
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cesarean_history
+      label: Previous Cesarean Sections
+      hint: Any C-sections
+      type: select_one
+      options:
+      - false
+      - Yes - One
+      - Yes - Multiple
+      required: false
+    - id: 16
+      name: vbac_interested
+      label: Interested in VBAC if Previous C-Section
+      hint: Vaginal birth after cesarean
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      - Not Applicable
+      required: false
+    - id: 17
+      name: complications_previous
+      label: Complications in Previous Pregnancies
+      hint: Any birth complications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_current_pregnancy
+      label: -- Current Pregnancy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: current_pregnancy_health
+      label: Current Pregnancy Health Status
+      hint: How is this pregnancy going
+      type: select_one
+      options:
+      - Healthy - No Complications
+      - Minor Concerns
+      - Significant Concerns
+      - High Risk
+      required: true
+    - id: 20
+      name: current_pregnancy_details
+      label: Current Pregnancy Details or Concerns
+      hint: Any specific issues
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_birth_plans
+      label: -- Birth Plans and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: planned_birth_location
+      label: Planned Birth Location
+      hint: Hospital, birth center, or home
+      type: select_one
+      options:
+      - Hospital
+      - Birth Center
+      - Home
+      - Undecided
+      required: true
+    - id: 23
+      name: healthcare_provider
+      label: Healthcare Provider Name
+      hint: Doctor, midwife, or other
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: birth_companions
+      label: Who Will Be Present at Birth
+      hint: Partner, family, friends
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: birth_goals
+      label: Birth Goals
+      hint: What do you hope for
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: pain_management_plan
+      label: Pain Management Plan
+      hint: How you plan to manage pain
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: labor_preparation
+      label: Labor Preparation or Classes
+      hint: Have you taken classes
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning To
+      required: false
+    - id: 28
+      name: section_doula_role
+      label: -- Doula Support Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: doula_experience
+      label: Have You Worked with a Doula Before
+      hint: Previous doula experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: support_expectations
+      label: What Do You Expect from Your Doula
+      hint: Your expectations for support
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: specific_requests
+      label: Specific Requests or Preferences
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: labor_duration_preference
+      label: Preference for Length of Labor Support
+      hint: How long do you want doula there
+      type: select_one
+      options:
+      - Entire Labor and Birth
+      - Active Labor Only
+      - Flexible
+      - Undecided
+      required: true
+    - id: 33
+      name: section_postpartum
+      label: -- Postpartum Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: postpartum_care_interest
+      label: Interest in Postpartum Support Services
+      hint: Doula support after birth
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 35
+      name: postpartum_support_type
+      label: Type of Postpartum Support Desired
+      hint: What kind of help you need
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: section_questions
+      label: -- Questions and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

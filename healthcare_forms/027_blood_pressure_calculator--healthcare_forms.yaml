@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Pressure Calculator
+    pages:
+    - id: 1
+      name: calculator_intro
+      label: -- Blood Pressure Health Assessment --
+      hint: Calculate and understand your blood pressure reading
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: Optional - for personal records
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: measurement_date
+      label: Date of Reading
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: measurement_time
+      label: Time of Reading
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: systolic_reading
+      label: Systolic Pressure (top number)
+      hint: mmHg
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: diastolic_reading
+      label: Diastolic Pressure (bottom number)
+      hint: mmHg
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pulse_rate
+      label: Pulse Rate (beats per minute)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: measurement_location
+      label: Where was BP measured?
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Clinic
+      - Hospital
+      - Pharmacy
+      - Other
+      required: true
+    - id: 10
+      name: measurement_arm
+      label: Which arm was used?
+      hint: null
+      type: select_one
+      options:
+      - Left arm
+      - Right arm
+      required: true
+    - id: 11
+      name: patient_position
+      label: Patient Position During Reading
+      hint: null
+      type: select_one
+      options:
+      - Sitting
+      - Lying down
+      - Standing
+      required: true
+    - id: 12
+      name: recent_activity
+      label: Recent Activity Before Reading
+      hint: null
+      type: select_one
+      options:
+      - At rest
+      - Light activity
+      - Vigorous activity
+      - Just woke up
+      required: false
+    - id: 13
+      name: caffeine_intake
+      label: Caffeine consumed in last 30 minutes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: stress_level
+      label: Stress Level During Reading
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - High
+      required: false
+    - id: 15
+      name: medication_taken
+      label: Medications taken today?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: symptoms
+      label: Any symptoms with this reading?
+      hint: Dizziness, chest pain, shortness of breath
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reading_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

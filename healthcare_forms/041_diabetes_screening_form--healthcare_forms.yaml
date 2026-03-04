@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diabetes Screening Form
+    pages:
+    - id: 1
+      name: screening_form_1
+      label: screening_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: blood_glucose_levels
+      label: blood_glucose_levels
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: body_mass_index_bmi
+      label: body_mass_index_bmi
+      hint: null
+      type: number
+      options: []
+      required: true

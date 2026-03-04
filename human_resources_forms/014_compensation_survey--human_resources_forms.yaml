@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Survey
+    pages:
+    - id: 1
+      name: intro
+      label: -- Compensation Survey --
+      hint: help us improve compensation and benefits
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: optional for anonymity
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_salary_band
+      label: current salary band
+      hint: select current band
+      type: select_one
+      options:
+      - Band 1
+      - Band 2
+      - Band 3
+      - Band 4
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: satisfaction rating
+      hint: 1 low 5 high
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: most_important_benefit
+      label: most important benefit
+      hint: choose one
+      type: select_one
+      options:
+      - Health insurance
+      - Retirement
+      - Paid time off
+      - Flexible work
+      required: false
+    - id: 6
+      name: comments
+      label: additional comments
+      hint: optional suggestions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: willing_to_follow_up
+      label: willing to be contacted for follow up
+      hint: HR may reach out if yes
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: submission_date
+      label: submission date
+      hint: date of response
+      type: date
+      options: []
+      required: true

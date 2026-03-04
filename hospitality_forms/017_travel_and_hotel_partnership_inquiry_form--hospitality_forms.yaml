@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_and_hotel_partnership_inquiry_form
+    pages:
+    - id: 1
+      name: partnership_request
+      label: Partnership Request
+      hint: null
+      type: select_one
+      options:
+      - Partnership Request 1
+      - Partnership Request 2
+      - Partnership Request 3
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_request_info
+      label: Travel Request Info
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: travel_request_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_request_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - Reviewer 1
+      - Reviewer 2
+      - Reviewer 3
+      required: false
+    - id: 12
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

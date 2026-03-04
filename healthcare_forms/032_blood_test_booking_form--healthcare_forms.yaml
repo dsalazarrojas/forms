@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Test Booking Form
+    pages:
+    - id: 1
+      name: booking_intro
+      label: -- Blood Test Booking --
+      hint: Schedule your blood test appointment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_id
+      label: Patient ID (if existing)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lab_location
+      label: Preferred Lab Location
+      hint: null
+      type: select_one
+      options:
+      - Downtown Lab
+      - Riverside Testing Center
+      - Community Health Clinic
+      - Airport Medical Center
+      - Suburban Health Lab
+      required: true
+    - id: 10
+      name: preferred_date
+      label: Preferred Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 7:00 AM - 8:00 AM
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      required: true
+    - id: 12
+      name: test_types
+      label: Blood Tests Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Complete Blood Count (CBC)
+      - Comprehensive Metabolic Panel
+      - Lipid Panel
+      - Thyroid Panel
+      - Liver Function
+      - Kidney Function
+      - Glucose Test
+      - Other
+      required: true
+    - id: 13
+      name: fasting_required
+      label: Will fasting be required for your test?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 14
+      name: physician_name
+      label: Ordering Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Medications (for reference)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirmation_preference
+      label: How should we confirm your appointment?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - No confirmation needed
+      required: true

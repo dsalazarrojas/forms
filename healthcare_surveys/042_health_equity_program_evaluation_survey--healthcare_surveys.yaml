@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Equity Program Evaluation Survey
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: total_participants
+      label: Total Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: male_participants
+      label: Male Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: female_participants
+      label: Female Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: other_participants
+      label: Other Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: program_objectives
+      label: Program Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: health_outcomes
+      label: Health Outcomes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: evaluation_tools
+      label: Evaluation Tools
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: program_evaluation
+      label: Program Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '[''Evaluation Framework'', ''Other (please specify)'']'
+      - Other
+      required: true
+    - id: 15
+      name: other_program_evaluation
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: overall_impact
+      label: Overall Impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

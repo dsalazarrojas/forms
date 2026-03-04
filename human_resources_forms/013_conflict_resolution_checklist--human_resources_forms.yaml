@@ -1,0 +1,283 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Resolution Checklist
+    pages:
+      - id: 1
+        name: case_number
+        label: Case Number
+        hint: Unique identifier for this case
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: checklist_date
+        label: Checklist Date
+        hint: Date of this checklist completion
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: hr_representative
+        label: HR Representative
+        hint: Name of HR personnel handling case
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: manager_name
+        label: Manager Name
+        hint: Name of involved employee manager
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department
+        label: Department
+        hint: Department where conflict occurred
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: conflict_type
+        label: Type of Conflict
+        hint: Primary category of conflict
+        type: select_one
+        options:
+          - Interpersonal Dispute
+          - Team Conflict
+          - Manager Employee Dispute
+          - Harassment Complaint
+          - Discrimination Complaint
+          - Performance Related
+          - Resource Dispute
+          - Other
+        required: true
+      - id: 7
+        name: parties_involved
+        label: Parties Involved
+        hint: Names of all employees involved
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: date_conflict_reported
+        label: Date Conflict Was Reported
+        hint: When was this issue first raised
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: initial_complaint_received
+        label: Initial Complaint Received
+        hint: Has formal complaint been submitted
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: complaint_documented
+        label: Complaint Documented
+        hint: Is complaint properly documented
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 11
+        name: initial_assessment_completed
+        label: Initial Assessment Completed
+        hint: Has initial risk assessment been done
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: severity_level
+        label: Severity Level
+        hint: Assessment of conflict severity
+        type: select_one
+        options:
+          - Low - Informal Resolution
+          - Medium - Formal Process
+          - High - Immediate Action Required
+          - Critical - Escalate to Leadership
+        required: true
+      - id: 13
+        name: parties_interviewed
+        label: All Parties Interviewed
+        hint: Have all involved parties been interviewed
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In Progress
+        required: true
+      - id: 14
+        name: interview_dates
+        label: Interview Dates
+        hint: Dates when interviews were conducted
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: witnesses_identified
+        label: Witnesses Identified
+        hint: Are there witnesses to interview
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: witnesses_interviewed
+        label: Witnesses Interviewed
+        hint: Have all witnesses been interviewed
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 17
+        name: evidence_collected
+        label: Evidence Collected
+        hint: Has relevant evidence been gathered
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 18
+        name: evidence_types
+        label: Types of Evidence
+        hint: List types of evidence collected
+        type: select_multiple
+        options:
+          - Email Communications
+          - Written Documents
+          - Performance Records
+          - Witness Statements
+          - Video or Audio
+          - Physical Evidence
+          - None
+        required: false
+      - id: 19
+        name: mediation_offered
+        label: Mediation Offered
+        hint: Was mediation offered to parties
+        type: select_one
+        options:
+          - Yes - Accepted
+          - Yes - Declined
+          - No - Not Appropriate
+        required: true
+      - id: 20
+        name: mediation_scheduled
+        label: Mediation Scheduled
+        hint: Date of mediation session if applicable
+        type: date
+        options: []
+        required: false
+      - id: 21
+        name: interim_measures
+        label: Interim Measures Implemented
+        hint: Temporary measures during investigation
+        type: select_multiple
+        options:
+          - None Required
+          - Schedule Adjustment
+          - Reporting Structure Change
+          - Remote Work Arrangement
+          - Leave of Absence
+          - No Contact Order
+          - Other
+        required: true
+      - id: 22
+        name: investigation_complete
+        label: Investigation Complete
+        hint: Has the full investigation concluded
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In Progress
+        required: true
+      - id: 23
+        name: findings_documented
+        label: Findings Documented
+        hint: Are investigation findings documented
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 24
+        name: resolution_action
+        label: Resolution Action
+        hint: Action taken to resolve conflict
+        type: select_one
+        options:
+          - Informal Resolution
+          - Mediation Successful
+          - Formal Warning Issued
+          - Training Required
+          - Transfer or Reassignment
+          - Termination
+          - No Action Required
+          - Other
+        required: true
+      - id: 25
+        name: follow_up_required
+        label: Follow-Up Required
+        hint: Is follow-up monitoring needed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 26
+        name: follow_up_date
+        label: Follow-Up Date
+        hint: When is follow-up scheduled
+        type: date
+        options: []
+        required: false
+      - id: 27
+        name: case_closed
+        label: Case Closed
+        hint: Has this case been formally closed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 28
+        name: case_close_date
+        label: Case Close Date
+        hint: Date when case was closed
+        type: date
+        options: []
+        required: false
+      - id: 29
+        name: hr_signature
+        label: HR Representative Signature
+        hint: Name of HR representative
+        type: text
+        options: []
+        required: true

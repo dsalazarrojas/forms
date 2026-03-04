@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNA Shift Restoration Request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the CNA requesting shift restoration
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Nursing unit or department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Per Diem
+      - Temporary
+      - Leave of Absence
+      required: true
+    - id: 5
+      name: shift_type_before
+      label: Shift Type Before Loss
+      hint: What shift were you working before?
+      type: select_one
+      options:
+      - Day Shift - 7am to 3pm
+      - Evening Shift - 3pm to 11pm
+      - Night Shift - 11pm to 7am
+      - Rotating Shifts
+      - Weekends Only
+      required: true
+    - id: 6
+      name: shift_loss_reason
+      label: Reason for Shift Loss
+      hint: Why was your shift reduced or eliminated?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shift_loss_date
+      label: Date Shift Was Lost
+      hint: When did the shift change occur?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: restoration_date_requested
+      label: Requested Restoration Date
+      hint: When would you like your shift restored?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_shift
+      label: Preferred Shift Type
+      hint: What shift would you like restored to?
+      type: select_one
+      options:
+      - Day Shift - 7am to 3pm
+      - Evening Shift - 3pm to 11pm
+      - Night Shift - 11pm to 7am
+      - Rotating Shifts
+      - Flexible Schedule
+      - Any Available
+      required: true
+    - id: 10
+      name: shift_flexibility
+      label: Are you flexible with shift times?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very flexible
+      - Somewhat flexible
+      - Limited flexibility
+      - Not flexible
+      required: false
+    - id: 11
+      name: position_availability
+      label: Position Availability Information
+      hint: What positions or shifts are you aware of?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_care_experience
+      label: Years of Patient Care Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: certifications
+      label: Current Certifications
+      hint: Select applicable certifications
+      type: select_multiple
+      options:
+      - CNA Certification
+      - BLS/CPR
+      - ACLS
+      - PALS
+      - Other
+      required: false
+    - id: 14
+      name: availability_restrictions
+      label: Any Availability Restrictions
+      hint: Times or days you cannot work
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: Current Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supervisor_approval
+      label: Supervisor Recommendation
+      hint: Is the supervisor supportive of restoration?
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Pending Review
+      required: false
+    - id: 17
+      name: request_date
+      label: Request Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details about your request
+      type: text
+      options: []
+      required: false

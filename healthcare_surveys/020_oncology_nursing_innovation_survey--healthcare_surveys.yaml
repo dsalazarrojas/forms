@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oncology Nursing Innovation Survey
+    pages:
+    - id: 1
+      name: survey_start_page
+      label: Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Select all that apply
+      - Other
+      required: false
+    - id: 2
+      name: new_practices
+      label: New Practices
+      hint: null
+      type: select_one
+      options:
+      - Barriers
+      - Innovations
+      - Technologies
+      required: true
+    - id: 3
+      name: barriers
+      label: Barriers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: technologies
+      label: Technologies
+      hint: null
+      type: select_multiple
+      options:
+      - Artificial Intelligence
+      - Data Analytics
+      - Robotics
+      - Virtual Reality
+      required: true
+    - id: 5
+      name: innovations
+      label: Innovations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Education
+      - Training
+      - Consultation
+      - Mentorship
+      - Resources
+      required: true
+    - id: 7
+      name: innovation_barriers
+      label: Innovation Barriers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: research_projects
+      label: Research Projects
+      hint: null
+      type: select_one
+      options:
+      - Hospitals
+      - Cancer Centers
+      - Research Projects
+      required: true

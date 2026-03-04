@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neurosurgery Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_one
+      options:
+      - Admitted
+      - Discharged
+      - Awaiting Admission
+      - Other - Specify
+      required: false
+    - id: 6
+      name: surgeon_name
+      label: surgeon_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_visit
+      label: follow_up_visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: discharge_summary
+      label: discharge_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: discharge_details
+      label: Discharge Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Signature by surgeon
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_acknowledgement
+      label: Patient Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: RFID Hotel Connection Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rfid_hotel_connection_form_keycard
+      label: RFID Keycard
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: true
+    - id: 7
+      name: rfid_hotel_connection_form_access_details
+      label: Access Details
+      hint: null
+      type: note
+      options: []
+      required: true

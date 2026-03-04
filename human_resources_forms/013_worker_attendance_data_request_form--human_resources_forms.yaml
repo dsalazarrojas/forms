@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Attendance Data Request Form
+    pages:
+    - id: 1
+      name: worker_id
+      label: Worker ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: worker_name
+      label: Worker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: check_in
+      label: Check-in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: check_out
+      label: Check-out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: absence_reason
+      label: Absence Reason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: drag_and_drop
+      label: Drag and Drop
+      hint: null
+      type: note
+      options: []
+      required: false

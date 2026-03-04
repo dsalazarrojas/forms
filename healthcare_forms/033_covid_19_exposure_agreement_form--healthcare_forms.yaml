@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Exposure Agreement Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Exposure Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exposure_date
+      label: Date of Potential Exposure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: exposure_location
+      label: Location of Exposure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: exposure_details
+      label: Details of Exposure
+      hint: How did the exposure occur
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_person_info
+      label: Information About Person Exposed To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exposure_duration
+      label: Duration of Exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_3
+      label: -- Current Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_symptoms
+      label: Currently Experiencing Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: symptoms_description
+      label: If yes, describe symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated without booster
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 17
+      name: prior_covid
+      label: Prior COVID-19 Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 18
+      name: section_header_4
+      label: -- Quarantine and Isolation Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: quarantine_plan
+      label: Understanding of Quarantine Requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: isolation_days
+      label: Will isolate for recommended number of days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unable to comply
+      required: true
+    - id: 21
+      name: isolation_concerns
+      label: Concerns About Isolation Compliance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_5
+      label: -- Agreement and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: risk_acknowledged
+      label: I acknowledge the risks of COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: agreement_signature
+      label: I agree to follow recommended health guidelines
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

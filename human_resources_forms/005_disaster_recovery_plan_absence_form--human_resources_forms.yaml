@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Recovery Plan Absence Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Enter the employee's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: absence_reason
+      label: Absence Reason
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Personal
+      - Family
+      - Medical
+      - Vacation
+      - Other
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: days_absent
+      label: Days Absent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: hours_absent
+      label: Hours Absent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      required: true
+    - id: 16
+      name: disaster_recovery_group
+      label: Disaster Recovery Group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: disaster_recovery_location
+      label: Disaster Recovery Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: disaster_recovery_status
+      label: Disaster Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Not Affected
+      - Affected
+      - Unknown
+      required: true
+    - id: 19
+      name: disaster_recovery_notes
+      label: Disaster Recovery Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: date_last_status_change
+      label: Date of Last Status Change
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: time_last_status_change
+      label: Time of Last Status Change
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: location_last_status_change
+      label: Location of Last Status Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: status_update
+      label: Status Update
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: comments_last_status_change
+      label: Comments of Last Status Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: last_status_change_by
+      label: Last Status Change By
+      hint: null
+      type: text
+      options: []
+      required: true

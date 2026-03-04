@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: exit_interview_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Burnout''}'
+      - '{''id'': 2, ''label'': ''Lack of Challenge''}'
+      - '{''id'': 3, ''label'': ''Lack of Autonomy''}'
+      - '{''id'': 4, ''label'': ''Lack of Growth Opportunities''}'
+      - '{''id'': 5, ''label'': ''No Reason''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Improved Communication''}'
+      - '{''id'': 2, ''label'': ''Improved Management''}'
+      - '{''id'': 3, ''label'': ''Improved Training''}'
+      - '{''id'': 4, ''label'': ''Improved Work-Life Balance''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_title
+      label: supervisor_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_ext
+      label: supervisor_ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_notes
+      label: supervisor_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: final_comments
+      label: final_comments
+      hint: null
+      type: text
+      options: []
+      required: false

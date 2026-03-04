@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Of Living Adjustment Update Request Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Request Type A''}'
+      - '{''option2'': ''Request Type B''}'
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: Please describe the reason for your request.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_amount
+      label: Request Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_confirmation_date
+      label: Manager Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_confirmation_date
+      label: Employee Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_confirmation_status
+      label: Manager Confirmation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Pending''}'
+      - '{''option2'': ''Approved''}'
+      - '{''option3'': ''Declined''}'
+      required: false
+    - id: 14
+      name: employee_confirmation_status
+      label: Employee Confirmation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Pending''}'
+      - '{''option2'': ''Confirmed''}'
+      - '{''option3'': ''Declined''}'
+      required: false

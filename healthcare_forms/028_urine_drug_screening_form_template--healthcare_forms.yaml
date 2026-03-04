@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urine Drug Screening Form Template
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_collection
+      label: Sample Collection
+      hint: null
+      type: select_multiple
+      options:
+      - Urine
+      - Blood
+      - Hair
+      required: false
+    - id: 3
+      name: test_ordered
+      label: Tests Ordered
+      hint: null
+      type: select_one
+      options:
+      - Urine Drug Screening Test
+      - Comprehensive Urine Drug Screen
+      - Toxicology Panel Test
+      - Other
+      required: false
+    - id: 4
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lab_info
+      label: Lab Information
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Address
+      - Phone
+      - Contact Info
+      - Other
+      required: false
+    - id: 6
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: specimen_received
+      label: Specimen Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: test_ordered_by
+      label: Ordered By
+      hint: null
+      type: select_one
+      options:
+      - Assigned Tool
+      - Other
+      required: false

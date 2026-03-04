@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Measles Exposure Monitoring Survey
+    pages:
+    - id: 1
+      name: survey_info
+      label: Survey Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Date of Exposure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: survey_time
+      label: Time of Exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location of Exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Direct Contact''}'
+      - '{''label'': ''Indirect Contact''}'
+      - '{''label'': ''Unknown Contact''}'
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_type
+      label: Vaccination Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': "Don''t Know"}'
+      required: false
+    - id: 10
+      name: travel_info
+      label: Travel Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: travel_duration
+      label: Duration of Travel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: travel_reason
+      label: Reason for Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: exposure_status
+      label: Exposure Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirmed''}'
+      - '{''label'': ''Suspected''}'
+      - '{''label'': ''Not Suspected''}'
+      required: false
+    - id: 17
+      name: exposure_risk_level
+      label: Exposure Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 18
+      name: reporting_source
+      label: Reporting Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Public Health Agency''}'
+      - '{''label'': ''School''}'
+      - '{''label'': ''Work''}'
+      required: false
+    - id: 19
+      name: exposure_date
+      label: Date of Exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_status_comments
+      label: Survey Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false

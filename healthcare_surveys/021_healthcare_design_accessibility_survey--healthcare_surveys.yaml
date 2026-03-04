@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Design Accessibility Survey
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medications
+      label: Meds
+      hint: null
+      type: select_multiple
+      options:
+      - Painkillers
+      - Antibiotics
+      - Anti-inflammatories
+      required: false
+    - id: 4
+      name: accessibility_score
+      label: Accessibility Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: accessibility_issues
+      label: Accessibility Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_team
+      label: Healthcare Team
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 15
+      name: ethnicity
+      label: Ethnicity
+      hint: Please enter your ethnicity
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: race
+      label: Race
+      hint: Please enter your race
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: disability
+      label: Disability
+      hint: Please enter your disability
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: language
+      label: Language
+      hint: Please enter your language
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      required: false
+    - id: 20
+      name: hospital
+      label: Hospital
+      hint: null
+      type: select_multiple
+      options:
+      - General Hospital
+      - Specialty Hospital
+      - Urgent Care
+      required: false
+    - id: 21
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Department
+      - Cardiology
+      - Neurology
+      required: false
+    - id: 22
+      name: unit
+      label: Unit
+      hint: null
+      type: select_multiple
+      options:
+      - ICU
+      - Wards
+      - ER
+      required: false
+    - id: 23
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Day Shift
+      - Night Shift
+      - Evening Shift
+      required: false
+    - id: 24
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Patient
+      - Visitor
+      - Staff
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Communication Questionnaire
+    pages:
+    - id: 1
+      name: social_communication_skills
+      label: What are the person's social communication skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: violent_behavior
+      label: What is the person's violent behavior
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: social_isolation
+      label: What is the person's social isolation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_support
+      label: What kind of social support does the person have
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Community
+      - Other
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: Who is the person's healthcare provider
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Physician
+      - Specialist
+      - Other
+      required: false
+    - id: 6
+      name: healthcare_provider_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider_specialist
+      label: Specialist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_primary_care_physician
+      label: Primary Care Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_last_contact
+      label: Date of last contact with healthcare provider
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_last_contact
+      label: Time of last contact with healthcare provider
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: social_worker
+      label: Social worker involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: family_member
+      label: Family member involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: healthcare_provider_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: social_isolation
+      label: Has the person exhibited social isolation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: social_isolation_duration
+      label: How long has this social isolation continued?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: social_isolation_frequency
+      label: How frequent is social isolation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: social_support_services
+      label: Have you accessed social support services
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: social_support_services_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: social_support_services_other_description
+      label: If other, please specify the service(s)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: social_worker_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: family_member_other
+      label: If other, specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: family_member_other_description
+      label: Describe
+      hint: null
+      type: text
+      options: []
+      required: false

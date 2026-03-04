@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Congress Feedback Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional - may remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: attendee_email
+        label: Email Address
+        hint: For follow-up if desired
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Your institution or company
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: profession
+        label: Profession
+        hint: Your field of work
+        type: select_one
+        options:
+          - Physician
+          - Nurse
+          - Researcher
+          - Medical Student
+          - Healthcare Administrator
+          - Pharmacist
+          - Allied Health Professional
+          - Industry Representative
+          - Other
+        required: true
+      - id: 5
+        name: congress_name
+        label: Congress or Event Name
+        hint: Name of the congress attended
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: congress_date
+        label: Congress Date
+        hint: Date of the event
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: attendance_type
+        label: Attendance Type
+        hint: How did you attend
+        type: select_one
+        options:
+          - In Person
+          - Virtual
+          - Hybrid
+        required: true
+      - id: 8
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Your overall experience rating
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: content_quality
+        label: Quality of Scientific Content
+        hint: Rating of presented content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: speaker_quality
+        label: Quality of Speakers
+        hint: Rating of presenters and faculty
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: session_relevance
+        label: Relevance to Your Practice
+        hint: How applicable is content to your work
+        type: select_one
+        options:
+          - Very Relevant
+          - Relevant
+          - Somewhat Relevant
+          - Not Relevant
+        required: true
+      - id: 12
+        name: favorite_sessions
+        label: Favorite Sessions or Presentations
+        hint: Which sessions did you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: venue_quality
+        label: Quality of Venue
+        hint: Rating of facility and location
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Applicable
+        required: true
+      - id: 14
+        name: organization_logistics
+        label: Organization and Logistics
+        hint: Rating of event organization
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: registration_process
+        label: Registration Process
+        hint: How smooth was registration
+        type: select_one
+        options:
+          - Very Smooth
+          - Smooth
+          - Average
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 16
+        name: networking_opportunities
+        label: Networking Opportunities
+        hint: Quality of networking chances
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Did Not Network
+        required: true
+      - id: 17
+        name: exhibition_quality
+        label: Exhibition or Poster Quality
+        hint: Rating of exhibits and posters
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did Not Visit
+        required: true
+      - id: 18
+        name: materials_quality
+        label: Quality of Conference Materials
+        hint: Rating of handouts and resources
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 19
+        name: value_for_money
+        label: Value for Registration Fee
+        hint: Was the event worth the cost
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+        required: true
+      - id: 20
+        name: would_recommend
+        label: Would You Recommend This Congress
+        hint: Likelihood of recommending to colleagues
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: attend_again
+        label: Would You Attend Again
+        hint: Will you attend future events
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 22
+        name: topics_for_future
+        label: Topics for Future Congresses
+        hint: What topics would you like to see
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: improvements_suggested
+        label: Suggested Improvements
+        hint: How can we improve
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

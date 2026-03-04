@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: simple_job_application_form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_background
+      label: Educational Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reference_info
+      label: Reference Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_interest
+      label: Job Interest
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file_attachment
+      label: File Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_attachment_2
+      label: File Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false

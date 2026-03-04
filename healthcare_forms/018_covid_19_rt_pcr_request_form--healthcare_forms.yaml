@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 RT PCR Request Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: id_passport
+      label: ID or Passport Number
+      hint: Required for international travel certification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_test
+      label: Reason for COVID-19 PCR Test
+      hint: null
+      type: select_one
+      options:
+      - International Travel
+      - Work Requirement
+      - Symptoms Present
+      - Close Contact
+      - Surgery Requirement
+      required: true
+    - id: 4
+      name: travel_date
+      label: Date of Planned Travel
+      hint: Required if testing for travel
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_dest
+      label: Destination Country/City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: swab_date_pref
+      label: Preferred Swab Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_slot_pref
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 08:00 - 10:00
+      - 10:00 - 12:00
+      - 12:00 - 14:00
+      - 14:00 - 16:00
+      required: true
+    - id: 8
+      name: prev_positive
+      label: Have you ever had a positive COVID-19 test result?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 9
+      name: payment_method_pref
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash at Clinic
+      - Insurance Billing
+      - Corporate Account
+      required: true
+    - id: 10
+      name: insurance_no
+      label: Medical Insurance Number
+      hint: Enter N/A if paying cash
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: results_delivery
+      label: Preferred Results Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Mobile App
+      - In-Person Pickup
+      required: true
+    - id: 12
+      name: consent_header
+      label: -- Consent for Swab --
+      hint: By proceeding you consent to the collection of a respiratory specimen
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: swab_consent
+      label: I consent to the COVID-19 PCR swab test
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true

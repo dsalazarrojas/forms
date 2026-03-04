@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_risk_assessment_questionnaire
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: family_medical_history
+      label: Family Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: date
+      options: []
+      required: false

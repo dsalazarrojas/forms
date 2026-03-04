@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality AI Chatbot Survey
+    pages:
+    - id: 1
+      name: hotel_details
+      label: hotel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: rating_options
+      label: rating_options
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: interaction_time
+      label: interaction_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_of_interaction
+      label: date_of_interaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: chatbot_name
+      label: chatbot_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: chatbot_version
+      label: chatbot_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: hotel_id
+      label: hotel_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department_name
+      label: department_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_gender
+      label: user_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: user_location
+      label: user_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_language
+      label: user_language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interaction_type
+      label: interaction_type
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Chat
+      - Email
+      - Other
+      required: false
+    - id: 18
+      name: interaction_channel
+      label: interaction_channel
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Other
+      required: false
+    - id: 19
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

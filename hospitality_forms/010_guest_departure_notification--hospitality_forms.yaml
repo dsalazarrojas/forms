@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Departure Notification
+    pages:
+    - id: 1
+      name: departure_details
+      label: Departure Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false

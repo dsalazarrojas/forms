@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Care Plan Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assessment
+      label: assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: medication_status
+      label: medication_status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: next_appointment
+      label: next_appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medication_last_administered
+      label: medication_last_administered
+      hint: null
+      type: number
+      options: []
+      required: false

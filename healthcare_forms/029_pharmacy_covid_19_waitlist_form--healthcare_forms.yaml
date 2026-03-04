@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmacy_covid_19_waitlist_form
+    pages:
+    - id: 1
+      name: waitlist_info
+      label: Waitlist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: name
+      label: Patient Name
+      hint: Enter name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dob
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true

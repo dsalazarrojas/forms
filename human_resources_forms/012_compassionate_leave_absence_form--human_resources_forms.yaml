@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassionate Leave Absence Form
+    pages:
+    - id: 1
+      name: employee_details_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Employee Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_team
+      label: Department / Team
+      hint: Your current working department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Reporting Manager
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: leave_details_header
+      label: -- Leave Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: relationship_to_subject
+      label: Relationship to the person requiring leave
+      hint: e.g., Parent, Spouse, Sibling, Dependent
+      type: select_one
+      options:
+      - Spouse / Domestic Partner
+      - Parent / Guardian
+      - Child / Dependent
+      - Sibling
+      - Other Family Emergency
+      - Bereavement
+      required: true
+    - id: 7
+      name: start_date_leave
+      label: Leave Start Date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date_leave
+      label: Leave End Date
+      hint: Last day of absence
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_working_days
+      label: Total Working Days Requested
+      hint: Number of scheduled work days missed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: brief_reason_leave
+      label: Reason for Leave Request
+      hint: Briefly describe the emergency or circumstance
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_info
+      label: Emergency Contact While Away
+      hint: How can we reach you if urgent work issues arise?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_acknowledgment
+      label: I confirm this request aligns with the company compassionate leave policy
+      hint: Please refer to the HR handbook for eligibility
+      type: select_one
+      options:
+      - Yes, I confirm
+      - Other
+      required: true
+    - id: 13
+      name: request_submission_date
+      label: Date of Submission
+      hint: Select today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Case Consultation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clinical_info
+      label: clinical_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_tools
+      label: assessment_tools
+      hint: null
+      type: select_multiple
+      options:
+      - Mini-Mental State Examination (MSE)
+      - Montgomery-Åsberg Sensitivity Test (MÅST)
+      - Other
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: Notes about the patient's mental health case.
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: Email address of the patient or their caregiver.
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: Phone number of the patient or their caregiver.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: case_summary
+      label: case_summary
+      hint: Brief summary of the patient's case.
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: additional_info
+      label: additional_info
+      hint: Additional information about the patient.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

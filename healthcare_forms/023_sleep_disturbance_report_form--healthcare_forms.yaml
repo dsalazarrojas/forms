@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Disturbance Report Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sleep_disturbances
+      label: Sleep Disturbances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sleep_environment
+      label: Sleep Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sleep_schedule
+      label: Sleep Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication
+      label: Medication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Medications'', ''label'': ''Medications''}'
+      - '{''value'': ''None'', ''label'': ''None''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - '{''value'': ''Other1'', ''label'': ''Other1''}'
+      required: false
+    - id: 9
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bedtime
+      label: Bedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: wake_time
+      label: Wake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: sleep_quality_score
+      label: Sleep Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sleep_latency
+      label: Sleep Latency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: wake_latency
+      label: Wake Latency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: sleep_efficiency
+      label: Sleep Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_sleep_time
+      label: Total Sleep Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sleep_latency_to_sleep
+      label: Latency To Sleep
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_wake_time
+      label: Total Wake Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: average_wake_time
+      label: Average Wake Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: sleep_efficiency_percentage
+      label: Sleep Efficiency Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: sleep_latency
+      label: Total Latency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: wake_time_per_day
+      label: Wake Time Per Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: average_latency_to_sleep
+      label: Average Latency To Sleep
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: sleep_latency_per_day
+      label: Sleep Latency Per Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Medications'', ''label'': ''Medications''}'
+      - '{''value'': ''None'', ''label'': ''None''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - '{''value'': ''Other1'', ''label'': ''Other1''}'
+      required: false

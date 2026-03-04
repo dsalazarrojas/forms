@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: IMC Assessment Form
+    pages:
+    - id: 1
+      name: height_input
+      label: Height in cm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: weight_input
+      label: Weight in kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: age_input
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height_unit_input
+      label: Height unit
+      hint: null
+      type: select_one
+      options:
+      - Meter
+      - Centimeter
+      - Inch
+      required: false
+    - id: 5
+      name: imc_calculation
+      label: IMC calculation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

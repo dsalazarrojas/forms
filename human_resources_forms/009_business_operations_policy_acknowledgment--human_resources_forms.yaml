@@ -1,0 +1,151 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Operations Policy Acknowledgment
+    pages:
+      - id: 1
+        name: section_employee_info
+        label: -- Employee Information --
+        type: note
+        required: false
+      - id: 2
+        name: employee_first_name
+        label: First Name
+        hint: Your first name
+        type: text
+        required: true
+      - id: 3
+        name: employee_last_name
+        label: Last Name
+        hint: Your last name
+        type: text
+        required: true
+      - id: 4
+        name: employee_id
+        label: Employee ID
+        hint: Your unique employee identifier
+        type: text
+        required: true
+      - id: 5
+        name: employee_email
+        label: Email Address
+        hint: Company email
+        type: email
+        required: true
+      - id: 6
+        name: department
+        label: Department
+        hint: Your department or team
+        type: text
+        required: true
+      - id: 7
+        name: job_title
+        label: Job Title
+        hint: Your position
+        type: text
+        required: true
+      - id: 8
+        name: start_date
+        label: Employment Start Date
+        hint: When you began employment
+        type: date
+        required: true
+      - id: 9
+        name: section_policy_acknowledgment
+        label: -- Policy Acknowledgment --
+        type: note
+        required: false
+      - id: 10
+        name: code_of_conduct
+        label: I have read and understand the Code of Conduct
+        hint: Confirm understanding of professional standards
+        type: select_one
+        options:
+          - Yes, I acknowledge
+          - No, I do not acknowledge
+        required: true
+      - id: 11
+        name: confidentiality_policy
+        label: I have read and understand the Confidentiality Policy
+        hint: Confirm understanding of data protection requirements
+        type: select_one
+        options:
+          - Yes, I acknowledge
+          - No, I do not acknowledge
+        required: true
+      - id: 12
+        name: anti_harassment_policy
+        label: I have read and understand the Anti-Harassment Policy
+        hint: Confirm understanding of workplace conduct expectations
+        type: select_one
+        options:
+          - Yes, I acknowledge
+          - No, I do not acknowledge
+        required: true
+      - id: 13
+        name: data_security_policy
+        label: I have read and understand the Data Security Policy
+        hint: Confirm understanding of information security requirements
+        type: select_one
+        options:
+          - Yes, I acknowledge
+          - No, I do not acknowledge
+        required: true
+      - id: 14
+        name: attendance_policy
+        label: I have read and understand the Attendance Policy
+        hint: Confirm understanding of attendance and time-off procedures
+        type: select_one
+        options:
+          - Yes, I acknowledge
+          - No, I do not acknowledge
+        required: true
+      - id: 15
+        name: health_safety_policy
+        label: I have read and understand the Health and Safety Policy
+        hint: Confirm understanding of workplace safety requirements
+        type: select_one
+        options:
+          - Yes, I acknowledge
+          - No, I do not acknowledge
+        required: true
+      - id: 16
+        name: section_additional
+        label: -- Additional Acknowledgments --
+        type: note
+        required: false
+      - id: 17
+        name: policies_received
+        label: I confirm that I have received copies of all company policies
+        hint: Verify receipt of policy documentation
+        type: select_one
+        options:
+          - Yes, I received all policies
+          - No, I did not receive all policies
+        required: true
+      - id: 18
+        name: questions_answered
+        label: All my questions have been answered
+        hint: Confirm clarification of any policy questions
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 19
+        name: acknowledgment_date
+        label: Date of Acknowledgment
+        hint: Today's date
+        type: date
+        required: true

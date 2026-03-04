@@ -1,0 +1,396 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_type
+      label: Applicant Type
+      hint: Select the type of applicant
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      - Healthcare Facility
+      - Event Organizer
+      - Government Agency
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: If individual applicant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: If individual applicant
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: If organization applicant
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_primary
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_secondary
+      label: Secondary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: service_type
+      label: Type of Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Emergency Transport
+      - Non-Emergency Transport
+      - Inter-Facility Transfer
+      - Event Standby
+      - Scheduled Medical Transport
+      - Bariatric Transport
+      - Critical Care Transport
+      required: true
+    - id: 16
+      name: ambulance_type
+      label: Ambulance Type Needed
+      hint: null
+      type: select_one
+      options:
+      - Basic Life Support (BLS)
+      - Advanced Life Support (ALS)
+      - Critical Care Transport
+      - Bariatric Ambulance
+      - Neonatal/Pediatric
+      - Other
+      required: true
+    - id: 17
+      name: number_of_ambulances
+      label: Number of Ambulances Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_schedule
+      label: -- Schedule Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: requested_date
+      label: Requested Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: requested_time
+      label: Requested Service Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: duration_hours
+      label: Expected Duration (Hours)
+      hint: For event standby or extended service
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: recurring_service
+      label: Is This a Recurring Service
+      hint: null
+      type: select_one
+      options:
+      - No - One-time service
+      - Yes - Daily
+      - Yes - Weekly
+      - Yes - Monthly
+      - Yes - Other schedule
+      required: false
+    - id: 23
+      name: recurring_schedule
+      label: Recurring Schedule Details
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_locations
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: pickup_location
+      label: Pickup Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: pickup_contact
+      label: Pickup Location Contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: destination_location
+      label: Destination Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: destination_contact
+      label: Destination Contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: patient_weight
+      label: Patient Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: patient_condition
+      label: Patient Condition
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: mobility_level
+      label: Patient Mobility Level
+      hint: null
+      type: select_one
+      options:
+      - Ambulatory - Can walk
+      - Wheelchair bound
+      - Stretcher bound
+      - Bariatric equipment needed
+      - Requires special handling
+      required: false
+    - id: 35
+      name: medical_equipment_needed
+      label: Medical Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Oxygen
+      - Cardiac monitor
+      - Ventilator
+      - IV pumps
+      - Suction equipment
+      - Bariatric equipment
+      - Pediatric equipment
+      - None
+      required: false
+    - id: 36
+      name: section_medical_personnel
+      label: -- Medical Personnel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: personnel_required
+      label: Medical Personnel Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - EMT-Basic
+      - EMT-Intermediate
+      - Paramedic
+      - Nurse
+      - Respiratory Therapist
+      - Physician
+      required: false
+    - id: 38
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Insurance
+      - Medicare/Medicaid
+      - Self-pay
+      - Organization billing
+      - Government agency
+      - Other
+      required: true
+    - id: 40
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: billing_address
+      label: Billing Address
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or considerations
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: referral_source
+      label: How did you hear about our service
+      hint: null
+      type: select_one
+      options:
+      - Physician referral
+      - Hospital referral
+      - Internet search
+      - Insurance company
+      - Friend/Family
+      - Previous service
+      - Other
+      required: false
+    - id: 47
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 48
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

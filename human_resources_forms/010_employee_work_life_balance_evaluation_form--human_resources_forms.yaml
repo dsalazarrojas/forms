@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Work Life Balance Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: worklifebalance
+      label: Work Life Balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: support
+      label: Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: engagement
+      label: Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: worklifebalance_score
+      label: Work Life Balance Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication_score
+      label: Communication Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: support_score
+      label: Support Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: engagement_score
+      label: Engagement Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: worklifebalance_comments
+      label: Work Life Balance Comments
+      hint: null
+      type: text
+      options: []
+      required: false

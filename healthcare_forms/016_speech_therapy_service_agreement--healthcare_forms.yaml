@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech Therapy Service Agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_service_starts
+      label: Date Service Starts
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_agreement_signed
+      label: Service Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: service_provider_name
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_provider_signature
+      label: Service Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_agreement_reviewed
+      label: Service Agreement Reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: client_date
+      label: Client Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_provider_date
+      label: Service Provider Date
+      hint: null
+      type: date
+      options: []
+      required: false

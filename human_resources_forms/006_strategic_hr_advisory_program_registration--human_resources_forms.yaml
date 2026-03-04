@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic HR Advisory Program Registration
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: enrollment_method
+      label: Enrollment Method
+      hint: null
+      type: select_one
+      options:
+      - Program Enrollment
+      - Referral
+      - Other
+      required: false
+    - id: 8
+      name: other_enrollment_method
+      label: Other Enrollment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - HR Advisory Program
+      - Business Advisory Program
+      - Both
+      required: false
+    - id: 10
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

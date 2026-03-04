@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Roof Inspection Checklist
+    pages:
+    - id: 1
+      name: drone_roof_inspection_checklist_form
+      label: Drone Roof Inspection Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: drone_model
+      label: Drone Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: images
+      label: Images
+      hint: Upload images or videos related to the roof inspection.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Vehicle Authorization Form
+    pages:
+    - id: 1
+      name: authorization_details_header
+      label: -- Driver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_full_name
+      label: Driver Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id_number
+      label: Employee ID Number
+      hint: Your unique company identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Department
+      hint: The department you are currently working in
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: driver_license_number
+      label: Driver License Number
+      hint: Must be a valid and current license
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: license_expiry_date
+      label: License Expiration Date
+      hint: Your license must not expire within the next 3 months
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_usage_section
+      label: -- Vehicle Usage and Policy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: purpose_of_use
+      label: Primary Purpose of Vehicle Use
+      hint: Select the main reason you require a company vehicle
+      type: select_one
+      options:
+      - Client Meetings
+      - Site Inspections
+      - Delivery / Logistics
+      - Executive Use
+      - Service Calls
+      required: true
+    - id: 9
+      name: vehicle_type_requested
+      label: Type of Vehicle Authorized
+      hint: Specify the category of vehicle
+      type: select_one
+      options:
+      - Sedan / Hatchback
+      - SUV / Crossover
+      - Light Truck / Van
+      - Specialized Equipment
+      required: true
+    - id: 10
+      name: safety_policy_acknowledgment
+      label: I have read and agree to the Company Fleet Safety Policy
+      hint: By selecting yes, you confirm adherence to all safety regulations
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 11
+      name: manager_approval_name
+      label: Approving Manager Name
+      hint: The manager who authorized this request
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorization_date
+      label: Date of Authorization
+      hint: Today's date
+      type: date
+      options: []
+      required: true

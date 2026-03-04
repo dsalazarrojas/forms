@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Employment Agreement Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Legal name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_address
+      label: Employee Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Personal email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Job title for this role
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Department assignment
+      type: select_one
+      options:
+      - Human Resources
+      - Sales
+      - Marketing
+      - Operations
+      - IT
+      - Finance
+      - Customer Service
+      - Other
+      required: true
+    - id: 7
+      name: start_date
+      label: Employment Start Date
+      hint: First day of employment
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Agreed hourly wage
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: work_schedule
+      label: Expected Work Schedule
+      hint: Typical days and hours
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: minimum_hours
+      label: Minimum Hours Per Week
+      hint: Guaranteed minimum hours if applicable
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: maximum_hours
+      label: Maximum Hours Per Week
+      hint: Maximum allowable hours
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pay_frequency
+      label: Pay Frequency
+      hint: How often will you be paid
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Semi-monthly
+      - Monthly
+      required: true
+    - id: 13
+      name: leave_loading
+      label: Leave Loading Applicable
+      hint: Is leave loading included in casual rate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: superannuation
+      label: Superannuation Fund
+      hint: Name of your superannuation fund
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: superannuation_number
+      label: Superannuation Member Number
+      hint: Your member number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tax_file_number
+      label: Tax File Number
+      hint: Your TFN
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: bank_name
+      label: Bank Name
+      hint: Name of your bank
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: bsb_number
+      label: BSB Number
+      hint: Bank branch BSB
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: account_number
+      label: Account Number
+      hint: Bank account number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: agreement_acknowledgment
+      label: Agreement Acknowledgment
+      hint: Do you agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 23
+      name: employee_signature_date
+      label: Signature Date
+      hint: Date of employee signature
+      type: date
+      options: []
+      required: true

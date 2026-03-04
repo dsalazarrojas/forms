@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Process Innovation Workshop Evaluation
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Innovation''}'
+      - '{''id'': 2, ''value'': ''Improvement''}'
+      - '{''id'': 3, ''value'': ''None''}'
+      required: false
+    - id: 3
+      name: workshop_type
+      label: Workshop type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Innovation''}'
+      - '{''id'': 2, ''value'': ''Improvement''}'
+      - '{''id'': 3, ''value'': ''None''}'
+      required: false
+    - id: 4
+      name: objective
+      label: Objective
+      hint: What is the main objective of this workshop?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Bad''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Engagement Fund Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Local Health Department'', ''label'': ''Local Health
+        Department''}'
+      - '{''id'': 2, ''name'': ''State Health Department'', ''label'': ''State Health
+        Department''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: prevention_services
+      label: Prevention Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Vaccination'', ''label'': ''Vaccination''}'
+      - '{''id'': 2, ''name'': ''Testing'', ''label'': ''Testing''}'
+      - '{''id'': 3, ''name'': ''Education'', ''label'': ''Education''}'
+      - '{''id'': 4, ''name'': ''Contact Tracing'', ''label'': ''Contact Tracing''}'
+      - '{''id'': 5, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: public_health_response
+      label: Public Health Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: funding_request
+      label: Funding Request
+      hint: null
+      type: number
+      options: []
+      required: false

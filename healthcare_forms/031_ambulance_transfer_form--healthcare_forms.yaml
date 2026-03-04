@@ -1,0 +1,596 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Transfer Form
+    pages:
+    - id: 1
+      name: section_transfer_info
+      label: -- Transfer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Urgent
+      - Scheduled
+      - Inter-facility
+      - Discharge
+      required: true
+    - id: 5
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: patient_age
+      label: Patient Age
+      hint: Years
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: patient_mrn
+      label: Medical Record Number
+      hint: From sending facility
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_weight
+      label: Patient Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_sending_facility
+      label: -- Sending Facility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sending_facility_name
+      label: Sending Facility Name
+      hint: Hospital or facility
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: sending_facility_address
+      label: Sending Facility Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sending_physician
+      label: Sending Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sending_physician_phone
+      label: Sending Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sending_contact_person
+      label: Sending Contact Person
+      hint: Nurse or coordinator
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sending_contact_phone
+      label: Sending Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_receiving_facility
+      label: -- Receiving Facility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: receiving_facility_name
+      label: Receiving Facility Name
+      hint: Hospital or facility
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: receiving_facility_address
+      label: Receiving Facility Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: receiving_department
+      label: Receiving Department
+      hint: ICU, ER, Unit, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: receiving_physician
+      label: Receiving Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: receiving_physician_phone
+      label: Receiving Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: receiving_contact_person
+      label: Receiving Contact Person
+      hint: Nurse or coordinator
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: receiving_contact_phone
+      label: Receiving Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_transfer_reason
+      label: -- Reason for Transfer --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: Main medical condition
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: secondary_diagnoses
+      label: Secondary Diagnoses
+      hint: Other conditions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: transfer_reason
+      label: Reason for Transfer
+      hint: Why is transfer necessary
+      type: select_one
+      options:
+      - Higher level of care needed
+      - Specialty care required
+      - Patient/family request
+      - Insurance requirements
+      - Bed availability
+      - Facility capability
+      - Other
+      required: true
+    - id: 32
+      name: transfer_reason_detail
+      label: Additional Transfer Details
+      hint: Explain reason
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_vitals
+      label: -- Vital Signs at Transfer --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: blood_pressure
+      label: Blood Pressure
+      hint: mmHg
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: heart_rate
+      label: Heart Rate
+      hint: BPM
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: temperature
+      label: Temperature
+      hint: Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: pain_level
+      label: Pain Level
+      hint: Scale 0-10
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: blood_glucose
+      label: Blood Glucose
+      hint: mg/dL if checked
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: section_current_condition
+      label: -- Current Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: level_of_consciousness
+      label: Level of Consciousness
+      hint: null
+      type: select_one
+      options:
+      - Alert and oriented
+      - Confused
+      - Drowsy
+      - Stuporous
+      - Comatose
+      required: true
+    - id: 43
+      name: respiratory_status
+      label: Respiratory Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Labored
+      - Assisted
+      - Mechanical ventilation
+      required: true
+    - id: 44
+      name: cardiovascular_status
+      label: Cardiovascular Status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Unstable
+      - Requires monitoring
+      - Requires intervention
+      required: true
+    - id: 45
+      name: neurological_status
+      label: Neurological Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Deficits present
+      - Declining
+      - Critical
+      required: false
+    - id: 46
+      name: section_treatments
+      label: -- Current Treatments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: oxygen_therapy
+      label: Oxygen Therapy
+      hint: Type and flow rate
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: iv_therapy
+      label: IV Therapy
+      hint: Access sites and fluids
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: medications_infusing
+      label: Medications Currently Infusing
+      hint: List with rates
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: recent_medications
+      label: Recent Medications Given
+      hint: Last 2 hours
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: tubes_drains
+      label: Tubes and Drains
+      hint: Type and location
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: wounds
+      label: Wounds
+      hint: Location and status
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: section_equipment
+      label: -- Equipment During Transport --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 54
+      name: monitoring_required
+      label: Cardiac Monitoring Required
+      hint: null
+      type: select_one
+      options:
+      - Yes - Continuous
+      - Yes - Intermittent
+      - false
+      required: true
+    - id: 55
+      name: ventilator_required
+      label: Ventilator Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 56
+      name: infusion_pumps
+      label: Infusion Pumps Required
+      hint: Number needed
+      type: number
+      options: []
+      required: false
+    - id: 57
+      name: special_equipment
+      label: Special Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bariatric equipment
+      - Pediatric equipment
+      - Isolation precautions
+      - Restraints
+      - Other
+      required: false
+    - id: 58
+      name: section_personnel
+      label: -- Transport Personnel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 59
+      name: transport_team
+      label: Transport Team Composition
+      hint: null
+      type: select_one
+      options:
+      - 2 EMTs
+      - 1 EMT + 1 Paramedic
+      - 2 Paramedics
+      - Paramedic + Nurse
+      - Critical Care Team
+      - Other
+      required: true
+    - id: 60
+      name: escorting_staff
+      label: Escorting Medical Staff
+      hint: From sending facility
+      type: text
+      options: []
+      required: false
+    - id: 61
+      name: section_belongings
+      label: -- Patient Belongings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 62
+      name: belongings_transferred
+      label: Patient Belongings Transferred
+      hint: List all items
+      type: text
+      options: []
+      required: false
+    - id: 63
+      name: medical_records
+      label: Medical Records Transferred
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete records
+      - Yes - Partial records
+      - No - Will follow
+      required: true
+    - id: 64
+      name: imaging_studies
+      label: Imaging Studies Transferred
+      hint: X-rays, CDs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 65
+      name: section_handoff
+      label: -- Handoff Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 66
+      name: departure_time
+      label: Departure Time from Sending Facility
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 67
+      name: arrival_time
+      label: Arrival Time at Receiving Facility
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 68
+      name: transport_notes
+      label: Transport Notes
+      hint: Any incidents during transport
+      type: text
+      options: []
+      required: false
+    - id: 69
+      name: patient_condition_arrival
+      label: Patient Condition at Arrival
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 70
+      name: section_signatures
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 71
+      name: sending_nurse_name
+      label: Sending Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 72
+      name: sending_nurse_signature
+      label: Sending Nurse Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 73
+      name: transport_crew_name
+      label: Transport Crew Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 74
+      name: transport_crew_signature
+      label: Transport Crew Lead Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 75
+      name: receiving_nurse_name
+      label: Receiving Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 76
+      name: receiving_nurse_signature
+      label: Receiving Nurse Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 77
+      name: transfer_completion_time
+      label: Transfer Completion Time
+      hint: When handoff completed
+      type: time
+      options: []
+      required: false

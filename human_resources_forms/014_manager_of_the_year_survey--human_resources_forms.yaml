@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager of the Year Survey
+    pages:
+    - id: 1
+      name: manager_of_the_year_survey_name
+      label: Manager Of The Year Survey Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_of_the_year_survey_title
+      label: Manager of the Year Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_of_the_year_survey_description
+      label: Manager of the Year Survey Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: performance_and_leadership_skills
+      label: Performance and Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Performance
+      - Leadership
+      required: false
+    - id: 7
+      name: feedback_on_performance
+      label: Feedback on Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Teamwork
+      - Problem Solving
+      - Time Management
+      - Adaptability
+      required: false
+    - id: 8
+      name: feedback_on_leadership
+      label: Feedback on Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - Teamwork
+      - Vision
+      - Empowering Others
+      required: false

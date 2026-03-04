@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental health progress notes form
+    pages:
+    - id: 1
+      name: mental_health_progress_notes_form
+      label: Progress Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_progress_notes_form_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health_progress_notes_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: mental_health_progress_notes_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: mental_health_progress_notes_form_provider
+      label: Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_progress_notes_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: mental_health_progress_notes_form_patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_progress_notes_form_referring_provider
+      label: Referring Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: mental_health_progress_notes_form_referring_provider_name
+      label: Referring Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mental_health_progress_notes_form_referring_provider_phone
+      label: Referring Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_progress_notes_form_referring_provider_phone_ext
+      label: Referring Provider Phone Ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mental_health_progress_notes_form_referring_provider_phone_type
+      label: Referring Provider Phone Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

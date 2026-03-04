@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vineyard Guesthouse Booking Form
+    pages:
+    - id: 1
+      name: booking_details
+      label: booking_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: check_in_date
+      label: check_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: check_out_date
+      label: check_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_multiple
+      options:
+      - King
+      - Queen
+      - Single
+      required: false
+    - id: 6
+      name: room_quantity
+      label: room_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: guest_quantity
+      label: guest_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reservation_notes
+      label: reservation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 12
+      name: confirm_reservation
+      label: confirm_reservation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

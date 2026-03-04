@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_policy_compliance_declaration_form
+    pages:
+    - id: 1
+      name: i_understand
+      label: i understand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_number
+      label: policy number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employee_email
+      label: employee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: employee_phone
+      label: employee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: i_agree
+      label: i agree
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

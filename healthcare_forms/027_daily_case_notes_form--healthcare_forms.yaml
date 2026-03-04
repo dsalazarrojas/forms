@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_case_notes_form
+    pages:
+    - id: 1
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: case_manager_notes
+      label: Case Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_step
+      label: Next Step
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

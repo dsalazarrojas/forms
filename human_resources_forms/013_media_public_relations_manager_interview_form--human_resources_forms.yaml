@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Public Relations Manager Interview Form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: written_interview_questions
+      label: Written Interview Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pr_manager_details
+      label: PR Manager Details
+      hint: null
+      type: select_one
+      options:
+      - PR Manager
+      - PR Officer
+      - Communications Manager
+      - Other
+      - Not Applicable
+      required: false
+    - id: 4
+      name: written_interview_responses
+      label: Written Interview Responses
+      hint: null
+      type: select_multiple
+      options:
+      - Response 1
+      - Response 2
+      - Response 3
+      - Response 4
+      - Response 5
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: media_contact_details
+      label: Media Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offline Payment Request Form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salary_reference
+      label: Salary Reference Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

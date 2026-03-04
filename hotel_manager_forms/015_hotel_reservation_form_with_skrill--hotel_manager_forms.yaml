@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Form With Skrill
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skrill_id
+      label: Skrill ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: checkout_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel Suite
+      - Suite
+      - Room
+      required: false
+    - id: 12
+      name: room_count
+      label: Room Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: room_price
+      label: Room Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Cash
+      - PayPal
+      - Skrill
+      required: false
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: exp_date
+      label: Exp. Date
+      hint: null
+      type: date
+      options: []
+      required: false

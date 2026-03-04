@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inner Cycle Pattern Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cycle_type
+      label: Cycle type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: cycle_regularity
+      label: Cycle regularity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: daily_life_impact
+      label: Daily life impact
+      hint: null
+      type: text
+      options: []
+      required: false

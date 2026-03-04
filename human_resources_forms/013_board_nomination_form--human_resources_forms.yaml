@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Board Nomination Form
+    pages:
+    - id: 1
+      name: nominator_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_position
+      label: Nominator Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: nominee_header
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_department
+      label: Nominee Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tenure_years
+      label: Nominee Years at Company
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: proposed_role
+      label: Proposed Board Role
+      hint: null
+      type: select_one
+      options:
+      - Member at Large
+      - Secretary
+      - Treasurer
+      - Vice-Chair
+      - Advisor
+      required: true
+    - id: 10
+      name: justification_header
+      label: -- Nomination Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: nominee_qualifications
+      label: Briefly describe the nominee qualifications for the board
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: nominee_skills
+      label: Key skills the nominee brings to the board
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Financial Oversight
+      - Leadership
+      - Industry Expertise
+      - Community Relations
+      required: true
+    - id: 13
+      name: nomination_support
+      label: Additional comments or support for this nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nomination_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Functional Analysis Screening Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': None}'
+      - '{''option_2'': None}'
+      - '{''option_3'': None}'
+      required: false
+    - id: 3
+      name: functional_ability_bath
+      label: Functional Ability Bath
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: functional_ability_dress
+      label: Functional Ability Dress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: functional_ability_ironing
+      label: Functional Ability Ironing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: functional_ability_stairs
+      label: Functional Ability Stairs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: functional_ability_walk
+      label: Functional Ability Walk
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: functional_ability_kneel
+      label: Functional Ability Kneel
+      hint: null
+      type: text
+      options: []
+      required: false

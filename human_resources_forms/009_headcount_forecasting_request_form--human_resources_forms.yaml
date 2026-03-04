@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headcount Forecasting Request Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Team Member''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR''}'
+      - '{''id'': 2, ''label'': ''Finance''}'
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_contact
+      label: Manager Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_lead_title
+      label: Team Lead Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_lead_contact
+      label: Team Lead Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: department_title
+      label: Department Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: department_contact
+      label: Department Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_manager
+      label: Manager Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_lead_manager
+      label: Team Lead Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: department_manager
+      label: Department Manager
+      hint: null
+      type: text
+      options: []
+      required: false

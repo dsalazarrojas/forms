@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Discharge Form
+    pages:
+    - id: 1
+      name: employment_discharge_form
+      label: employment_discharge_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_discharge_details
+      label: reason_for_discharge_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_discharge_code
+      label: reason_for_discharge_code
+      hint: null
+      type: select_one
+      options:
+      - Voluntary Resignation
+      - Termination
+      - LayOff
+      - Death
+      required: false
+    - id: 5
+      name: last_day_of_work
+      label: last_day_of_work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_termination_other
+      label: reason_for_termination_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_termination_other_note
+      label: reason_for_termination_other_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_termination_other_code
+      label: reason_for_termination_other_code
+      hint: null
+      type: select_one
+      options:
+      - Voluntary Resignation
+      - Termination
+      - LayOff
+      - Death
+      required: false
+    - id: 10
+      name: reason_for_termination_other_reason
+      label: reason_for_termination_other_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: last_day_of_pay
+      label: last_day_of_pay
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: last_pay_date
+      label: last_pay_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: severance_package
+      label: severance_package
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: severance_package_amount
+      label: severance_package_amount
+      hint: null
+      type: text
+      options: []
+      required: false

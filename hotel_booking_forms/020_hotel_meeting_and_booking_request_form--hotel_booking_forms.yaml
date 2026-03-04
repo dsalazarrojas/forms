@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Meeting And Booking Request Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: attendees
+      label: Attendees
+      hint: List the names and contact information of attendees
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: meeting_end_time
+      label: Meeting End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hotel_preferences
+      label: Hotel Preferences
+      hint: List the amenities you would like
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: List any special requests for the event
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: Enter your name, email, and phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hotel_id
+      label: Hotel ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submit_request
+      label: Submit Request
+      hint: Submit your request and we will get back to you.
+      type: text
+      options: []
+      required: false

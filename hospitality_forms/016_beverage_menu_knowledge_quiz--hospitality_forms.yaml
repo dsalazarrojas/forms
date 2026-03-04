@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Menu Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: staff_role
+      label: Staff Position
+      hint: Server, bartender, host, etc.
+      type: select_one
+      options:
+      - Server
+      - Bartender
+      - Host/Hostess
+      - Manager
+      - Back-of-house staff
+      - Other hospitality
+      required: true
+    - id: 4
+      name: shift_type
+      label: Primary Work Shift
+      hint: null
+      type: select_one
+      options:
+      - Day shift
+      - Evening shift
+      - Night shift
+      - Mix of shifts
+      required: true
+    - id: 5
+      name: quiz_date
+      label: Quiz Date
+      hint: When is this quiz being taken?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_house_beverages
+      label: -- House Signature Beverages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_drink1
+      label: What are the main ingredients in our House Special Margarita
+      hint: List primary ingredients
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signature_drink2
+      label: Describe our Seasonal Sangria Recipe
+      hint: Main components and garnish
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature_drink3
+      label: What Makes Our Mojito Different From Competitors
+      hint: Key distinguishing features
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_wine
+      label: -- Wine & Spirits Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: wine_pairing1
+      label: Which Wine Pairs Best With Fish Dishes
+      hint: Red, white, or rosé?
+      type: select_one
+      options:
+      - Red wine
+      - White wine
+      - Rose wine
+      - Any wine
+      - No wine pairing
+      required: true
+    - id: 12
+      name: wine_pairing2
+      label: Name Our Most Popular Red Wine and Its Origin
+      hint: Brand and region
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: spirit_question
+      label: What Spirit is Used in Our Traditional Old Fashioned
+      hint: Type and brand if known
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_cocktails
+      label: -- Cocktail Preparation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cocktail_ingredients
+      label: Describe How to Make Our House Cosmopolitan
+      hint: List ingredients and proportions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cocktail_technique
+      label: Should This Drink Be Shaken or Stirred
+      hint: null
+      type: select_one
+      options:
+      - Shaken
+      - Stirred
+      - Blended
+      - Built in glass
+      required: true
+    - id: 17
+      name: non_alcoholic
+      label: What Are the Ingredients in Our Virgin Mojito
+      hint: Non-alcoholic mocktail
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_beer
+      label: -- Beer Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: beer_selection
+      label: How Many Beers Are Currently On Tap
+      hint: Current number of draft options
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: beer_type
+      label: Name Three Types of Beer We Serve and Their Styles
+      hint: Brand and beer style
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: beer_alcohol
+      label: Which Beer Has the Highest Alcohol Content
+      hint: Brand name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_header_specialty
+      label: -- Specialty & Non-Alcoholic --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: specialty_coffee
+      label: How Do We Prepare Our Specialty Coffee Drinks
+      hint: Describe espresso, cappuccino, latte preparation
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: tea_types
+      label: What Types of Tea Does Our Menu Offer
+      hint: List tea varieties available
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: juice_drinks
+      label: What Fresh Juices Are Available
+      hint: List fresh juice options
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: allergen_knowledge
+      label: What Common Allergens Are Found in Our Beverages
+      hint: Nuts, gluten, dairy, etc.
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: section_header_service
+      label: -- Service Standards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: recommended_serving
+      label: What Temperature Should White Wine Be Served At
+      hint: Approximate temperature in Fahrenheit
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: glassware
+      label: Which Glass Type Is Used for Martinis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: upsell_strategy
+      label: When Should You Recommend Premium Beverages
+      hint: Sales and service strategy
+      type: text
+      options: []
+      required: true

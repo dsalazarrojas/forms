@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSE Vendor Questionnaire
+    pages:
+    - id: 1
+      name: vendor_profile_header
+      label: -- Vendor Profile and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_legal_name
+      label: Full Legal Name or Entity Name
+      hint: name as it appears on tax documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id_number
+      label: Taxpayer Identification Number - SSN or EIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: vendor_address
+      label: Business Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_details_header
+      label: -- Service Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: services_provided
+      label: Description of Services Provided
+      hint: be specific about the work to be performed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: service_end_date
+      label: Expected End Date
+      hint: if applicable
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: independent_contractor_header
+      label: -- Independent Contractor Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: other_clients
+      label: Do you perform services for other entities
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: incorporated_status
+      label: Is your business incorporated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: mica_relationship
+      label: Are you related to any MICA employees
+      hint: Maryland Institute College of Art
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: payment_terms_header
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: compensation_rate
+      label: Agreed Compensation Rate
+      hint: e.g. hourly, flat fee, etc.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: total_contract_value
+      label: Total Not-to-Exceed Amount
+      hint: numeric value only
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vendor_signature_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

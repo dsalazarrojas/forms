@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Op Clearance Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: surgical_info
+      label: Surgical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: anesthesia_info
+      label: Anesthesia Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false

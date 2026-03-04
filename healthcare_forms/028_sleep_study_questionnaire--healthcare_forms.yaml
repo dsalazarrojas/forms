@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: sleep_study_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sleep_habits
+      label: sleep_habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sleep_patterns
+      label: sleep_patterns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sleep_patterns_other
+      label: sleep_patterns_other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sleep_patterns_other_other
+      label: sleep_patterns_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sleep_patterns_other_other_other
+      label: sleep_patterns_other_other_other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sleep_patterns_other_other_other_other
+      label: sleep_patterns_other_other_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sleep_study_questionnaire_form_comments
+      label: sleep_study_questionnaire_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

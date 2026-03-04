@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_recognition_award_nomination_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: prophets
+      label: award_category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Sales
+      - IT
+      - Marketing
+      - Finance
+      required: true
+    - id: 3
+      name: reason_for_nomination
+      label: nomination_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominee_name
+      label: nominee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: nominee_department
+      label: nominee_department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Sales
+      - IT
+      - Marketing
+      - Finance
+      required: true
+    - id: 7
+      name: nominee_title
+      label: title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: nomination_date
+      label: nomination_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: nomination_reason_date
+      label: nomination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: nomination_message
+      label: nomination_message
+      hint: null
+      type: text
+      options: []
+      required: false

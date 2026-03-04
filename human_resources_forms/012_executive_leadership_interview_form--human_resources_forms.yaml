@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Leadership Interview Form
+    pages:
+    - id: 1
+      name: candidate_info
+      label: candidate_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_panel
+      label: interview_panel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR Panel''}'
+      - '{''id'': 2, ''label'': ''Hiring Manager''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: candidate_job_title
+      label: candidate_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_score
+      label: evaluation_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_interview
+      label: date_of_interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Worker Onboarding Form
+    pages:
+    - id: 1
+      name: worker_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: worker_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: middle_name
+      label: Middle Name
+      hint: Optional middle name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: social_security
+      label: Social Security Number
+      hint: SSN for employment verification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Current mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: position_applied
+      label: Position Applied For
+      hint: Job title or role
+      type: select_one
+      options:
+      - Field worker
+      - Equipment operator
+      - Irrigation specialist
+      - Supervisor
+      - Harvest crew
+      - Packing house worker
+      - General farm hand
+      - Other
+      required: true
+    - id: 13
+      name: start_date
+      label: Start Date
+      hint: Expected start date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: employment_type
+      label: Employment Type
+      hint: Type of employment
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Seasonal
+      - Temporary
+      - Contract
+      required: true
+    - id: 15
+      name: previous_experience
+      label: Previous Agricultural Experience
+      hint: Years of farm work experience
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      required: true
+    - id: 16
+      name: experience_details
+      label: Experience Details
+      hint: Describe previous farm work
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_certification
+      label: Equipment Certifications
+      hint: Select all certifications held
+      type: select_multiple
+      options:
+      - Tractor operation
+      - Pesticide application
+      - CDL license
+      - Forklift operation
+      - Irrigation systems
+      - None
+      required: false
+    - id: 18
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Select all languages you speak
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Portuguese
+      - Haitian Creole
+      - Other
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: work_authorization
+      label: Work Authorization Status
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - US Citizen
+      - Permanent Resident
+      - Work Visa Holder
+      - Other authorized status
+      required: true
+    - id: 23
+      name: transportation
+      label: Transportation Method
+      hint: How will you get to work
+      type: select_one
+      options:
+      - Personal vehicle
+      - Carpool
+      - Public transportation
+      - Farm transportation needed
+      - Walk or bike
+      required: true
+    - id: 24
+      name: housing_needed
+      label: Housing Assistance Needed
+      hint: Do you need housing assistance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: health_conditions
+      label: Relevant Health Conditions
+      hint: Any conditions we should know about for safety
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: ppe_size
+      label: PPE Size
+      hint: Size for personal protective equipment
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 27
+      name: training_completed
+      label: Safety Training Completed
+      hint: Have you completed farm safety training
+      type: select_one
+      options:
+      - Yes, within last year
+      - Yes, more than a year ago
+      - false
+      required: true
+    - id: 28
+      name: drug_screen_consent
+      label: Drug Screen Consent
+      hint: Do you consent to drug screening
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 29
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to background check
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 30
+      name: worker_signature
+      label: Worker Signature
+      hint: Digital signature of worker
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: supervisor_name
+      label: Assigned Supervisor
+      hint: Name of supervising manager
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: onboarding_status
+      label: Onboarding Status
+      hint: Current status in onboarding
+      type: select_one
+      options:
+      - Application submitted
+      - Documents pending
+      - Training scheduled
+      - Ready to start
+      - Completed
+      required: true

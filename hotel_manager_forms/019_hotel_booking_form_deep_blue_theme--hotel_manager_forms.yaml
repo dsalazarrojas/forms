@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Form Deep Blue Theme
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: room_choice
+      label: Room choice
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Double''}'
+      - '{''value'': ''Suite''}'
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Card''}'
+      - '{''value'': ''Bank Transfer''}'
+      - '{''value'': ''PayPal''}'
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''admin1''}'
+      - '{''value'': ''admin2''}'
+      required: false

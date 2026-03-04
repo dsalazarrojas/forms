@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 120th Annual Convention Attestation Form
+    pages:
+    - id: 1
+      name: section_header_attendee_info
+      label: '--- Attendee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: affiliation
+      label: Affiliation / Employer
+      hint: Hospital, clinic, or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Years
+      type: integer
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: license_number
+      label: State license / DO number
+      hint: Include issuing state if applicable
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_health
+      label: '--- Health and Exposure ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_symptoms
+      label: Current symptoms (select all that apply)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Headache
+      - Fatigue
+      - Cough
+      - Pain
+      - Nausea
+      - Other
+      required: false
+    - id: 11
+      name: pain_level
+      label: Pain level (0-10)
+      hint: 0 = no pain, 10 = worst pain
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: current_medications
+      label: Current medications
+      hint: List all medications and dosages if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: known_allergies
+      label: Known allergies
+      hint: Null if none
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: Relevant medical history
+      hint: Brief summary of chronic conditions or recent hospitalizations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vaccination_status
+      label: COVID-19 vaccination status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: true
+    - id: 16
+      name: covid_test_date
+      label: Date of most recent COVID-19 test
+      hint: Leave blank if not tested
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: covid_test_result
+      label: Result of most recent COVID-19 test
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      - Pending
+      required: false
+    - id: 18
+      name: recent_exposure
+      label: Recent known exposure to confirmed case (14 days)
+      hint: Exposure to confirmed case in last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 19
+      name: accommodation_needs
+      label: Accommodation needs
+      hint: Select any accommodations required for the event
+      type: select_multiple
+      options:
+      - Wheelchair accessible seating
+      - Dietary restrictions
+      - Sign language interpreter
+      - Large-print materials
+      - Other
+      required: false
+    - id: 20
+      name: section_header_convention
+      label: '--- Convention Attendance ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: attendance_days
+      label: Convention days attending
+      hint: Select the days you will attend
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - Pre-conference workshop
+      required: true
+    - id: 22
+      name: contact_on_site
+      label: On-site contact person
+      hint: Provide name and phone if available
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attestation_confirmation
+      label: I confirm that the information provided is accurate and I have no known
+        exposures or active symptoms inconsistent with event policy
+      hint: Selecting "Confirm" constitutes attestation
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 24
+      name: attestation_signature
+      label: Typed signature (full name)
+      hint: By typing your name you agree to this attestation
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you wish to provide
+      type: text
+      options: []
+      required: false

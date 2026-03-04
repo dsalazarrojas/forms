@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinic Tour Interest Survey
+    pages:
+    - id: 1
+      name: visitor_section
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_type
+      label: Type of Visitor
+      hint: null
+      type: select_one
+      options:
+      - Prospective patient
+      - Current patient
+      - Family member
+      - Healthcare professional
+      - Student
+      - Other
+      required: true
+    - id: 6
+      name: tour_section
+      label: -- Tour Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tour_interest
+      label: Interested in facility tour?
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not interested
+      required: true
+    - id: 8
+      name: preferred_date
+      label: Preferred tour date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time
+      label: Preferred time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Flexible
+      required: true
+    - id: 10
+      name: group_size
+      label: Number of people in group
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: areas_section
+      label: -- Areas of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: areas_interest
+      label: Areas you would like to see
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emergency department
+      - Patient rooms
+      - Operating room
+      - Diagnostic imaging
+      - Laboratory
+      - Cafeteria/Amenities
+      - Administrative offices
+      - All areas
+      required: true
+    - id: 13
+      name: specific_departments
+      label: Specific departments of interest
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: duration_section
+      label: -- Tour Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tour_duration
+      label: Preferred tour duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - Flexible
+      required: true
+    - id: 16
+      name: tour_guide_section
+      label: -- Tour Guide --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: guide_preference
+      label: Tour guide preference
+      hint: null
+      type: select_one
+      options:
+      - Clinical staff
+      - Administrative staff
+      - Volunteer
+      - No preference
+      required: false
+    - id: 18
+      name: accessibility_section
+      label: -- Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Any accessibility accommodations needed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mobility_assistance
+      label: Mobility assistance needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special requests or considerations
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: communication_preference
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      required: true

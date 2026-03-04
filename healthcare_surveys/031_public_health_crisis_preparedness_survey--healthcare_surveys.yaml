@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Crisis Preparedness Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: second_page
+      label: Second Page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emergency_plan
+      label: Emergency Plan
+      hint: Describe your emergency plan
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_info_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_info_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

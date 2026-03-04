@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: IVF Cost Assessment Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics_info
+      label: Demographics Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Private''}'
+      - '{''id'': 2, ''name'': ''Medicare''}'
+      - '{''id'': 3, ''name'': ''Medicaid''}'
+      - '{''id'': 4, ''name'': ''Tricare''}'
+      required: false
+    - id: 5
+      name: treatment_interests
+      label: Treatment Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''In Vitro Fertilization (IVF)''}'
+      - '{''id'': 2, ''name'': ''Intrauterine Insemination (IUI)''}'
+      - '{''id'': 3, ''name'': ''Intrauterine Insemination (IUI) with ICSI''}'
+      required: false
+    - id: 6
+      name: treatment_cost
+      label: What type of treatment are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''IVF''}'
+      - '{''id'': 2, ''name'': ''IUI''}'
+      - '{''id'': 3, ''name'': ''ICSI''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: insurance_coverage
+      label: How many IVF cycles are covered by your insurance coverage?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full Coverage''}'
+      - '{''id'': 2, ''name'': ''Partial Coverage''}'
+      - '{''id'': 3, ''name'': ''No Coverage''}'
+      required: false
+    - id: 8
+      name: treatment_options
+      label: Which treatment options are you interested in for each cycle of IVF?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Frozen Embryo Transfer (FET)''}'
+      - '{''id'': 2, ''name'': ''Intracytoplasmic Sperm Injection (ICSI)''}'
+      - '{''id'': 3, ''name'': ''Donor Egg''}'
+      - '{''id'': 4, ''name'': ''Surrogacy''}'
+      required: false
+    - id: 9
+      name: financial_info
+      label: Financial Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physician_email
+      label: Physician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_address
+      label: Physician Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: total_cycles
+      label: Total Cycles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: cycle_cost
+      label: Cycle Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: clinic_notes
+      label: Clinic Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: total_cycles_cost
+      label: Total Cycles Cost
+      hint: null
+      type: number
+      options: []
+      required: false

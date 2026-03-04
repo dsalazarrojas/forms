@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Private Insurance
+      - Government Aid
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Allergies
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: appointment
+      label: Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: insurance_card_number
+      label: Insurance Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut
+      - Shellfish
+      - Soy
+      required: false
+    - id: 19
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_one
+      options:
+      - Primary Care
+      - Specialist
+      required: false
+    - id: 22
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: patient_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      required: false
+    - id: 25
+      name: patient_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true

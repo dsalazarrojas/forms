@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: video_wall_display_booking_form
+    pages:
+    - id: 1
+      name: user_details
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_date
+      label: Booking Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: display_requirements
+      label: Display Requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: terms_agreement
+      label: Terms Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

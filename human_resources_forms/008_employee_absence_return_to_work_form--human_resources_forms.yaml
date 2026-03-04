@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Absence Return To Work Form
+    pages:
+    - id: 1
+      name: physician_name
+      label: Physicians Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: absence_reason
+      label: Absence Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: physician_signature_date
+      label: Physician Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Leader Report Form
+    pages:
+    - id: 1
+      name: team_leaders_report
+      label: Team Leader Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: project_progress
+      label: Project Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: key_actions
+      label: Key Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_leaders_report
+      label: Team Leader Report
+      hint: null
+      type: text
+      options: []
+      required: false

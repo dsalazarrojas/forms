@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Care Appointment Reservation Form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: Select Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: selected_time
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: Pet Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Examination
+      - Vaccination
+      - Consultation
+      - Other
+      required: false
+    - id: 8
+      name: owner_comment
+      label: Owner Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: veterinary_clinic
+      label: Veterinary Clinic
+      hint: null
+      type: select_one
+      options:
+      - Pet Clinic
+      - Animal Hospital
+      - Other
+      required: false
+    - id: 10
+      name: assigned_provider
+      label: Assigned Provider
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Other
+      required: false
+    - id: 11
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Rescheduled
+      - Cancelled
+      - Pending
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Other
+      required: false
+    - id: 13
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: false

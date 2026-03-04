@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Treatment Trial Participant Feedback
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: Your study identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_date
+      label: Feedback Date
+      hint: When are you providing this feedback
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_treatment_experience
+      label: -- Treatment Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: treatment_satisfaction
+      label: Overall Treatment Satisfaction
+      hint: Rate your satisfaction 1-10
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: treatment_effectiveness
+      label: How Effective Was the Treatment
+      hint: Rate effectiveness 1-10
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: symptom_improvement
+      label: Symptom Improvement
+      hint: Did your symptoms improve
+      type: select_one
+      options:
+      - Significantly Improved
+      - Moderately Improved
+      - Slightly Improved
+      - No Change
+      - Worsened
+      required: true
+    - id: 8
+      name: improvement_timeline
+      label: Timeline for Improvement
+      hint: How long until you noticed improvement
+      type: select_one
+      options:
+      - Within Days
+      - Within 1-2 Weeks
+      - Within 1 Month
+      - After 1 Month
+      - No Improvement Yet
+      required: false
+    - id: 9
+      name: section_side_effects
+      label: -- Side Effects and Tolerability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: experienced_side_effects
+      label: Did You Experience Side Effects
+      hint: Any adverse reactions or side effects
+      type: select_one
+      options:
+      - No Side Effects
+      - Mild Side Effects
+      - Moderate Side Effects
+      - Severe Side Effects
+      required: true
+    - id: 11
+      name: side_effects_list
+      label: Describe Side Effects Experienced
+      hint: What specific side effects did you have
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: side_effects_severity
+      label: Side Effects Impact on Daily Life
+      hint: How much did side effects affect you
+      type: select_one
+      options:
+      - No Impact
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Unable to Continue Treatment
+      required: false
+    - id: 13
+      name: side_effects_duration
+      label: Duration of Side Effects
+      hint: How long did side effects last
+      type: select_one
+      options:
+      - Resolved Quickly
+      - Persistent
+      - Intermittent
+      - Still Experiencing
+      required: false
+    - id: 14
+      name: section_compliance
+      label: -- Treatment Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: compliance_adherence
+      label: Treatment Adherence
+      hint: How well did you follow treatment plan
+      type: select_one
+      options:
+      - Excellent - Followed All Instructions
+      - Good - Missed Few Doses
+      - Fair - Missed Some Doses
+      - Poor - Missed Many Doses
+      required: true
+    - id: 16
+      name: missed_doses
+      label: Reason for Any Missed Doses
+      hint: If applicable, why doses were missed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: treatment_difficulty
+      label: Difficulty Following Treatment Plan
+      hint: Was it easy or hard to follow
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Somewhat Difficult
+      - Very Difficult
+      required: false
+    - id: 18
+      name: section_healthcare
+      label: -- Healthcare Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: researcher_communication
+      label: Study Team Communication
+      hint: Rate the quality of communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: study_facilities
+      label: Study Facility Quality
+      hint: Rate the study facility
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: information_clarity
+      label: Clarity of Study Information Provided
+      hint: Was information clear
+      type: select_one
+      options:
+      - Very Clear
+      - Mostly Clear
+      - Somewhat Unclear
+      - Very Unclear
+      required: true
+    - id: 22
+      name: support_received
+      label: Quality of Support During Study
+      hint: Rate the support you received
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: section_outcomes
+      label: -- Health Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: overall_health
+      label: Overall Health Status Now
+      hint: How is your health after treatment
+      type: select_one
+      options:
+      - Significantly Better
+      - Better
+      - About the Same
+      - Worse
+      - Significantly Worse
+      required: true
+    - id: 25
+      name: treatment_likelihood
+      label: Would You Undergo This Treatment Again
+      hint: Would you choose this treatment again
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Yes, Probably
+      - Unsure
+      - No, Probably Not
+      - No, Definitely Not
+      required: true
+    - id: 26
+      name: recommendation
+      label: Would You Recommend to Others
+      hint: Would you suggest this to others
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Not Recommend
+      - Strongly Advise Against
+      required: true
+    - id: 27
+      name: section_feedback
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How could the treatment be improved
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: study_experience_feedback
+      label: General Feedback About Study Experience
+      hint: Overall comments about participation
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: future_research_interest
+      label: Interest in Future Research Studies
+      hint: Would you participate in future studies
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Interested
+      - Maybe
+      - false
+      required: false

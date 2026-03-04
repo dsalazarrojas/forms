@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiotherapy Virtual Assistant Survey
+    pages:
+    - id: 1
+      name: form_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_2
+      label: How often do you use the virtual assistant?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Once a day''}'
+      - '{''id'': 2, ''label'': ''A few times a week''}'
+      - '{''id'': 3, ''label'': ''Less than once a week''}'
+      required: true
+    - id: 3
+      name: form_3
+      label: What is the virtual assistant's feature that you find most useful?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Providing information on available treatment options''}'
+      - '{''id'': 2, ''label'': ''Suggesting treatment options based on your medical
+        history''}'
+      - '{''id'': 3, ''label'': ''Offering appointment reminders and scheduling''}'
+      required: false
+    - id: 4
+      name: form_4
+      label: What is your feedback about the virtual assistant's user interface?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_5
+      label: What would you like to see improved in our virtual assistant?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_6
+      label: How likely are you to recommend the virtual assistant to others?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not at all''}'
+      - '{''id'': 2, ''label'': ''Somewhat''}'
+      - '{''id'': 3, ''label'': ''Very likely''}'
+      - '{''id'': 4, ''label'': ''Extremely likely''}'
+      required: true
+    - id: 7
+      name: form_7
+      label: How would you rate the overall experience with the virtual assistant?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very poor''}'
+      - '{''id'': 2, ''label'': ''Poor''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Good''}'
+      - '{''id'': 5, ''label'': ''Excellent''}'
+      required: true
+    - id: 8
+      name: form_8
+      label: How satisfied are you with the virtual assistant's response time?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very dissatisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat dissatisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 5, ''label'': ''Very satisfied''}'
+      required: true
+    - id: 9
+      name: form_9
+      label: Have you experienced any issues with the virtual assistant?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Yes, with technical issues''}'
+      - '{''id'': 2, ''label'': ''Yes, with content issues''}'
+      - '{''id'': 3, ''label'': False}'
+      required: false
+    - id: 10
+      name: form_10
+      label: What type of device do you use to access the virtual assistant?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Smartphone''}'
+      - '{''id'': 2, ''label'': ''Tablet''}'
+      - '{''id'': 3, ''label'': ''Desktop or laptop''}'
+      required: true
+    - id: 11
+      name: form_11
+      label: How do you usually access the virtual assistant?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Through a web browser''}'
+      - '{''id'': 2, ''label'': ''Through an app''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 12
+      name: form_12
+      label: What features would you like to see added to the virtual assistant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_13
+      label: Do you have any additional comments about the virtual assistant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_14
+      label: How can we contact you if we need more information?
+      hint: null
+      type: text
+      options: []
+      required: false

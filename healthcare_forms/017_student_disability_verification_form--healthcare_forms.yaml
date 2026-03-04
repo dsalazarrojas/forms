@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Disability Verification Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: disability_type
+      label: Disability Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: disability_date
+      label: Disability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: disability_description
+      label: Disability Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: certifying_officer
+      label: Certifying Officer
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: certifying_officer_signature
+      label: Certifying Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: institution_signature
+      label: Institution Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,307 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Program Discharge Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: Personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_id
+      label: Participant ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: program_info
+      label: Program Information
+      hint: Details about the program
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: admission_date
+      label: Admission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 days
+      - 30-90 days
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 17
+      name: discharge_reason
+      label: Reason for Discharge
+      hint: null
+      type: select_one
+      options:
+      - Program Completed Successfully
+      - Transferred to Another Program
+      - Participant Requested Discharge
+      - Medical Reasons
+      - Relocation
+      - Non-Compliance
+      - Other
+      required: true
+    - id: 18
+      name: discharge_reason_details
+      label: Discharge Reason Details
+      hint: Explain if other
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: goals_section
+      label: Goals and Outcomes
+      hint: Progress assessment
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: goals_met
+      label: Were Program Goals Met
+      hint: null
+      type: select_one
+      options:
+      - All Goals Met
+      - Most Goals Met
+      - Some Goals Met
+      - Few Goals Met
+      - No Goals Met
+      required: true
+    - id: 21
+      name: key_achievements
+      label: Key Achievements
+      hint: List main accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: skills_gained
+      label: Skills Gained
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Life Skills
+      - Job Skills
+      - Communication Skills
+      - Problem Solving
+      - Financial Management
+      - Health Management
+      - Social Skills
+      - Educational Skills
+      - Other
+      required: false
+    - id: 23
+      name: follow_up
+      label: Follow-Up Plan
+      hint: Post-discharge support
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_needed
+      label: Is Follow-Up Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: follow_up_type
+      label: Type of Follow-Up
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Phone Check-Ins
+      - In-Person Meetings
+      - Support Group
+      - Counseling
+      - Case Management
+      - Referral Services
+      - None
+      required: false
+    - id: 26
+      name: follow_up_frequency
+      label: Follow-Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - As Needed
+      required: false
+    - id: 27
+      name: referrals
+      label: Referrals Made
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Housing Services
+      - Employment Services
+      - Healthcare
+      - Mental Health Services
+      - Substance Abuse Services
+      - Educational Programs
+      - Legal Services
+      - Financial Assistance
+      - None
+      required: false
+    - id: 28
+      name: referral_details
+      label: Referral Details
+      hint: Specify referrals
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: participant_feedback
+      label: Participant Satisfaction
+      hint: Overall experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 30
+      name: recommendations
+      label: Participant Recommendations
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: staff_section
+      label: Staff Information
+      hint: For internal use
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: case_manager
+      label: Case Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: discharge_coordinator
+      label: Discharge Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Requires Follow-Up
+      required: true
+    - id: 35
+      name: form_completion_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire 30 Day Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_hired
+      label: Date Hired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Finance
+      - HR
+      - Marketing
+      - Sales
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department_location
+      label: Department Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: direct_reports
+      label: Direct Reports
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 11
+      name: department_phone
+      label: Department Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department_email
+      label: Department E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Please include any notes or feedback from the new hire
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Fatigue Prevention Awareness Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role
+      hint: Family caregiver, healthcare worker, social worker, etc.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: caregiver_experience
+      label: Years of Caregiving Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fatigue_definition_understanding
+      label: Understanding of Caregiver Fatigue or Burnout
+      hint: Do you understand these concepts?
+      type: select_one
+      options:
+      - Very well - familiar with definition
+      - Well - general understanding
+      - Somewhat - vague understanding
+      - Not well - little knowledge
+      - Not at all - unfamiliar term
+      required: true
+    - id: 6
+      name: personally_experiencing_fatigue
+      label: Do You Personally Experience Caregiver Fatigue?
+      hint: null
+      type: select_one
+      options:
+      - Yes - significant fatigue
+      - Yes - moderate fatigue
+      - Yes - mild fatigue
+      - No - not experiencing fatigue
+      - Unsure
+      required: true
+    - id: 7
+      name: fatigue_symptoms
+      label: Fatigue Symptoms You Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical exhaustion
+      - Emotional exhaustion
+      - Mental or cognitive fatigue
+      - Loss of motivation
+      - Irritability or mood changes
+      - Sleep problems
+      - Physical health problems
+      - Difficulty concentrating
+      - Feeling overwhelmed
+      - Depressed or anxious
+      required: false
+    - id: 8
+      name: fatigue_causes
+      label: Main Causes of Your Fatigue
+      hint: What contributes to fatigue?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fatigue_impact
+      label: Impact of Fatigue on Your Life
+      hint: How has it affected you?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prevention_strategies_awareness
+      label: Awareness of Fatigue Prevention Strategies
+      hint: Do you know how to prevent burnout?
+      type: select_one
+      options:
+      - Very aware - know many strategies
+      - Aware - know some strategies
+      - Somewhat aware - limited knowledge
+      - Not very aware - little knowledge
+      - Not aware - no knowledge
+      required: true
+    - id: 11
+      name: using_prevention_strategies
+      label: Are You Using Prevention Strategies?
+      hint: null
+      type: select_one
+      options:
+      - Yes - actively using strategies
+      - Yes - using some strategies
+      - No - not using strategies
+      - Aware but not practicing
+      required: true
+    - id: 12
+      name: strategies_used
+      label: Fatigue Prevention Strategies You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Taking regular breaks
+      - Exercise or physical activity
+      - Meditation or mindfulness
+      - Support group attendance
+      - Professional counseling
+      - Setting boundaries
+      - Delegating tasks
+      - Time for hobbies or interests
+      - Adequate sleep
+      - Healthy diet
+      - Social connections
+      - Respite care
+      required: false
+    - id: 13
+      name: respite_care_access
+      label: Access to Respite Care
+      hint: Do you have breaks from caregiving?
+      type: select_one
+      options:
+      - Easy access - use regularly
+      - Some access - use occasionally
+      - Limited access - difficult to arrange
+      - No access - unavailable
+      - Don't know what respite care is
+      required: true
+    - id: 14
+      name: support_system
+      label: Support System Strength
+      hint: Do you have support available?
+      type: select_one
+      options:
+      - Strong support - can rely on
+      - Adequate support - some available
+      - Limited support - few options
+      - No support - isolated
+      - Unsure of available support
+      required: true
+    - id: 15
+      name: professional_help_awareness
+      label: Awareness of Professional Help Resources
+      hint: Do you know about available resources?
+      type: select_one
+      options:
+      - Very aware - know many resources
+      - Aware - know several resources
+      - Somewhat aware - know a few
+      - Not very aware - limited knowledge
+      - Not aware - don't know resources
+      required: true
+    - id: 16
+      name: accessed_professional_help
+      label: Have You Accessed Professional Help?
+      hint: Counseling, support groups, etc.
+      type: select_one
+      options:
+      - Yes - regularly using services
+      - Yes - occasionally using services
+      - No - not used services
+      - Want to but unable to access
+      - Don't feel I need help
+      required: true
+    - id: 17
+      name: organizational_support
+      label: Organizational Support for Caregiver Wellness
+      hint: If applicable - support from employer or agency
+      type: select_one
+      options:
+      - Excellent support - many programs
+      - Good support - adequate programs
+      - Fair support - some programs
+      - Poor support - minimal programs
+      - No organizational support
+      - N/A - not part of organization
+      required: false
+    - id: 18
+      name: awareness_training_value
+      label: Value of Fatigue Prevention Training
+      hint: How important is awareness education?
+      type: select_one
+      options:
+      - Very valuable - essential
+      - Valuable - important
+      - Somewhat valuable - nice to have
+      - Not very valuable - not needed
+      - Not valuable at all
+      required: true
+    - id: 19
+      name: training_participation
+      label: Have You Participated in Fatigue Prevention Training?
+      hint: null
+      type: select_one
+      options:
+      - Yes - multiple trainings
+      - Yes - one training
+      - No - but interested
+      - No - not interested
+      - No - unavailable in my area
+      required: true
+    - id: 20
+      name: training_effectiveness
+      label: Effectiveness of Training Attended
+      hint: If applicable - did training help?
+      type: select_one
+      options:
+      - Very effective - made significant difference
+      - Effective - helped somewhat
+      - Somewhat effective - some benefit
+      - Not effective - little benefit
+      - Did not attend
+      required: false
+    - id: 21
+      name: barriers_to_prevention
+      label: Barriers to Using Prevention Strategies
+      hint: What prevents you from self-care?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: needed_resources
+      label: Resources or Support You Need Most
+      hint: What would help you manage fatigue?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments About Caregiver Fatigue
+      hint: Any other thoughts or suggestions?
+      type: text
+      options: []
+      required: false

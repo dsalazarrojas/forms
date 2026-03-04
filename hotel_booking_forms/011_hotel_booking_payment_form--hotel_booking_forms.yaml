@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_booking_payment_form
+    pages:
+    - id: 1
+      name: hotel_details
+      label: Hotel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit card
+      - PayPal
+      required: false
+    - id: 8
+      name: card_number
+      label: Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: false

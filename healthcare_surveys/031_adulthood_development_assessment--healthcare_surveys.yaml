@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adulthood Development Assessment
+    pages:
+    - id: 1
+      name: section_profile
+      label: -- Developmental Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: section_skills
+      label: -- Life Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: financial_management_proficiency
+      label: Financial Management Proficiency
+      hint: Budgeting, saving, and investing
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 6
+      name: career_stability_and_growth
+      label: Career Stability and Growth
+      hint: Current path and future prospects
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 7
+      name: interpersonal_relationship_quality
+      label: Interpersonal Relationship Quality
+      hint: Friendships, family, and romantic partners
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 8
+      name: emotional_regulation_ability
+      label: Emotional Regulation Ability
+      hint: Handling stress and emotional challenges
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 9
+      name: health_and_wellness_maintenance
+      label: Health and Wellness Maintenance
+      hint: Physical activity and nutrition
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 10
+      name: section_milestones
+      label: -- Adult Milestones --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: milestones_achieved
+      label: Milestones Achieved
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Independence
+      - Stable Housing
+      - Career Path Established
+      - Long-term Partnership
+      - Continued Education
+      required: false
+    - id: 12
+      name: primary_developmental_goal
+      label: Primary Developmental Goal
+      hint: What is the next major step in your adult life?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: biggest_challenge_in_adulthood
+      label: Biggest Challenge in Adulthood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_professional
+      label: -- Professional Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assessor_name
+      label: Assessor Name
+      hint: Healthcare or counseling professional
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true

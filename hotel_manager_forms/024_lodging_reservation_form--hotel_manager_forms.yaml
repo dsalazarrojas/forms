@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lodging Reservation Form
+    pages:
+    - id: 1
+      name: lodging_reservation_form
+      label: lodging_reservation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: police_force_details
+      label: police_force_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: police_force_number
+      label: police_force_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: police_rank
+      label: police_rank
+      hint: null
+      type: select_one
+      options:
+      - Police Officer
+      - Sergeant
+      - Commander
+      required: true
+    - id: 10
+      name: police_force_location
+      label: police_force_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: special_request
+      label: special_request
+      hint: null
+      type: text
+      options: []
+      required: false

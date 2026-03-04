@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Positive Diagnosis Form
+    pages:
+    - id: 1
+      name: section_staff_info
+      label: -- Staff Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_test_results
+      label: -- Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: test_date
+      label: Date of Positive Test
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: test_type
+      label: Type of Test
+      hint: null
+      type: select_one
+      options:
+      - RT-PCR
+      - Rapid Antigen
+      - Antibody Test
+      - Other
+      required: true
+    - id: 12
+      name: test_location
+      label: Testing Location or Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_symptoms
+      label: -- Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: symptom_onset_date
+      label: Date of Symptom Onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: symptoms
+      label: Symptoms Experienced
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore throat
+      - Loss of taste or smell
+      - Body aches
+      - Fatigue
+      - Asymptomatic
+      - Other
+      required: false
+    - id: 16
+      name: symptom_severity
+      label: Severity of Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Asymptomatic
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 17
+      name: section_exposure_work
+      label: -- Work Exposure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: last_work_date
+      label: Last Date at Work
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Healthcare facility
+      - Field work
+      - Remote
+      - Other
+      required: true
+    - id: 20
+      name: close_contacts_work
+      label: Number of Close Contacts at Work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_medical_status
+      label: -- Medical Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: hospitalization
+      label: Hospitalization Required
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 23
+      name: hospitalization_dates
+      label: Hospitalization Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recovery_status
+      label: Current Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Actively ill
+      - Recovering
+      - Recovered
+      - Complications
+      required: true
+    - id: 25
+      name: section_reporting
+      label: -- Reporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: reporting_person
+      label: Person Submitting Report
+      hint: null
+      type: text
+      options: []
+      required: true

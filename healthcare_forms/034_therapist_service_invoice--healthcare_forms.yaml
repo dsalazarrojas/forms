@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Service Invoice
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bill_to
+      label: Bill To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: therapist_details
+      label: Therapist Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - credit_card
+      - debit_card
+      - bank_transfer
+      required: false
+    - id: 9
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bill_to_email
+      label: Bill To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: bill_to_phone
+      label: Bill To Phone
+      hint: null
+      type: text
+      options: []
+      required: false

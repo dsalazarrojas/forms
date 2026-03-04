@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: disease_condition
+      label: Disease Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pain_score_0_10
+      label: Pain Score 0-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: primary_caregiver
+      label: Primary Caregiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hospice_id
+      label: Hospice ID
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 8
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_worker
+      label: Social Worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nurse_name
+      label: Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

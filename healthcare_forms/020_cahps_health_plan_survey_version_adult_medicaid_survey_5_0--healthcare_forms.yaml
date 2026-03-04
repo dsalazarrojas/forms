@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Health Plan Survey - Adult Medicaid 5.0
+    pages:
+    - id: 1
+      name: medicaid_plan_header
+      label: -- Health Plan Quality Assessment --
+      hint: Your feedback is used to evaluate the quality of Medicaid plans.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_medicaid_plan
+      label: Name of your primary health plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: easy_to_get_care
+      label: How often was it easy to get the care, tests, or treatment you needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 4
+      name: customer_service_clarity
+      label: How often were the health plan's customer service staff helpful?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 5
+      name: easy_to_find_doctor
+      label: How often was it easy to find a doctor in your health plan?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 6
+      name: cost_transparency_rating
+      label: How clear is the information about your out-of-pocket costs?
+      hint: null
+      type: select_one
+      options:
+      - Very Unclear
+      - Unclear
+      - Clear
+      - Very Clear
+      required: true
+    - id: 7
+      name: preventative_care_reminder
+      label: Did your health plan remind you to get preventative care (like flu shots)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 8
+      name: specialist_appointment_ease
+      label: How easy was it to get an appointment with a specialist through your
+        plan?
+      hint: null
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Easy
+      - Very Easy
+      required: true
+    - id: 9
+      name: plan_material_clarity
+      label: How often were the plan materials (handbooks, website) easy to understand?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 10
+      name: drug_coverage_satisfaction
+      label: Satisfaction with your plan’s list of covered drugs (formulary)
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 11
+      name: overall_medicaid_rating
+      label: Overall rating of your health plan
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 12
+      name: plan_switching_intent
+      label: How likely are you to stay with this health plan next year?
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Likely
+      - Very Likely
+      required: true
+    - id: 13
+      name: general_health_status_adult
+      label: In general, how would you rate your overall health?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 14
+      name: specific_plan_improvement
+      label: What is one thing your health plan could do better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: survey_validation_check
+      label: I confirm I am the primary member or authorized representative
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true

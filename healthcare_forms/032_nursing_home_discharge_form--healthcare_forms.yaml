@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: nursing_home_discharge_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_transfer
+      label: Date Of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: resident_status
+      label: Resident Status
+      hint: null
+      type: select_one
+      options:
+      - Discharged
+      - Admitted
+      - In Progress
+      - Pending
+      required: false
+    - id: 7
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expected_date_of_return
+      label: Expected Date Of Return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nursing_home_info
+      label: Nursing Home Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false

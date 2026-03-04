@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Land Use Vote
+    pages:
+      - id: 1
+        name: vote_header
+        label: -- Land Use Vote --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: Voter name
+        hint: Full name for verification
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: property_address
+        label: Property address
+        hint: Address to confirm eligibility
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email address
+        hint: Optional for vote confirmation
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: vote_choice
+        label: Vote choice
+        hint: Select your position
+        type: select_one
+        options:
+          - Approve
+          - Reject
+          - Abstain
+        required: true
+      - id: 6
+        name: reason_for_vote
+        label: Reason for vote
+        hint: Optional explanation of choice
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: eligibility_confirmation
+        label: Confirm eligibility to vote
+        hint: I confirm I am a resident or property owner
+        type: select_one
+        options:
+          - Confirm
+          - Do not confirm
+        required: true
+      - id: 8
+        name: proxy_vote
+        label: Voting by proxy
+        hint: Indicate if voting by proxy
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 9
+        name: proxy_name
+        label: Proxy name if applicable
+        hint: Name of proxy voter
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any further notes for the council
+        type: text
+        options: []
+        required: false

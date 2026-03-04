@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compression Stocking Prescription Form
+    pages:
+    - id: 1
+      name: section_patient_information
+      label: -- Patient Information --
+      hint: Patient demographics and contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full patient name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical record number
+      hint: Optional MRN
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: diagnosis
+      label: Diagnosis
+      hint: Clinical reason for prescription
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: stocking_type
+      label: Stocking type
+      hint: Choose recommended stocking class
+      type: select_one
+      options:
+      - Class 1
+      - Class 2
+      - Class 3
+      - Custom
+      required: true
+    - id: 7
+      name: measurement_instructions
+      label: Measurement instructions
+      hint: Provide circumference measurements and fitting notes
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity_needed
+      label: Quantity needed
+      hint: Number of pairs
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: prescribing_clinician
+      label: Prescribing clinician
+      hint: Name of clinician ordering the stockings
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: clinician_contact
+      label: Clinician contact
+      hint: Email or phone for queries
+      type: text
+      options: []
+      required: false

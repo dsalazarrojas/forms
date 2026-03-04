@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ultrasound Order Form
+    pages:
+    - id: 1
+      name: appointment_request
+      label: Appointment Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Insurance
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ultrasound_type
+      label: Ultrasound Type
+      hint: null
+      type: select_one
+      options:
+      - Abdomen
+      - Echocardiogram
+      - Echocardiogram with Contrast
+      - Endoscopy
+      - General
+      - Obstetric
+      - Pelvic
+      - Transvaginal
+      required: false
+    - id: 10
+      name: ultrasound_report
+      label: Ultrasound Report
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Abnormal
+      required: false
+    - id: 11
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Unknown
+      required: false
+    - id: 12
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: select_one
+      options:
+      - Anesthesia
+      - Cardiology
+      - Dermatology
+      - Gastroenterology
+      - Gynecology
+      - Nephrology
+      - Obstetrics
+      - Radiology
+      - Surgery
+      required: false
+    - id: 13
+      name: hospital
+      label: Hospital
+      hint: null
+      type: select_one
+      options:
+      - '[''Hospital A'']'
+      - '[''Hospital B'']'
+      required: false
+    - id: 14
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Aetna
+      - Blue Cross
+      - Cigna
+      - Humana
+      - Medicare
+      - Medicaid
+      required: false
+    - id: 15
+      name: doctor_name_2
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: select_one
+      options:
+      - Anesthesia
+      - Cardiology
+      - Dermatology
+      - Gastroenterology
+      - Gynecology
+      - Nephrology
+      - Obstetrics
+      - Radiology
+      - Surgery
+      required: false
+    - id: 18
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: patient_note
+      label: Patient Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Extended
+      - Premium
+      required: false
+    - id: 23
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 25
+      name: medical_record_number_2
+      label: Medical Record Number 2
+      hint: null
+      type: text
+      options: []
+      required: false

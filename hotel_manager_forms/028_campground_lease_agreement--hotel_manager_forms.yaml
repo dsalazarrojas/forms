@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campground Lease Agreement
+    pages:
+    - id: 1
+      name: section_lessor_info
+      label: -- Lessor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lessor_name
+      label: Lessor Name or Company
+      hint: Campground owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lessor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: lessor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lessor_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_lessee_info
+      label: -- Lessee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lessee_name
+      label: Lessee Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lessee_contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: lessee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: lessee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: lessee_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_lease_details
+      label: -- Lease Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: lease_duration_months
+      label: Lease Duration (months)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_campground_info
+      label: -- Campground Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: campground_location
+      label: Campground Location
+      hint: Address of the leased campground
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: number_of_sites
+      label: Number of Camping Sites
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_financial_terms
+      label: -- Financial Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: monthly_lease_payment
+      label: Monthly Lease Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_due_date
+      label: Payment Due Date Each Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: deposit_required
+      label: Security Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: section_terms_conditions
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: allowed_group_size
+      label: Maximum Group Size Allowed
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: terms_acceptance
+      label: Lessee agrees to all terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

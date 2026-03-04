@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Use Self Assessment
+    pages:
+    - id: 1
+      name: section_confidential
+      label: -- Confidential Assessment --
+      hint: This is for your personal reflection and screening
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_reason
+      label: Why are you taking this assessment today?
+      hint: null
+      type: select_one
+      options:
+      - Personal curiosity
+      - Concern from family/friends
+      - Suggestion from healthcare professional
+      - Requirement for work/school
+      - Monitoring progress in recovery
+      required: true
+    - id: 3
+      name: section_questions
+      label: -- Screening Questions --
+      hint: In the past 12 months...
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: frequency_drinking_self
+      label: How often do you have a drink containing alcohol?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly or less
+      - 2-4 times a month
+      - 2-3 times a week
+      - 4 or more times a week
+      required: true
+    - id: 5
+      name: quantity_per_occasion
+      label: How many drinks containing alcohol do you have on a typical day when
+        you are drinking?
+      hint: null
+      type: select_one
+      options:
+      - 1 or 2
+      - 3 or 4
+      - 5 or 6
+      - 7, 8, or 9
+      - 10 or more
+      required: true
+    - id: 6
+      name: binge_frequency_self
+      label: How often do you have six or more drinks on one occasion?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 7
+      name: fail_to_stop
+      label: How often have you found that you were not able to stop drinking once
+        you had started?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 8
+      name: role_performance_impact
+      label: How often have you failed to do what was normally expected from you because
+        of drinking?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 9
+      name: morning_drinking
+      label: How often have you needed a first drink in the morning to get yourself
+        going after a heavy drinking session?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 10
+      name: blackouts_history
+      label: How often have you had a feeling of guilt or remorse after drinking?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 11
+      name: injury_related_drinking
+      label: Have you or someone else been injured as a result of your drinking?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, but not in the last year
+      - Yes, during the last year
+      required: true
+    - id: 12
+      name: section_reflection
+      label: -- Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: personal_concern_level
+      label: How concerned are you about your own drinking habits?
+      hint: 1 (Not at all) to 10 (Extremely)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: support_interest
+      label: Would you like to receive information about support services?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe later
+      required: true
+    - id: 15
+      name: next_steps_reflection
+      label: What is one goal you have regarding your alcohol use?
+      hint: e.g. No drinking on weekdays, limiting to 2 drinks per occasion
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assessment_date
+      label: Date of Self-Assessment
+      hint: null
+      type: date
+      options: []
+      required: true

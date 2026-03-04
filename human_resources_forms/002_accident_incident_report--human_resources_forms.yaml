@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Incident Report
+    pages:
+    - id: 1
+      name: incident_overview
+      label: -- Incident Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_incident
+      label: Date of incident
+      hint: Enter the date when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_of_incident
+      label: Time of incident
+      hint: Approximate time if exact time unknown
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location_of_incident
+      label: Location of incident
+      hint: Building and area or address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: person_reporting
+      label: Person reporting the incident
+      hint: Full name of the reporter
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporter_contact
+      label: Reporter contact information
+      hint: Phone or email for follow up
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: persons_involved
+      label: Persons involved in incident
+      hint: List names and roles of all persons involved
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: witness_information
+      label: Witness information
+      hint: Names and contact details of witnesses
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description_of_event
+      label: Description of event
+      hint: Provide a clear factual description of what happened
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: injuries_sustained
+      label: Injuries sustained
+      hint: Describe injuries and affected body parts
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: immediate_actions_taken
+      label: Immediate actions taken
+      hint: First aid, emergency response, notifications
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_damage_description
+      label: Property damage description
+      hint: Describe any equipment or property damaged
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reported_to_authorities
+      label: Reported to authorities
+      hint: Indicate if external authorities were notified
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: incident_severity_rating
+      label: Incident severity rating
+      hint: Select the best description of severity
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Serious
+      - Critical
+      required: true
+    - id: 15
+      name: follow_up_actions_required
+      label: Follow up actions required
+      hint: Actions recommended to prevent recurrence
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_comments
+      label: Supervisor comments
+      hint: For supervisor or HR use
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporter_signature
+      label: Reporter signature
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true

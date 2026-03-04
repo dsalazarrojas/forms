@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Communication Research Application Form
+    pages:
+    - id: 1
+      name: research_application
+      label: Research Application
+      hint: null
+      type: select_multiple
+      options:
+      - Applicant Name
+      - Contact Person
+      - Application Date
+      required: false
+    - id: 2
+      name: review_proposal
+      label: Review Proposal
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: organize_data
+      label: Organize Data
+      hint: null
+      type: select_one
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: true
+    - id: 4
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: research_details
+      label: Research Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Rejected
+      required: true
+    - id: 7
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Rejected
+      required: true
+    - id: 13
+      name: applicant_feedback
+      label: Applicant Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_feedback
+      label: Reviewer Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: research_team
+      label: Research Team
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 16
+      name: research_group
+      label: Research Group
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 17
+      name: research_institute
+      label: Research Institute
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 19
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: research_area
+      label: Research Area
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 22
+      name: research_topic
+      label: Research Topic
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 23
+      name: research_project
+      label: Research Project
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 24
+      name: research_funding
+      label: Research Funding
+      hint: null
+      type: select_multiple
+      options:
+      - University
+      - Hospital
+      - Research Team
+      required: false
+    - id: 25
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false

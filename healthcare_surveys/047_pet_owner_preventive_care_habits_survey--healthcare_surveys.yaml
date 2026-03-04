@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_owner_preventive_care_habits_survey
+    pages:
+    - id: 1
+      name: pet_vaccination
+      label: Pet Vaxinations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: parasite_prevention
+      label: Flea and Tick Preventions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: veterinary_checkups
+      label: Check-up Routines
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

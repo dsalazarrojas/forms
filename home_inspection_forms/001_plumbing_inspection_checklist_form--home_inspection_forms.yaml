@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: plumbing_inspection_checklist_form
+    pages:
+    - id: 1
+      name: home_inspection_forms
+      label: Home Inspection Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_visited
+      label: Time Visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''name'': ''Service Call'', ''label'': ''Service Call''}'
+      - '{''id'': 101, ''name'': ''Installation'', ''label'': ''Installation''}'
+      - '{''id'': 102, ''name'': ''Maintenance'', ''label'': ''Maintenance''}'
+      - '{''id'': 103, ''name'': ''Inspection'', ''label'': ''Inspection''}'
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: job_status
+      label: Job Status
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: elder_care_program_admission_form
+    pages:
+    - id: 1
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: Name of patient
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_admission
+      label: date_of_admission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_admission
+      label: time_of_admission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: care_level
+      label: care_level
+      hint: null
+      type: select_one
+      options:
+      - basic
+      - extended
+      - prophets
+      required: false
+    - id: 10
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_relationship
+      label: contact_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - family
+      - friend
+      - other
+      required: false

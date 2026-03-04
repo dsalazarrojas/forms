@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Visit Summary Report
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: chief_complaint_details
+      label: Chief Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medical_results
+      label: Medical Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: visit_notes
+      label: Visit Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: practitioner
+      label: Practitioner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: visit_number
+      label: Visit Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: true

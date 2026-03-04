@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Patient Monitoring Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: remote_monitoring_system
+      label: Remote Monitoring System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: overall_effectiveness
+      label: Overall Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: system_usefulness
+      label: System Usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: system_usefulness_2
+      label: How would you rate the effectiveness of the system for improving your
+        health outcomes?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: system_usefulness_3
+      label: How would you rate the ease of use of the system?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: monitor_frequency
+      label: Monitor Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: monitor_frequency_2
+      label: Monitor Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: monitor_frequency_3
+      label: Monitor Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resources
+      label: Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Certification Renewal Exit Offboarding Form
+    pages:
+      - id: 1
+        name: section_header
+        label: -- Exit Offboarding and Certification Renewal --
+        hint: Complete this form to confirm offboarding tasks and certification renewal status
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: employee name
+        hint: departing employee full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: employee id
+        hint: internal staff identifier
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: last_day_of_work
+        label: last day of work
+        hint: employee final working date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: certifications_active
+        label: certifications active
+        hint: list certifications currently held
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: renewal_required
+        label: renewal required
+        hint: indicate if renewal is required during offboarding
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: tasks_completed
+        label: tasks completed
+        hint: confirm completion of assigned offboarding tasks
+        type: select_multiple
+        options:
+          - Equipment returned
+          - Access revoked
+          - Knowledge transfer completed
+          - Final payroll processed
+        required: false
+      - id: 8
+        name: hr_contact
+        label: hr contact
+        hint: hr representative handling offboarding
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: exit_feedback
+        label: exit feedback
+        hint: optional comments about reason for departure or process
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: confirmation_signature
+        label: confirmation signature
+        hint: typed name confirms accuracy of information
+        type: text
+        options: []
+        required: true

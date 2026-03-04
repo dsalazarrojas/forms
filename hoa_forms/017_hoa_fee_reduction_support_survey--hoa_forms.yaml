@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOA Fee Reduction Support Survey
+    pages:
+    - id: 1
+      name: hoa_dues
+      label: HOA Dues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_value
+      label: Service Value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: fee_reduction_needs
+      label: Fee Reduction Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fee_reduction_amount
+      label: Fee Reduction Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fee_reduction_frequency
+      label: Fee Reduction Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: hoa_fees
+      label: HOA Fees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hoa_services
+      label: HOA Services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hoa_board_response
+      label: HOA Board Response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

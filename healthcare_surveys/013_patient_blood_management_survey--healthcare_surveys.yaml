@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Blood Management Survey
+    pages:
+    - id: 1
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: training
+      label: Training
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: practices
+      label: Blood Management Practices
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      - option_c
+      required: true
+    - id: 4
+      name: barriers
+      label: Barriers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_blood_management_survey
+      label: Patient Blood Management Survey Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: other_blood_mgt_practices
+      label: Other Blood Management Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_facilitators
+      label: Training Facilitators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_blood_mgt_form_used
+      label: Have you used the Patient Blood Management Survey Form
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: patient_blood_mgt_form_frequency
+      label: How often do you use the Patient Blood Management Survey Form
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      required: false
+    - id: 10
+      name: patient_blood_mgt_form_satisfaction
+      label: What is the level of satisfaction with the Patient Blood Management Survey
+        Form
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      required: false
+    - id: 11
+      name: patient_blood_mgt_form_usefulness
+      label: How often do you use the Patient Blood Management Survey Form on your
+        daily work
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Compete Commitment Form
+    pages:
+    - id: 1
+      name: non_compete_commitment_form_employee
+      label: Non Compete Commitment Form documents employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employer
+      label: employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_start_date
+      label: Employee Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: non_compete_period
+      label: Non Compete Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: non_compete_scope
+      label: Non Compete Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgement_date
+      label: Acknowledgement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Observation Time Off Form
+    pages:
+    - id: 1
+      name: request_submission
+      label: Request Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: religious_observation
+      label: Religious Observation
+      hint: null
+      type: select_one
+      options:
+      - Baptist
+      - Catholic
+      - Jewish
+      - Islam
+      - Hindu
+      - Buddhist
+      - Other
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Cancelled
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

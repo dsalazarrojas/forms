@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation And Rewards Feedback Questionnaire
+    pages:
+    - id: 1
+      name: header
+      label: -- Employee Feedback --
+      hint: anonymous responses encouraged unless contact requested
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: optional for anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: select primary department
+      type: select_one
+      options:
+      - Sales
+      - Engineering
+      - HR
+      - Finance
+      - Other
+      required: false
+    - id: 4
+      name: role
+      label: role or job title
+      hint: brief title
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: compensation_satisfaction
+      label: overall satisfaction with compensation
+      hint: 1 low 5 high
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rewards_importance
+      label: most important rewards
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Base salary
+      - Bonuses
+      - Benefits
+      - Flexible hours
+      - Recognition
+      required: false
+    - id: 7
+      name: transparency_feedback
+      label: feedback on transparency of pay decisions
+      hint: brief comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommend_changes
+      label: recommend changes to rewards program
+      hint: suggestions welcome
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: willing_to_discuss
+      label: willing to discuss feedback with HR
+      hint: we may follow up if you consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission date
+      hint: date of response
+      type: date
+      options: []
+      required: true

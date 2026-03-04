@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Pathology Report Form Template
+    pages:
+    - id: 1
+      name: specimen_details
+      label: Specimen Details
+      hint: Provide specimen details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pathologist_details
+      label: Pathologist Details
+      hint: Enter pathologist details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: specimen_condition
+      label: Specimen Condition
+      hint: null
+      type: select_one
+      options:
+      - normal_tumor
+      - benign_malignant
+      required: false
+    - id: 4
+      name: specimen_description
+      label: Specimen Description
+      hint: Brief description of specimen
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: diagnosis
+      label: Diagnosis
+      hint: Enter a diagnosis
+      type: select_multiple
+      options:
+      - diagnosis_1
+      - diagnosis_2
+      - diagnosis_3
+      required: false
+    - id: 6
+      name: hospital_details
+      label: Hospital Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinic_name
+      label: Clinic Name
+      hint: Enter clinic name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: Department name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: diagnostic_lab
+      label: Diagnostic Lab
+      hint: Enter diagnostic lab name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: diagnostic_date
+      label: Diagnostic Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: specimen_collection_time
+      label: Specimen Collection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: specimen_collection_date
+      label: Specimen Collection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: pathologist_name
+      label: Pathologist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pathologist_institution
+      label: Pathologist Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: diagnosis_date
+      label: Diagnosis Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: specimen_condition
+      label: Specimen Condition
+      hint: null
+      type: select_one
+      options:
+      - normal
+      - benign
+      - malignant
+      required: false
+    - id: 17
+      name: pathologist_comments
+      label: Pathologist Comments
+      hint: Enter pathologist comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specimen_id
+      label: Specimen ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: diagnosis_1
+      label: Diagnosis 1
+      hint: null
+      type: select_one
+      options:
+      - diagnosis_1_1
+      - diagnosis_1_2
+      - diagnosis_1_3
+      required: false
+    - id: 20
+      name: diagnosis_2
+      label: Diagnosis 2
+      hint: null
+      type: select_one
+      options:
+      - diagnosis_2_1
+      - diagnosis_2_2
+      - diagnosis_2_3
+      required: false
+    - id: 21
+      name: diagnosis_3
+      label: Diagnosis 3
+      hint: null
+      type: select_one
+      options:
+      - diagnosis_3_1
+      - diagnosis_3_2
+      - diagnosis_3_3
+      required: false
+    - id: 22
+      name: specimen_type
+      label: Specimen Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: specimen_submitted
+      label: Specimen Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Additional notes for pathologist
+      type: text
+      options: []
+      required: false

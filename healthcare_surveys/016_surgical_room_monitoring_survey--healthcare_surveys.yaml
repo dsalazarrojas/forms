@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Room Monitoring Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How many minutes did it take to complete this survey?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: Was the form easy to navigate?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: question3
+      label: What would you rate the overall experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: Do you have any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: What time of day did you take the survey?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: Was the survey relevant to your work?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: question7
+      label: Would you like to be contacted for further discussion?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: question8
+      label: How would you rate the quality of the form design?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question9
+      label: Do you work in a surgical setting?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: question10
+      label: What type of facility do you work in?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: question11
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false

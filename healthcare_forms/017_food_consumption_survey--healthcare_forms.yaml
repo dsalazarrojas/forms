@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Food Consumption Survey
+    pages:
+    - id: 1
+      name: food_consumption_survey
+      label: How Many Times Do You Eat Fast Food Per Week
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times
+      - 3-5 times
+      - Daily
+      required: false
+    - id: 2
+      name: fast_food_consumption_amount
+      label: How Much Fast Food Do You Consume Per Day
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: fruit_consumption
+      label: How Many Servings Of Fruits Do You Typically Eat Per Day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vegetable_consumption
+      label: How Many Servings Of Vegetables Do You Typically Eat Per Day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthy_foods_consumed
+      label: What Healthy Foods Do You Consume Per Week
+      hint: null
+      type: select_multiple
+      options:
+      - Salad
+      - Baked Chicken
+      - Fresh Fruits
+      required: false
+    - id: 6
+      name: unhealthy_foods_consumed
+      label: What Unhealthy Foods Do You Consume Per Week
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Burger
+      - Fries
+      required: false
+    - id: 7
+      name: food_preferences
+      label: What Foods Do You Prefer
+      hint: null
+      type: select_multiple
+      options:
+      - Fries
+      - Pizza
+      - Ice Cream
+      required: false
+    - id: 8
+      name: food_allergies
+      label: Do You Have Any Food Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Do You Have Any Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - High Blood Pressure
+      required: false

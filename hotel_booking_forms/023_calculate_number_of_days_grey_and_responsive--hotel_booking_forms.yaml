@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Number Of Days Grey And Responsive
+    pages:
+    - id: 1
+      name: booking_info_header
+      label: -- Booking Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dates_header
+      label: -- Stay Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: room_details_header
+      label: -- Room Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Twin Room
+      - Suite
+      - Deluxe Suite
+      - Presidential Suite
+      required: true
+    - id: 10
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: bed_type
+      label: Bed Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Single bed
+      - Double bed
+      - Twin beds
+      - King bed
+      - Queen bed
+      required: false
+    - id: 13
+      name: amenities_header
+      label: -- Amenities and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: requested_amenities
+      label: Requested Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - WiFi
+      - Air conditioning
+      - TV
+      - Mini bar
+      - Safe
+      - Coffee maker
+      - Parking
+      - Gym access
+      required: false
+    - id: 15
+      name: breakfast_included
+      label: Include Breakfast?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 16
+      name: special_requests_header
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pricing_header
+      label: -- Pricing Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: room_rate_per_night
+      label: Room Rate Per Night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: show_total_cost
+      label: Show Total Cost Calculation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

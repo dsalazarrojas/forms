@@ -1,0 +1,325 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Research Assessment Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinical Research Assessment Form
+      hint: This form collects patient eligibility and medical history data for clinical
+        trial participation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_id
+      label: Study ID or Protocol Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessor_credentials
+      label: Assessor Credentials
+      hint: MD RN etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_id
+      label: Patient ID or MRN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 11
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: race
+      label: Race
+      hint: null
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 13
+      name: height_cm
+      label: Height in cm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: weight_kg
+      label: Weight in kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: bmi
+      label: BMI
+      hint: Calculated
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vital_signs_bp_systolic
+      label: Blood Pressure Systolic
+      hint: mmHg
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vital_signs_bp_diastolic
+      label: Blood Pressure Diastolic
+      hint: mmHg
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vital_signs_heart_rate
+      label: Heart Rate
+      hint: bpm
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vital_signs_temperature
+      label: Temperature
+      hint: Celsius
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: vital_signs_respiratory_rate
+      label: Respiratory Rate
+      hint: breaths per minute
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: diagnosis_date
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: disease_stage
+      label: Disease Stage or Severity
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: current_medications
+      label: Current Medications
+      hint: List all with dosages
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: other_allergies
+      label: Other Allergies
+      hint: Food latex etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medical_history
+      label: Relevant Medical History
+      hint: Past surgeries conditions etc.
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: family_medical_history
+      label: Family Medical History
+      hint: If relevant to study
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: social_history
+      label: Social History
+      hint: Smoking alcohol drug use
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: lab_results_recent
+      label: Recent Laboratory Results
+      hint: Date and values
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: inclusion_criteria_met
+      label: Inclusion Criteria Met
+      hint: null
+      type: select_one
+      options:
+      - Yes All
+      - Yes Most
+      - Some
+      - false
+      required: true
+    - id: 32
+      name: exclusion_criteria_present
+      label: Any Exclusion Criteria Present
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Yes One
+      - Yes Multiple
+      required: true
+    - id: 33
+      name: exclusion_criteria_details
+      label: Exclusion Criteria Details
+      hint: If any describe
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: eligibility_status
+      label: Eligibility Status
+      hint: null
+      type: select_one
+      options:
+      - Eligible
+      - Potentially Eligible
+      - Not Eligible
+      - Pending Further Review
+      required: true
+    - id: 35
+      name: consent_status
+      label: Informed Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Pending
+      - Declined
+      - Not Yet Approached
+      required: true
+    - id: 36
+      name: consent_date
+      label: Consent Date
+      hint: If signed
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: baseline_assessments_completed
+      label: Baseline Assessments Completed
+      hint: null
+      type: select_one
+      options:
+      - All Complete
+      - Partially Complete
+      - Not Started
+      required: true
+    - id: 38
+      name: randomization_eligible
+      label: Eligible for Randomization
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 39
+      name: assessor_recommendation
+      label: Assessor Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Enroll Immediately
+      - Enroll After Conditions Met
+      - Do Not Enroll
+      - Needs Second Opinion
+      required: true
+    - id: 40
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

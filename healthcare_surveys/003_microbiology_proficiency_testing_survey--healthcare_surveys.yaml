@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microbiology Proficiency Testing Survey
+    pages:
+    - id: 1
+      name: participation
+      label: Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: methods
+      label: Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: laboratory_participation
+      label: Laboratory Participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: testing_frequency
+      label: Testing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sample_handling
+      label: Sample Handling
+      hint: null
+      type: select_one
+      options:
+      - Laboratory personnel are responsible for sample handling and transportation.
+      - Samples should be handled by designated laboratory personnel
+      - The laboratory is responsible for sample handling and transportation.
+      - Samples are handled and transported by laboratory personnel
+      - Sample handling and transportation are done by laboratory personnel
+      - No response provided
+      required: false
+    - id: 8
+      name: testing_method
+      label: Testing Method
+      hint: null
+      type: select_multiple
+      options:
+      - PCR (Polymerase chain reaction)
+      - Other (please specify)
+      - Selective media
+      - Other (please specify)
+      - Culture (culture method)
+      required: false

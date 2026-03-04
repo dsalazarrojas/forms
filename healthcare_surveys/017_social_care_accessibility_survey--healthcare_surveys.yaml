@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Care Accessibility Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_awareness
+      label: service_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: barriers_to_access
+      label: barriers_to_access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_satisfaction
+      label: service_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_awareness_barriers
+      label: service_awareness_barriers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: service_support_planning
+      label: service_support_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_satisfaction_barriers
+      label: service_satisfaction_barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: service_satisfaction_scale
+      label: service_satisfaction_scale
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: comments_awareness
+      label: comments_awareness
+      hint: null
+      type: text
+      options: []
+      required: false

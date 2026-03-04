@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Method Preferences Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferred_method
+      label: preferred method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_style
+      label: preferred style of counseling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: relationship_style_1
+      label: what is your preferred style of relationship with your counselor?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: communication_style
+      label: how would you prefer your counselor to communicate with you?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: approach_to_problem_solving
+      label: how would you prefer your counselor to approach problems or challenges?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: emotional_expression
+      label: how would you prefer your counselor to express emotions?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: conflict_resolution
+      label: how would you prefer your counselor to resolve conflicts?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: termination
+      label: how would you like to terminate our sessions?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: submission
+      label: How will you like to submit your responses?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: contact
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: notes
+      label: any additional notes or comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Viral Infection Assessment Survey
+    pages:
+    - id: 1
+      name: symptom_questionnaire
+      label: Symptom Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exposure_history
+      label: Exposure History
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      required: false
+    - id: 3
+      name: health_history
+      label: Health History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jack
+      - Jill
+      required: false
+    - id: 6
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Pending
+      required: false
+    - id: 10
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Brown
+      required: false
+    - id: 11
+      name: workplace_setting
+      label: Workplace Setting
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - School
+      - Other
+      required: false
+    - id: 12
+      name: school_setting
+      label: School Setting
+      hint: null
+      type: select_one
+      options:
+      - Elementary School
+      - Middle School
+      - High School
+      required: false
+    - id: 13
+      name: exposure_location
+      label: Exposure Location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Park
+      required: false
+    - id: 14
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      - Fatigue
+      - Runny Nose
+      - Headache
+      required: false
+    - id: 15
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 24 hours
+      - More than 24 hours
+      - More than 2 days
+      required: false
+    - id: 17
+      name: exposure_date
+      label: Exposure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: test_location
+      label: Test Location
+      hint: null
+      type: select_one
+      options:
+      - Clinic
+      - Hospital
+      - Lab
+      required: false
+    - id: 19
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: select_one
+      options:
+      - Newborn
+      - Adult
+      - Elderly
+      required: false
+    - id: 20
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - Polymerase Chain Reaction (PCR)
+      - Rapid Viral Antigen Test (RAT)
+      - Rapid Antibody Test
+      required: false
+    - id: 21
+      name: patient_sex
+      label: Patient Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 22
+      name: symptoms_description
+      label: Symptoms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider_info
+      label: Healthcare Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: test_result_details
+      label: Test Result Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false

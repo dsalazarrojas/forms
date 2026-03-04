@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest House Reservation Form
+    pages:
+    - id: 1
+      name: guest_house_reservation_form
+      label: Guest House Reservation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_house_name
+      label: guest_house_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: checkin_date
+      label: checkin_date
+      hint: Checkin date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: checkout_date
+      label: checkout_date
+      hint: Checkout date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: guests_number
+      label: guests_number
+      hint: Number of guests
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: room_type
+      label: room_type
+      hint: Type of room you want
+      type: select_multiple
+      options:
+      - Studio
+      - One-bedroom
+      - Two-bedroom
+      - Three-bedroom
+      required: true
+    - id: 7
+      name: room_services
+      label: room_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_request
+      label: special_request
+      hint: Do you have any special requests?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: guest_email
+      label: guest_email
+      hint: Guest email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: room_rate
+      label: room_rate
+      hint: Room rate
+      type: number
+      options: []
+      required: false

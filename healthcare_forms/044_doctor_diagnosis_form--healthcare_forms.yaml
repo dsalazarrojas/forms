@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor Diagnosis Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_specialty
+      label: doctor_specialty
+      hint: Please select your specialty
+      type: select_one
+      options:
+      - '{''value'': ''Cardiologist''}'
+      - '{''value'': ''Dermatologist''}'
+      - '{''value'': ''Endocrinologist''}'
+      - '{''value'': ''Gastroenterologist''}'
+      - '{''value'': ''General Practitioner''}'
+      - '{''value'': ''Nephrologist''}'
+      required: true
+    - id: 9
+      name: patient_gender
+      label: patient_gender
+      hint: Please select patient gender
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Non-Binary''}'
+      required: true
+    - id: 10
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: medical_record_id
+      label: medical_record_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: doctor_note
+      label: doctor_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: doctor_signature
+      label: doctor_signature
+      hint: Please select your signature status
+      type: select_multiple
+      options:
+      - '{''value'': ''Signed''}'
+      - '{''value'': ''Unsighed''}'
+      - '{''value'': ''Not Signed''}'
+      required: true
+    - id: 20
+      name: patient_signature
+      label: patient_signature
+      hint: Please select patient signature status
+      type: select_multiple
+      options:
+      - '{''value'': ''Signed''}'
+      - '{''value'': ''Unsighed''}'
+      - '{''value'': ''Not Signed''}'
+      required: true
+    - id: 21
+      name: doctor_approval
+      label: doctor_approval
+      hint: Please select your approval status
+      type: select_multiple
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Rejected''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 22
+      name: patient_approval
+      label: patient_approval
+      hint: Please select patient approval status
+      type: select_multiple
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Rejected''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 23
+      name: date_of_diagnosis
+      label: date_of_diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time_of_diagnosis
+      label: time_of_diagnosis
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: doctor_comment
+      label: doctor_comment
+      hint: null
+      type: text
+      options: []
+      required: false

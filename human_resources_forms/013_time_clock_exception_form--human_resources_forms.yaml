@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Clock Exception Form
+    pages:
+    - id: 1
+      name: time_clock_exception_form
+      label: time_clock_exception_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exception_date
+      label: exception_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: exception_type
+      label: exception_type
+      hint: null
+      type: select_one
+      options:
+      - Exception - On-the-job Injury
+      - Exception - Off-the-job Injury
+      - Exception - Illness
+      - Exception - Other
+      required: false
+    - id: 7
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: approved_on
+      label: approved_on
+      hint: null
+      type: date
+      options: []
+      required: false

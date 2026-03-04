@@ -1,0 +1,364 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Informed Consent Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Patient identification
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: nature_of_treatment
+      label: Nature of Treatment
+      hint: Understanding of chiropractic care
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: understand_chiropractic
+      label: I understand that chiropractic care involves spinal adjustments
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need more information
+      required: true
+    - id: 9
+      name: purpose_of_treatment
+      label: I understand the purpose of chiropractic treatment is to improve function
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need more information
+      required: true
+    - id: 10
+      name: treatment_methods
+      label: Treatment Methods
+      hint: Procedures that may be used
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: consent_adjustments
+      label: I consent to spinal adjustments and manual manipulations
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 12
+      name: consent_therapies
+      label: I consent to additional therapies as recommended
+      hint: Such as massage, electrical stimulation, ultrasound
+      type: select_one
+      options:
+      - Yes, I consent
+      - Yes, with limitations
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: therapy_limitations
+      label: Limitations on Therapies
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_xray
+      label: I consent to X-rays if deemed necessary
+      hint: For diagnostic purposes
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: risks_and_complications
+      label: Risks and Complications
+      hint: Understanding of potential risks
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: understand_risks
+      label: I understand that all healthcare treatments carry some risk
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 17
+      name: risks_explained
+      label: The risks have been explained to me
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, mostly
+      - Partially
+      - No, not explained
+      required: true
+    - id: 18
+      name: common_risks
+      label: I understand common risks may include temporary soreness
+      hint: Stiffness or discomfort after adjustment
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I was not aware
+      required: true
+    - id: 19
+      name: rare_risks
+      label: I understand rare but serious risks exist
+      hint: Including but not limited to stroke, nerve damage
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I was not aware
+      required: true
+    - id: 20
+      name: specific_risks_discussed
+      label: Specific Risks Discussed
+      hint: List any specific risks discussed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: benefits_of_treatment
+      label: Benefits of Treatment
+      hint: Expected outcomes
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: benefits_explained
+      label: The potential benefits have been explained to me
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, mostly
+      - Partially
+      - No, not explained
+      required: true
+    - id: 23
+      name: expected_benefits
+      label: Expected Benefits
+      hint: What you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: no_guarantee
+      label: I understand that no guarantee has been made about results
+      hint: Outcomes vary by patient
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 25
+      name: alternatives_to_treatment
+      label: Alternatives to Treatment
+      hint: Other options available
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: alternatives_explained
+      label: Alternative treatments have been explained to me
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, mostly
+      - Partially
+      - No, not explained
+      required: true
+    - id: 27
+      name: alternatives_list
+      label: Alternatives Discussed
+      hint: List any mentioned
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: right_to_refuse
+      label: Right to Refuse Treatment
+      hint: Your rights as a patient
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: understand_right_to_refuse
+      label: I understand I have the right to refuse treatment at any time
+      hint: Without penalty
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I was not aware
+      required: true
+    - id: 30
+      name: understand_right_to_stop
+      label: I understand I can stop treatment at any time
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I was not aware
+      required: true
+    - id: 31
+      name: questions_opportunity
+      label: Opportunity for Questions
+      hint: Your chance to ask
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: had_opportunity
+      label: I have had the opportunity to ask questions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I asked questions
+      - Yes, but chose not to
+      - No, I was not given opportunity
+      required: true
+    - id: 33
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - Yes, all answered
+      - Yes, most answered
+      - Some answered
+      - No, questions remain
+      required: true
+    - id: 34
+      name: remaining_questions
+      label: Do you have any remaining questions
+      hint: null
+      type: select_one
+      options:
+      - No, all answered
+      - Yes, listed below
+      required: true
+    - id: 35
+      name: questions_list
+      label: List Remaining Questions
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: Your agreement
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: consent_voluntary
+      label: My consent is given voluntarily without coercion
+      hint: null
+      type: select_one
+      options:
+      - Yes, voluntary
+      - No, I feel pressured
+      required: true
+    - id: 38
+      name: read_document
+      label: I have read this consent form
+      hint: null
+      type: select_one
+      options:
+      - Yes, I read it
+      - It was read to me
+      - I had someone explain it
+      required: true
+    - id: 39
+      name: understand_document
+      label: I understand the contents of this form
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 40
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: patient_signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 42
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: doctor_signature_date
+      label: Doctor Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

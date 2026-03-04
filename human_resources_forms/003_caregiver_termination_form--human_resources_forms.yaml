@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Termination Form
+    pages:
+    - id: 1
+      name: case_header
+      label: -- Termination Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: caregiver_name
+      label: Caregiver name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Internal identifier if available
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: termination_date
+      label: Termination date
+      hint: Date when employment was terminated
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: termination_reason
+      label: Termination reason
+      hint: Select the primary reason for termination
+      type: select_one
+      options:
+      - Resignation
+      - Performance
+      - Misconduct
+      - Redundancy
+      - Other
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager or supervisor name
+      hint: Person completing this form
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: last_working_day
+      label: Last working day
+      hint: Final scheduled work date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notice_period_weeks
+      label: Notice period in weeks
+      hint: Number of weeks of notice provided
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: exit_interview_conducted
+      label: Exit interview conducted
+      hint: Was an exit interview completed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

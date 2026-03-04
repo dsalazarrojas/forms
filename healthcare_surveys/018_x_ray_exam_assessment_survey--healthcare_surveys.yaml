@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: X Ray Exam Assessment Survey
+    pages:
+    - id: 1
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: exam_id
+      label: exam_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: physician
+      label: physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physician_name
+      label: physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_specialty
+      label: medical_specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - General
+      - Neurology
+      - Orthopedic
+      - Plastic
+      - Radiology
+      - Other
+      required: false
+    - id: 10
+      name: patient_feedback
+      label: patient_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: physician_notes
+      label: physician_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_phone_number
+      label: patient_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false

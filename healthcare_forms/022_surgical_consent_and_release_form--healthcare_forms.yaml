@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Consent And Release Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surgical_info
+      label: Surgical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: anesthesia_info
+      label: Anesthesia Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_signed
+      label: Consent Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''I consent to the surgery''}'
+      - '{''option2'': ''Not yet signed''}'
+      required: false
+    - id: 5
+      name: release_signed
+      label: Release Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''I consent to the release''}'
+      - '{''option2'': ''Not yet signed''}'
+      required: false
+    - id: 6
+      name: anesthesia_provider
+      label: Anesthesia Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: surgeon_name
+      label: Surgeon Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: surgeon_signature
+      label: Surgeon Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hospital_address
+      label: Hospital Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false

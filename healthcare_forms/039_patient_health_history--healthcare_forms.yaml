@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Health History
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_history_additional
+      label: Additional Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_family_history_additional
+      label: Additional Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: personal_history
+      label: Personal History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: personal_history_additional
+      label: Additional Personal History
+      hint: null
+      type: text
+      options: []
+      required: false

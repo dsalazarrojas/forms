@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization For Release Of Protected Health Information Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: Your medical record number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: Current Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: patient_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: healthcare_provider
+      label: Healthcare Provider Name
+      hint: Hospital or clinic name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: provider_address
+      label: Provider Address
+      hint: Provider facility address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: records_requested
+      label: Type of Records Requested
+      hint: Select types to release
+      type: select_multiple
+      options:
+      - Complete Medical Records
+      - Hospital Discharge Summaries
+      - Laboratory Results
+      - Imaging Reports
+      - Pathology Reports
+      - Progress Notes
+      - Medication History
+      - Immunization Records
+      - Problem List
+      required: true
+    - id: 11
+      name: date_range_start
+      label: Records Date Range - From
+      hint: Earliest date of records
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_range_end
+      label: Records Date Range - To
+      hint: Latest date of records
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: recipient_name
+      label: Recipient Name
+      hint: Who will receive the records
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: recipient_type
+      label: Recipient Type
+      hint: What type of recipient
+      type: select_one
+      options:
+      - Another Healthcare Provider
+      - Insurance Company
+      - Employer
+      - Self - Patient
+      - Attorney
+      - Family Member
+      - Other
+      required: true
+    - id: 15
+      name: recipient_address
+      label: Recipient Address
+      hint: Where to send records
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recipient_email
+      label: Recipient Email
+      hint: Email for electronic delivery
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Contact phone for recipient
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How to send records
+      type: select_one
+      options:
+      - Electronic - Email
+      - Fax
+      - Mail - Standard
+      - Mail - Certified
+      - Pick Up In Person
+      - Secure Portal Access
+      required: true
+    - id: 19
+      name: authorization_purpose
+      label: Purpose of Release
+      hint: Why are records being released
+      type: select_one
+      options:
+      - Continuity of Care
+      - Consultation
+      - Insurance Claim
+      - Employment
+      - Legal Proceedings
+      - Personal Records
+      - Research
+      - Other
+      required: true
+    - id: 20
+      name: purpose_details
+      label: Detailed Purpose
+      hint: Explain the purpose for release
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorization_duration
+      label: Duration of Authorization
+      hint: How long is this valid
+      type: select_one
+      options:
+      - One Time Release
+      - 30 Days
+      - 90 Days
+      - 1 Year
+      - Until Revoked
+      - Indefinite
+      required: true
+    - id: 22
+      name: expiration_date
+      label: Expiration Date
+      hint: When does this authorization expire
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: sensitive_information
+      label: Sensitive Information Notice
+      hint: Does record contain sensitive data
+      type: select_one
+      options:
+      - Yes - Contains HIV Information
+      - Yes - Contains Mental Health Records
+      - Yes - Contains Substance Abuse Treatment
+      - Yes - Contains Other Sensitive Data
+      - No - Standard Records Only
+      required: true
+    - id: 24
+      name: confidentiality_agreement
+      label: Recipient Agrees to Confidentiality
+      hint: Records must remain confidential
+      type: select_one
+      options:
+      - Yes - Recipient Agrees
+      - No - Cannot Guarantee
+      - TBD - To Be Discussed
+      required: true
+    - id: 25
+      name: patient_authorization
+      label: Patient Authorization and Consent
+      hint: Do you authorize this release
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - Do Not Authorize
+      required: true

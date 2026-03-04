@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Resolution Absence Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_updated_date
+      label: Last Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

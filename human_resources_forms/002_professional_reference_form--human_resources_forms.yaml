@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Reference Form
+    pages:
+    - id: 1
+      name: job_application
+      label: Job Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: professional_reference
+      label: Professional Reference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: professional_relationship
+      label: Professional Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: professional_reference_email
+      label: Professional Reference Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: professional_reference_phone
+      label: Professional Reference Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: professional_reference_comment
+      label: Professional Reference Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

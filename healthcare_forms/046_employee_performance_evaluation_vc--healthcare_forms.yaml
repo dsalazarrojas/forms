@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Performance Evaluation VC
+    pages:
+    - id: 1
+      name: employee_performance_evaluation_1
+      label: Employee Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_performance_evaluation_2
+      label: Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_performance_evaluation_3
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: employee_performance_evaluation_4
+      label: Evaluation Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employee_performance_evaluation_5
+      label: Evaluation Period End
+      hint: null
+      type: date
+      options: []
+      required: false

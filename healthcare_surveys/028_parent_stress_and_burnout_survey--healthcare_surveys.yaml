@@ -1,0 +1,269 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Parent Stress And Burnout Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stress_level
+      label: What is your current stress level?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - I am not experiencing stress''}'
+      - '{''label'': ''2 - Slightly stressed''}'
+      - '{''label'': ''3 - Moderately stressed''}'
+      - '{''label'': ''4 - High stress''}'
+      required: false
+    - id: 3
+      name: coping_strategies
+      label: What are some coping strategies you use to manage your stress?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1 - Exercise''}'
+      - '{''label'': ''2 - Social support''}'
+      - '{''label'': ''3 - Relaxation techniques''}'
+      - '{''label'': ''4 - Mindfulness''}'
+      required: true
+    - id: 4
+      name: experiences
+      label: Which experiences contribute to your stress?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''School events''}'
+      - '{''label'': ''Parenting demands''}'
+      - '{''label'': ''Financial constraints''}'
+      required: true
+    - id: 5
+      name: time_commitment
+      label: How many hours do you typically spend with your child?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 2 hours''}'
+      - '{''label'': ''2-5 hours''}'
+      - '{''label'': ''6-10 hours''}'
+      - '{''label'': ''More than 10 hours''}'
+      required: true
+    - id: 6
+      name: family_support
+      label: Who helps you manage the stress related to your child?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Spouse or partner''}'
+      - '{''label'': ''Parenting groups''}'
+      - '{''label'': ''Mental health service provider''}'
+      required: true
+    - id: 7
+      name: burnout
+      label: Have you experienced burnout related to parenting?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 8
+      name: emotional_expression
+      label: How would you describe your emotional state most of the time?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Energized and positive''}'
+      - '{''label'': ''Calm and content''}'
+      - '{''label'': ''Fatigued and irritable''}'
+      - '{''label'': ''Frustrated and angry''}'
+      required: true
+    - id: 9
+      name: emotional_expression_2
+      label: How would you describe your emotional state when stressed?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Calm and content''}'
+      - '{''label'': ''Energized and positive''}'
+      - '{''label'': ''Fatigued and irritable''}'
+      - '{''label'': ''Frustrated and angry''}'
+      required: true
+    - id: 10
+      name: burnout_2
+      label: Have you experienced burnout related to parenting?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 11
+      name: support_services
+      label: What services do you rely on to support you in managing your stress?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Individual counseling services''}'
+      - '{''label'': ''Support groups''}'
+      - '{''label'': ''Online resources''}'
+      required: true
+    - id: 12
+      name: self_care
+      label: How often do you engage in activities that promote self-care?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Less than once a week''}'
+      - '{''label'': ''1-2 times a week''}'
+      - '{''label'': ''More than 2 times a week''}'
+      required: true
+    - id: 13
+      name: self_care_2
+      label: Which of these activities promote self-care for you?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Exercise''}'
+      - '{''label'': ''Relaxation techniques''}'
+      - '{''label'': ''Social support''}'
+      - '{''label'': ''Mindfulness and meditation''}'
+      required: true
+    - id: 14
+      name: self_care_3
+      label: Do you have access to these self-care activities through your school
+        or workplace?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''School-based resources''}'
+      - '{''label'': ''Workplace-based resources''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 15
+      name: self_care_4
+      label: Have you ever sought help for burnout?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 16
+      name: self_care_5
+      label: What motivated you to seek help?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Family or partner''}'
+      - '{''label'': ''Mental health provider''}'
+      - '{''label'': ''School counselor''}'
+      required: true
+    - id: 17
+      name: burnout_symptoms
+      label: How often have you experienced these burnout symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': False}'
+      - '{''label'': ''Less than 1 time per month''}'
+      - '{''label'': ''1-2 times per month''}'
+      - '{''label'': ''More than 2 times per month''}'
+      required: true
+    - id: 18
+      name: burnout_symptoms_2
+      label: Which of these symptoms have you experienced related to burnout?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fatigue''}'
+      - '{''label'': ''Loss of interest in activities''}'
+      - '{''label'': ''Irritability''}'
+      - '{''label'': ''Insomnia''}'
+      - '{''label'': ''Mood changes''}'
+      required: true
+    - id: 19
+      name: burnout_symptoms_3
+      label: Have you experienced a decrease in productivity or motivation related
+        to burnout?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 20
+      name: burnout_symptoms_4
+      label: How often do you experience emotional exhaustion related to burnout?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Less than 1 time per month''}'
+      - '{''label'': ''1-2 times per month''}'
+      - '{''label'': ''More than 2 times per month''}'
+      required: true
+    - id: 21
+      name: burnout_symptoms_5
+      label: Which of these symptoms have you experienced related to burnout?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Physical symptoms''}'
+      - '{''label'': ''Emotional symptoms''}'
+      - '{''label'': ''Psychological symptoms''}'
+      required: true
+    - id: 22
+      name: burnout_symptoms_6
+      label: Have you experienced burnout-related physical symptoms such as headaches
+        or muscle pain?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 23
+      name: burnout_symptoms_7
+      label: Have you experienced burnout-related emotional symptoms such as sadness
+        or hopelessness?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 24
+      name: burnout_symptoms_8
+      label: Have you experienced burnout-related psychological symptoms such as difficulty
+        concentrating?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 25
+      name: comments
+      label: Any additional comments or observations?
+      hint: null
+      type: text
+      options: []
+      required: false

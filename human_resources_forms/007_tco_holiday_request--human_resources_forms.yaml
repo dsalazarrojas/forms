@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: tco_holiday_request
+    pages:
+    - id: 1
+      name: requester_id
+      label: Requester ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: dates_of_absence_start
+      label: dates of absence start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: dates_of_absence_end
+      label: dates of absence end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_request
+      label: reason for request
+      hint: Please enter reason for request
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: approval_status_options
+      label: approval status options
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - approved
+      - denied
+      required: true
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: assigned_to_options
+      label: assigned to options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submitted
+      label: submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: approved_at
+      label: approved at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: denied_at
+      label: denied at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_denial
+      label: reason for denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: submitted_by_options
+      label: submitted by options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: assigned_tool_options
+      label: assigned tool options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: submitted_on
+      label: submitted on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: submitted_on_range
+      label: submitted on range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: created_on
+      label: created on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: updated_on
+      label: updated on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: submitted_at
+      label: submitted at
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: updated_at
+      label: updated at
+      hint: null
+      type: time
+      options: []
+      required: true

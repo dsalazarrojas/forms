@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_department_assessment_form
+    pages:
+    - id: 1
+      name: patient_contact_info
+      label: Patient Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergy_info
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medication_list
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_condition_list
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_procedure_list
+      label: Medical Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: assessment_result
+      label: Assessment Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assessment_score
+      label: Assessment Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Medicine Innovation Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: innovation_name
+      label: Innovation Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_team_leads
+      label: Project Team Leads
+      hint: Please separate with commas
+      type: select_multiple
+      options:
+      - Team Lead 1
+      - Team Lead 2
+      - Team Lead 3
+      required: false
+    - id: 4
+      name: project_leads
+      label: Project Leads
+      hint: null
+      type: select_one
+      options:
+      - Team Lead 1
+      - Team Lead 2
+      - Team Lead 3
+      required: false
+    - id: 5
+      name: innovation_score
+      label: Innovation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: impact_score
+      label: Impact Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feasibility_score
+      label: Feasibility Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Leave Request Approval Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: leave_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: leave_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: Please provide a detailed reason for your leave
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pay_rate
+      label: pay_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_pay_request
+      label: total_pay_request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: leave_duration
+      label: leave_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - Leave of absence
+      - Vacation
+      - Sick leave
+      - Other
+      required: false
+    - id: 9
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Other
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approver_name
+      label: approver_name
+      hint: null
+      type: text
+      options: []
+      required: false

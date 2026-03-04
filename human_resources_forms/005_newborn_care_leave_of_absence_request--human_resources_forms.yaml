@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn Care Leave Of Absence Request
+    pages:
+    - id: 1
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_request_date_start
+      label: Employee Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: people_operations_approval
+      label: People Operations Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: people_operations_approval_date
+      label: People Operations Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employees_comments
+      label: Employees Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: approval_status_date
+      label: Approval Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_rejection_date
+      label: Reason for Rejection Date
+      hint: null
+      type: date
+      options: []
+      required: false

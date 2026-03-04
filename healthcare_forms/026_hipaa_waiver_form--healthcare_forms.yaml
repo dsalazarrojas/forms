@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: HIPAA Waiver Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: select_one
+      options:
+      - Authorized Person 1
+      - Authorized Person 2
+      - Authorized Person 3
+      required: true
+    - id: 10
+      name: authorized_date
+      label: Authorized Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: waiver
+      label: Waiver
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: authorization
+      label: Authorization
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician
+      label: Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_fax
+      label: Medical Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email_provider
+      label: Email Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_group_name
+      label: Medical Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature2
+      label: Patient Signature 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: authorized_person2
+      label: Authorized Person 2
+      hint: null
+      type: select_one
+      options:
+      - Authorized Person 1
+      - Authorized Person 2
+      - Authorized Person 3
+      required: true
+    - id: 23
+      name: authorized_date2
+      label: Authorized Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: authorization2
+      label: Authorization 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: waiver2
+      label: Waiver 2
+      hint: null
+      type: note
+      options: []
+      required: true

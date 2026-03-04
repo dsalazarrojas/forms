@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_improvement_suggestion_form
+    pages:
+    - id: 1
+      name: suggestion_section
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: suggested_by
+      label: Suggested By
+      hint: Name of the employee who submitted the suggestion
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestion_category
+      label: Category
+      hint: Select one or more categories for your suggestion
+      type: select_multiple
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: true
+    - id: 4
+      name: suggestion_description
+      label: Description
+      hint: Please enter a clear and concise description of your suggestion
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion_date
+      label: Date
+      hint: Date (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: suggestion_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Rejected
+      - Approved
+      required: true
+    - id: 8
+      name: submitted_by_name
+      label: Submitted By
+      hint: Name of the employee who submitted the suggestion
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: Email of the employee who submitted the suggestion
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: Phone number of the employee who submitted the suggestion
+      type: text
+      options: []
+      required: false

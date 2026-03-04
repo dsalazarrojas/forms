@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_equipment_rental_order_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_request_date
+      label: Rental Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Ambulatory equipment
+      - Diagnostic equipment
+      - Therapeutic equipment
+      required: false
+    - id: 5
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Day
+      - Week
+      - Month
+      - Year
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - Medicaid
+      - Medicare
+      - Private insurance
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

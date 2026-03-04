@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_record_communication_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Patient Dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Fax''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: provider_facility
+      label: Provider Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: provider_department
+      label: Provider Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_id
+      label: Medical Record ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: patient_health_insurance
+      label: Patient Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false

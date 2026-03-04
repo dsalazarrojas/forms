@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Shed Planning Permission Application
+    pages:
+    - id: 1
+      name: section_applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name of applicant or company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Preferred contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property address
+      hint: Address where bike shed will be located
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposed_dimensions
+      label: Proposed dimensions
+      hint: Length x width x height in meters
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposed_materials
+      label: Proposed materials
+      hint: Describe primary construction materials
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: intended_use
+      label: Intended use
+      hint: Storage, community access, repair station etc
+      type: select_one
+      options:
+      - Private storage
+      - Communal storage
+      - Repair station
+      - Commercial use
+      required: true
+    - id: 9
+      name: neighbour_notifications
+      label: Neighbour notifications
+      hint: Have neighbours been informed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: supporting_documents
+      label: Supporting documents list
+      hint: List attached plans or photos
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: declaration_signature
+      label: Declaration name
+      hint: Type your full name to confirm submission
+      type: text
+      options: []
+      required: true

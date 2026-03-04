@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Grievance Handling Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grievance_type
+      label: grievance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Category'', ''comment'': ''Category''}'
+      - '{''value'': 2, ''label'': ''Subcategory'', ''comment'': ''Subcategory''}'
+      required: false
+    - id: 3
+      name: grievance_description
+      label: grievance_description
+      hint: Describe your grievance here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grievance_date
+      label: grievance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: grievance_time
+      label: grievance_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: grievance_details
+      label: grievance_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: resolution_mechanism
+      label: resolution_mechanism
+      hint: Describe the resolution mechanism that was used to resolve the grievance
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not Satisfied'', ''comment'': ''Not Satisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat Satisfied'', ''comment'': ''Somewhat
+        Satisfied''}'
+      - '{''value'': 3, ''label'': ''Satisfied'', ''comment'': ''Satisfied''}'
+      - '{''value'': 4, ''label'': ''Very Satisfied'', ''comment'': ''Very Satisfied''}'
+      required: false
+    - id: 9
+      name: employee_rating
+      label: employee_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_suggestion
+      label: employee_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_rating
+      label: supervisor_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_suggestion
+      label: supervisor_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: department
+      hint: Which department did the issue occur in?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team
+      label: team
+      hint: Which team did the issue occur in?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shift
+      label: shift
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''A'', ''comment'': ''A''}'
+      - '{''value'': 2, ''label'': ''B'', ''comment'': ''B''}'
+      - '{''value'': 3, ''label'': ''C'', ''comment'': ''C''}'
+      - '{''value'': 4, ''label'': ''D'', ''comment'': ''D''}'
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: outpatient_psychiatric_progress_note_template
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_encounter_type
+      label: Patient Encounter Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Initial''}'
+      - '{''id'': 2, ''name'': ''Follow-up''}'
+      required: false
+    - id: 5
+      name: patient_caregiver_relationship
+      label: Patient Caregiver Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Father''}'
+      - '{''id'': 2, ''name'': ''Mother''}'
+      - '{''id'': 3, ''name'': ''Son''}'
+      - '{''id'': 4, ''name'': ''Daughter''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 6
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: history_of_present_illness
+      label: History of Present Illness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''No''}'
+      - '{''id'': 2, ''name'': ''Yes''}'
+      required: false
+    - id: 9
+      name: plan_for_treatment
+      label: Plan for Treatment
+      hint: null
+      type: text
+      options: []
+      required: false

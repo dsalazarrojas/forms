@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biology's Staff Hire/Recruitment Notification Form
+    pages:
+    - id: 1
+      name: notification_details_header
+      label: -- Recruitment Notification Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_head
+      label: Department Head Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_title
+      label: Proposed Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_type
+      label: Position Type
+      hint: null
+      type: select_one
+      options:
+      - Faculty
+      - Research Staff
+      - Administrative
+      - Technical Support
+      required: true
+    - id: 5
+      name: funding_source
+      label: Primary Funding Source
+      hint: null
+      type: select_one
+      options:
+      - Department Budget
+      - Grant Funding
+      - University Endowment
+      - External Sponsorship
+      required: true
+    - id: 6
+      name: position_requirements_header
+      label: -- Position Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recruitment_urgency
+      label: Recruitment Urgency
+      hint: null
+      type: select_one
+      options:
+      - Immediate - High Priority
+      - Planned - Next Quarter
+      - Future Need
+      required: true
+    - id: 8
+      name: key_responsibilities
+      label: Key Responsibilities and Duties
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: min_salary
+      label: Expected Salary Range - Minimum
+      hint: Annual amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: max_salary
+      label: Expected Salary Range - Maximum
+      hint: Annual amount
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: approvals_header
+      label: -- Internal Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Date of Notification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: Contact Person for HR Coordination
+      hint: null
+      type: email
+      options: []
+      required: true

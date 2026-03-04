@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_schedule_change_request_form
+    pages:
+    - id: 1
+      name: form_section
+      label: Form Section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: new_schedule_request
+      label: New Schedule Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approve''}'
+      - '{''id'': 2, ''name'': ''Reject''}'
+      required: false
+    - id: 11
+      name: submitter_signature
+      label: Submitter’s Signature
+      hint: null
+      type: text
+      options: []
+      required: false

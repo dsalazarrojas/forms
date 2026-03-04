@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Benefits Overview
+    pages:
+    - id: 1
+      name: benefits_summary
+      label: Benefit Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: retirement_age
+      label: Retirement Age
+      hint: The age at which you can retire
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: benefit_options
+      label: Benefit Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: benefits_cost
+      label: Benefit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: benefit_details
+      label: Benefit Details
+      hint: null
+      type: text
+      options: []
+      required: false

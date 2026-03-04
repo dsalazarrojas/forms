@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Network Selection Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: network_provider
+      label: network-provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: provider_name
+      label: provider-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: network_type
+      label: network-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: network_rating
+      label: network-rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: network_rating_value
+      label: network-rating-value
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: selected_provider
+      label: selected-provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: selected_network
+      label: selected-network
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submit_button
+      label: submit-button
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

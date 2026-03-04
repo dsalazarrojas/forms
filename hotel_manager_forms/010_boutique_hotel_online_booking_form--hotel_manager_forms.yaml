@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Hotel Online Booking Form
+    pages:
+    - id: 1
+      name: section_header_guest
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Guest first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Guest last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact during stay
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_reservation
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: check_in_date
+      label: Check-in Date
+      hint: Expected arrival date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: check_out_date
+      label: Check-out Date
+      hint: Expected departure date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: number_of_nights
+      label: Number of Nights
+      hint: Calculated from dates above
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_guests
+      label: Total Number of Guests
+      hint: Adults and children combined
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_room_preference
+      label: -- Room Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: room_type
+      label: Preferred Room Type
+      hint: Select your preference
+      type: select_one
+      options:
+      - Deluxe Double
+      - Twin Room
+      - Suite
+      - Penthouse
+      - Studio
+      - Family Room
+      - No preference
+      required: true
+    - id: 14
+      name: bed_preference
+      label: Bed Preference
+      hint: Type of bed desired
+      type: select_one
+      options:
+      - King
+      - Queen
+      - Twin beds
+      - Double bed
+      - Any
+      required: true
+    - id: 15
+      name: floor_preference
+      label: Floor Preference
+      hint: null
+      type: select_one
+      options:
+      - Ground floor
+      - Mid-level
+      - Upper floor
+      - Quiet room away from elevator
+      - Any
+      required: false
+    - id: 16
+      name: section_header_amenities
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_amenities
+      label: Special Amenities Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High chair for baby
+      - Crib
+      - Extra bed
+      - Wheelchair accessibility
+      - Pet friendly
+      - Smoking room
+      - Late arrival
+      required: false
+    - id: 18
+      name: special_requests
+      label: Additional Special Requests
+      hint: Birthdays, celebrations, accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_payment
+      label: Preferred Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - PayPal
+      - Other
+      required: true
+    - id: 21
+      name: booking_confirmation
+      label: I agree to booking terms and conditions
+      hint: Check to confirm reservation
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

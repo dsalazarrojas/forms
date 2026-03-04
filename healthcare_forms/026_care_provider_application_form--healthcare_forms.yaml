@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Provider Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: qualifications
+      label: Professional qualifications
+      hint: List certifications and licenses
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of experience
+      hint: Total years in caregiving
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reference_contacts
+      label: Reference contacts
+      hint: Provide at least two professional references
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: background_check_consent
+      label: Consent for background check
+      hint: Required for application processing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information applicant wishes to provide
+      type: text
+      options: []
+      required: false

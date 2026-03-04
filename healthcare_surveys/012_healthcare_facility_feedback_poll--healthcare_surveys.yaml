@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Facility Feedback Poll
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: Enter patient details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: Patient contact details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_1
+      label: Have you ever visited this hospital or clinic?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_2
+      label: How was your overall experience with this healthcare facility?
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: question_3
+      label: What can we improve on your next visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: main_page_2
+      label: Main Page 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_4
+      label: Would you like to be contacted for follow-up information?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

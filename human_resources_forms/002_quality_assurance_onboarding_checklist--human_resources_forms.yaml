@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Assurance Onboarding Checklist
+    pages:
+    - id: 1
+      name: qa_steps_1
+      label: qa_steps_1_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: new_hire_ready
+      label: new_hire_ready_label
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: internal_processes
+      label: internal_processes_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_notes
+      label: submission_notes_label
+      hint: null
+      type: note
+      options: []
+      required: false

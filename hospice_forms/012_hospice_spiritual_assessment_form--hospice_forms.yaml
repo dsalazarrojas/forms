@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Spiritual Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: spiritual_values
+      label: Spiritual Values
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: spiritual_support
+      label: Spiritual Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: religious_practices
+      label: Religious Practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: spiritual_therapy
+      label: Spiritual Therapy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pastoral_therapy
+      label: Pastoral Therapy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_fears
+      label: Patient Fears
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: coping_mechanism
+      label: Coping Mechanism
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: spiritual_values_important
+      label: Spiritual Values Important
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: spiritual_values_current
+      label: Spiritual Values Current
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: hospice_spiritual_clinic
+      label: Hospice Spiritual Clinic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: spiritual_status
+      label: Spiritual Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: spiritual_care
+      label: Spiritual Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: spiritual_assessment_date
+      label: Spiritual Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: spiritual_assessment_time
+      label: Spiritual Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: pastoral_counseling_referral
+      label: Pastoral Counseling Referral
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: hospice_spiritual_referral
+      label: Hospice Spiritual Referral
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: hospice_spiritual_referral_note
+      label: Hospice Spiritual Referral Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pastoral_referral_note
+      label: Pastoral Referral Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: other_spiritual_referral
+      label: Other Spiritual Referral
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: other_spiritual_referral_note
+      label: Other Spiritual Referral Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_spiritual_referral
+      label: Patient Spiritual Referral
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: patient_spiritual_referral_note
+      label: Patient Spiritual Referral Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: other_referral_source
+      label: Other Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: other_referral_source_note
+      label: Other Referral Source Note
+      hint: null
+      type: note
+      options: []
+      required: false

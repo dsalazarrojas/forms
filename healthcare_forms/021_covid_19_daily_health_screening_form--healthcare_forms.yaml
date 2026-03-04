@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Daily Health Screening Form
+    pages:
+    - id: 1
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: screening_time
+      label: Screening Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: person_name
+      label: Name of Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: person_id
+      label: ID Number
+      hint: Employee ID, Student ID, or other identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_1
+      label: -- Health Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: temperature_check
+      label: Temperature Check Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: temperature_reading
+      label: Temperature Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fever_present
+      label: Fever Present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: cough
+      label: Cough or Difficulty Breathing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: sore_throat
+      label: Sore Throat or Chills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: loss_of_taste_smell
+      label: Loss of Taste or Smell
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: muscle_pain
+      label: Muscle or Body Aches
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: headache
+      label: Headache
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: nausea_vomiting
+      label: Nausea or Vomiting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: covid_exposure
+      label: Been in Close Contact with COVID-19 Case
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 18
+      name: exposure_timeframe
+      label: If yes, when was the contact?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: covid_travel
+      label: Traveled to High COVID-19 Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: travel_location
+      label: Location of Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_2
+      label: -- Clearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: screening_result
+      label: Screening Result
+      hint: null
+      type: select_one
+      options:
+      - CLEARED - No symptoms
+      - REFER - Symptoms present, needs evaluation
+      - QUARANTINE - Likely COVID-19 case
+      required: true
+    - id: 23
+      name: screening_staff
+      label: Screening Staff Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

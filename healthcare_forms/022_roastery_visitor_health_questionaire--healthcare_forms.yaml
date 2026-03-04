@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roastery Visitor Health Questionaire
+    pages:
+    - id: 1
+      name: has_cough
+      label: Do you have a cough
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Sore throat
+      - Runny nose
+      - Cough
+      required: false
+    - id: 2
+      name: fever_scale
+      label: Fever scale 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: has_fever
+      label: Have you had a fever in the last 7 days
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      required: false
+    - id: 4
+      name: has_chills
+      label: Have you had chills
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: has_runny_nose
+      label: Do you have a runny nose
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: has_runny_eyes
+      label: Do you have a runny eyes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: has_sore_throat
+      label: Do you have a sore throat
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: have_you_traveled
+      label: Have you traveled in the last 2 weeks
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: have_you_traveled_out_of_state
+      label: Have you traveled out of state
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: have_you_traveled_out_of_country
+      label: Have you traveled out of country
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: have_you_traveled_with
+      label: Have you traveled with anyone who is ill
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: do_you_live_with
+      label: Do you live with anyone who is ill
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: have_you_been_in_contact_with
+      label: Have you been in contact with a sick person
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: have_you_received_vaccination
+      label: Have you received any vaccination
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: have_you_had_medical_condition
+      label: Have you had any medical condition
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: have_you_taken_medication
+      label: Have you taken any medication
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: have_you_been_in_contact_with_another
+      label: Have you been in contact with another person
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: have_you_had_contact_with_another
+      label: Have you had contact with another person
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: have_you_traveled_by_public
+      label: Have you traveled by public transport
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: have_you_worked_with
+      label: Have you worked with
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: have_you_attended_event
+      label: Have you attended an event
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: have_you_eaten
+      label: Have you eaten
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: have_you_had_any_contact
+      label: Have you had any contact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: note2
+      label: note2
+      hint: null
+      type: note
+      options: []
+      required: false

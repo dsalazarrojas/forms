@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Review Form
+    pages:
+    - id: 1
+      name: sample_review_form
+      label: sample_review_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: performance_area
+      label: performance_area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

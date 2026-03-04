@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Alert Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: physician_name
+      label: physician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physician_license
+      label: physician_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_assistance_needed
+      label: medical_assistance_needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_emergency
+      label: medical_emergency
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Urgent
+      - Non-urgent
+      required: false
+    - id: 11
+      name: medical_contact
+      label: medical_contact
+      hint: null
+      type: text
+      options: []
+      required: false

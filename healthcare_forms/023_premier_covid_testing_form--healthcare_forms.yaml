@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: premier_covid_testing_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Blood
+      - Saliva
+      - Nose
+      required: false
+    - id: 5
+      name: sample_collection_date
+      label: Sample Collection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sample_collection_time
+      label: Sample Collection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_clinic
+      label: Medical Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_result_interpretation
+      label: Test Result Interpretation
+      hint: null
+      type: text
+      options: []
+      required: false

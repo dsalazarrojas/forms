@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Emergency Preparedness Survey
+    pages:
+    - id: 1
+      name: shelter_name
+      label: Shelter or Rescue Organization Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of person completing survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What kind of animal organization
+      type: select_one
+      options:
+      - Animal Shelter
+      - Animal Rescue
+      - Wildlife Rehabilitation
+      - Sanctuary
+      - Veterinary Clinic
+      - Boarding Facility
+      - Other
+      required: true
+    - id: 6
+      name: current_animals
+      label: Current Number of Animals in Care
+      hint: Approximate count
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_emergency_plan
+      label: -- Emergency Plan --
+      hint: Current emergency preparedness
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: has_emergency_plan
+      label: Do You Have a Written Emergency Plan
+      hint: Documented emergency procedures
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 9
+      name: plan_last_updated
+      label: When Was Plan Last Updated
+      hint: Date of most recent revision
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: plan_topics
+      label: Topics Covered in Emergency Plan
+      hint: What scenarios does plan address
+      type: select_multiple
+      options:
+      - Natural Disasters
+      - Fire
+      - Flooding
+      - Power Outages
+      - Medical Emergencies
+      - Staff Injuries
+      - Security Breaches
+      - Epidemics
+      required: false
+    - id: 11
+      name: section_evacuation
+      label: -- Evacuation Preparedness --
+      hint: Ability to evacuate animals
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: evacuation_plan
+      label: Do You Have an Evacuation Plan
+      hint: Procedures to evacuate animals
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 13
+      name: evacuation_destination
+      label: Designated Evacuation Destination
+      hint: Where animals would be evacuated to
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evacuation_capacity
+      label: Evacuation Destination Capacity
+      hint: How many animals can be accommodated
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: transport_capability
+      label: Capability to Transport All Animals
+      hint: Do you have adequate transport
+      type: select_one
+      options:
+      - 'Yes'
+      - Partial
+      - 'No'
+      required: true
+    - id: 16
+      name: section_resources
+      label: -- Resources and Supplies --
+      hint: Emergency supplies and resources
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_supplies
+      label: Emergency Supplies Maintained
+      hint: Food, water, medical, etc
+      type: select_multiple
+      options:
+      - Emergency food (30 day supply)
+      - Emergency water (30 day supply)
+      - Medical supplies and medications
+      - First aid kits
+      - Flashlights and batteries
+      - Portable cages and carriers
+      - Generator and fuel
+      - Communication equipment
+      required: true
+    - id: 18
+      name: backup_power
+      label: Backup Power System Available
+      hint: Generator or alternative power
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: backup_power_duration
+      label: Backup Power Duration
+      hint: How long system can operate
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: water_backup
+      label: Backup Water System Available
+      hint: Emergency water supply
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: section_communication
+      label: -- Communication and Coordination --
+      hint: Ability to communicate during emergency
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_list
+      label: Updated Emergency Contact List Maintained
+      hint: Staff, volunteers, emergency services
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: communication_backup
+      label: Communication Backup Methods
+      hint: Backup communication plans
+      type: select_multiple
+      options:
+      - Phone tree
+      - Email list
+      - Text alert system
+      - Social media
+      - Local media partnerships
+      - None
+      required: false
+    - id: 24
+      name: section_challenges
+      label: -- Challenges and Needs --
+      hint: Identify gaps in preparedness
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: main_challenges
+      label: Main Emergency Preparedness Challenges
+      hint: What are your biggest gaps
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: resource_needs
+      label: Greatest Resource Needs
+      hint: What would help most
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: training_needed
+      label: Staff Training Needs
+      hint: What training is needed
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

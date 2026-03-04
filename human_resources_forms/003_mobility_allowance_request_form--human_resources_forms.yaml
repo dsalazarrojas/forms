@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobility Allowance Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_travel
+      label: Date Of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: destination_airport
+      label: Destination Airport
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: travel_start_date
+      label: Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: travel_end_date
+      label: Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: travel_status_reason
+      label: Travel Status Reason
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: travel_status_update
+      label: Travel Status Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: travel_requester
+      label: Travel Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: travel_requester_name
+      label: Travel Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: travel_requester_email
+      label: Travel Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: travel_requester_phone
+      label: Travel Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: travel_requester_jobtitle
+      label: Travel Requester Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

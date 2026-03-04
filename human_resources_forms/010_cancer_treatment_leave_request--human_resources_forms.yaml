@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Treatment Leave Request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Company ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Employee Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Work department
+      type: select_one
+      options:
+      - Administration
+      - Sales
+      - Marketing
+      - Human Resources
+      - Finance
+      - Operations
+      - IT or Technology
+      - Customer Service
+      - Research and Development
+      - Other
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: Supervisor or Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: Full-time or part-time
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      required: true
+    - id: 9
+      name: hire_date
+      label: Hire Date
+      hint: Start date with company
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_type
+      label: Type of Leave Requested
+      hint: Leave category
+      type: select_one
+      options:
+      - Medical leave - FMLA
+      - Short-term disability
+      - Long-term disability
+      - Personal medical leave
+      - Family caregiver leave
+      - Combination
+      required: true
+    - id: 11
+      name: leave_reason
+      label: Reason for Leave
+      hint: Purpose of leave
+      type: select_one
+      options:
+      - Personal cancer treatment
+      - Family member cancer care
+      - Recovery from treatment
+      - Surgery and recovery
+      - Ongoing therapy
+      - Other medical reasons
+      required: true
+    - id: 12
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of leave
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: leave_end_date
+      label: Expected Return Date
+      hint: Planned return to work
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: leave_duration
+      label: Expected Duration of Leave
+      hint: Total time off
+      type: select_one
+      options:
+      - Less than 2 weeks
+      - 2 to 4 weeks
+      - 1 to 3 months
+      - 3 to 6 months
+      - More than 6 months
+      - Indefinite
+      required: true
+    - id: 15
+      name: intermittent_leave
+      label: Is Leave Intermittent
+      hint: Will you need occasional time off
+      type: select_one
+      options:
+      - Yes - scheduled treatments
+      - Yes - as needed
+      - No - continuous leave
+      required: true
+    - id: 16
+      name: intermittent_schedule
+      label: Intermittent Schedule Details
+      hint: Describe schedule if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_certification
+      label: Medical Certification Provided
+      hint: Doctor documentation
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - Pending from physician
+      - Not yet obtained
+      required: true
+    - id: 18
+      name: physician_name
+      label: Treating Physician Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: physician_contact
+      label: Physician Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_handover_plan
+      label: Work Handover Plan
+      hint: How will work be covered
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: pending_projects
+      label: Pending Projects or Tasks
+      hint: Current work status
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: colleague_coverage
+      label: Colleague Covering Your Role
+      hint: Who will cover
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: remote_work_possible
+      label: Is Remote Work Possible During Treatment
+      hint: Can you work from home
+      type: select_one
+      options:
+      - Yes - full-time remote
+      - Yes - part-time remote
+      - Maybe - depends on treatment
+      - No - unable to work
+      required: true
+    - id: 24
+      name: flexible_schedule_request
+      label: Flexible Schedule Requested
+      hint: Do you need flexible hours
+      type: select_one
+      options:
+      - Yes - reduced hours
+      - Yes - flexible start and end times
+      - Yes - compressed work week
+      - No - standard schedule
+      required: false
+    - id: 25
+      name: benefits_continuation
+      label: Benefits Continuation Questions
+      hint: Do you understand benefits during leave
+      type: select_one
+      options:
+      - Yes - fully understand
+      - Partially - need clarification
+      - No - need full explanation
+      required: true
+    - id: 26
+      name: accrued_leave_used
+      label: Accrued Leave to Use
+      hint: Vacation or sick time
+      type: select_multiple
+      options:
+      - Vacation time
+      - Sick leave
+      - Personal days
+      - Compensatory time
+      - None
+      required: true
+    - id: 27
+      name: contact_during_leave
+      label: Contact Preferences During Leave
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email for urgent matters only
+      - Phone for urgent matters only
+      - No contact unless emergency
+      - Regular check-ins welcome
+      required: true
+    - id: 28
+      name: return_to_work_accommodations
+      label: Anticipated Return to Work Accommodations
+      hint: Will you need accommodations
+      type: select_one
+      options:
+      - Yes - will discuss later
+      - Yes - need assessment
+      - No - full duties
+      - Unsure at this time
+      required: false
+    - id: 29
+      name: hr_contact_acknowledgment
+      label: HR Contact Acknowledgment
+      hint: Do you have HR contact info
+      type: select_one
+      options:
+      - Yes - have contact information
+      - No - need HR contact
+      required: true
+    - id: 30
+      name: employee_signature_date
+      label: Employee Signature Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Nutrition Education Impact Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: What do you already know about nutrition?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: How do you currently get your nutrition information?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_4
+      label: How often do you get your nutrition information from a public health
+        professional?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page_5
+      label: How often do you get your nutrition information from a community health
+        worker?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: page_6
+      label: Have you ever attended a community nutrition education session?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: page_7
+      label: Have you attended a community nutrition education session in the last
+        6 months?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: page_8
+      label: What is your highest level of education completed?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: How would you rate your overall knowledge about nutrition after attending
+        the session?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: page_10
+      label: How likely are you to recommend this session to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_structure_assessment_form
+    pages:
+    - id: 1
+      name: work_structure
+      label: work_structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_awareness
+      label: role_awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_structure_score
+      label: work_structure_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: collaboration
+      label: collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - Collaboration and Communication
+      - Conflict Resolution
+      - Problem Solving
+      - Teamwork and Trust
+      - Other
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_size
+      label: team_size
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21 or more
+      required: false
+    - id: 8
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - Management
+      - Operations
+      - Sales
+      - Development
+      - Other
+      required: false
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Marketing
+      - Sales
+      - Development
+      - Other
+      required: false
+    - id: 10
+      name: job_function
+      label: job_function
+      hint: null
+      type: select_one
+      options:
+      - Data Scientist
+      - Software Engineer
+      - Marketing Manager
+      - Sales Manager
+      - Other
+      required: false
+    - id: 11
+      name: work_structure_score_range
+      label: work_structure_score_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

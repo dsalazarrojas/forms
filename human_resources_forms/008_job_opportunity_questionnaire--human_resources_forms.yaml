@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Job Opportunity Questionnaire
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full-time''}'
+      - '{''id'': 2, ''name'': ''Part-time''}'
+      - '{''id'': 3, ''name'': ''Contract''}'
+      - '{''id'': 4, ''name'': ''Internship''}'
+      required: true
+    - id: 3
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Sales''}'
+      - '{''id'': 2, ''name'': ''Marketing''}'
+      - '{''id'': 3, ''name'': ''Customer Service''}'
+      - '{''id'': 4, ''name'': ''Software Development''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: true
+    - id: 4
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Entry Level''}'
+      - '{''id'': 2, ''name'': ''Mid-level''}'
+      - '{''id'': 3, ''name'': ''Senior''}'
+      required: true
+    - id: 5
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_start_date
+      label: Job Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: job_end_date
+      label: Job End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_responsibilities
+      label: Job Responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: candidate_resume
+      label: Candidate Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: role_preferences
+      label: Role Preferences
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Reimbursement Form
+    pages:
+    - id: 1
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: flight_info
+      label: flight_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: select_one
+      options:
+      - Destination
+      - Destination2
+      required: false
+    - id: 5
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 8
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_uploads
+      label: file_uploads
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_approved
+      label: date_approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - approved
+      - pending
+      - rejected
+      required: false

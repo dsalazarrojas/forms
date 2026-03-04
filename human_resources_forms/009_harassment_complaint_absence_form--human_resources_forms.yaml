@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Complaint Absence Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: incident-type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resolution_status
+      label: resolution-status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - In Progress
+      required: true
+    - id: 6
+      name: time_off_start
+      label: time-off-start
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: time_off_end
+      label: time-off-end
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: employee_id
+      label: employee-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: manager_id
+      label: manager-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: reporting_date
+      label: reporting-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_reported
+      label: incident-reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resolution_date
+      label: resolution-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned-tool
+      hint: Please select a tool from the list below
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: additional_info_prophets
+      label: additional-info-prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resolution_details
+      label: resolution-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reported_date
+      label: incident-reported-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: resolution_method
+      label: resolution-method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_names
+      label: witness-names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resolution_outcome
+      label: resolution-outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_required
+      label: follow-up-required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: follow_up_date
+      label: follow-up-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_details
+      label: follow-up-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reporting_employee
+      label: reporting-employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_employee_id
+      label: reporting-employee-id
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedestrian Accident Incident Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_collision
+      label: Date of Collision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_collision
+      label: Time of Collision
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location_of_collision
+      label: Location of Collision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description_of_collision
+      label: Description of Collision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: injury_description
+      label: Injury Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witnesses_present
+      label: Witnesses Present
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_collision
+      label: Vehicle Collision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: pedestrian_collision
+      label: Pedestrian Collision
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false

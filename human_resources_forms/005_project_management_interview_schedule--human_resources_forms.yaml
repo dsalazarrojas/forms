@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Interview Schedule
+    pages:
+    - id: 1
+      name: project_management_interview_schedule
+      label: project_management_interview_schedule
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interview_date
+      label: interview_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: interview_time
+      label: interview_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: interview_location
+      label: interview_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: interviewer_name
+      label: interviewer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: interview_type
+      label: interview_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: schedule_type
+      label: schedule_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: schedule_duration
+      label: schedule_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: schedule_frequency
+      label: schedule_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 17
+      name: follow_up_info
+      label: follow_up_info
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 18
+      name: schedule_status
+      label: schedule_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 19
+      name: schedule_note
+      label: schedule_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_fair_visitor_check_in_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_interest
+      label: Service Interest
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A'', ''label'': ''Option 1''}'
+      - '{''value'': ''B'', ''label'': ''Option 2''}'
+      - '{''value'': ''C'', ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: on_site_service
+      label: On-Site Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''A'', ''label'': ''Option 1''}'
+      - '{''value'': ''B'', ''label'': ''Option 2''}'
+      - '{''value'': ''C'', ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

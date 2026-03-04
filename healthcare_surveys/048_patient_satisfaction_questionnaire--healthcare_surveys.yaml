@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_of_care
+      label: experience of care
+      hint: How was your experience with the service?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_with_service
+      label: satisfaction with service
+      hint: How satisfied are you with the service?
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 8
+      name: recommendation_of_service
+      label: recommendation of service
+      hint: Would you recommend this service?
+      type: select_multiple
+      options:
+      - Not Recommended
+      - Somewhat Recommended
+      - Highly Recommended
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

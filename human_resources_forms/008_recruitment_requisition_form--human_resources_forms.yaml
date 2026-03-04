@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Requisition Form
+    pages:
+    - id: 1
+      name: requisition_type
+      label: Requisition Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      required: true
+    - id: 2
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requisition_description
+      label: Requisition Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Internship
+      required: true
+    - id: 9
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Executive
+      - Mid-level
+      - Entry-level
+      required: true
+    - id: 10
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Internship
+      required: true
+    - id: 12
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor
+      - Master
+      - PhD
+      required: true
+    - id: 13
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: job_opening
+      label: Job Opening
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 3 weeks
+      - Within 2 months
+      - Within 3 months
+      required: true
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: job_type2
+      label: Job Type 2
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home-based
+      - On-Site
+      required: true
+    - id: 23
+      name: job_type3
+      label: Job Type 3
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Office/Remote
+      - Office/Remote/On-site
+      required: false
+    - id: 24
+      name: job_type4
+      label: Job Type 4
+      hint: null
+      type: select_one
+      options:
+      - Office/Remote
+      - Office/On-site
+      - Home-based
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

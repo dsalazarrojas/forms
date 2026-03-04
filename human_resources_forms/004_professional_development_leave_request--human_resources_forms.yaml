@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_development_leave_request
+    pages:
+    - id: 1
+      name: professional_development_leave_request_page_1
+      label: professional_development_leave
+      hint: null
+      type: select_one
+      options:
+      - yes,no
+      - Other
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_course
+      label: training_course
+      hint: null
+      type: select_multiple
+      options:
+      - courseA,courseB
+      - Other
+      required: false
+    - id: 7
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - approved,declined
+      - Other
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: number
+      options: []
+      required: false

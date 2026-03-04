@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: nutrition_screening_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: medical_problems
+      label: medical_problems
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lab_results
+      label: lab_results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: nutrition_risks
+      label: nutrition_risks
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high_risk''}'
+      - '{''value'': ''low_risk''}'
+      - '{''value'': ''no_risk''}'
+      required: true
+    - id: 9
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_screened
+      label: date_screened
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_screened
+      label: time_screened
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: screen_type
+      label: screen_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''in_person''}'
+      - '{''value'': ''phone''}'
+      - '{''value'': ''online''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 15
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''doctor''}'
+      - '{''value'': ''nurse''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 16
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: next_contact_date
+      label: next_contact_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: last_contact_date
+      label: last_contact_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: nutrition_risk_factor
+      label: nutrition_risk_factor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: nutrition_intervention
+      label: nutrition_intervention
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: nutrition_referrals
+      label: nutrition_referrals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: nutrition_goals
+      label: nutrition_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: nutrition_recommendations
+      label: nutrition_recommendations
+      hint: null
+      type: text
+      options: []
+      required: true

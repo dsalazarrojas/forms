@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waiting Room Quiz
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: question1
+      label: How old are you?
+      hint: Enter your age in years
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: What time did you arrive at the waiting room?
+      hint: "12:30 PM"
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: question3
+      label: How many people in your party are taking this quiz?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: true
+    - id: 5
+      name: question5
+      label: What type of doctor do you see today?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cardiologist
+      - Gastroenterologist
+      - Dermatologist
+      required: true
+    - id: 6
+      name: question6
+      label: How long did you wait in the waiting room?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question7
+      label: What type of appointment did you come for?
+      hint: null
+      type: select_one
+      options:
+      - Follow-up
+      - New Patient
+      - Emergency
+      - Routine Visit
+      required: true
+    - id: 8
+      name: question8
+      label: What time did you leave the waiting room?
+      hint: null
+      type: time
+      options: []
+      required: false

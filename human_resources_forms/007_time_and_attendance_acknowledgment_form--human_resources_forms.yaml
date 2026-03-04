@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time And Attendance Acknowledgment Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acknowledgment_date
+      label: acknowledgment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: acknowledgment_time
+      label: acknowledgment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: acknowledgment_status
+      label: acknowledgment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department_name
+      label: department_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location_name
+      label: location_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

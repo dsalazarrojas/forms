@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: job description revision request form
+    pages:
+    - id: 1
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 3
+      name: current_job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: new_job_title
+      label: New Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      required: false
+    - id: 8
+      name: job_family
+      label: Job Family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requester_department
+      label: Requester Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: requester_notes
+      label: Requester Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: date
+      options: []
+      required: true

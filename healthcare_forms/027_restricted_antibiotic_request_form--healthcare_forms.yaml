@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restricted Antibiotic Request Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider_info
+      label: healthcare_provider_info
+      hint: Please provide your information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_info
+      label: request_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prescriber_info
+      label: prescriber_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: select_multiple
+      options:
+      - Antimicrobial Stewardship Request
+      - Non-antibiotic related reason
+      required: true
+    - id: 7
+      name: antibiotic_info
+      label: antibiotic_info
+      hint: null
+      type: select_one
+      options:
+      - Amikacin
+      - Aztreonam
+      - Cefaclor
+      - Cefepime
+      - Cefotaxime
+      - Cefpodoxime
+      - Cefpodoxime
+      - Ceftazidime
+      - Ceftriaxone
+      - Cefuoxime
+      - Cefpirome
+      - Ceftriaxone
+      - Ceftizoxime
+      - Cefepime
+      - Ceftizidime
+      - Cefpiroxime
+      - Cefuroxime
+      - Cefazimine
+      - Cefazolin
+      - Cefaclor
+      - Cefepimine
+      - Ceftazidime
+      - Ceftriaxine
+      - Cefpiroime
+      required: true
+    - id: 8
+      name: route_info
+      label: route_info
+      hint: null
+      type: select_multiple
+      options:
+      - Inpatient
+      - Outpatient
+      - Emergency
+      - Urgent Care
+      required: true
+    - id: 9
+      name: quantity_info
+      label: quantity_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: dosage_info
+      label: dosage_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_info
+      label: approval_info
+      hint: null
+      type: select_multiple
+      options:
+      - Antimicrobial Stewardship Team
+      - Pharmacy
+      - Clinical
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Verification Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prescription_type
+      label: prescription_type
+      hint: null
+      type: select_multiple
+      options:
+      - Rx
+      - Non-Rx
+      required: false
+    - id: 3
+      name: dosing_start_date
+      label: dosing_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: dosing_end_date
+      label: dosing_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prescriber_name
+      label: prescriber_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prescriber_address
+      label: prescriber_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prescriber_phone
+      label: prescriber_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prescriber_email
+      label: prescriber_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: prescriber_license_number
+      label: prescriber_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prescriber_doctype
+      label: prescriber_doctype
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: prescription_number
+      label: prescription_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prescriber_fax
+      label: prescriber_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: prescriber_license_status
+      label: prescriber_license_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: medication_strength
+      label: medication_strength
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dosing_frequency
+      label: dosing_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dosing_instructions
+      label: dosing_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: patient_allergies
+      label: patient_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_medication_allergies
+      label: patient_medication_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_route
+      label: medication_route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dosing_frequency_unit
+      label: dosing_frequency_unit
+      hint: null
+      type: select_one
+      options:
+      - Days
+      - Weeks
+      - Months
+      - Years
+      required: false
+    - id: 24
+      name: dosing_frequency_quantity
+      label: dosing_frequency_quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: prescriber_signature
+      label: prescriber_signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient Own Frame Waiver Form
+    pages:
+    - id: 1
+      name: patient_own_frame_waiver
+      label: Patient Own Frame Waiver Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_own_frame
+      label: Patient Own Frame
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frame_details
+      label: Frame Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: frame_owner_consent
+      label: Frame Owner Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

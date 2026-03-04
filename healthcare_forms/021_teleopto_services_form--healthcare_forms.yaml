@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teleopto Services Form
+    pages:
+    - id: 1
+      name: medical_practice
+      label: medical_practice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: monitor_serial_number
+      label: monitor_serial_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: monitoring_start_date
+      label: monitoring_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: monitor_type
+      label: monitor_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: monitoring_frequency
+      label: monitoring_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: monitor_location
+      label: monitor_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_phone
+      label: doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_email
+      label: doctor_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Onboarding Assessment Form
+    pages:
+    - id: 1
+      name: new_hire_feedback
+      label: New Hire Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_outcome
+      label: Onboarding Outcome
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: new_hire_date
+      label: New Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 5
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In-person''}'
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: onboarding_process
+      label: Onboarding Process
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Onboarding Process 1''}'
+      - '{''label'': ''Onboarding Process 2''}'
+      - '{''label'': ''Onboarding Process 3''}'
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: new_hire_name
+      label: New Hire Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 13
+      name: follow_up_questions
+      label: Follow Up Questions
+      hint: null
+      type: text
+      options: []
+      required: false

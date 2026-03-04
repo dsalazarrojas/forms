@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_laptop_agreement_form
+    pages:
+    - id: 1
+      name: laptop_agreement
+      label: Laptop Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: laptop_model
+      label: Laptop Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: usage_period
+      label: Usage Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: department_manager_email
+      label: Department Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Dell
+      - HP
+      required: false
+    - id: 10
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 13
+      name: laptop_serial_number
+      label: Laptop Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

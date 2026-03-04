@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: human_capital_performance_audit_application_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporting_manager
+      label: reporting_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_supervisor
+      label: employee_supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: performance_issues
+      label: performance_issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_status
+      label: employee_status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - on_leave
+      - terminated
+      required: true
+    - id: 9
+      name: date_of_last_eval
+      label: date_of_last_eval
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: performance_evaluator
+      label: performance_evaluator
+      hint: null
+      type: select_one
+      options:
+      - employee
+      - manager
+      - supervisor
+      required: true
+    - id: 11
+      name: performance_evaluation_date
+      label: performance_evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: evaluation_type
+      label: evaluation_type
+      hint: null
+      type: select_multiple
+      options:
+      - informal
+      - formal
+      required: true
+    - id: 13
+      name: next_evaluation_date
+      label: next_evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: next_evaluation_frequency
+      label: next_evaluation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - annual
+      - semi_annual
+      required: true
+    - id: 15
+      name: current_evaluation_stage
+      label: current_evaluation_stage
+      hint: null
+      type: select_multiple
+      options:
+      - in_progress
+      - pending
+      - completed
+      required: true
+    - id: 16
+      name: next_evaluation_stage
+      label: next_evaluation_stage
+      hint: null
+      type: select_multiple
+      options:
+      - in_progress
+      - pending
+      required: true
+    - id: 17
+      name: employee_feedback
+      label: employee_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_feedback
+      label: manager_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: hr_approval_status
+      label: hr_approval_status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - pending
+      - rejected
+      required: true
+    - id: 20
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_multiple
+      options:
+      - manual
+      - automated
+      required: true
+    - id: 22
+      name: evaluation_cycle
+      label: evaluation_cycle
+      hint: null
+      type: select_multiple
+      options:
+      - cycle_1
+      - cycle_2
+      required: true
+    - id: 23
+      name: cycle_duration
+      label: cycle_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: evaluation_frequency
+      label: evaluation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - continuous
+      - periodic
+      required: true
+    - id: 25
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

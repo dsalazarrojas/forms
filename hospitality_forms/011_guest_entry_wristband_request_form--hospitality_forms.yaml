@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Entry Wristband Request Form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wristband_request
+      label: Wristband Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entry_control
+      label: Entry Control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: wristband_type
+      label: Wristband Type
+      hint: null
+      type: select_one
+      options:
+      - '{''type'': ''text'', ''label'': ''Standard Wristband''}'
+      - '{''type'': ''text'', ''label'': ''VIP Wristband''}'
+      - '{''type'': ''text'', ''label'': ''Kids Wristband''}'
+      required: false
+    - id: 12
+      name: wristband_color
+      label: Wristband Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approval_comment
+      label: Approval Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: entry_control_type
+      label: Entry Control Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''type'': ''text'', ''label'': ''Standard''}'
+      - '{''type'': ''text'', ''label'': ''VIP''}'
+      - '{''type'': ''text'', ''label'': ''Kids''}'
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

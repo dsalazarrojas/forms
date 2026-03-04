@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Heater Assessment Survey
+    pages:
+    - id: 1
+      name: water_heater_type
+      label: Water Heater Type
+      hint: null
+      type: select_one
+      options:
+      - Gas
+      - Electric
+      - Tankless
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Unknown
+      required: false
+    - id: 3
+      name: temperature_rating
+      label: Temperature
+      hint: Enter rating from 0-10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: installed_year
+      label: Year Installed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Needs Maintenance
+      - Bad
+      - Unknown
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_installed
+      label: Date Installed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_removed
+      label: Date Removed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: installation_notes
+      label: Installation Notes
+      hint: null
+      type: text
+      options: []
+      required: false

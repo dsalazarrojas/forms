@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback Release Form
+    pages:
+    - id: 1
+      name: name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Marketing
+      - IT
+      required: true
+    - id: 4
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comment
+      label: feedback_comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name2
+      label: team_lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department2
+      label: department_lead
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Marketing
+      - IT
+      required: false
+    - id: 9
+      name: email2
+      label: team_lead_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_signoff
+      label: manager_signoff
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false
+    - id: 12
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In progress
+      - Closed
+      required: false

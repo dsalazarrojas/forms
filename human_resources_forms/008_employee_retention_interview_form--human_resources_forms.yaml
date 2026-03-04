@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Retention Interview Form
+    pages:
+    - id: 1
+      name: employee_retention_questionnaire
+      label: Employee Retention Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: retention_reason
+      label: Retention Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High salary''}'
+      - '{''id'': 2, ''name'': ''Low satisfaction''}'
+      - '{''id'': 3, ''name'': ''Lack of growth opportunities''}'
+      - '{''id'': 4, ''name'': ''No clear career path''}'
+      - '{''id'': 5, ''name'': ''Lack of work-life balance''}'
+      required: true
+    - id: 4
+      name: open_ended_question
+      label: Open-ended Question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Healthcare Operations Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: hospital_department
+      label: Hospital Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sustainability_initiatives
+      label: Sustainability Initiatives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: current_challenges
+      label: Current Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: future_goals
+      label: Future Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: environmental_impact
+      label: Environmental Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: operational_impact
+      label: Operational Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: hospital_size
+      label: Hospital Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: number_of_doctors
+      label: Number of Doctors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: number_of_patients
+      label: Number of Patients
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: number_of_bedspaces
+      label: Number of Bedspaces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: number_of_floors
+      label: Number of Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: number_of_doctors_females
+      label: Number of Female Doctors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: number_of_nurses
+      label: Number of Nurses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: number_of_admin_staff
+      label: Number of Administrative Staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: number_of_support_staff
+      label: Number of Support Staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

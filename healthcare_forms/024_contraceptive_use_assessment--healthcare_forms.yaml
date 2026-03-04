@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contraceptive Use Assessment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: relationship_status
+      label: Relationship Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 6
+      name: sexually_active
+      label: Sexually Active
+      hint: Are you currently sexually active?
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 7
+      name: pregnancy_intention
+      label: Pregnancy Intention
+      hint: Are you trying to conceive?
+      type: select_one
+      options:
+      - Yes, trying to conceive
+      - No, want to prevent pregnancy
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 8
+      name: current_contraceptive_use
+      label: Current Contraceptive Use
+      hint: Are you using contraception now?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 9
+      name: current_method
+      label: Current Method
+      hint: What method are you using?
+      type: select_one
+      options:
+      - Birth control pills
+      - IUD
+      - Implant
+      - Injection
+      - Patch
+      - Vaginal ring
+      - Condoms
+      - Natural family planning
+      - Withdrawal
+      - Other
+      required: false
+    - id: 10
+      name: method_satisfaction
+      label: Method Satisfaction
+      hint: How satisfied are you?
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 11
+      name: past_contraceptive_methods
+      label: Past Contraceptive Methods
+      hint: What have you used before?
+      type: select_multiple
+      options:
+      - Birth control pills
+      - IUD
+      - Implant
+      - Injection
+      - Patch
+      - Vaginal ring
+      - Condoms
+      - Diaphragm
+      - Emergency contraception
+      - None
+      required: true
+    - id: 12
+      name: reasons_for_discontinuation
+      label: Reasons for Discontinuation
+      hint: Why did you stop previous methods?
+      type: select_multiple
+      options:
+      - Side effects
+      - Inconvenient
+      - Cost
+      - Health concerns
+      - Want to conceive
+      - Partner preference
+      - Not effective
+      - Other
+      required: false
+    - id: 13
+      name: side_effects_experienced
+      label: Side Effects Experienced
+      hint: Describe any side effects
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: Relevant health conditions
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Blood clots
+      - Heart disease
+      - Stroke
+      - Liver disease
+      - Breast cancer
+      - Migraines with aura
+      - Diabetes
+      - None
+      required: true
+    - id: 15
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke?
+      type: select_one
+      options:
+      - Non-smoker
+      - Former smoker
+      - Current smoker
+      required: true
+    - id: 16
+      name: counseling_interest
+      label: Counseling Interest
+      hint: Would you like counseling?
+      type: select_one
+      options:
+      - Yes, interested
+      - Maybe
+      - No, thank you
+      required: true
+    - id: 17
+      name: preferred_method_characteristics
+      label: Preferred Method Characteristics
+      hint: What is important to you?
+      type: select_multiple
+      options:
+      - Long-acting
+      - Reversible
+      - Hormone-free
+      - Low maintenance
+      - Private
+      - Affordable
+      - Easily accessible
+      - Menstrual regulation
+      required: true
+    - id: 18
+      name: barriers_to_access
+      label: Barriers to Access
+      hint: What prevents you from getting contraception?
+      type: select_multiple
+      options:
+      - Cost
+      - Lack of insurance
+      - Transportation
+      - Time constraints
+      - Privacy concerns
+      - Partner opposition
+      - Religious beliefs
+      - None
+      required: false
+    - id: 19
+      name: knowledge_level
+      label: Knowledge Level
+      hint: How informed do you feel?
+      type: select_one
+      options:
+      - Very informed
+      - Somewhat informed
+      - Neutral
+      - Not very informed
+      - Not informed at all
+      required: true
+    - id: 20
+      name: additional_questions
+      label: Additional Questions
+      hint: Any questions for the provider?
+      type: text
+      options: []
+      required: false

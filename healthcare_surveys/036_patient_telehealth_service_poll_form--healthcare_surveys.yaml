@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Telehealth Service Poll Form
+    pages:
+    - id: 1
+      name: telehealth_service_poll_form_page
+      label: First Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Video''}'
+      - '{''option'': ''Email''}'
+      required: false
+    - id: 3
+      name: first_visit_rating
+      label: First Visit Rating
+      hint: Rate your experience with our first visit
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: follow_up_scheduling
+      label: Follow-Up Scheduling
+      hint: How would you like to schedule future visits?
+      type: select_multiple
+      options:
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Email''}'
+      - '{''option'': ''In Person''}'
+      required: false
+    - id: 5
+      name: technical_issues
+      label: Technical Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Provide your email if you'd like to receive follow-up surveys
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Provide your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_visit_date
+      label: Date of First Visit
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_visit
+      label: Follow-up Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: next_follow_up_date
+      label: Next Follow-up Visit
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_visit_frequency
+      label: Follow-up Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Daily''}'
+      - '{''option'': ''Weekly''}'
+      - '{''option'': ''Monthly''}'
+      required: false
+    - id: 13
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Daily''}'
+      - '{''option'': ''Weekly''}'
+      - '{''option'': ''Monthly''}'
+      required: false
+    - id: 14
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Email''}'
+      - '{''option'': ''In Person''}'
+      required: false
+    - id: 15
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate your overall experience with our telehealth service
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend our telehealth service to a friend or family member?
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: rating
+      label: Rating
+      hint: Rate your experience with our telehealth service
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow-up Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_time
+      label: Follow-up Time
+      hint: AM/PM
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Email''}'
+      - '{''option'': ''In Person''}'
+      required: false

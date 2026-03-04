@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insomnia Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sleep_onset
+      label: When did you first experience sleep problems?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sleep_duration
+      label: How long have you had sleep problems?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sleep_frequency
+      label: How often do you have difficulty falling asleep?
+      hint: null
+      type: select_one
+      options:
+      - 3+ times a week
+      - 1-2 times a week
+      - less than once a week
+      - never
+      required: false
+    - id: 6
+      name: wake_after_sleep
+      label: How often do you wake up at night?
+      hint: null
+      type: select_multiple
+      options:
+      - 3+ times
+      - 1-2 times
+      - less than once
+      required: false
+    - id: 7
+      name: quality_sleep
+      label: How would you rate your sleep quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: sleep_disrupted_by_stress
+      label: Do you believe that stress has disrupted your sleep?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: medications
+      label: Are you currently taking any prescription medications?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: sleep_quality_score
+      label: Sleep Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sleep_disorders
+      label: Do you have any sleep disorder diagnoses?
+      hint: null
+      type: select_multiple
+      options:
+      - Insomnia
+      - Sleep apnea
+      - Narcolepsy
+      - Other
+      required: false
+    - id: 12
+      name: sleep_disorders_other
+      label: If you have another sleep disorder, what is it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sleep_diagnosis
+      label: Have you ever been diagnosed with Insomnia?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: sleep_treatment
+      label: Have you ever received sleep treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: sleep_treatment_other
+      label: If you have received sleep treatment, what was it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sleep_stress
+      label: Do you believe that sleep deprivation has caused problems in your life?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

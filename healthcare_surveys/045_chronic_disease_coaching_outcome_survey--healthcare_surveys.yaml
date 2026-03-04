@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Coaching Outcome Survey
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coaching_program
+      label: Coaching Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_duration
+      label: -- Program Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: health_outcomes
+      label: -- Health Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: condition_status
+      label: How would you rate your condition management?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - No change
+      required: true
+    - id: 13
+      name: symptoms_improvement
+      label: Have your symptoms improved?
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Somewhat improved
+      - No change
+      - Somewhat worse
+      - Significantly worse
+      required: true
+    - id: 14
+      name: quality_of_life
+      label: How has your quality of life changed?
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Somewhat improved
+      - No change
+      - Somewhat declined
+      - Significantly declined
+      required: true
+    - id: 15
+      name: medication_adherence
+      label: Has medication adherence improved?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, somewhat
+      - No change
+      - Not applicable
+      required: false
+    - id: 16
+      name: activity_level
+      label: Has your physical activity level changed?
+      hint: null
+      type: select_one
+      options:
+      - Increased significantly
+      - Increased somewhat
+      - No change
+      - Decreased somewhat
+      - Decreased significantly
+      required: true
+    - id: 17
+      name: coaching_satisfaction
+      label: -- Coaching Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: coach_satisfaction
+      label: How satisfied are you with your coach?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: coaching_effectiveness
+      label: How effective was the coaching in helping you?
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not very effective
+      - Not effective at all
+      required: true
+    - id: 20
+      name: goal_achievement
+      label: Did you achieve your health goals?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all goals
+      - Most goals
+      - Some goals
+      - Few goals
+      - No goals
+      required: true
+    - id: 21
+      name: coaching_areas
+      label: Which areas were most helpful?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Education about disease
+      - Medication management
+      - Lifestyle changes
+      - Diet and nutrition
+      - Exercise planning
+      - Emotional support
+      - Goal setting
+      - Communication with doctor
+      required: false
+    - id: 22
+      name: improvement_areas
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: suggested_improvements
+      label: What could improve the coaching program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: would_recommend
+      label: Would you recommend this program to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 25
+      name: additional_feedback
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: prescription_authorization_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_person
+      label: authorized_person
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 3
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_quantity
+      label: medication_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: dosage_instructions
+      label: dosage_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prescribers_signature
+      label: prescribers_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: prescribers_name
+      label: prescribers_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorized_sign_date
+      label: authorized_sign_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: authorized_signature
+      label: authorized_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false

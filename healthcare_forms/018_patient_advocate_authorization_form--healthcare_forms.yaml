@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Advocate Authorization Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_to_patient
+      label: Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_contact_info
+      label: Patient Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: advocate_name
+      label: Advocate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: advocate_phone
+      label: Advocate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: advocate_email
+      label: Advocate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: advocate_relationship
+      label: Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: advocate_signature
+      label: Advocate Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_signed_advocate
+      label: Date Signed - Advocate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_signed_by
+      label: Date Signed By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false

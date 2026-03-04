@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Life Balance Acknowledgment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_review
+      label: has_reviewed_policies
+      hint: Select all policies that have been reviewed
+      type: select_multiple
+      options:
+      - Has reviewed all policies
+      - Not reviewed all policies
+      required: true
+    - id: 3
+      name: policy_rating
+      label: policy_rating
+      hint: Rate policy on a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: acknowledgment
+      label: acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true

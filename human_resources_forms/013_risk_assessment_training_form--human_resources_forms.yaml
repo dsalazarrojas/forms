@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: risk_assessment_training_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_manager_title
+      label: Risk Manager Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_management_level
+      label: Risk Management Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: risk_management_area
+      label: Risk Management Area
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: risk_management_frequency
+      label: Risk Management Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 6
+      name: risk_area_of_concern
+      label: Risk Area Of Concern
+      hint: null
+      type: select_one
+      options:
+      - Physical
+      - Environmental
+      - Cyber
+      required: true
+    - id: 7
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: assessment_score
+      label: Assessment Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: assessment_comments
+      label: Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assessment_status
+      label: Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: true
+    - id: 14
+      name: assessment_comment
+      label: Assessment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_hours_status
+      label: Training Hours Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Partially Completed
+      - Not Started
+      required: true
+    - id: 16
+      name: training_hours_note
+      label: Training Hours Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_hours_comment
+      label: Training Hours Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_assessment_form_version
+      label: Risk Assessment Form Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: risk_assessment_form_last_updated
+      label: Risk Assessment Form Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: risk_assessment_form_created_by
+      label: Risk Assessment Form Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: risk_assessment_form_last_updated_by
+      label: Risk Assessment Form Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_assessment_form_updated_on
+      label: Risk Assessment Form Updated On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: risk_assessment_form_version_note
+      label: Risk Assessment Form Version Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_assessment_form_version_last_updated
+      label: Risk Assessment Form Version Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: risk_assessment_form_version_created_by
+      label: Risk Assessment Form Version Created By
+      hint: null
+      type: text
+      options: []
+      required: false

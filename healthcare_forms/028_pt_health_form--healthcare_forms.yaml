@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: PT Health Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''None''}'
+      - '{''options'': ''Diabetes''}'
+      - '{''options'': ''Hypertension''}'
+      - '{''options'': ''Asthma''}'
+      - '{''options'': ''Chronic Back Pain''}'
+      - '{''options'': ''Chronic Kidney Disease''}'
+      required: true
+    - id: 6
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Penicillin''}'
+      - '{''options'': ''Ibuprofen''}'
+      - '{''options'': ''Aspirin''}'
+      required: true
+    - id: 11
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''None''}'
+      - '{''options'': ''Ibuprofen''}'
+      - '{''options'': ''Aspirin''}'
+      - '{''options'': ''Cough Syrup''}'
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''A''}'
+      - '{''options'': ''B''}'
+      - '{''options'': ''AB''}'
+      - '{''options'': ''O''}'
+      required: false
+    - id: 19
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_condition_other
+      label: Other Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_condition_other_description
+      label: Other Medical Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_procedure_other
+      label: Other Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_device_other
+      label: Other Medical Device
+      hint: null
+      type: text
+      options: []
+      required: false

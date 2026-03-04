@@ -1,0 +1,405 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Call Request Form
+    pages:
+    - id: 1
+      name: section_emergency_info
+      label: -- Emergency Information --
+      hint: For emergency situations, call 911 immediately
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: Select the urgency level
+      type: select_one
+      options:
+      - Emergency - Life threatening
+      - Urgent - Serious but not life threatening
+      - Non-Emergency - Scheduled transport
+      - Inter-Facility Transfer
+      required: true
+    - id: 3
+      name: section_caller_info
+      label: -- Caller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: caller_first_name
+      label: Caller First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: caller_last_name
+      label: Caller Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: caller_phone
+      label: Caller Phone Number
+      hint: For immediate contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: caller_phone_alt
+      label: Alternate Phone Number
+      hint: Backup contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: caller_relationship
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Spouse/Partner
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Coworker
+      - Bystander
+      - Healthcare Provider
+      - Other
+      required: true
+    - id: 9
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patient_age
+      label: Patient Age
+      hint: Years old
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Unknown
+      required: false
+    - id: 14
+      name: patient_weight
+      label: Patient Weight
+      hint: In pounds - estimate if unknown
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_location
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_location
+      label: Emergency Location
+      hint: Where is the patient now
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: street_address
+      label: Street Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: apartment_unit
+      label: Apartment/Unit Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: location_type
+      label: Location Type
+      hint: null
+      type: select_one
+      options:
+      - Private residence
+      - Public place
+      - Workplace
+      - School
+      - Restaurant
+      - Shopping center
+      - Healthcare facility
+      - Nursing home
+      - Other
+      required: true
+    - id: 23
+      name: access_instructions
+      label: Access Instructions
+      hint: Gate codes, landmarks, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_condition
+      label: -- Patient Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: chief_complaint
+      label: Chief Complaint
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chest pain
+      - Difficulty breathing
+      - Unconsciousness
+      - Severe bleeding
+      - Broken bones
+      - Head injury
+      - Stroke symptoms
+      - Seizure
+      - Allergic reaction
+      - Poisoning
+      - Burns
+      - Abdominal pain
+      - Fever
+      - Vomiting
+      - Other
+      required: true
+    - id: 27
+      name: symptom_detail
+      label: Describe Symptoms
+      hint: More details about symptoms
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: consciousness_level
+      label: Level of Consciousness
+      hint: null
+      type: select_one
+      options:
+      - Alert and oriented
+      - Confused
+      - Drowsy
+      - Unresponsive
+      - Unknown
+      required: true
+    - id: 29
+      name: breathing_status
+      label: Breathing Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Labored
+      - Shallow
+      - Not breathing
+      - Unknown
+      required: true
+    - id: 30
+      name: bleeding_status
+      label: Bleeding Status
+      hint: null
+      type: select_one
+      options:
+      - No bleeding
+      - Minor bleeding
+      - Severe bleeding
+      - Bleeding controlled
+      required: false
+    - id: 31
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: known_conditions
+      label: Known Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Heart disease
+      - Diabetes
+      - High blood pressure
+      - Asthma
+      - COPD
+      - Seizure disorder
+      - Cancer
+      - Kidney disease
+      - None known
+      - Unknown
+      required: false
+    - id: 33
+      name: medications
+      label: Current Medications
+      hint: List if known
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: allergies
+      label: Known Allergies
+      hint: Medications, food, etc.
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: section_destination
+      label: -- Destination Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: preferred_hospital
+      label: Preferred Hospital
+      hint: If patient has preference
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: hospital_reason
+      label: Reason for Hospital Preference
+      hint: Medical records, specialist, etc.
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: other_people_present
+      label: Number of Other People at Scene
+      hint: Family, bystanders, etc.
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: safety_concerns
+      label: Any Safety Concerns at Scene
+      hint: Aggressive person, animals, hazards
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Pregnancy, DNR, etc.
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: language_barrier
+      label: Is There a Language Barrier
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Spanish
+      - Yes - Other (specify below)
+      required: false
+    - id: 43
+      name: language_other
+      label: Other Language
+      hint: If other selected
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other important information
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: callback_permission
+      label: May We Call You Back
+      hint: For additional information
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: request_time
+      label: Time of Request
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 47
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

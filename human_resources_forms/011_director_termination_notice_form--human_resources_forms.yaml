@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Director Termination Notice Form
+    pages:
+    - id: 1
+      name: director_termination_date
+      label: Director Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 3
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_termination_other
+      label: Other Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_day_worked
+      label: Last Day Worked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_termination_other_text
+      label: Other Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notice_type
+      label: Notice Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: reason_for_termination_type
+      label: Reason for Termination Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: termination_effective_date
+      label: Termination Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_termination_reason
+      label: Reason for Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_termination_reason_type
+      label: Reason for Termination Reason Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: termination_cause
+      label: Termination Cause
+      hint: null
+      type: text
+      options: []
+      required: false

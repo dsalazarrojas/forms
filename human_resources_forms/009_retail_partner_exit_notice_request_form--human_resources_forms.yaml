@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Partner Exit Notice Request Form
+    pages:
+    - id: 1
+      name: retail_partner_exit_notice_request_form
+      label: retail_partner_exit_notice_request_form
+      hint: null
+      type: select_one
+      options:
+      - Partner Type
+      - Manager
+      - Assistant Manager
+      - Store Manager
+      - District Manager
+      - Region Manager
+      - Area Manager
+      - Director
+      - Vice President
+      - Senior Vice President
+      - Executive Vice President
+      required: false
+    - id: 2
+      name: retail_partner_exit_date
+      label: retail_partner_exit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_exit
+      label: reason_for_exit
+      hint: null
+      type: select_multiple
+      options:
+      - Unsatisfactory performance
+      - Poor performance
+      - Other
+      - Personal reasons
+      - Business reasons
+      required: false
+    - id: 4
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 120 days
+      required: false
+    - id: 5
+      name: notice_amount
+      label: notice_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notice_payment_term
+      label: notice_payment_term
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Bi-monthly
+      - Semi-monthly
+      required: false
+    - id: 7
+      name: notice_payment_schedule
+      label: notice_payment_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Bi-monthly
+      - Semi-monthly
+      required: false
+    - id: 8
+      name: notice_payment_frequency
+      label: notice_payment_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 4 weeks
+      - Every 6 weeks
+      - Every 8 weeks
+      required: false
+    - id: 9
+      name: notice_payment_frequency_value
+      label: notice_payment_frequency_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notice_payment_start_date
+      label: notice_payment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notice_payment_end_date
+      label: notice_payment_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Bi-monthly
+      - Semi-monthly
+      required: false
+    - id: 13
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Check
+      - EFT/Online Banking
+      - Wire Transfer
+      required: false
+    - id: 14
+      name: payment_bank_account
+      label: payment_bank_account
+      hint: null
+      type: select_multiple
+      options:
+      - Bank of America
+      - Wells Fargo
+      - Chase
+      - Other
+      required: false
+    - id: 15
+      name: last_payment_date
+      label: last_payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: last_payment_amount
+      label: last_payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: next_payment_date
+      label: next_payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_payment_amount
+      label: next_payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Partially paid
+      - Overdue
+      required: false
+    - id: 20
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: reason_for_termination
+      label: reason_for_termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: termination_status
+      label: termination_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Terminated
+      - On Leave
+      required: false
+    - id: 25
+      name: termination_reason
+      label: termination_reason
+      hint: null
+      type: text
+      options: []
+      required: false

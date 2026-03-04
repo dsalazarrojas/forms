@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_readiness_declaration_form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: Enter the employee's contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_declaration
+      label: Health Declaration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''I am fit and able to work''}'
+      - '{''id'': 2, ''name'': ''I am not fit and able to work''}'
+      - '{''id'': 3, ''name'': ''I am not sure if I am fit and able to work''}'
+      required: false
+    - id: 4
+      name: health_risk
+      label: Health Risk
+      hint: Enter the health risk level
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_readiness
+      label: Work Readiness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''I am ready to work''}'
+      - '{''id'': 2, ''name'': ''I am not ready to work''}'
+      - '{''id'': 3, ''name'': ''I am partially ready to work''}'
+      required: false
+    - id: 6
+      name: safety_declaration
+      label: Safety Declaration
+      hint: Enter the safety declaration
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workplace_safety
+      label: Workplace Safety
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: return_to_work_date
+      label: Return To Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_visit
+      label: Follow Up Visit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Required''}'
+      required: false
+    - id: 10
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Required''}'
+      required: false
+    - id: 11
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Required''}'
+      - '{''id'': 2, ''name'': ''Not Required''}'
+      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      required: false
+    - id: 12
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Required''}'
+      - '{''id'': 2, ''name'': ''Not Required''}'
+      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Primary''}'
+      - '{''id'': 2, ''name'': ''Secondary''}'
+      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      required: false
+    - id: 15
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_provider_phone
+      label: Medical Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_phone
+      label: Follow Up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_visit_date
+      label: Follow Up Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false

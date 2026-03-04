@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_bonus_request_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bonus_type
+      label: Bonus Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Bonus 1''}'
+      - '{2: ''Bonus 2''}'
+      - '{3: ''Bonus 3''}'
+      required: true
+    - id: 4
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Prophet 1''}'
+      - '{2: ''Prophet 2''}'
+      - '{3: ''Prophet 3''}'
+      required: true
+    - id: 5
+      name: bonus_amount
+      label: Bonus Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

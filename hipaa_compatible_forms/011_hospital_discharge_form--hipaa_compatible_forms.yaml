@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Enter patient identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physician_name
+      label: Physician Name
+      hint: Enter name of attending physician
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discharge_time
+      label: Discharge Time
+      hint: "HH:MM format"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discharge_status
+      label: Discharge Status
+      hint: Active, Recovered, Deceased
+      type: select_one
+      options:
+      - Active
+      - Recovered
+      - Deceased
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: Enter patient name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of contact person
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: Email of contact person
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: next_appointment
+      label: Next Appointment
+      hint: 'Format: 2022-01-01'
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: Any additional instructions for the patient
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Signature of Discharging Provider
+      hint: Signature of discharging healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: discharge_reason
+      label: Discharge Reason
+      hint: Short reason for discharging patient
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: discharge_location
+      label: Discharge Location
+      hint: Where the patient will be discharging
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: Name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of contact person
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: insurance_claim
+      label: Insurance Claim
+      hint: Insurance claim details
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_status
+      label: Insurance Status
+      hint: Active, Inactive, Denied
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Denied
+      required: false
+    - id: 24
+      name: follow_up_date
+      label: Follow-up Date
+      hint: 'Format: 2022-01-01'
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_time
+      label: Follow-up Time
+      hint: "HH:MM format"
+      type: time
+      options: []
+      required: false

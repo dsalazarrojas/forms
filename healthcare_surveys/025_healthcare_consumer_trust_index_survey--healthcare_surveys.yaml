@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Consumer Trust Index Survey
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Patient Dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: provider_identifier
+      label: Provider Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: trust_question_1
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 5
+      name: trust_question_2
+      label: How likely are you to recommend this provider to others?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 6
+      name: trust_question_3
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 7
+      name: trust_question_4
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 8
+      name: trust_question_5
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 9
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 10
+      name: provider_gender
+      label: Provider Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: trust_question_6
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 12
+      name: trust_question_7
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 13
+      name: trust_question_8
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 14
+      name: trust_question_9
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 15
+      name: trust_question_10
+      label: How likely are you to recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 16
+      name: provider_type
+      label: Type of provider
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Care
+      - Specialty
+      - Urgent Care
+      - Hospitalist
+      - Other
+      required: false
+    - id: 17
+      name: trust_level
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 18
+      name: trust_level_2
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 19
+      name: trust_level_3
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 20
+      name: trust_level_4
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 21
+      name: trust_level_5
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 22
+      name: trust_level_6
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 23
+      name: trust_level_7
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 24
+      name: trust_level_8
+      label: What is the level of trust you have with this provider?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: provider_experience
+      label: Provider Experience
+      hint: How long have you been a patient of this provider?
+      type: select_multiple
+      options:
+      - Never
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 27
+      name: patient_race
+      label: What race/ethnicity do you identify with?
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black or African American
+      - American Indian/Alaska Native
+      - Asian
+      - Some other race
+      - Some other ethnicity
+      - Some other combination of races
+      - Hispanic or Latino
+      - Decline to state
+      required: false

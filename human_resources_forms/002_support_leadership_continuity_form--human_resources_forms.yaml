@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Leadership Continuity Form
+    pages:
+    - id: 1
+      name: succession_status
+      label: succession_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: potential_successors
+      label: potential_successors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resource_needs
+      label: resource_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_leadership
+      label: current_leadership
+      hint: null
+      type: text
+      options: []
+      required: false

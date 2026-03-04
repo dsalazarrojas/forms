@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_information_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_hired
+      label: date_hired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: salary
+      label: salary
+      hint: null
+      type: number
+      options: []
+      required: false

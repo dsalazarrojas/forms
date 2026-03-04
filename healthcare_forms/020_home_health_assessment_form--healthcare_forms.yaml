@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Assessment Form
+    pages:
+    - id: 1
+      name: home_health_assessment_form_data
+      label: Home Health Assessment Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_medical_insurance
+      label: Patient Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - Kaiser
+      - Aetna
+      - Blue Cross
+      - None
+      required: true
+    - id: 12
+      name: patient_medical_insurance_plan
+      label: Medical Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

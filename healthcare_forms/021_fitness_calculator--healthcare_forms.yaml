@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Calculator
+    pages:
+    - id: 1
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Moderate
+      - Rarely
+      required: false
+    - id: 6
+      name: exercise_duration
+      label: exercise_duration
+      hint: null
+      type: select_multiple
+      options:
+      - Long
+      - Medium
+      - Short
+      - None
+      required: false
+    - id: 7
+      name: water_intake
+      label: water_intake
+      hint: null
+      type: select_one
+      options:
+      - 2-3 cups
+      - 1 cup
+      - More than 3 cups
+      - None
+      required: false
+    - id: 8
+      name: exercise_type
+      label: exercise_type
+      hint: null
+      type: select_multiple
+      options:
+      - Running
+      - Swimming
+      - Cycling
+      - Strength training
+      - Flexibility exercises
+      - Other
+      required: false
+    - id: 9
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: max_heart_rate
+      label: max_heart_rate
+      hint: null
+      type: number
+      options: []
+      required: false

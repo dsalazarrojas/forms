@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Research Participation Willingness Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Clinical Research Participation Willingness Survey
+      hint: This survey helps us understand your interest in participating in clinical
+        research studies
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: City and State
+      hint: For locating nearby studies
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School Graduate
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      - Prefer not to say
+      required: false
+    - id: 10
+      name: race_ethnicity
+      label: Race and Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - Native Hawaiian or Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: health_insurance
+      label: Do You Have Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - Yes Private
+      - Yes Government Medicare or Medicaid
+      - false
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: primary_care_provider
+      label: Do You Have a Primary Care Provider
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: chronic_conditions
+      label: Do You Have Any Chronic Health Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes One
+      - Yes Multiple
+      - false
+      - Prefer not to say
+      required: true
+    - id: 14
+      name: condition_details
+      label: Condition Details
+      hint: If yes please specify
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Are You Currently Taking Any Prescription Medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: medication_details
+      label: Medication Details
+      hint: If yes list them
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_research_participation
+      label: Have You Ever Participated in Clinical Research Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: previous_experience_details
+      label: Previous Experience Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: willingness_to_participate
+      label: How Willing Are You to Participate in Clinical Research
+      hint: null
+      type: select_one
+      options:
+      - Very Willing
+      - Willing
+      - Neutral
+      - Unwilling
+      - Very Unwilling
+      required: true
+    - id: 20
+      name: study_types_interested
+      label: Types of Studies You Would Consider
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medication Trials
+      - Device Trials
+      - Behavioral Studies
+      - Observational Studies
+      - Genetic Studies
+      - Prevention Studies
+      - Treatment Studies
+      - Quality of Life Studies
+      - Any Type
+      - None
+      required: false
+    - id: 21
+      name: time_commitment
+      label: How Much Time Could You Commit
+      hint: Per week
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - 5-10 hours
+      - 10+ hours
+      - Flexible
+      required: false
+    - id: 22
+      name: travel_willingness
+      label: How Far Would You Travel for a Study
+      hint: null
+      type: select_one
+      options:
+      - Within 10 miles
+      - Within 25 miles
+      - Within 50 miles
+      - Within 100 miles
+      - Any Distance
+      - Would Not Travel
+      required: false
+    - id: 23
+      name: compensation_importance
+      label: How Important Is Compensation
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      - Would Not Accept Compensation
+      required: false
+    - id: 24
+      name: concerns_about_participation
+      label: What Concerns Do You Have About Participating
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Side Effects
+      - Time Commitment
+      - Privacy
+      - Effectiveness
+      - Cost
+      - Transportation
+      - Childcare
+      - Work Conflicts
+      - Medical Risks
+      - Placebo
+      - None
+      - Other
+      required: false
+    - id: 25
+      name: information_sources
+      label: Where Do You Get Health Information
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Doctor
+      - Family
+      - Internet
+      - Social Media
+      - News
+      - Medical Journals
+      - Support Groups
+      - Other
+      required: false
+    - id: 26
+      name: trust_in_research
+      label: How Much Do You Trust Clinical Research
+      hint: null
+      type: select_one
+      options:
+      - Completely Trust
+      - Mostly Trust
+      - Somewhat Trust
+      - Slightly Trust
+      - Do Not Trust
+      required: true
+    - id: 27
+      name: contact_preference
+      label: Preferred Contact Method for Study Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - Do Not Contact
+      required: true
+    - id: 28
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Any Time
+      required: false
+    - id: 29
+      name: permission_to_contact
+      label: May We Contact You About Research Opportunities
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

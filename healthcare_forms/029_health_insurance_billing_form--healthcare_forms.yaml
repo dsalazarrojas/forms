@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_billing_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: procedure_name
+      label: Procedure Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: charge_amount
+      label: Charge Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      required: false
+    - id: 7
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: billing_provider
+      label: Billing Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claim_id
+      label: Claim ID
+      hint: null
+      type: text
+      options: []
+      required: false

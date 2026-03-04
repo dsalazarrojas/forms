@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily OPD Report Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Cardiac
+      - Emergency
+      - Gastroenterology
+      - General Surgery
+      - Infection Control
+      - Neurology
+      - Pediatrics
+      - Rehabilitation
+      - Renal
+      - Surgical Services
+      - Urology
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: visit_type
+      label: visit_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_visits
+      label: total_visits
+      hint: null
+      type: number
+      options: []
+      required: false

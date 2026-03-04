@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crunch Time Leave Of Absence Request
+    pages:
+    - id: 1
+      name: crunch_time_leave_of_absence_request_form
+      label: crunch_time_leave_of_absence_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: critical_delivery_periods
+      label: critical_delivery_periods
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Day off''}'
+      - '{''id'': 2, ''label'': ''Short term''}'
+      - '{''id'': 3, ''label'': ''Long term''}'
+      required: true
+    - id: 3
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Vacation''}'
+      - '{''id'': 2, ''label'': ''Sick''}'
+      - '{''id'': 3, ''label'': ''Family and medical''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reason
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_approval_status
+      label: manager_approval_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 9
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: coverage
+      label: coverage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team Member''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: coverage_members
+      label: coverage_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: team_id
+      label: team_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manager_approvals
+      label: manager_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: team_lead_approvals
+      label: team_lead_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: employee_manager_relationship
+      label: employee_manager_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: request_details
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false

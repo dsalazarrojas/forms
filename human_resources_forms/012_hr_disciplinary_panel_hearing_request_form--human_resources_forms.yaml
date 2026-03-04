@@ -1,0 +1,137 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HR Disciplinary Panel Hearing Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_hearing
+      label: Reason for Hearing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evidence
+      label: Evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: disciplinary_action
+      label: Disciplinary Action
+      hint: null
+      type: select_one
+      options:
+      - Verbal Warning
+      - Written Warning
+      - Final Written Warning
+      - Suspension
+      - Termination
+      required: false
+    - id: 10
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_issued
+      label: Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: employee_awareness_form
+      label: Employee Awareness Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true

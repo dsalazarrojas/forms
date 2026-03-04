@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Interview Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      required: true
+    - id: 7
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_multiple
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Product Manager
+      required: false
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: false
+    - id: 9
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_type2
+      label: Job Type 2
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Remote
+      required: true
+    - id: 15
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: job_status2
+      label: Job Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: resume2
+      label: Resume 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: job_start_time
+      label: Job Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: job_end_time
+      label: Job End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: job_location2
+      label: Job Location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_description2
+      label: Job Description 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: job_requirements2
+      label: Job Requirements 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: true

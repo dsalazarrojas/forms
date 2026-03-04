@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Nutrition Awareness Survey
+    pages:
+    - id: 1
+      name: pet_nutrition_survey
+      label: Pet Nutrition Awareness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_nutrition_habit
+      label: pet_nutrition_habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pet_food_types
+      label: pet_food_types
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Canine
+      - Feline
+      - Grain-Free
+      - Meat
+      - Raw
+      - Vegan
+      required: false
+    - id: 4
+      name: pet_dietary_restrictions
+      label: pet_dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pet_nutrition_knowledge
+      label: pet_nutrition_knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_nutrition_services
+      label: pet_nutrition_services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pet_nutrition_survey_comments
+      label: pet_nutrition_survey_comments
+      hint: null
+      type: note
+      options: []
+      required: false

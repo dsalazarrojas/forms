@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: learning_and_development_application_form_1
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: learning_and_development_application_form_1_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: learning_and_development_application_form_1_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: learning_and_development_application_form_1_why
+      label: why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: learning_and_development_application_form_1_training_request
+      label: training_request
+      hint: null
+      type: select_multiple
+      options:
+      - Requesting Manager Approval
+      - Training and Development Manager Approval
+      - Other
+      required: true
+    - id: 6
+      name: learning_and_development_application_form_2
+      label: learning_and_development_application_form_2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: learning_and_development_application_form_2_title
+      label: learning_and_development_application_form_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: learning_and_development_application_form_2_employees
+      label: employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: learning_and_development_application_form_2_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: learning_and_development_application_form_2_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: learning_and_development_application_form_2_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: learning_and_development_application_form_2_duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: learning_and_development_application_form_2_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

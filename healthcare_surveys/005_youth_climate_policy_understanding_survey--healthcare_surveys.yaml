@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Climate Policy Understanding Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: This is a survey for youth climate policy understanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: climate_concerns
+      label: What are the climate concerns of you or your community?
+      hint: null
+      type: select_one
+      options:
+      - Climate Change
+      - Biodiversity
+      - Environmental Pollution
+      - Water Conservation
+      - Waste Management
+      - Air Quality
+      required: true
+    - id: 3
+      name: climate_knowledge
+      label: On a scale of 0 to 10 how much do you know about climate change?
+      hint: '0: no knowledge, 10: expert'
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: climate_policy
+      label: Which of the following climate policies have you heard about?
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false
+    - id: 5
+      name: community_involvement
+      label: What are ways you can get involved in your community to address climate
+        change?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: policy_recommendation
+      label: What do you think is missing in current climate policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: climate_leverage
+      label: How do you think climate change can be addressed?
+      hint: null
+      type: select_one
+      options:
+      - Individuals
+      - Community
+      - Governments
+      required: true
+    - id: 8
+      name: policy_support
+      label: How you can be contacted to support climate policy?
+      hint: phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_ideas
+      label: What do you have to offer to climate policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_partners
+      label: Who do you think should work together to address climate change?
+      hint: null
+      type: select_one
+      options:
+      - NGOs
+      - Schools
+      - Government
+      required: true
+    - id: 11
+      name: policy_implementation
+      label: When do you think the climate policy should be implemented?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: policy_satisfaction
+      label: How satisfied are you with current climate policy?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: policy_adoption
+      label: How do you think climate policy can be adopted?
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Difficult
+      required: true
+    - id: 14
+      name: policy_investment
+      label: What kind of investment do you think is needed for climate policy?
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Human
+      - Technological
+      required: true
+    - id: 15
+      name: policy_evaluation
+      label: Which of the following methods can evaluate climate policy?
+      hint: null
+      type: select_multiple
+      options:
+      - Surveys
+      - Studies
+      - Reports
+      required: false
+    - id: 16
+      name: policy_advisors
+      label: Who do you think should be the climate policy advisors?
+      hint: null
+      type: select_multiple
+      options:
+      - Experts
+      - Community Leaders
+      - Government Officials
+      required: false
+    - id: 17
+      name: policy_awareness
+      label: How do you think climate policy can be made aware of by the public?
+      hint: null
+      type: select_multiple
+      options:
+      - Media
+      - Schools
+      - Social Media
+      required: false
+    - id: 18
+      name: policy_funding
+      label: Which of the following sources can provide funding for climate policy?
+      hint: null
+      type: select_multiple
+      options:
+      - Government
+      - Private
+      - International
+      required: true
+    - id: 19
+      name: policy_ideas
+      label: What do you think is missing in current climate policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_support
+      label: How you can be contacted to support climate policy?
+      hint: email
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: policy_advisors
+      label: Who do you think should be the climate policy advisors?
+      hint: null
+      type: select_multiple
+      options:
+      - Experts
+      - Community Leaders
+      - Government Officials
+      required: false
+    - id: 22
+      name: policy_awareness
+      label: How do you think climate policy can be made aware of by the public?
+      hint: null
+      type: select_multiple
+      options:
+      - Media
+      - Schools
+      - Social Media
+      required: false
+    - id: 23
+      name: policy_funding
+      label: Which of the following sources can provide funding for climate policy?
+      hint: null
+      type: select_multiple
+      options:
+      - Government
+      - Private
+      - International
+      required: true
+    - id: 24
+      name: policy_implementation
+      label: When do you think the climate policy should be implemented?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: policy_satisfaction
+      label: How satisfied are you with current climate policy?
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false

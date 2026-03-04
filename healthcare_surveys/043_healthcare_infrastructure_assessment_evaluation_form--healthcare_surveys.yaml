@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_infrastructure_assessment_evaluation_form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: facility_status
+      label: facility_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: patient_flow
+      label: Patient Flow
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_flow_comment
+      label: Patient Flow Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: service_quality_comment
+      label: Service Quality Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_comfort
+      label: Staff Comfort
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: staff_comfort_comment
+      label: Staff Comfort Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: waiting_time
+      label: Waiting Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: waiting_time_comment
+      label: Waiting Time Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_equipment
+      label: Facility Equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_equipment_comment
+      label: Facility Equipment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_privacy
+      label: Patient Privacy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: patient_safety
+      label: Patient Safety
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: infection_control
+      label: Infection Control
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_errors
+      label: Medical Errors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: medical_errors_comment
+      label: Medical Errors Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_procedure_comment
+      label: Emergency Procedure Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_equipment
+      label: Emergency Equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_equipment_comment
+      label: Emergency Equipment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_flow_score
+      label: Patient Flow Score
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: patient_flow_score_comment
+      label: Patient Flow Score Comment
+      hint: null
+      type: text
+      options: []
+      required: false

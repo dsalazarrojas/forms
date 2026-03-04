@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Application Form In Chinese
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      required: true
+    - id: 7
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_multiple
+      options:
+      - Beijing
+      - Shanghai
+      - Shenzhen
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: native_language
+      label: Native Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Mandarin
+      - Cantonese
+      - Japanese
+      required: true
+    - id: 10
+      name: level_of_english
+      label: Level of English
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      - None
+      required: true
+    - id: 11
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_requirement
+      label: Job Requirement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: available_location
+      label: Available Location
+      hint: null
+      type: select_multiple
+      options:
+      - Beijing
+      - Shanghai
+      - Shenzhen
+      required: false
+    - id: 19
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 20
+      name: job_reference
+      label: Job Reference
+      hint: null
+      type: select_one
+      options:
+      - Interview
+      - Test
+      - Both
+      required: false
+    - id: 21
+      name: job_application_fee
+      label: Job Application Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: job_application_method
+      label: Job Application Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Both
+      required: true
+    - id: 23
+      name: job_application_note
+      label: Job Application Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: job_application_status
+      label: Job Application Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Approved
+      - Rejected
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

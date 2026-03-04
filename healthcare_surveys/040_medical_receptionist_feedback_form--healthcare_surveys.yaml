@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Receptionist Feedback Form
+    pages:
+    - id: 1
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: receptionist_name
+      label: Receptionist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_rating
+      label: Communication Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: professionalism_rating
+      label: Professionalism Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: front_desk_experience
+      label: Front Desk Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: clinic_location
+      label: Clinic Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''clinic1'', ''label'': ''Clinic 1''}'
+      - '{''id'': 12, ''name'': ''clinic2'', ''label'': ''Clinic 2''}'
+      - '{''id'': 13, ''name'': ''clinic3'', ''label'': ''Clinic 3''}'
+      - '{''id'': 14, ''name'': ''other'', ''label'': ''Other''}'
+      - '{''id'': 15, ''name'': ''clinic4'', ''label'': ''Clinic 4''}'
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

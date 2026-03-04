@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Activity Readiness
+    pages:
+    - id: 1
+      name: physical_activity_readiness_1
+      label: i_am_active_participant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: exercise_frequency
+      label: how_often_do_you_participate_in_physical_activity
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-6 times per week
+      - Almost daily
+      required: false
+    - id: 3
+      name: exercise_duration
+      label: how_long_do_you_participate_in_physical_activity
+      hint: null
+      type: select_one
+      options:
+      - less than 15 minutes
+      - 15-30 minutes
+      - 30-45 minutes
+      - more than 45 minutes
+      required: false
+    - id: 4
+      name: intensity_frequency
+      label: intensity_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: physical_activity_readiness_5
+      label: physical_activity_readiness_5
+      hint: null
+      type: select_multiple
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 6
+      name: exercise_frequency_2
+      label: exercise_frequency_2
+      hint: null
+      type: select_multiple
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 7
+      name: pain_or_discomfort_1
+      label: have_you_experienced_any_pain_or_discomfort_when_engaging_in_physical_activity
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 8
+      name: pain_or_discomfort_2
+      label: have_you_experienced_any_pain_or_discomfort_when_engaging_in_physical_activity_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 9
+      name: doctor_visit_1
+      label: have_you_seen_a_doctor_about_your_pain
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 10
+      name: doctor_visit_2
+      label: have_you_seen_a_doctor_about_your_pain_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false

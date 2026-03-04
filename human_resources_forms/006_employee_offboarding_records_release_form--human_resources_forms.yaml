@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Offboarding Records Release Form
+    pages:
+    - id: 1
+      name: offboarding_date
+      label: offboarding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reason_for_separation
+      label: reason_for_separation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: outdate
+      label: outdate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: outtime
+      label: outtime
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: outlocation
+      label: outlocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: outreason
+      label: outreason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inlocation
+      label: inlocation
+      hint: null
+      type: text
+      options: []
+      required: false

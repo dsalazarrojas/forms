@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Investigation Form
+    pages:
+    - id: 1
+      name: case_id
+      label: Case Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_date
+      label: Case Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: case_reported
+      label: Case Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_gender
+      label: Case Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      required: true
+    - id: 5
+      name: case_age
+      label: Case Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: case_contact_location
+      label: Case Contact Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      required: true
+    - id: 8
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''positive'', ''label'': ''Positive''}'
+      - '{''value'': ''negative'', ''label'': ''Negative''}'
+      required: true
+    - id: 11
+      name: investigation_date
+      label: Investigation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: investigation_location
+      label: Investigation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: investigator_name
+      label: Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_trace_complete
+      label: Contact Tracing Complete
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 15
+      name: case_note
+      label: Case Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: case_photo
+      label: Case Photo
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: contact_photo
+      label: Contact Photo
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      - '{''value'': ''high'', ''label'': ''High''}'
+      required: true
+    - id: 19
+      name: case_symptoms
+      label: Case Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: case_diagnosis
+      label: Case Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monkeypox'', ''label'': ''Monkeypox''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 21
+      name: case_treatment
+      label: Case Treatment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 22
+      name: case_outcome
+      label: Case Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''recovered'', ''label'': ''Recovered''}'
+      - '{''value'': ''deceased'', ''label'': ''Deceased''}'
+      - '{''value'': ''unknown'', ''label'': ''Unknown''}'
+      required: true
+    - id: 23
+      name: contact_symptoms
+      label: Contact Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

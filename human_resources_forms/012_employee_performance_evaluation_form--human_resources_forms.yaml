@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_performance_evaluation_form
+    pages:
+    - id: 1
+      name: employee_performance_evaluation_form_page_1
+      label: performance_evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - Evaluations
+      - Other
+      required: false
+    - id: 2
+      name: employee_performance_evaluation_form_page_2
+      label: performance_comments
+      hint: Provide detailed feedback
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: employee_performance_evaluation_form_page_3
+      label: employee_rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: employee_performance_evaluation_form_page_4
+      label: performance_date
+      hint: null
+      type: date
+      options: []
+      required: false

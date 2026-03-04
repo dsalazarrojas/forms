@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Suite Access Request Form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_dates
+      label: Visit Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: What is the purpose of the visit?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rules_acknowledgment
+      label: Rules Acknowledgment
+      hint: Check this box to acknowledge the rules
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I have read and agree to the rules''}'
+      - '{''id'': 2, ''label'': ''I have not read and do not agree to the rules''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visit_purpose_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_notes
+      label: Guest Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rule_acknowledge_all
+      label: I understand I am responsible for all guests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Guest 1''}'
+      - '{''id'': 2, ''label'': ''Guest 2''}'
+      - '{''id'': 3, ''label'': ''Guest 3''}'
+      required: false
+    - id: 11
+      name: rule_acknowledge_all_staff
+      label: I understand I am responsible for all staff
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''label'': ''Staff 1''}'
+      - '{''id'': 5, ''label'': ''Staff 2''}'
+      - '{''id'': 6, ''label'': ''Staff 3''}'
+      required: false

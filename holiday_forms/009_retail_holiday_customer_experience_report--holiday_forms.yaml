@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Holiday Customer Experience Report
+    pages:
+    - id: 1
+      name: holiday_shopping_location
+      label: Holiday Shopping Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visited_holiday_store
+      label: Visited Holiday Store
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 3
+      name: visited_others
+      label: Visited Other Store
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Store 1''}'
+      - '{''id'': 2, ''name'': ''Store 2''}'
+      - '{''id'': 3, ''name'': ''Store 3''}'
+      required: false
+    - id: 4
+      name: holiday_date
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: holiday_experience
+      label: Holiday Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: holiday_experience_what_was_done
+      label: What Was Done While Visiting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: holiday_experience_why
+      label: Why Holiday Season
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: holiday_shopping_experience
+      label: Holiday Shopping Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: holiday_experience_suggestions
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: holiday_experiences
+      label: Holiday Experiences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Bad''}'
+      required: false
+    - id: 17
+      name: holiday_experience_employees
+      label: Holiday Employee Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Friendly''}'
+      - '{''id'': 2, ''name'': ''Impolite''}'
+      - '{''id'': 3, ''name'': ''Not Polite''}'
+      required: false
+    - id: 18
+      name: holiday_experience_products
+      label: Holiday Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Bad''}'
+      - '{''id'': 3, ''name'': ''Not Available''}'
+      required: false
+    - id: 19
+      name: holiday_experience_products_suggestions
+      label: Suggestions for Holiday Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: holiday_experience_price
+      label: Holiday Price
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Affordable''}'
+      - '{''id'': 2, ''name'': ''Expensive''}'
+      - '{''id'': 3, ''name'': ''Not Available''}'
+      required: false
+    - id: 21
+      name: holiday_experience_employees
+      label: Holiday Employee Friendliness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Friendly''}'
+      - '{''id'': 2, ''name'': ''Impolite''}'
+      - '{''id'': 3, ''name'': ''Not Polite''}'
+      required: false
+    - id: 22
+      name: holiday_experience_parking
+      label: Holiday Parking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Available''}'
+      - '{''id'': 2, ''name'': ''Not Available''}'
+      - '{''id'': 3, ''name'': ''Difficult to Find''}'
+      required: false
+    - id: 23
+      name: holiday_experience_facilities
+      label: Holiday Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Bad''}'
+      - '{''id'': 3, ''name'': ''Not Available''}'
+      required: false
+    - id: 24
+      name: holiday_experience_suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: submission_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: svch_encounterengagereferlink
+    pages:
+    - id: 1
+      name: refer_date
+      label: Refer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: refer_time
+      label: Refer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: provider
+      label: Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_referral_number
+      label: Patient Referral Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Clinic
+      - Outpatient
+      - Other
+      required: false
+    - id: 10
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 16
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: patient_race
+      label: Patient Race
+      hint: null
+      type: select_multiple
+      options:
+      - Black or African American
+      - American Indian or Alaska Native
+      - Asian
+      - Other
+      - White
+      required: false
+    - id: 18
+      name: patient_ethnicity
+      label: Patient Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Black or African American
+      - American Indian or Alaska Native
+      - Asian
+      - Hispanic or Latino
+      - Other
+      - White
+      required: false
+    - id: 19
+      name: patient_language
+      label: Patient Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: patient_marital_status
+      label: Patient Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - Divorced
+      - Married
+      - Other
+      - Separated
+      - Single
+      - Widow/ Widowed
+      required: false
+    - id: 21
+      name: facility_contact_person
+      label: Facility Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_contact_relationship
+      label: Facility Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: facility_fax
+      label: Facility Fax
+      hint: null
+      type: text
+      options: []
+      required: false

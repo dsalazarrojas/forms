@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Self Reporting Form
+    pages:
+    - id: 1
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''79034-1'', ''label'': ''ABC Travels''}'
+      - '{''id'': ''79034-2'', ''label'': ''DEF Travels''}'
+      required: true
+    - id: 2
+      name: airport
+      label: AirPort
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''79034-2'', ''label'': ''Airport 1''}'
+      - '{''id'': ''79034-3'', ''label'': ''Airport 2''}'
+      - '{''id'': ''79034-4'', ''label'': ''Airport 3''}'
+      required: true
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: Enter your symptoms, e.g. fever, cough, sore throat, etc.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: airline
+      label: Airline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: flight_number2
+      label: Flight Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: flight_number3
+      label: Flight Number 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''79034-1'', ''label'': ''ABC Travels''}'
+      - '{''id'': ''79034-2'', ''label'': ''DEF Travels''}'
+      required: false
+    - id: 16
+      name: airport
+      label: Airport
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''79034-2'', ''label'': ''Airport 1''}'
+      - '{''id'': ''79034-3'', ''label'': ''Airport 2''}'
+      - '{''id'': ''79034-4'', ''label'': ''Airport 3''}'
+      required: false
+    - id: 17
+      name: travel_time2
+      label: Travel Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: travel_date2
+      label: Travel Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: travel_duration2
+      label: Travel Duration 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: airline
+      label: Airline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_agency2
+      label: Travel Agency 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''79034-2'', ''label'': ''DEF Travels''}'
+      - '{''id'': ''79034-3'', ''label'': ''GHI Travels''}'
+      required: false
+    - id: 22
+      name: airport2
+      label: Airport 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''79034-3'', ''label'': ''Airport 2''}'
+      - '{''id'': ''79034-4'', ''label'': ''Airport 3''}'
+      required: false
+    - id: 23
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: travel_time2
+      label: Travel Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: flight_number2
+      label: Flight Number 2
+      hint: null
+      type: text
+      options: []
+      required: false

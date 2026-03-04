@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Personal Leave Of Absence Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Unique employee identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Direct Manager Name
+      hint: Name of your immediate supervisor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: leave_type
+      label: Type of Leave
+      hint: Select the reason for leave
+      type: select_one
+      options:
+      - Medical Leave
+      - Personal Leave
+      - Family Emergency
+      - Maternity Leave
+      - Paternity Leave
+      - Sabbatical
+      - Other
+      required: true
+    - id: 6
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_end_date
+      label: Anticipated Return Date
+      hint: Expected date of return to work
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: leave_duration
+      label: Total Duration (in days)
+      hint: How many working days will you be absent?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: leave_reason
+      label: Reason for Leave
+      hint: Detailed explanation of the leave request
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_during_absence
+      label: Contact Information While Away
+      hint: Phone or email for emergencies
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_handover_status
+      label: Work Handover Status
+      hint: What is the status of your work handover?
+      type: select_one
+      options:
+      - Handover Completed
+      - In Progress
+      - Not Started
+      - No Handover Needed
+      required: true
+    - id: 14
+      name: coverage_plan
+      label: Coverage Plan Details
+      hint: Who will cover your responsibilities?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pending_projects
+      label: List Any Pending Projects or Tasks
+      hint: Describe critical items needing attention
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_accounts
+      label: Client Account Handover
+      hint: Do you have client accounts needing transition?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: client_details
+      label: Client Account Details
+      hint: List client names and assigned coverage
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: leave_balance
+      label: Current Leave Balance
+      hint: Your current accrued leave days
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: paid_unpaid
+      label: Leave Type - Paid or Unpaid
+      hint: Is this paid or unpaid leave?
+      type: select_one
+      options:
+      - Paid Leave
+      - Unpaid Leave
+      - Partial Paid
+      required: true
+    - id: 20
+      name: insurance_continuation
+      label: Health Insurance During Leave
+      hint: Will health insurance continue?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Need to Verify
+      required: true
+    - id: 21
+      name: manager_approval_requested
+      label: Manager Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Under Review
+      required: true
+    - id: 22
+      name: hr_review_date
+      label: HR Review Date
+      hint: When should HR review this request?
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

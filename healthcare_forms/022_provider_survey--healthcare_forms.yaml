@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Provider Survey
+    pages:
+    - id: 1
+      name: provider_first_name
+      label: Provider First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_last_name
+      label: Provider Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: medical_board
+      label: Medical Board
+      hint: null
+      type: text
+      options: []
+      required: false

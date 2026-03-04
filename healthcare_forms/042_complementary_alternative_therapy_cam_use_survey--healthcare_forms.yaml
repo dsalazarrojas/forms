@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complementary Alternative Therapy (CAM) Use Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: CAM Use Survey
+      hint: Share your experience with complementary and alternative therapies
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_id
+      label: Respondent ID
+      hint: Optional anonymous identifier
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 to 64
+      - 65 and over
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 5
+      name: education_level
+      label: Education Level
+      hint: Highest education completed
+      type: select_one
+      options:
+      - High school or less
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Graduate degree
+      - Professional degree
+      required: true
+    - id: 6
+      name: health_status
+      label: Self-Rated Health Status
+      hint: How would you rate your health
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: chronic_conditions
+      label: Do you have chronic health conditions
+      hint: Long-term health issues
+      type: select_one
+      options:
+      - Yes - multiple conditions
+      - Yes - one condition
+      - No chronic conditions
+      - Prefer not to say
+      required: true
+    - id: 8
+      name: cam_usage
+      label: Have you ever used CAM therapies
+      hint: Complementary or alternative medicine
+      type: select_one
+      options:
+      - Yes - currently using
+      - Yes - used in past
+      - No - never used
+      - Not sure what CAM is
+      required: true
+    - id: 9
+      name: cam_types_used
+      label: Types of CAM Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acupuncture
+      - Chiropractic care
+      - Massage therapy
+      - Herbal supplements
+      - Meditation or mindfulness
+      - Yoga or Tai Chi
+      - Homeopathy
+      - Naturopathy
+      - Aromatherapy
+      - Energy healing
+      - Hypnotherapy
+      - Other
+      required: false
+    - id: 10
+      name: cam_frequency
+      label: How Often Do You Use CAM
+      hint: Frequency of use
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Occasionally
+      - Rarely
+      - Not currently using
+      required: true
+    - id: 11
+      name: cam_reasons
+      label: Reasons for Using CAM
+      hint: Why do you use CAM
+      type: select_multiple
+      options:
+      - General wellness
+      - Stress reduction
+      - Pain management
+      - Chronic condition management
+      - Mental health support
+      - Sleep improvement
+      - Dissatisfaction with conventional medicine
+      - Recommendation from provider
+      - Recommendation from friend or family
+      - Personal belief system
+      - Other
+      required: false
+    - id: 12
+      name: cam_effectiveness
+      label: How Effective Has CAM Been
+      hint: Rate effectiveness
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Neutral
+      - Somewhat ineffective
+      - Very ineffective
+      - Not applicable
+      required: true
+    - id: 13
+      name: cam_side_effects
+      label: Have you experienced side effects
+      hint: Any negative effects
+      type: select_one
+      options:
+      - Yes - significant
+      - Yes - minor
+      - No side effects
+      - Not applicable
+      required: true
+    - id: 14
+      name: cam_cost
+      label: Annual Spending on CAM
+      hint: Approximate amount per year
+      type: select_one
+      options:
+      - Under $100
+      - $100 to $500
+      - $501 to $1000
+      - $1001 to $2500
+      - Over $2500
+      - Not sure
+      required: true
+    - id: 15
+      name: insurance_coverage
+      label: Does insurance cover CAM
+      hint: Coverage status
+      type: select_one
+      options:
+      - Yes - fully covered
+      - Yes - partially covered
+      - No - not covered
+      - Not sure
+      - Do not have insurance
+      required: true
+    - id: 16
+      name: provider_discussion
+      label: Do you discuss CAM with your doctor
+      hint: Communication with provider
+      type: select_one
+      options:
+      - Always discuss
+      - Often discuss
+      - Sometimes discuss
+      - Rarely discuss
+      - Never discuss
+      - Do not have a doctor
+      required: true
+    - id: 17
+      name: provider_response
+      label: How does your provider respond
+      hint: Provider attitude
+      type: select_one
+      options:
+      - Very supportive
+      - Somewhat supportive
+      - Neutral
+      - Somewhat dismissive
+      - Very dismissive
+      - Have not discussed
+      required: true
+    - id: 18
+      name: cam_information_sources
+      label: Where do you get CAM information
+      hint: Information sources
+      type: select_multiple
+      options:
+      - Healthcare provider
+      - Family or friends
+      - Internet
+      - Books or magazines
+      - CAM practitioner
+      - Social media
+      - Health stores
+      - Other
+      required: false
+    - id: 19
+      name: cam_research_importance
+      label: How important is scientific evidence
+      hint: Importance of research
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Neutral
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 20
+      name: future_cam_use
+      label: Likelihood of future CAM use
+      hint: Will you continue
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat unlikely
+      - Very unlikely
+      required: true
+    - id: 21
+      name: cam_recommendation
+      label: Would you recommend CAM to others
+      hint: Recommendation likelihood
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 22
+      name: cam_concerns
+      label: Do you have concerns about CAM
+      hint: Any worries
+      type: select_one
+      options:
+      - Yes - safety concerns
+      - Yes - effectiveness concerns
+      - Yes - cost concerns
+      - Yes - multiple concerns
+      - No concerns
+      - Not applicable
+      required: true
+    - id: 23
+      name: cam_concerns_details
+      label: Concerns Details
+      hint: Describe your concerns
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cam_experience_story
+      label: Share Your CAM Experience
+      hint: Describe your experience
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

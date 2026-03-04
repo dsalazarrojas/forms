@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Job Application Form
+    pages:
+    - id: 1
+      name: job_application_form
+      label: job_application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_location
+      label: job_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''location1'', ''value'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''location2'', ''value'': ''Location 2''}'
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_start_date
+      label: job_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_end_date
+      label: job_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''value'': ''Active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''value'': ''Inactive''}'
+      required: false
+    - id: 11
+      name: job_skills
+      label: job_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high_school'', ''value'': ''High School''}'
+      - '{''id'': 2, ''name'': ''college'', ''value'': ''College''}'
+      required: false
+    - id: 14
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: job_reference1
+      label: job_reference1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person2'', ''value'': ''Person 2''}'
+      required: false
+    - id: 16
+      name: job_reference2
+      label: job_reference2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person2'', ''value'': ''Person 2''}'
+      required: false
+    - id: 17
+      name: job_reference3
+      label: job_reference3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person2'', ''value'': ''Person 2''}'
+      required: false
+    - id: 18
+      name: job_reference4
+      label: job_reference4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person2'', ''value'': ''Person 2''}'
+      required: false
+    - id: 19
+      name: job_note
+      label: job_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: job_application_status
+      label: job_application_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending'', ''value'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''approved'', ''value'': ''Approved''}'
+      required: false
+    - id: 21
+      name: job_reference5
+      label: job_reference5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person_goals'', ''value'': ''Person 2''}'
+      required: false
+    - id: 22
+      name: job_reference6
+      label: job_reference6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person_goals'', ''value'': ''Person 2''}'
+      required: false
+    - id: 23
+      name: job_reference7
+      label: job_reference7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person_goals'', ''value'': ''Person 2''}'
+      required: false
+    - id: 24
+      name: job_reference8
+      label: job_reference8
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person_goals'', ''value'': ''Person 2''}'
+      required: false
+    - id: 25
+      name: job_reference9
+      label: job_reference9
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person_goals'', ''value'': ''Person 2''}'
+      required: false
+    - id: 26
+      name: job_reference10
+      label: job_reference10
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person_goals'', ''value'': ''Person 2''}'
+      required: false
+    - id: 27
+      name: job_note
+      label: job_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: job_application_status
+      label: job_application_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending'', ''value'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''approved'', ''value'': ''Approved''}'
+      required: false
+    - id: 29
+      name: job_reference11
+      label: job_reference11
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''person1'', ''value'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''person_goals'', ''value'': ''Person 2''}'
+      required: false

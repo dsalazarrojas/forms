@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiotherapy Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_procedure
+      label: medical_procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_procedure_type
+      label: medical_procedure_type
+      hint: null
+      type: select_one
+      options:
+      - Blood Test
+      - MRI
+      - CT Scan
+      - Ultrasound
+      - X-ray
+      - Bone Density Test
+      - Physical Examination
+      - Other
+      - None
+      required: false

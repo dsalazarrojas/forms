@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Experience Certificate Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Select department
+      type: select_one
+      options:
+      - hr
+      - admin
+      - other
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_joining
+      label: Date of Joining
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: certificate_type
+      label: Certificate Type
+      hint: Select certificate type
+      type: select_multiple
+      options:
+      - experience
+      - confirmation
+      - other
+      required: false
+    - id: 12
+      name: certificate_details
+      label: Certificate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: issued_date
+      label: Issued Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: certificate_number
+      label: Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

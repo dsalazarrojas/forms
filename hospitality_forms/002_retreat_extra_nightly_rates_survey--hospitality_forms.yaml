@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retreat Extra Nightly Rates Survey
+    pages:
+    - id: 1
+      name: extra_nightly_rates
+      label: Extra Nightly Rates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: retreat_length
+      label: Retreat Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: extra_nightly_rates_frequency
+      label: Extra Nightly Rates Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Yearly
+      - Yearly
+      required: false
+    - id: 4
+      name: pricing_model
+      label: Pricing Model
+      hint: null
+      type: select_multiple
+      options:
+      - Room Type
+      - Rate per Night
+      - Room Type and Rate per Night
+      - Other
+      required: false
+    - id: 5
+      name: rate_range
+      label: Rate Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rate_range_unit
+      label: Rate Range Unit
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - Other
+      required: false
+    - id: 7
+      name: minimum_stay_length
+      label: Minimum Stay Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_nightly_rate
+      label: Additional Nightly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: extra_nightly_rates_amenity
+      label: Extra Nightly Rates Amenity
+      hint: null
+      type: select_multiple
+      options:
+      - Internet
+      - TV
+      - Parking
+      - Pool
+      required: false
+    - id: 10
+      name: extra_nightly_rates_amenity_other
+      label: Other Amenity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: extra_nightly_rates_comment
+      label: Extra Nightly Rates Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: extra_nightly_rates_comment_2
+      label: Extra Nightly Rates Comment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: extra_nightly_rates_comment_3
+      label: Extra Nightly Rates Comment 3
+      hint: null
+      type: text
+      options: []
+      required: false

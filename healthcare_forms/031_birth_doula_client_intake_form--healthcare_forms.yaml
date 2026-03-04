@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Doula Client Intake Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Welcome to Our Doula Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: We look forward to supporting you during your birth journey
+      hint: Please complete this intake form
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_dob
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: partner_name
+      label: Partner Name
+      hint: Name of birth partner if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: partner_email
+      label: Partner Email
+      hint: Partner contact email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: section_pregnancy
+      label: -- Pregnancy Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: Baby's expected arrival date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: weeks_pregnant
+      label: Weeks Pregnant
+      hint: How many weeks along
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: first_pregnancy
+      label: Is This Your First Pregnancy
+      hint: Parity
+      type: select_one
+      options:
+      - Yes, First Child
+      - No, Previous Children
+      required: true
+    - id: 15
+      name: number_of_children
+      label: Number of Previous Children
+      hint: How many children do you have
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: previous_birth_experiences
+      label: Tell Us About Previous Births
+      hint: Type of delivery, experiences
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pregnancy_complications
+      label: Any Pregnancy Complications
+      hint: Health issues or concerns
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_birth_preferences
+      label: -- Birth Preferences and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: birth_setting_preference
+      label: Preferred Birth Setting
+      hint: Where you want to give birth
+      type: select_one
+      options:
+      - Hospital
+      - Birthing Center
+      - Home Birth
+      - Undecided
+      required: true
+    - id: 20
+      name: birth_provider
+      label: Healthcare Provider
+      hint: OB-GYN, midwife, or other
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: birth_philosophy
+      label: Your Birth Philosophy
+      hint: Describe your ideal birth
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: pain_management_preference
+      label: Pain Management Preferences
+      hint: What pain relief options interest you
+      type: select_multiple
+      options:
+      - Natural Techniques
+      - Epidural
+      - IV Medications
+      - Nitrous Oxide
+      - Undecided
+      required: true
+    - id: 23
+      name: intervention_preferences
+      label: Medical Intervention Preferences
+      hint: Your comfort level with interventions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: birth_team_preferences
+      label: Who Do You Want Present at Birth
+      hint: People you want or don't want there
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: section_support_needs
+      label: -- Support Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: doula_support_areas
+      label: Areas Where You Want Doula Support
+      hint: Select primary support needs
+      type: select_multiple
+      options:
+      - Emotional Support
+      - Physical Comfort Measures
+      - Advocacy with Medical Team
+      - Pain Management Techniques
+      - Breathing and Relaxation
+      - Information and Education
+      - Partner Support
+      required: true
+    - id: 27
+      name: specific_concerns
+      label: Specific Concerns or Fears
+      hint: Anything that worries you
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: previous_trauma
+      label: History of Trauma Affecting Birth
+      hint: Past experiences affecting you now
+      type: select_one
+      options:
+      - Yes, Please be aware
+      - false
+      - Prefer not to answer
+      required: false
+    - id: 29
+      name: trauma_details
+      label: Please Describe
+      hint: Any details you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_health
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Any health issues
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: medications
+      label: Current Medications
+      hint: Any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: Food, medication, or other allergies
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_logistics
+      label: -- Service Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: hours_of_support
+      label: Hours of Doula Support Desired
+      hint: When labor starts or continuous
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: postpartum_support
+      label: Postpartum Support Desired
+      hint: Do you want postpartum visits
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 37
+      name: questions_or_comments
+      label: Questions or Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

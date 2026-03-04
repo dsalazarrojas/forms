@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corneal Tissue Custody Record
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_info
+      label: Sample Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: collection_info
+      label: Collection Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: chain_of_custody
+      label: Chain of Custody
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: storage_info
+      label: Storage Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: handling_info
+      label: Handling Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: storage_facility
+      label: Storage Facility
+      hint: null
+      type: select_one
+      options:
+      - Tissue Bank
+      - Lab
+      - Biorepository
+      - Other
+      required: false
+    - id: 8
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      - Room 4
+      - Room 5
+      - Room 6
+      - Room 7
+      - Room 8
+      - Room 9
+      - Room 10
+      required: false
+    - id: 9
+      name: storage_temp
+      label: Storage Temp
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: storage_date
+      label: Storage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: storage_user
+      label: Storage User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: return_user
+      label: Return User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: handling_user
+      label: Handling User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

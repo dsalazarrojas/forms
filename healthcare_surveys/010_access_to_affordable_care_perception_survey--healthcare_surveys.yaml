@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access To Affordable Care Perception Survey
+    pages:
+    - id: 1
+      name: participant_age_group
+      label: Age Group
+      hint: Which age group do you belong to?
+      type: select_one
+      options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65 or older"]
+      required: true
+    - id: 2
+      name: household_income_range
+      label: Household Income Range
+      hint: What is your annual household income range?
+      type: select_one
+      options: ["Less than $25,000", "$25,000-$49,999", "$50,000-$74,999", "$75,000-$99,999", "$100,000-$149,999", "$150,000 or more"]
+      required: true
+    - id: 3
+      name: insurance_coverage_status
+      label: Insurance Coverage Status
+      hint: What is your current health insurance status?
+      type: select_one
+      options: ["Private insurance", "Employer-sponsored insurance", "Medicare", "Medicaid", "Uninsured", "Other government program"]
+      required: true
+    - id: 4
+      name: geographic_location
+      label: Geographic Location
+      hint: Where do you live?
+      type: select_one
+      options: ["Urban", "Suburban", "Rural"]
+      required: true
+    - id: 5
+      name: overall_health_rating
+      label: Overall Health Rating
+      hint: How would you rate your overall health?
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 6
+      name: healthcare_access_difficulty
+      label: Healthcare Access Difficulty
+      hint: How difficult is it for you to access healthcare services?
+      type: select_one
+      options: ["Very Difficult", "Difficult", "Moderate", "Easy", "Very Easy"]
+      required: true
+    - id: 7
+      name: healthcare_cost_concern
+      label: Healthcare Cost Concern
+      hint: How concerned are you about the cost of healthcare?
+      type: select_one
+      options: ["Extremely Concerned", "Very Concerned", "Moderately Concerned", "Slightly Concerned", "Not Concerned"]
+      required: true
+    - id: 8
+      name: preventive_care_access
+      label: Preventive Care Access
+      hint: How easy is it for you to access preventive care services?
+      type: select_one
+      options: ["Very Easy", "Easy", "Moderate", "Difficult", "Very Difficult"]
+      required: true
+    - id: 9
+      name: specialist_access_difficulty
+      label: Specialist Access Difficulty
+      hint: How difficult is it to get appointments with specialists?
+      type: select_one
+      options: ["Very Difficult", "Difficult", "Moderate", "Easy", "Very Easy"]
+      required: true
+    - id: 10
+      name: transportation_barrier
+      label: Transportation Barrier
+      hint: Does transportation prevent you from accessing healthcare?
+      type: select_one
+      options: ["Yes, Always", "Yes, Often", "Yes, Sometimes", "Rarely", "No"]
+      required: true
+    - id: 11
+      name: healthcare_quality_perception
+      label: Healthcare Quality Perception
+      hint: How would you rate the quality of healthcare available to you?
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Cannot Assess"]
+      required: true
+    - id: 12
+      name: healthcare_affordability_rating
+      label: Healthcare Affordability Rating
+      hint: How affordable do you find healthcare services?
+      type: select_one
+      options: ["Very Affordable", "Affordable", "Moderately Affordable", "Unaffordable", "Very Unaffordable"]
+      required: true
+    - id: 13
+      name: prescription_medicine_access
+      label: Prescription Medicine Access
+      hint: How easy is it for you to access prescribed medications?
+      type: select_one
+      options: ["Very Easy", "Easy", "Moderate", "Difficult", "Very Difficult"]
+      required: true
+    - id: 14
+      name: mental_health_services_access
+      label: Mental Health Services Access
+      hint: How accessible are mental health services to you?
+      type: select_one
+      options: ["Very Accessible", "Accessible", "Moderately Accessible", "Inaccessible", "Very Inaccessible"]
+      required: true
+    - id: 15
+      name: healthcare_wait_times
+      label: Healthcare Wait Times
+      hint: How would you rate the wait times for healthcare appointments?
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Terrible"]
+      required: true
+    - id: 16
+      name: healthcare_availability_perception
+      label: Healthcare Availability Perception
+      hint: Do you feel there are enough healthcare providers in your area?
+      type: select_one
+      options: ["More Than Enough", "Enough", "Somewhat Enough", "Not Enough", "Far From Enough"]
+      required: true
+    - id: 17
+      name: healthcare_system_satisfaction
+      label: Healthcare System Satisfaction
+      hint: How satisfied are you with the healthcare system overall?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 18
+      name: policy_improvement_priority
+      label: Policy Improvement Priority
+      hint: Which area should policymakers prioritize for improvement?
+      type: select_one
+      options: ["Reduce costs", "Increase access", "Improve quality", "Expand coverage", "Reduce wait times", "Improve provider availability"]
+      required: true
+    - id: 19
+      name: additional_barriers
+      label: Additional Barriers
+      hint: What other barriers do you face in accessing affordable healthcare?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: What suggestions do you have to improve access to affordable healthcare?
+      type: text
+      options: []
+      required: false

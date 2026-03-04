@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Region Change Survey
+    pages:
+    - id: 1
+      name: region_transfer_question
+      label: What is the reason for the region transfer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_score
+      label: What is your satisfaction score for the region transfer?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_opportunity
+      label: What improvement opportunities do you see with the new region transfer
+        process?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: region_transfer_satisfaction
+      label: What do you think about the overall satisfaction with the region transfer?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: region_transfer_satisfaction_date
+      label: If you selected dissatisfied or very dissatisfied, what date did you
+        experience the region transfer?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: region_transfer_satisfaction_time
+      label: If you selected dissatisfied or very dissatisfied, what time of day did
+        you experience the region transfer?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_organization
+      label: What health care organization is this transfer with?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: region_transfer_date
+      label: What is the region transfer date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: region_transfer_time
+      label: What is the region transfer time?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: region_transfer_reason
+      label: What is the reason for the region transfer?
+      hint: null
+      type: select_one
+      options:
+      - Region Transfer due to reorganization
+      - Region transfer due to relocation
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: region_transfer_location
+      label: What was your location during the region transfer?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flu Vaccine Declination Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Patient's full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Flu Vaccine'', ''value'': 1}'
+      - '{''label'': ''Other'', ''value'': 2}'
+      required: true
+    - id: 4
+      name: vaccine_dose
+      label: Dose Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_decline
+      label: Reason for Decline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

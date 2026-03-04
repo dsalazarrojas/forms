@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic Dental Referral Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: specialist_name
+      label: Specialist Name
+      hint: null
+      type: select_one
+      options:
+      - Dentist
+      - Orthodontist
+      - Periodontist
+      - Oral and Maxillofacial Surgeon
+      - Pediatric Dentist
+      - Endodontist
+      - Oral Pathologist
+      - Oral and Maxillofacial Surgery Specialist
+      - Orthodontic Specialist
+      required: true
+    - id: 4
+      name: specialist_name_other
+      label: Other Specialist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Urgent care
+      - Specialist referral
+      - Other
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_plans
+      label: Treatment Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_schedules
+      label: Follow up Schedules
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: specialist_info
+      label: Specialist Info
+      hint: null
+      type: select_multiple
+      options:
+      - Available 9am-5pm
+      - Available 10am-4pm
+      - By appointment only
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

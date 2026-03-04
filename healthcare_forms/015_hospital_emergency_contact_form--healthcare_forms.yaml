@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Emergency Contact Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: relation
+      label: Relation
+      hint: null
+      type: select_multiple
+      options:
+      - Brother
+      - Sister
+      - Daughter
+      - Mother
+      - Father
+      - Wife
+      - Husband
+      required: false
+    - id: 7
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family Member
+      - Medical Professional
+      required: false
+    - id: 9
+      name: relation_preferred_method
+      label: Preferred Contact Method for Relation
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family Member
+      - Medical Professional
+      required: false
+    - id: 10
+      name: address_preferred_method
+      label: Preferred Contact Method for Address
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family Member
+      - Medical Professional
+      required: false
+    - id: 11
+      name: spouse
+      label: Spouse
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 12
+      name: emergency_preferred_method
+      label: Preferred Contact Method for Emergency
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family Member
+      - Medical Professional
+      required: false
+    - id: 13
+      name: address_preferred_method
+      label: Preferred Contact Method for Address
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family Member
+      - Medical Professional
+      required: false
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_contact_method
+      label: Email Contact Method
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: relation_email
+      label: Relation Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family
+      - Medical
+      required: false

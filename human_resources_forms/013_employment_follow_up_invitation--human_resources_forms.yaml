@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_follow_up_invitation
+    pages:
+    - id: 1
+      name: follow_up_invitation
+      label: Invitation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: follow_up_meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: follow_up_meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: purpose_of_follow_up
+      label: Purpose of Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up_meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: invite_message
+      label: Invite Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: invite_link
+      label: Invite Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_progress
+      - done
+      required: false
+    - id: 12
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_or_candidate_name
+      label: Employee or Candidate
+      hint: null
+      type: text
+      options: []
+      required: false

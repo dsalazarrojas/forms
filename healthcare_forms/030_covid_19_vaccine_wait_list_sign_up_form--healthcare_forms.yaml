@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Wait List Sign Up Form
+    pages:
+    - id: 1
+      name: waitlist_patient_header
+      label: -- Patient Information --
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: waitlist_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: waitlist_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: waitlist_middle_initial
+      Label: Middle Initial
+      hint: Your middle initial if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waitlist_date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: waitlist_email
+      Label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: waitlist_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: waitlist_address
+      Label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: waitlist_city_state_zip
+      label: City, State, ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: waitlist_eligibility_header
+      Label: -- Eligibility Information --
+      hint: Vaccination eligibility details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: waitlist_priority_group
+      label: Priority Group Status
+      hint: What group are you in
+      type: select_one
+      options:
+        - Healthcare worker
+        - Essential worker
+        - Age 65 or older
+        - Age 50-64
+        - Underlying medical condition
+        - General population
+      required: true
+    - id: 12
+      name: waitlist_age_group
+      Label: Age Group
+      hint: Your age category
+      type: select_one
+      options:
+        - Under 18
+        - 18-49
+        - 50-64
+        - 65-74
+        - 75+
+      required: true
+    - id: 13
+      name: waitlist_medical_conditions
+      label: Underlying Medical Conditions
+      hint: If you have qualifying conditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: waitlist_healthcare_status_header
+      Label: -- Healthcare Status --
+      hint: Your healthcare information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: waitlist_insurance
+      label: Insurance Status
+      hint: Do you have health insurance
+      type: select_one
+      options:
+        - Yes, insured
+        - No, uninsured
+        - Medicare
+        - Medicaid
+        - Other
+      required: false
+    - id: 16
+      name: waitlist_primary_provider
+      Label: Do You Have a Primary Care Provider
+      hint: Regular doctor or clinic
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: false
+    - id: 17
+      name: waitlist_vaccine_history_header
+      label: -- Vaccine History --
+      hint: Your COVID-19 vaccination status
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: waitlist_previous_doses
+      Label: Previous COVID-19 Vaccine Doses
+      hint: How many doses have you had
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: waitlist_vaccine_type
+      label: Vaccine Type if Previously Vaccinated
+      hint: What vaccine did you receive
+      type: select_one
+      options:
+        - Pfizer-BioNTech
+        - Moderna
+        - Johnson & Johnson
+        - AstraZeneca
+        - Novavax
+        - Mixed types
+        - Unsure
+        - Have not been vaccinated
+      required: false
+    - id: 20
+      name: waitlist_covid_status_header
+      Label: -- COVID-19 Status --
+      hint: Your COVID-19 history
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: waitlist_had_covid
+      label: Have You Had COVID-19 Previously
+      hint: Any previous COVID-19 infection
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: true
+    - id: 22
+      name: waitlist_covid_date
+      Label: Date of COVID-19 Infection
+      hint: When did you have COVID-19
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: waitlist_preference_header
+      label: -- Preferences and Consent --
+      hint: How you prefer to be contacted
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: waitlist_contact_preference
+      Label: Preferred Contact Method
+      hint: How should we notify you
+      type: select_one
+      options:
+        - Email
+        - Phone Call
+        - Text Message
+        - Mail
+        - No preference
+      required: true
+    - id: 25
+      name: waitlist_confirmation
+      label: I Confirm All Information is Accurate
+      hint: All provided information is correct and true
+      type: select_one
+      options:
+        - Confirmed accurate
+        - Needs correction
+      required: true

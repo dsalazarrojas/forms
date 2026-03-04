@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_personnel_evaluation_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      required: false
+    - id: 5
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: Please provide your feedback about the employee's performance.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional notes about the employee.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: Employee ID or name.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Completed
+      - Archived
+      required: false
+    - id: 13
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Performance
+      - Development
+      - Other
+      required: false
+    - id: 14
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Staff
+      required: false
+    - id: 15
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_members
+      label: Team Members
+      hint: List the team members involved in the evaluation.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_period2
+      label: Evaluation Period 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: performance_date2
+      label: Performance Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: evaluation_date2
+      label: Evaluation Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: evaluation_score2
+      label: Evaluation Score 2
+      hint: null
+      type: number
+      options: []
+      required: false

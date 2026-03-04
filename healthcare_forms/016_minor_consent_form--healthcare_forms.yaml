@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minor Consent Form
+    pages:
+    - id: 1
+      name: minor_consent_form_page
+      label: parent_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: massage_description
+      label: describe_massage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: minor_consent
+      label: minor_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: minor_name
+      label: minor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false

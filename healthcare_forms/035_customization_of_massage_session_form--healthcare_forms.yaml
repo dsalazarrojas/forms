@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customization Of Massage Session Form
+    pages:
+    - id: 1
+      name: client
+      label: Client
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: massage_style
+      label: Massage Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

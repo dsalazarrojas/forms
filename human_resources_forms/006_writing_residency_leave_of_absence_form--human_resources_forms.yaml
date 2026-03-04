@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writing Residency Leave Of Absence Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_absence_begin
+      label: Date Of Absence Begin
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_of_absence_end
+      label: Date Of Absence End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 8
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false

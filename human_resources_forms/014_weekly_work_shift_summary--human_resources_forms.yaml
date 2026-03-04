@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Work Shift Summary
+    pages:
+    - id: 1
+      name: weekly_work_shift_summary
+      label: Employee Name
+      hint: Employee Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weekly_work_shift_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: weekly_work_shift_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: weekly_work_shift_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: weekly_work_shift_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weekly_work_shift_details
+      label: Shift Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: weekly_work_shift_overtime
+      label: Overtime
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: weekly_work_shift_lunch_break
+      label: Lunch Break
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: weekly_work_shift_meal_breaks
+      label: Meal Breaks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: weekly_work_shift_shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Overtime
+      - Vacation
+      required: true
+    - id: 11
+      name: weekly_work_shift_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

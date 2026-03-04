@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: TOGETHER FIT & HEALTHY
+    pages:
+    - id: 1
+      name: introduction
+      label: what_brings_you_here
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: goals
+      label: what_are_your_goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''lose_weight''}'
+      - '{''value'': ''increase_fitness''}'
+      - '{''value'': ''reduce_stress''}'
+      - '{''value'': ''improve_health''}'
+      required: true
+    - id: 3
+      name: fitness_level
+      label: fitness_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: current_weight
+      label: current_weight_kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: target_weight
+      label: target_weight_kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: available_time
+      label: how_many_minutes_can_you_devote
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: available_days
+      label: how_many_days_a_week_can_you_commit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      - '{''value'': ''5''}'
+      - '{''value'': ''6''}'
+      - '{''value'': ''7''}'
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: any_medical_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contacts
+      label: emergency_contacts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: doctor
+      label: doctor_name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: pharmacy
+      label: pharmacy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      - '{''value'': ''5''}'
+      - '{''value'': ''6''}'
+      - '{''value'': ''7''}'
+      required: true
+    - id: 16
+      name: diet_frequency
+      label: diet_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      - '{''value'': ''5''}'
+      - '{''value'': ''6''}'
+      required: true
+    - id: 17
+      name: water_consumption
+      label: water_consumption
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: body_fat
+      label: body_fat
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: blood_cholesterol
+      label: blood_cholesterol
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: blood_glucose
+      label: blood_glucose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: blood_lipids
+      label: blood_lipids
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: blood_sugar
+      label: blood_sugar
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''aspirin''}'
+      - '{''value'': ''ibuprofen''}'
+      - '{''value'': ''paracetamol''}'
+      required: false

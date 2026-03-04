@@ -1,0 +1,557 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Refusal Form
+    pages:
+    - id: 1
+      name: section_incident_info
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: call_number
+      label: Call/Run Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_age
+      label: Patient Age
+      hint: Years
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: patient_phone
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_capacity
+      label: -- Decision-Making Capacity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: alert_oriented
+      label: Patient Alert and Oriented
+      hint: null
+      type: select_one
+      options:
+      - Yes - Oriented x4
+      - Yes - Oriented x3
+      - Yes - Oriented x2
+      - No - Disoriented
+      required: true
+    - id: 15
+      name: understands_condition
+      label: Patient Understands Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Yes - Demonstrates understanding
+      - Partially - Some understanding
+      - No - Does not understand
+      required: true
+    - id: 16
+      name: understands_risks
+      label: Patient Understands Risks of Refusal
+      hint: null
+      type: select_one
+      options:
+      - Yes - Risks explained and understood
+      - Partially - Some understanding
+      - No - Does not understand
+      required: true
+    - id: 17
+      name: under_influence
+      label: Is Patient Under the Influence
+      hint: Alcohol or drugs
+      type: select_one
+      options:
+      - No - Appears sober
+      - Yes - Alcohol
+      - Yes - Drugs
+      - Yes - Both
+      - Unknown
+      required: true
+    - id: 18
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Confused
+      - Disoriented
+      - Altered
+      - Suicidal/Homicidal
+      required: true
+    - id: 19
+      name: pain_level
+      label: Pain Level
+      hint: Scale 0-10
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_vitals
+      label: -- Vital Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: blood_pressure
+      label: Blood Pressure
+      hint: mmHg
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: heart_rate
+      label: Heart Rate
+      hint: BPM
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: blood_glucose
+      label: Blood Glucose
+      hint: mg/dL if checked
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: temperature
+      label: Temperature
+      hint: If taken
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: section_assessment
+      label: -- Patient Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Patient's stated reason for call
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: history_present_illness
+      label: History of Present Illness
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: past_medical_history
+      label: Past Medical History
+      hint: Relevant conditions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: medications
+      label: Current Medications
+      hint: List if known
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_care_offered
+      label: -- Care Offered --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: assessment_offered
+      label: Medical Assessment Offered
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full assessment offered
+      - Yes - Partial assessment offered
+      - No - Patient refused all assessment
+      required: true
+    - id: 35
+      name: treatment_offered
+      label: Treatment Offered
+      hint: null
+      type: select_one
+      options:
+      - Yes - Treatment offered and refused
+      - Yes - Some treatment accepted
+      - No - Patient refused all treatment
+      required: true
+    - id: 36
+      name: transport_offered
+      label: Transport to Hospital Offered
+      hint: null
+      type: select_one
+      options:
+      - Yes - Strongly recommended
+      - Yes - Offered
+      - No - Patient refused
+      required: true
+    - id: 37
+      name: section_risks_explained
+      label: -- Risks Explained --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: risks_discussed
+      label: Risks of Refusal Discussed
+      hint: Select all that were discussed
+      type: select_multiple
+      options:
+      - Worsening of condition
+      - Permanent disability
+      - Death
+      - Need for additional EMS calls
+      - Delayed treatment complications
+      - Specific condition risks
+      required: true
+    - id: 39
+      name: risks_understood
+      label: Did Patient Demonstrate Understanding of Risks
+      hint: null
+      type: select_one
+      options:
+      - Yes - Clearly understood
+      - Yes - Acknowledged but minimizing
+      - No - Did not understand
+      required: true
+    - id: 40
+      name: alternatives_offered
+      label: Alternatives Offered
+      hint: Other care options
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: section_refusal_reason
+      label: -- Reason for Refusal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: refusal_reason
+      label: Patient's Stated Reason for Refusal
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Financial concerns
+      - Fear of hospitals
+      - Previous negative experience
+      - Family obligations
+      - Work obligations
+      - Feels better now
+      - Does not believe treatment needed
+      - Religious reasons
+      - Other
+      required: true
+    - id: 43
+      name: refusal_reason_detail
+      label: Additional Details About Refusal
+      hint: Patient's own words if possible
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: section_witnesses
+      label: -- Witnesses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: witnesses_present
+      label: Were Witnesses Present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: witness_names
+      label: Witness Names
+      hint: List names and relationships
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: witness_understanding
+      label: Did Witnesses Understand Risks
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 48
+      name: section_family
+      label: -- Family/Guardian --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: family_present
+      label: Family Member Present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 50
+      name: family_member_name
+      label: Family Member Name
+      hint: If present
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: family_relationship
+      label: Relationship to Patient
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: family_agrees_with_refusal
+      label: Does Family Agree with Refusal
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - false
+      - Family urges transport
+      - Not applicable
+      required: false
+    - id: 53
+      name: section_instructions
+      label: -- Instructions Given --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 54
+      name: instructions_given
+      label: Discharge Instructions Given
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Call 911 if condition worsens
+      - Follow up with primary care
+      - Go to ER if symptoms change
+      - Medication instructions
+      - Activity restrictions
+      - Diet instructions
+      - Wound care instructions
+      - Written instructions provided
+      required: true
+    - id: 55
+      name: instructions_understood
+      label: Did Patient Understand Instructions
+      hint: null
+      type: select_one
+      options:
+      - Yes - Demonstrated understanding
+      - Yes - Verbally acknowledged
+      - No - Unclear understanding
+      required: true
+    - id: 56
+      name: follow_up_recommendations
+      label: Follow-Up Recommendations
+      hint: What follow-up was advised
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: section_signature
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 58
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 59
+      name: patient_signature_witnessed
+      label: Patient Signature Witnessed By
+      hint: EMS provider name
+      type: text
+      options: []
+      required: true
+    - id: 60
+      name: refusal_time
+      label: Time of Refusal
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 61
+      name: emt_paramedic_name
+      label: EMT/Paramedic Name
+      hint: Primary provider
+      type: text
+      options: []
+      required: true
+    - id: 62
+      name: emt_paramedic_certification
+      label: Certification Level
+      hint: null
+      type: select_one
+      options:
+      - EMT-Basic
+      - EMT-Intermediate
+      - Paramedic
+      required: true
+    - id: 63
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 64
+      name: emt_signature
+      label: EMT/Paramedic Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 65
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 66
+      name: narrative
+      label: Additional Narrative
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 67
+      name: patient_condition_at_departure
+      label: Patient Condition at Time of Departure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 68
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true

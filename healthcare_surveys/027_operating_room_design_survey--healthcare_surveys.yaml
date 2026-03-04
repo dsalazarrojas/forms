@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: operating_room_design_survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Staff
+      - Visitor
+      required: true
+    - id: 3
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - Surgeon
+      - Recovery
+      - ICU
+      required: true
+    - id: 4
+      name: layout_preferences
+      label: Layout Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: design_preferences
+      label: Design Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_layout
+      label: Overall Layout
+      hint: null
+      type: select_one
+      options:
+      - Comfortable
+      - Functional
+      - Aesthetic
+      required: true
+    - id: 7
+      name: specific_layout_preferences
+      label: Specific Layout Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Comfortable
+      - Functional
+      - Aesthetic
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shift
+      label: Shift
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: comments2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Scale 1-5
+      - Scale 2-10
+      - Scale 3-20
+      required: false
+    - id: 19
+      name: department2
+      label: Department 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments3
+      label: Comments 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: comments4
+      label: Comments 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: comments5
+      label: Comments 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: comments6
+      label: Comments 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments7
+      label: Comments 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments8
+      label: Comments 8
+      hint: null
+      type: note
+      options: []
+      required: false

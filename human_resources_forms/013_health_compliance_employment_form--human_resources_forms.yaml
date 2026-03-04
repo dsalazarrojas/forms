@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Compliance Employment Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - On the Job
+      - Furloughed
+      - Terminated
+      - Resigned
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      required: false
+    - id: 6
+      name: health_attestation
+      label: Health Attestation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: health_atteestation
+      label: Health Atteestation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_certificate
+      label: Medical Certificate
+      hint: Upload Medical Certificate
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workplace_readiness
+      label: Workplace Readiness
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: medical_clearance_note
+      label: Medical Clearance Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_certificate_status
+      label: Medical Certificate Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Required
+      - Required
+      - Review Required
+      required: false
+    - id: 18
+      name: medical_certificate_upload
+      label: Medical Certificate Upload
+      hint: Upload Medical Certificate
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: workplace_readiness_notes
+      label: Workplace Readiness Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_clearance_notes
+      label: Medical Clearance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: employee_health_notes
+      label: Employee Health Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: date_declined
+      label: Date Declined
+      hint: null
+      type: date
+      options: []
+      required: false

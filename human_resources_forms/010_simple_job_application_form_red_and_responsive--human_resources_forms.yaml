@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: simple_job_application_form_red_and_responsive
+    pages:
+    - id: 1
+      name: position_name
+      label: Position Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_resume
+      label: drag_and_drop_resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_id
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''IT Support''}'
+      - '{''id'': 2, ''label'': ''Software Developer''}'
+      - '{''id'': 3, ''label'': ''Marketing Specialist''}'
+      required: false
+    - id: 8
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Full-time''}'
+      - '{''id'': 2, ''label'': ''Part-time''}'
+      - '{''id'': 3, ''label'': ''Contract''}'
+      - '{''id'': 4, ''label'': ''Freelance''}'
+      required: false
+    - id: 9
+      name: job_description
+      label: job_description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

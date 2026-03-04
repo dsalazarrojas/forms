@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Future Medical Contact Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_relationship
+      label: contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Family Member''}'
+      - '{''label'': ''Emergency Contact''}'
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

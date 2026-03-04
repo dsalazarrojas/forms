@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Referral Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: referring_physician
+      label: Referring Physician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referring_facility
+      label: Referring Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: hospice_name
+      label: Hospice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hospice_address
+      label: Hospice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hospice_phone
+      label: Hospice Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hospice_facility
+      label: Hospice Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_facility
+      label: Contact Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_medical_condition
+      label: Patient Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_diagnosis
+      label: Patient Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false

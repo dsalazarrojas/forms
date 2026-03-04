@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Medical History Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: personal_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergies
+      - None
+      - Other
+      required: false
+    - id: 4
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: healthy_habits
+      label: healthy_habits
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise
+      - Healthy Diet
+      - Quit Smoking
+      - Other
+      required: false
+    - id: 6
+      name: unhealthy_habits
+      label: unhealthy_habits
+      hint: null
+      type: select_multiple
+      options:
+      - Smoking
+      - Excessive Eating
+      - Other
+      required: false

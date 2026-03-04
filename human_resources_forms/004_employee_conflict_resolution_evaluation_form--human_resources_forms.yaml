@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: employee_conflict_resolution_evaluation_form
+    pages:
+    - id: 1
+      name: root
+      label: Conflict Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_involved
+      label: Employee Involved
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Team Member''}'
+      - '{''id'': 3, ''label'': ''Team Leader''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: employee_involved_other
+      label: Other Employee (if not manager, team member, team leader)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_conflict_occurred
+      label: Date Conflicts Occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: conflict_description
+      label: Describe Conflict
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resolution_attempted
+      label: Yes/No
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 7
+      name: resolution_outcome
+      label: Resolution Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Conflicts Resolved'', ''selected'': True}'
+      - '{''id'': 2, ''label'': ''Conflicts Not Resolved'', ''selected'': False}'
+      - '{''id'': 3, ''label'': ''Pending'', ''selected'': False}'
+      required: true
+    - id: 8
+      name: resolution_comments
+      label: Resolution Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: conflict_resolution_form_completed
+      label: Conflict Resolution Form Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: conflict_resolution_form_completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR Manager''}'
+      - '{''id'': 2, ''label'': ''Team Leader''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

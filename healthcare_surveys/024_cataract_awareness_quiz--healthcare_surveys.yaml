@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cataract Awareness Quiz
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: To receive your quiz results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Select your age group
+      hint: null
+      type: select_one
+      options:
+      - Under 40
+      - 40-50
+      - 51-60
+      - 61-70
+      - Over 70
+      required: true
+    - id: 5
+      name: section_quiz
+      label: -- Knowledge Check --
+      hint: Let's see what you know about cataracts
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: what_is_cataract
+      label: True or False - A cataract is a clouding of the normally clear lens of
+        the eye
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: cataract_symptoms
+      label: Which of the following are symptoms of cataracts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Blurred or dim vision
+      - Difficulty with vision at night
+      - Seeing halos around lights
+      - Frequent changes in eyeglass prescription
+      - Double vision in a single eye
+      required: true
+    - id: 8
+      name: surgery_necessity
+      label: When is cataract surgery typically recommended
+      hint: null
+      type: select_one
+      options:
+      - Immediately upon diagnosis
+      - When vision loss interferes with daily activities
+      - Only for patients over 80
+      - Never, it can be cured with drops
+      required: true
+    - id: 9
+      name: risk_factors
+      label: What are common risk factors for developing cataracts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Aging
+      - Diabetes
+      - Excessive exposure to sunlight (UV)
+      - Smoking
+      - Previous eye injury
+      required: true
+    - id: 10
+      name: section_health_habits
+      label: -- Your Eye Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: last_eye_exam
+      label: When was your last comprehensive eye exam
+      hint: null
+      type: select_one
+      options:
+      - Within the last year
+      - 1-2 years ago
+      - More than 2 years ago
+      - I have never had one
+      required: true
+    - id: 12
+      name: current_vision_issues
+      label: Do you currently experience any vision changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consultation_interest
+      label: Would you like to schedule an eye health consultation
+      hint: null
+      type: select_one
+      options:
+      - Yes, please contact me
+      - No, thank you
+      - Maybe in the future
+      required: true
+    - id: 14
+      name: follow_up_phone
+      label: Phone Number (if you want us to call you)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_quiz
+      label: Was this quiz helpful in learning about cataracts
+      hint: null
+      type: select_one
+      options:
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Helpful
+      required: false
+    - id: 16
+      name: clinic_name
+      label: Clinic or Provider Code (if referred)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: disclaimer_ack
+      label: I understand this quiz is for educational purposes and not a diagnosis
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true

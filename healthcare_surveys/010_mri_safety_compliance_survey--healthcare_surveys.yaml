@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: MRI Safety Compliance Survey
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Aspirin''}'
+      - '{''value'': ''Insulin''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 4
+      name: medical_devices
+      label: Medical Devices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pacemaker''}'
+      - '{''value'': ''Implantable Cardioverter-Defibrillator (ICD)''}'
+      - '{''value'': ''Cochlear Implant''}'
+      required: true
+    - id: 5
+      name: mri_safety
+      label: MRI Safety Risks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: claughts
+      label: Claustrophobia
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: scheduling_risks
+      label: Scheduling Risks
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 10}'
+      - '{''value'': 15}'
+      - '{''value'': 30}'
+      required: true
+    - id: 8
+      name: safety_acknowledgements
+      label: Safety Acknowledgements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: true
+    - id: 9
+      name: safety_risks_acknowledged
+      label: Safety Risks Acknowledged
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 0}'
+      - '{''value'': 1}'
+      required: true

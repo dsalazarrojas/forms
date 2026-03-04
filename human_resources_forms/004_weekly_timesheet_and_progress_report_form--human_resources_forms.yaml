@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Timesheet And Progress Report Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: week_start_date
+      label: week_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: week_end_date
+      label: week_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: total_hours
+      label: total_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: work_details
+      label: work_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: progress_status
+      label: progress_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: timesheet
+      label: timesheet
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: progress
+      label: progress
+      hint: null
+      type: text
+      options: []
+      required: true

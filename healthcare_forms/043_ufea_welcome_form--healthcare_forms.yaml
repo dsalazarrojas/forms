@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: ufea_welcome_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sign_in_time
+      label: Sign In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - UFEA
+      - Other
+      - ChatJimmy
+      required: false
+    - id: 11
+      name: patient_category
+      label: Patient Category
+      hint: null
+      type: select_multiple
+      options:
+      - UFEA
+      - Non-UFEA
+      - Both
+      required: false
+    - id: 12
+      name: sign_in_time
+      label: Sign In Time
+      hint: null
+      type: time
+      options: []
+      required: false

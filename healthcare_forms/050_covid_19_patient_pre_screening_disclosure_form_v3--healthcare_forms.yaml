@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Pre Screening Disclosure Form V3
+    pages:
+    - id: 1
+      name: header
+      label: -- Pre-Screening Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: screening_date
+      label: Pre-Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: symptom_screening
+      label: -- Symptom Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fever
+      label: Fever or feeling feverish
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: cough
+      label: Cough in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: breathing_difficulty
+      label: Shortness of breath or difficulty breathing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: loss_of_taste_smell
+      label: Loss of taste or smell
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: fatigue
+      label: Fatigue or body aches
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: sore_throat
+      label: Sore throat or congestion
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: exposure_screening
+      label: -- Exposure Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: known_positive_contact
+      label: Close contact with positive COVID case
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: contact_date_range
+      label: Contact date if applicable
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: quarantine_status
+      label: Quarantine or isolation period completed
+      hint: null
+      type: select_one
+      options:
+      - Yes, Completed
+      - In Progress
+      - Not Required
+      - Unknown
+      required: true
+    - id: 19
+      name: test_history
+      label: -- COVID-19 Test History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: recent_positive
+      label: Tested positive within 90 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 21
+      name: positive_date_range
+      label: Approximate date of positive test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: recovery_symptoms
+      label: Symptoms fully resolved
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: false
+    - id: 23
+      name: vaccination_info
+      label: -- Vaccination Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vaccination_complete
+      label: Fully vaccinated with all boosters
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      - Prefer Not to Say
+      required: true
+    - id: 25
+      name: final_screening
+      label: Approved for procedure or visit
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Conditional Approval
+      required: true

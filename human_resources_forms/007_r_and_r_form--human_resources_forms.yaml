@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: r_and_r_form
+    pages:
+    - id: 1
+      name: form_title
+      label: R and R Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_one
+      options:
+      - Award
+      - Recognition
+      - Both
+      required: false
+    - id: 6
+      name: reason_for_achievement
+      label: Reason for Achievement
+      hint: Briefly describe the reason for the employee's achievement.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: achievement_description
+      label: Achievement Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_manager_comments
+      label: Employee/Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approvals
+      label: Approvals
+      hint: Select all managers who approved this R&R.
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 10
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: award_value
+      label: Award Value
+      hint: Enter award value in dollars.
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: award_currency
+      label: Award Currency
+      hint: Choose award currency (e.g., USD).
+      type: select_one
+      options:
+      - USD
+      - None
+      - None
+      required: false
+    - id: 13
+      name: award_fund
+      label: Award Fund
+      hint: null
+      type: select_one
+      options:
+      - Departmental
+      - Company-Wide
+      - None
+      - None
+      required: false
+    - id: 14
+      name: award_fund_amount
+      label: Award Fund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: award_fund_currency
+      label: Award Fund Currency
+      hint: Choose award fund currency.
+      type: select_one
+      options:
+      - USD
+      - None
+      - None
+      required: false
+    - id: 16
+      name: recognition_date
+      label: Recognition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: awarding_manager
+      label: Awarding Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: awarding_manager_title
+      label: Awarding Manager Title
+      hint: Enter Awarding Manager's title.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: employee_status
+      label: Status
+      hint: Select status.
+      type: select_one
+      options:
+      - Active
+      - None
+      - None
+      required: false
+    - id: 21
+      name: employee_status_reason
+      label: Reason for Status
+      hint: Briefly describe reason for status.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_status_date
+      label: Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: manager_name
+      label: Manager Name
+      hint: Enter manager name.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_title
+      label: Manager Title
+      hint: Enter manager title.
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: approval_notes
+      label: Approval Notes
+      hint: Enter approval notes.
+      type: text
+      options: []
+      required: false

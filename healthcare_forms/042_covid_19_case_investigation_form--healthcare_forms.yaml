@@ -1,0 +1,353 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Case Investigation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: race_ethnicity
+      label: Race and Ethnicity
+      hint: Optional demographic info
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - White - Non-Hispanic
+      - Black or African American
+      - Asian
+      - American Indian or Alaska Native
+      - Native Hawaiian or Pacific Islander
+      - Multiple races
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: investigation_date
+      label: Investigation Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: investigator_name
+      label: Investigator Name
+      hint: Health department staff
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: case_id
+      label: Case ID Number
+      hint: Health department ID
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: test_type
+      label: Test Type
+      hint: Diagnostic test received
+      type: select_one
+      options:
+      - PCR - Molecular
+      - Antigen - Rapid
+      - Antibody
+      - Other
+      required: true
+    - id: 15
+      name: test_date
+      label: Test Date
+      hint: When was test
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: test_result
+      label: Test Result
+      hint: Result received
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Pending
+      required: true
+    - id: 17
+      name: symptom_status
+      label: Symptom Status
+      hint: Are you symptomatic
+      type: select_one
+      options:
+      - Symptomatic
+      - Asymptomatic
+      required: true
+    - id: 18
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When did symptoms start
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: symptoms_experienced
+      label: Symptoms Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - New loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 20
+      name: hospitalization
+      label: Hospitalization Required
+      hint: Were you hospitalized
+      type: select_one
+      options:
+      - Yes - Currently hospitalized
+      - Yes - Was hospitalized
+      - false
+      required: true
+    - id: 21
+      name: hospitalization_date
+      label: Hospitalization Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: underlying_conditions
+      label: Underlying Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Cancer
+      - Chronic kidney disease
+      - COPD
+      - Heart conditions
+      - Obesity
+      - Pregnancy
+      - Sickle cell disease
+      - Diabetes type 1
+      - Diabetes type 2
+      - Weakened immune system
+      required: true
+    - id: 23
+      name: occupation
+      label: Occupation
+      hint: Current job
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: healthcare_worker
+      label: Healthcare Worker
+      hint: Do you work in healthcare
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: essential_worker
+      label: Essential Worker
+      hint: Critical infrastructure
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: residence_type
+      label: Residence Type
+      hint: Living situation
+      type: select_one
+      options:
+      - Single family home
+      - Apartment
+      - Dormitory
+      - Group home
+      - Long-term care facility
+      - Homeless
+      - Other
+      required: true
+    - id: 27
+      name: household_size
+      label: Household Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: close_contacts_identified
+      label: Close Contacts Identified
+      hint: Number of contacts
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: exposure_source
+      label: Likely Exposure Source
+      hint: How were you exposed
+      type: select_one
+      options:
+      - Household member
+      - Workplace
+      - Social gathering
+      - Healthcare setting
+      - Travel
+      - Unknown
+      - Other
+      required: true
+    - id: 30
+      name: travel_history
+      label: Travel in Past 14 Days
+      hint: Before symptom onset
+      type: select_one
+      options:
+      - No travel
+      - Domestic travel
+      - International travel
+      required: true
+    - id: 31
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 32
+      name: isolation_status
+      label: Isolation Status
+      hint: Are you isolating
+      type: select_one
+      options:
+      - Yes - At home
+      - Yes - At facility
+      - No - Unable to isolate
+      - No - Not required
+      required: true
+    - id: 33
+      name: isolation_support_needed
+      label: Isolation Support Needed
+      hint: Do you need assistance
+      type: select_one
+      options:
+      - false
+      - Yes - Food delivery
+      - Yes - Medical care
+      - Yes - Housing
+      - Yes - Multiple needs
+      required: true
+    - id: 34
+      name: outcome
+      label: Case Outcome
+      hint: Current status
+      type: select_one
+      options:
+      - Recovered
+      - Still ill
+      - Hospitalized
+      - Deceased
+      - Unknown
+      required: false
+    - id: 35
+      name: investigator_notes
+      label: Investigator Notes
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional contact needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to check in
+      type: date
+      options: []
+      required: false

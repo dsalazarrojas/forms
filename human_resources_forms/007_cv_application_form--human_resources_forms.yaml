@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: CV Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: position_header
+      label: -- Position Applied For --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - IT
+      - Human Resources
+      - Finance
+      - Operations
+      - Other
+      required: true
+    - id: 14
+      name: experience_header
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: years_experience
+      label: Years of Work Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-employed
+      - Student
+      required: true
+    - id: 17
+      name: previous_positions
+      label: List Your Previous Positions
+      hint: Include company names and dates
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: education_header
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: highest_degree
+      label: Highest Degree Attained
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 20
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: university_name
+      label: University/Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: skills_header
+      label: -- Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: key_skills
+      label: List Your Key Skills
+      hint: Separate with commas
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: cv_upload
+      label: Upload Your CV
+      hint: PDF, DOC, or DOCX format
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: cover_letter
+      label: Cover Letter
+      hint: Optional - Tell us about yourself
+      type: text
+      options: []
+      required: false
