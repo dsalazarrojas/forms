@@ -241,13 +241,23 @@
             <h2 id="content-title" class="text-xl font-bold text-slate-900 dark:text-white">All Forms</h2>
             <p id="content-count" class="text-sm text-slate-500 dark:text-slate-400 mt-0.5"></p>
           </div>
-          <div class="flex items-center gap-2 shrink-0">
-            <span class="text-xs text-slate-500 hidden sm:block">Sort:</span>
-            <select id="sort-select" class="text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors cursor-pointer shadow-sm">
-              <option value="newest">Newest First</option>
-              <option value="az">A – Z</option>
-              <option value="most">Most Questions</option>
-            </select>
+          <div class="flex flex-col sm:flex-row sm:items-center gap-2 shrink-0 sm:min-w-[420px]">
+            <div class="relative flex-1 min-w-[240px]">
+              <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-[18px]">search</span>
+              <input id="fulltext-search" type="search" placeholder="Search title, category, filename, field types..."
+                class="w-full text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 pl-10 pr-9 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors shadow-sm">
+              <button id="clear-search" class="hidden absolute right-2 top-1/2 -translate-y-1/2 h-6 w-6 rounded-md text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors" aria-label="Clear search">
+                <span class="material-symbols-outlined text-[16px]">close</span>
+              </button>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="text-xs text-slate-500 hidden sm:block">Sort:</span>
+              <select id="sort-select" class="text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors cursor-pointer shadow-sm">
+                <option value="newest">Newest First</option>
+                <option value="az">A – Z</option>
+                <option value="most">Most Questions</option>
+              </select>
+            </div>
           </div>
         </div>
 
@@ -400,6 +410,7 @@
     let currentSort = 'newest';
     let currentQuestions = '';
     let currentLanguage = '';
+    let currentSearch = '';
 
     const BADGE_PALETTE = [
       { bg: '#dcfce7', color: '#166534' },
@@ -452,6 +463,16 @@
         const res = await fetch('forms-index.json');
         const data = await res.json();
         allForms = data.forms;
+        allForms.forEach(f => {
+          const fields = [
+            f.title || '',
+            f.category || '',
+            f.filePath || '',
+            (f.filePath || '').split('/').pop() || '',
+            Array.isArray(f.questionTypes) ? f.questionTypes.join(' ') : ''
+          ];
+          f._searchText = fields.join(' ').toLowerCase();
+        });
 
         // Update banner stats
         document.getElementById('banner-total').textContent = data.totalForms.toLocaleString();
@@ -542,6 +563,10 @@
       if (currentQuestions === 'short') forms = forms.filter(f => f.questionCount >= 5 && f.questionCount <= 10);
       if (currentQuestions === 'medium') forms = forms.filter(f => f.questionCount > 10 && f.questionCount <= 20);
       if (currentQuestions === 'long') forms = forms.filter(f => f.questionCount > 20);
+      if (currentSearch) {
+        const tokens = currentSearch.toLowerCase().split(/\s+/).filter(Boolean);
+        forms = forms.filter(f => tokens.every(t => (f._searchText || '').includes(t)));
+      }
 
       if (currentSort === 'az') forms = [...forms].sort((a, b) => a.title.localeCompare(b.title));
       else if (currentSort === 'most') forms = [...forms].sort((a, b) => b.questionCount - a.questionCount);
@@ -713,6 +738,30 @@
         currentPage = 1;
         applyFiltersAndRender();
       });
+    });
+
+    const searchInput = document.getElementById('fulltext-search');
+    const clearSearchBtn = document.getElementById('clear-search');
+    let searchTimer = null;
+
+    searchInput.addEventListener('input', e => {
+      const value = e.target.value || '';
+      clearSearchBtn.classList.toggle('hidden', value.length === 0);
+      if (searchTimer) clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        currentSearch = value.trim();
+        currentPage = 1;
+        applyFiltersAndRender();
+      }, 120);
+    });
+
+    clearSearchBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      currentSearch = '';
+      clearSearchBtn.classList.add('hidden');
+      currentPage = 1;
+      applyFiltersAndRender();
+      searchInput.focus();
     });
 
     window.addEventListener('hashchange', applyHashFilter);
