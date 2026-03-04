@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: workshop_participant_outcomes_evaluation_form
+    pages:
+    - id: 1
+      name: workshop_participant_outcomes_evaluation_form_page_1
+      label: workshop_participant_outcomes_evaluation_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_outcome_rating
+      label: participant_outcome_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''option_1''}'
+      - '{''option_2'': ''option_2''}'
+      - '{''option_3'': ''option_3''}'
+      required: false
+    - id: 3
+      name: workshop_effectiveness_rating
+      label: workshop_effectiveness_rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''option_1''}'
+      - '{''option_2'': ''option_2''}'
+      - '{''option_3'': ''option_3''}'
+      required: false
+    - id: 4
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_feedback
+      label: participant_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''option_1''}'
+      - '{''option_2'': ''option_2''}'
+      - '{''option_3'': ''option_3''}'
+      required: false
+    - id: 9
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

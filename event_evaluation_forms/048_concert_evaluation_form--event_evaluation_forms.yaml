@@ -1,0 +1,254 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Evaluation Form
+    pages:
+      - id: 1
+        name: evaluation_id
+        label: Evaluation ID
+        hint: Unique evaluation identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Name of evaluator
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: evaluator_role
+        label: Evaluator Role
+        hint: Select your role
+        type: select_one
+        options:
+          - Audience Member
+          - Music Critic
+          - Venue Manager
+          - Artist Representative
+          - Promoter
+          - Other
+        required: true
+      - id: 5
+        name: concert_name
+        label: Concert Name
+        hint: Name of concert
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: concert_date
+        label: Concert Date
+        hint: Date of concert
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: venue_name
+        label: Venue Name
+        hint: Name of venue
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: performing_artist
+        label: Performing Artist
+        hint: Name of artist or band
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: genre
+        label: Music Genre
+        hint: Select the genre
+        type: select_one
+        options:
+          - Rock
+          - Pop
+          - Hip Hop
+          - R and B
+          - Country
+          - Jazz
+          - Classical
+          - Electronic
+          - Metal
+          - Indie
+          - Other
+        required: true
+      - id: 10
+        name: musical_skill
+        label: Musical Skill
+        hint: Rate the musical skill
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 11
+        name: stage_presence
+        label: Stage Presence
+        hint: Rate the stage presence
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 12
+        name: audience_engagement
+        label: Audience Engagement
+        hint: Rate audience engagement
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 13
+        name: setlist_quality
+        label: Setlist Quality
+        hint: Rate the song selection
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 14
+        name: performance_length
+        label: Performance Length
+        hint: Rate the show length
+        type: select_one
+        options:
+          - Too Short
+          - Just Right
+          - Too Long
+        required: true
+      - id: 15
+        name: sound_mix
+        label: Sound Mix
+        hint: Rate the sound mixing
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 16
+        name: lighting_production
+        label: Lighting and Production
+        hint: Rate the production value
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 17
+        name: crowd_response
+        label: Crowd Response
+        hint: Rate the crowd energy
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 18
+        name: standout_performance
+        label: Standout Performance
+        hint: Which song or moment stood out
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could the artist improve
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: comparison_to_previous
+        label: Comparison to Previous Shows
+        hint: How does this compare to other shows
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: overall_rating
+        label: Overall Rating
+        hint: Overall concert rating
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 22
+        name: would_see_again
+        label: Would See Again
+        hint: Would you see this artist again
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 23
+        name: recommendation
+        label: Would Recommend
+        hint: Would you recommend this artist
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

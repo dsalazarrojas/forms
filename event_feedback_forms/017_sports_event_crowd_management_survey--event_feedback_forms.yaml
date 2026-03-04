@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_event_crowd_management_survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_concern
+      label: Safety Concerns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: flow_rating
+      label: flow rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_rating
+      label: safety rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: event_attended
+      label: Event Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_frequency
+      label: Event Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: spectator_flow
+      label: Spectator Flow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: crowd_density
+      label: Crowd Density
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: crowd_emotions
+      label: Crowd Emotions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: event_length
+      label: Event Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: event_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

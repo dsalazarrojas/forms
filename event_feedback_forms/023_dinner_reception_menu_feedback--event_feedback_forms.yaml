@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dinner Reception Menu Feedback
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_page_menu
+      label: Menu Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Too much salt''}'
+      - '{''id'': 2, ''label'': ''Too little salt''}'
+      - '{''id'': 3, ''label'': ''Just right''}'
+      required: true
+    - id: 3
+      name: main_page_service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 4
+      name: main_page_dish_rating
+      label: Overall Dish Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: main_page_additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

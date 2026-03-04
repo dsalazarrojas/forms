@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Candy Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quantity_donated
+      label: Quantity Donated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quantity_wanted
+      label: Quantity Wanted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In Person
+      - Mail
+      required: true
+    - id: 10
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

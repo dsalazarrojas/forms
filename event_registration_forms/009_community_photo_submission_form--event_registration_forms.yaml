@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Photo Submission Form
+    pages:
+    - id: 1
+      name: submission_intro_note
+      label: -- Share Your Community Photos --
+      hint: We love to see our events through your eyes!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photographer_email
+      label: Photographer Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: photographer_phone
+      label: Photographer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_event_title
+      label: Event or Activity Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: photo_date_taken
+      label: Date the Photo Was Taken
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: photo_location
+      label: Location of the Photo
+      hint: Where was this taken?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_caption_text
+      label: Photo Caption or Description
+      hint: Give us some context about the shot.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: people_in_photo_names
+      label: Names of People in the Photo
+      hint: If known - please list from left to right.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: permission_newsletter_check
+      label: Grant Permission for Newsletter Use?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: permission_social_media_check
+      label: Grant Permission for Social Media Use?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: photo_credit_intent
+      label: Would you like photo credit?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: photo_credit_format
+      label: How should the credit appear?
+      hint: e.g. Photo by John Doe.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ownership_certification_check
+      label: I certify that I am the owner of this photo.
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: terms_and_conditions_note
+      label: -- Terms and Conditions --
+      hint: By submitting - you grant the organization a non-exclusive license to
+        use the photo.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

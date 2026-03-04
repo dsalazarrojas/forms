@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Student Welcome Event Registration
+    pages:
+    - id: 1
+      name: user_input
+      label: New Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_programming_language
+      label: Student Programming Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_interests
+      label: Student Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_programming_experience
+      label: Student Programming Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_event_contribution
+      label: Student Event Contribution
+      hint: null
+      type: time
+      options: []
+      required: false

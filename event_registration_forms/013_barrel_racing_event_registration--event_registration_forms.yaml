@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barrel Racing Event Registration
+    pages:
+    - id: 1
+      name: rider_name
+      label: Rider Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Rider Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: age_division
+      label: Age Division
+      hint: Based on rider age
+      type: select_one
+      options:
+      - Youth - under 12
+      - Junior - 12 to 17
+      - Adult - 18 to 39
+      - Senior - 40 and over
+      required: true
+    - id: 10
+      name: horse_name
+      label: Horse Name
+      hint: Registered name of your horse
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: horse_breed
+      label: Horse Breed
+      hint: Breed of your horse
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: horse_registration
+      label: Horse Registration Number
+      hint: If registered with breed association
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: horse_color
+      label: Horse Color
+      hint: Primary color of your horse
+      type: select_one
+      options:
+      - Bay
+      - Chestnut
+      - Black
+      - Brown
+      - Palomino
+      - Buckskin
+      - Gray
+      - Roan
+      - Paint
+      - Other
+      required: true
+    - id: 14
+      name: event_division
+      label: Event Division
+      hint: Which division are you entering
+      type: select_one
+      options:
+      - Open
+      - Amateur
+      - Youth
+      - Senior
+      - Rookie
+      required: true
+    - id: 15
+      name: race_slots
+      label: Number of Race Slots
+      hint: How many runs do you want
+      type: select_one
+      options:
+      - 1 slot
+      - 2 slots
+      - 3 slots
+      - Unlimited - all day
+      required: true
+    - id: 16
+      name: membership_number
+      label: Association Membership Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_proof
+      label: Proof of Insurance
+      hint: Do you have current equine insurance
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, on file
+      - false
+      required: true
+    - id: 18
+      name: coggins_test
+      label: Coggins Test Date
+      hint: Must be within 12 months
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: vet_health_certificate
+      label: Veterinary Health Certificate
+      hint: Do you have a current health certificate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: stall_needed
+      label: Do You Need a Stall
+      hint: Overnight stabling
+      type: select_one
+      options:
+      - Yes, 1 stall
+      - Yes, 2 stalls
+      - No, trailering
+      required: true
+    - id: 21
+      name: camping_needed
+      label: Camping Accommodations
+      hint: Do you need camping
+      type: select_one
+      options:
+      - Yes, with hookups
+      - Yes, no hookups
+      - false
+      required: true
+    - id: 22
+      name: volunteer_interest
+      label: Willing to Volunteer
+      hint: Help run the event
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand the risks and release liability
+      type: select_one
+      options:
+      - I agree and sign
+      - I do not agree
+      required: true
+    - id: 24
+      name: medical_authorization
+      label: Medical Authorization
+      hint: Authorize emergency medical treatment
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay entry fees
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash at event
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

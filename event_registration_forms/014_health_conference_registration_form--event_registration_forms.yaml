@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Conference Registration Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: select_one
+      options:
+      - Cardiovascular Specialist
+      - Dentist
+      - General Practitioner
+      - Internist
+      - Pediatrician
+      - Psychologist
+      - Surgeon
+      - Urologist
+      required: false
+    - id: 7
+      name: informative_content
+      label: Informative Content
+      hint: This form collects some personal data. This personal data will only be
+        used to provide you with updates on our latest events, promotions, and services.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: content2
+      label: Content 2
+      hint: This form collects some personal data. This personal data will only be
+        used to provide you with updates on our latest events, promotions, and services.
+      type: text
+      options: []
+      required: false

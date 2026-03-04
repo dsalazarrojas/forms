@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Networking Event Attendee Registration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - Marketing
+      - Finance
+      - HR
+      - Law
+      - Other
+      required: false
+    - id: 5
+      name: preferences
+      label: Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_event
+      label: Confirm Event
+      hint: null
+      type: select_one
+      options:
+      - I have not attended any event
+      - I have attended one event
+      - I have attended two or more events
+      required: true
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

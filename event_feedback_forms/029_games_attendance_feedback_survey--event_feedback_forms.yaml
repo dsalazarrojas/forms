@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Games Attendance Feedback Survey
+    pages:
+    - id: 1
+      name: event_title
+      label: games_attendance_feedback_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: what_did_you_think
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_score
+      label: event_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: recommend
+      label: will_you_recommend_this_event
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: feedback_details
+      label: additional_feedback_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

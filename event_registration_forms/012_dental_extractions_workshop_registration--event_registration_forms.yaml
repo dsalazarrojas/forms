@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Extractions Workshop Registration
+    pages:
+    - id: 1
+      name: session_selection
+      label: Session Selection
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Full Day
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: terms_signed
+      label: Terms Signed
+      hint: Check here if you have read and agree to the terms and conditions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: workshop_session
+      label: Workshop Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: Duration of the session
+      type: select_multiple
+      options:
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      - 8 hours
+      required: false
+    - id: 10
+      name: number_of_delegates
+      label: Number of Delegates
+      hint: Number of delegates accompanying the registrant
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: Name of person submitting this form
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: Phone number of person submitting this form
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: Email address of person submitting this form
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_company
+      label: Submitted By Company
+      hint: Company name of person submitting this form
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_phone_number
+      label: Submitted By Phone Number
+      hint: Phone number of person submitting this form
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submitted_by_email_address
+      label: Submitted By Email Address
+      hint: Email address of person submitting this form
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submitted_by_company_info
+      label: Submitted By Company Information
+      hint: Company information of person submitting this form
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: submitted_by_designation
+      label: Submitted By Designation
+      hint: Designation of person submitting this form
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: session_end_date
+      label: Session End Date
+      hint: 'Null'
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: workshop_start_date
+      label: Workshop Start Date
+      hint: Date workshop will start
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: workshop_end_date
+      label: Workshop End Date
+      hint: Date workshop will end
+      type: date
+      options: []
+      required: false

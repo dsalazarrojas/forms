@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Permission Declaration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_event
+      label: time_of_event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: name_of_child
+      label: name_of_child
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_to_child
+      label: relationship_to_child
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

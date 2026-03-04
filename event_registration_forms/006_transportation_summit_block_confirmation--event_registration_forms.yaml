@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: transportation_summit_block_confirmation
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: block_details
+      label: Block Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Block 1''}'
+      - '{''id'': 2, ''label'': ''Block 2''}'
+      - '{''id'': 3, ''label'': ''Block 3''}'
+      required: false
+    - id: 3
+      name: attendees_details
+      label: Attendees Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: transportation_details
+      label: Transportation Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: group_participation
+      label: Group Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

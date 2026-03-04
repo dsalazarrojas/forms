@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: seminar_check_in_form
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: seminar_start_time
+      label: Seminar Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: seminar_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: seminar_topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true

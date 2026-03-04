@@ -1,0 +1,259 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Keynote Speaker Voting Form
+    pages:
+      - id: 1
+        name: voting_intro
+        label: Keynote Speaker Voting
+        hint: Vote for your favorite keynote speaker
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: Your Name
+        hint: Optional identification
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: voter_email
+        label: Email Address
+        hint: For confirmation
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: conference_name
+        label: Conference Name
+        hint: Event name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: conference_date
+        label: Conference Date
+        hint: When attended
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: attendee_type
+        label: Attendee Type
+        hint: Your role
+        type: select_one
+        options:
+          - General Attendee
+          - VIP Attendee
+          - Speaker
+          - Exhibitor
+          - Staff
+          - Media
+        required: true
+      - id: 7
+        name: voting_section
+        label: Voting Section
+        hint: Cast your votes
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: favorite_keynote
+        label: Favorite Keynote Speaker
+        hint: Who was your favorite
+        type: select_one
+        options:
+          - Opening Keynote Speaker
+          - Day 2 Keynote Speaker
+          - Closing Keynote Speaker
+          - Virtual Keynote Speaker
+          - Panel Keynote
+        required: true
+      - id: 9
+        name: speaker_name
+        label: Speaker Name
+        hint: If you remember
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: speaker_rating
+        label: Speaker Rating
+        hint: Rate the speaker
+        type: select_one
+        options:
+          - Outstanding
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: content_quality
+        label: Content Quality
+        hint: Rate the material
+        type: select_one
+        options:
+          - Outstanding
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: presentation_style
+        label: Presentation Style
+        hint: Rate delivery
+        type: select_one
+        options:
+          - Outstanding
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: engagement_level
+        label: Engagement Level
+        hint: How engaging was it
+        type: select_one
+        options:
+          - Very Engaging
+          - Engaging
+          - Neutral
+          - Somewhat Boring
+          - Very Boring
+        required: true
+      - id: 14
+        name: relevance_rating
+        label: Relevance Rating
+        hint: How relevant to your work
+        type: select_one
+        options:
+          - Very Relevant
+          - Relevant
+          - Somewhat Relevant
+          - Not Very Relevant
+          - Not Relevant
+        required: true
+      - id: 15
+        name: key_takeaways
+        label: Key Takeaways
+        hint: What did you learn
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: would_recommend_speaker
+        label: Would Recommend Speaker
+        hint: For future events
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 17
+        name: speaker_feedback
+        label: Speaker Feedback
+        hint: Comments for the speaker
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: what_worked_well
+        label: What Worked Well
+        hint: Strengths
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: Suggestions
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: topics_of_interest
+        label: Topics of Interest
+        hint: What to hear more about
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: future_speakers
+        label: Future Speaker Suggestions
+        hint: Who should we invite
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: format_preference
+        label: Format Preference
+        hint: How should keynotes be delivered
+        type: select_one
+        options:
+          - In Person Only
+          - Virtual Only
+          - Hybrid Both Options
+          - Pre-Recorded
+          - Live Interactive
+        required: false
+      - id: 23
+        name: session_length
+        label: Preferred Session Length
+        hint: Ideal duration
+        type: select_one
+        options:
+          - 30 Minutes
+          - 45 Minutes
+          - 60 Minutes
+          - 90 Minutes
+          - 2 Hours
+        required: false
+      - id: 24
+        name: interaction_preference
+        label: Interaction Preference
+        hint: Q and A style
+        type: select_one
+        options:
+          - Presentation Only
+          - Short Q and A
+          - Extended Q and A
+          - Audience Polling
+          - Interactive Workshop Style
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: vote_confirmation
+        label: Vote Confirmation
+        hint: Submit your vote
+        type: select_one
+        options:
+          - Submit Vote
+          - Cancel
+        required: true

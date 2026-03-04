@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_game_night_registration_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Participant email
+      hint: A valid email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Participant phone
+      hint: A valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event name
+      hint: The name of the event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: game_name
+      label: Game name
+      hint: The name of the game
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: game_type
+      label: Game type
+      hint: The type of game
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: game_date
+      label: Game date
+      hint: The date of the game
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: game_time
+      label: Game time
+      hint: The time of the game
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_start_date
+      label: Event start date
+      hint: The start date of the event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_start_time
+      label: Event start time
+      hint: The start time of the event
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_end_date
+      label: Event end date
+      hint: The end date of the event
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_end_time
+      label: Event end time
+      hint: The end time of the event
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: host_name
+      label: Host name
+      hint: The name of the host
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: host_email
+      label: Host email
+      hint: A valid email address
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: host_phone
+      label: Host phone
+      hint: A valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: game_details
+      label: Game details
+      hint: Additional game details
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: rules
+      label: Rules
+      hint: Rules for the game
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: rules_url
+      label: Rules URL
+      hint: URL for the game rules
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: participant_agreement
+      label: Participant agreement
+      hint: Participant agreement and waiver
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: participant_confirmation
+      label: Participant confirmation
+      hint: Participant confirmation
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: game_password
+      label: Game password
+      hint: A valid game password
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: player_count
+      label: Player count
+      hint: The number of players
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: max_player_count
+      label: Max player count
+      hint: The maximum number of players
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: game_password_required
+      label: Game password required
+      hint: If the game requires a password
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: game_password_hint
+      label: Game password hint
+      hint: A hint for the password
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_shifts
+      label: Volunteer Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 4
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: text
+      options: []
+      required: false

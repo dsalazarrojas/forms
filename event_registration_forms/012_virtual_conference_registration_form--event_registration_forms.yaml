@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Conference Registration Form
+    pages:
+    - id: 1
+      name: conference_details
+      label: Conference Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 4
+      name: attendee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attendee_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attendee_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attendee_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

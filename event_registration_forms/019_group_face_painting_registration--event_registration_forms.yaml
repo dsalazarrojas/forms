@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: group_face_painting_registration
+    pages:
+    - id: 1
+      name: group_face_painting_registration_form
+      label: group_face_painting_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_name
+      label: group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Event Type
+      - Face Painting Event
+      - Birthday Party
+      - School Event
+      - Themed Event
+      required: false
+    - id: 5
+      name: event_dates
+      label: preferred_event_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_venue
+      label: event_venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_children
+      label: number_of_children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_adults
+      label: number_of_adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_length
+      label: event_length
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 13
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: group_size
+      label: group_size
+      hint: null
+      type: select_one
+      options:
+      - Small Group
+      - Medium Group
+      - Large Group
+      required: false
+    - id: 17
+      name: special_requirements
+      label: special_requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_venue_details
+      label: event_venue_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_venue_address
+      label: event_venue_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_venue_city
+      label: event_venue_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_venue_state
+      label: event_venue_state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Florida
+      - Illinois
+      - Ohio
+      required: false
+    - id: 22
+      name: event_venue_postal_code
+      label: event_venue_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_equipment
+      label: special_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Paint
+      - Easel
+      - Paintbrush
+      - Paints
+      required: false
+    - id: 24
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: false

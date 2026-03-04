@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Messages And Souvenir Feedback
+    pages:
+    - id: 1
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: review
+      label: What did you think of your purchase?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo
+      label: Share a photo of your purchase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating2
+      label: How would you rate this souvenir?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: souvenir_description
+      label: What is the souvenir?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: Your Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: story
+      label: Share a story
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: drone_permission_form
+    pages:
+    - id: 1
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drone_type
+      label: drone_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: purpose_of_use
+      label: purpose_of_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location_details
+      label: location_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: local_authority
+      label: local_authority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: federal_authority
+      label: federal_authority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

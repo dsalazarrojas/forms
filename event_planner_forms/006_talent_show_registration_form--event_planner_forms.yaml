@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Show Registration Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Talent Show Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performer_name
+      label: performer_name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: performer_email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: performer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_type
+      label: performance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''singer'', ''value'': ''singer''}'
+      - '{''label'': ''dancer'', ''value'': ''dancer''}'
+      - '{''label'': ''musician'', ''value'': ''musician''}'
+      required: false
+    - id: 6
+      name: performance_date
+      label: performance_date
+      hint: Date and Time of the Performance
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: performance_time
+      label: performance_time
+      hint: Time of the Performance
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: show_name
+      label: show_name
+      hint: Name of the Show
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: Description of the Performance
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''singer'', ''value'': ''singer''}'
+      - '{''label'': ''dancer'', ''value'': ''dancer''}'
+      - '{''label'': ''musician'', ''value'': ''musician''}'
+      required: false
+    - id: 11
+      name: upload_attachment
+      label: upload_attachment
+      hint: Upload a video or image
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

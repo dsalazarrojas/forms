@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reunion Location Preference Survey
+    pages:
+    - id: 1
+      name: location_preference
+      label: What is your preferred reunion location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 2
+      name: attendance_likelihood
+      label: How likely are you to attend
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: start_date
+      label: What date works best for the reunion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: What date works best for the reunion to end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Do you have any notes?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Your email address
+      hint: Enter your email address if you want to receive updates
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: false

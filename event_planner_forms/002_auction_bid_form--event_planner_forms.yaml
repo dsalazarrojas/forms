@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Bid Form
+    pages:
+    - id: 1
+      name: bidder_full_name
+      label: Bidder Full Name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: bidder_email
+      label: Email Address
+      hint: We will send bid confirmations to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: bidder_phone
+      label: Phone Number
+      hint: For urgent bid notifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bidder_id_number
+      label: Bidder ID Number
+      hint: Your assigned bidder registration number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: auction_event_name
+      label: Auction Event Name
+      hint: Name of the auction you are participating in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: auction_date
+      label: Auction Date
+      hint: Date of the auction event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: lot_number
+      label: Lot Number
+      hint: Item lot number you are bidding on
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_name
+      label: Item Name
+      hint: Name or description of the auction item
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bid_amount
+      label: Bid Amount
+      hint: Enter your bid amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: maximum_bid
+      label: Maximum Bid Limit
+      hint: Optional maximum amount you are willing to bid
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bid_type
+      label: Bid Type
+      hint: Select the type of bid you are placing
+      type: select_one
+      options:
+      - Standard Bid
+      - Proxy Bid
+      - Online Bid
+      - Phone Bid
+      - Written Bid
+      required: true
+    - id: 12
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay if you win?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Cash
+      - Check
+      required: true
+    - id: 13
+      name: terms_conditions_agreement
+      label: Terms and Conditions Agreement
+      hint: Do you agree to the auction terms and conditions?
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 14
+      name: buyer_premium_acknowledgment
+      label: Buyer Premium Acknowledgment
+      hint: Acknowledge understanding of buyer premium fees
+      type: select_one
+      options:
+      - Yes, I understand the buyer premium applies
+      - No, I need clarification
+      required: true
+    - id: 15
+      name: shipping_required
+      label: Shipping Required
+      hint: Do you need the item shipped?
+      type: select_one
+      options:
+      - Yes, shipping required
+      - No, I will pick up in person
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions or comments
+      type: text
+      options: []
+      required: false

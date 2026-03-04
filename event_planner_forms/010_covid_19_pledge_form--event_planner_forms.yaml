@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pledge Form
+    pages:
+    - id: 1
+      name: pledger_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pledger_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: pledger_org
+      label: Organization or Team Name
+      hint: e.g. ABC Corp, Smith Family
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pledge_intro
+      label: -- Our Commitment to Safety --
+      hint: By signing this pledge, you agree to follow these community health guidelines
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pledge_mask
+      label: I pledge to wear a mask in public spaces
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 6
+      name: pledge_distance
+      label: I pledge to maintain 6 feet of social distance
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 7
+      name: pledge_hands
+      label: I pledge to wash or sanitize my hands frequently
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: pledge_stay_home
+      label: I pledge to stay home if I am feeling unwell
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 9
+      name: pledge_encourage
+      label: I pledge to encourage others to follow these safety protocols
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 10
+      name: commitment_statement
+      label: Personal Commitment Statement
+      hint: Add a personal message about why you are taking this pledge
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pledge_date
+      label: Date of Pledge
+      hint: null
+      type: date
+      options: []
+      required: true

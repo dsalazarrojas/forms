@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Training Registration Intake Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: training_details
+      label: Training Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Marketing'', ''label'': ''Marketing''}'
+      - '{''id'': 2, ''value'': ''Sales'', ''label'': ''Sales''}'
+      - '{''id'': 3, ''value'': ''Support'', ''label'': ''Support''}'
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''John Smith'', ''label'': ''John Smith''}'
+      - '{''id'': 2, ''value'': ''Jane Doe'', ''label'': ''Jane Doe''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false

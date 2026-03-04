@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Stage Design Feedback Questionnaire
+    pages:
+    - id: 1
+      name: stage_design
+      label: Event Stage Design Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stage_layout
+      label: Stage Layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stage_features
+      label: Stage Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stage_design_feedback
+      label: Stage Design Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_stage_designer
+      label: Event Stage Designer
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Not Satisfied''}'
+      - '{''name'': ''Somewhat Satisfied''}'
+      - '{''name'': ''Neutral''}'
+      - '{''name'': ''Somewhat Satisfied''}'
+      - '{''name'': ''Satisfied''}'
+      - '{''name'': ''Very Satisfied''}'
+      required: false
+    - id: 9
+      name: event_stager
+      label: Event Stager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Not Available''}'
+      - '{''name'': ''Present''}'
+      - '{''name'': ''Absent''}'
+      required: false

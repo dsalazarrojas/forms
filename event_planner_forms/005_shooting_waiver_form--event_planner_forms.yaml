@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shooting Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_or_guardian_phone
+      label: Parent or Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_or_guardian_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_dob_year
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: parent_concurrence
+      label: Parent/Guardian Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I give my consent
+      - Not Applicable
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter Emergency Contact Name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone
+      hint: Enter Emergency Contact Phone Number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_medical_conditions
+      label: Participant Medical Conditions
+      hint: List of any pre-existing medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_medical_notes
+      label: Participant Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participant_medical_authorization
+      label: Participant Medical Authorization
+      hint: null
+      type: select_one
+      options:
+      - I have a medical condition that may impact my ability to participate
+      - I do not have a medical condition that may impact my ability to participate
+      required: false
+    - id: 13
+      name: participant_medical_procedure
+      label: Participant Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - I consent to treatment or surgery
+      - I do not consent to treatment or surgery
+      required: false
+    - id: 14
+      name: participant_medical_insurance
+      label: Participant Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - I have health insurance
+      - I do not have health insurance
+      required: false
+    - id: 15
+      name: participant_medical_authorization_provider
+      label: Participant Medical Authorization Provider
+      hint: Name of the authorized medical provider
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parent_medical_authorization
+      label: Parent or Guardian Medical Authorization
+      hint: null
+      type: select_one
+      options:
+      - I have medical authorization
+      - Not Applicable
+      required: false
+    - id: 17
+      name: parent_medical_notes
+      label: Parent or Guardian Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: parent_medical_authorization_provider
+      label: Parent or Guardian Medical Authorization Provider
+      hint: Name of the authorized medical provider
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parent_medical_insurance
+      label: Parent or Guardian Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - I have health insurance
+      - I do not have health insurance
+      required: false

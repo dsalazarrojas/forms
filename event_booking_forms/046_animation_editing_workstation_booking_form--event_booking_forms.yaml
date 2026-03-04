@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Editing Workstation Booking Form
+    pages:
+    - id: 1
+      name: user_full_name
+      label: User Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department_team_name
+      label: Department or Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: workstation_id_selection
+      label: Workstation ID
+      hint: Select the specific station you wish to book
+      type: select_one
+      options:
+      - WS-01 - High-end Rendering
+      - WS-02 - 2D Animation Focus
+      - WS-03 - 3D Modeling Focus
+      - WS-04 - Compositing Station
+      - WS-05 - General Purpose
+      required: true
+    - id: 4
+      name: preferred_booking_date
+      label: Preferred Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: booking_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: booking_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: software_requirements_list
+      label: Software Requirements
+      hint: Select all tools you need pre-loaded
+      type: select_multiple
+      options:
+      - Adobe Creative Cloud
+      - Autodesk Maya
+      - Toon Boom Harmony
+      - Maxon Cinema 4D
+      - Foundry Nuke
+      required: false
+    - id: 8
+      name: project_name_billing
+      label: Project Name
+      hint: For internal resource tracking
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: it_support_needed
+      label: Do you require technical support during setup?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Support required
+      - No - Self-sufficient
+      required: true
+    - id: 10
+      name: cleaning_agreement_status
+      label: Agreement to Clean Workstation After Use
+      hint: I agree to leave the station tidy for the next user
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

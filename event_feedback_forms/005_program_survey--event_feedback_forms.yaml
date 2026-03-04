@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Survey
+    pages:
+    - id: 1
+      name: program_survey_form_title
+      label: Program Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_survey_form_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: program_survey_form_description
+      label: Program Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_survey_form_rating
+      label: Rating (1-5)
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': ''1''}'
+      - '{''label'': 2, ''value'': ''2''}'
+      - '{''label'': 3, ''value'': ''3''}'
+      - '{''label'': 4, ''value'': ''4''}'
+      - '{''label'': 5, ''value'': ''5''}'
+      required: false
+    - id: 5
+      name: program_survey_form_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

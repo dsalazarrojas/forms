@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Arrival Check In Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Performer Name
+      hint: Stage name or legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_id
+      label: Artist ID or Confirmation Number
+      hint: Reference number for this event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: performance_type
+      label: Performance Type
+      hint: What is your artistic discipline?
+      type: select_one
+      options:
+      - Musician
+      - Dancer
+      - Comedian
+      - Actor
+      - Magician
+      - DJ
+      - Visual Artist
+      - Installation Artist
+      - Other Performer
+      required: true
+    - id: 5
+      name: performance_time
+      label: Scheduled Performance Time
+      hint: When are you scheduled to perform?
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Check-In Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: check_in_date
+      label: Check-In Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: check_in_time
+      label: Actual Check-In Time
+      hint: What time did you arrive?
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: arrival_status
+      label: Arrival Status
+      hint: Are you on time, early, or late?
+      type: select_one
+      options:
+      - Early (more than 30 mins)
+      - On Time (within 30 mins)
+      - Slightly Late (30-60 mins)
+      - Very Late (over 1 hour)
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: equipment_arriving
+      label: Will Equipment Be Arriving Separately?
+      hint: Is your technical equipment coming with you?
+      type: select_one
+      options:
+      - Equipment arriving with me
+      - Equipment arriving separately
+      - Expecting equipment to be provided
+      - No equipment needed
+      required: true
+    - id: 12
+      name: equipment_status
+      label: Equipment Arrival Status
+      hint: When is your equipment expected to arrive?
+      type: select_one
+      options:
+      - Already here
+      - Within 30 minutes
+      - Within 1 hour
+      - Within 2 hours
+      - TBD
+      required: false
+    - id: 13
+      name: parking_assigned
+      label: Parking Location Assigned
+      hint: Where should you park?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_4
+      label: -- Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dressing_room
+      label: Dressing Room Assignment
+      hint: Has a dressing room been assigned?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accommodation_needs
+      label: Special Accommodation Needs
+      hint: Any specific requirements?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rider_provided
+      label: Have You Provided Your Rider/Requirements?
+      hint: Technical and hospitality specifications
+      type: select_one
+      options:
+      - Yes, already submitted
+      - Will provide now
+      - No rider needed
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: health_declaration
+      label: Health and Safety Declaration
+      hint: Confirm you are fit to perform
+      type: select_one
+      options:
+      - Yes, I am healthy and ready
+      - I have minor concerns
+      - I have significant concerns
+      required: true
+    - id: 20
+      name: health_details
+      label: If Any Concerns, Please Describe
+      hint: Details about health or safety concerns
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Person to contact in emergency
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: staffing_contact
+      label: Event Staff Member Assigned
+      hint: Name of your point person
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: Any other information for the team
+      type: text
+      options: []
+      required: false

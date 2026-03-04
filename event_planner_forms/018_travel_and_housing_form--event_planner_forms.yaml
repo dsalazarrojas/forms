@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel And Housing Form
+    pages:
+    - id: 1
+      name: summer_camp_travel_details
+      label: Summer Camp Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: camp_duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: camp_dates
+      label: dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: camp_location
+      label: camp_location
+      hint: null
+      type: select_one
+      options:
+      - Summer Camp 1
+      - Summer Camp 2
+      required: false
+    - id: 5
+      name: camper_name
+      label: camper_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: camper_age
+      label: camper_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: camper_parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: camper_phone
+      label: camper_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: camper_email
+      label: camper_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: housing_type
+      label: housing_type
+      hint: null
+      type: select_multiple
+      options:
+      - Camp Housing 1
+      - Camp Housing 2
+      - Other
+      required: false
+    - id: 11
+      name: housing_details
+      label: housing_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_housing_details
+      label: other_housing_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false

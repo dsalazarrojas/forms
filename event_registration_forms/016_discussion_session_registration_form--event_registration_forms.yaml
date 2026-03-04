@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: discussion_session_registration_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Enter Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discussion_session_details
+      label: Discussion Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatfred''}'
+      - '{''id'': 3, ''name'': ''chatjulie''}'
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_start_time
+      label: Participant Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_end_time
+      label: Participant End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: participant_reg_date
+      label: Participant Reg Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: super_bowl_party_rsvp
+    pages:
+    - id: 1
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attending
+      label: Attending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: guest_list
+      label: Guests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: party_details_1
+      label: Party Details 1
+      hint: null
+      type: text
+      options: []
+      required: false

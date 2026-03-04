@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Event Registration Form
+    pages:
+    - id: 1
+      name: event_registration_form_fields
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: Enter name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_details
+      label: event details
+      hint: Briefly describe the event.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_option
+      label: Select Option
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      - '{''id'': 4, ''label'': ''Option 4''}'
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false

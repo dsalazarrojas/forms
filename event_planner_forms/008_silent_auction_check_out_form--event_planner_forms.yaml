@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Silent Auction Check Out Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: (optional)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: auction_item_name
+      label: auction_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: bid_amount
+      label: Bid Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bid_amount_currency
+      label: Bid Amount Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method_other
+      label: Other
+      hint: Specify the payment method used
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_organization
+      label: Participant Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_relationship
+      label: Relationship to Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_name_of_contact
+      label: Name of Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_received
+      label: Payment Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method_check
+      label: Check
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Check''}'
+      - '{''id'': 2, ''name'': ''Credit Card''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      - '{''id'': 4, ''name'': ''Bank Transfer''}'
+      - '{''id'': 5, ''name'': ''PayPal''}'
+      required: false
+    - id: 19
+      name: check_number
+      label: Check Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: date_of_payment
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: amount_received
+      label: Amount Received
+      hint: $0.00
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tax_deduction
+      label: Tax Deduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tax_deduction_amount
+      label: Tax Deduction Amount
+      hint: 0.0
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: participant_donor_id
+      label: Participant Donor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: participant_fees
+      label: Participant Fees
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mug Design Contest Submission
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      - White
+      required: true
+    - id: 5
+      name: design_type
+      label: Design Type
+      hint: null
+      type: select_multiple
+      options:
+      - Graphic
+      - Illustration
+      - Text
+      - Photography
+      - Other
+      required: true
+    - id: 6
+      name: design_description
+      label: Design Description
+      hint: null
+      type: text
+      options: []
+      required: true

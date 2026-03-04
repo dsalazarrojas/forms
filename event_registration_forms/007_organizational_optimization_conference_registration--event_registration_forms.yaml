@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Optimization Conference Registration
+    pages:
+    - id: 1
+      name: session_choices_1
+      label: Session Choices
+      hint: null
+      type: select_multiple
+      options:
+      - Choice A
+      - Choice B
+      - Choice C
+      required: false
+    - id: 2
+      name: session_choices_2
+      label: Session Choices 2
+      hint: null
+      type: select_multiple
+      options:
+      - Choice A
+      - Choice B
+      - Choice C
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_one
+      options:
+      - Requirement A
+      - Requirement B
+      - Requirement C
+      required: false
+    - id: 9
+      name: attendee_additional_info
+      label: Attendee Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

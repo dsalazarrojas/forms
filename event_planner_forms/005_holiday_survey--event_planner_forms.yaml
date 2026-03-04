@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: holiday_survey
+    pages:
+    - id: 1
+      name: user_info
+      label: user info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: travel dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_type
+      label: travel type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: travel_location
+      label: travel location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_duration
+      label: travel duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: transportation
+      label: transportation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: special_requests_2
+      label: special requests 2
+      hint: null
+      type: text
+      options: []
+      required: false

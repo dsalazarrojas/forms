@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Registration Form With 2Checkout
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer name
+      hint: Name of person registering tickets
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email used for payment and receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: tickets_requested
+      label: Tickets requested
+      hint: Number of tickets to process
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: package_type
+      label: Package type
+      hint: Select the ticket package
+      type: select_one
+      options:
+      - Standard
+      - VIP
+      - Early bird
+      required: true
+    - id: 5
+      name: payment_processor
+      label: Payment processor
+      hint: 2Checkout integration details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: billing_name
+      label: Billing name
+      hint: As it appears on credit card
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_email
+      label: Billing email
+      hint: For transaction receipts
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: invoice_reference
+      label: Invoice reference
+      hint: Internal reference for accounting
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special instructions
+      hint: Any venue or delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation_note
+      label: Confirmation note
+      hint: Read only instructions about payment processing time
+      type: note
+      options: []
+      required: false

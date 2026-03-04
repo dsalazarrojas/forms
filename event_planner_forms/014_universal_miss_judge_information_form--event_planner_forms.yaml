@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Universal Miss Judge Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: judge_number
+      label: Judge Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year_judged
+      label: Year Judged
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: select_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pageant Director'', ''value'': 1}'
+      - '{''label'': ''Judge'', ''value'': 2}'
+      - '{''label'': ''Emcee'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: select_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Beauty'', ''value'': 1}'
+      - '{''label'': ''Talent'', ''value'': 2}'
+      - '{''label'': ''Evening Wear'', ''value'': 3}'
+      - '{''label'': ''Swimsuits'', ''value'': 4}'
+      - '{''label'': ''Interview'', ''value'': 5}'
+      required: false
+    - id: 10
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_judged
+      label: Date Judged
+      hint: none
+      type: date
+      options: []
+      required: false

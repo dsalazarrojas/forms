@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comic Convention Signup Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Full Name
+      hint: Legal name for badge printing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: badge_name
+      label: Badge Name
+      hint: Name to display on your convention badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For registration confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for event notifications
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_ticket_selection
+      label: -- Ticket Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your admission type
+      type: select_one
+      options:
+      - Single Day - Friday
+      - Single Day - Saturday
+      - Single Day - Sunday
+      - Weekend Pass
+      - VIP Pass
+      - Platinum VIP
+      required: true
+    - id: 8
+      name: quantity
+      label: Number of Tickets
+      hint: How many tickets do you need
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_header_attendee_type
+      label: -- Attendee Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attendee_category
+      label: Attendee Category
+      hint: What best describes you
+      type: select_one
+      options:
+      - General Attendee
+      - Cosplayer
+      - Vendor/Exhibitor
+      - Press/Media
+      - Industry Professional
+      - Guest
+      required: true
+    - id: 11
+      name: cosplay_contest
+      label: Cosplay Contest Participation
+      hint: Will you participate in the cosplay contest
+      type: select_one
+      options:
+      - Yes Register Me
+      - No Not Interested
+      - Maybe
+      required: true
+    - id: 12
+      name: section_header_interests
+      label: -- Interests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: favorite_genres
+      label: Favorite Genres
+      hint: Select your interests
+      type: select_multiple
+      options:
+      - Superheroes
+      - Anime/Manga
+      - Science Fiction
+      - Fantasy
+      - Horror
+      - Gaming
+      - Comics
+      - Movies/TV
+      required: true
+    - id: 14
+      name: panels_interest
+      label: Panels of Interest
+      hint: What type of panels interest you
+      type: select_multiple
+      options:
+      - Artist Alley
+      - Celebrity Q&A
+      - Industry Panels
+      - Workshops
+      - Screenings
+      - Gaming Tournaments
+      - Cosplay Workshops
+      required: true
+    - id: 15
+      name: section_header_accommodations
+      label: -- Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accommodations
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Sign Language Interpreter
+      - Service Animal
+      - Other
+      required: true
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For VIP events with catering
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Other
+      required: false
+    - id: 18
+      name: section_header_merchandise
+      label: -- Merchandise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For convention swag bag
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: false
+    - id: 20
+      name: interested_merchandise
+      label: Interested in Merchandise
+      hint: Will you purchase convention merchandise
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably
+      - Not Sure
+      - Probably Not
+      - false
+      required: false
+    - id: 21
+      name: section_header_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 23
+      name: promo_code
+      label: Promo Code
+      hint: Enter discount code if available
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you learn about this convention
+      type: select_one
+      options:
+      - Social Media
+      - Friend Referral
+      - Website
+      - Advertisement
+      - Previous Attendance
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

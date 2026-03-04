@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bounce House Permission Slip
+    pages:
+    - id: 1
+      name: guardian_name
+      label: Guardian name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_name
+      label: Child name
+      hint: Full name of child attending
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_age
+      label: Child age
+      hint: Age in years
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact number
+      hint: Phone for urgent contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: allergies_or_conditions
+      label: Allergies or medical conditions
+      hint: Note any relevant health details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: activity_consent
+      label: Activity consent
+      hint: Consent to participate in bounce house activities
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 7
+      name: photo_permission
+      label: Photo permission
+      hint: Allow event photos to be used for promotion
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: signature_email
+      label: Signature confirmation email
+      hint: Email to confirm permission submission
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Experience Feedback Survey
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_level
+      label: Event Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Beginner'', ''value'': ''Beginner''}'
+      - '{''id'': 2, ''name'': ''Intermediate'', ''value'': ''Intermediate''}'
+      - '{''id'': 3, ''name'': ''Advanced'', ''value'': ''Advanced''}'
+      required: false
+    - id: 5
+      name: session_length_value
+      label: Session Length Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

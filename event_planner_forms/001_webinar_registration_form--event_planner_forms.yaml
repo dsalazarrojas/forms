@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: JobTitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title_manager
+      label: JobTitleManager
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Director
+      - Team Lead
+      required: false
+    - id: 9
+      name: manager_name
+      label: ManagerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: ManagerPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: ManagerEmail
+      hint: null
+      type: email
+      options: []
+      required: false

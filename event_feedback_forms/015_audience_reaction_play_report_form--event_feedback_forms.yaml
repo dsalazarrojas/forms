@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audience Reaction Play Report Form
+    pages:
+    - id: 1
+      name: section_performance
+      label: -- Performance Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: play_title
+      label: Play Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: performance_time
+      label: Performance Time
+      hint: Matinee or Evening?
+      type: select_one
+      options:
+      - Matinee
+      - Evening
+      - Other
+      required: true
+    - id: 5
+      name: house_size
+      label: Estimated House Size
+      hint: Approximate number of audience members
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_reactions
+      label: -- Audience Reaction Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_mood
+      label: General Mood of the Audience
+      hint: e.g., Enthusiastic, Quiet, Attentive, Distracted
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: laugh_response
+      label: Notable Laugh Responses
+      hint: Which scenes got the most laughs?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: applause_quality
+      label: Quality of Applause
+      hint: null
+      type: select_one
+      options:
+      - Sustained and Loud
+      - Polite and Average
+      - Weak
+      - Standing Ovation
+      required: true
+    - id: 10
+      name: quiet_moments
+      label: Significant Quiet Moments
+      hint: Were they engaged or bored?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_technical
+      label: -- Technical Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: technical_issues_noted
+      label: Any technical issues that affected the audience?
+      hint: e.g., Audio feedback, lighting cues
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: late_arrivals_impact
+      label: Impact of Late Arrivals
+      hint: How disruptive were they?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_observations
+      label: Other Performance Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: Your Name
+      type: text
+      options: []
+      required: true

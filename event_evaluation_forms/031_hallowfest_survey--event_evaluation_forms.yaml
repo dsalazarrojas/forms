@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hallowfest Survey
+    pages:
+    - id: 1
+      name: festival_frequency
+      label: How often do you attend
+      hint: null
+      type: select_one
+      options:
+      - Halloween Festival
+      - Summer Festival
+      - Never
+      - Rarely
+      - Occasionally
+      - Always
+      required: false
+    - id: 2
+      name: favorite_halloween_charachter
+      label: Favorite Halloween character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: best_halloween_activity
+      label: Best Halloween activity
+      hint: null
+      type: select_multiple
+      options:
+      - Pumpkin Carving
+      - Trick or Treat
+      - Costume Party
+      - Attending a Horror Movie
+      required: false
+    - id: 4
+      name: attended_hallowfest_event
+      label: Attended Hallowfest
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: best_hallowfest_food
+      label: Best food at Hallowfest
+      hint: null
+      type: select_one
+      options:
+      - Candy
+      - Donuts
+      - Pumpkin Pie
+      - Sausage
+      required: false
+    - id: 6
+      name: hallowfest_ambiance
+      label: How would you describe the ambiance
+      hint: null
+      type: select_one
+      options:
+      - Scary
+      - Fun
+      - Exciting
+      - Peaceful
+      - Calming
+      required: false
+    - id: 7
+      name: hallowfest_suggestion
+      label: Suggestion for Hallowfest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hallowfest_rating
+      label: Rate Hallowfest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hallowfest_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attended_other_event
+      label: Attended other Hallowfest event
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

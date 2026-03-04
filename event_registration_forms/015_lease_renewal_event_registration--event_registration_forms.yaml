@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_renewal_event_registration
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: attendee_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: question_1
+      label: What type of event is this?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lease Renewal Event''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Event''}'
+      required: true
+    - id: 8
+      name: question_2
+      label: How many guests are you planning to bring?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      required: true
+    - id: 9
+      name: question_3
+      label: Are you planning on staying overnight?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true

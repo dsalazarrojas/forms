@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibitor Badge And Shipping Form
+    pages:
+    - id: 1
+      name: exhibitor_badge_details
+      label: exhibitor_badge_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: shipping_country
+      label: shipping_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: shipping_address_1
+      label: shipping_address_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_address_2
+      label: shipping_address_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_zip_code
+      label: shipping_zip_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_country_code
+      label: shipping_country_code
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

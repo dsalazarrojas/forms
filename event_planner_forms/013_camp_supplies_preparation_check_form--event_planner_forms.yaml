@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Supplies Preparation Check Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: cabin_assignment
+      label: Cabin Assignment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone
+      label: Parent Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_clothing
+      label: -- Clothing Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shorts_count
+      label: Number of Shorts Packed
+      hint: Recommended 4-5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: t_shirts_count
+      label: Number of T-Shirts Packed
+      hint: Recommended 5-7
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: socks_count
+      label: Number of Socks Packed
+      hint: Recommended 7+ pairs
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: underwear_count
+      label: Number of Underwear Packed
+      hint: Recommended 7+ pairs
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pajamas_packed
+      label: Pajamas
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: jacket_packed
+      label: Light Jacket or Hoodie
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: rain_gear_packed
+      label: Rain Jacket or Poncho
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: swimsuit_packed
+      label: Swimsuit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_personal_items
+      label: -- Personal Care Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: toiletries_packed
+      label: Toiletries (toothbrush, toothpaste, soap)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: medications_packed
+      label: Medications and First Aid Items
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 19
+      name: sunscreen_packed
+      label: Sunscreen
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: insect_repellent_packed
+      label: Insect Repellent
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: section_footwear
+      label: -- Footwear --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: hiking_boots_packed
+      label: Hiking Boots or Athletic Shoes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: water_shoes_packed
+      label: Water Shoes or Sandals
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: section_additional
+      label: -- Additional Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: flashlight_packed
+      label: Flashlight with Extra Batteries
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

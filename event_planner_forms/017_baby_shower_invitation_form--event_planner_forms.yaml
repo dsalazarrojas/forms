@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower Invitation Form
+    pages:
+    - id: 1
+      name: host_name
+      label: Host Name
+      hint: Who is hosting the shower
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: host_email
+      label: Host Email
+      hint: Contact email for RSVPs
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: host_phone
+      label: Host Phone
+      hint: Contact number for questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: honoree_name
+      label: Honoree Name
+      hint: Name of expectant parent
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partner_name
+      label: Partner Name
+      hint: Name of partner if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: baby_gender
+      label: Baby Gender
+      hint: Is gender known or surprise
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - Twins or Multiples
+      - Surprise
+      required: true
+    - id: 7
+      name: shower_date
+      label: Shower Date
+      hint: Date of celebration
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: shower_time
+      label: Shower Time
+      hint: Start and end time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: shower_location_name
+      label: Location Name
+      hint: Venue name or home
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shower_address
+      label: Full Address
+      hint: Street address of venue
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shower_city_state
+      label: City and State
+      hint: City, state, and ZIP
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rsvp_deadline
+      label: RSVP Deadline
+      hint: Date for responses
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rsvp_method
+      label: RSVP Method
+      hint: How should guests respond
+      type: select_multiple
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Online form
+      - Mail response card
+      required: true
+    - id: 14
+      name: gift_registry
+      label: Gift Registry
+      hint: Where are parents registered
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dress_code
+      label: Dress Code
+      hint: Any specific attire requested
+      type: select_one
+      options:
+      - Casual
+      - Semi-formal
+      - Formal
+      - Themed
+      - No dress code
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Dietary needs, accessibility, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_guests
+      label: Additional Guests Policy
+      hint: Can guests bring plus ones
+      type: select_one
+      options:
+      - Invitation is for named guests only
+      - Plus ones welcome
+      - Children welcome
+      - Adults only
+      required: true
+    - id: 18
+      name: parking_info
+      label: Parking Information
+      hint: Any parking instructions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: message_from_host
+      label: Personal Message
+      hint: Special note to include
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: invitation_style
+      label: Invitation Style Preference
+      hint: Select design theme
+      type: select_one
+      options:
+      - Classic and Elegant
+      - Fun and Playful
+      - Modern and Minimal
+      - Rustic
+      - Floral
+      - Character Theme
+      required: true

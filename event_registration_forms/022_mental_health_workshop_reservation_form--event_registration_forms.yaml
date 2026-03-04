@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_workshop_reservation_form
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: workshop_title
+      label: Workshop Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_start_date
+      label: Workshop Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_end_date
+      label: Workshop End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - options_1
+      - options_2
+      - options_3
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

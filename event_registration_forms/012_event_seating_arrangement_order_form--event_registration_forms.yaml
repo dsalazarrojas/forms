@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Seating Arrangement Order Form
+    pages:
+    - id: 1
+      name: seating_preferences
+      label: Seating preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: table_number
+      label: table_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: seating_priority
+      label: Seating priority
+      hint: If any
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

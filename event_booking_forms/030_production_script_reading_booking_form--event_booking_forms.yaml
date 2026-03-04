@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: production_script_reading_booking_form
+    pages:
+    - id: 1
+      name: project
+      label: Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: true
+    - id: 3
+      name: script
+      label: Script
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: script_status
+      label: Script Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - In Progress
+      - Completed
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reading_time
+      label: Reading Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: script_files
+      label: Script Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: booking_person
+      label: Booking Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: booking_email
+      label: Booking Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: booking_phone
+      label: Booking Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: project_tags
+      label: Project Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_category
+      label: Project Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: booking_notes
+      label: Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: script_version
+      label: Script Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: production_contact
+      label: Production Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: production_notes
+      label: Production Notes
+      hint: null
+      type: note
+      options: []
+      required: false

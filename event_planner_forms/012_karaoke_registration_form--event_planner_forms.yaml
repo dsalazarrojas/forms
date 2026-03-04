@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Karaoke Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Enter Registrant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: song_request
+      label: Song Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: song_request_additional_info
+      label: Song Request Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Selected Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

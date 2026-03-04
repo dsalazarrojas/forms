@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Planning Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: What is the event called
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Worship Service
+      - Bible Study
+      - Youth Event
+      - Community Outreach
+      - Fundraiser
+      - Social Gathering
+      - Conference
+      - Retreat
+      - Other
+      required: true
+    - id: 3
+      name: event_organizer
+      label: Event Organizer Name
+      hint: Primary person responsible
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: Best estimate
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: venue_location
+      label: Event Location
+      hint: Where will it be held
+      type: select_one
+      options:
+      - Main Sanctuary
+      - Fellowship Hall
+      - Conference Room
+      - Outdoor Grounds
+      - Off-site Location
+      required: true
+    - id: 11
+      name: budget_required
+      label: Estimated Budget Needed
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: volunteers_needed
+      label: How Many Volunteers Are Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: volunteer_roles
+      label: What Volunteer Roles Are Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Setup Crew
+      - Registration
+      - Ushers
+      - Food Service
+      - Cleanup Crew
+      - Technical Support
+      - Security
+      - Childcare
+      required: true
+    - id: 14
+      name: equipment_needed
+      label: Equipment Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sound System
+      - Projector
+      - Microphones
+      - Tables
+      - Chairs
+      - Decorations
+      - Cooking Equipment
+      - None
+      required: true
+    - id: 15
+      name: catering_needed
+      label: Will Food Be Served
+      hint: null
+      type: select_one
+      options:
+      - Yes, full meal
+      - Yes, light refreshments
+      - Yes, potluck style
+      - No food needed
+      required: true
+    - id: 16
+      name: marketing_needed
+      label: Marketing Support Needed
+      hint: Promotion assistance
+      type: select_one
+      options:
+      - Yes, need bulletin announcement
+      - Yes, need social media posts
+      - Yes, need email blast
+      - No, we will handle it
+      required: true
+    - id: 17
+      name: security_concerns
+      label: Any Security Considerations
+      hint: Special security needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_status
+      label: Leadership Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending approval
+      - Needs discussion
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

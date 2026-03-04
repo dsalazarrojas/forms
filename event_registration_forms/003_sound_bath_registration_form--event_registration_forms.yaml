@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sound Bath Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_health
+      label: Attendee Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Sound Bath''}'
+      - '{''id'': 1, ''label'': ''Reiki''}'
+      required: true
+    - id: 7
+      name: sound_frequency
+      label: Sound Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''label'': ''432 Hz''}'
+      - '{''id'': 1, ''label'': ''528 Hz''}'
+      - '{''id'': 2, ''label'': ''5280 Hz''}'
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''PayPal''}'
+      - '{''id'': 1, ''label'': ''Stripe''}'
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false

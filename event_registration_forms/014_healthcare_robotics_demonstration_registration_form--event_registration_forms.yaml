@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Robotics Demonstration Registration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: university_name
+      label: university_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - Chief
+      - Researcher
+      - Educator
+      - Patient
+      required: true
+    - id: 7
+      name: session_preferences
+      label: session_preferences
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - All
+      required: false
+    - id: 8
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false

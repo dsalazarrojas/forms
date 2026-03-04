@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Class Reservation Form
+    pages:
+    - id: 1
+      name: dog_name
+      label: Dog Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_class
+      label: Training Class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: training_class_additional_info
+      label: Additional Class Info
+      hint: null
+      type: text
+      options: []
+      required: false

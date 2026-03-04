@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Leaders Event Registration Form
+    pages:
+    - id: 1
+      name: leader_first_name
+      label: Leader First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: leader_last_name
+      label: Leader Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Camp or organization name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Leadership Experience
+      hint: Number of years
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - Over 10 years
+      required: true
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Where is the event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: number_of_campers
+      label: Number of Campers You Lead
+      hint: Approximate number
+      type: select_one
+      options:
+      - 1-10 campers
+      - 11-25 campers
+      - 26-50 campers
+      - 51-100 campers
+      - Over 100 campers
+      required: true
+    - id: 12
+      name: camper_age_range
+      label: Camper Age Range
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 5-7 years
+      - 8-10 years
+      - 11-13 years
+      - 14-16 years
+      - 17-18 years
+      required: true
+    - id: 13
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration type
+      type: select_one
+      options:
+      - Full event access
+      - Workshop only
+      - Networking only
+      - Virtual attendance
+      - Group leader
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 15
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Do you need lodging
+      type: select_one
+      options:
+      - No - local attendee
+      - Yes - single room
+      - Yes - shared room
+      - Yes - suite
+      required: false
+    - id: 16
+      name: transportation_needed
+      label: Transportation Assistance Needed
+      hint: Do you need transport info
+      type: select_one
+      options:
+      - false
+      - Yes - airport shuttle
+      - Yes - local transit info
+      - Yes - parking information
+      required: false
+    - id: 17
+      name: workshop_preferences
+      label: Workshop Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leadership development
+      - Team building activities
+      - Risk management
+      - Program planning
+      - Conflict resolution
+      - Outdoor skills
+      - Youth engagement
+      - Safety and first aid
+      - Communication skills
+      - Other
+      required: false
+    - id: 18
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking sessions
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: false
+    - id: 19
+      name: presentation_interest
+      label: Would You Like to Present or Lead a Session
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I would like to present
+      - Maybe - need more info
+      - No - just attending
+      required: true
+    - id: 20
+      name: presentation_topic
+      label: Proposed Presentation Topic
+      hint: If presenting, what topic
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event shirt
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      - XXL
+      - XXXL
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Invoice to organization
+      - Check
+      - PayPal
+      required: true
+    - id: 23
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_heard_about_event
+      label: How Did You Hear About This Event
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email invitation
+      - Colleague referral
+      - Social media
+      - Website
+      - Professional organization
+      - Previous attendee
+      - Other
+      required: false

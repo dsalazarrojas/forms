@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Virtual Queue Form Template
+    pages:
+    - id: 1
+      name: queue_header
+      label: -- Virtual Queue Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for queue entry
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Receive queue position updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: device_type
+      label: Device type
+      hint: Device used to access queue
+      type: select_one
+      options:
+      - Desktop
+      - Mobile
+      - Tablet
+      required: false
+    - id: 5
+      name: expected_arrival_time
+      label: Expected arrival time
+      hint: Optional time you expect to join
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: preferred_channel
+      label: Preferred notification channel
+      hint: How to receive updates
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Push notification
+      required: true
+    - id: 7
+      name: additional_guests
+      label: Additional guests
+      hint: Number of guests joining with you
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: terms_acknowledgement
+      label: Terms acknowledgement
+      hint: Confirm you agree to queue policies
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Any accessibility needs or notes
+      type: text
+      options: []
+      required: false

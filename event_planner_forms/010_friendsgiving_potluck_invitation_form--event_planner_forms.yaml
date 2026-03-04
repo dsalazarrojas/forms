@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Friendsgiving Potluck Invitation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: food
+      label: Food
+      hint: What dish will you bring?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: attending
+      label: Attending
+      hint: null
+      type: select_multiple
+      options:
+      - options_1
+      - options_2
+      - options_3
+      required: true
+    - id: 10
+      name: options_1
+      label: options_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: options_2
+      label: options_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: options_3
+      label: options_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true

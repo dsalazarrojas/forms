@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Christmas Party Survey
+    pages:
+    - id: 1
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_food
+      label: Food
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pizza''}'
+      - '{''id'': 2, ''label'': ''Sushi''}'
+      - '{''id'': 3, ''label'': ''Tacos''}'
+      required: false
+    - id: 3
+      name: party_music
+      label: Music
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Christmas Carol''}'
+      - '{''id'': 2, ''label'': ''Pop''}'
+      - '{''id'': 3, ''label'': ''Rock''}'
+      required: false
+    - id: 4
+      name: party_atmosphere
+      label: Atmosphere
+      hint: Describe the ambiance of the party
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_food
+      label: How would you rate the food?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_mood
+      label: How did you feel during the party?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: party_suggestions
+      label: Party Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

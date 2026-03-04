@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Item Delivery Form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: -- Delivery Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: purchaser_name
+      label: Purchaser name
+      hint: Full name for delivery records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purchaser_contact
+      label: Purchaser contact email
+      hint: We will send delivery updates to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping address
+      hint: Include street, city, state, and postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_name
+      label: Item name
+      hint: Name or title of the purchased item
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: item_quantity
+      label: Item quantity
+      hint: Number of units purchased
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: Choose a preferred date for delivery
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Delivery method
+      hint: Select how the item should be delivered
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Local pickup
+      - Courier delivery
+      required: true
+    - id: 9
+      name: receiver_signature_required
+      label: Receiver signature required
+      hint: Indicate if a signature is required on delivery
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: delivery_notes
+      label: Additional delivery notes
+      hint: Any special handling instructions
+      type: text
+      options: []
+      required: false

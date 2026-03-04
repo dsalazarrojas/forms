@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flea Market Experience Survey
+    pages:
+    - id: 1
+      name: flea_market_experience_1
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - '{''Event Type'': ''Market Day''}'
+      - '{''Event Type'': ''Trade Show''}'
+      - '{''Event Type'': ''Workshop''}'
+      required: false
+    - id: 3
+      name: flea_market_experience_2
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flea_market_experience_3
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

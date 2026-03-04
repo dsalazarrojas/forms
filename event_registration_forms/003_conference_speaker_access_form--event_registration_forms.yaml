@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Speaker Access Form
+    pages:
+    - id: 1
+      name: speaker_access_header
+      label: -- Speaker Access Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speaker_name
+      label: Speaker name
+      hint: Full name as it should appear on badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_email
+      label: Speaker email
+      hint: Primary contact for speaker communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: speaker_phone
+      label: Speaker phone
+      hint: Mobile preferred for day of event contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Affiliation or employer
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_title
+      label: Session title
+      hint: Exact title used in event program
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_date
+      label: Session date
+      hint: Date of the presentation
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_time
+      label: Session time
+      hint: Scheduled start time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: access_needs
+      label: Access needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stage access
+      - Green room
+      - Parking permit
+      - Onsite badge
+      - AV technician support
+      required: false
+    - id: 10
+      name: equipment_needed
+      label: Equipment needed
+      hint: List any special equipment required
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: short_bio
+      label: Short speaker bio
+      hint: 1 to 2 sentence summary for introductions
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Used only in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: arrival_time
+      label: Expected arrival time
+      hint: Time you plan to arrive at venue
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: departure_time
+      label: Expected departure time
+      hint: Time you plan to leave the venue
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: special_accommodations
+      label: Special accommodations
+      hint: Accessibility or other on site needs
+      type: text
+      options: []
+      required: false

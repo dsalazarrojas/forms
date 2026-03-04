@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Craft Fair Application Form With 2Checkout Payment Gateway
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: business_description
+      label: Business and Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booth_selection
+      label: Select Your Booth Option
+      hint: Payments processed via 2Checkout
+      type: select_one
+      options:
+      - Indoor Booth - 150 USD
+      - Outdoor Booth - 100 USD
+      - Premium Corner Booth - 200 USD
+      required: true
+    - id: 5
+      name: payment_note
+      label: After submission, you will be redirected to the secure 2Checkout payment
+        page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: insurance_confirmation
+      label: Do you have vendor liability insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, I need more information
+      required: true
+    - id: 7
+      name: helpers_count
+      label: Number of Assistants at Booth
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: dietary_requirements
+      label: Vendor Lunch Dietary Requirements
+      hint: We provide lunch for one person per booth
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: setup_agreement
+      label: I agree to have my booth fully set up by 9 AM on event day
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: terms_and_cond
+      label: I have read and agree to the vendor terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: festival_preparation_checklist_form
+    pages:
+    - id: 1
+      name: festival_location_checklist
+      label: festival location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: festival_stage_layout
+      label: festival stage layout
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: festival_sound_system_checklist
+      label: festival sound system
+      hint: null
+      type: select_one
+      options:
+      - 2nd floor
+      - stage
+      - main stage
+      required: false
+    - id: 4
+      name: festival_sound_system_capacity
+      label: festival sound system capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: festival_stage_layout_description
+      label: festival stage layout description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: festival_sound_system_technical_requirements
+      label: festival sound system technical requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: festival_power_supply_requirements
+      label: festival power supply requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: festival_water_supply_requirements
+      label: festival water supply requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: festival_food_supply_requirements
+      label: festival food supply requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: festival_toilet_and_shower_requirements
+      label: festival toilet and shower requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: festival_power_supplies
+      label: festival power supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: festival_water_supplies
+      label: festival water supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: festival_food_supplies
+      label: festival food supplies
+      hint: null
+      type: select_one
+      options:
+      - 2.5kva
+      - 5.0kva
+      - 10.0kva
+      required: true
+    - id: 14
+      name: festival_waste_disposal
+      label: festival waste disposal
+      hint: null
+      type: select_one
+      options:
+      - 2.0m
+      - 5.0m
+      - 10.0m
+      required: true
+    - id: 15
+      name: festival_waste_disposal_equipment
+      label: festival waste disposal equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: festival_camping
+      label: festival camping
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: true
+    - id: 17
+      name: festival_equipment_provisions
+      label: festival equipment provisions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: festival_shelter_equipment
+      label: festival shelter equipment
+      hint: null
+      type: select_multiple
+      options:
+      - tent
+      - canopy
+      - marquee
+      required: false
+    - id: 19
+      name: festival_parking_lot
+      label: festival parking lot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: festival_parking
+      label: festival parking
+      hint: null
+      type: text
+      options: []
+      required: false

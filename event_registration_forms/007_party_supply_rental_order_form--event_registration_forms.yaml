@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Supply Rental Order Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Party Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_supplies
+      label: Party Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: party_supplies_1
+      label: Balloons
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: party_supplies_2
+      label: Confetti
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: party_supplies_3
+      label: Streamers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: party_supplies_4
+      label: Tableware
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: party_info_1
+      label: Party Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: party_info_2
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: party_info_3
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: payment_info_1
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: party_info_4
+      label: Party Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

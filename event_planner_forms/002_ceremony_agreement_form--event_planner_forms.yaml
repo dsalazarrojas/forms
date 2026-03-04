@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ceremony Agreement Form
+    pages:
+    - id: 1
+      name: section_details
+      label: -- Ceremony Details --
+      hint: Provide details about the ceremony to formalize the agreement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organizer_name
+      label: organizer name
+      hint: organization or individual responsible
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: primary contact for event coordination
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact phone
+      hint: best number to reach the organizer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ceremony_date
+      label: ceremony date
+      hint: scheduled date of the ceremony
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: venue_name
+      label: venue name
+      hint: location where the ceremony will take place
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimated_guest_count
+      label: estimated guest count
+      hint: expected number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requirements
+      label: special requirements
+      hint: audio visual, accessibility, or catering notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms
+      label: payment terms
+      hint: summary of deposit and balance expectations
+      type: select_one
+      options:
+      - Deposit required
+      - Invoice after event
+      - Payment at booking
+      required: true
+    - id: 10
+      name: agreement_signature
+      label: agreement signature name
+      hint: typed name serves as signature for this form
+      type: text
+      options: []
+      required: true

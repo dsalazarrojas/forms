@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certificate Delivery Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of delivery request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: recipient_name
+      label: Recipient Name
+      hint: Full name of certificate recipient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recipient_email
+      label: Email Address
+      hint: Email for delivery notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: recipient_phone
+      label: Phone Number
+      hint: Contact phone for delivery issues
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of the event or program
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date when the event occurred
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: certificate_type
+      label: Certificate Type
+      hint: Type of certificate to be delivered
+      type: select_one
+      options:
+      - Attendance certificate
+      - Completion certificate
+      - Achievement award
+      - Participation recognition
+      - Excellence award
+      - Volunteer recognition
+      - Other
+      required: true
+    - id: 8
+      name: delivery_method
+      label: Delivery Method
+      hint: How should the certificate be delivered
+      type: select_one
+      options:
+      - Email (digital certificate)
+      - Postal mail (printed certificate)
+      - Courier delivery
+      - Pick up at office
+      - Hand delivery at event
+      required: true
+    - id: 9
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address for postal delivery
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_urgency
+      label: Delivery Urgency
+      hint: How quickly do you need the certificate
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Expedited (2-3 business days)
+      - Rush (next business day)
+      - Same day
+      required: true
+    - id: 11
+      name: certificate_quantity
+      label: Number of Certificates
+      hint: How many certificates are needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: recipient_names_list
+      label: List of Recipient Names
+      hint: Names as they should appear on certificates
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_formatting
+      label: Special Formatting Requests
+      hint: Any special design or formatting requirements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: envelope_preference
+      label: Envelope Preference
+      hint: Type of envelope for physical certificates
+      type: select_one
+      options:
+      - Standard envelope
+      - Premium presentation folder
+      - Certificate tube
+      - Gift envelope
+      - No preference
+      required: false
+    - id: 15
+      name: include_seal
+      label: Include Official Seal
+      hint: Should an official seal be included
+      type: select_one
+      options:
+      - Yes - Include seal
+      - No - No seal needed
+      required: true
+    - id: 16
+      name: include_signature
+      label: Include Authorized Signature
+      hint: Should the certificate include signatures
+      type: select_one
+      options:
+      - Yes - Include all signatures
+      - No - Unsigned certificate
+      required: true
+    - id: 17
+      name: notification_preference
+      label: Delivery Notification Preference
+      hint: How should you be notified of delivery
+      type: select_one
+      options:
+      - Email notification
+      - SMS notification
+      - Phone call
+      - No notification needed
+      required: true
+    - id: 18
+      name: tracking_required
+      label: Tracking Required
+      hint: Do you require delivery tracking
+      type: select_one
+      options:
+      - Yes - Tracking required
+      - No - Standard delivery
+      required: true
+    - id: 19
+      name: signature_required
+      label: Signature on Delivery
+      hint: Is signature required upon delivery
+      type: select_one
+      options:
+      - Yes - Signature required
+      - No - Leave at door
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any specific delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: Method of payment for delivery fees
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Invoice billing
+      - Pre-paid account
+      - No fee applicable
+      required: true
+    - id: 22
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

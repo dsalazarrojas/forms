@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory-management-workshop-attendance-form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_date
+      label: workshop date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: workshop_time
+      label: workshop time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: participant_status
+      label: participant status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: Add any additional comments here.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: workshop_name
+      label: workshop name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_role
+      label: participant role
+      hint: null
+      type: text
+      options: []
+      required: false

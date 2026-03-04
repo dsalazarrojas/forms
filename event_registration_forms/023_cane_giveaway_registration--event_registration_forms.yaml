@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cane Giveaway Registration
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_dob
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: participant_address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: age_group
+      label: Age Group
+      hint: Age category
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 30
+      - 31 to 45
+      - 46 to 60
+      - 61 to 75
+      - Over 75
+      required: true
+    - id: 11
+      name: mobility_aid_current
+      label: Do You Currently Use a Mobility Aid
+      hint: Current aid usage
+      type: select_one
+      options:
+      - Yes - cane
+      - Yes - walker
+      - Yes - wheelchair
+      - Yes - other
+      - false
+      required: true
+    - id: 12
+      name: cane_type_needed
+      label: Type of Cane Needed
+      hint: Cane preference
+      type: select_one
+      options:
+      - Standard cane
+      - Quad cane
+      - Folding cane
+      - Adjustable height cane
+      - White cane for visually impaired
+      - No preference
+      required: true
+    - id: 13
+      name: cane_color_preference
+      label: Cane Color Preference
+      hint: Color choice
+      type: select_one
+      options:
+      - Black
+      - White
+      - Blue
+      - Red
+      - Silver
+      - No preference
+      required: false
+    - id: 14
+      name: height_range
+      label: Your Height Range
+      hint: For proper sizing
+      type: select_one
+      options:
+      - Under 5 feet
+      - 5 feet to 5 feet 4 inches
+      - 5 feet 5 inches to 5 feet 8 inches
+      - 5 feet 9 inches to 6 feet
+      - Over 6 feet
+      required: true
+    - id: 15
+      name: dominant_hand
+      label: Dominant Hand
+      hint: Which hand will use cane
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Either
+      required: true
+    - id: 16
+      name: medical_need
+      label: Reason for Needing Cane
+      hint: Medical necessity
+      type: select_one
+      options:
+      - Balance issues
+      - Injury recovery
+      - Chronic condition
+      - Age-related mobility
+      - Post-surgery
+      - Pain management
+      - Other
+      required: true
+    - id: 17
+      name: medical_need_details
+      label: Medical Need Details
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_recommendation
+      label: Is This Physician Recommended
+      hint: Doctor recommendation
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending consultation
+      required: false
+    - id: 19
+      name: insurance_coverage
+      label: Do You Have Insurance Coverage
+      hint: Insurance status
+      type: select_one
+      options:
+      - Yes - fully covered
+      - Yes - partially covered
+      - No - not covered
+      - Unsure
+      required: false
+    - id: 20
+      name: financial_need
+      label: Financial Need Level
+      hint: Ability to pay
+      type: select_one
+      options:
+      - High need - cannot afford
+      - Moderate need - limited income
+      - Low need - some assistance helpful
+      - No financial need
+      required: true
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About This Giveaway
+      hint: Source of information
+      type: select_one
+      options:
+      - Healthcare provider
+      - Community center
+      - Social media
+      - Friend or family
+      - Flyer or poster
+      - Website
+      - Other
+      required: true
+    - id: 22
+      name: event_attendance
+      label: Will You Attend the Distribution Event
+      hint: Event participation
+      type: select_one
+      options:
+      - Yes - will attend
+      - No - need delivery
+      - Maybe - depends on schedule
+      required: true
+    - id: 23
+      name: delivery_needed
+      label: Do You Need Delivery
+      hint: Delivery requirement
+      type: select_one
+      options:
+      - Yes - home delivery
+      - No - can pickup
+      - Yes - need assistance
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Needs at Event
+      hint: Accommodations required
+      type: select_multiple
+      options:
+      - Wheelchair access
+      - Sign language interpreter
+      - Large print materials
+      - Assistance with forms
+      - None
+      required: false
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Contact person
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you agree
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 28
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

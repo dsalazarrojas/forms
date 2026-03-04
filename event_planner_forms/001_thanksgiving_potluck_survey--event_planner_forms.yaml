@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_potluck_survey
+    pages:
+    - id: 1
+      name: main_info
+      label: Main Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name_of_host
+      label: Name of Host
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: number_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: dish_to_be_brought
+      label: Dish to be Brought
+      hint: Enter a description of the dish you are bringing
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: name_of_dish_brought
+      label: Name of Dish Brought
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: main_course
+      label: Main Course
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Turkey'', ''value'': ''turkey''}'
+      - '{''label'': ''Ham'', ''value'': ''ham''}'
+      - '{''label'': ''Veggie'', ''value'': ''veggie''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 13
+      name: side_dish
+      label: Side Dish
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Mashed Potatoes'', ''value'': ''mashed_potatoes''}'
+      - '{''label'': ''Green Bean Casserole'', ''value'': ''green_bean_casserole''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 14
+      name: dessert
+      label: Dessert
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pumpkin Pie'', ''value'': ''pumpkin_pie''}'
+      - '{''label'': ''Apple Pie'', ''value'': ''apple_pie''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

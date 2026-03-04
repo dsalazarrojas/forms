@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Conference Registration Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Registration confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: conference_details
+      label: -- Conference Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your registration level
+      type: select_one
+      options:
+      - Standard Pass
+      - Premium Pass
+      - VIP Pass
+      - Day Pass
+      - Student Pass
+      required: true
+    - id: 10
+      name: conference_days
+      label: Which Days Are You Attending
+      hint: Select the days you will attend
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - All Days
+      required: true
+    - id: 11
+      name: workshops_interested
+      label: Workshops of Interest
+      hint: Select up to 3 workshops
+      type: select_multiple
+      options:
+      - Leadership Development
+      - Digital Transformation
+      - Finance Strategy
+      - Marketing Innovation
+      - Operations Excellence
+      - Sales Mastery
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For catered meals
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 13
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Mobility, accessibility, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: networking_events
+      label: Interested in Networking Events
+      hint: Would you like to attend?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 16
+      name: vip_dinner
+      label: VIP Dinner Attendance
+      hint: Exclusive attendee dinner
+      type: select_one
+      options:
+      - true
+      - false
+      - Interested but Unsure
+      required: false
+    - id: 17
+      name: contact_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: communication_opt_in
+      label: Opt-In to Post-Event Updates
+      hint: Receive conference materials and news
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: payment_terms
+      label: Payment Terms Accepted
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Purchase Order
+      - Company Account
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

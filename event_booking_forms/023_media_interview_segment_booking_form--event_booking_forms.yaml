@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Interview Segment Booking Form
+    pages:
+    - id: 1
+      name: media_interview_segment_booking
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic
+      label: Select Topic
+      hint: null
+      type: select_one
+      options:
+      - Media & Culture
+      - Politics
+      - Sports
+      - None
+      required: true
+    - id: 3
+      name: date_of_booking
+      label: Date of Booking
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_booking
+      label: Time of Booking
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: guest_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: e.g., john.doe@example.com
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: e.g., 123-456-7890
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: topic_details
+      label: Topic Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: segment_length
+      label: Segment Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time_slots
+      label: Preferred Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - None
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pr_contact
+      label: PR Contact
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Bob
+      - None
+      required: true

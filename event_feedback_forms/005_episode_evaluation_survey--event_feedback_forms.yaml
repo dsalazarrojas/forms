@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Episode Evaluation Survey
+    pages:
+    - id: 1
+      name: episode_id
+      label: Episode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating_value
+      label: Rating Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      required: false
+    - id: 6
+      name: rating_value2
+      label: Rating Value 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale2
+      label: Rating Scale 2
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false

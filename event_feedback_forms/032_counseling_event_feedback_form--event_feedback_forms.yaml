@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Event Feedback Form
+    pages:
+    - id: 1
+      name: event_feedback_form_1
+      label: Event Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_feedback_form_2
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: event_feedback_form_3
+      label: How would you rate the session facilitator?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: event_feedback_form_4
+      label: Was the session informative?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_feedback_form_5
+      label: What time did the session start?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_feedback_form_6
+      label: What time did the session end?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_feedback_form_7
+      label: Date of event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_feedback_form_8
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_feedback_form_9
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: event_feedback_form_10
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_feedback_form_11
+      label: Do you have any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

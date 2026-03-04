@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition License Application Form
+    pages:
+    - id: 1
+      name: applicant_legal_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: legal_status
+      label: Legal Status of Applicant
+      hint: null
+      type: select_one
+      options:
+      - Individual Artist
+      - Non-Profit Organization
+      - Commercial Gallery
+      - Educational Institution
+      - Government Body
+      required: true
+    - id: 4
+      name: contact_person_name
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Business or Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exhibition_details_header
+      label: -- Exhibition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: proposed_exhibition_title
+      label: Proposed Exhibition Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: exhibition_venue_name
+      label: Exhibition Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: venue_address
+      label: Venue Full Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Exhibition Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: Exhibition End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: anticipated_attendance
+      label: Anticipated Total Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: compliance_header
+      label: -- Compliance and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: insurance_coverage_confirmed
+      label: Do you have public liability insurance for the event?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Policy Attached
+      - No - Applying Separately
+      - Not Required (Exempt)
+      required: true
+    - id: 17
+      name: fire_safety_plan_ready
+      label: Is a fire safety and evacuation plan in place for the venue?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - In Progress
+      required: true
+    - id: 18
+      name: alcohol_license_required
+      label: Will alcohol be served or sold during the exhibition?
+      hint: If yes, a separate liquor license may be required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: submission_declaration_header
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: declaration_of_accuracy
+      label: I declare that the information provided is true and I agree to abide
+        by all local exhibition regulations
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 21
+      name: application_submission_date
+      label: Application Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: signature_type_name
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

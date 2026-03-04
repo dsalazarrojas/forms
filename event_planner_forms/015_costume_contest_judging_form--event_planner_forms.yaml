@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Costume Contest Judging Form
+    pages:
+    - id: 1
+      name: costume_entry_1
+      label: first_costume
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 2
+      name: costume_entry_2
+      label: second_costume
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: score_1
+      label: score_first_costume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: score_2
+      label: score_second_costume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_score
+      label: overall_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: costume_name
+      label: costume_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contestant_name
+      label: contestant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_judge
+      label: assigned_judge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

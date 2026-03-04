@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural-festival-vendor-intake-form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: vendor-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_product_info
+      label: product-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_product_features
+      label: product-features
+      hint: null
+      type: select_multiple
+      options:
+      - Cultural Food
+      - Traditional Artisanal Products
+      - Music
+      - Cultural Performers
+      required: false
+    - id: 5
+      name: vendor_social_media_links
+      label: social-media-links
+      hint: Facebook, Instagram, or YouTube
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - YouTube
+      required: false
+    - id: 6
+      name: vendor_image
+      label: image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_email
+      label: email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: vendor_phone
+      label: phone
+      hint: Enter a 10-digit US number (XXX) XXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_product_description
+      label: product-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vendor_product_price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false

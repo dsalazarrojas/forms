@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Warrior Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_branch
+      label: Service Branch
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marines
+      - Coast Guard
+      required: true
+    - id: 6
+      name: years_active
+      label: Years Active
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_of_enlistment
+      label: Date of Enlistment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: military_id
+      label: Military ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_history
+      label: Service History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Other
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_details
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_branch_2
+      label: Service Branch 2
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marines
+      - Coast Guard
+      required: false
+    - id: 20
+      name: service_branch_3
+      label: Service Branch 3
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marines
+      - Coast Guard
+      required: false
+    - id: 21
+      name: years_active_2
+      label: Years Active 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: date_of_birth_2
+      label: Date of Birth 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_of_enlistment_2
+      label: Date of Enlistment 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: service_history_2
+      label: Service History 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: note
+      options: []
+      required: false

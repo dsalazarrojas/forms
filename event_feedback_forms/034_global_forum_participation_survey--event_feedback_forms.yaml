@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Forum Participation Survey
+    pages:
+    - id: 1
+      name: event_feedback_forms_survey_form_global_for
+      label: event_feedback_forms_survey_form_global_for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_feedback
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option_1'', ''value'': ''option_1''}'
+      - '{''id'': 2, ''label'': ''option_2'', ''value'': ''option_2''}'
+      - '{''id'': 3, ''label'': ''option_3'', ''value'': ''option_3''}'
+      required: false
+    - id: 12
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option_4'', ''value'': ''option_4''}'
+      - '{''id'': 2, ''label'': ''option_5'', ''value'': ''option_5''}'
+      required: false
+    - id: 13
+      name: participant_note
+      label: participant_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: select_date
+      label: select_date
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option_6'', ''value'': datetime.date(2023, 1, 1)}'
+      - '{''id'': 2, ''label'': ''option_7'', ''value'': datetime.date(2023, 1, 2)}'
+      required: false
+    - id: 15
+      name: select_time
+      label: select_time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option_8'', ''value'': ''09:00''}'
+      - '{''id'': 2, ''label'': ''option_9'', ''value'': 600}'
+      required: false

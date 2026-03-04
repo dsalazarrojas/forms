@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: CPR Certification Check Out Form
+    pages:
+    - id: 1
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: name as it should appear on the certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: for digital certificate delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_selection_header
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: course_type
+      label: Select CPR Course Type
+      hint: choose the certification level
+      type: select_one
+      options:
+      - Adult CPR/AED
+      - Pediatric CPR/AED
+      - BLS for Healthcare Providers
+      - First Aid and CPR
+      - Instructor Certification
+      required: true
+    - id: 7
+      name: session_date
+      label: Preferred Training Date
+      hint: check availability on our website first
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Training Location
+      hint: select the preferred training center
+      type: select_one
+      options:
+      - Main Campus
+      - Downtown Center
+      - North Wing Clinic
+      - Remote/Online Hybrid
+      required: true
+    - id: 9
+      name: payment_header
+      label: -- Payment and Checkout --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Corporate Billing
+      - Invoice Request
+      required: true
+    - id: 11
+      name: discount_code
+      label: Discount or Referral Code
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: terms_agreement
+      label: I agree to the cancellation and refund policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Special Requirements or Comments
+      hint: e.g. accessibility needs or dietary restrictions for full-day sessions
+      type: text
+      options: []
+      required: false

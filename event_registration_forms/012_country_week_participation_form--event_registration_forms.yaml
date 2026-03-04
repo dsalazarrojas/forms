@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: event_organizer_name
+      label: Event Organizer's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_organizer_email
+      label: Event Organizer's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_organizer_phone
+      label: Event Organizer's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: country_focus
+      label: Country Focus
+      hint: null
+      type: select_one
+      options:
+      - Afghanistan
+      - United States
+      - Canada
+      - Australia
+      - United Kingdom
+      required: true
+    - id: 6
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_organizer_availability
+      label: Event Organizer's Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: food-vendor-license-application-form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: VENDOR NAME
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: business_description
+      label: Business Description
+      hint: Describe your business in 1-2 sentences
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_one
+      options:
+      - Food Truck
+      - Restaurant
+      - Cart
+      - Food Stand
+      - Mobile Vendor
+      - Carts with Fixed Location
+      - Catering
+      required: true
+    - id: 8
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Limited Liability Company (LLC)
+      - Partnership
+      - Corporation
+      - Non-Profit
+      - Individual
+      - Sole Proprietorship
+      required: true
+    - id: 9
+      name: permit_type
+      label: Permit Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      - Type D
+      required: true
+    - id: 10
+      name: permit_date
+      label: Permit Date
+      hint: Date of permit
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: permit_expiration
+      label: Permit Expiration
+      hint: Date of permit expiration
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: permit_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      required: true
+    - id: 13
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      required: true
+    - id: 14
+      name: license_expiration
+      label: License Expiration
+      hint: Date of license expiration
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: license_renewal
+      label: License Renewal
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true

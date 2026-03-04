@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Parking Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the sports event parking survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_attended
+      label: Did you attend the event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: park_type
+      label: How did you park your vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: park_location
+      label: Where did you park your vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parking_satisfaction
+      label: How satisfied are you with the parking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_parked
+      label: What time did you park your vehicle
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: left_vehicle
+      label: Did you leave your vehicle unattended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: parking_facility
+      label: Which parking facility did you use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

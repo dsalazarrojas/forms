@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Brunch Table Booking Form
+    pages:
+    - id: 1
+      name: holiday_brunch_table_booking_form_page_1
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: holiday_brunch_table_booking_form_page_2
+      label: Table Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: holiday_brunch_table_booking_form_page_3
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: holiday_brunch_table_booking_form_page_4
+      label: Booking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: holiday_brunch_table_booking_form_page_5
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: holiday_brunch_table_booking_form_page_6
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: holiday_brunch_table_booking_form_page_7
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: holiday_brunch_table_booking_form_page_8
+      label: Confirm Booking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: holiday_brunch_table_booking_form_page_9
+      label: Cancel Booking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: holiday_brunch_table_booking_form_page_10
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: holiday_brunch_table_booking_form_page_11
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: table_size
+      label: table_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: holiday_brunch_date
+      label: holiday_brunch_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: holiday_brunch_time
+      label: holiday_brunch_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

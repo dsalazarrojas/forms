@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoom Webinar Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_registration
+      label: time of registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Host
+      - Co-Host
+      - Panelist
+      required: true
+    - id: 8
+      name: time_zone
+      label: time zone
+      hint: null
+      type: select_one
+      options:
+      - (UTC-5)
+      - (UTC-6)
+      - (UTC-7)
+      - (UTC-8)
+      - (UTC-9)
+      - (UTC-10)
+      - (UTC-11)
+      - (UTC-12)
+      - (UTC-13)
+      - (UTC-14)
+      - (UTC-15)
+      - (UTC-16)
+      - (UTC-17)
+      - (UTC-18)
+      - (UTC-19)
+      - (UTC-20)
+      - (UTC-21)
+      - (UTC-22)
+      - (UTC-23)
+      - (UTC-24)
+      - (UTC-25)
+      - (UTC-26)
+      - (UTC-27)
+      - (UTC-28)
+      - (UTC-29)
+      - (UTC-30)
+      - (UTC-31)
+      - (UTC-32)
+      - (UTC-33)
+      - (UTC-34)
+      - (UTC-35)
+      - (UTC-36)
+      - (UTC-37)
+      - (UTC-38)
+      - (UTC-39)
+      - (UTC-40)
+      - (UTC-41)
+      - (UTC-42)
+      - (UTC-43)
+      - (UTC-44)
+      - (UTC-45)
+      - (UTC-46)
+      - (UTC-47)
+      - (UTC-48)
+      - (UTC-49)
+      - (UTC-50)
+      - (UTC-51)
+      - (UTC-52)
+      - (UTC-53)
+      - (UTC-54)
+      - (UTC-55)
+      - (UTC-56)
+      - (UTC-57)
+      - (UTC-58)
+      - (UTC-59)
+      - (UTC-60)
+      - (UTC-61)
+      - (UTC-62)
+      - (UTC-63)
+      - (UTC-64)
+      - (UTC-65)
+      - (UTC-66)
+      - (UTC-67)
+      - (UTC-68)
+      - (UTC-69)
+      - (UTC-70)
+      required: true
+    - id: 9
+      name: time_zone_label
+      label: time zone label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_link
+      label: registration link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: timezone_offset
+      label: time zone offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: timezone
+      label: time zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific Time
+      - Mountain Time
+      - Central Time
+      - Eastern Time
+      required: true
+    - id: 15
+      name: timezone_offset
+      label: time zone offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: timezone
+      label: time zone
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 17
+      name: timezone_offset_label
+      label: time zone offset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: start_time
+      label: start time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      - 00:00
+      - 01:00
+      - 02:00
+      - 03:00
+      - 04:00
+      - 05:00
+      - 06:00
+      - 07:00
+      required: true
+    - id: 19
+      name: end_time
+      label: end time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      - 00:00
+      - 01:00
+      - 02:00
+      - 03:00
+      - 04:00
+      - 05:00
+      - 06:00
+      - 07:00
+      required: true

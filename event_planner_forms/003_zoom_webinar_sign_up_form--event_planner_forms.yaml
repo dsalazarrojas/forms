@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoom Webinar Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Confirm email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Host/Creator
+      - Speaker
+      - Participant
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - CEST
+      - CEST (Paris)
+      - CEST (Paris DST)
+      - CEST (Paris DST) null
+      - GMT
+      - GMT (Daylight Saving)
+      - GMT (Daylight Saving) null
+      - GMT-05
+      - GMT-05 null
+      - GMT+01
+      - GMT+01 null
+      required: true
+    - id: 9
+      name: timezone
+      label: Timezone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: zoom_url
+      label: Zoom URL
+      hint: null
+      type: text
+      options: []
+      required: false

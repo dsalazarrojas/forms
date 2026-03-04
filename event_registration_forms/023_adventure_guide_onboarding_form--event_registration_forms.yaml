@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Guide Onboarding Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: professional_qualifications_section
+      label: -- Professional Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: guiding_experience_years
+      label: Guiding Experience Years
+      hint: How many years of experience as an adventure guide
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: certifications_held
+      label: Certifications Held
+      hint: List any relevant certifications you hold
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: specializations
+      label: Specializations
+      hint: What types of adventure activities do you specialize in
+      type: select_multiple
+      options:
+      - Rock climbing
+      - Mountaineering
+      - Water sports
+      - Backpacking
+      - Wilderness survival
+      - Wildlife tours
+      - Photography tours
+      - Other
+      required: true
+    - id: 15
+      name: physical_fitness_section
+      label: -- Physical Fitness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fitness_level
+      label: Fitness Level
+      hint: Rate your current physical fitness level
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions that may affect your work
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: references_section
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reference_contact
+      label: Reference Contact
+      hint: Name and contact information of a professional reference
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: availability
+      label: Availability
+      hint: When are you available to work as a guide
+      type: text
+      options: []
+      required: true

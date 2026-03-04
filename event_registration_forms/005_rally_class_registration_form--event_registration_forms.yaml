@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rally Class Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_multiple
+      options:
+      - Rally Car
+      - Rally Cross
+      - Rally Sprint
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - Instructor
+      - Participant
+      - Guest
+      required: false
+    - id: 8
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: class_hours
+      label: Class Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Attendance Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_relation
+      label: Relation to Deceased
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: seating_request
+      label: Seating Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: arrival_note
+      label: Arrival Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: attendee_type
+      label: Type of Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: seating_preferences
+      label: Seating Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: arrival_time_note
+      label: Arrival Time Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_message
+      label: Attendee Message
+      hint: null
+      type: text
+      options: []
+      required: false

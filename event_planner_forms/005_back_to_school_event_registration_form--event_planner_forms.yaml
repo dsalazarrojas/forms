@@ -1,0 +1,185 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Event Registration Form
+    pages:
+      - id: 1
+        name: section_student_info
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_first_name
+        label: Student First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_last_name
+        label: Student Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: student_grade
+        label: Grade Level
+        hint: null
+        type: select_one
+        options:
+          - Kindergarten
+          - "1st Grade"
+          - "2nd Grade"
+          - "3rd Grade"
+          - "4th Grade"
+          - "5th Grade"
+          - "6th Grade"
+          - "7th Grade"
+          - "8th Grade"
+        required: true
+      - id: 5
+        name: student_id
+        Label: Student ID (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_parent_info
+        label: -- Parent/Guardian Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: parent_name
+        Label: Parent/Guardian Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: parent_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 9
+        name: parent_phone
+        label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 10
+        name: parent_relationship
+        Label: Relationship to Student
+        hint: null
+        type: select_one
+        options:
+          - Mother
+          - Father
+          - Guardian
+          - Other
+        required: true
+      - id: 11
+        name: section_event_details
+        label: -- Event Participation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: attending_kickoff
+        label: Attending Back to School Kickoff Event?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 13
+        name: attending_activities
+        label: Attending Activity Fair?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 14
+        name: volunteer_interest
+        label: Interested in Volunteering?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 15
+        name: volunteer_areas
+        Label: Areas of Interest for Volunteering
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Classroom Support
+          - Events Planning
+          - Fundraising
+          - Field Trips
+          - Technology
+          - Sports and Recreation
+        required: false
+      - id: 16
+        name: dietary_restrictions
+        label: Dietary Restrictions or Allergies
+        hint: Relevant for event refreshments
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_guests
+        Label: Number of Additional Family Members Attending
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 18
+        name: permission_photos
+        label: May We Use Student Photos at School Events?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 19
+        name: special_accommodations
+        label: Special Accommodations or Requests
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: signup_confirmation
+        label: I Confirm That the Above Information is Accurate
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

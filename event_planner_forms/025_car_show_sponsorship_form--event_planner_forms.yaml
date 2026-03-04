@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Show Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_information
+      label: -- SPONSOR INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_website
+      label: Company website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_contact_name
+      label: Primary contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_address
+      label: Company address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: industry_type
+      label: Industry type
+      hint: null
+      type: select_one
+      options:
+      - Automotive Dealer
+      - Repair Shop
+      - Parts Supplier
+      - Fuel/Lubricants
+      - Insurance
+      - Finance
+      - Media
+      - Food and Beverage
+      - Retail
+      - Other
+      required: true
+    - id: 9
+      name: sponsorship_details
+      label: -- SPONSORSHIP DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sponsorship_level
+      label: Sponsorship level
+      hint: null
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - Friend of the Show
+      required: true
+    - id: 11
+      name: sponsorship_amount
+      label: Sponsorship amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: event_to_sponsor
+      label: Which event would you like to sponsor?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: sponsorship_benefits
+      label: -- SPONSORSHIP BENEFITS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: logo_display
+      label: Logo display on marketing materials?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Large
+      - Yes - Medium
+      - Yes - Small
+      - false
+      required: false
+    - id: 16
+      name: booth_provided
+      label: Booth space needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: booth_size
+      label: Booth size preference
+      hint: null
+      type: select_one
+      options:
+      - 10x10 feet
+      - 10x20 feet
+      - 20x20 feet
+      - Custom
+      required: false
+    - id: 18
+      name: promotional_items
+      label: Distribute promotional items?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: speaking_opportunity
+      label: Speaking or announcement opportunity?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: exclusive_benefits
+      label: Interest in exclusive benefits (select all)
+      hint: null
+      type: select_multiple
+      options:
+      - Naming Rights
+      - VIP Passes
+      - Media Coverage
+      - Social Media Promotion
+      - Email Blast
+      - Event Program Placement
+      required: false
+    - id: 21
+      name: payment_information
+      label: -- PAYMENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Online Payment
+      - Installments
+      required: true
+    - id: 23
+      name: payment_schedule
+      label: Payment schedule
+      hint: null
+      type: select_one
+      options:
+      - Full Payment Now
+      - Half Now Half Later
+      - Monthly Installments
+      - Upon Invoice
+      required: false
+    - id: 24
+      name: tax_id_number
+      label: Tax ID number
+      hint: For official records
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional information or requests
+      hint: null
+      type: text
+      options: []
+      required: false

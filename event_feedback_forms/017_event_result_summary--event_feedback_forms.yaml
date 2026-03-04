@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Result Summary
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: outcome_details
+      label: Outcome Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: outcome_outcomes
+      label: Outcome Outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback_text
+      label: Feedback Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: file1
+      label: File 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file2
+      label: File 2
+      hint: null
+      type: text
+      options: []
+      required: false

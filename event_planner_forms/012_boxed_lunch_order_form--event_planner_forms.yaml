@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxed Lunch Order Form
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_contact_name
+      label: Contact Name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company or Organization
+      hint: Name of ordering entity
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_event
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When lunches are needed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: What time to deliver
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: delivery_location
+      label: Delivery Location
+      hint: Address where lunches should be delivered
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_of_lunches
+      label: Total Number of Lunches Needed
+      hint: Quantity ordered
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_menu
+      label: -- Menu Selections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: package_type
+      label: Lunch Package Type
+      hint: Select the package option
+      type: select_one
+      options:
+      - Classic Package
+      - Deluxe Package
+      - Vegetarian Package
+      - Keto-Friendly Package
+      - Mixed selections
+      required: true
+    - id: 13
+      name: sandwich_preference
+      label: Sandwich Preference
+      hint: Primary protein option
+      type: select_one
+      options:
+      - Turkey
+      - Roast Beef
+      - Chicken
+      - Vegetarian
+      - Mixed
+      - Assorted
+      required: true
+    - id: 14
+      name: bread_type
+      label: Bread Type Preference
+      hint: Type of bread for sandwiches
+      type: select_one
+      options:
+      - White
+      - Wheat
+      - Rye
+      - Multi-grain
+      - Assorted
+      required: false
+    - id: 15
+      name: side_options
+      label: Side Dish Options
+      hint: Select sides for the lunch
+      type: select_multiple
+      options:
+      - Chips
+      - Fruit salad
+      - Veggie platter
+      - Cookie
+      - Yogurt
+      - Granola bar
+      - Mixed
+      required: false
+    - id: 16
+      name: beverage_selection
+      label: Beverage Preference
+      hint: Drink option for lunches
+      type: select_one
+      options:
+      - Water
+      - Iced tea
+      - Lemonade
+      - Coffee and tea
+      - Assorted
+      - None
+      required: false
+    - id: 17
+      name: section_header_dietary
+      label: -- Dietary Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Special Dietary Restrictions
+      hint: Allergies, preferences, restrictions
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Dairy-free
+      - Nut-free
+      - Vegan
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget_range
+      label: Budget Per Lunch
+      hint: Approximate price per lunch
+      type: select_one
+      options:
+      - Under 5 dollars
+      - 5-8 dollars
+      - 8-12 dollars
+      - 12-15 dollars
+      - 15 dollars plus
+      required: false
+    - id: 21
+      name: order_confirmation
+      label: I confirm this lunch order
+      hint: Check to place order
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      required: true

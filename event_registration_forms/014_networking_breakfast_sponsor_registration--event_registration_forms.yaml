@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Networking Breakfast Sponsor Registration
+    pages:
+    - id: 1
+      name: package_choice
+      label: Package Choice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm
+      label: Confirm Sponsor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

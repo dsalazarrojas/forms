@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: special_event_request_form
+    pages:
+    - id: 1
+      name: special_event_form_fields
+      label: Special Event Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Film Set
+      - Location Scouting
+      - Photo Shoot
+      required: false
+    - id: 9
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Free
+      - Donation
+      - Paid Event
+      required: false
+    - id: 10
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: host_fee
+      label: Host Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: event_fee
+      label: Event Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rental_fee
+      label: Rental Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: space_requirements
+      label: Space Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: space_type
+      label: Space Type
+      hint: null
+      type: select_one
+      options:
+      - Restaurant
+      - Gym
+      - Park
+      - Other
+      required: false
+    - id: 17
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: host_email
+      label: Host Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: host_phone
+      label: Host Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 25
+      name: submitter_terms
+      label: Submitter Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

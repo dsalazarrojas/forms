@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Crew Training Booking Form
+    pages:
+    - id: 1
+      name: stage_crew_training_booking_form
+      label: Stage Crew Training Booking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stage_crew_training_booking_form_booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stage_crew_training_booking_form_booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: stage_crew_training_booking_form_trainer_name
+      label: Trainer Name
+      hint: null
+      type: select_one
+      options:
+      - Trainer 1
+      - Trainer 2
+      - Trainer 3
+      required: false
+    - id: 5
+      name: stage_crew_training_booking_form_trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: stage_crew_training_booking_form_booking_notes
+      label: Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: stage_crew_training_booking_form_trainer_notes
+      label: Trainer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: stage_crew_training_booking_form_client_name
+      label: Client Name
+      hint: Please enter client name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: stage_crew_training_booking_form_client_email
+      label: Client Email
+      hint: Please enter client email
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stage_crew_training_booking_form_phone
+      label: Client Phone
+      hint: Please enter client phone
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stage_crew_training_booking_form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Submitted
+      - Completed
+      required: false
+    - id: 12
+      name: stage_crew_training_booking_form_submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: false

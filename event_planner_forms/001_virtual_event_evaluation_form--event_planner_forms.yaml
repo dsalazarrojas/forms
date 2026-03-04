@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_event_evaluation_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Welcome to our Virtual Event Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: virtual_event_name
+      label: virtual_event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: On a scale of 1-10
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: virtual_event_attendee_count
+      label: virtual_event_attendee_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: session_durations
+      label: session_durations
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: true

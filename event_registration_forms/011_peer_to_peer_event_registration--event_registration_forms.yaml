@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Event Registration
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: roles_options
+      label: Roles
+      hint: Please select all roles that apply.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role_preferences
+      label: Role Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: attendee_details_options
+      label: Attendee Details
+      hint: Please provide attendee details.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: has_food
+      label: Has Food
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: has_babysitter
+      label: Has Babysitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: event_tags
+      label: Event Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: event_tags_options
+      label: Event Tags
+      hint: Please select all event tags that apply.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: organizers
+      label: Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: organizers_options
+      label: Organizers
+      hint: Please select all organizers that apply.
+      type: text
+      options: []
+      required: false

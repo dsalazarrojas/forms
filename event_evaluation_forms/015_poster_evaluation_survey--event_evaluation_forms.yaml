@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poster Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating scale 1-5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      required: true
+    - id: 3
+      name: rating_scale_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: poster_clarity
+      label: Poster Clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: presentation_clarity
+      label: Presentation Clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_clarity
+      label: Overall Clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false

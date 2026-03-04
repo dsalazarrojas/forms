@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Musical Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name of performer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: Primary contact for audition scheduling
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Mobile preferred for last minute notices
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role_interested
+      label: Role interested
+      hint: Describe role or part you would like to perform
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience
+      label: Performance experience
+      hint: Brief summary of relevant experience or null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability for rehearsals
+      hint: Days and times you are available
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vocal_part
+      label: Vocal part
+      hint: If applicable indicate soprano tenor alto bass or other
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Instrumentalist
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Name and relationship
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Anything else the director should know or null
+      type: text
+      options: []
+      required: false

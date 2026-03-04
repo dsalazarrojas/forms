@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Social Event Registration
+    pages:
+    - id: 1
+      name: team_social_event_name
+      label: team-social-event-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dietary_needs
+      label: dietary-needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: activity_preference
+      label: activity-preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_date
+      label: rsvp-date
+      hint: null
+      type: date
+      options: []
+      required: false

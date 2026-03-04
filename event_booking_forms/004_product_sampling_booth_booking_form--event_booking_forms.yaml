@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Sampling Booth Booking Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product
+      label: Product
+      hint: Product name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dates
+      label: Dates
+      hint: Select the dates
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

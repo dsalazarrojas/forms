@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: entertainment_training_registration_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_type
+      label: participant type
+      hint: null
+      type: select_one
+      options:
+      - student
+      - instructor
+      - staff
+      required: false
+    - id: 5
+      name: workshop_name
+      label: workshop name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_start_date
+      label: training start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_end_date
+      label: training end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_days
+      label: training days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_status
+      label: participant status
+      hint: participant status
+      type: select_one
+      options:
+      - confirmed
+      - pending
+      - cancelled
+      required: false
+    - id: 10
+      name: participant_status_note
+      label: participant status note
+      hint: participant status note
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - online payment
+      - offline payment
+      - payment pending
+      required: false
+    - id: 13
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - unpaid
+      - payment pending
+      required: false
+    - id: 14
+      name: payment_method_note
+      label: payment method note
+      hint: payment method note
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_address
+      label: participant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workshop_location
+      label: workshop location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instructor_email
+      label: instructor email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: instructor_phone
+      label: instructor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instructor_address
+      label: instructor address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_description
+      label: course description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_materials
+      label: course materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: workshop_schedule
+      label: workshop schedule
+      hint: null
+      type: text
+      options: []
+      required: false

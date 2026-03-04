@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Vendor Setup Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Food
+      - Other
+      required: false
+    - id: 6
+      name: vendor_products
+      label: Products
+      hint: Enter a list of products you will be selling
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_hours
+      label: Hours
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Notification Form
+    pages:
+    - id: 1
+      name: event_notification_form
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: Event Description
+      hint: Briefly describe the event
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''label'': ''Active''}'
+      - '{''id'': 8, ''label'': ''Inactive''}'
+      - '{''id'': 9, ''label'': ''Cancelled''}'
+      required: false
+    - id: 7
+      name: notify_authorities
+      label: Notify Authorities
+      hint: Check who should be notified
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''label'': ''Police''}'
+      - '{''id'': 12, ''label'': ''Mayor''}'
+      - '{''id'': 13, ''label'': ''Fire Department''}'
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: What type of event is this
+      type: select_one
+      options:
+      - '{''id'': 15, ''label'': ''Meeting''}'
+      - '{''id'': 16, ''label'': ''Concert''}'
+      - '{''id'': 17, ''label'': ''Wedding''}'
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: Contact number for further information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: Contact email for further information
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Tool assigned to handle this event
+      type: select_one
+      options:
+      - '{''id'': 21, ''label'': ''chatjimmy''}'
+      - '{''id'': 22, ''label'': ''chatjimmy2''}'
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: User assigned to handle this event
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information about the event
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: Status of the submission
+      type: select_one
+      options:
+      - '{''id'': 26, ''label'': ''Approved''}'
+      - '{''id'': 27, ''label'': ''In Progress''}'
+      - '{''id'': 28, ''label'': ''Reopened''}'
+      - '{''id'': 29, ''label'': ''Closed''}'
+      - '{''id'': 30, ''label'': ''Rejected''}'
+      required: false

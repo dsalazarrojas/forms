@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judging Application For Competition
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: judge_since
+      label: Judge Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      - Not Specified
+      required: true
+    - id: 7
+      name: conflicts_of_interest
+      label: Conflicts of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: conflicts_of_interest_details
+      label: Conflicts of Interest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: Submission
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: submission_end
+      label: Submission End
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: conflicts_of_interest_confidential
+      label: Conflicts of Interest Confidential
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: conflicts_of_interest_disclosure
+      label: Conflicts of Interest Disclosure
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: conflicts_of_interest_disclosure_details
+      label: Conflicts of Interest Disclosure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: conflict
+      label: Conflicts
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: submit_judging_application
+      label: Submit Judging Application
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      - Save Draft
+      required: true
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: social_media
+      label: Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: headshot
+      label: Headshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms
+      - I have not read and do not agree to the terms
+      required: true
+    - id: 24
+      name: agreement_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

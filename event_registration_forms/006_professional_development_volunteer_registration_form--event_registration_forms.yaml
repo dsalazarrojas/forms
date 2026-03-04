@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_development_volunteer_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''workshop''}'
+      - '{''value'': ''training''}'
+      - '{''value'': ''seminar''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_session
+      label: Training Session
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''staff''}'
+      - '{''value'': ''volunteer''}'
+      - '{''value'': ''guest''}'
+      required: false
+    - id: 11
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''onsite''}'
+      - '{''value'': ''offsite''}'
+      - '{''value'': ''virtual''}'
+      required: false
+    - id: 12
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

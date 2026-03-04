@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Photo Order Form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photography_packages
+      label: Photography Packages
+      hint: Select a package
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Pro
+      required: false
+    - id: 4
+      name: package_price
+      label: Package Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_one
+      options:
+      - Print
+      - Digital
+      - Both
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: photo_size
+      label: Photo Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

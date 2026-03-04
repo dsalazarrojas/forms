@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: hackathon_registration_form_hackathon_applications
+    pages:
+    - id: 1
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''individual'', ''value'': ''individual''}'
+      - '{''label'': ''team'', ''value'': ''team''}'
+      required: true
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_no
+      label: contact_no
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Andhra Pradesh'', ''value'': ''Andhra Pradesh''}'
+      - '{''label'': ''Karnataka'', ''value'': ''Karnataka''}'
+      - '{''label'': ''Tamil Nadu'', ''value'': ''Tamil Nadu''}'
+      required: true
+    - id: 11
+      name: pincode
+      label: pincode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''tech'', ''value'': ''tech''}'
+      - '{''label'': ''non_tech'', ''value'': ''non_tech''}'
+      - '{''label'': ''hackathon'', ''value'': ''hackathon''}'
+      required: false
+    - id: 13
+      name: preferred_location
+      label: preferred_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_interests
+      label: team_interests
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''tech'', ''value'': ''tech''}'
+      - '{''label'': ''non_tech'', ''value'': ''non_tech''}'
+      required: false
+    - id: 15
+      name: tech_stack
+      label: tech_stack
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_interested
+      label: team_interested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''tech'', ''value'': ''tech''}'
+      - '{''label'': ''non_tech'', ''value'': ''non_tech''}'
+      - '{''label'': ''hackathon'', ''value'': ''hackathon''}'
+      required: false
+    - id: 17
+      name: innovation_focus
+      label: innovation_focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_experience
+      label: team_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: idea
+      label: idea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: idea_summary
+      label: idea_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: idea_desc
+      label: idea_desc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: idea_img
+      label: idea_img
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false

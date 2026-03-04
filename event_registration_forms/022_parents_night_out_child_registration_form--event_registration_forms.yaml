@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parents' Night Out Child Registration Form
+    pages:
+    - id: 1
+      name: child_name
+      label: child_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship
+      label: relationship_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: child_diet
+      label: child_diet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: allergy_list
+      label: allergy_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: parent_permission
+      label: parent_permission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: event_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false

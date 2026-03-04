@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership And Resilience Workshop Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: select_one
+      options:
+      - '2022-01-01'
+      - '2022-01-02'
+      - '2022-01-03'
+      - '2022-01-04'
+      required: false
+    - id: 8
+      name: participant_interest
+      label: Participant Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

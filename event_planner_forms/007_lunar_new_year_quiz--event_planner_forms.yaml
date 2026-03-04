@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lunar New Year Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: question one
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_two
+      label: question two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_three
+      label: question three
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_birth
+      label: time of birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: category_choice
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

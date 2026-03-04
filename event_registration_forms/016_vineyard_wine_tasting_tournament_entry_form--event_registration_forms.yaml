@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: vineyard_wine_tasting_tournament_entry_form
+    pages:
+    - id: 1
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant
+      label: participant
+      hint: null
+      type: select_one
+      options:
+      - Vineyard
+      - Winery
+      - Event Organizer
+      required: false
+    - id: 3
+      name: participant_name
+      label: participant_name
+      hint: Enter participant name (required)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_wine_type
+      label: participant_wine_type
+      hint: null
+      type: select_one
+      options:
+      - Still wine
+      - Sparkling wine
+      - Dessert wine
+      required: false
+    - id: 7
+      name: participant_wine_color
+      label: participant_wine_color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - White
+      - Rosé
+      required: false
+    - id: 8
+      name: participant_wine_varietal
+      label: participant_wine_varietal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_wine_year
+      label: participant_wine_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_wine_rating
+      label: participant_wine_rating
+      hint: Rate the wine on a scale of 1-100
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: event_name
+      label: event_name
+      hint: Enter event name (required)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: location
+      hint: Location of the event
+      type: text
+      options: []
+      required: false

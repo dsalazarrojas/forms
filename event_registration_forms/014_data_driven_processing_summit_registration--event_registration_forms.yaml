@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Driven Processing Summit Registration
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: agreement
+      label: Terms and Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: terms_agreement
+      label: Terms and Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: timezone
+      label: Timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: timezone_label
+      label: Timezone Label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: location_label
+      label: Location Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: location_address1
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: location_address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: location_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: location_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: location_zip
+      label: Location Zip
+      hint: null
+      type: text
+      options: []
+      required: true

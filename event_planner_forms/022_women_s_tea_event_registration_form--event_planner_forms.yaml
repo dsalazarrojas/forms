@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Women's Tea Event Registration Form
+    pages:
+    - id: 1
+      name: attendee_info
+      label: attendee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preference
+      label: contact_preference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In Person''}'
+      required: true
+    - id: 3
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_event
+      label: time_of_event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_details
+      label: event_details
+      hint: Brief description of the event
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Gluten-Free''}'
+      - '{''id'': 2, ''label'': ''Vegan''}'
+      - '{''id'': 3, ''label'': ''Vegetarian''}'
+      - '{''id'': 4, ''label'': ''None''}'
+      required: false
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attendee_comments
+      label: attendee_comments
+      hint: null
+      type: note
+      options: []
+      required: false

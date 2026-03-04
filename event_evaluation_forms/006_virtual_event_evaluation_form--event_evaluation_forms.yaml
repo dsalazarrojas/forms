@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Evaluation Form
+    pages:
+    - id: 1
+      name: virtual_event_evaluation_form
+      label: virtual_event_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Very Unsatisfied''}'
+      required: false
+    - id: 5
+      name: event_value
+      label: event_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_quality
+      label: event_quality
+      hint: null
+      type: text
+      options: []
+      required: false

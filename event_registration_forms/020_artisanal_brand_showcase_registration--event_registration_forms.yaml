@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artisanal Brand Showcase Registration
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business or Brand Name
+      hint: Official name of your artisanal business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_owner_name
+      label: Owner or Contact Person Name
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_email
+      label: Business Email Address
+      hint: Official business contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: business_phone
+      label: Phone Number
+      hint: Contact phone for the business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_website
+      label: Website or Social Media
+      hint: URL of your website or main social media
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_description
+      label: Business Description
+      hint: Brief overview of your artisanal brand
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: craft_type
+      label: Type of Craft
+      hint: What do you create?
+      type: select_one
+      options:
+      - Textiles and Fashion
+      - Pottery and Ceramics
+      - Woodworking
+      - Jewelry
+      - Leather Goods
+      - Glass Art
+      - Food and Beverages
+      - Home Decor
+      - Art and Paintings
+      - Metalwork
+      - Mixed Media
+      - Other
+      required: true
+    - id: 10
+      name: founding_year
+      label: Year Business Founded
+      hint: When did you start?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: Team Size
+      hint: How many people work in your business?
+      type: select_one
+      options:
+      - Solo Artisan
+      - 2-5 People
+      - 6-10 People
+      - 11-25 People
+      - 25+ People
+      required: false
+    - id: 12
+      name: section_header_3
+      label: -- Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: product_description
+      label: Primary Products or Specialties
+      hint: Describe what you primarily sell
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: production_method
+      label: Production Method
+      hint: How are your products made?
+      type: select_one
+      options:
+      - Fully Handmade
+      - Mostly Handmade with Some Tools
+      - Blend of Handmade and Machine
+      - Mostly Machine with Handmade Details
+      - Machine Made
+      required: true
+    - id: 15
+      name: sustainability_practices
+      label: Sustainability Practices
+      hint: Any eco-friendly or sustainable practices?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Showcase Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: showcase_interest
+      label: Type of Showcase Participation
+      hint: What level of participation are you interested in?
+      type: select_one
+      options:
+      - Vendor Booth
+      - Premium Booth
+      - Featured Brand
+      - Pop-up Stand
+      - Unsure
+      required: true
+    - id: 18
+      name: booth_space_needed
+      label: Booth Space Needed
+      hint: Estimated space requirements
+      type: select_one
+      options:
+      - Small (4x4 ft)
+      - Medium (6x6 ft)
+      - Large (8x8 ft)
+      - Extra Large (10x10 ft or more)
+      required: false
+    - id: 19
+      name: promotional_materials
+      label: Have You Prepared Promotional Materials?
+      hint: Flyers, brochures, or signage ready?
+      type: select_one
+      options:
+      - Yes, fully prepared
+      - Partially prepared
+      - Will prepare before showcase
+      - Need assistance
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- Visual Assets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: product_photos
+      label: Do You Have Product Photos Available?
+      hint: High-quality images for marketing
+      type: select_one
+      options:
+      - Yes, high-quality photos
+      - Yes, but lower quality
+      - No, but can provide
+      - No photos available yet
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Agreement and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: terms_acceptance
+      label: I Accept the Showcase Terms and Conditions
+      hint: Confirm you accept all showcase rules
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Information or Special Requests
+      hint: Any special requirements or notes?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_contact
+      label: Best Way to Contact You for Follow-up
+      hint: Preferred contact method
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Social Media
+      - No preference
+      required: false

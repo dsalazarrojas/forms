@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fundraiser Vendor Registration
+    pages:
+    - id: 1
+      name: section_vendor_info
+      label: -- Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business or Organization Name
+      hint: Official business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: What does your business do
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_name
+      label: Owner or Manager Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: owner_phone
+      label: Phone Number
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_website
+      label: Business Website
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_booth_details
+      label: -- Booth Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: booth_size
+      label: Booth Size Needed
+      hint: Dimensions preferred
+      type: select_one
+      options:
+      - 6x6 ft
+      - 8x8 ft
+      - 10x10 ft
+      - Custom Size
+      required: true
+    - id: 10
+      name: booth_setup
+      label: Setup Requirements
+      hint: Electricity, water, table, etc
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: number_tables
+      label: Number of Tables Needed
+      hint: How many tables for your booth
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_event
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_name
+      label: Charity Event Name
+      hint: Which event are you registering for
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: event_location
+      label: Event Location
+      hint: Venue name and address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_products
+      label: -- Products and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: products_offered
+      label: Products or Services You Will Offer
+      hint: Describe what you are selling
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: alcohol_service
+      label: Will You Serve Alcohol
+      hint: Any alcoholic beverages
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: section_documentation
+      label: -- Documentation and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: insurance_certificate
+      label: Do You Have Business Insurance
+      hint: Proof of liability insurance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: agreement_acceptance
+      label: I Accept Vendor Agreement Terms
+      hint: Agree to vendor requirements
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: booth_fee_amount
+      label: Booth Fee Amount
+      hint: Fee for this booth
+      type: number
+      options: []
+      required: false

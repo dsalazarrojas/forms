@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Presenter Feedback Form
+    pages:
+    - id: 1
+      name: event_presenter_feedback_form_1
+      label: Event Presenter Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_presenter_feedback_form_2
+      label: Overall Experience
+      hint: 1-10
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: event_presenter_feedback_form_3
+      label: Event Content
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 4
+      name: event_presenter_feedback_form_4
+      label: Would You Attend
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: true
+    - id: 5
+      name: event_presenter_feedback_form_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_presenter_feedback_form_7
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: event_presenter_feedback_form_8
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: event_presenter_feedback_form_9
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_presenter_feedback_form_10
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

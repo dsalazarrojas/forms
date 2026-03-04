@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Story Contest
+    pages:
+    - id: 1
+      name: contestant_info
+      label: -- Contestant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 12
+      - 12-18
+      - 18-30
+      - 30-50
+      - 50+
+      required: true
+    - id: 7
+      name: story_info
+      label: -- Story Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: story_title
+      label: Story Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: story_content
+      label: Story Content
+      hint: Paste your complete story
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: word_count
+      label: Word Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: story_category
+      label: Story Category
+      hint: null
+      type: select_one
+      options:
+      - Heartwarming
+      - Humorous
+      - Adventure
+      - Mystery
+      - Family-friendly
+      - Other
+      required: true
+    - id: 12
+      name: story_inspiration
+      label: What inspired your story?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_details
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: original_work
+      label: This is my original, unpublished work
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify this
+      - false
+      required: true
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: permissions
+      label: Grant permission to post or share this story
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - With attribution only
+      required: true
+    - id: 17
+      name: writing_experience
+      label: -- Writing Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: experience_level
+      label: Writing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Amateur
+      - Semi-professional
+      - Professional
+      required: false
+    - id: 19
+      name: previous_publications
+      label: Have you been previously published?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: story_awards
+      label: Has this story won any awards?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: contact_consent
+      label: I consent to be contacted about my story
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

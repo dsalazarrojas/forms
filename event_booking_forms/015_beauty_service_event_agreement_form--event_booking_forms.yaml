@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Service Event Agreement Form
+    pages:
+    - id: 1
+      name: section_client_event_info
+      label: -- Client and Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Photoshoot
+      - Fashion Show
+      - Corporate Event
+      - Private Party
+      - Other
+      required: true
+    - id: 5
+      name: event_location
+      label: Event Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: completion_time
+      label: Required Completion Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: section_service_details
+      label: -- Services and Quantities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hair_services_count
+      label: Number of Hair Services
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: makeup_services_count
+      label: Number of Makeup Services
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: specific_service_notes
+      label: Specific Service Details or Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_financial_agreement
+      label: -- Financial Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_quoted_amount
+      label: Total Quoted Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: deposit_paid
+      label: Deposit Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: remaining_balance
+      label: Remaining Balance Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: balance_due_date
+      label: Balance Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: travel_fee_acknowledgment
+      label: I acknowledge and agree to any applicable travel fees
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: cancellation_terms_event
+      label: I have read and agree to the event cancellation terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 19
+      name: client_signature_name
+      label: Authorized Client Name for Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

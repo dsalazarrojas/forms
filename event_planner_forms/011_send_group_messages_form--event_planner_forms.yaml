@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Send Group Messages Form
+    pages:
+    - id: 1
+      name: send_message
+      label: Send Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient
+      label: Select Recipient
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message_body
+      label: Message Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Send By Date
+      hint: null
+      type: date
+      options: []
+      required: false

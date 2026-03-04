@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Transparency Summit Registration
+    pages:
+    - id: 1
+      name: session_preferences
+      label: Select a session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: full_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: I agree to the terms and conditions.
+      type: note
+      options: []
+      required: true

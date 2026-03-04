@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crop Innovation Day Registration Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_interests
+      label: Select Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Session 1''}'
+      - '{''id'': 2, ''name'': ''Session 2''}'
+      - '{''id'': 3, ''name'': ''Session 3''}'
+      required: false
+    - id: 3
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Requirement 1''}'
+      - '{''id'': 2, ''name'': ''Requirement 2''}'
+      - '{''id'': 3, ''name'': ''Requirement 3''}'
+      required: false
+    - id: 4
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: session_1
+      label: Session 1 -
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      required: false

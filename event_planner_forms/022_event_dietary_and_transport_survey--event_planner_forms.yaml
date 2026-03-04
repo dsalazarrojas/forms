@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_dietary_and_transport_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meal_preferences
+      label: Meal_Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: dietary_needs
+      label: Dietary_Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 4
+      name: transport_details
+      label: Transport_Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional_Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transport_time
+      label: Transport_Time
+      hint: null
+      type: time
+      options: []
+      required: false

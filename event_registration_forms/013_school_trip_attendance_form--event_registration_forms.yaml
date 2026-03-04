@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_trip_attendance_form
+    pages:
+    - id: 1
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_permission_prophets
+      label: Parent Permission Prophets
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: true
+    - id: 9
+      name: student_permission_prophets
+      label: Student Permission Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: true
+    - id: 10
+      name: student_permission_notes
+      label: Student Permission Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: student_permission_status
+      label: Student Permission Status
+      hint: null
+      type: select_one
+      options:
+      - Allowed
+      - Not Allowed
+      required: true
+    - id: 12
+      name: student_permission_expiration_date
+      label: Student Permission Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: student_permission_status_expiration_date
+      label: Student Permission Status Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: student_permission_remarks
+      label: Student Permission Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_permission_resentation
+      label: Student Permission Presentation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: student_permission_status_resentation
+      label: Student Permission Status Presentation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: student_permission_status_resentation_date
+      label: Student Permission Status Presentation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: student_permission_status_resentation_time
+      label: Student Permission Status Presentation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: event_status_reason
+      label: Event Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: student_status_notes
+      label: Student Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: student_status_reason
+      label: Student Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes_notes
+      label: Notes Notes
+      hint: null
+      type: note
+      options: []
+      required: false

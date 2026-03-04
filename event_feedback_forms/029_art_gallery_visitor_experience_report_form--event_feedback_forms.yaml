@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Visitor Experience Report Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: Date of your visit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visitor_email
+      label: Visitor Email
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: visitor_type
+      label: Visitor Type
+      hint: Type of visitor
+      type: select_one
+      options:
+      - First-Time Visitor
+      - Repeat Visitor
+      - Member
+      - Tourist
+      - Student
+      - Art Professional
+      required: true
+    - id: 5
+      name: group_type
+      label: Group Type
+      hint: Who did you visit with
+      type: select_one
+      options:
+      - Alone
+      - With Partner
+      - With Family
+      - With Friends
+      - With Tour Group
+      - With School Group
+      required: true
+    - id: 6
+      name: group_size
+      label: Group Size
+      hint: Number of people in your group
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exhibition_visited
+      label: Exhibition Visited
+      hint: Which exhibition did you see
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: visit_duration
+      label: Visit Duration
+      hint: How long did you spend
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 3 hours
+      - More than 3 hours
+      required: true
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: exhibition_quality
+      label: Exhibition Quality
+      hint: Rate the quality of the exhibition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 11
+      name: artwork_selection
+      label: Artwork Selection
+      hint: Rate the artwork selection
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: exhibition_layout
+      label: Exhibition Layout
+      hint: Rate the layout and flow
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: lighting_quality
+      label: Lighting Quality
+      hint: Rate the lighting
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: signage_clarity
+      label: Signage Clarity
+      hint: Rate the clarity of signs and labels
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Rate staff friendliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - No Interaction
+      required: true
+    - id: 16
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: Rate staff knowledge
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - No Interaction
+      required: true
+    - id: 17
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 18
+      name: comfort_level
+      label: Comfort Level
+      hint: Rate your comfort level
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 19
+      name: value_for_money
+      label: Value for Money
+      hint: Rate the value for admission price
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Free Admission
+      required: true
+    - id: 20
+      name: favorite_exhibit
+      label: Favorite Exhibit
+      hint: What was your favorite piece or section
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: least_favorite_exhibit
+      label: Least Favorite Exhibit
+      hint: What did you like least
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: amenities_used
+      label: Amenities Used
+      hint: Select amenities you used
+      type: select_multiple
+      options:
+      - Gift Shop
+      - Cafe or Restaurant
+      - Audio Guide
+      - Guided Tour
+      - Coat Check
+      - Parking
+      - None
+      required: false
+    - id: 23
+      name: amenities_rating
+      label: Amenities Rating
+      hint: Rate the amenities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Not Used
+      required: false
+    - id: 24
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend this gallery
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 25
+      name: likelihood_to_return
+      label: Likelihood to Return
+      hint: How likely are you to return
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 26
+      name: improvements_suggested
+      label: Improvements Suggested
+      hint: What could be improved
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

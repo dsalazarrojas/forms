@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Camp Registration Form
+    pages:
+    - id: 1
+      name: program_selection
+      label: Program Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 2
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_grade
+      label: Camper Grade
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      required: true
+    - id: 4
+      name: camper_contact
+      label: Camper Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: camper_email
+      label: Camper Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Camper Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_info
+      label: Emergency Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false

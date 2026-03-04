@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: esports_arena_time_booking_form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_arrival
+      label: date_of_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: gaming_station
+      label: gaming_station
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: gaming_station_type
+      label: gaming_station_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

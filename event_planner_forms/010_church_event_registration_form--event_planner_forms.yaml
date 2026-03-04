@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: church_member
+      label: Are You a Church Member
+      hint: null
+      type: select_one
+      options:
+      - Yes, active member
+      - Yes, but not active
+      - No, first time visitor
+      - No, but attending regularly
+      required: true
+    - id: 7
+      name: event_selection
+      label: Which Event Are You Registering For
+      hint: Select the event
+      type: select_one
+      options:
+      - Spring Festival
+      - Summer Camp
+      - Fall Retreat
+      - Christmas Party
+      - Easter Celebration
+      - Youth Night
+      - Family Picnic
+      - Bible Conference
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: number_attending
+      label: How Many People Are Registering
+      hint: Include yourself and family members
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: family_members
+      label: Names of Additional Attendees
+      hint: List family members attending
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: age_groups
+      label: Age Groups of Attendees
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Children (under 12)
+      - Youth (13-17)
+      - Young Adults (18-30)
+      - Adults (31-64)
+      - Seniors (65+)
+      required: true
+    - id: 12
+      name: meal_preference
+      label: Meal Preference
+      hint: If meals are provided
+      type: select_one
+      options:
+      - No preference
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Kosher
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Please list any allergies
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: If event shirt is included
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult 2XL
+      required: false
+    - id: 15
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: null
+      type: select_one
+      options:
+      - Yes, need a ride
+      - Yes, can provide rides
+      - No, have own transportation
+      required: true
+    - id: 16
+      name: childcare_needed
+      label: Do You Need Childcare Services
+      hint: For young children
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_conditions
+      label: Any Medical Conditions We Should Know
+      hint: For safety purposes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: If there is a registration fee
+      type: select_one
+      options:
+      - Pay online now
+      - Pay at event
+      - Request scholarship
+      - Free event
+      required: true
+    - id: 20
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: null
+      type: select_one
+      options:
+      - Church bulletin
+      - Website
+      - Social media
+      - Friend or family
+      - Pastor announcement
+      - Email newsletter
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Accessibility needs, etc.
+      type: text
+      options: []
+      required: false

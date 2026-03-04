@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crystal Meditation Experience Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Meditation'', ''label'': ''Meditation''}'
+      - '{''value'': ''Yoga'', ''label'': ''Yoga''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: attendee_count
+      label: Attendee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': None, ''label'': ''chatjimmy''}'
+      - '{''value'': None, ''label'': ''None''}'
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

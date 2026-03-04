@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Trainer Seminar Registration
+    pages:
+    - id: 1
+      name: seminar_event_information
+      label: -- Seminar Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seminar_title
+      label: Seminar Title
+      hint: Name of the seminar
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seminar_date
+      label: Seminar Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: seminar_location
+      label: Seminar Location
+      hint: City and venue name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_information
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: professional_credentials
+      label: Professional Credentials
+      hint: ATC, LAT, athletic training degree, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization_affiliation
+      label: Organization/School Affiliation
+      hint: Where do you work?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: work_setting
+      label: Work Setting
+      hint: Your primary work environment
+      type: select_one
+      options:
+      - High School
+      - College/University
+      - Professional
+      - Clinic
+      - Hospital
+      - Other
+      required: true
+    - id: 13
+      name: experience_level
+      label: Experience Level
+      hint: Years of athletic training experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 14
+      name: session_selection
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_session_interest
+      label: Primary Session Interest
+      hint: Which session are you most interested in?
+      type: select_one
+      options:
+      - Injury Prevention
+      - Emergency Care
+      - Rehabilitation
+      - Sports Medicine
+      - Mental Health
+      - Technology in Training
+      - Other
+      required: true
+    - id: 16
+      name: secondary_session_interest
+      label: Secondary Session Interest
+      hint: Any other sessions of interest?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: workshop_preferences
+      label: Workshop Preferences
+      hint: Select desired workshops
+      type: select_multiple
+      options:
+      - Tape and Strapping
+      - Assessment Techniques
+      - Treatment Methods
+      - Documentation
+      - Professional Development
+      required: false
+    - id: 18
+      name: registration_type
+      label: -- Registration Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your registration level
+      type: select_one
+      options:
+      - Individual Registration
+      - Group Rate
+      - Student Rate
+      - Member Rate
+      - Presenter
+      required: true
+    - id: 20
+      name: registration_fee
+      label: Registration Fee
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any special dietary needs?
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      - None
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lodging_needed
+      label: Lodging Needed
+      hint: Do you need help with accommodations?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: continuing_education_credits
+      label: Continuing Education Credits Needed
+      hint: Do you need CE credit documentation?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests?
+      type: text
+      options: []
+      required: false

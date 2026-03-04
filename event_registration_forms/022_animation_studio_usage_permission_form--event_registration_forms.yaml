@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Studio Usage Permission Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Brand Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_info_header
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of the animation project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Brief description of the work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_type
+      label: Type of Project
+      hint: What kind of animation
+      type: select_one
+      options:
+      - Commercial or Advertisement
+      - Educational Video
+      - Entertainment Content
+      - Explainer Video
+      - Product Demo
+      - Corporate Video
+      - Social Media Content
+      - Other
+      required: true
+    - id: 10
+      name: completion_date
+      label: Project Completion Date
+      hint: When was the project finished
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: usage_permission_header
+      label: -- Usage Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: usage_type
+      label: How do you want to use this work
+      hint: Select all intended uses
+      type: select_multiple
+      options:
+      - Portfolio and Showreel
+      - Client Case Study
+      - Website
+      - Social Media Marketing
+      - Print Materials
+      - Industry Award Submissions
+      - Educational Purposes
+      - Client Presentations
+      - Sales and Pitching
+      - News and Media
+      required: true
+    - id: 13
+      name: promotional_use
+      label: Permission for studio promotional use
+      hint: Can the studio use this for marketing
+      type: select_one
+      options:
+      - Yes, full permission
+      - Yes, with credit
+      - Yes, anonymously
+      - Limited use only
+      - No permission
+      required: true
+    - id: 14
+      name: case_study_permission
+      label: Permission to feature as case study
+      hint: Can this be used for case studies
+      type: select_one
+      options:
+      - Yes, full case study
+      - Yes, excerpt only
+      - Yes, with confidentiality
+      - No permission
+      required: true
+    - id: 15
+      name: award_submission
+      label: Permission for industry award submissions
+      hint: Can this be submitted to awards
+      type: select_one
+      options:
+      - Yes, for any awards
+      - Yes, specific awards only
+      - Yes, with anonymity
+      - No, do not submit
+      required: false
+    - id: 16
+      name: distribution_header
+      label: -- Distribution and Reach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: distribution_scope
+      label: Distribution Scope
+      hint: Where can this be shared
+      type: select_multiple
+      options:
+      - Website
+      - Social Media Platforms
+      - Streaming Services
+      - Educational Institutions
+      - Industry Publications
+      - TV or Broadcast
+      - International Distribution
+      - Limited Domestic Use
+      required: false
+    - id: 18
+      name: social_media_platforms
+      label: Specific Social Media Platforms Approved
+      hint: Which platforms can use this
+      type: select_multiple
+      options:
+      - YouTube
+      - Instagram
+      - Facebook
+      - TikTok
+      - LinkedIn
+      - Twitter
+      - Vimeo
+      - All Platforms
+      required: false
+    - id: 19
+      name: duration_header
+      label: -- Duration of Permission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: permission_duration
+      label: Duration of Usage Permission
+      hint: How long can this be used
+      type: select_one
+      options:
+      - Perpetual - unlimited time
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - Until project is outdated
+      - Specific end date
+      required: true
+    - id: 21
+      name: end_date
+      label: Specific End Date if Applicable
+      hint: Date permission expires
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: credit_attribution_header
+      label: -- Credit and Attribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: credit_requirements
+      label: How should the studio be credited
+      hint: Your preferred credit format
+      type: select_one
+      options:
+      - Animation by Studio Name
+      - Animated by Studio Name
+      - Produced by Studio Name
+      - No credit required
+      - Custom credit format
+      required: true
+    - id: 24
+      name: custom_credit
+      label: Custom Credit Format
+      hint: If custom, describe exact credit
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: legal_agreement
+      label: I grant the above usage permissions
+      hint: You acknowledge agreement to terms
+      type: select_one
+      options:
+      - Yes, I agree to all terms
+      - No, I do not agree
+      required: true

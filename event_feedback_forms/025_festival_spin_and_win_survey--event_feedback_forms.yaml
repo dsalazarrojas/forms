@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Spin And Win Survey
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_attended
+      label: Which festival did you attend?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_date
+      label: When did you attend?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: At what time did you attend?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: What did you think of the festival?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Any suggestions for the next festival?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Want to be contacted for future events?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 8
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Cancellation Form
+    pages:
+    - id: 1
+      name: summer_camp_cancellation_form_title
+      label: Summer Camp Cancellation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - Cancelled due to weather
+      - Other reason
+      - Family Emergency
+      - Other
+      required: false
+    - id: 3
+      name: cancellation_date
+      label: Cancellation Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: cancellation_time
+      label: Cancellation Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_reason_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Cancel
+      - Submit
+      required: false

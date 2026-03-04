@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Event Sponsorship Request Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Name of the Event
+      hint: The specific event you are requesting sponsorship for
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_name
+      label: Company or Individual Name
+      hint: As it should appear in marketing materials
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sponsorship_level
+      label: Desired Sponsorship Level
+      hint: Select one of our preset packages
+      type: select_one
+      options:
+      - Platinum ($5,000+)
+      - Gold ($2,500)
+      - Silver ($1,000)
+      - Bronze ($500)
+      - Community Partner (In-kind)
+      required: true
+    - id: 7
+      name: contribution_amount
+      label: Specific Financial Contribution
+      hint: Enter exact amount if known
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: in_kind_description
+      label: Description of In-Kind Contribution
+      hint: If donating goods or services instead of cash
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_benefits
+      label: Preferred Marketing Benefits
+      hint: What is most important to your brand?
+      type: select_multiple
+      options:
+      - Logo on Website
+      - Social Media Mentions
+      - On-site Signage
+      - Speaking Opportunity
+      - Program Guide Ad
+      - Complimentary Tickets
+      required: false
+    - id: 10
+      name: logo_status
+      label: Company Logo Status
+      hint: null
+      type: select_one
+      options:
+      - Sent via email
+      - Uploaded to portal
+      - Needs to be designed
+      required: true
+    - id: 11
+      name: billing_address
+      label: Billing Address
+      hint: For invoicing purposes
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sponsorship_agreement
+      label: I agree to the sponsorship terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true

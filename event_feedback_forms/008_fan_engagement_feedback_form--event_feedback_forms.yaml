@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Engagement Feedback Form
+    pages:
+    - id: 1
+      name: fan_engagement_form
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: Rate your experience
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: content_preferences
+      label: Content preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_experience
+      label: Event experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: fan_preferences
+      label: Fan preferences
+      hint: What do you like about our event?
+      type: text
+      options: []
+      required: false

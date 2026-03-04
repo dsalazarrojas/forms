@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Data Workshop Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_address
+      label: participant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_number
+      label: participant number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Payment''}'
+      - '{''id'': 2, ''label'': ''Offline Payment''}'
+      - '{''id'': 3, ''label'': ''Cash Payment''}'
+      required: false
+    - id: 7
+      name: total_participants
+      label: total participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: workshop_price
+      label: workshop price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_discount
+      label: participant discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_payment
+      label: participant payment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Payment''}'
+      - '{''id'': 2, ''label'': ''Offline Payment''}'
+      - '{''id'': 3, ''label'': ''Cash Payment''}'
+      required: false

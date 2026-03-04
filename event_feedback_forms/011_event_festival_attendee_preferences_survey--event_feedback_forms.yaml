@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Festival Attendee Preferences Survey
+    pages:
+    - id: 1
+      name: event_festival_attendee_preferences_survey
+      label: What did you think of the event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_festival_programming
+      label: What did you like about the programming
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: event_festival_satisfaction
+      label: How would you rate your overall satisfaction with the event
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 4
+      name: event_festival_preferences
+      label: How would you rate your overall preferences for this event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_festival_improvements
+      label: What could we improve on for next year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_festival_email
+      label: Would you like to receive email updates
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_festival_phone
+      label: Would you like to receive phone updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_festival_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

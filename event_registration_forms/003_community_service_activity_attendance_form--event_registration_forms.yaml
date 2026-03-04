@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Activity Attendance Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event name
+      hint: Title of the service activity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: Date of the activity
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_name
+      label: Participant full name
+      hint: Enter the volunteer or attendee name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Participant email address
+      hint: For follow up and confirmations
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: arrival_time
+      label: Arrival time
+      hint: Record arrival time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: departure_time
+      label: Departure time
+      hint: Record departure time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: activity_roles
+      label: Activity role or assignment
+      hint: Role performed during the activity
+      type: select_one
+      options:
+      - Team lead
+      - Volunteer
+      - Coordinator
+      - Participant
+      required: true
+    - id: 8
+      name: hours_contributed
+      label: Hours contributed
+      hint: Whole number of hours volunteered
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_name
+      label: Supervisor or coordinator name
+      hint: Person overseeing the activity
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments or observations
+      hint: Any notes about attendance or performance
+      type: text
+      options: []
+      required: false

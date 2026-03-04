@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flood Information Session Feedback
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Not satisfied''}'
+      - '{''label'': ''2 - Neutral''}'
+      - '{''label'': ''3 - Satisfied''}'
+      - '{''label'': ''4 - Highly Satisfied''}'
+      - '{''label'': ''5 - Very Satisfied''}'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: topic_suggestions
+      label: Topic Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Suggestion 1''}'
+      - '{''label'': ''Suggestion 2''}'
+      - '{''label'': ''Suggestion 3''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Governance Certification Registration Form
+    pages:
+    - id: 1
+      name: project_name
+      label: project-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_info
+      label: participant-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_type
+      label: participant-type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_type_other
+      label: participant-type-other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: certification_date
+      label: certification-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: certification_type
+      label: certification-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: certification_status
+      label: certification-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: certification_expiration_date
+      label: certification-expiration-date
+      hint: null
+      type: date
+      options: []
+      required: false

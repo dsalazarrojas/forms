@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibition Booth Payment Form
+    pages:
+    - id: 1
+      name: booth_details
+      label: Exhibitor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: Choose your payment method
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Check
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: Enter the payment amount
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: Please select one of the payment terms below
+      type: select_one
+      options:
+      - 30 Day Payment Terms
+      - 60 Day Payment Terms
+      - 90 Day Payment Terms
+      required: false
+    - id: 5
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

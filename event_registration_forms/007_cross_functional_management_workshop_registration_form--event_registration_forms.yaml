@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Functional Management Workshop Registration Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop
+      label: Workshop
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': 1}'
+      - '{''label'': ''Option 2'', ''value'': 2}'
+      - '{''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''chatjimmy''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Event Registration Forms''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false

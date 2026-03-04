@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_type
+      label: Request Type
+      hint: What are you requesting
+      type: select_one
+      options:
+      - Speaking Opportunity
+      - Exhibition Space
+      - Sponsorship Information
+      - Group Registration
+      - Media Accreditation
+      - Venue Inquiry
+      - General Information
+      required: true
+    - id: 8
+      name: conference_interest
+      label: Conference of Interest
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_date
+      label: Preferred Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: number_of_attendees
+      label: Expected Number of Attendees
+      hint: Group size
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: presentation_topic
+      label: Proposed Presentation Topic
+      hint: If requesting to speak
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: presentation_format
+      label: Preferred Format
+      hint: Session type
+      type: select_one
+      options:
+      - Keynote
+      - Breakout Session
+      - Workshop
+      - Panel Discussion
+      - Lightning Talk
+      - Poster
+      - Not Applicable
+      required: false
+    - id: 13
+      name: booth_size
+      label: Booth Size Preference
+      hint: If exhibiting
+      type: select_one
+      options:
+      - Small 10x10
+      - Medium 10x20
+      - Large 20x20
+      - Custom
+      - Not Applicable
+      required: false
+    - id: 14
+      name: sponsorship_level
+      label: Sponsorship Level Interest
+      hint: If sponsoring
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - In-Kind
+      - Need More Information
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$5000
+      - $5000-$10000
+      - $10000-$25000
+      - Over $25000
+      - To Be Determined
+      required: false
+    - id: 16
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: av_needs
+      label: Audio Visual Needs
+      hint: Equipment requirements
+      type: select_multiple
+      options:
+      - Projector
+      - Microphone
+      - Sound System
+      - Recording
+      - Live Stream
+      - Lighting
+      - None
+      required: false
+    - id: 18
+      name: marketing_opportunities
+      label: Marketing Opportunities
+      hint: Interested in
+      type: select_multiple
+      options:
+      - Logo on Website
+      - Program Advertisement
+      - Booth Placement
+      - Speaking Slot
+      - Sponsored Session
+      - Social Media Mention
+      - Not Interested
+      required: false
+    - id: 19
+      name: timeline
+      label: Decision Timeline
+      hint: When do you need to decide
+      type: select_one
+      options:
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Just Exploring
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Colleague
+      - Previous Event
+      - Advertisement
+      - Email
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_preference
+      label: Follow-Up Preference
+      hint: How to contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Either
+      required: true
+    - id: 23
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: Preferred contact time
+      type: text
+      options: []
+      required: false

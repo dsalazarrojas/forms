@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laser Tag Consent Form
+    pages:
+    - id: 1
+      name: event_planner_forms_title
+      label: Laser Tag Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_planner_forms_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_planner_forms_category
+      label: Category
+      hint: Select a category
+      type: select_one
+      options:
+      - Event Planner Forms
+      - Other
+      required: false
+    - id: 4
+      name: event_planner_forms_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_planner_forms_keywords
+      label: Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_planner_forms_version_history
+      label: Version History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_planner_forms_customization
+      label: Customization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: event_planner_forms_embed
+      label: Embed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_planner_forms_export
+      label: Export
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - CSV
+      required: false
+    - id: 10
+      name: event_planner_forms_customer_consent
+      label: Customer Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

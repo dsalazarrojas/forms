@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Attendee Interest Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: 'Select the type of event you are interested in:'
+      type: select_one
+      options:
+      - '{''Label'': ''Concert''}'
+      - '{''Label'': ''Conference''}'
+      - '{''Label'': ''Sports''}'
+      - '{''Label'': ''Other''}'
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Label'': ''Small''}'
+      - '{''Label'': ''Medium''}'
+      - '{''Label'': ''Large''}'
+      required: false
+    - id: 7
+      name: interests
+      label: Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_location
+      label: Assigned Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_attendees
+      label: Assigned Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Label'': ''Small''}'
+      - '{''Label'': ''Medium''}'
+      - '{''Label'': ''Large''}'
+      required: false
+    - id: 16
+      name: assigned_comments
+      label: Assigned Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

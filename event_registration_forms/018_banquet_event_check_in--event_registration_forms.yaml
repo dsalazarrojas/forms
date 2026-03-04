@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banquet Event Check In
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: Today's event date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_name
+      label: Reservation Name
+      hint: Name the reservation is under
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: party_size
+      label: Number of Guests in Party
+      hint: How many people are in your group?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Dairy-Free
+      - Kosher
+      - Halal
+      - No Restrictions
+      required: false
+    - id: 8
+      name: special_dietary_notes
+      label: Special Dietary Notes
+      hint: Any additional dietary information
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accommodations?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe what accommodations are needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seating_preference
+      label: Seating Preference
+      hint: Any seating requests?
+      type: select_one
+      options:
+      - No Preference
+      - Near Stage
+      - Near Entrance
+      - Away from Noise
+      - Together with Specific Group
+      required: false
+    - id: 12
+      name: table_assignment
+      label: Table Assignment
+      hint: If known, your assigned table number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: plus_one_attending
+      label: Is Your Plus One Attending?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 14
+      name: plus_one_name
+      label: Plus One Name
+      hint: Name of your guest
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parking_required
+      label: Do You Need Parking Information?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: vehicle_info
+      label: Vehicle Information
+      hint: License plate or vehicle color
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: arrival_time
+      label: Estimated Arrival Time
+      hint: When will you arrive?
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: rsvp_confirmation
+      label: RSVP Confirmed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 19
+      name: check_in_time
+      label: Check-In Time
+      hint: Time of check-in
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: staff_notes
+      label: Special Notes or Requests
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Picnic Food Preference Form
+    pages:
+    - id: 1
+      name: main_food
+      label: food
+      hint: null
+      type: select_multiple
+      options:
+      - Burgers
+      - Hot Dogs
+      - Grilled Chicken
+      - Salads
+      - Veggies
+      - Fruits
+      - Cookies
+      required: false
+    - id: 2
+      name: main_diet
+      label: diet
+      hint: null
+      type: select_one
+      options:
+      - vegetarian
+      - vegan
+      - gluten-free
+      - none
+      required: false
+    - id: 3
+      name: main_comment
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: main_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: main_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: extra_food_extra
+      label: extra-food
+      hint: null
+      type: select_multiple
+      options:
+      - Watermelon
+      - Chips
+      - Pickles
+      - Pretzels
+      - Cookies
+      - Crackers
+      required: false
+    - id: 7
+      name: extra_comment
+      label: extra-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: extra_email
+      label: extra-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: extra_phone
+      label: extra-phone
+      hint: null
+      type: text
+      options: []
+      required: false

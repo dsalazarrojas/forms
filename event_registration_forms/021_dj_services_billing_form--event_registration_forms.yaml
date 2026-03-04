@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Services Billing Form
+    pages:
+    - id: 1
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 4
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_note
+      label: Event Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: billing_note
+      label: Billing Note
+      hint: null
+      type: note
+      options: []
+      required: false

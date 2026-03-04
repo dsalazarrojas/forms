@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Media Coverage Evaluation Survey
+    pages:
+    - id: 1
+      name: media_coverage_quality
+      label: Media Coverage Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audience_reach
+      label: Audience Reach
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: coverage_scope
+      label: Coverage Scope
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

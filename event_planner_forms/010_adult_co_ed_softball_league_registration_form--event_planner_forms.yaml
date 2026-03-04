@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Co Ed Softball League Registration Form
+    pages:
+    - id: 1
+      name: team_information
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: team_name
+      label: Team name
+      hint: Enter team or write Free Agent
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_preference
+      label: Position preference
+      hint: Select primary playing position
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - Infield
+      - Outfield
+      - Any
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for roster
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: waiver_agreement
+      label: Liability waiver agreement
+      hint: Required to participate
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 8
+      name: jersey_size
+      label: Jersey size
+      hint: Choose preferred size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 9
+      name: payment_received
+      label: Payment received
+      hint: For organizer use
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 10
+      name: special_needs
+      label: Special needs or medical conditions
+      hint: Optional information
+      type: text
+      options: []
+      required: false

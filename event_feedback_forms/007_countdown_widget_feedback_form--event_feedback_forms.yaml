@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Countdown Widget Feedback Form
+    pages:
+    - id: 1
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - Feedback about the countdown widget
+      - Feedback about the overall event
+      - Other
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event
+      label: event
+      hint: null
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: true
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false

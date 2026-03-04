@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: '1'
+      label: Retreat Extra Nightly Rates Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stay_length
+      label: Stay Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: extra_nights
+      label: Extra Nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: extra_nights_frequency
+      label: Extra Nights Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Bi-Weekly
+      - Quarterly
+      required: false
+    - id: 6
+      name: preferred_nightly_rate
+      label: Preferred Nightly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pricing_model
+      label: Pricing models
+      hint: null
+      type: select_one
+      options:
+      - Tier 1
+      - Tier 2
+      - Tier 3
+      - Tier 4
+      required: false
+    - id: 8
+      name: desired_amenities
+      label: Desired Amenities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: desired_services
+      label: Desired services
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Yoga
+      - Meditation
+      required: false
+    - id: 10
+      name: pricing_breakdown
+      label: Pricing Breakdown
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false

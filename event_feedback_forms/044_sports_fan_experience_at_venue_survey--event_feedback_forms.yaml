@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_fan_experience_at_venue_survey
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      required: true
+    - id: 3
+      name: venue
+      label: Venue
+      hint: null
+      type: select_multiple
+      options:
+      - Madison Square Garden
+      - Yankee Stadium
+      - Fenway Park
+      required: true
+    - id: 4
+      name: event_score
+      label: Event Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fan_satisfaction
+      label: Fan Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: event_climate
+      label: Event Climate
+      hint: null
+      type: select_multiple
+      options:
+      - Air-conditioned
+      - Not air-conditioned
+      - Not applicable
+      required: true
+    - id: 8
+      name: venue_facilities
+      label: Venue Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Cleanliness of the venue
+      - Availability of food and beverages
+      - Availability of restrooms
+      required: true
+    - id: 9
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_staff
+      label: Event Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Friendly
+      - Not friendly
+      - Not applicable
+      required: true
+    - id: 11
+      name: parking
+      label: Parking
+      hint: null
+      type: select_one
+      options:
+      - On-site parking
+      - Off-site parking
+      required: true
+    - id: 12
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: fan_interest
+      label: Fan Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Somewhat
+      - Not at all
+      required: true
+    - id: 14
+      name: event_frequency
+      label: Event Frequency
+      hint: null
+      type: number
+      options: []
+      required: true

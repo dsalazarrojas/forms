@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports League Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_multiple
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: true
+    - id: 7
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Online Transfer
+      required: true
+    - id: 9
+      name: payment_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: fee
+      label: Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fee_description
+      label: Fee description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: fee_date
+      label: Fee date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: coach_name
+      label: Coach name
+      hint: null
+      type: text
+      options: []
+      required: true

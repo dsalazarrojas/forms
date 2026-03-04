@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chamber Of Commerce Event Interest Poll
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Chamber member email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: company_name
+        label: Company or Organization Name
+        hint: Business you represent
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: membership_status
+        label: Membership Status
+        hint: Your chamber membership level
+        type: select_one
+        options: ["Active Member", "Associate Member", "Investor Member"]
+        required: false
+      - id: 5
+        name: past_event_attendance
+        label: How Often Do You Attend Chamber Events
+        hint: Your typical attendance frequency
+        type: select_one
+        options: ["Regularly", "Occasionally", "Rarely", "Never Attended"]
+        required: false
+      - id: 6
+        name: networking_priority
+        label: Networking Opportunities Priority
+        hint: How important is networking for you
+        type: select_one
+        options: ["Very Important", "Important", "Somewhat Important", "Not Important"]
+        required: true
+      - id: 7
+        name: business_development_priority
+        label: Business Development Priority
+        hint: Focus on business growth topics
+        type: select_one
+        options: ["Very Important", "Important", "Somewhat Important", "Not Important"]
+        required: true
+      - id: 8
+        name: education_priority
+        label: Educational Content Priority
+        hint: Preference for learning sessions
+        type: select_one
+        options: ["Very Important", "Important", "Somewhat Important", "Not Important"]
+        required: true
+      - id: 9
+        name: preferred_event_topics
+        label: Preferred Event Topics
+        hint: Select topics of interest
+        type: select_multiple
+        options: ["Leadership Development", "Marketing and Branding", "Technology and Innovation", "Finance and Economics", "Workforce Development", "Sustainability", "International Trade"]
+        required: false
+      - id: 10
+        name: preferred_event_format
+        label: Preferred Event Format
+        hint: How would you like events structured
+        type: select_one
+        options: ["In-Person Only", "Virtual Only", "Hybrid (In-Person and Virtual)", "No Preference"]
+        required: true
+      - id: 11
+        name: preferred_event_time
+        label: Preferred Time for Events
+        hint: When works best for you
+        type: select_one
+        options: ["Breakfast Meeting 7-9am", "Lunch Meeting 12-1pm", "After-Work 5-6pm", "Evening 6-8pm", "Weekend", "No Preference"]
+        required: true
+      - id: 12
+        name: preferred_event_duration
+        label: Preferred Event Duration
+        hint: How long should events be
+        type: select_one
+        options: ["1 Hour", "1.5 Hours", "2 Hours", "2+ Hours", "No Preference"]
+        required: false
+      - id: 13
+        name: event_frequency
+        label: Desired Event Frequency
+        hint: How often should chamber host events
+        type: select_one
+        options: ["Weekly", "Bi-weekly", "Monthly", "Quarterly", "As Needed"]
+        required: false
+      - id: 14
+        name: partnership_interest
+        label: Interest in Sponsoring or Co-hosting Events
+        hint: Would you like to sponsor events
+        type: select_one
+        options: ["Very Interested", "Somewhat Interested", "Not Interested"]
+        required: false
+      - id: 15
+        name: speaker_type_preference
+        label: Preferred Speaker Types
+        hint: What kind of speakers interest you
+        type: select_multiple
+        options: ["Industry Experts", "Local Business Owners", "National Thought Leaders", "Government Officials", "Non-profit Leaders"]
+        required: false
+      - id: 16
+        name: special_population_interests
+        label: Interest in Targeted Member Groups
+        hint: Interested in specific member groups
+        type: select_multiple
+        options: ["Young Professionals", "Female Entrepreneurs", "Minority-Owned Businesses", "Women in Business", "Tech Leaders"]
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Additional Feedback or Suggestions
+        hint: Any other ideas or feedback
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: follow_up_permission
+        label: Permission to Follow Up
+        hint: May chamber staff contact you about events
+        type: select_one
+        options: ["Yes", "No"]
+        required: false
+      - id: 19
+        name: email_list_opt_in
+        label: Add Me to Event Mailing List
+        hint: Receive event announcements
+        type: select_one
+        options: ["Yes, Add Me", "No, Remove Me", "Keep Current Status"]
+        required: true

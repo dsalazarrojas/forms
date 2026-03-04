@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Festival Performance Slot Request Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performance_name
+      label: Performance Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: performance_duration
+      label: Performance Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: performance_format
+      label: Performance Format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: technical_needs
+      label: Technical Needs
+      hint: null
+      type: text
+      options: []
+      required: true

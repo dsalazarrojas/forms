@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: economy_accommodation_request_form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: room_preferences
+      label: Room Preferences
+      hint: We have single or double rooms available. Please specify if you have any
+        additional room preferences.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hotel''}'
+      - '{''value'': ''Hostel''}'
+      - '{''value'': ''Airbnb''}'
+      - '{''value'': ''Guest House''}'
+      required: true
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_agency_name
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_address
+      label: Accommodation Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false

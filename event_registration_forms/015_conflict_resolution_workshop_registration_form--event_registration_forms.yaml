@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Resolution Workshop Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Corporate Business
+      - Healthcare
+      - Education
+      - Government
+      - Nonprofit
+      - Legal
+      - Technology
+      - Manufacturing
+      - Retail
+      - Other
+      required: true
+    - id: 8
+      name: workshop_date
+      label: Workshop Date
+      hint: Select your preferred workshop date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: workshop_format
+      label: Workshop Format
+      hint: How will you attend
+      type: select_one
+      options:
+      - In Person
+      - Virtual Live
+      - Hybrid
+      required: true
+    - id: 10
+      name: experience_level
+      label: Conflict Resolution Experience
+      hint: Your current skill level
+      type: select_one
+      options:
+      - Beginner - New to Topic
+      - Beginner - Some Experience
+      - Intermediate - Practical Experience
+      - Advanced - Extensive Training
+      required: true
+    - id: 11
+      name: role_in_conflicts
+      label: Your Role in Conflict Situations
+      hint: How are you typically involved
+      type: select_one
+      options:
+      - Direct Participant
+      - Manager Resolving Team Conflicts
+      - HR Professional
+      - Mediator or Facilitator
+      - Observer
+      required: true
+    - id: 12
+      name: common_conflict_types
+      label: Types of Conflicts You Encounter
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Interpersonal Disputes
+      - Team Conflicts
+      - Manager Employee Issues
+      - Cross Department Conflicts
+      - Client or Customer Conflicts
+      - Vendor Disputes
+      - Union or Labor Issues
+      - Cultural or Diversity Issues
+      required: true
+    - id: 13
+      name: learning_goals
+      label: Your Learning Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: specific_challenges
+      label: Specific Challenges You Face
+      hint: Describe current conflict situations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_size
+      label: Size of Your Team
+      hint: Number of people you work with or manage
+      type: select_one
+      options:
+      - 1 to 5
+      - 6 to 15
+      - 16 to 50
+      - 51 to 100
+      - More than 100
+      required: false
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For in-person catering
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Halal
+      - Kosher
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_type
+      label: Payment Type
+      hint: How will you pay
+      type: select_one
+      options:
+      - Self Funded
+      - Company Funded
+      - Scholarship
+      - Group Rate
+      required: true
+    - id: 19
+      name: company_name_billing
+      label: Company Name for Billing
+      hint: If company is paying
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_contact
+      label: Billing Contact Name
+      hint: Name for invoice
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_email
+      label: Billing Email
+      hint: Email for invoice delivery
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: group_registration
+      label: Are You Registering a Group
+      hint: Multiple attendees from same organization
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: group_size
+      label: Group Size
+      hint: Number of attendees in your group
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Agreement to workshop policies
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 25
+      name: cancellation_understood
+      label: Cancellation Policy Understood
+      hint: You understand cancellation terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: referral_source
+      label: How Did You Hear About This Workshop
+      hint: Source of information
+      type: select_one
+      options:
+      - Email Campaign
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Professional Association
+      - Previous Attendee
+      - Search Engine
+      - Other
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: registration_status
+      label: Registration Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Pending Payment
+      - Payment Received
+      - Confirmed
+      - Waitlisted
+      - Cancelled
+      required: true

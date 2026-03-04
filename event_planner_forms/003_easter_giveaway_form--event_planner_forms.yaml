@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter giveaway form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gift_preferences
+      label: gift preferences
+      hint: What type of gift would you like to receive?
+      type: select_multiple
+      options:
+      - gift 1
+      - gift 2
+      - gift 3
+      required: false
+    - id: 7
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false

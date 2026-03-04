@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Centerpiece Design Competition Entry
+    pages:
+    - id: 1
+      name: entry_date
+      label: Entry Submission Date
+      hint: Date of competition entry submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of competition entrant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business or Studio Name
+      hint: Name of your business if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: Contact email for notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_portfolio
+      label: Website or Portfolio URL
+      hint: Link to your online portfolio or website
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Instagram or other social media username
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_of_experience
+      label: Years of Experience
+      hint: How many years have you been designing centerpieces
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 9
+      name: competition_category
+      label: Competition Category
+      hint: Select the category for your entry
+      type: select_one
+      options:
+      - Wedding centerpieces
+      - Corporate event centerpieces
+      - Holiday seasonal centerpieces
+      - Garden outdoor centerpieces
+      - Modern contemporary designs
+      - Traditional classic designs
+      - Open category
+      required: true
+    - id: 10
+      name: design_title
+      label: Design Title
+      hint: Creative name for your centerpiece design
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: design_description
+      label: Design Description
+      hint: Detailed description of your centerpiece concept
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: design_dimensions
+      label: Design Dimensions
+      hint: Height, width, and depth measurements
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: materials_used
+      label: Primary Materials Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fresh flowers
+      - Dried flowers
+      - Artificial flowers
+      - Foliage and greenery
+      - Candles
+      - Glass vessels
+      - Metal elements
+      - Wood elements
+      - Fabric ribbons
+      - Natural stones
+      - Other
+      required: true
+    - id: 14
+      name: design_inspiration
+      label: Design Inspiration
+      hint: What inspired this design
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: estimated_cost
+      label: Estimated Cost per Centerpiece
+      hint: Approximate material cost to create one unit
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: production_time
+      label: Production Time
+      hint: How long does it take to create one centerpiece
+      type: select_one
+      options:
+      - Under 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - Over 4 hours
+      required: true
+    - id: 17
+      name: photo_front_view
+      label: Photo Upload - Front View
+      hint: Upload clear photo of front view
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: photo_side_view
+      label: Photo Upload - Side View
+      hint: Upload clear photo of side view
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: photo_detail_closeup
+      label: Photo Upload - Detail Close-up
+      hint: Upload photo showing intricate details
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: video_walkthrough
+      label: Video Upload - Optional
+      hint: Upload short video showcasing the design
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_competitions
+      label: Previous Competition Experience
+      hint: Have you entered design competitions before
+      type: select_one
+      options:
+      - Yes - Multiple competitions
+      - Yes - One competition
+      - No - First time entering
+      required: true
+    - id: 22
+      name: awards_recognition
+      label: Awards or Recognition
+      hint: List any relevant awards or recognition received
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to the competition rules and terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 24
+      name: promotional_consent
+      label: Promotional Use Consent
+      hint: I consent to my design being photographed and used for promotional purposes
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

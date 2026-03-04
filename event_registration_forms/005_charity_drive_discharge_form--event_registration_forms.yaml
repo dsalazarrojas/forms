@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Drive Discharge Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role_in_drive
+      label: Role in Charity Drive
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Staff Member
+      - Sponsor
+      - Coordinator
+      required: true
+    - id: 4
+      name: discharge_date
+      label: Discharge Date
+      hint: Date you concluded your duties
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_event_feedback
+      label: -- Event Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction with the Drive
+      hint: Rate your experience from 1 to 5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 7
+      name: event_organization_rating
+      label: How well was the event organized
+      hint: null
+      type: select_one
+      options:
+      - Well Organized
+      - Moderately Organized
+      - Poorly Organized
+      required: true
+    - id: 8
+      name: key_successes
+      label: What were the key successes of this drive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: challenges_faced
+      label: What challenges did you encounter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resources_adequacy
+      label: Were the resources provided adequate
+      hint: Tools, supplies, training, etc.
+      type: select_one
+      options:
+      - Yes, completely
+      - Somewhat
+      - false
+      required: true
+    - id: 11
+      name: section_future_engagement
+      label: -- Future Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: future_participation_interest
+      label: Are you interested in participating in future drives
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true
+    - id: 13
+      name: referral_likelihood
+      label: Likelihood of recommending this organization to others
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Unlikely
+      required: false
+    - id: 14
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can we make the next drive better
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: final_checkout_notes
+      label: Final Checkout Notes
+      hint: Any items returned, remaining tasks, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coordinator_signature_ack
+      label: I have completed all required discharge steps
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true

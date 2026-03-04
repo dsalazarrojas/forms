@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Decor Payment Form
+    pages:
+    - id: 1
+      name: event_decor_payment_form
+      label: Event Decor Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Credit Card''}'
+      - '{''id'': 11, ''label'': ''PayPal''}'
+      - '{''id'': 12, ''label'': ''Bank Transfer''}'
+      required: true
+    - id: 6
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

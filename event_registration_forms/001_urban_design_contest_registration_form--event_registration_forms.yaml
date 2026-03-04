@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Design Contest Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contest_type
+      label: Contest Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Urban'', ''label'': ''Urban''}'
+      - '{''id'': 2, ''name'': ''Design'', ''label'': ''Design''}'
+      required: false
+    - id: 3
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_file
+      label: Submission File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_image
+      label: Project Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

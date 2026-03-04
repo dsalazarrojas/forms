@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Medicine Innovation Summit Registration
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance_type
+      label: Attendance Type
+      hint: null
+      type: select_one
+      options:
+      - Delegate
+      - Organizer
+      - Speaker
+      required: false
+    - id: 6
+      name: details
+      label: details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organized_event_details
+      label: Organized Event Details
+      hint: null
+      type: note
+      options: []
+      required: false

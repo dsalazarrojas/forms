@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clean Label Forum Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or Company
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization do you work for
+      type: select_one
+      options:
+      - Food Manufacturer
+      - Retail or Grocery Chain
+      - Restaurant or Food Service
+      - Government Agency
+      - Nonprofit or NGO
+      - Academic or Research Institution
+      - Consulting Firm
+      - Media or Press
+      - Other
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: forum_date_selection
+      label: Forum Date Selection
+      hint: Which forum date will you attend
+      type: select_one
+      options:
+      - Day 1 Only
+      - Day 2 Only
+      - Both Days
+      - Virtual Attendance
+      required: true
+    - id: 11
+      name: participation_type
+      label: Participation Type
+      hint: How will you participate
+      type: select_one
+      options:
+      - In-Person Attendee
+      - Virtual Attendee
+      - Panel Speaker
+      - Workshop Facilitator
+      - Exhibitor
+      - Sponsor Representative
+      - Media Representative
+      required: true
+    - id: 12
+      name: registration_category
+      label: Registration Category
+      hint: Select your registration type
+      type: select_one
+      options:
+      - Standard Registration
+      - Early Bird Registration
+      - Student Registration
+      - Nonprofit or Government Discount
+      - Group Registration (3+)
+      - Sponsor or Exhibitor
+      - Complimentary or Invited
+      required: true
+    - id: 13
+      name: session_preferences
+      label: Session Preferences
+      hint: Which sessions are you most interested in
+      type: select_multiple
+      options:
+      - Clean Label Regulations and Compliance
+      - Natural Preservatives and Shelf Life
+      - Consumer Trends and Market Insights
+      - Ingredient Sourcing and Supply Chain
+      - Product Formulation Challenges
+      - Marketing and Labeling Claims
+      - Sustainability and Clean Label
+      - Case Studies and Success Stories
+      required: true
+    - id: 14
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking events
+      type: select_one
+      options:
+      - Yes - Very interested
+      - Yes - Somewhat interested
+      - No - Not interested
+      required: true
+    - id: 15
+      name: dietary_preferences
+      label: Dietary Preferences or Restrictions
+      hint: Any dietary requirements for catering
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 16
+      name: meal_selection
+      label: Meal Preferences
+      hint: Select your meal preferences
+      type: select_one
+      options:
+      - Standard Menu
+      - Vegetarian Menu
+      - Vegan Menu
+      - Special Dietary Requirements (specify in comments)
+      required: true
+    - id: 17
+      name: exhibition_interest
+      label: Exhibition Interest
+      hint: Are you interested in visiting the exhibition area
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Maybe - Depending on time
+      - No - Not interested
+      required: false
+    - id: 18
+      name: certificate_needed
+      label: Certificate of Attendance Needed
+      hint: Do you need a certificate for professional development
+      type: select_one
+      options:
+      - Yes - Certificate required
+      - No - Certificate not needed
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay the registration fee
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Invoice Request
+      - Already Paid by Organization
+      - Complimentary Registration
+      required: true
+    - id: 20
+      name: invoice_details
+      label: Invoice Details
+      hint: If invoice needed, provide billing information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About This Forum
+      hint: How did you learn about this event
+      type: select_one
+      options:
+      - Email Invitation
+      - Website
+      - Social Media
+      - Colleague or Friend
+      - Professional Association
+      - Previous Attendee
+      - Industry Publication
+      - Other
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Any special requirements or requests
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: May we send you information about future events
+      type: select_one
+      options:
+      - Yes - I would like to receive updates
+      - No - Do not send marketing communications
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to the event terms and conditions
+      type: select_one
+      options:
+      - Yes - I accept the terms and conditions
+      - No - I do not accept
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false

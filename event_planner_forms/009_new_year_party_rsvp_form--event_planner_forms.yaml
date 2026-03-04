@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year Party RSVP Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attending_status
+      label: attending status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 4
+      name: guests
+      label: guests
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: rsvp_by
+      label: RSVP by
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_time
+      label: RSVP time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

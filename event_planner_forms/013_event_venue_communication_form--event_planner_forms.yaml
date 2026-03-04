@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Venue Communication Form
+    pages:
+    - id: 1
+      name: event_venue_communication_form
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jim'', ''label'': ''Jim''}'
+      - '{''value'': ''Jane'', ''label'': ''Jane''}'
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Conference'', ''label'': ''Conference''}'
+      - '{''value'': ''Meeting'', ''label'': ''Meeting''}'
+      - '{''value'': ''Event'', ''label'': ''Event''}'
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_venue_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: venue_details
+      label: Venue Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: venue_address
+      label: Venue Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active'', ''label'': ''Active''}'
+      - '{''value'': ''Inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 19
+      name: venue_status
+      label: Venue Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active'', ''label'': ''Active''}'
+      - '{''value'': ''Inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 20
+      name: event_priority
+      label: Event Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High'', ''label'': ''High''}'
+      - '{''value'': ''Low'', ''label'': ''Low''}'
+      required: false
+    - id: 21
+      name: venue_priority
+      label: Venue Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High'', ''label'': ''High''}'
+      - '{''value'': ''Low'', ''label'': ''Low''}'
+      required: false

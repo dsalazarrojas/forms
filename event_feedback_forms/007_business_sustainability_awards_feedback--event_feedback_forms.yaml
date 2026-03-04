@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Sustainability Awards Feedback
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance_role
+      label: Your Role at the Event
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Sponsor
+      - Organizer
+      - Media
+      - Volunteer
+      required: true
+    - id: 6
+      name: event_organization
+      label: Overall Event Organization
+      hint: How well was the event organized
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 7
+      name: venue_experience
+      label: Venue and Facilities Experience
+      hint: Rate the location and amenities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: content_quality
+      label: Quality of Content and Presentations
+      hint: Were the sessions valuable
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 9
+      name: networking_opportunities
+      label: Networking Opportunities
+      hint: Quality of connections made
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: sustainability_focus
+      label: Relevance of Sustainability Focus
+      hint: How well did the awards highlight sustainability
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      - Not at All Relevant
+      required: true
+    - id: 11
+      name: award_winners
+      label: Quality of Award Winners Selected
+      hint: Were the right businesses recognized
+      type: select_one
+      options:
+      - Excellent Choices
+      - Good Choices
+      - Average
+      - Poor Choices
+      - Very Poor Choices
+      required: true
+    - id: 12
+      name: most_enjoyed
+      label: What Did You Enjoy Most About the Event
+      hint: Highlight positive experiences
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: improvement_suggestions
+      label: How Can We Improve the Event
+      hint: Constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommend_event
+      label: Would You Recommend This Event to Others
+      hint: Overall recommendation
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 15
+      name: future_attendance
+      label: Will You Attend Next Year
+      hint: Plans for future events
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: match_day_experience_feedback_form
+    pages:
+    - id: 1
+      name: match_day_experiences
+      label: Match Day Experiences
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: team_id
+      label: Which Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: venue_id
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: event_id
+      label: Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: match_day_experience_rating
+      label: Match Day Experience Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_comments
+      label: Rating Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

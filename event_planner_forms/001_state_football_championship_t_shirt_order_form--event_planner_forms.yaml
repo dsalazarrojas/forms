@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: State Football Championship T Shirt Order Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_color
+      label: Team Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: t_shirt_size
+      label: T Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Extra Small
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 4
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: order_color
+      label: Order Color
+      hint: null
+      type: select_multiple
+      options:
+      - Navy Blue
+      - Forest Green
+      - White
+      required: true
+    - id: 6
+      name: order_size
+      label: Order Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 7
+      name: shirt_text
+      label: Shirt Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shirt_design
+      label: Shirt Design
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Custom
+      required: true
+    - id: 9
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - Navy Blue
+      - Forest Green
+      - White
+      required: true
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

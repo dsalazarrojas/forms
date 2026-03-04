@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amusement Ride Reservation Form
+    pages:
+    - id: 1
+      name: section_ride_reservation
+      label: -- Ride Reservation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Guest Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_booking_details
+      label: -- Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: ride_selection
+      label: Select Your Ride
+      hint: null
+      type: select_one
+      options:
+      - Roller Coaster
+      - Ferris Wheel
+      - Bumper Cars
+      - Haunted House
+      - Water Slide
+      required: true
+    - id: 8
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: number_of_riders
+      label: Number of Riders
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_safety_requirements
+      label: -- Safety Requirements --
+      hint: Please confirm all that apply
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rider_health_confirmation
+      label: Health and Safety Confirmation
+      hint: Confirming these items is required for boarding
+      type: select_multiple
+      options:
+      - No Heart Conditions
+      - Not Pregnant
+      - Meets Height Requirement
+      - No Back / Neck Issues
+      required: true
+    - id: 12
+      name: average_rider_height_cm
+      label: Average Rider Height in cm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_confirmation_type
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reservation_type
+      label: Reservation Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group Booking
+      - VIP Fast Pass
+      required: true
+    - id: 15
+      name: special_accommodations_needed
+      label: Special Accommodations Needed
+      hint: e.g. Accessibility needs
+      type: text
+      options: []
+      required: false

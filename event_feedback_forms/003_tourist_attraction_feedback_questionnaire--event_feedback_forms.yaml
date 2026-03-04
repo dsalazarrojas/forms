@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist Attraction Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: welcome_to_the_tourist_attraction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: how_would_you_rate_your_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: do_you_have_suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - Contact method
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: what_did_you_like_about_the_event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback2
+      label: what_did_you_dislike_about_the_event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feedback3
+      label: what_can_be_improved_for_the_event
+      hint: null
+      type: text
+      options: []
+      required: false

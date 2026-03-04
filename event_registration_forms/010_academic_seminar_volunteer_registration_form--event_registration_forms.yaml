@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Seminar Volunteer Registration Form
+    pages:
+    - id: 1
+      name: section_volunteer_profile
+      label: -- Volunteer Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_email
+      label: Email Address
+      hint: Primary communication channel
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_phone
+      label: Phone Number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: status
+      label: Current Status
+      hint: Your role within the institution
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - External
+      required: true
+    - id: 6
+      name: section_assignments
+      label: -- Assignment Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: roles_interested
+      label: Roles you are interested in
+      hint: Select all that interest you
+      type: select_multiple
+      options:
+      - Registration Desk
+      - Technical Support
+      - Speaker Liaison
+      - Session Moderator
+      - Logistics and Setup
+      required: true
+    - id: 8
+      name: availability_slots
+      label: Select your availability
+      hint: Shifts available
+      type: select_multiple
+      options:
+      - Morning Session
+      - Afternoon Session
+      - Evening Reception
+      - Full Day
+      required: true
+    - id: 9
+      name: shirt_size
+      label: T-shirt Size for Volunteer Gear
+      hint: Unisex sizing
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 10
+      name: section_skills
+      label: -- Skills and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: previous_volunteer_experience
+      label: Have you volunteered for academic events before?
+      hint: Prior involvement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: language_proficiency
+      label: Are you proficient in a second language for international guests?
+      hint: Multi-lingual support
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: specific_skills
+      label: List any technical or organizational skills
+      hint: e.g. Excel, AV equipment, Crowd control
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_final
+      label: -- Final Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_commitment
+      label: I commit to attending the orientation session and my assigned shifts
+      hint: Reliability agreement
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

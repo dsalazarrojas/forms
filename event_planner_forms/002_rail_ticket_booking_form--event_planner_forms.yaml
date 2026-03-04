@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rail Ticket Booking Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: departure_station
+      label: departure_station
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''London Paddington''}'
+      - '{''value'': ''Bristol Temple Mead''}'
+      - '{''value'': ''Bristol Temple Mead''}'
+      required: false
+    - id: 3
+      name: arrival_station
+      label: arrival_station
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''London Paddington''}'
+      - '{''value'': ''Bristol Temple Mead''}'
+      - '{''value'': ''Bristol Temple Mead''}'
+      required: false
+    - id: 4
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: class_type
+      label: class_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''First Class''}'
+      - '{''value'': ''Second Class''}'
+      required: false
+    - id: 6
+      name: ticket_type
+      label: ticket_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single Ticket''}'
+      - '{''value'': ''Return Ticket''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: error_message
+      label: error_message
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Impact Hackathon Registration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Social Impact Hackathon Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Developer''}'
+      - '{''id'': 2, ''label'': ''Student''}'
+      - '{''id'': 3, ''label'': ''Organizer''}'
+      required: false
+    - id: 6
+      name: name_of_event
+      label: Name of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: is_silent
+      label: Is Silent?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_2
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_training_program_participation_evaluation_form
+    pages:
+    - id: 1
+      name: training_program_name
+      label: Training Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_attended
+      label: Date Attended
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: training_program_rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: training_program_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 11
+      name: training_program_enrollment
+      label: Enrollment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: training_program_improvement
+      label: Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Content
+      - Delivery
+      - Organization
+      - Timing
+      - Other
+      required: false
+    - id: 13
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: trainer_performance
+      label: Trainer Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 16
+      name: training_program_name
+      label: Training Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: training_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: training_session_time
+      label: Session Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_session_days
+      label: Session Days
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trainer_attendance
+      label: Trainer Attendance
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Unable to Attend
+      required: true
+    - id: 23
+      name: training_improvement
+      label: Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: session_minutes
+      label: Session Minutes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: trainer_evaluation
+      label: Trainer Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false

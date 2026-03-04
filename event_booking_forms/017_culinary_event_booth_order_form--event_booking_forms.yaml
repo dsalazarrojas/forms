@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Event Booth Order Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 5
+      name: payment_method_other
+      label: Payment Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_items
+      label: Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      required: false
+    - id: 7
+      name: order_items_other
+      label: Order Items Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booth_type
+      label: Booth Type
+      hint: null
+      type: select_one
+      options:
+      - 10 ft x 10 ft
+      - 10 ft x 5 ft
+      - Other
+      required: false
+    - id: 9
+      name: booth_details
+      label: Booth Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_amount_other
+      label: Payment Amount Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

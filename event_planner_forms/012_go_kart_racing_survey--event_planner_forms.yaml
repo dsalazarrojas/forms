@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Go Kart Racing Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: How did you feel about your overall experience?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: track_quality
+      label: track_quality
+      hint: How would you rate the condition of the track?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: staff_friendliness
+      label: staff_friendliness
+      hint: How friendly were the staff during your visit?
+      type: select_multiple
+      options:
+      - Very friendly
+      - Somewhat friendly
+      - Not very friendly
+      required: false
+    - id: 5
+      name: equipment_quality
+      label: equipment_quality
+      hint: How would you rate the quality of the equipment?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: safety
+      label: safety
+      hint: How safe do you feel when racing at the facility?
+      type: select_multiple
+      options:
+      - Very safe
+      - Somewhat safe
+      - Not very safe
+      required: false
+    - id: 7
+      name: food_and_beverages
+      label: food_and_beverages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pricing
+      label: pricing
+      hint: How reasonable is the pricing?
+      type: select_one
+      options:
+      - Too high
+      - Too low
+      - Just right
+      required: false
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: Do you have any suggestions for improvement?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: Is there anything else you would like to add?
+      type: text
+      options: []
+      required: false

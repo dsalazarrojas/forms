@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Education Training Registration Form
+    pages:
+    - id: 1
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - Training Program 1
+      - Training Program 2
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Payment Option 1
+      - Payment Option 2
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm_payment
+      label: Confirm Payment Info
+      hint: null
+      type: select_one
+      options:
+      - Payment Option 1
+      - Payment Option 2
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: josh_dampf_events_post_event_feedback
+    pages:
+    - id: 1
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: attendees
+      label: Attendees
+      hint: List all attendees
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: What did you think?
+      hint: Please let us know your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Terrible''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: will_attend
+      label: Will you attend next event?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 8
+      name: feedback_to_organizers
+      label: Feedback to organizers
+      hint: null
+      type: text
+      options: []
+      required: false

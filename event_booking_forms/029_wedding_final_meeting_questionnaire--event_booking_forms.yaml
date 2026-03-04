@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_final_meeting_questionnaire
+    pages:
+    - id: 1
+      name: wedding_location
+      label: wedding_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wedding_time
+      label: wedding_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: wedding_venue
+      label: wedding_venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wedding_type
+      label: wedding_type
+      hint: null
+      type: select_one
+      options:
+      - ceremony
+      - reception
+      - both
+      required: false
+    - id: 6
+      name: guests_list
+      label: guests_list
+      hint: null
+      type: select_multiple
+      options:
+      - guests
+      - Other
+      required: false
+    - id: 7
+      name: wedding_details
+      label: wedding_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wedding_guests
+      label: wedding_guests
+      hint: null
+      type: select_multiple
+      options:
+      - guests
+      - Other
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: wedding_planner
+      label: wedding_planner
+      hint: null
+      type: text
+      options: []
+      required: false

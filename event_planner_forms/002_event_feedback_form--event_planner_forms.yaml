@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Feedback Form
+    pages:
+    - id: 1
+      name: event_feedback_form
+      label: what_was_your_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_feedback_form_presentation
+      label: presenters
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''not_satisfied'', ''text'': ''Not Satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''text'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''name'': ''very_satisfied'', ''text'': ''Very Satisfied''}'
+      required: true
+    - id: 3
+      name: event_feedback_form_venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_feedback_form_suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_feedback_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_feedback_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: event_feedback_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_feedback_form_services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''venue'', ''text'': ''Venue''}'
+      - '{''id'': 2, ''name'': ''presentation'', ''text'': ''Presentation''}'
+      - '{''id'': 3, ''name'': ''speakers'', ''text'': ''Speakers''}'
+      - '{''id'': 4, ''name'': ''catering'', ''text'': ''Catering''}'
+      - '{''id'': 5, ''name'': ''overall'', ''text'': ''Overall''}'
+      - '{''id'': 6, ''name'': ''logistics'', ''text'': ''Logistics''}'
+      required: true
+    - id: 9
+      name: event_feedback_form_agree
+      label: agree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''agree'', ''text'': ''Agree''}'
+      - '{''id'': 2, ''name'': ''not_agree'', ''text'': ''Not Agree''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''text'': ''Neutral''}'
+      required: true
+    - id: 10
+      name: event_feedback_form_dont_know
+      label: dont_know
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''agree'', ''text'': ''Agree''}'
+      - '{''id'': 2, ''name'': ''not_agree'', ''text'': ''Not Agree''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''text'': ''Neutral''}'
+      required: false
+    - id: 11
+      name: event_feedback_form_dont_know_other
+      label: dont_know_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_feedback_form_agree_other
+      label: agree_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_feedback_form_dont_know_venue
+      label: dont_know_venue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''venue'', ''text'': ''Venue''}'
+      - '{''id'': 2, ''name'': ''not_venue'', ''text'': ''Not Venue''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''text'': ''Neutral''}'
+      required: false

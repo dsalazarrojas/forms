@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homecoming Mum Order Form
+    pages:
+    - id: 1
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_parent
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_of_mums
+      label: mums_quantity
+      hint: Enter the total number of mums to be ordered.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Deluxe
+      - Plus
+      required: false
+    - id: 5
+      name: mum_price
+      label: price_per_mum
+      hint: Enter the price per mum.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total
+      label: total_price
+      hint: The total price of the order is calculated automatically based on the
+        quantity of mums ordered and the price per mum.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: name_of_recipient
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: recipient_email
+      hint: Enter the email of the recipient.
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: recipient_phone
+      hint: Enter the phone number of the recipient.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date_of_event
+      hint: Enter the date of the event.
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time_of_event
+      hint: Enter the time of the event.
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_type
+      label: type_of_event
+      hint: null
+      type: select_one
+      options:
+      - Homecoming
+      - Prom
+      - School Event
+      required: false
+    - id: 13
+      name: notes
+      label: additional_notes
+      hint: Any additional notes or instructions for the event organizers.
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

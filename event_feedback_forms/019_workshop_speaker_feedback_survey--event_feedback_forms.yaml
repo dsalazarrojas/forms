@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Speaker Feedback Survey
+    pages:
+    - id: 1
+      name: session_title
+      label: Session Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: speaker_rating
+      label: Speaker Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_relevant
+      label: Speaker Relevant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: speaker_informative
+      label: Speaker Informative
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: false
+    - id: 9
+      name: speaker_engaging
+      label: Speaker Engaging
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: false
+    - id: 10
+      name: speaker_knowledgeable
+      label: Speaker Knowledgeable
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: false
+    - id: 11
+      name: session_organization
+      label: Session Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_materials
+      label: Session Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

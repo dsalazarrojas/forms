@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Workshop Schedule Booking Form
+    pages:
+    - id: 1
+      name: dance_workshop_schedule_booking_form
+      label: Dance Workshop Schedule Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: schedule
+      label: schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: booking_status
+      label: booking_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_email
+      label: instructor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: instructor_phone
+      label: instructor_phone
+      hint: null
+      type: text
+      options: []
+      required: false

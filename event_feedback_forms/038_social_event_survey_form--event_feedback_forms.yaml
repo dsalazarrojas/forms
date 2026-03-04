@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Event Survey Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendees_number
+      label: Attendees Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: Choose an option
+      type: select_one
+      options:
+      - Networking Event
+      - Party
+      - Conference
+      - Seminar
+      - Workshop
+      required: false
+    - id: 5
+      name: event_success
+      label: Event Success
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: improvement_areas
+      label: Improvement Areas
+      hint: Please list areas for improvement
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: impact_measured
+      label: Impact Measured
+      hint: null
+      type: number
+      options: []
+      required: false

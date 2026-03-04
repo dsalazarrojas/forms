@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Setup Form
+    pages:
+    - id: 1
+      name: game_session_details
+      label: game_session_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: players
+      label: players
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: game_mode
+      label: game_mode
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: schedule_matches
+      label: schedule_matches
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: game_rules
+      label: game_rules
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: community_club
+      label: community_club
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

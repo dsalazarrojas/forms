@@ -1,0 +1,252 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Evaluation Form
+    pages:
+      - id: 1
+        name: section_header_event_info
+        label: -- Event Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: event_name
+        label: Event Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: event_date
+        label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: attendee_name
+        label: Your Name (Optional)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: attendee_email
+        label: Your Email (Optional)
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: section_header_overall
+        label: -- Overall Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction with Event
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: would_attend_again
+        label: Would You Attend This Event Again
+        hint: null
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 9
+        name: likelihood_recommend
+        label: Likelihood to Recommend to Others
+        hint: null
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 10
+        name: section_header_logistics
+        label: -- Logistics and Organization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: venue_comfort
+        label: Comfort and Suitability of Venue
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 12
+        name: registration_check_in
+        label: Ease of Registration and Check-in
+        hint: null
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: false
+      - id: 13
+        name: schedule_timing
+        label: Event Schedule and Timing
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: false
+      - id: 14
+        name: accessibility
+        label: Accessibility for People with Disabilities
+        hint: null
+        type: select_one
+        options:
+          - Fully accessible
+          - Mostly accessible
+          - Partially accessible
+          - Minimally accessible
+          - Not accessible
+        required: false
+      - id: 15
+        name: section_header_content
+        label: -- Content and Programming --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: content_quality
+        label: Quality of Content and Programming
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 17
+        name: speaker_quality
+        label: Quality of Speakers or Presenters
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+          - N/A
+        required: false
+      - id: 18
+        name: relevance_to_church
+        label: Relevance to Church Mission and Values
+        hint: null
+        type: select_one
+        options:
+          - Very relevant
+          - Relevant
+          - Somewhat relevant
+          - Not relevant
+          - N/A
+        required: false
+      - id: 19
+        name: section_header_fellowship
+        label: -- Fellowship and Community --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: fellowship_opportunity
+        label: Opportunity for Fellowship
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: false
+      - id: 21
+        name: sense_of_community
+        label: Sense of Community and Belonging
+        hint: null
+        type: select_one
+        options:
+          - Very strong
+          - Strong
+          - Neutral
+          - Weak
+          - Very weak
+        required: false
+      - id: 22
+        name: section_header_improvements
+        label: -- Feedback and Improvements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: best_aspects
+        label: What Were the Best Aspects of the Event
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be done better next time
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

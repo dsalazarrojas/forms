@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Dress Quiz
+    pages:
+    - id: 1
+      name: intro1
+      label: What type of wedding dress would you like to wear?
+      hint: null
+      type: select_one
+      options:
+      - A-line
+      - Mermaid
+      - Trumpet
+      - Ball Gown
+      - Ballroom
+      - Tea Length
+      - Mermaid/Trumpet
+      - Fit and Flare
+      - Sheath
+      - Column
+      - A-line/Column
+      - Ball Gown/Mermaid
+      - Mermaid/Fit and Flare
+      - Ball Gown/Sheath
+      required: false
+    - id: 2
+      name: silhouette1
+      label: What is your body type?
+      hint: null
+      type: select_multiple
+      options:
+      - Petite
+      - Tall
+      - Average
+      - Full
+      - Hourglass
+      required: true
+    - id: 3
+      name: design1
+      label: What is your design style?
+      hint: null
+      type: select_one
+      options:
+      - Classic/Traditional
+      - Vintage-Inspired
+      - Modern/Contemporary
+      - Romantic/Rustic
+      - Bohemian
+      - Minimalist
+      required: false
+    - id: 4
+      name: neckline1
+      label: What is your neckline preference?
+      hint: null
+      type: select_multiple
+      options:
+      - Round
+      - V-Neck
+      - Heart/Heart-Shaped
+      - Sweetheart
+      - Square
+      - Off-the-Shoulder
+      - Scooped
+      - Straps
+      - High/High
+      - Low/Low
+      - Bell
+      required: true
+    - id: 5
+      name: sleeve1
+      label: What is your sleeve preference?
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Long
+      - Bell
+      - Cap
+      - Off-the-Shoulder
+      - Cap/Short
+      - Bell/Long
+      - Long/Off-the-Shoulder
+      - Short/Cap
+      - Long/Long
+      required: false
+    - id: 6
+      name: fabric1
+      label: What is your fabric preference?
+      hint: null
+      type: select_multiple
+      options:
+      - Lace
+      - Satin
+      - Silk
+      - Organza
+      - Tulle
+      - Brocade
+      - Charmeuse
+      required: true
+    - id: 7
+      name: color1
+      label: What is your color preference?
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Ivory
+      - Beige
+      - Pastel
+      - Champagne
+      - Soft Pink
+      - Deep Navy
+      - Deep Purple
+      - Emerald Green
+      - Bright Pink
+      - Turquoise
+      required: false
+    - id: 8
+      name: price1
+      label: What is your budget for the wedding dress?
+      hint: null
+      type: select_multiple
+      options:
+      - Under 1,000
+      - 1,000-3,000
+      - 3,000-5,000
+      - 5,000-7,000
+      - 7,000-10,000
+      - Over 10,000
+      required: false
+    - id: 9
+      name: style1
+      label: How would you describe your style?
+      hint: null
+      type: select_one
+      options:
+      - Classic
+      - Trendy
+      - Bohemian
+      - Elegant
+      - Whimsical
+      - Romantic
+      - Casual
+      - Rustic
+      - Vintage
+      - Glam
+      required: false
+    - id: 10
+      name: size1
+      label: What is your body size?
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Plus
+      - Petite
+      - X-Large
+      - X-Plus
+      required: true
+    - id: 11
+      name: height1
+      label: What is your height?
+      hint: null
+      type: select_one
+      options:
+      - Under 5ft 0in
+      - 5ft 0in-5ft 3in
+      - 5ft 3in-5ft 6in
+      - 5ft 6in-5ft 9in
+      - 5ft 9in-6ft 0in
+      - 6ft 0in-6ft 3in
+      - 6ft 3in-6ft 6in
+      - 6ft 6in-6ft 9in
+      - 6ft 9in-7ft 0in
+      - Over 7ft 0in
+      required: false
+    - id: 12
+      name: age1
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: age_group1
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 14
+      name: wedding_date1
+      label: What is your wedding date?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: wedding_location1
+      label: Where will you be getting married?
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - City Hall
+      - Church
+      - Garden
+      - Castle
+      - Mountain
+      - Mountain Lake
+      - Park
+      - Barn
+      - Vineyard
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibition Booking Form
+    pages:
+    - id: 1
+      name: exhibition_name
+      label: exhibitionName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: startDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: endDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: booth_type
+      label: boothType
+      hint: null
+      type: select_one
+      options:
+      - BoothType:Booth 1
+      - BoothType:Booth 2
+      - BoothType:Booth 3
+      required: false
+    - id: 5
+      name: exhibition_name
+      label: exhibitionName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: representative
+      label: representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_booking
+      label: confirmBooking
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: exhibition_booking_form_page_3
+      label: ExhibitionBookingFormPage3
+      hint: null
+      type: text
+      options: []
+      required: false

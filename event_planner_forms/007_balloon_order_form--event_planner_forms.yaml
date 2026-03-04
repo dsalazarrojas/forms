@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balloon Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Name on the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact for order updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_date
+      label: Delivery or Pickup Date
+      hint: When do you need your balloons
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Home Delivery
+      - Business Delivery
+      - Event Venue Delivery
+      - Store Pickup
+      required: true
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: balloon_package
+      label: Balloon Package
+      hint: Select a package or custom order
+      type: select_one
+      options:
+      - Small Party Pack (10 balloons)
+      - Medium Party Pack (25 balloons)
+      - Large Party Pack (50 balloons)
+      - Deluxe Package (100 balloons)
+      - Custom Order
+      required: true
+    - id: 9
+      name: balloon_size
+      label: Balloon Size
+      hint: Preferred balloon size
+      type: select_one
+      options:
+      - Standard (9 inch)
+      - Large (12 inch)
+      - Jumbo (16 inch)
+      - Mixed Sizes
+      required: true
+    - id: 10
+      name: balloon_colors
+      label: Balloon Colors
+      hint: Select your preferred colors
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Pink
+      - Purple
+      - Green
+      - Yellow
+      - Orange
+      - White
+      - Black
+      - Gold
+      - Silver
+      - Multicolor Mix
+      required: true
+    - id: 11
+      name: balloon_style
+      label: Balloon Style
+      hint: Type of balloons
+      type: select_multiple
+      options:
+      - Standard Latex
+      - Metallic Foil
+      - Clear with Confetti
+      - Printed Design
+      - Shaped Balloons
+      - LED Light-Up
+      required: true
+    - id: 12
+      name: custom_message
+      label: Custom Message
+      hint: Text to print on balloons
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: ribbon_color
+      label: Ribbon Color
+      hint: Curling ribbon color
+      type: select_one
+      options:
+      - Matching Balloon Color
+      - White
+      - Silver
+      - Gold
+      - Multicolor
+      - No Ribbon
+      required: false
+    - id: 14
+      name: weights_needed
+      label: Balloon Weights
+      hint: Do you need decorative weights
+      type: select_one
+      options:
+      - Yes, add weights
+      - No thank you
+      required: false
+    - id: 15
+      name: weight_quantity
+      label: Number of Weights
+      hint: How many weights do you need
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: weight_style
+      label: Weight Style
+      hint: Type of balloon weights
+      type: select_one
+      options:
+      - Standard Metallic
+      - Themed Design
+      - Custom Printed
+      - Clear Acrylic
+      required: false
+    - id: 17
+      name: helium_fill
+      label: Helium Fill
+      hint: Do you want balloons filled with helium
+      type: select_one
+      options:
+      - Yes, helium filled
+      - No, air filled only
+      - Mix of both
+      required: true
+    - id: 18
+      name: hi_float_treatment
+      label: Hi-Float Treatment
+      hint: Extends float time up to 2 weeks
+      type: select_one
+      options:
+      - Yes, add Hi-Float
+      - No thank you
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Delivery notes or requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Pickup
+      - Invoice (Business Accounts)
+      required: true
+    - id: 21
+      name: promo_code
+      label: Promo Code
+      hint: Discount code if you have one
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: gift_message
+      label: Gift Message
+      hint: Include a card with message
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_notes
+      label: Additional Order Notes
+      hint: Any other details we should know
+      type: text
+      options: []
+      required: false

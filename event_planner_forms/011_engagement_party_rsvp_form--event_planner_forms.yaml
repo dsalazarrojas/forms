@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: engagement_party_rsvp_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: response
+      label: Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attending
+      label: Are you attending?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 9
+      name: rsvp_at
+      label: RSVP At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rsvp_sent
+      label: RSVP Sent
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: rsvp_received
+      label: RSVP Received
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: response_sent
+      label: Response Sent
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: response_received
+      label: Response Received
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Pending
+      - Completed
+      required: false
+    - id: 18
+      name: rsvp_comment
+      label: RSVP Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

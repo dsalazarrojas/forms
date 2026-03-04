@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Event Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Webinar
+      - Meetup
+      - Workshop
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: false

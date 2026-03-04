@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Retreat Meal Preferences
+    pages:
+    - id: 1
+      name: couples_retreat_meal_preferences
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meal_preferences
+      label: Meal Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-Vegetarian
+      - Non-Hunter
+      required: false
+    - id: 3
+      name: couples_diet
+      label: Couples' Diet
+      hint: Enter a brief description of your dietary needs or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: couples_meal_choice
+      label: Couples' Meal Choice
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 5
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

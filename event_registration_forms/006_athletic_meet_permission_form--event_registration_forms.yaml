@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Meet Permission Form
+    pages:
+    - id: 1
+      name: event_section
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event/Meet Name
+      hint: Name of the athletic event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Date of the athletic meet or competition
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: City and venue where event will be held
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: athlete_information
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: athlete_name
+      label: Athlete Name
+      hint: Full name of the athlete
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: grade_level
+      label: Grade Level
+      hint: Current school grade
+      type: select_one
+      options:
+      - K
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: false
+    - id: 9
+      name: parent_information
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: Name of parent or legal guardian
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Other emergency contact if parent unavailable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for alternate emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_information
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any relevant medical conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medications
+      label: Current Medications
+      hint: List any medications athlete is taking
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recent_illness
+      label: Has athlete been ill in the past two weeks?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: medical_clearance
+      label: Physician Medical Clearance
+      hint: Has athlete obtained physician clearance to participate?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: true
+    - id: 20
+      name: permission_acknowledgment
+      label: I give permission for my child to participate in this athletic event
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: liability_waiver
+      label: I understand and accept the liability waiver
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 22
+      name: emergency_procedures_acknowledgment
+      label: I understand emergency procedures will be followed
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 23
+      name: transportation_method
+      label: How will athlete travel to the event?
+      hint: null
+      type: select_one
+      options:
+      - Team Transportation
+      - Parent/Guardian Will Drive
+      - Other Transportation
+      required: true
+    - id: 24
+      name: spectator_attendance
+      label: Will parent/guardian attend the event?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: false
+    - id: 25
+      name: parent_signature_consent
+      label: I certify that the information provided is accurate and complete
+      hint: By selecting yes, you confirm consent
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true

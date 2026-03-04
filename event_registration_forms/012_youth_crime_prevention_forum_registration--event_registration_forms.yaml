@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Crime Prevention Forum Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendance_interest
+      label: Attendance Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Enter the event date
+      type: date
+      options: []
+      required: false

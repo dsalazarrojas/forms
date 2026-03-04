@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibition Booth Check Out Form
+    pages:
+    - id: 1
+      name: booth_number
+      label: Booth Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: booth_name
+      label: Booth Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: services_selected
+      label: Services Selected
+      hint: Select one or more services that you have used or would like to use.
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 6
+      name: services_used
+      label: Services Used
+      hint: Select one or more services that you have used.
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: services_ordered
+      label: Services Ordered
+      hint: Select one or more services that you would like to order.
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: booth_selections
+      label: Booth Selections
+      hint: Select one or more booth selections.
+      type: select_multiple
+      options:
+      - Booth 1
+      - Booth 2
+      - Booth 3
+      required: false
+    - id: 14
+      name: staff
+      label: Staff
+      hint: Select the number of staff attending from 1 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: parking
+      label: Parking
+      hint: Select the parking spot number or provide a parking description.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_services
+      label: Additional Services
+      hint: Select one or more additional services that you would like to use.
+      type: select_multiple
+      options:
+      - Service D
+      - Service E
+      - Service F
+      required: false
+    - id: 18
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: services_wanted
+      label: Services Wanted
+      hint: Select one or more services that you would like to have available in future
+        events.
+      type: select_multiple
+      options:
+      - Service D
+      - Service E
+      - Service F
+      required: false
+    - id: 20
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: event_staff
+      label: Event Staff
+      hint: Select the event staff that you will be interacting with.
+      type: select_multiple
+      options:
+      - Event Staff A
+      - Event Staff B
+      - Event Staff C
+      required: false
+    - id: 24
+      name: staff_type
+      label: Staff Type
+      hint: Select the type of staff that you will be interacting with.
+      type: select_multiple
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 25
+      name: staff_availability
+      label: Staff Availability
+      hint: Select the staff availability.
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Unavailable
+      required: false

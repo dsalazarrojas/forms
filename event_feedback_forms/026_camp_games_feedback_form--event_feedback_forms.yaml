@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Games Feedback Form
+    pages:
+    - id: 1
+      name: games_feedback_intro_header
+      label: -- Camp Games Participant Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name_games
+      label: Participant Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_title_evaluated
+      label: Name of the Game
+      hint: Which game are you giving feedback on?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: game_fun_rating
+      label: Fun Factor Rating
+      hint: 1 (Boring) to 10 (Amazing)
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: game_difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Just Right
+      - Challenging
+      - Too Difficult
+      required: true
+    - id: 6
+      name: game_rules_clarity
+      label: Clarity of the Rules
+      hint: Were the instructions easy to understand?
+      type: select_one
+      options:
+      - 1 - Not Clear
+      - 2 - Somewhat Clear
+      - 3 - Very Clear
+      required: true
+    - id: 7
+      name: game_duration_satisfaction
+      label: Game Duration
+      hint: Did the game last the right amount of time?
+      type: select_one
+      options:
+      - Too Short
+      - Perfect Length
+      - Too Long
+      required: true
+    - id: 8
+      name: team_cooperation_score
+      label: Teamwork and Cooperation
+      hint: Did the game encourage working together?
+      type: select_one
+      options:
+      - Yes - High Teamwork
+      - Somewhat
+      - No - Individual Effort
+      required: true
+    - id: 9
+      name: favorite_moment_in_game
+      label: What was the best part of this game?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestions_for_rule_changes
+      label: Suggestions for Rule Changes
+      hint: How would you make it better next time?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safest_game_aspect
+      label: Safety Considerations
+      hint: Did you feel safe while playing this game?
+      type: select_one
+      options:
+      - Yes - Very Safe
+      - Mostly Safe
+      - No - Unsafe Moments
+      required: true
+    - id: 12
+      name: safety_concerns_details
+      label: Details of Safety Concerns
+      hint: If you answered No above, please explain
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: want_to_play_again
+      label: Would you want to play this game again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely!
+      - Maybe
+      - Not really
+      required: true
+    - id: 14
+      name: overall_camp_spirit_score
+      label: Camp Spirit Contribution
+      hint: Did this game make you feel more part of the camp?
+      type: number
+      options: []
+      required: false

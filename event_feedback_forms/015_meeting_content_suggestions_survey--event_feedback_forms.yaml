@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Content Suggestions Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 6
+      name: sub_category
+      label: Sub Category
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: meeting_id
+      label: Meeting ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Attendee 1
+      - Attendee 2
+      - Attendee 3
+      required: false
+    - id: 13
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comment
+      label: Comment
+      hint: Optional comment about this meeting
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up
+      label: Follow up
+      hint: Follow up on your meetings
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_date
+      label: Follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_time
+      label: Follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: email_follow_up
+      label: Email follow up
+      hint: Follow up via email
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: phone_number_follow_up
+      label: Phone number follow up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: meeting_notes
+      label: Meeting notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: action_items
+      label: Action items
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 23
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: completed_date
+      label: Completed date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

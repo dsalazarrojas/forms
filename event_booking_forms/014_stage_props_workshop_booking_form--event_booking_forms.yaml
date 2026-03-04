@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Props Workshop Booking Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter participant name here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter participant email here
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Enter participant address here
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Enter participant phone number here
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: booking_date
+      label: Booking Date
+      hint: Date of the booking
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: booking_time
+      label: Booking Time
+      hint: Time of the booking
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Enter number of guests here
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: workshop_date
+      label: Workshop Date
+      hint: Date of the workshop
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: workshop_time
+      label: Workshop Time
+      hint: Time of the workshop
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: message
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false

@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chili Cook Off Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Tell us about yourself or your team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant or Team Name
+      hint: Name for the competition
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: Team Name
+      hint: If competing as a team
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_captain
+      label: Team Captain Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: competition_category
+      label: Competition Category
+      hint: Select your entry category
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: chili_category
+      label: Chili Category
+      hint: null
+      type: select_one
+      options:
+      - Traditional Red Chili
+      - Green Chili
+      - White Chili
+      - Vegetarian Chili
+      - Vegan Chili
+      - Chili Verde
+      - People's Choice
+      required: true
+    - id: 10
+      name: team_size
+      label: Number of Team Members
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: team_members
+      label: Team Member Names
+      hint: List all team members
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: chili_details
+      label: Chili Entry Details
+      hint: Information about your chili
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: chili_name
+      label: Name of Your Chili Recipe
+      hint: Give your chili a creative name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recipe_description
+      label: Brief Description of Your Chili
+      hint: Key ingredients or special features
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: spicy_level
+      label: Spice Level
+      hint: How spicy is your chili
+      type: select_one
+      options:
+      - Mild
+      - Medium
+      - Hot
+      - Extra Hot
+      - Blazing Hot
+      required: true
+    - id: 16
+      name: cooking_requirements
+      label: Cooking Requirements
+      hint: Equipment or setup needs
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: equipment_needed
+      label: Equipment You Will Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Propane burner
+      - Electric burner
+      - Large pot (provided)
+      - Refrigeration
+      - Table space
+      - Electrical outlet
+      - Water access
+      - Trash disposal
+      required: true
+    - id: 18
+      name: setup_time_needed
+      label: How much setup time do you need
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1-2 hours
+      - More than 2 hours
+      required: false
+    - id: 19
+      name: event_logistics
+      label: Event Logistics
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attending_event
+      label: Will you attend the event in person
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will be there
+      - No, submitting chili only
+      - Maybe, will confirm later
+      required: true
+    - id: 21
+      name: guests_attending
+      label: Number of Guests Attending
+      hint: Family or team members
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event shirts if provided
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      - XXX-Large
+      - Not needed
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For event catering
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_registration
+      label: Payment and Registration
+      hint: Registration fee and terms
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: registration_fee
+      label: Registration Fee Payment
+      hint: null
+      type: select_one
+      options:
+      - Paid online
+      - Will pay at event
+      - Fee waived (sponsor)
+      - Other arrangement
+      required: true
+    - id: 26
+      name: agree_rules
+      label: I agree to follow all event rules and guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

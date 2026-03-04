@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Town Hall Meeting RSVP Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Admin
+      - Other
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: 123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: confirm_attendance
+      label: Confirm Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Please provide your comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: questions
+      label: Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rsvp_method
+      label: RSVP Method
+      hint: null
+      type: select_one
+      options:
+      - Web
+      - Phone
+      - Mail
+      required: false

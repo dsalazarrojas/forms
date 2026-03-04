@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Setup Authorization Form
+    pages:
+    - id: 1
+      name: stage_setup_authorization
+      label: Stage Setup Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - Event A
+      - Event B
+      - Event C
+      - Event D
+      - Event E
+      required: false
+    - id: 3
+      name: setup_details
+      label: Setup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: required_staff
+      label: Required Staff
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 14
+      name: event_planner_notes
+      label: Event Planner Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: stage_setup_status
+      label: Stage Setup Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - In Progress
+      - Rejected
+      required: false
+    - id: 16
+      name: event_planner_comments
+      label: Event Planner Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stage_setup_complete
+      label: Stage Setup Complete
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: false
+    - id: 19
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 20
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Meetup
+      - Workshop
+      required: false
+    - id: 21
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - Public Event
+      - Private Event
+      - Internal Event
+      required: false
+    - id: 22
+      name: event_subcategory
+      label: Event Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Event A
+      - Event B
+      - Event C
+      required: false
+    - id: 23
+      name: event_tags
+      label: Event Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 24
+      name: event_priority
+      label: Event Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false

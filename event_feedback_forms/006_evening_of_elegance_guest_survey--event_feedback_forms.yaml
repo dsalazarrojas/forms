@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: evening_of_elegance_guest_survey
+    pages:
+    - id: 1
+      name: event_feedback
+      label: How did you enjoy the event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_satisfaction
+      label: Event satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_service
+      label: Food and Beverage Service
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 4
+      name: guest_preferences
+      label: What would make this event better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

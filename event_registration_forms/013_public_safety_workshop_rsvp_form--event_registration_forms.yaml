@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Safety Workshop RSVP Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Participant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attending_workshop
+      label: Attending Workshop
+      hint: null
+      type: select_multiple
+      options:
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirmed
+      label: Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_participants
+      label: Number of participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false

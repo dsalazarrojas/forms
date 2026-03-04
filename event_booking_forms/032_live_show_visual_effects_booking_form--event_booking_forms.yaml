@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Show Visual Effects Booking Form
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: production_equipment
+      label: Production Equipment
+      hint: List the equipment you have available for the production (e.g. sound,
+        lighting, special effects)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_effects
+      label: Special Effects
+      hint: List the special effects you have available for the production (e.g. pyrotechnics,
+        lasers, drones)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stage_layout
+      label: Stage Layout
+      hint: Describe the stage layout for the production
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Venue 1''}'
+      - '{''id'': 2, ''name'': ''Venue 2''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

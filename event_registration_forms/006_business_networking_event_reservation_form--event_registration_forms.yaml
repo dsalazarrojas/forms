@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Networking Event Reservation Form
+    pages:
+    - id: 1
+      name: section_reservation_details
+      label: -- Reservation Details --
+      type: note
+      required: false
+    - id: 2
+      name: event_selection
+      label: Select Event
+      hint: Choose the event you wish to attend
+      type: select_one
+      options:
+      - Spring Business Networking Summit
+      - Summer Industry Mixer
+      - Fall Leadership Conference
+      - Winter Gala Celebration
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Date of the selected event
+      type: date
+      required: true
+    - id: 4
+      name: section_personal_details
+      label: -- Personal Details --
+      type: note
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Your email for confirmation
+      type: email
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      required: true
+    - id: 8
+      name: section_company_info
+      label: -- Company Information --
+      type: note
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: true
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: Your position in the company
+      type: text
+      required: true
+    - id: 12
+      name: section_reservation_preferences
+      label: -- Reservation Preferences --
+      type: note
+      required: false
+    - id: 13
+      name: number_of_guests
+      label: Number of Guests
+      hint: Including yourself
+      type: number
+      required: true
+    - id: 14
+      name: guest_names
+      label: Guest Names
+      hint: Names of additional attendees
+      type: text
+      required: false
+    - id: 15
+      name: meal_preference
+      label: Meal Preference
+      hint: Select your dietary preference
+      type: select_one
+      options:
+      - Omnivore
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - No Preference
+      required: false
+    - id: 16
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any accessibility or other needs
+      type: text
+      required: false
+    - id: 17
+      name: networking_goals
+      label: Networking Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Find Business Partners
+      - Seek Investment
+      - Recruit Talent
+      - Expand Market
+      - Build Relationships
+      required: false
+    - id: 18
+      name: newsletter_signup
+      label: Subscribe to Our Newsletter
+      hint: Receive updates about future events
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, thanks
+      required: false

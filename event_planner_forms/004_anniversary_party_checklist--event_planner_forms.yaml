@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Party Checklist
+    pages:
+    - id: 1
+      name: planner_name
+      label: Event Planner Name
+      hint: Who is organizing this event?
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email for the planner
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: anniversary_type
+      label: Type of Anniversary
+      hint: What are we celebrating?
+      type: select_one
+      options:
+      - Wedding Anniversary
+      - Business/Corporate Anniversary
+      - Organization Nonprofit Anniversary
+      - Relationship Anniversary
+      - Other
+      required: true
+    - id: 5
+      name: anniversary_milestone
+      label: Anniversary Milestone
+      hint: Which year or milestone?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is the celebration?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Start Time
+      hint: What time does the event begin?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: venue_name
+      label: Venue Name
+      hint: Where will the event be held?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: venue_booked
+      label: Venue Booked and Confirmed
+      hint: Has the venue been secured?
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - Pending
+      - Not Started
+      required: true
+    - id: 10
+      name: guest_list_complete
+      label: Guest List Complete
+      hint: Is the guest list finalized?
+      type: select_one
+      options:
+      - Yes, Complete
+      - In Progress
+      - Not Started
+      required: true
+    - id: 11
+      name: estimated_guest_count
+      label: Estimated Guest Count
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: invitations_sent
+      label: Invitations Sent
+      hint: Have invitations been distributed?
+      type: select_one
+      options:
+      - Yes, All Sent
+      - Partially Sent
+      - Not Started
+      required: true
+    - id: 13
+      name: catering_selected
+      label: Catering Selected
+      hint: Has catering been arranged?
+      type: select_one
+      options:
+      - Yes, Contract Signed
+      - Selected, Pending Contract
+      - Still Looking
+      - Not Needed
+      required: true
+    - id: 14
+      name: menu_finalized
+      label: Menu Finalized
+      hint: Is the menu confirmed with caterer?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 15
+      name: cake_ordered
+      label: Anniversary Cake Ordered
+      hint: Has the cake been ordered?
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - Pending
+      - Not Ordering Cake
+      required: true
+    - id: 16
+      name: decorations_planned
+      label: Decorations Planned
+      hint: What decorations are planned?
+      type: select_multiple
+      options:
+      - Balloons
+      - Banners and Signs
+      - Flowers
+      - Table Centerpieces
+      - Lighting
+      - Photo Display
+      - Themed Decor
+      - DIY Decorations
+      required: false
+    - id: 17
+      name: entertainment_booked
+      label: Entertainment Booked
+      hint: Music or entertainment arrangements
+      type: select_one
+      options:
+      - DJ Booked
+      - Live Band Booked
+      - Playlist Prepared
+      - Other Entertainment
+      - Not Needed
+      required: true
+    - id: 18
+      name: photographer_videographer
+      label: Photography and Videography
+      hint: Will the event be documented?
+      type: select_one
+      options:
+      - Professional Photographer
+      - Professional Videographer
+      - Both
+      - Friend or Family
+      - Not Needed
+      required: true
+    - id: 19
+      name: beverages_arranged
+      label: Beverages Arranged
+      hint: Drink arrangements
+      type: select_one
+      options:
+      - Full Bar
+      - Beer and Wine Only
+      - Non-Alcoholic Only
+      - Self-Serve
+      - Included with Catering
+      required: true
+    - id: 20
+      name: transportation_arranged
+      label: Transportation Arranged
+      hint: Guest or VIP transportation needs
+      type: select_one
+      options:
+      - Not Needed
+      - Shuttle Service
+      - Valet Parking
+      - Ride Share Credits
+      - Other
+      required: false
+    - id: 21
+      name: favors_prepared
+      label: Party Favors Prepared
+      hint: Guest favors or giveaways
+      type: select_one
+      options:
+      - Yes, Ready
+      - Ordered, Pending Delivery
+      - Still Deciding
+      - Not Planning Favors
+      required: true
+    - id: 22
+      name: budget_tracking
+      label: Budget Status
+      hint: Current budget tracking status
+      type: select_one
+      options:
+      - On Track
+      - Slightly Over
+      - Significantly Over
+      - Under Budget
+      required: true
+    - id: 23
+      name: day_of_coordinator
+      label: Day-of Coordinator Assigned
+      hint: Who will manage the event day-of?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contingency_plan
+      label: Contingency Plan Ready
+      hint: Do you have a backup plan for issues?
+      type: select_one
+      options:
+      - Yes, Written Plan
+      - Informal Plan
+      - No Plan Yet
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other important details or reminders
+      type: text
+      options: []
+      required: false

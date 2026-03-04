@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Sponsorship Form Template
+    pages:
+    - id: 1
+      name: sponsor_company_name
+      label: Company Name
+      hint: Business or organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: website_url
+      label: Website URL
+      hint: Company website
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_or_event
+      label: Team or Event to Sponsor
+      hint: Which team or event
+      type: select_one
+      options:
+      - Youth baseball team
+      - High school team
+      - College team
+      - Tournament
+      - League sponsorship
+      - Field improvements
+      - Equipment donation
+      required: true
+    - id: 12
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Tier of sponsorship
+      type: select_one
+      options:
+      - Platinum - 5000 dollars plus
+      - Gold - 2500 to 4999 dollars
+      - Silver - 1000 to 2499 dollars
+      - Bronze - 500 to 999 dollars
+      - Friend - under 500 dollars
+      - In kind donation
+      required: true
+    - id: 13
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sponsorship_duration
+      label: Sponsorship Duration
+      hint: How long
+      type: select_one
+      options:
+      - One season
+      - Full year
+      - Multi year
+      - One time event
+      required: true
+    - id: 15
+      name: benefits_requested
+      label: Benefits Requested
+      hint: What recognition do you want
+      type: select_multiple
+      options:
+      - Logo on uniforms
+      - Logo on website
+      - Social media mentions
+      - Banner at field
+      - Program advertisement
+      - PA announcements
+      - Event signage
+      - VIP seating
+      required: true
+    - id: 16
+      name: logo_file_upload
+      label: Upload Company Logo
+      hint: For recognition materials
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_schedule
+      label: Payment Schedule
+      hint: How will you pay
+      type: select_one
+      options:
+      - One time payment
+      - Monthly installments
+      - Quarterly installments
+      - End of season
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Check
+      - Credit card
+      - Bank transfer
+      - Purchase order
+      - In kind goods or services
+      required: true
+    - id: 19
+      name: tax_deduction
+      label: Tax Deduction Information
+      hint: Do you need tax documentation
+      type: select_one
+      options:
+      - Yes, send documentation
+      - No, not needed
+      required: true
+    - id: 20
+      name: previous_sponsor
+      label: Previous Sponsor
+      hint: Have you sponsored before
+      type: select_one
+      options:
+      - Yes, this team
+      - Yes, other teams
+      - No, first time
+      required: true
+    - id: 21
+      name: business_type
+      label: Business Type
+      hint: Type of business
+      type: select_one
+      options:
+      - Local retail
+      - Restaurant or food
+      - Professional services
+      - Healthcare
+      - Automotive
+      - Real estate
+      - Manufacturing
+      - Other
+      required: true
+    - id: 22
+      name: employee_count
+      label: Number of Employees
+      hint: Company size
+      type: select_one
+      options:
+      - 1 to 5
+      - 6 to 20
+      - 21 to 50
+      - 51 to 200
+      - More than 200
+      required: false
+    - id: 23
+      name: community_connection
+      label: Connection to Community
+      hint: Why sponsor this team
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: marketing_goals
+      label: Marketing Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: agreement_terms
+      label: Agreement to Terms
+      hint: I agree to sponsorship terms
+      type: select_one
+      options:
+      - I agree to all terms
+      - I do not agree
+      required: true
+    - id: 27
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: team_representative
+      label: Team Representative Name
+      hint: For office use
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: approval_status
+      label: Approval Status
+      hint: For office use
+      type: select_one
+      options:
+      - Pending review
+      - Approved
+      - Declined
+      required: false

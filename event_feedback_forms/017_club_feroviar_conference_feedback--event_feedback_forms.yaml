@@ -1,0 +1,167 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Club Feroviar Conference Feedback
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or Club
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: conference_date
+      label: Conference Date Attended
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: sessions_attended
+      label: Sessions or Workshops Attended
+      hint: Select all you attended
+      type: select_multiple
+      options:
+      - Keynote Address
+      - Technical Workshop
+      - Networking Session
+      - Panel Discussion
+      - Breakout Session
+      - Social Event
+      required: true
+    - id: 6
+      name: content_relevance
+      label: Content Relevance and Quality
+      hint: Rate the content quality
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 7
+      name: speaker_quality
+      label: Speaker Quality and Knowledge
+      hint: Rate the speakers
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 8
+      name: networking_value
+      label: Networking Opportunities
+      hint: Was networking valuable
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 9
+      name: venue_rating
+      label: Venue and Facilities
+      hint: Rate the venue
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 10
+      name: catering_rating
+      label: Food and Catering
+      hint: Rate the meals and refreshments
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 11
+      name: organization_rating
+      label: Event Organization and Flow
+      hint: How well was the event organized
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: material_usefulness
+      label: Usefulness of Provided Materials
+      hint: Were handouts and resources helpful
+      type: select_one
+      options:
+      - Not Useful
+      - Somewhat Useful
+      - Useful
+      - Very Useful
+      - Extremely Useful
+      required: false
+    - id: 13
+      name: return_likelihood
+      label: Likelihood to Attend Next Year
+      hint: Will you return
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 14
+      name: recommendations
+      label: Topics for Next Year
+      hint: What topics should be covered
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_comments
+      label: Overall Feedback and Suggestions
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

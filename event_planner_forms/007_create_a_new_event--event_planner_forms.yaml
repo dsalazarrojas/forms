@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: create_a_new_event
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_description
+      label: event description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: false
+    - id: 7
+      name: event_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 8
+      name: event_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: event_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

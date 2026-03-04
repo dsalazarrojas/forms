@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disability Support Expo Prize Entry Form
+    pages:
+    - id: 1
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entry_choice
+      label: Entry Choice
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

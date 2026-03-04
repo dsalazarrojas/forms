@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Friendly Villa Booking Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: family_members
+      label: Family Members
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: family_member_names
+      label: Family Member Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Villa
+      - Cottage
+      required: false
+    - id: 9
+      name: checkin
+      label: Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: checkout
+      label: Checkout
+      hint: null
+      type: date
+      options: []
+      required: false

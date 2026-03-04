@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Workshop Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scholarship_program
+      label: scholarship_program
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true

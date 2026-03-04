@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Athlete Showcase Registration
+    pages:
+    - id: 1
+      name: athlete_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: athlete_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_school
+      label: Current School or College
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sport
+      label: Primary Sport
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Volleyball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Other
+      required: true
+    - id: 8
+      name: position
+      label: Position or Role
+      hint: Your primary position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: jersey_number
+      label: Jersey Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: height
+      label: Height - feet and inches
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: weight
+      label: Weight - lbs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: gpa
+      label: Current GPA
+      hint: On 4.0 scale
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: career_statistics
+      label: Career Statistics Highlights
+      hint: Key stats, records, or achievements
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: awards_honors
+      label: Awards and Honors Received
+      hint: All-conference, MVP, scholarships, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: athletic_achievements
+      label: Notable Athletic Achievements
+      hint: Records broken, tournaments won, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: leadership_roles
+      label: Leadership Roles or Team Positions
+      hint: Captain, mentor, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: academic_major
+      label: Academic Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: community_service
+      label: Community Service or Volunteer Hours
+      hint: Community involvement
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: showcase_preferences
+      label: Showcase Preferences
+      hint: Select preferred viewing times
+      type: select_multiple
+      options:
+      - Morning Session
+      - Afternoon Session
+      - Evening Session
+      - Full Day
+      required: true
+    - id: 20
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: For minors
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_contact_phone
+      label: Parent Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: media_release
+      label: Media Release Consent
+      hint: Allow photos and video of athlete
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

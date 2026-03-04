@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Show Entry Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- PARTICIPANT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state_zip
+      label: State and zip code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: car_club_affiliation
+      label: Car club affiliation
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: body_style
+      label: Body style
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - Coupe
+      - Convertible
+      - Wagon
+      - SUV
+      - Truck
+      - Hatchback
+      - Minivan
+      - Sports Car
+      - Other
+      required: false
+    - id: 15
+      name: engine_type
+      label: Engine type
+      hint: V8, 4-cylinder, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_modifications
+      label: Vehicle modifications and upgrades
+      hint: List any custom work done
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_originality
+      label: Vehicle originality level
+      hint: null
+      type: select_one
+      options:
+      - Stock Original
+      - Modified
+      - Heavily Customized
+      - Restomod
+      - Replica
+      required: false
+    - id: 18
+      name: entry_category
+      label: -- ENTRY CATEGORY --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: show_category
+      label: Show category
+      hint: null
+      type: select_one
+      options:
+      - Classic Cars
+      - Muscle Cars
+      - Imports
+      - Low Riders
+      - Trucks
+      - Motorcycles
+      - Hot Rods
+      - Stock
+      - Custom
+      - Specialty
+      - Open Class
+      required: true
+    - id: 20
+      name: age_group_category
+      label: Vehicle age/era category
+      hint: null
+      type: select_one
+      options:
+      - Pre-1950
+      - 1950-1960
+      - 1961-1970
+      - 1971-1980
+      - 1981-1990
+      - 1991-2000
+      - 2001-2010
+      - 2011-Present
+      - Mixed
+      required: false
+    - id: 21
+      name: judging_participation
+      label: Participate in judging?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: first_time_participant
+      label: Is this your first time at this show?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 23
+      name: entry_fee
+      label: Entry fee amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Cash
+      - PayPal
+      - Online Payment
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional information or comments
+      hint: null
+      type: text
+      options: []
+      required: false

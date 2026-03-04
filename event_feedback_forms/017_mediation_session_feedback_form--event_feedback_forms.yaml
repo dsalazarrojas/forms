@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: mediation_session_feedback_form
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: What did you learn from the session?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: How would you rate this session?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: facilitator
+      label: Facilitator
+      hint: null
+      type: select_one
+      options:
+      - Facilitator A
+      - Facilitator B
+      - Facilitator C
+      required: true
+    - id: 11
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: true
+    - id: 12
+      name: session_goals
+      label: Session Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: session_outcome
+      label: Session Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: follow_up_comment
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_email
+      label: Follow-up Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_phone
+      label: Follow-up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_session_date
+      label: Follow-up Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_session_time
+      label: Follow-up Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_session_type
+      label: Follow-up Session Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 21
+      name: follow_up_session_goals
+      label: Follow-up Session Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_session_outcome
+      label: Follow-up Session Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_additional_comments
+      label: Additional Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_form
+      label: Assigned Form
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confirmed Attendees List
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Name of the event or conference
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: Date when the event takes place
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: Venue or location of the event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_first_name
+      label: First Name
+      hint: Attendee first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_last_name
+      label: Last Name
+      hint: Attendee last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Current job title or position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization
+      label: Organization or Company
+      hint: Name of employer or organization
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: Industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Manufacturing
+      - Retail
+      - Government
+      - Nonprofit
+      - Other
+      required: false
+    - id: 11
+      name: registration_date
+      label: Registration Date
+      hint: When did the attendee register
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Virtual Attendance
+      - Workshop Only
+      - VIP
+      - Speaker
+      - Sponsor
+      - Exhibitor
+      required: true
+    - id: 13
+      name: attendance_status
+      label: Attendance Status
+      hint: Current confirmation status
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Waitlisted
+      - Cancelled
+      required: true
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: Has registration fee been paid
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Waived
+      - Complimentary
+      required: true
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions or preferences
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Halal
+      - Kosher
+      - Other
+      required: false
+    - id: 16
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Additional details about dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accessibility accommodations needed
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair Access
+      - Sign Language Interpreter
+      - Large Print Materials
+      - Hearing Loop
+      - Accessible Seating
+      - Other
+      required: false
+    - id: 18
+      name: session_preferences
+      label: Sessions of Interest
+      hint: Select sessions you plan to attend
+      type: select_multiple
+      options:
+      - Keynote Address
+      - Panel Discussion
+      - Workshop A
+      - Workshop B
+      - Networking Session
+      - Q and A Panel
+      - Closing Remarks
+      required: false
+    - id: 19
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event merchandise if applicable
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not Required
+      required: false
+    - id: 20
+      name: accommodation_needed
+      label: Accommodation Assistance Needed
+      hint: Do you need help with hotel recommendations
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: transportation_needed
+      label: Transportation Assistance Needed
+      hint: Do you need information about transport options
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Source of event information
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Website
+      - Colleague
+      - Advertisement
+      - Previous Event
+      - Other
+      required: false
+    - id: 25
+      name: special_notes
+      label: Special Notes or Requests
+      hint: Any additional information we should know
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: confirmed_by
+      label: Confirmed By
+      hint: Name of staff member who confirmed attendance
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: confirmation_date
+      label: Confirmation Date
+      hint: Date when attendance was confirmed
+      type: date
+      options: []
+      required: true

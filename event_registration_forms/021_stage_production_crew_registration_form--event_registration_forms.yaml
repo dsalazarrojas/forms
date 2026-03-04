@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Production Crew Registration Form
+    pages:
+    - id: 1
+      name: stage_production_crew_registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_crew_member
+      label: Name of Crew Member
+      hint: Enter the name of the crew member
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Crew Lead
+      - Stage Manager
+      - Stage Technician
+      - Stage Hand
+      - Stage Technician - Backstage
+      - Stage Technician - Front of House
+      - Stage Technician - Stage Crew
+      - Stage Technician - Special Effects
+      - Stage Technician - Rigging
+      - Stage Technician - Stage Operations
+      - Stage Technician - Stage Management
+      - Stage Technician - Stage Technical
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_start_date
+      label: Production Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: production_end_date
+      label: Production End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: production_notes
+      label: Production Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - ChatJot
+      - FormAssembly
+      - other
+      required: false
+    - id: 11
+      name: other_tool
+      label: Other Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_tool_name
+      label: Other Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool2
+      label: Assigned Tool 2
+      hint: null
+      type: select_multiple
+      options:
+      - Google Forms
+      - FormAssembly
+      - other
+      required: false
+    - id: 14
+      name: other_tool2
+      label: Other Tool 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_tool2_name
+      label: Other Tool 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false

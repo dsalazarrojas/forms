@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Signing Volunteer Registration
+    pages:
+    - id: 1
+      name: volunteer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_email
+      label: Email Address
+      hint: We will send you event details to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_phone
+      label: Phone Number
+      hint: Contact number for the event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: previous_volunteer_experience
+      label: Do you have previous volunteer experience
+      hint: Have you volunteered at similar events
+      type: select_one
+      options:
+      - true
+      - false
+      - Some experience
+      required: true
+    - id: 6
+      name: volunteer_availability
+      label: Availability for the Event
+      hint: Which time slots can you volunteer
+      type: select_multiple
+      options:
+      - Morning Session (8 AM - 12 PM)
+      - Afternoon Session (12 PM - 4 PM)
+      - Evening Session (4 PM - 8 PM)
+      - Full Day
+      required: true
+    - id: 7
+      name: preferred_role
+      label: Preferred Volunteer Role
+      hint: What type of work interests you
+      type: select_one
+      options:
+      - Registration Desk
+      - Book Sales
+      - Author Support
+      - Setup and Cleanup
+      - Crowd Management
+      - Photography
+      - Flexible - Any Role
+      required: true
+    - id: 8
+      name: languages_spoken
+      label: Languages You Speak
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      - Other
+      required: false
+    - id: 9
+      name: physical_requirements
+      label: Any Physical Limitations
+      hint: Do you have any physical limitations we should know about
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transportation
+      label: Transportation
+      hint: Do you need transportation to the event
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: volunteer_waiver
+      label: I agree to the volunteer waiver
+      hint: Please read and accept the volunteer agreement
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

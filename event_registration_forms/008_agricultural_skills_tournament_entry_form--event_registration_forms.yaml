@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Skills Tournament Entry Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Current age of participant
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_organization
+      label: School or Organization
+      hint: Name of school, FFA chapter, or organization
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: advisor_name
+      label: Advisor or Coach Name
+      hint: Name of supervising adult
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: advisor_phone
+      label: Advisor Phone
+      hint: Advisor contact number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: advisor_email
+      label: Advisor Email
+      hint: Advisor contact email
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: competition_category
+      label: Competition Category
+      hint: Select the competition category
+      type: select_one
+      options:
+      - Livestock Evaluation
+      - Crop Judging
+      - Agricultural Mechanics
+      - Farm Business Management
+      - Agricultural Sales
+      - Food Science
+      - Forestry
+      - Soil Judging
+      required: true
+    - id: 16
+      name: team_or_individual
+      label: Participation Type
+      hint: Competing as team or individual
+      type: select_one
+      options:
+      - Individual
+      - Team
+      required: true
+    - id: 17
+      name: team_name
+      label: Team Name
+      hint: If team competition, enter team name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_members
+      label: Team Members
+      hint: List all team member names
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_experience
+      label: Previous Competition Experience
+      hint: Have you competed before
+      type: select_one
+      options:
+      - First time
+      - 1-2 previous competitions
+      - 3-5 previous competitions
+      - More than 5 competitions
+      required: true
+    - id: 20
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility or dietary requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event t-shirt
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult 2XL
+      - Adult 3XL
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: Do you agree to the liability waiver
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 25
+      name: media_release
+      label: Media Release
+      hint: Permission to use photos for publicity
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 26
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: payment_status
+      label: Payment Status
+      hint: Current payment status
+      type: select_one
+      options:
+      - Paid in full
+      - Deposit paid
+      - Pending
+      - Waived
+      required: true

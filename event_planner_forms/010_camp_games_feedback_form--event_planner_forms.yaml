@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Games Feedback Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 10
+          - 10-12
+          - 13-15
+          - 16-18
+          - 18+
+        required: true
+      - id: 3
+        name: camp_session
+        label: Camp Session
+        hint: Which session did you attend
+        type: select_one
+        options:
+          - Session 1
+          - Session 2
+          - Session 3
+          - Session 4
+          - Full summer
+        required: true
+      - id: 4
+        name: overall_enjoyment
+        label: Overall Enjoyment of Camp Games
+        hint: Rate your enjoyment
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Very Good
+          - 3 - Good
+          - 2 - Fair
+          - 1 - Poor
+        required: true
+      - id: 5
+        name: favorite_game
+        label: What Was Your Favorite Game
+        hint: Select your favorite
+        type: select_one
+        options:
+          - Capture the Flag
+          - Scavenger Hunt
+          - Relay Races
+          - Water Balloon Toss
+          - Obstacle Course
+          - Team Sports Tournament
+          - Mystery Game
+          - Night Games
+          - Field Day Events
+          - Other
+        required: true
+      - id: 6
+        name: favorite_game_reason
+        label: Why Was This Your Favorite
+        hint: Explain your choice
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: least_favorite_game
+        label: Least Favorite Game
+        hint: Which game did you enjoy least
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: game_variety_rating
+        label: Variety of Games Offered
+        hint: Rate the variety
+        type: select_one
+        options:
+          - Excellent - great mix
+          - Very Good
+          - Good
+          - Fair - could use more variety
+          - Poor - needs improvement
+        required: true
+      - id: 9
+        name: game_difficulty
+        label: Game Difficulty Level
+        hint: How would you rate the difficulty
+        type: select_one
+        options:
+          - Too easy
+          - Somewhat easy
+          - Just right
+          - Somewhat difficult
+          - Too difficult
+        required: true
+      - id: 10
+        name: game_rules_clarity
+        label: Clarity of Game Rules and Instructions
+        hint: Were the rules clear
+        type: select_one
+        options:
+          - Very clear
+          - Mostly clear
+          - Somewhat clear
+          - Confusing
+          - Very confusing
+        required: true
+      - id: 11
+        name: equipment_quality
+        label: Quality of Game Equipment
+        hint: Rate the equipment
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: counselor_engagement
+        label: Counselor Engagement During Games
+        hint: How engaged were counselors
+        type: select_one
+        options:
+          - Very engaged and enthusiastic
+          - Engaged
+          - Somewhat engaged
+          - Minimally involved
+          - Not engaged
+        required: true
+      - id: 13
+        name: team_selection_process
+        label: Team Selection Process
+        hint: How were teams chosen
+        type: select_one
+        options:
+          - Fair and well organized
+          - Mostly fair
+          - Okay
+          - Somewhat unfair
+          - Unfair or confusing
+        required: true
+      - id: 14
+        name: safety_during_games
+        label: Did You Feel Safe During Games
+        hint: Rate safety
+        type: select_one
+        options:
+          - Always felt safe
+          - Mostly safe
+          - Somewhat safe
+          - Had some safety concerns
+          - Did not feel safe
+        required: true
+      - id: 15
+        name: game_duration
+        label: Game Duration
+        hint: Were games the right length
+        type: select_one
+        options:
+          - Too short
+          - Somewhat short
+          - Just right
+          - Somewhat too long
+          - Too long
+        required: true
+      - id: 16
+        name: new_games_suggested
+        label: What New Games Would You Like to See
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: competitive_balance
+        label: Balance of Competitive vs Cooperative Games
+        hint: Rate the balance
+        type: select_one
+        options:
+          - Perfect balance
+          - Good balance
+          - Too competitive
+          - Not competitive enough
+          - Would prefer more team games
+        required: true
+      - id: 18
+        name: weather_contingency
+        label: Rainy Day Game Options
+        hint: How were indoor alternatives
+        type: select_one
+        options:
+          - Excellent alternatives
+          - Good options
+          - Adequate
+          - Limited options
+          - No indoor games offered
+        required: false
+      - id: 19
+        name: would_participate_again
+        label: Would You Participate in These Games Again
+        hint: Yes or no
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 20
+        name: additional_feedback
+        label: Additional Comments or Suggestions
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

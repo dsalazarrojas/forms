@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Day T Shirt Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_size
+      label: T Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - X-Large
+      - Small
+      - Medium
+      required: false
+    - id: 3
+      name: t_shirt_design
+      label: T Shirt Design
+      hint: null
+      type: select_multiple
+      options:
+      - design_1
+      - design_2
+      - design_3
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: t_shirt_color
+      label: T Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - color_1
+      - color_2
+      - color_3
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Payment 1
+      - Payment 2
+      - Payment 3
+      required: false
+    - id: 10
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Time Feedback Tracker
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      required: true
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Pacific Time (US & Canada)''}'
+      - '{''label'': ''Central Time (US & Canada)''}'
+      - '{''label'': ''Eastern Time (US & Canada)''}'
+      - '{''label'': ''Atlantic Time (Canada)''}'
+      - '{''label'': ''Australia Time (Eastern)''}'
+      - '{''label'': ''Australia Time (Central)''}'
+      - '{''label'': ''Australia Time (Western)''}'
+      required: true

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Wish Form 2
+    pages:
+    - id: 1
+      name: your_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: optional_contact
+      label: Phone Number (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wishes_section
+      label: -- Share Your Christmas Wishes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_wish
+      label: What is your primary wish this Christmas?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: wish_category
+      label: Wish Category
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Family
+      - Community
+      - Global
+      - Health and wellness
+      - Career
+      - Other
+      required: true
+    - id: 9
+      name: holiday_message
+      label: Your Holiday Message or Well-Wishes
+      hint: Share your message with others
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: inspiration
+      label: What inspired your wish?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_wishes
+      label: Any additional wishes or dreams?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: traditions
+      label: -- Holiday Traditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: favorite_tradition
+      label: Your Favorite Holiday Tradition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: new_tradition
+      label: New Tradition You Want to Start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: memories_section
+      label: -- Memories & Gratitude --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: favorite_memory
+      label: Your Favorite Christmas Memory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: grateful_for
+      label: What Are You Most Grateful For This Year?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sharing_options
+      label: -- Sharing Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: share_publicly
+      label: I consent to share my wish publicly
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - With attribution only
+      required: true
+    - id: 20
+      name: attribution_name
+      label: Name to Display (if different)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emotion
+      label: How does sharing your wish make you feel?
+      hint: null
+      type: select_one
+      options:
+      - Happy and hopeful
+      - Grateful
+      - Inspired
+      - Connected
+      - Other
+      required: false
+    - id: 22
+      name: spread_joy
+      label: How do you plan to spread joy this holiday season?
+      hint: null
+      type: text
+      options: []
+      required: false

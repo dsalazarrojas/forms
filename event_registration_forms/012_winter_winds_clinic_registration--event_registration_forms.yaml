@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: winter_winds_clinic_registration
+    pages:
+    - id: 1
+      name: main
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: instrument
+      label: instrument
+      hint: null
+      type: select_one
+      options:
+      - alto_saxophone
+      - clarinet
+      - flute
+      - french_horn
+      - oboe
+      required: false
+    - id: 6
+      name: school
+      label: school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false

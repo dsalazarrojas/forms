@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Election Night Watch Party Registration
+    pages:
+    - id: 1
+      name: party_info
+      label: Party Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_count
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

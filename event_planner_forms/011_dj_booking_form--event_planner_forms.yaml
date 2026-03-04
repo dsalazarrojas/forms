@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Booking Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dj_info
+      label: DJ Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dj_fee
+      label: DJ Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: booking_agent
+      label: Booking Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_planner
+      label: Event Planner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: true
+    - id: 11
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: true

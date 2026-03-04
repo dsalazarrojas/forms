@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Event Success Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Meeting''}'
+      - '{''value'': ''Training''}'
+      - '{''value'': ''Conference''}'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_action
+      label: Follow-Up Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Jimmy''}'
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      required: true
+    - id: 14
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Done''}'
+      - '{''value'': ''Not Done''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 17
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chatjimmy''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 19
+      name: follow_up_frequency
+      label: Follow-Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 20
+      name: follow_up_method
+      label: Follow-Up Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Call''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In-app Message''}'
+      required: false
+    - id: 21
+      name: follow_up_message
+      label: Follow-Up Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_frequency_other
+      label: Follow-Up Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_method_other
+      label: Follow-Up Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_message_other
+      label: Follow-Up Message Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_comments
+      label: Follow-Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false

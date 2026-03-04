@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: t_shirt_request_form_template
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shirt_size
+      label: shirt_size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      - X-Large
+      - X-Small
+      required: false
+    - id: 4
+      name: shirt_color
+      label: shirt_color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      required: false
+    - id: 5
+      name: shirt_design
+      label: shirt_design
+      hint: null
+      type: select_one
+      options:
+      - Logo
+      - Text
+      - 'False'
+      - 'True'
+      required: false
+    - id: 6
+      name: name_on_shirt
+      label: name_on_shirt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false

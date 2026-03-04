@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customized Corporate Gift Basket Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: gift_option
+      label: Gift Option
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: false
+    - id: 9
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_list
+      label: Product List
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 22
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Gift Option 1
+      - Gift Option 2
+      - Gift Option 3
+      required: true
+    - id: 23
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: confirm_info
+      label: Confirm Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

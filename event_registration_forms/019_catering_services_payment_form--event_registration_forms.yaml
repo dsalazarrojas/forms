@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Services Payment Form
+    pages:
+    - id: 1
+      name: section_payment_info
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payer_name
+      label: Payer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: payer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event_reference
+      label: -- Event Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: catering_company
+      label: Catering Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference number for this payment
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_amount_due
+      label: -- Amount Due --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: service_charges
+      label: Additional Charges (if any)
+      hint: Setup fees, service fees, etc.
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: discount_applied
+      label: Discount Applied
+      hint: Discount amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_due
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_payment_method
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - ACH
+      - PayPal
+      - Wire Transfer
+      - Cash
+      required: true
+    - id: 19
+      name: card_holder_name
+      label: Card Holder Name
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_payment_terms
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Full Payment Due Now
+      - 50% Deposit, 50% Due at Event
+      - Installment Plan
+      - Due Upon Completion
+      - Immediate Payment Required
+      required: true
+    - id: 22
+      name: deposit_amount_paid
+      label: Deposit Amount Paid
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: remaining_balance
+      label: Remaining Balance Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_notes
+      label: Special Payment Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorization
+      label: I authorize payment for the amount specified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

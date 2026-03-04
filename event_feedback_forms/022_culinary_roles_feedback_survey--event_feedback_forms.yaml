@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Roles Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Chef''}'
+      - '{''id'': 2, ''label'': ''Pastry''}'
+      - '{''id'': 3, ''label'': ''Sous''}'
+      - '{''id'': 4, ''label'': ''Manager''}'
+      required: false
+    - id: 3
+      name: role_other
+      label: other_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_other_text
+      label: other_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: overall_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1-2''}'
+      - '{''id'': 2, ''label'': ''3-4''}'
+      - '{''id'': 3, ''label'': 5}'
+      - '{''id'': 4, ''label'': ''6-7''}'
+      - '{''id'': 5, ''label'': ''8-10''}'
+      required: false
+    - id: 6
+      name: frequency
+      label: how_often
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''daily''}'
+      - '{''id'': 2, ''label'': ''weekly''}'
+      - '{''id'': 3, ''label'': ''monthly''}'
+      - '{''id'': 4, ''label'': ''rarely''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating_frequency
+      label: frequency_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''daily''}'
+      - '{''id'': 2, ''label'': ''weekly''}'
+      - '{''id'': 3, ''label'': ''monthly''}'
+      required: false
+    - id: 9
+      name: rating_frequency_other
+      label: frequency_rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_2
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone_2
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments_2
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: comments_3
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: comments_4
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: comments_5
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: comments_6
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: comments_7
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: comments_8
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments_9
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments_10
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

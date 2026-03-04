@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Costume Contest Voting Form
+    pages:
+    - id: 1
+      name: contestant_name
+      label: Contestant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: costume_name
+      label: Costume Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vote
+      label: Vote
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_contestant
+      label: Select Contestant
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      - option 5
+      required: false
+    - id: 8
+      name: select_voter
+      label: Select Voter
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      - option 5
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: select_voter_email
+      label: Select Voter Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: select_voter_phone
+      label: Select Voter Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party Attendance Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent notifications
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Which department do you work in
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Information Technology
+      - Operations
+      - Customer Service
+      - Administration
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes I will attend
+      - No I cannot attend
+      - Maybe uncertain
+      required: true
+    - id: 7
+      name: plus_one_request
+      label: Bringing a Guest
+      hint: Will you bring a plus one
+      type: select_one
+      options:
+      - No attending alone
+      - Yes bringing spouse or partner
+      - Yes bringing family member
+      - Yes bringing date
+      required: true
+    - id: 8
+      name: guest_name
+      label: Guest Name
+      hint: Full name of your guest
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Halal
+      - Kosher
+      - Low Sodium
+      - Diabetic Friendly
+      required: true
+    - id: 11
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Please specify your dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: alcohol_preference
+      label: Alcohol Preference
+      hint: Will you consume alcohol
+      type: select_one
+      options:
+      - Yes I will drink
+      - No I prefer non-alcoholic
+      - No I do not drink
+      required: true
+    - id: 13
+      name: section_meal_preferences
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: meal_selection
+      label: Meal Selection
+      hint: Choose your main course
+      type: select_one
+      options:
+      - Roasted Turkey
+      - Prime Rib
+      - Glazed Ham
+      - Vegetarian Option
+      - Fish Selection
+      - Chef Choice
+      required: true
+    - id: 15
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you get to the party
+      type: select_one
+      options:
+      - Drive myself
+      - Carpool
+      - Rideshare or Taxi
+      - Public Transit
+      - Walk
+      - Company Shuttle
+      required: true
+    - id: 16
+      name: need_ride
+      label: Need Ride Assistance
+      hint: Do you need help with transportation
+      type: select_one
+      options:
+      - No I have transportation
+      - Yes need ride to party
+      - Yes need ride home
+      - Yes need both ways
+      required: true
+    - id: 17
+      name: section_transportation
+      label: -- Transportation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: activity_interest
+      label: Activity Interest
+      hint: What activities interest you
+      type: select_multiple
+      options:
+      - Dancing
+      - Photo Booth
+      - Games and Trivia
+      - Karaoke
+      - Secret Santa Exchange
+      - Awards Ceremony
+      - Live Entertainment
+      - DJ and Music
+      - Just eating and socializing
+      required: false
+    - id: 19
+      name: secret_santa_participation
+      label: Secret Santa Participation
+      hint: Will you join the gift exchange
+      type: select_one
+      options:
+      - Yes I will participate
+      - No I will not participate
+      - Maybe depends on assignment
+      required: true
+    - id: 20
+      name: secret_santa_budget
+      label: Secret Santa Budget Comfort
+      hint: What budget is comfortable for you
+      type: select_one
+      options:
+      - Under 20
+      - 20 to 30
+      - 30 to 50
+      - 50 plus
+      - Prefer not to say
+      required: false
+    - id: 21
+      name: section_activities
+      label: -- Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: song_requests
+      label: Song Requests
+      hint: Songs you would like to hear
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any accommodations or requests
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: years_attended
+      label: Years Attended
+      hint: How many years have you attended
+      type: select_one
+      options:
+      - First time
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - Over 10 years
+      required: false
+    - id: 25
+      name: rsvp_deadline_acknowledged
+      label: RSVP Deadline
+      hint: I understand the RSVP deadline
+      type: select_one
+      options:
+      - Yes I understand
+      - No what is the deadline
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Gift Delivery Form
+    pages:
+    - id: 1
+      name: section_recipient_information
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient name
+      hint: Full name of gift recipient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_address
+      label: Delivery address
+      hint: Street address, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Preferred delivery date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gift_type
+      label: Gift type
+      hint: Select the gift to be delivered
+      type: select_one
+      options:
+      - Bouquet
+      - Merchandise
+      - Certificate
+      required: true
+    - id: 6
+      name: special_instructions
+      label: Special instructions
+      hint: Delivery notes for courier
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sender_name
+      label: Sender name
+      hint: Name of person arranging delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for delivery queries
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: confirmation_email
+      label: Confirmation email
+      hint: Email to send delivery confirmation
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Year Event Proposal Form
+    pages:
+    - id: 1
+      name: proposal_intro
+      label: -- Event Proposal Details --
+      hint: Submit your ideas for community engagement events
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposer_name
+      label: Proposer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposer_email
+      label: Proposer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_title
+      label: Proposed Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - Community Service
+      - Youth Education
+      - Cultural Celebration
+      - Health and Wellness
+      - Career Development
+      - Fundraising
+      required: true
+    - id: 6
+      name: event_description
+      label: Event Description and Overview
+      hint: What is the main purpose of this event?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Students (K-12)
+      - Parents and Families
+      - Local Educators
+      - Corporate Partners
+      - Community Residents
+      required: true
+    - id: 8
+      name: proposed_date
+      label: Proposed Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: proposed_venue
+      label: Proposed Venue or Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: budget_estimate
+      label: Estimated Total Budget Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: resource_requirements
+      label: Key Resources Needed
+      hint: e.g., AV equipment, Catering, Volunteers
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_success_metrics
+      label: How will success be measured?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: proposal_date
+      label: Date of Proposal
+      hint: null
+      type: date
+      options: []
+      required: true

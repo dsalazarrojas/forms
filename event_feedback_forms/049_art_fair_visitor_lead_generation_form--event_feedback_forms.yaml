@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Fair Visitor Lead Generation Form
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visitor_type
+      label: Type of Visitor
+      hint: null
+      type: select_one
+      options:
+      - Collector
+      - Corporate buyer
+      - Gallery owner
+      - Museum curator
+      - Artist
+      - Media
+      - Enthusiast
+      - Other
+      required: true
+    - id: 8
+      name: section_interests
+      label: -- Art Interests and Buying Intent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: art_interests
+      label: Types of Art Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Contemporary art
+      - Photography
+      - Sculpture
+      - Digital art
+      - Installation
+      - Painting
+      - Mixed media
+      - Other
+      required: true
+    - id: 10
+      name: buying_interest
+      label: Buying or Commissioning Interest
+      hint: null
+      type: select_one
+      options:
+      - Active buyer
+      - Considering purchase
+      - Just browsing
+      - Corporate buyer
+      - Not interested
+      required: true
+    - id: 11
+      name: budget_range
+      label: Budget Range for Art Purchases
+      hint: null
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 - $5000
+      - $5000 - $15000
+      - $15000 - $50000
+      - Over $50000
+      - Not applicable
+      required: false
+    - id: 12
+      name: section_feedback
+      label: -- Fair Experience Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: overall_experience
+      label: Overall Experience at Art Fair
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: favorite_galleries
+      label: Favorite Galleries or Artists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: artworks_of_interest
+      label: Specific Artworks or Artists You Are Interested In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: likely_to_return
+      label: Likely to Return to Future Art Fairs
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Maybe
+      - Unlikely
+      - Not interested
+      required: true
+    - id: 17
+      name: section_follow_up
+      label: -- Follow-Up Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Social media
+      required: true
+    - id: 19
+      name: information_interests
+      label: Information You Would Like to Receive
+      hint: null
+      type: select_multiple
+      options:
+      - Event announcements
+      - New artist featured
+      - Gallery news
+      - Upcoming exhibitions
+      - Art market insights
+      required: false
+    - id: 20
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,286 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competition Feedback Form 2017 PITCH COMPETITION
+    pages:
+      - id: 1
+        name: competition_name
+        label: Competition Name
+        hint: 2017 PITCH Competition
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: competition_date
+        label: Competition Date
+        hint: When did the competition take place
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can be anonymous
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: respondent_email
+        label: Your Email
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: organization
+        label: Organization or Company
+        hint: Your organization if applicable
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: participation_type
+        label: Your Role
+        hint: How did you participate
+        type: select_one
+        options:
+          - Pitch Presenter
+          - Judge
+          - Audience Member
+          - Mentor
+          - Sponsor
+          - Organizer
+          - Media or Press
+          - Other
+        required: true
+      - id: 7
+        name: pitch_category
+        label: Pitch Category
+        hint: Which category did you participate in
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Consumer Products
+          - Social Enterprise
+          - Education
+          - Finance
+          - Other
+          - Not applicable
+        required: false
+      - id: 8
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: event_organization
+        label: Event Organization Rating
+        hint: How well was it organized
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: venue_quality
+        label: Venue Quality
+        hint: Rate the venue
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: presentation_quality
+        label: Quality of Presentations
+        hint: Rate the pitch presentations
+        type: select_one
+        options:
+          - Excellent - very professional
+          - Very Good - mostly professional
+          - Good - mixed quality
+          - Fair - needs improvement
+          - Poor - unprofessional
+        required: true
+      - id: 12
+        name: judging_quality
+        label: Quality of Judging
+        hint: Rate the judges and feedback
+        type: select_one
+        options:
+          - Excellent - insightful and fair
+          - Very Good - helpful
+          - Good - adequate
+          - Fair - limited value
+          - Poor - unhelpful
+        required: true
+      - id: 13
+        name: networking_opportunities
+        label: Networking Opportunities
+        hint: Rate networking chances
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: event_pacing
+        label: Event Pacing
+        hint: How was the schedule and timing
+        type: select_one
+        options:
+          - Excellent - perfect pace
+          - Very Good - mostly good
+          - Good - acceptable
+          - Fair - rushed or slow
+          - Poor - poorly paced
+        required: true
+      - id: 15
+        name: audio_visual_quality
+        label: Audio Visual Quality
+        hint: Rate the AV equipment and support
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: registration_experience
+        label: Registration Experience
+        hint: How was the check-in process
+        type: select_one
+        options:
+          - Excellent - smooth and fast
+          - Very Good - efficient
+          - Good - acceptable
+          - Fair - slow
+          - Poor - problematic
+        required: true
+      - id: 17
+        name: value_received
+        label: Value Received
+        hint: Was it worth your time
+        type: select_one
+        options:
+          - Excellent value
+          - Very Good value
+          - Good value
+          - Fair value
+          - Poor value
+        required: true
+      - id: 18
+        name: judge_expertise
+        label: Judge Expertise Level
+        hint: Rate judge knowledge and experience
+        type: select_one
+        options:
+          - Excellent - highly qualified
+          - Very Good - well qualified
+          - Good - adequately qualified
+          - Fair - limited expertise
+          - Poor - unqualified
+          - Did not interact with judges
+        required: true
+      - id: 19
+        name: feedback_usefulness
+        label: Usefulness of Feedback
+        hint: How useful was the feedback received
+        type: select_one
+        options:
+          - Very useful - actionable
+          - Useful - some good points
+          - Somewhat useful
+          - Not very useful
+          - Not useful at all
+          - Did not receive feedback
+        required: true
+      - id: 20
+        name: would_recommend
+        label: Would You Recommend
+        hint: Would you recommend to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 21
+        name: would_participate_again
+        label: Would You Participate Again
+        hint: Will you join next year
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 22
+        name: best_aspects
+        label: Best Aspects
+        hint: What did you like most
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: standout_pitches
+        label: Standout Pitches or Moments
+        hint: Any memorable presentations
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: suggestions
+        label: Suggestions for Future Events
+        hint: Your ideas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

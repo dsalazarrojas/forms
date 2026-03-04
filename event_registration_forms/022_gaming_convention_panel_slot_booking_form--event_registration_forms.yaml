@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Convention Panel Slot Booking Form
+    pages:
+    - id: 1
+      name: slot_start_time
+      label: Slot Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: slot_duration
+      label: Slot Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: slot_days
+      label: Slot Days
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: false
+    - id: 4
+      name: panel_id
+      label: Panel ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: panel_name
+      label: Panel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

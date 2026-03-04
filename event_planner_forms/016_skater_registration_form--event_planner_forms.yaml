@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skater Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: skate_experience
+      label: Skate Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: preferred_surface
+      label: Preferred Surface
+      hint: null
+      type: select_one
+      options:
+      - Ice Skating
+      - Roller Skating
+      - Skateboarding
+      required: true
+    - id: 9
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true

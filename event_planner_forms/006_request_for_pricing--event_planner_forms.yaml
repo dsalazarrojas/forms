@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request for Pricing
+    pages:
+    - id: 1
+      name: prophets_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price_requester
+      label: Price Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: price_requester_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: price_requester_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goods_services
+      label: Goods/Serivces
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: min_price
+      label: Min Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: max_price
+      label: Max Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price_range
+      label: Price Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goods_services_type
+      label: Goods/Services Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: price_range_type
+      label: Price Range Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Tiered
+      - Negotiable
+      required: false
+    - id: 11
+      name: currency
+      label: Currency
+      hint: null
+      type: text
+      options: []
+      required: false

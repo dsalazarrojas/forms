@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women's Winter Study Registration
+    pages:
+    - id: 1
+      name: user
+      label: registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_preferences
+      label: Participant Preferences
+      hint: Select your preferred participant type and session type
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      required: false
+    - id: 3
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      required: false
+    - id: 4
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_preferences_2
+      label: Session 1 Preference
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      required: false

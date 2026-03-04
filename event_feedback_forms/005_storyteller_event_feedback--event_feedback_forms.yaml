@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storyteller Event Feedback
+    pages:
+    - id: 1
+      name: event_feedback_form
+      label: Event Feedback
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 2
+      name: event_rating
+      label: Event Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rating_comment
+      label: Event Rating Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: event_likers
+      label: Attendees Who Liked
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: event_dislikers
+      label: Attendees Who Disliked
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

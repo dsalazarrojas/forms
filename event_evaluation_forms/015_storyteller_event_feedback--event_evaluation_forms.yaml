@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storyteller Event Feedback
+    pages:
+    - id: 1
+      name: event_feedback_form
+      label: Event Feedback Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Workshop
+      - Seminar
+      - Conference
+      - Other
+      required: false
+    - id: 6
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: home_button
+      label: Home
+      hint: null
+      type: text
+      options: []
+      required: false

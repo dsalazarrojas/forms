@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Photo Contest Registration Form
+    pages:
+    - id: 1
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Legal name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: For contest updates and notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number for questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address for prize delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: baby_name
+      label: Baby Full Name
+      hint: Name as it should appear in contest
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: baby_nickname
+      label: Baby Nickname
+      hint: Optional nickname
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: baby_date_of_birth
+      label: Baby Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: baby_gender
+      label: Baby Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - Prefer not to say
+      required: true
+    - id: 9
+      name: contest_category
+      label: Contest Category
+      hint: Select age category for entry
+      type: select_one
+      options:
+      - 0 to 6 months
+      - 7 to 12 months
+      - 13 to 18 months
+      - 19 to 24 months
+      required: true
+    - id: 10
+      name: photo_upload
+      label: Upload Baby Photo
+      hint: Clear, recent photo of baby
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_caption
+      label: Photo Caption
+      hint: Fun or meaningful caption for photo
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: photo_story
+      label: Photo Story
+      hint: Share a brief story about the photo
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_contests
+      label: Previously Entered Contests
+      hint: Has baby been in photo contests before
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Instagram or Facebook for featuring
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: how_heard_about_contest
+      label: How Did You Hear About Contest
+      hint: Source of information
+      type: select_one
+      options:
+      - Social media
+      - Friend or family
+      - Website
+      - Advertisement
+      - Email newsletter
+      - Other
+      required: false
+    - id: 16
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to contest rules and terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: photo_rights_confirmation
+      label: Photo Rights Confirmation
+      hint: I confirm I own rights to this photo
+      type: select_one
+      options:
+      - Yes, I own the rights
+      - No, I do not own rights
+      required: true
+    - id: 18
+      name: publicity_consent
+      label: Publicity Consent
+      hint: I allow use of photo for promotional purposes
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: age_verification
+      label: Age Verification
+      hint: I confirm baby meets age requirements
+      type: select_one
+      options:
+      - Yes, verified
+      - No, not eligible
+      required: true
+    - id: 20
+      name: registration_date
+      label: Registration Date
+      hint: Date of this entry
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Inclusion Strategy Workshop Registration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: What is your role in the company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''CEO'', ''value'': ''I am the CEO''}'
+      - '{''id'': 2, ''name'': ''Manager'', ''value'': ''I am a manager''}'
+      - '{''id'': 3, ''name'': ''Employee'', ''value'': ''I am an employee''}'
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Which of the following workshops would you like to attend?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Workshop 1''}'
+      - '{''id'': 2, ''name'': ''Workshop 2''}'
+      - '{''id'': 3, ''name'': ''Workshop 3''}'
+      required: false
+    - id: 11
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_repeat
+      label: email_repeat
+      hint: null
+      type: email
+      options: []
+      required: false

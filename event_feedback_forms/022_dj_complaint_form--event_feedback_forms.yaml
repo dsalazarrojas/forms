@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Complaint Form
+    pages:
+    - id: 1
+      name: dj_performance
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: complaint
+      label: complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submitted_by
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_on
+      label: submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

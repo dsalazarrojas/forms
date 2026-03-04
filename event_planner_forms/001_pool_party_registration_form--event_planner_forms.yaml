@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool Party Registration Form
+    pages:
+    - id: 1
+      name: pool_date
+      label: pool_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: party_type
+      label: party_type
+      hint: null
+      type: select_multiple
+      options:
+      - Pool Party 1
+      - Pool Party 2
+      - Pool Party 3
+      required: true
+    - id: 3
+      name: party_guests
+      label: party_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: party_dogs
+      label: party_dogs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: party_notes
+      label: party_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: party_host
+      label: party_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: party_location
+      label: party_location
+      hint: null
+      type: text
+      options: []
+      required: false

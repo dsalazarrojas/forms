@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awards Nomination 2 Red Theme And Responsive
+    pages:
+    - id: 1
+      name: award_program
+      label: Award Program
+      hint: Which award program
+      type: select_one
+      options:
+      - Annual excellence awards
+      - Innovation challenge
+      - Customer choice awards
+      - Employee recognition
+      - Community heroes
+      - Youth achievement
+      - Leadership summit
+      - Other
+      required: true
+    - id: 2
+      name: nomination_period
+      label: Nomination Period
+      hint: Which period
+      type: select_one
+      options:
+      - Q1 2026
+      - Q2 2026
+      - Q3 2026
+      - Q4 2026
+      - Annual 2026
+      required: true
+    - id: 3
+      name: voter_name
+      label: Your Name
+      hint: Complete name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: voter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: voter_organization
+      label: Organization
+      hint: Your company or institution
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: voter_type
+      label: Voter Type
+      hint: What describes you
+      type: select_one
+      options:
+      - Customer/client
+      - Employee
+      - Manager/executive
+      - Industry peer
+      - Community member
+      - Media
+      - Other
+      required: true
+    - id: 7
+      name: nominee_name
+      label: Nominee Name
+      hint: Who are you nominating
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_company
+      label: Nominee Company
+      hint: Their organization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_title
+      label: Nominee Title
+      hint: Their position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nominee_email
+      label: Nominee Email
+      hint: Their contact email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: award_category_vote
+      label: Award Category
+      hint: Which category should they be nominated for
+      type: select_one
+      options:
+      - Best overall service
+      - Most innovative solution
+      - Outstanding customer support
+      - Environmental leadership
+      - Diversity and inclusion
+      - Technology excellence
+      - Community impact
+      - Rising star
+      required: true
+    - id: 12
+      name: nomination_reason
+      label: Why Are You Nominating Them
+      hint: Explain your reasoning
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: specific_example
+      label: Specific Example
+      hint: Describe a specific instance that demonstrates their excellence
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: impact_rating
+      label: Impact Rating
+      hint: How much impact have they made
+      type: select_one
+      options:
+      - Exceptional impact
+      - Significant impact
+      - Moderate impact
+      - Some impact
+      - Minimal impact
+      required: true
+    - id: 15
+      name: would_work_again
+      label: Would You Work With Them Again
+      hint: Based on your experience
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 16
+      name: recommendation_strength
+      label: Strength of Recommendation
+      hint: How strongly do you recommend
+      type: select_one
+      options:
+      - Highest recommendation
+      - Strong recommendation
+      - Moderate recommendation
+      - Mild recommendation
+      - Neutral
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: permission_to_publish
+      label: Permission to Publish
+      hint: Can we publish your nomination publicly
+      type: select_one
+      options:
+      - Yes, publish my name
+      - Yes, but keep anonymous
+      - No, confidential only
+      required: true
+    - id: 19
+      name: vote_confirmation
+      label: I Confirm This Vote Is Genuine
+      hint: Check to confirm
+      type: select_one
+      options:
+      - Yes, I confirm
+      - Other
+      required: true
+    - id: 20
+      name: vote_date
+      label: Vote Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

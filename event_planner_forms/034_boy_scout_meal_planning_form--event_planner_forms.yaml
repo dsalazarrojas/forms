@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boy Scout Meal Planning Form
+    pages:
+    - id: 1
+      name: troop_number
+      label: Troop Number
+      hint: Your Boy Scout troop number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patrol_name
+      label: Patrol Name
+      hint: Name of your patrol
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campout_name
+      label: Campout Name
+      hint: Name or description of campout
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: campout_date_start
+      label: Campout Start Date
+      hint: First day of campout
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: campout_date_end
+      label: Campout End Date
+      hint: Last day of campout
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: number_of_scouts
+      label: Number of Scouts
+      hint: Total scouts attending
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: number_of_adults
+      label: Number of Adults
+      hint: Total adult leaders attending
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: meal_planner_name
+      label: Meal Planner Name
+      hint: Scout responsible for meal planning
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assistant_planner_name
+      label: Assistant Meal Planner
+      hint: Assistant planner name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: saturday_breakfast
+      label: Saturday Breakfast
+      hint: Menu for Saturday breakfast
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: saturday_lunch
+      label: Saturday Lunch
+      hint: Menu for Saturday lunch
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: saturday_dinner
+      label: Saturday Dinner
+      hint: Menu for Saturday dinner
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: sunday_breakfast
+      label: Sunday Breakfast
+      hint: Menu for Sunday breakfast
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: sunday_lunch
+      label: Sunday Lunch
+      hint: Menu for Sunday lunch
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: List any dietary restrictions in the troop
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: allergies
+      label: Food Allergies
+      hint: List any food allergies
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: breakfast_ingredients
+      label: Breakfast Ingredients
+      hint: List all ingredients needed for breakfasts
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: lunch_ingredients
+      label: Lunch Ingredients
+      hint: List all ingredients needed for lunches
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: dinner_ingredients
+      label: Dinner Ingredients
+      hint: List all ingredients needed for dinners
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: snacks_needed
+      label: Snacks Needed
+      hint: List snacks and trail food
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: condiments_needed
+      label: Condiments Needed
+      hint: List condiments and seasonings
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: beverages_needed
+      label: Beverages Needed
+      hint: List all beverages
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: cooking_equipment
+      label: Cooking Equipment Needed
+      hint: List pots, pans, utensils needed
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: cleanup_supplies
+      label: Cleanup Supplies
+      hint: List soap, sponges, towels, etc.
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: water_source
+      label: Water Source
+      hint: Where will you get water
+      type: select_one
+      options:
+      - Bring all water
+      - Campground spigot
+      - Lake or stream
+      - Well
+      required: true
+    - id: 26
+      name: water_treatment
+      label: Water Treatment Needed
+      hint: Will you need to treat water
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: cooking_method
+      label: Cooking Method
+      hint: How will you cook meals
+      type: select_multiple
+      options:
+      - Camp stove
+      - Campfire
+      - Grill
+      - Dutch oven
+      - No cooking needed
+      required: true
+    - id: 28
+      name: fuel_needed
+      label: Fuel Needed
+      hint: Amount of propane or fuel
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: estimated_cost_per_scout
+      label: Estimated Cost Per Scout
+      hint: Approximate cost per person
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: Total cost for all meals
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: shopping_assignments
+      label: Shopping Assignments
+      hint: Who is responsible for shopping
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: food_storage_plan
+      label: Food Storage Plan
+      hint: How will food be stored safely
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: trash_disposal_plan
+      label: Trash Disposal Plan
+      hint: How will trash be handled
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: scoutmaster_approval
+      label: Scoutmaster Approval
+      hint: Scoutmaster name for approval
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: true

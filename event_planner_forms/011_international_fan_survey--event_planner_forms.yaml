@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_fan_survey
+    pages:
+    - id: 1
+      name: fan_info
+      label: fan info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: favorite_driver
+      label: favorite driver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: favorite_team
+      label: favorite team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

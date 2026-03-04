@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balloon Flights Booking Form
+    pages:
+    - id: 1
+      name: passenger_full_name
+      label: Passenger Full Name
+      hint: Name of the primary passenger
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: passenger_email
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: passenger_phone
+      label: Phone Number
+      hint: Contact number for flight updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: Total people in your party
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: flight_type
+      label: Flight Type
+      hint: Type of balloon experience
+      type: select_one
+      options:
+      - Standard Sunrise Flight
+      - Sunset Romance Flight
+      - Champagne Celebration Flight
+      - Private Exclusive Flight
+      - Group Adventure Flight
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred Flight Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: alternate_date
+      label: Alternate Date
+      hint: Backup date in case of weather
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: flight_location
+      label: Flight Location
+      hint: Preferred launch site
+      type: select_one
+      options:
+      - Napa Valley
+      - Sonoma County
+      - Temecula Valley
+      - Paso Robles
+      - Santa Barbara
+      - Other (Specify)
+      required: true
+    - id: 9
+      name: special_occasion
+      label: Special Occasion
+      hint: Are you celebrating something
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Engagement
+      - Honeymoon
+      - Graduation
+      - Corporate Event
+      - Just for Fun
+      required: false
+    - id: 10
+      name: passenger_weights
+      label: Passenger Weights
+      hint: Approximate weight of each passenger for safety calculations
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: height_restrictions
+      label: Height Restrictions
+      hint: Any passengers under 4 feet tall
+      type: select_one
+      options:
+      - Yes, children will be flying
+      - No, all passengers meet height requirement
+      required: true
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should be aware of
+      type: select_multiple
+      options:
+      - Pregnancy
+      - Heart Condition
+      - Recent Surgery
+      - Mobility Issues
+      - Severe Allergies
+      - None
+      required: true
+    - id: 13
+      name: mobility_assistance
+      label: Mobility Assistance Required
+      hint: Do you need help boarding the basket
+      type: select_one
+      options:
+      - Yes, please assist
+      - No, I can climb independently
+      required: true
+    - id: 14
+      name: photography_package
+      label: Photography Package
+      hint: Add professional photos to your booking
+      type: select_one
+      options:
+      - Yes, add photo package
+      - No, I will take my own photos
+      required: false
+    - id: 15
+      name: champagne_upgrade
+      label: Champagne Upgrade
+      hint: Complimentary or premium champagne service
+      type: select_one
+      options:
+      - Complimentary (Included)
+      - Premium Champagne Upgrade
+      - No thank you
+      required: false
+    - id: 16
+      name: transportation_needed
+      label: Transportation from Hotel
+      hint: Do you need pickup and drop-off service
+      type: select_one
+      options:
+      - Yes, add transportation
+      - No, we will drive ourselves
+      required: false
+    - id: 17
+      name: hotel_name
+      label: Hotel Name
+      hint: For transportation pickup
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for your flight
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Gift Certificate
+      - Deposit Now, Balance Later
+      required: true
+    - id: 19
+      name: gift_certificate
+      label: Is This a Gift
+      hint: Would you like gift wrapping
+      type: select_one
+      options:
+      - Yes, gift certificate
+      - No, personal booking
+      required: false
+    - id: 20
+      name: weather_policy_acknowledgment
+      label: Weather Policy Acknowledgment
+      hint: Flights may be rescheduled due to weather
+      type: select_one
+      options:
+      - I understand and agree
+      - I have questions
+      required: true
+    - id: 21
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Do you agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I need more information
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements or questions
+      type: text
+      options: []
+      required: false

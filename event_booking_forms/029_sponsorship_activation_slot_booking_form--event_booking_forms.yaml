@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Activation Slot Booking Form
+    pages:
+    - id: 1
+      name: event_organizer_info
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_info
+      label: Sponsor Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activation_slot
+      label: Activation Slot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: time_selection
+      label: Time Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

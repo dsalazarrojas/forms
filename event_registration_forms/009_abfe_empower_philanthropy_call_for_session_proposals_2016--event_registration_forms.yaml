@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Abfe Empower Philanthropy Call For Session Proposals 2016
+    pages:
+    - id: 1
+      name: section_header_presenter_info
+      label: -- Presenter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: presenter_full_name
+      label: Full name of primary presenter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: presenter_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presenter_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: presenter_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: co_presenter_name
+      label: Co-presenter name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: co_presenter_organization
+      label: Co-presenter organization (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_session_details
+      label: -- Session Proposal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_title
+      label: Proposed session title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: session_format
+      label: Preferred session format
+      hint: null
+      type: select_one
+      options:
+      - Workshop (90 minutes)
+      - Panel Discussion (60 minutes)
+      - Presentation (45 minutes)
+      - Lightning Talk (15 minutes)
+      - Roundtable Discussion
+      required: true
+    - id: 12
+      name: session_track
+      label: Which conference track does your session best fit
+      hint: null
+      type: select_one
+      options:
+      - Grantmaking Strategies
+      - Community Engagement
+      - Diversity, Equity and Inclusion
+      - Nonprofit Capacity Building
+      - Philanthropic Innovation
+      - Leadership Development
+      required: true
+    - id: 13
+      name: session_description
+      label: Session description and abstract
+      hint: Provide a 200-300 word summary of the proposed session
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: learning_objectives
+      label: List 2-3 key learning objectives for attendees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_audience
+      label: Who is the intended audience for this session
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Foundation Executives
+      - Program Officers
+      - Nonprofit Leaders
+      - Emerging Professionals
+      - Board Members
+      - Community Advocates
+      required: true
+    - id: 16
+      name: audience_experience_level
+      label: What experience level is this session designed for
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - All Levels
+      required: true
+    - id: 17
+      name: section_header_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: av_requirements
+      label: Audio-visual or technology requirements
+      hint: e.g. projector, microphone, internet access
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_presentation_experience
+      label: Have you presented at a conference or event before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: presenter_bio
+      label: Brief presenter biography
+      hint: 100-150 words
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Any additional information or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_merchandising_workshop_registration
+    pages:
+    - id: 1
+      name: workshop_info
+      label: workshop_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: attendee_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: workshop_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: sessions
+      label: select_workshop_sessions
+      hint: null
+      type: select_one
+      options:
+      - Single Session
+      - Multi-Part Workshop
+      required: false
+    - id: 9
+      name: sessions_1
+      label: session_1
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 10
+      name: sessions_2
+      label: session_2
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 11
+      name: sessions_3
+      label: session_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: attendees
+      label: attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

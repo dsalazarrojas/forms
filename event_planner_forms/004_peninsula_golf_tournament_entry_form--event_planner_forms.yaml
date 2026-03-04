@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: peninsula-golf-tournament-entry-form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entry_fee
+      label: Entry Fee
+      hint: $50.00 USD
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_tee_time
+      label: Participant Tee Time
+      hint: null
+      type: select_one
+      options:
+      - 6:00 AM - 6:30 AM
+      - 6:30 AM - 7:00 AM
+      - 7:00 AM - 7:30 AM
+      - 7:30 AM - 8:00 AM
+      - 8:00 AM - 8:30 AM
+      - 8:30 AM - 9:00 AM
+      required: false
+    - id: 7
+      name: participant_golf_cart
+      label: Participant Golf Cart
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

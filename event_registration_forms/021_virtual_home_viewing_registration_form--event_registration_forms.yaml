@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Home Viewing Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_details
+      label: Buyer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: viewing_request
+      label: Viewing Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date
+      label: Preferred Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: viewing_time
+      label: Viewing Time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: viewing_method
+      label: Viewing Method
+      hint: Select a viewing method
+      type: select_one
+      options:
+      - Home Tour
+      - Virtual Tour
+      - In-person Tour
+      required: false
+    - id: 7
+      name: agent_details
+      label: Agent Details
+      hint: Select an agent
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_confirmation
+      label: Form Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: viewing_confirmation
+      label: Viewing Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_confirmation
+      label: Contact Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: virtual_tour_confirmation
+      label: Virtual Tour Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: home_details
+      label: Home Details
+      hint: Select a home
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

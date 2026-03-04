@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jersey Order Form
+    pages:
+    - id: 1
+      name: team_selection
+      label: Choose a team
+      hint: None
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 2
+      name: size_selection
+      label: Select jersey size
+      hint: Please select a size
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 3
+      name: shirt_color
+      label: Choose a color
+      hint: None
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 4
+      name: shirt_style
+      label: Shirt style
+      hint: None
+      type: select_one
+      options:
+      - Short Sleeve
+      - Long Sleeve
+      - Sleeveless
+      required: false
+    - id: 5
+      name: order_type
+      label: Order type
+      hint: None
+      type: select_one
+      options:
+      - Adult
+      - Youth
+      - Child
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order notes
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment method
+      hint: None
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment amount
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment status
+      hint: None
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 13
+      name: order_status
+      label: Order status
+      hint: None
+      type: select_one
+      options:
+      - Confirmed
+      - Rejected
+      - Pending
+      required: false

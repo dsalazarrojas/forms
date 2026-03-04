@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Registration And Preorder Form
+    pages:
+    - id: 1
+      name: event_registration_and_preorder_form_page_1
+      label: Event Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_preorder_form_page_2
+      label: Product Preorder
+      hint: Select a product
+      type: select_one
+      options:
+      - '{''label'': ''Product 1'', ''value'': ''product-1''}'
+      - '{''label'': ''Product 2'', ''value'': ''product-2''}'
+      required: false
+    - id: 3
+      name: registration_details_form_page_3
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_details_form_page_4
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Event 1'', ''value'': ''event-1''}'
+      - '{''label'': ''Event 2'', ''value'': ''event-2''}'
+      required: false
+    - id: 5
+      name: payment_form_page_5
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method_form_page_6
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Card'', ''value'': ''card''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      required: false

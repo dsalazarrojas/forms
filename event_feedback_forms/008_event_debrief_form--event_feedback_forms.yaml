@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Debrief Form
+    pages:
+    - id: 1
+      name: event_debrief_form
+      label: Event Debrief
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: eventName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: eventDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: eventLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_rating
+      label: feedbackRating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: eventType
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Conference''}'
+      - '{''id'': 2, ''label'': ''Workshop''}'
+      - '{''id'': 3, ''label'': ''Seminar''}'
+      - '{''id'': 4, ''label'': ''Panel''}'
+      - '{''id'': 5, ''label'': ''Training''}'
+      - '{''id'': 6, ''label'': ''Event''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: feedback_comment
+      label: feedbackComment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback_rating_3_scale
+      label: feedbackRating_3_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied''}'
+      - '{''id'': 4, ''label'': ''Neutral''}'
+      - '{''id'': 5, ''label'': ''Not Satisfied At All''}'
+      required: false
+    - id: 9
+      name: feedback_rating_4_scale
+      label: feedbackRating_4_scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Somewhat Good''}'
+      - '{''id'': 3, ''label'': ''Not Good''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very Bad''}'
+      required: false
+    - id: 10
+      name: event_organizer_name
+      label: eventOrganizerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_organizer_email
+      label: eventOrganizerEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: event_organizer_phone
+      label: eventOrganizerPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organizer_contact
+      label: eventOrganizerContact
+      hint: null
+      type: text
+      options: []
+      required: false

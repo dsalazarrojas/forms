@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_experience_registration
+    pages:
+    - id: 1
+      name: vip_experience
+      label: VIP Experience Registration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vip_experience_date
+      label: VIP Experience Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vip_experience_time
+      label: VIP Experience Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vip_guests
+      label: VIP Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vip_experience_notes
+      label: VIP Experience Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vip_email
+      label: VIP Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: vip_phone
+      label: VIP Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vip_experience_title
+      label: VIP Experience Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vip_experience_type
+      label: VIP Experience Type
+      hint: null
+      type: text
+      options: []
+      required: false

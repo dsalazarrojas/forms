@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Digitization Summit Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendance_type
+      label: Attendance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Attendee''}'
+      - '{''label'': ''Presenter''}'
+      - '{''label'': ''Sponsor''}'
+      required: false
+    - id: 3
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchair''}'
+      - '{''label'': ''Service Dog''}'
+      - '{''label'': ''No Accessibility Needs''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Track A''}'
+      - '{''label'': ''Track B''}'
+      - '{''label'': ''Track C''}'
+      required: false
+    - id: 11
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_id
+      label: Attendee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: attendance_start_time
+      label: Attendance Start Time
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Onsite''}'
+      - '{''label'': ''Online''}'
+      required: false
+    - id: 15
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Confirmed''}'
+      - '{''label'': ''Confirmed - Online''}'
+      - '{''label'': ''No Show''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 16
+      name: attendance_type
+      label: Attendance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Attendee''}'
+      - '{''label'': ''Presenter''}'
+      - '{''label'': ''Sponsor''}'
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: start_session_time
+      label: Start Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: end_session_time
+      label: End Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New Attendee''}'
+      - '{''label'': ''Returning Attendee''}'
+      - '{''label'': ''Speaker''}'
+      required: false
+    - id: 26
+      name: session
+      label: Session
+      hint: null
+      type: text
+      options: []
+      required: false

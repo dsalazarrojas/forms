@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual MUN Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_affiliations
+      label: school_affiliations
+      hint: null
+      type: select_multiple
+      options:
+      - School 1
+      - School 2
+      - School 3
+      - School 4
+      required: false
+    - id: 3
+      name: committee_preferences
+      label: Committee Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Committee 1
+      - Committee 2
+      - Committee 3
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Parent/ Guardian
+      - Sponsor
+      - Other
+      required: false
+    - id: 6
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

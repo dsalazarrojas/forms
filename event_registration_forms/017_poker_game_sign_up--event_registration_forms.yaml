@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poker Game Sign Up
+    pages:
+    - id: 1
+      name: player_info
+      label: Player Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buy_in_info
+      label: Buy In Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_preferences
+      label: Game Preferences
+      hint: Select game type and stakes
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - Tournament
+      - Cash
+      required: true
+    - id: 5
+      name: buy_in
+      label: Buy In
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: player_info_2
+      label: Player Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_stakes
+      label: Game Stakes
+      hint: null
+      type: select_multiple
+      options:
+      - High Stakes
+      - Low Stakes
+      - Medium Stakes
+      required: true
+    - id: 8
+      name: player_notes
+      label: Player Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_details
+      label: Game Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_start_date
+      label: Game Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: game_start_time
+      label: Game Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

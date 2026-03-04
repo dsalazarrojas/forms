@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Condition Monitoring Workshop Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_workshop_dates
+      label: Preferred Workshop Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''January''}'
+      - '{''id'': 2, ''name'': ''February''}'
+      - '{''id'': 3, ''name'': ''March''}'
+      - '{''id'': 4, ''name'': ''April''}'
+      - '{''id'': 5, ''name'': ''May''}'
+      - '{''id'': 6, ''name'': ''June''}'
+      - '{''id'': 7, ''name'': ''July''}'
+      - '{''id'': 8, ''name'': ''August''}'
+      - '{''id'': 9, ''name'': ''September''}'
+      - '{''id'': 10, ''name'': ''October''}'
+      - '{''id'': 11, ''name'': ''November''}'
+      - '{''id'': 12, ''name'': ''December''}'
+      required: false
+    - id: 4
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: required_fields
+      label: Required Fields
+      hint: null
+      type: text
+      options: []
+      required: false

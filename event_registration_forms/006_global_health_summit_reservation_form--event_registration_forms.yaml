@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_health_summit_reservation_form
+    pages:
+    - id: 1
+      name: event_organizer_details
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reservation_details
+      label: Reservation Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

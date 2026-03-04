@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bounce House Request Form
+    pages:
+    - id: 1
+      name: requester_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: For quote and booking communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What type of event are you planning
+      type: select_one
+      options:
+      - Birthday party
+      - School event
+      - Church event
+      - Community festival
+      - Corporate event
+      - Family reunion
+      - Block party
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: When does your event start
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_end_time
+      label: Event End Time
+      hint: When does your event end
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Where will event be held
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location_type
+      label: Location Type
+      hint: Type of venue
+      type: select_one
+      options:
+      - Residential home
+      - Park
+      - School
+      - Church
+      - Community center
+      - Backyard
+      - Indoor venue
+      - Other
+      required: true
+    - id: 12
+      name: bounce_house_preference
+      label: Bounce House Preference
+      hint: Which type interests you
+      type: select_one
+      options:
+      - Standard bounce house
+      - Combo with slide
+      - Obstacle course
+      - Interactive game unit
+      - Water slide
+      - Themed character
+      - Not sure - need recommendations
+      required: true
+    - id: 13
+      name: preferred_themes
+      label: Preferred Themes
+      hint: Any theme preferences
+      type: select_multiple
+      options:
+      - Princess
+      - Superhero
+      - Animals
+      - Sports
+      - Castle
+      - Jungle
+      - Under the sea
+      - No preference
+      required: false
+    - id: 14
+      name: age_range
+      label: Age Range of Users
+      hint: Ages of children who will use it
+      type: select_one
+      options:
+      - Toddlers (2-4)
+      - Young children (5-8)
+      - Older children (9-12)
+      - Mixed ages
+      - Teens and adults
+      required: true
+    - id: 15
+      name: number_of_children
+      label: Expected Number of Children
+      hint: Approximate count
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: space_available
+      label: Space Available
+      hint: Approximate dimensions in feet
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: power_available
+      label: Power Outlet Available
+      hint: Is electrical outlet nearby
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: generator_needed
+      label: Generator Needed
+      hint: Do you need a generator rental
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 19
+      name: delivery_preferences
+      label: Delivery Time Preference
+      hint: Preferred delivery window
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-4PM)
+      - Evening (4PM-8PM)
+      - Flexible
+      required: false
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Under $200
+      - $200-$350
+      - $350-$500
+      - $500-$750
+      - Over $750
+      - Not sure
+      required: false
+    - id: 21
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requests or questions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: What source led you to us
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend referral
+      - Google search
+      - Advertisement
+      - Previous customer
+      - Other
+      required: false
+    - id: 23
+      name: ready_to_book
+      label: Ready to Book
+      hint: Are you ready to make a reservation
+      type: select_one
+      options:
+      - Yes, ready to book
+      - Need more information
+      - Just getting quotes
+      required: true

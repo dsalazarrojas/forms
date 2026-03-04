@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Hostel Dorm Booking Form
+    pages:
+    - id: 1
+      name: booking_header
+      label: -- Hostel Dorm Reservation --
+      hint: Please fill out the form to book your stay
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Full Name of Primary Guest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: Include country code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: arrival_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: departure_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Total Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: dorm_type_preference
+      label: Preferred Dorm Type
+      hint: null
+      type: select_one
+      options:
+      - Mixed Dorm (4 beds)
+      - Mixed Dorm (8 beds)
+      - Female-only Dorm (4 beds)
+      - Female-only Dorm (6 beds)
+      - Private Dorm Room
+      required: true
+    - id: 9
+      name: arrival_time_estimate
+      label: Estimated Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: identification_number
+      label: Passport or National ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_requirements
+      label: Any special requirements or allergies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_purpose
+      label: Purpose of Visit
+      hint: null
+      type: select_one
+      options:
+      - Leisure/Tourism
+      - Business/Work
+      - Education/Study
+      - Other
+      required: false
+    - id: 13
+      name: heard_about_us
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Booking.com
+      - Hostelworld
+      - Friend/Recommendation
+      - Social Media
+      - Search Engine
+      required: false
+    - id: 14
+      name: agreement_terms
+      label: I agree to the hostel house rules and cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 15
+      name: booking_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

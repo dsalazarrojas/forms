@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: guest_entry_wristband_request_form
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wristband_request
+      label: Wristband Request
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 3
+      name: approval
+      label: Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

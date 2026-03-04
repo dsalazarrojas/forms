@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: symposium_expression_of_interest
+    pages:
+    - id: 1
+      name: early_interest
+      label: Is this a good fit for our event?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Interest Level'': ''Low''}'
+      - '{''Interest Level'': ''Moderate''}'
+      - '{''Interest Level'': ''High''}'
+      required: false
+    - id: 2
+      name: topics
+      label: What topics would you be interested in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false

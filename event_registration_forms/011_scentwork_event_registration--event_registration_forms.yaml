@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scentwork Event Registration
+    pages:
+    - id: 1
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trial_date
+      label: Trial Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trial_location
+      label: Trial Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_additional_info
+      label: Participant Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Event Trial
+      - Class Trial
+      - Trial Series
+      required: true
+    - id: 10
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trial_duration
+      label: Trial Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trial_type
+      label: Trial Type
+      hint: null
+      type: select_multiple
+      options:
+      - Agility
+      - Jumping Trial
+      - Tracking Trial
+      - Scent Work
+      required: true
+    - id: 13
+      name: trial_start_time
+      label: Trial Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: trial_end_time
+      label: Trial End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: trial_start_date
+      label: Trial Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: trial_end_date
+      label: Trial End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: trial_start_time
+      label: Trial Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: trial_end_time
+      label: Trial End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: entry_fee_paid
+      label: Entry Fee Paid
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 21
+      name: entry_fee_discount
+      label: Entry Fee Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: entry_fee_discount_code
+      label: Entry Fee Discount Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: class_level
+      label: Class Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Novice
+      - Expert
+      required: true
+    - id: 24
+      name: class_level_other
+      label: If Other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true

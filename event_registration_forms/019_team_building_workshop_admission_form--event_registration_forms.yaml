@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Building Workshop Admission Form
+    pages:
+    - id: 1
+      name: team_building_workshop_admission_form
+      label: What Is Your Role In The Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_building_workshop_participants
+      label: How Many Participants Are You Bringing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Team Member
+      - Team Lead + Team Member
+      required: false
+    - id: 4
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - Veggie
+      - Non-Veggie
+      required: false
+    - id: 5
+      name: meal_preferences
+      label: Meal Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 6
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_postal_code
+      label: Participant Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_leads_name
+      label: Team Lead's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_leads_email
+      label: Team Lead's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: team_leads_phone
+      label: Team Lead's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_leads_address
+      label: Team Lead's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_leads_postal_code
+      label: Team Lead's Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_leads_position
+      label: Team Lead's Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_leads_workshop_experience
+      label: Team Lead's Workshop Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: team_leads_organizes
+      label: Team Lead Organizes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: participant_workshop_experience
+      label: Participant's Workshop Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: participant_organizes
+      label: Participant Organizes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: team_leads_organizes
+      label: Team Lead Organizes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: participant_leads_workshop_team
+      label: Participant Leads Workshop Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: participant_leads_team_workshop
+      label: Participant Leads Team Workshop
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

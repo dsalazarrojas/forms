@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: t_shirt_deposit_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_info
+      label: product_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''red'', ''value'': ''red''}'
+      - '{''label'': ''blue'', ''value'': ''blue''}'
+      - '{''label'': ''black'', ''value'': ''black''}'
+      required: true
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipping_info
+      label: shipping_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''online'', ''value'': ''online''}'
+      - '{''label'': ''cash'', ''value'': ''cash''}'
+      required: true

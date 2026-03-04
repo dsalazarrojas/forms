@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Table Setup Checklist
+    pages:
+    - id: 1
+      name: event_table_setup_checklist
+      label: Event Table Setup Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_planners
+      label: Event Planners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_table_details
+      label: Event Table Details
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: event_setup_dates
+      label: Event Setup Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_setup_times
+      label: Event Setup Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: setup_locations
+      label: Setup Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_table_setup_responsibilities
+      label: Event Table Setup Responsabilities
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: event_setup_tasks
+      label: Event Setup Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_table_setup_notes
+      label: Event Table Setup Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_table_setup_checklist_complete
+      label: Event Table Setup Checklist Complete
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

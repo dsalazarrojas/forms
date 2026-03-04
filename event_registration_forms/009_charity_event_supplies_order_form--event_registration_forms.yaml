@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Supplies Order Form
+    pages:
+    - id: 1
+      name: section_order_info
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: Unique identifier for this order
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: When is this order being placed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: needed_by_date
+      label: Supplies Needed By Date
+      hint: When do you need these supplies
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Name of the charity event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When will the event take place
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Where will the event be held
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_supplies
+      label: -- Supplies Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: supply_category
+      label: Primary Supply Category
+      hint: What type of supplies do you need
+      type: select_one
+      options:
+      - Decorations
+      - Table Setup
+      - Signage
+      - Serving Materials
+      - Audio-Visual
+      - Furniture
+      - Linens
+      - Tableware
+      - Other
+      required: true
+    - id: 12
+      name: specific_items
+      label: Specific Items Needed
+      hint: List all items you need to order
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: quantities
+      label: Quantities for Each Item
+      hint: How many of each item needed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: color_preferences
+      label: Color or Design Preferences
+      hint: Any specific colors or styles
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should supplies be delivered
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: delivery_contact
+      label: Delivery Contact Person
+      hint: Who will receive the delivery
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: estimated_budget
+      label: Estimated Budget for Supplies
+      hint: Budget in dollars
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false

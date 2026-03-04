@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Intelligence Conference Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Register
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_interests
+      label: Select Session Interests
+      hint: Select session interests
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: Please provide your details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_requirements
+      label: Session Requirements
+      hint: Select session requirements
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_requirements_1
+      label: Session Requirements 1
+      hint: null
+      type: number
+      options: []
+      required: false

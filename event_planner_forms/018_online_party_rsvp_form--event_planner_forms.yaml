@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Party RSVP Form
+    pages:
+    - id: 1
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: attending
+      label: Attending
+      hint: null
+      type: select_one
+      options:
+      - I'm Attending
+      - Not Attending
+      - Maybe Attending
+      required: false
+    - id: 6
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: party_time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: false

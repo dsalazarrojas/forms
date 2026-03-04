@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibit Curation Request Form
+    pages:
+    - id: 1
+      name: section_proposer
+      label: -- Proposer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: proposer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: proposal_date
+      label: Proposal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_exhibit
+      label: -- Exhibit Proposal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exhibit_title
+      label: Exhibit Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exhibit_description
+      label: Detailed Exhibit Description
+      hint: Concept, theme, and scope
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: exhibit_medium
+      label: Artwork Types or Mediums
+      hint: Painting, sculpture, photography, etc.
+      type: select_multiple
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital art
+      - Installation
+      - Mixed media
+      - Performance art
+      - Other
+      required: true
+    - id: 11
+      name: artist_count
+      label: Number of Artists Involved
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_timeline
+      label: -- Timeline and Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: proposed_end_date
+      label: Proposed End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: duration_weeks
+      label: Duration in Weeks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_space
+      label: -- Space Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: space_needed
+      label: Square Feet of Space Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: wall_requirements
+      label: Wall or Display Requirements
+      hint: Linear feet, special mounting, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: technical_requirements
+      label: Special Technical Requirements
+      hint: Lighting, sound, video, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: shipping_arrangements
+      label: Artwork Shipping Arrangements
+      hint: null
+      type: select_one
+      options:
+      - Artist handled
+      - Proposer handled
+      - Gallery arranged
+      - Other
+      required: true
+    - id: 22
+      name: insurance_needed
+      label: Insurance Coverage Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, by gallery
+      - Yes, by artist
+      - Not applicable
+      required: true
+    - id: 23
+      name: section_promotion
+      label: -- Promotion and Marketing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: promotional_ideas
+      label: Proposed Marketing and Promotional Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: budget_estimate
+      label: Estimated Budget for Promotion
+      hint: null
+      type: number
+      options: []
+      required: false

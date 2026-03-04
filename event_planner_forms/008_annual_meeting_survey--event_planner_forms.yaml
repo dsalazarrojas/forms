@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Meeting Survey
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: attendee_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department or Organization
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: first_time_attendee
+        label: Is this your first time attending this meeting
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 5
+        name: overall_satisfaction
+        label: Overall satisfaction with the meeting
+        hint: null
+        type: select_one
+        options:
+          - "Very satisfied"
+          - "Satisfied"
+          - "Neutral"
+          - "Dissatisfied"
+          - "Very dissatisfied"
+        required: true
+      - id: 6
+        name: meeting_relevance
+        label: Meeting content was relevant to my role
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 7
+        name: meeting_objectives_clear
+        label: Meeting objectives were clearly communicated
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 8
+        name: venue_quality
+        label: Quality of meeting venue and facilities
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Very poor"
+        required: true
+      - id: 9
+        name: catering_quality
+        label: Quality of catering and refreshments
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Not applicable"
+        required: false
+      - id: 10
+        name: technology_quality
+        label: Audio-visual and technology support
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Very poor"
+        required: true
+      - id: 11
+        name: speaker_quality
+        label: Quality of presentations and speakers
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Very poor"
+        required: true
+      - id: 12
+        name: session_length
+        label: Session length and pacing
+        hint: Were sessions too long or too short
+        type: select_one
+        options:
+          - "Just right"
+          - "Too long"
+          - "Too short"
+          - "Mixed"
+        required: true
+      - id: 13
+        name: networking_opportunities
+        label: Networking opportunities provided
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "None provided"
+        required: false
+      - id: 14
+        name: value_gained
+        label: Value gained from attending
+        hint: null
+        type: select_one
+        options:
+          - "Significant value"
+          - "Moderate value"
+          - "Some value"
+          - "Little value"
+          - "No value"
+        required: true
+      - id: 15
+        name: actionable_takeaways
+        label: Number of actionable takeaways
+        hint: How many useful ideas or actions to implement
+        type: select_one
+        options:
+          - "Many"
+          - "Several"
+          - "A few"
+          - "None"
+        required: true
+      - id: 16
+        name: most_valuable_sessions
+        label: Most valuable sessions or presentations
+        hint: Which sessions stood out to you
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: improvement_areas
+        label: Areas for improvement
+        hint: What could be better at future meetings
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: missing_topics
+        label: Topics you would like to see covered
+        hint: Suggest areas for future meetings
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: future_attendance
+        label: Likelihood to attend next year
+        hint: null
+        type: select_one
+        options:
+          - "Very likely"
+          - "Likely"
+          - "Undecided"
+          - "Unlikely"
+          - "Very unlikely"
+        required: true
+      - id: 20
+        name: recommend_to_others
+        label: Would you recommend this meeting to colleagues
+        hint: null
+        type: select_one
+        options:
+          - "Definitely"
+          - "Probably"
+          - "Unsure"
+          - "Probably not"
+          - "Definitely not"
+        required: true
+      - id: 21
+        name: format_preference
+        label: Preferred meeting format for next year
+        hint: null
+        type: select_one
+        options:
+          - "In-person"
+          - "Virtual"
+          - "Hybrid (both)"
+        required: false

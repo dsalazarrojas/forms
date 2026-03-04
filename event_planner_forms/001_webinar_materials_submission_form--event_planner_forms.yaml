@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Materials Submission Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_participants
+      label: Session Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: webinar_start_time
+      label: Webinar Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: webinar_start_date
+      label: Webinar Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: webinar_url
+      label: Webinar URL
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: materials_title
+      label: Materials Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: materials_description
+      label: Materials Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: materials_link
+      label: Materials Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: session_note
+      label: Session Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: webinar_hosts
+      label: Webinar Hosts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: session_materials
+      label: Session Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: materials_added
+      label: Materials Added
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: materials_last_updated
+      label: Materials Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: session_start_time_1
+      label: Session Start Time 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: session_end_time_1
+      label: Session End Time 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: session_start_time_2
+      label: Session Start Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: session_end_time_2
+      label: Session End Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: session_materials_1
+      label: Session Materials 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: session_materials_2
+      label: Session Materials 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: session_host
+      label: Session Host
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

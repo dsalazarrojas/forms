@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Load In And Load Out Form
+    pages:
+    - id: 1
+      name: event_load_in
+      label: Load-in
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: event_load_out
+      label: Load-out
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_load_in_date
+      label: Load-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_load_out_date
+      label: Load-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_load_in_time
+      label: Load-in Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_load_out_time
+      label: Load-out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_load_in_notes
+      label: Load-in Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_load_out_notes
+      label: Load-out Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_load_in_supplies
+      label: Load-in Supplies
+      hint: null
+      type: select_one
+      options:
+      - Load-in 1
+      - Load-in 2
+      - Load-in 3
+      required: false
+    - id: 10
+      name: event_load_out_supplies
+      label: Load-out Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - Load-out 1
+      - Load-out 2
+      - Load-out 3
+      required: false
+    - id: 11
+      name: event_event_planner
+      label: Event Planner
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: event_event_coordinator
+      label: Event Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_load_in_location
+      label: Load-in Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_load_out_location
+      label: Load-out Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_load_in_equipment
+      label: Load-in Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      required: false

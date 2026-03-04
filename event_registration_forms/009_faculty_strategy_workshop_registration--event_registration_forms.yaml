@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Strategy Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Session 1''}'
+      - '{''label'': ''Session 2''}'
+      - '{''label'': ''Session 3''}'
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participation_consent
+      label: Participation Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

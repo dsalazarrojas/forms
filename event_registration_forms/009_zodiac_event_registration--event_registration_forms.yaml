@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: zodiac_event_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - participant_a
+      - participant_b
+      - participant_c
+      required: false
+    - id: 7
+      name: participant_a_details
+      label: Participant A Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_b_details
+      label: Participant B Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: zodiac_sign
+      label: Zodiac Sign
+      hint: null
+      type: select_one
+      options:
+      - aries
+      - taurus
+      - cancer
+      - virgo
+      - libra
+      - scorpio
+      - sagittarius
+      - capricorn
+      - aquarius
+      - pisces
+      - gemini
+      - leo
+      - sagittarius
+      - capricorn
+      - aquarius
+      - gemini
+      - leo
+      required: false
+    - id: 11
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: registration_time
+      label: Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_count_hint
+      label: Participant Count Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zodiac_event_registration_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false

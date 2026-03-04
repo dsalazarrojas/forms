@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: F1 Grand Prix Ticket Booking
+    pages:
+    - id: 1
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_terms
+      label: Event Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: event_conditions
+      label: Event Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: ticket_conditions
+      label: Ticket Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accessibility_notes
+      label: Accessibility Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendee_notes
+      label: Attendee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_owner
+      label: Form Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

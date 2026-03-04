@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Process Innovation Workshop Registration
+    pages:
+    - id: 1
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_requirements
+      label: Session Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carnival Event Feedback Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Carnival Event Feedback Survey
+      hint: Help us improve future carnival events
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: For prize notifications
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: visit_date
+      label: Date of Visit
+      hint: When did you attend
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: visit_time
+      label: Time of Visit
+      hint: Approximate arrival time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: group_composition
+      label: Who Did You Attend With
+      hint: Group type
+      type: select_one
+      options:
+      - Alone
+      - With spouse or partner
+      - With children
+      - With friends
+      - With extended family
+      - School or church group
+      - Other
+      required: true
+    - id: 7
+      name: number_in_group
+      label: Number in Your Group
+      hint: Total attendees
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: How would you rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: first_time_visitor
+      label: Is This Your First Time at This Carnival
+      hint: Visit history
+      type: select_one
+      options:
+      - Yes - first time
+      - No - attended before
+      required: true
+    - id: 10
+      name: times_attended
+      label: How Many Times Have You Attended
+      hint: If not first time
+      type: select_one
+      options:
+      - This is my first time
+      - 2 to 3 times
+      - 4 to 5 times
+      - 6 or more times
+      required: true
+    - id: 11
+      name: rides_attractions
+      label: Rides and Attractions Rating
+      hint: Quality and variety
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did not use
+      required: true
+    - id: 12
+      name: favorite_rides
+      label: Favorite Rides or Attractions
+      hint: What did you enjoy most
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: food_beverages
+      label: Food and Beverages Rating
+      hint: Quality and variety
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did not purchase
+      required: true
+    - id: 14
+      name: food_quality
+      label: Food Quality Assessment
+      hint: Taste and freshness
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: food_value
+      label: Food Value for Price
+      hint: Pricing fairness
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very overpriced
+      required: false
+    - id: 16
+      name: games_activities
+      label: Games and Activities Rating
+      hint: Carnival games rating
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did not participate
+      required: true
+    - id: 17
+      name: entertainment
+      label: Live Entertainment Rating
+      hint: Shows and performances
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did not watch
+      required: true
+    - id: 18
+      name: cleanliness
+      label: Event Cleanliness Rating
+      hint: Grounds and facilities
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: safety_security
+      label: Safety and Security Rating
+      hint: How safe did you feel
+      type: select_one
+      options:
+      - Very safe
+      - Safe
+      - Neutral
+      - Unsafe
+      - Very unsafe
+      required: true
+    - id: 20
+      name: staff_friendliness
+      label: Staff Friendliness Rating
+      hint: Customer service quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: parking
+      label: Parking Facilities Rating
+      hint: Availability and convenience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did not drive
+      required: true
+    - id: 22
+      name: restrooms
+      label: Restroom Facilities Rating
+      hint: Cleanliness and availability
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: value_for_money
+      label: Overall Value for Money
+      hint: Was it worth the cost
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 24
+      name: wait_times
+      label: Wait Times for Rides
+      hint: Queue length assessment
+      type: select_one
+      options:
+      - Very reasonable
+      - Acceptable
+      - Somewhat long
+      - Too long
+      - Excessive
+      required: true
+    - id: 25
+      name: likelihood_return
+      label: How Likely Are You to Return
+      hint: Future attendance
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 26
+      name: recommend_to_others
+      label: How Likely Are You to Recommend to Others
+      hint: Net promoter score
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 27
+      name: best_part
+      label: What Was the Best Part of Your Visit
+      hint: Highlight of the event
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: areas_improvement
+      label: What Areas Need Improvement
+      hint: Suggestions for enhancement
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stadium Amenity Feedback Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: OverallExperience
+      hint: How would you rate your overall experience with the stadium?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_and_beverage
+      label: FoodandBeverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Value'': ''Excellent''}'
+      - '{''Value'': ''Good''}'
+      - '{''Value'': ''Fair''}'
+      - '{''Value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: amenities
+      label: Amenities
+      hint: What amenities did you use during your visit?
+      type: select_multiple
+      options:
+      - '{''Value'': ''Stadium Seating''}'
+      - '{''Value'': ''Concessions''}'
+      - '{''Value'': ''Restrooms''}'
+      - '{''Value'': ''Other''}'
+      required: false
+    - id: 6
+      name: accessibility
+      label: Accessibility
+      hint: null
+      type: select_one
+      options:
+      - '{''Value'': ''Excellent''}'
+      - '{''Value'': ''Good''}'
+      - '{''Value'': ''Fair''}'
+      - '{''Value'': ''Poor''}'
+      required: false
+    - id: 7
+      name: staff_friendly
+      label: Stafffriendly
+      hint: How would you rate the friendliness of the staff?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parking
+      label: Parking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: AdditionalComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_event_business_impact_survey
+    pages:
+    - id: 1
+      name: event_title
+      label: Post Event Business Impact Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_attended
+      label: Attended Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: event_likely_to_attend
+      label: Likely to Attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: event_recommend
+      label: Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: event_improve
+      label: Suggest Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_agree
+      label: Agree with Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: event_disagree
+      label: Disagree with Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: event_no_opinion
+      label: No Opinion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: event_important
+      label: Most Important
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Capability Course Registration
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - PayPal
+      required: true
+    - id: 4
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billing_phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false

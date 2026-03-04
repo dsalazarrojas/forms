@@ -1,0 +1,330 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Venue Feedback Questionnaire
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: conference_name
+        label: Conference Name
+        hint: Which event
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: conference_date
+        label: Conference Date
+        hint: When did you attend
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: venue_name
+        label: Venue Name
+        hint: Where was it held
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: attendance_type
+        label: Attendance Type
+        hint: How did you attend
+        type: select_one
+        options:
+          - In Person
+          - Virtual
+          - Hybrid
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Venue Satisfaction
+        hint: Rate the venue
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: location_rating
+        label: Location Rating
+        hint: Ease of access
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: accessibility_rating
+        label: Accessibility Rating
+        hint: Venue accessibility
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: room_comfort
+        label: Room Comfort
+        hint: Seating and space
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: temperature_control
+        label: Temperature Control
+        hint: HVAC comfort
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: lighting_quality
+        label: Lighting Quality
+        hint: Room lighting
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: acoustics_rating
+        label: Acoustics Rating
+        hint: Sound quality
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: av_equipment
+        label: AV Equipment Quality
+        hint: Audio visual
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: wifi_quality
+        label: WiFi Quality
+        hint: Internet connection
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: cleanliness_rating
+        label: Cleanliness Rating
+        hint: Venue cleanliness
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: catering_quality
+        label: Catering Quality
+        hint: Food and beverage
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did Not Use
+        required: true
+      - id: 18
+        name: catering_variety
+        label: Catering Variety
+        hint: Options available
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did Not Use
+        required: true
+      - id: 19
+        name: staff_service
+        label: Staff Service
+        hint: Venue staff
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: registration_area
+        label: Registration Area
+        hint: Check-in experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 21
+        name: signage_clarity
+        label: Signage Clarity
+        hint: Directional signs
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: restroom_facilities
+        label: Restroom Facilities
+        hint: Cleanliness and availability
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 23
+        name: parking_facilities
+        label: Parking Facilities
+        hint: Availability and cost
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did Not Use
+        required: true
+      - id: 24
+        name: value_for_money
+        label: Value for Money
+        hint: Was it worth it
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 25
+        name: best_features
+        label: Best Features of Venue
+        hint: What you liked most
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: areas_improvement
+        label: Areas Needing Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: would_recommend
+        label: Would You Recommend This Venue
+        hint: To others
+        type: select_one
+        options:
+          - Yes Definitely
+          - Yes With Reservations
+          - No
+        required: true
+      - id: 28
+        name: would_return
+        label: Would You Attend Events Here Again
+        hint: Future events
+        type: select_one
+        options:
+          - Yes Definitely
+          - Maybe
+          - No
+        required: true
+      - id: 29
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: follow_up_permission
+        label: May We Contact You for Follow-Up
+        hint: For more feedback
+        type: select_one
+        options:
+          - Yes Please
+          - No Thank You
+        required: false

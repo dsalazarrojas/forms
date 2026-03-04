@@ -1,0 +1,246 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competition Feedback Form
+    pages:
+      - id: 1
+        name: competition_name
+        label: Competition Name
+        hint: Name of the competition
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: competition_date
+        label: Competition Date
+        hint: When did the competition take place
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can be anonymous
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: respondent_email
+        label: Your Email
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: participation_type
+        label: Your Role
+        hint: How did you participate
+        type: select_one
+        options:
+          - Competitor
+          - Judge or Evaluator
+          - Coach or Trainer
+          - Spectator
+          - Volunteer
+          - Organizer
+          - Other
+        required: true
+      - id: 6
+        name: category_competed
+        label: Category or Division
+        hint: Which category were you in
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: organization_rating
+        label: Organization Rating
+        hint: How well was it organized
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: venue_rating
+        label: Venue Rating
+        hint: Quality of the venue
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: true
+      - id: 10
+        name: facilities_rating
+        label: Facilities Rating
+        hint: Quality of facilities
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: judging_rating
+        label: Judging Fairness Rating
+        hint: Fairness and quality of judging
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did not observe
+        required: true
+      - id: 12
+        name: communication_rating
+        label: Communication Rating
+        hint: Quality of event communication
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: registration_process
+        label: Registration Process Rating
+        hint: Ease of registration
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: schedule_rating
+        label: Schedule Rating
+        hint: How well did schedule run
+        type: select_one
+        options:
+          - Excellent - on time
+          - Very Good - minor delays
+          - Good - some delays
+          - Fair - significant delays
+          - Poor - very disorganized
+        required: true
+      - id: 15
+        name: competition_level
+        label: Level of Competition
+        hint: Quality of competitors
+        type: select_one
+        options:
+          - Very high - professional level
+          - High - skilled competitors
+          - Moderate - mixed levels
+          - Low - mostly beginners
+          - Very low - poor quality
+        required: true
+      - id: 16
+        name: value_for_money
+        label: Value for Money
+        hint: Was it worth the entry fee
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 17
+        name: would_recommend
+        label: Would You Recommend
+        hint: Would you recommend to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 18
+        name: would_participate_again
+        label: Would You Participate Again
+        hint: Will you return next year
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 19
+        name: best_aspects
+        label: Best Aspects
+        hint: What did you like most
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: favorite_moment
+        label: Favorite Moment
+        hint: Highlight of the competition
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: suggestions
+        label: Suggestions for Next Year
+        hint: Your ideas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

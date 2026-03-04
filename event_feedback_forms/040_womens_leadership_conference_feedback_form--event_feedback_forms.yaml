@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Womens Leadership Conference Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: category_0
+      label: Keynote Speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category_1
+      label: Food and Beverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category_2
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false

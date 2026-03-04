@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Event Stage Setup Registration Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performer_technical_details
+      label: Performer Technical Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stage_plot
+      label: Stage Plot
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: requirements
+      label: Requirements
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Stage Width (m)''}'
+      - '{''Label'': ''Stage Depth (m)''}'
+      - '{''Label'': ''Backline Height (m)''}'
+      - '{''Label'': ''Backline Length (m)''}'
+      - '{''Label'': ''Backline Width (m)''}'
+      - '{''Label'': ''Height (m)''}'
+      - '{''Label'': ''Stage Angle''}'
+      - '{''Label'': ''Stage Orientation''}'
+      - '{''Label'': ''Other Requirements''}'
+      required: false
+    - id: 5
+      name: stage_technical_requirements
+      label: Stage Technical Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Label'': ''Power''}'
+      - '{''Label'': ''Water''}'
+      - '{''Label'': ''Internet''}'
+      - '{''Label'': ''Other''}'
+      required: false
+    - id: 6
+      name: submission
+      label: Submission
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: performer_contact
+      label: Performer Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Readiness Workshop Registration
+    pages:
+    - id: 1
+      name: job_readiness_workshop_registration_form
+      label: Job Readiness Workshop Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_workshop
+      label: Time Of Workshop
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: job_readiness_workshop_date
+      label: Job Readiness Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_readiness_workshop_time
+      label: Job Readiness Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: select_one_workshop_date
+      label: Which of the following dates works for you?
+      hint: null
+      type: select_one
+      options:
+      - 01/01/2023
+      - 01/02/2023
+      - 01/03/2023
+      required: false
+    - id: 10
+      name: select_one_workshop_time
+      label: Which of the following time slots works for you?
+      hint: null
+      type: select_one
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      required: false
+    - id: 11
+      name: select_multiple_workshop_days
+      label: Which of the following days?
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 12
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: job_readiness_workshop_location
+      label: Job Readiness Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false

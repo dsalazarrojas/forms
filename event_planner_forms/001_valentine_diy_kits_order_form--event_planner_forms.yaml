@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Valentine DIY Kits Order Form
+    pages:
+    - id: 1
+      name: valentine_diy_kits_order_form
+      label: Choose Kit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: valentine_diy_kits
+      label: Valentine DIY Kit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: kits_count
+      label: kits_count
+      hint: How many kits would you like to order?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit/Debit
+      - Pay Pal
+      required: false

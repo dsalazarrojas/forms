@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Visual Setup Request Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Enter the name of the event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: Select the date of the event
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_start_time
+      label: Event Start Time
+      hint: What time does the event begin
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: venue_name
+      label: Venue Name
+      hint: Name of the location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: venue_address
+      label: Venue Address
+      hint: Full address of the venue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: projected_attendance
+      label: Projected Attendance
+      hint: Estimated number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: av_equipment_needed
+      label: AV Equipment Needed
+      hint: Select all equipment required
+      type: select_multiple
+      options:
+      - Projector
+      - Screen
+      - Microphone
+      - Speakers
+      - Lighting
+      - Video Camera
+      - Audio Mixer
+      - Cable Management
+      required: true
+    - id: 8
+      name: projector_type
+      label: Projector Type Needed
+      hint: What type of projector do you need
+      type: select_one
+      options:
+      - Standard LCD
+      - LED Projector
+      - Laser Projector
+      - Interactive Projector
+      required: false
+    - id: 9
+      name: screen_size
+      label: Screen Size Required (inches)
+      hint: Approximate screen diagonal measurement
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: microphone_setup
+      label: Microphone Setup
+      hint: How many microphone inputs needed
+      type: select_one
+      options:
+      - Single Handheld
+      - Lapel/Headset
+      - Podium
+      - Multiple Wireless
+      - Panel Setup
+      required: false
+    - id: 11
+      name: lighting_requirements
+      label: Lighting Requirements
+      hint: Describe special lighting needs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: internet_needed
+      label: Internet/WiFi Required
+      hint: Is high-speed internet needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Yes - High Bandwidth Required
+      required: true
+    - id: 13
+      name: bandwidth_usage
+      label: Bandwidth Usage Type
+      hint: What will internet be used for
+      type: select_multiple
+      options:
+      - Live Streaming
+      - Video Conferencing
+      - Slide Presentations
+      - Interactive Displays
+      required: false
+    - id: 14
+      name: technical_support_onsite
+      label: Request Onsite Technical Support
+      hint: Do you need a technician present during event
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial - Setup Only
+      required: true
+    - id: 15
+      name: setup_time_needed
+      label: Setup Time Available (hours)
+      hint: How many hours before event for setup
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any additional equipment or customization needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Name of event coordinator
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: Email address for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for urgent communication
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: organization_name
+      label: Organization/Company Name
+      hint: Organization hosting the event
+      type: text
+      options: []
+      required: false

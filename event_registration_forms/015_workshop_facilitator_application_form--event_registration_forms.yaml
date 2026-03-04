@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Facilitator Application Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Workshop Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_url
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: workshop_experience
+      label: Workshop Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Beginner''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      required: false
+    - id: 13
+      name: workshop_topics
+      label: Workshop Topics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Topic 1''}'
+      - '{''value'': ''Topic 2''}'
+      - '{''value'': ''Topic 3''}'
+      required: false
+    - id: 14
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: workshop_capacity
+      label: Maximum Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: workshop_equipment
+      label: Workshop Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: workshop_equipment_other
+      label: Other Equipment (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workshop_safety
+      label: Safety Precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: workshop_safety_other
+      label: Other Safety Precautions (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: workshop_venue
+      label: Venue Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Venue 1''}'
+      - '{''value'': ''Venue 2''}'
+      - '{''value'': ''Venue 3''}'
+      required: false
+    - id: 21
+      name: workshop_venue_other
+      label: Other Venue (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: workshop_venue_details
+      label: Venue Details (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: workshop_venue_notes
+      label: Venue Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: workshop_notes
+      label: Workshop Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

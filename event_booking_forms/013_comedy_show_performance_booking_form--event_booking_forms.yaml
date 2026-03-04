@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comedy Show Performance Booking Form
+    pages:
+    - id: 1
+      name: performer_name
+      label: Performer Name
+      hint: Stage name or legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: legal_name
+      label: Legal Name
+      hint: For contract and payment purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for booking inquiries
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: management_contact
+      label: Management Contact
+      hint: Manager or agent name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_performance_details
+      label: -- Performance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comedy_style
+      label: Comedy Style
+      hint: What type of comedy do you perform
+      type: select_multiple
+      options:
+      - Stand-Up
+      - Improv
+      - Sketch Comedy
+      - Musical Comedy
+      - Observational
+      - Dark Comedy
+      - Clean Comedy
+      - Political Satire
+      required: true
+    - id: 8
+      name: performance_duration
+      label: Performance Duration
+      hint: How long is your set
+      type: select_one
+      options:
+      - 5-10 minutes
+      - 15-20 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes or more
+      required: true
+    - id: 9
+      name: preferred_dates
+      label: Preferred Performance Dates
+      hint: Select your available dates
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: venue_preference
+      label: Venue Preference
+      hint: What type of venue do you prefer
+      type: select_one
+      options:
+      - Comedy Club
+      - Theater
+      - Bar or Lounge
+      - Corporate Event
+      - Private Party
+      - Festival
+      - Any Venue
+      required: true
+    - id: 11
+      name: audience_size
+      label: Preferred Audience Size
+      hint: What size crowd do you prefer
+      type: select_one
+      options:
+      - Intimate (under 50)
+      - Small (50-100)
+      - Medium (100-300)
+      - Large (300-500)
+      - Arena (500+)
+      - No Preference
+      required: true
+    - id: 12
+      name: section_header_technical_requirements
+      label: -- Technical Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: microphone_preference
+      label: Microphone Preference
+      hint: Do you have specific mic requirements
+      type: select_one
+      options:
+      - Handheld Wireless
+      - Handheld Wired
+      - Lapel Mic
+      - Headset Mic
+      - No Preference
+      required: true
+    - id: 14
+      name: lighting_requirements
+      label: Lighting Requirements
+      hint: Any special lighting needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sound_requirements
+      label: Sound Requirements
+      hint: Any special sound needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: stage_setup
+      label: Stage Setup Requirements
+      hint: Describe your ideal stage setup
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_compensation
+      label: -- Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: fee_expectation
+      label: Performance Fee Expectation
+      hint: Your expected compensation
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: fee_negotiable
+      label: Is Fee Negotiable
+      hint: Are you open to negotiation
+      type: select_one
+      options:
+      - Yes Flexible
+      - Somewhat
+      - No Fixed Rate
+      required: true
+    - id: 20
+      name: travel_expenses
+      label: Travel Expenses Required
+      hint: Do you require travel expense coverage
+      type: select_one
+      options:
+      - Yes Required
+      - Negotiable
+      - No I Cover My Own
+      required: true
+    - id: 21
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Do you need hotel accommodation
+      type: select_one
+      options:
+      - Yes Required
+      - Negotiable
+      - No I Cover My Own
+      required: true
+    - id: 22
+      name: section_header_materials
+      label: -- Promotional Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: video_sample
+      label: Video Sample URL
+      hint: Link to your performance video
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: social_media
+      label: Social Media Handles
+      hint: Your social media profiles
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: press_kit
+      label: Press Kit Available
+      hint: Do you have a press kit
+      type: select_one
+      options:
+      - Yes Available
+      - Working On It
+      - false
+      required: false
+    - id: 26
+      name: additional_notes
+      label: Additional Notes
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

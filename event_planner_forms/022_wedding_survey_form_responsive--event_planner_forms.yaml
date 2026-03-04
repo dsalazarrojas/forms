@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_survey_form_responsive
+    pages:
+    - id: 1
+      name: will_they_attend
+      label: will they be able to attend your wedding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: will_be_confirmed
+      label: will they be confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
+      name: name_of_guest
+      label: name of guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: will_participate_in_hh
+      label: will they participate in happy hour
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: will_arrive_in_advance
+      label: will they arrive in advance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: arrival_time
+      label: arrival time
+      hint: 24 hour format
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: will_have_dietary_restrictions
+      label: will they have dietary restrictions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: dietary restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: will_participate_in_food
+      label: will they participitate in food
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: will_arrive_at_ceremony
+      label: will they arrive at ceremony
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: will_participate_in_reception
+      label: will they participitate in reception
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: will_arrive_at_reception
+      label: will they arrive at reception
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: contact_method
+      label: contact method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false

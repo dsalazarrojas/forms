@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Event Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Card''}'
+      - '{''label'': ''Online Payment''}'
+      required: true
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Not Paid''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 12
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirmed''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Cancelled''}'
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      required: true
+    - id: 15
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Drink''}'
+      - '{''label'': ''Event''}'
+      required: true
+    - id: 16
+      name: event_tags
+      label: Event Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_tags_2
+      label: Event Tags 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: ticket_total
+      label: Ticket Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Sold Out''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 22
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Square''}'
+      required: true
+    - id: 23
+      name: ticket_venue
+      label: Ticket Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: event_city
+      label: Event City
+      hint: null
+      type: text
+      options: []
+      required: true

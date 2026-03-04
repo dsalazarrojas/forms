@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: performer_check_in_desk_booking_form
+    pages:
+    - id: 1
+      name: performer_check_in_form
+      label: performer_check_in_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_slot
+      label: arrival_slot
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: arrival_time_window
+      label: arrival_time_window
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: special_requirements
+      label: special_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performer_id
+      label: performer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: arrival_slot_1
+      label: first_arrival_slot
+      hint: null
+      type: select_multiple
+      options:
+      - '12:00'
+      - '13:00'
+      - '14:00'
+      required: true
+    - id: 9
+      name: arrival_slot_2
+      label: second_arrival_slot
+      hint: null
+      type: select_multiple
+      options:
+      - '12:00'
+      - '13:00'
+      - '14:00'
+      required: true
+    - id: 10
+      name: arrival_slot_3
+      label: third_arrival_slot
+      hint: null
+      type: select_multiple
+      options:
+      - '12:00'
+      - '13:00'
+      - '14:00'
+      required: false
+    - id: 11
+      name: performer_arrival_date
+      label: performer_arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false

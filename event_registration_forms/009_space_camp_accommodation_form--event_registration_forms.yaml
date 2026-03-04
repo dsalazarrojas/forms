@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Space Camp Accommodation Form
+    pages:
+    - id: 1
+      name: parent_first_name
+      label: Parent First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_last_name
+      label: Parent Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: child_first_name
+      label: Child First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: child_last_name
+      label: Child Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: camp_dates
+      label: Camp Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '2024-01-01'
+      - '2024-01-15'
+      - '2024-02-01'
+      - '2024-02-29'
+      required: false
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Host Family
+      - Self-Managed
+      - On Site
+      required: false
+    - id: 8
+      name: accommodation_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: accommodation_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

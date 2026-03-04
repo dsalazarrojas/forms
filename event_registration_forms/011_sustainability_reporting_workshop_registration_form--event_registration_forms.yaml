@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainability_reporting_workshop_registration_form
+    pages:
+    - id: 1
+      name: participant_data
+      label: Participant Details
+      hint: null
+      type: select_one
+      options:
+      - '{''participant_name'': ''John''}'
+      - '{''participant_name'': ''Jane''}'
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: workshop_participants
+      label: Workshop Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_diet
+      label: Participant Diet
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: participant_diet_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: participant_t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: participant_dress_code
+      label: Dress Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: participant_attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: participant_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: participant_agreement_comments
+      label: Agreement Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: participant_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

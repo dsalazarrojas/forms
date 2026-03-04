@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Optimization Forum Registration
+    pages:
+    - id: 1
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - Tax Strategy Event
+      - Tax Planning Meeting
+      - Financial Planning Seminar
+      required: false
+    - id: 2
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organizer_name
+      label: organizer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_date
+      label: registration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interests
+      label: interests
+      hint: null
+      type: select_multiple
+      options:
+      - Federal Tax Planning
+      - International Tax Planning
+      - State Tax Planning
+      required: false
+    - id: 13
+      name: interests_other
+      label: other interests
+      hint: null
+      type: text
+      options: []
+      required: false

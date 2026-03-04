@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: delivery_check_in_form
+    pages:
+    - id: 1
+      name: delivery_check_in_form_page
+      label: Check In Information
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: delivery_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

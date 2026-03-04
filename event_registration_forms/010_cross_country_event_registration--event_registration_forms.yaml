@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Country Event Registration
+    pages:
+    - id: 1
+      name: runner_details
+      label: Runner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waivers
+      label: Waivers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Waiver 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Waiver 2''}'
+      required: false
+    - id: 3
+      name: race_preferences
+      label: Race Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: finish_time
+      label: Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: distance_run
+      label: Distance Run
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: runner_name
+      label: Runner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: runner_phone
+      label: Runner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: runner_email
+      label: Runner Email
+      hint: null
+      type: email
+      options: []
+      required: false

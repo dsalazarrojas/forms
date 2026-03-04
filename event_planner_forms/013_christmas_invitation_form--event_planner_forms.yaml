@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Invitation Form
+    pages:
+    - id: 1
+      name: host_name
+      label: Host Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: host_email
+      label: Email Address
+      hint: For RSVP responses
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: host_phone
+      label: Phone Number
+      hint: For guest inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization or Company
+      hint: If hosting on behalf of a group
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_host_info
+      label: -- Host Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_title
+      label: Event Title
+      hint: Name of your Christmas event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: What kind of celebration
+      type: select_one
+      options:
+      - Office Party
+      - Family Gathering
+      - Friends Get-Together
+      - Community Event
+      - Charity Fundraiser
+      - Religious Celebration
+      - Neighborhood Party
+      - Other
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When is the celebration
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time
+      label: Start Time
+      hint: When does it begin
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_end_time
+      label: End Time
+      hint: When does it end
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: venue_name
+      label: Venue Name
+      hint: Where is the event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: venue_address
+      label: Venue Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: virtual_option
+      label: Virtual Attendance Option
+      hint: Will there be online access
+      type: select_one
+      options:
+      - No in-person only
+      - Yes hybrid event
+      - Yes virtual only
+      - Maybe undecided
+      required: true
+    - id: 17
+      name: section_venue
+      label: -- Venue Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: dress_code
+      label: Dress Code
+      hint: What should guests wear
+      type: select_one
+      options:
+      - Casual
+      - Smart Casual
+      - Business Casual
+      - Festive Christmas
+      - Formal
+      - Black Tie
+      - Costume Theme
+      - No dress code
+      required: true
+    - id: 19
+      name: meal_provided
+      label: Meal Provided
+      hint: Will food be served
+      type: select_one
+      options:
+      - Yes full dinner
+      - Yes appetizers and snacks
+      - Yes desserts only
+      - Yes drinks only
+      - No please bring dish
+      - No meal provided
+      required: true
+    - id: 20
+      name: rsvp_deadline
+      label: RSVP Deadline
+      hint: When should guests respond by
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: section_rsvp_info
+      label: -- RSVP Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: plus_one_allowed
+      label: Plus One Allowed
+      hint: Can guests bring someone
+      type: select_one
+      options:
+      - Yes bring a guest
+      - No invited guests only
+      - Only with prior approval
+      - Depends on RSVP capacity
+      required: true
+    - id: 23
+      name: children_welcome
+      label: Children Welcome
+      hint: Is this a family event
+      type: select_one
+      options:
+      - Yes all ages welcome
+      - Yes but with supervision
+      - Adults only 18 plus
+      - Children 12 and older
+      - No children please
+      required: true
+    - id: 24
+      name: gift_expectations
+      label: Gift Expectations
+      hint: Should guests bring gifts
+      type: select_one
+      options:
+      - No gifts please
+      - Optional gifts
+      - Yes please bring gift
+      - Secret Santa exchange
+      - White elephant exchange
+      - Charity donation instead
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any dietary needs or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: custom_message
+      label: Personal Message
+      hint: Additional note to guests
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: parking_info
+      label: Parking Information
+      hint: Instructions for guests
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Panel Discussion Effectiveness Assessment Form
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speaker_presentation
+      label: speaker_presentation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: speaker_clarification
+      label: speaker_clarification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: audience_qestion
+      label: audience_questions
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: content
+      label: content
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: overall_effectiveness
+      label: overall_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_evaluation_form_comments
+      label: event_evaluation_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

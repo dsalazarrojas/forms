@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: CBT Innovation Workshop Registration
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Your workplace or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_license
+      label: Professional License Number
+      hint: If applicable for CEU credits
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_session
+      label: Select Workshop Session
+      hint: Choose your preferred session
+      type: select_one
+      options:
+      - Session A - March 15-16 2026
+      - Session B - April 12-13 2026
+      - Session C - May 10-11 2026
+      - Session D - June 7-8 2026
+      required: true
+    - id: 8
+      name: cbt_experience_level
+      label: CBT Experience Level
+      hint: Select your familiarity with Cognitive Behavioral Therapy
+      type: select_one
+      options:
+      - Beginner - No prior training
+      - Intermediate - Some training or coursework
+      - Advanced - Certified practitioner
+      - Expert - Instructor level
+      required: true
+    - id: 9
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For catering purposes
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 10
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Let us know how we can accommodate you
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ceu_credits_required
+      label: Require CEU Credits
+      hint: Continuing Education Units available
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for registration
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice to Organization
+      - Purchase Order
+      - PayPal
+      required: true
+    - id: 13
+      name: registration_fee
+      label: Registration Fee
+      hint: Standard rate is $299 per attendee
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_and_conditions
+      label: I agree to the terms and conditions
+      hint: Including cancellation policy
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

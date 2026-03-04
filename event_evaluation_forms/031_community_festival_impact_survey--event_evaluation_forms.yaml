@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Festival Impact Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name (Optional)
+      hint: Your name if you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendance_type
+      label: Attendance Type
+      hint: How did you attend?
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      - Both
+      required: true
+    - id: 5
+      name: visit_frequency
+      label: How Many Times Did You Visit
+      hint: Number of festival visits
+      type: select_one
+      options:
+      - Once
+      - 2-3 Times
+      - 4-5 Times
+      - More than 5 Times
+      required: true
+    - id: 6
+      name: travel_distance
+      label: How Far Did You Travel
+      hint: Distance to attend festival
+      type: select_one
+      options:
+      - Local Resident
+      - Less than 10 Miles
+      - 10-25 Miles
+      - 25-50 Miles
+      - More than 50 Miles
+      required: true
+    - id: 7
+      name: group_size
+      label: Size of Your Group
+      hint: Number in your party
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: spending_estimate
+      label: Estimated Spending at Festival
+      hint: How much did you spend?
+      type: select_one
+      options:
+      - Less than $25
+      - $25-$50
+      - $51-$100
+      - $101-$200
+      - More than $200
+      required: true
+    - id: 9
+      name: spending_categories
+      label: Spending Categories
+      hint: What did you spend money on?
+      type: select_multiple
+      options:
+      - Food and Beverages
+      - Merchandise
+      - Tickets or Entry
+      - Parking
+      - Accommodations
+      - Other
+      required: true
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: economic_impact
+      label: Perceived Economic Impact
+      hint: Did the festival benefit local businesses?
+      type: select_one
+      options:
+      - Significant Benefit
+      - Some Benefit
+      - Neutral
+      - Little Benefit
+      - No Benefit
+      required: true
+    - id: 12
+      name: community_pride
+      label: Impact on Community Pride
+      hint: Did it boost community spirit?
+      type: select_one
+      options:
+      - Significant Boost
+      - Some Boost
+      - Neutral
+      - Little Impact
+      - No Impact
+      required: true
+    - id: 13
+      name: favorite_aspects
+      label: Favorite Aspects
+      hint: What did you enjoy most?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: least_favorite_aspects
+      label: Least Favorite Aspects
+      hint: What could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: would_return
+      label: Would You Attend Again
+      hint: Will you come next year?
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 16
+      name: recommend_to_others
+      label: Would You Recommend to Others
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 17
+      name: future_suggestions
+      label: Suggestions for Future Festivals
+      hint: Your ideas for improvement
+      type: text
+      options: []
+      required: false

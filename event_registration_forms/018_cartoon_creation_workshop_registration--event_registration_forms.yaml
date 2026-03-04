@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cartoon Creation Workshop Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: Cartoon Creation Workshop Registration
+      hint: Register for our creative cartoon workshop
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of signup
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_info
+      label: Participant Information
+      hint: Student details
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant DOB
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: Age category
+      type: select_one
+      options:
+      - Child - 6 to 9 years
+      - Pre-teen - 10 to 12 years
+      - Teen - 13 to 17 years
+      - Adult - 18 plus years
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: Optional
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_guardian_info
+      label: Parent or Guardian Information
+      hint: For participants under 18
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: Alternative contact
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_relationship
+      label: Relationship to Participant
+      hint: How related
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose your session
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: workshop_session
+      label: Preferred Workshop Session
+      hint: Select session
+      type: select_one
+      options:
+      - Saturday morning - 9am to 12pm
+      - Saturday afternoon - 1pm to 4pm
+      - Sunday morning - 9am to 12pm
+      - Sunday afternoon - 1pm to 4pm
+      - Weekday evening - 6pm to 9pm
+      - Full day intensive - 9am to 4pm
+      required: true
+    - id: 22
+      name: workshop_date
+      label: Preferred Date
+      hint: Session date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: skill_level
+      label: Current Art Skill Level
+      hint: Experience assessment
+      type: select_one
+      options:
+      - Beginner - no experience
+      - Beginner - some drawing
+      - Intermediate - regular drawing
+      - Advanced - experienced artist
+      required: true
+    - id: 24
+      name: cartoon_experience
+      label: Previous Cartoon or Animation Experience
+      hint: Relevant background
+      type: select_one
+      options:
+      - None
+      - Self-taught
+      - Previous classes
+      - School programs
+      - Professional experience
+      required: true
+    - id: 25
+      name: workshop_focus
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Character design
+      - Storyboarding
+      - Digital cartooning
+      - Traditional drawing
+      - Animation basics
+      - Comic creation
+      - Manga style
+      - Caricature
+      - All areas
+      required: true
+    - id: 26
+      name: materials_provided
+      label: Materials Package Selection
+      hint: Art supplies option
+      type: select_one
+      options:
+      - Basic kit included
+      - Premium kit with extras
+      - I have my own materials
+      - Need materials assistance
+      required: true
+    - id: 27
+      name: equipment_needed
+      label: Do You Have a Drawing Tablet
+      hint: For digital workshops
+      type: select_one
+      options:
+      - Yes - I have one
+      - No - need to borrow
+      - Not using digital
+      required: false
+    - id: 28
+      name: dietary_requirements
+      label: Dietary Requirements or Allergies
+      hint: If refreshments provided
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: how_heard
+      label: How Did You Hear About This Workshop
+      hint: Referral source
+      type: select_one
+      options:
+      - Social media
+      - School announcement
+      - Friend or family
+      - Website
+      - Flyer or poster
+      - Previous participant
+      - Other
+      required: true
+    - id: 31
+      name: payment_info
+      label: Payment Information
+      hint: Registration fee
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Check
+      - Cash at venue
+      - Scholarship covered
+      required: true
+    - id: 33
+      name: scholarship_needed
+      label: Are You Applying for Financial Assistance
+      hint: Scholarship status
+      type: select_one
+      options:
+      - Yes - application submitted
+      - Yes - need information
+      - No - paying full price
+      required: false
+    - id: 34
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: For promotional use
+      type: select_one
+      options:
+      - Yes - consent given
+      - Yes - with name attribution
+      - No - no photos
+      required: true
+    - id: 35
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agreement to policies
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 36
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

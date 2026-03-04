@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Speaker Application Form
+    pages:
+    - id: 1
+      name: applicant_information_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Applicant full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Primary contact for application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional mobile for scheduling
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or employer
+      hint: Affiliated group or company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: Current role or position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: short_bio
+      label: Short bio
+      hint: 2 to 3 sentence professional summary
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposed_session_title
+      label: Proposed session title
+      hint: Title you propose for your talk
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_abstract
+      label: Session abstract
+      hint: 150 to 300 word description of the session
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target audience
+      hint: Select the primary audience level
+      type: select_one
+      options:
+      - Beginners
+      - Intermediate
+      - Advanced
+      - All levels
+      required: true
+    - id: 11
+      name: preferred_session_length
+      label: Preferred session length
+      hint: Choose the session duration you prefer
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 12
+      name: equipment_requirements
+      label: Equipment requirements
+      hint: Select any items needed for your presentation
+      type: select_multiple
+      options:
+      - Projector
+      - Laptop connection
+      - Microphone
+      - Whiteboard
+      - Internet access
+      required: false
+    - id: 13
+      name: prior_talk_links
+      label: Links to prior talks or demos
+      hint: Provide URLs to recordings or slide decks
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: references
+      label: Professional references
+      hint: Name and contact for 1 to 2 references
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: speaker_experience_years
+      label: Years of speaking experience
+      hint: Whole number only
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: consent_recording
+      label: Consent to record session
+      hint: Indicates if recording and distribution is permitted
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

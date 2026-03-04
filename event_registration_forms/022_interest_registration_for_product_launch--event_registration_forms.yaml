@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interest Registration For Product Launch
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info_form
+      label: Contact Info Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_and_time_form
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true

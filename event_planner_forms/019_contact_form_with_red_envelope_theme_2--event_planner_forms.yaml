@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Red Envelope Theme 2
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact for Event Services --
+      hint: Quick form for event service inquiries
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name of the requester
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Best email to receive information
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional phone for scheduling
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event date
+      hint: Target date for services
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event type
+      hint: Type of event you are planning
+      type: select_one
+      options:
+      - Wedding
+      - Corporate
+      - Social
+      - Other
+      required: true
+    - id: 7
+      name: services_needed
+      label: Services needed
+      hint: Select services you require
+      type: select_multiple
+      options:
+      - Catering
+      - Venue
+      - Entertainment
+      - Photography
+      required: false
+    - id: 8
+      name: guest_count
+      label: Estimated guest count
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any specific requirements or requests
+      type: text
+      options: []
+      required: false

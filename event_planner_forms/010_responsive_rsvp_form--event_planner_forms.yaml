@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive rsvp form
+    pages:
+    - id: 1
+      name: rsvp_form
+      label: Event details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_message
+      label: RSVP Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_multiple
+      options:
+      - Attending
+      - Declined
+      - Maybe
+      required: false
+    - id: 7
+      name: rsvp_guests
+      label: RSVP Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_email
+      label: Event Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

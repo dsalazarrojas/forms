@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Launch Event Registration Form
+    pages:
+    - id: 1
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Conference'', ''label'': ''Conference''}'
+      - '{''id'': 2, ''name'': ''Trade Show'', ''label'': ''Trade Show''}'
+      - '{''id'': 3, ''name'': ''Meetup'', ''label'': ''Meetup''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_names
+      label: Attendee Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_emails
+      label: Attendee Emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attendee_phones
+      label: Attendee Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

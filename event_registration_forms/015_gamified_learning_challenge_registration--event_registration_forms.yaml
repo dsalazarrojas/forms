@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gamified Learning Challenge Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenge_name
+      label: Challenge Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: challenge_type
+      label: Challenge Type
+      hint: null
+      type: select_one
+      options:
+      - individual
+      - team
+      required: true
+    - id: 5
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: team_size_hint
+      label: Max Team Size
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: participant_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

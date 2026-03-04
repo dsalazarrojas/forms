@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Training Feedback Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_rating
+      label: Session Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

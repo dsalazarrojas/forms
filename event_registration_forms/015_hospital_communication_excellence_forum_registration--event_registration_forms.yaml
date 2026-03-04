@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Communication Excellence Forum Registration
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Webinar
+      - Conference
+      - Workshop
+      required: false
+    - id: 3
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair Accessible
+      - Sign Language Interpreter
+      - Large Print Materials
+      required: false
+    - id: 11
+      name: dietary_info
+      label: Dietary Information
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other (Specify)
+      required: false
+    - id: 12
+      name: dietary_note
+      label: Additional Dietary Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Other
+      required: false
+    - id: 14
+      name: other_payment_method
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false

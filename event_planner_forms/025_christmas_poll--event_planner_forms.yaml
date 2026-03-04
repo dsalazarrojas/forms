@@ -1,0 +1,294 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Poll
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For poll results
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Optional
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+        required: false
+      - id: 5
+        name: section_demographics
+        label: -- Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: christmas_tree_type
+        label: Christmas Tree Type
+        hint: What type of tree do you prefer
+        type: select_one
+        options:
+          - Real natural tree
+          - Artificial reusable
+          - No tree
+          - Small tabletop tree
+          - Alternative creative tree
+        required: true
+      - id: 7
+        name: gift_opening_time
+        label: Gift Opening Time
+        hint: When do you open gifts
+        type: select_one
+        options:
+          - Christmas Eve
+          - Christmas morning
+          - Christmas afternoon
+          - Throughout the day
+          - Do not exchange gifts
+        required: true
+      - id: 8
+        name: favorite_christmas_movie
+        label: Favorite Christmas Movie
+        hint: What is your favorite
+        type: select_one
+        options:
+          - Home Alone
+          - Elf
+          - A Christmas Story
+          - Its a Wonderful Life
+          - The Grinch
+          - Miracle on 34th Street
+          - Die Hard
+          - Love Actually
+          - Other
+        required: true
+      - id: 9
+        name: section_traditions
+        label: -- Traditions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: favorite_christmas_song
+        label: Favorite Christmas Song
+        hint: What song do you love
+        type: select_one
+        options:
+          - All I Want for Christmas Is You
+          - Silent Night
+          - Jingle Bell Rock
+          - Last Christmas
+          - White Christmas
+          - The Christmas Song
+          - Feliz Navidad
+          - Rockin Around the Christmas Tree
+        required: true
+      - id: 11
+        name: christmas_carol_preference
+        label: Carol Preference
+        hint: Traditional or modern
+        type: select_one
+        options:
+          - Traditional classics
+          - Modern pop versions
+          - Religious hymns
+          - Instrumental versions
+          - No preference
+        required: true
+      - id: 12
+        name: favorite_christmas_food
+        label: Favorite Christmas Food
+        hint: What do you look forward to
+        type: select_one
+        options:
+          - Roasted Turkey
+          - Glazed Ham
+          - Prime Rib
+          - Cookies and Treats
+          - Special Desserts
+          - Traditional Family Dish
+          - No specific favorite
+        required: true
+      - id: 13
+        name: section_food_and_drink
+        label: -- Food and Drink --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: favorite_christmas_drink
+        label: Favorite Christmas Drink
+        hint: What beverage do you enjoy
+        type: select_one
+        options:
+          - Hot Chocolate
+          - Apple Cider
+          - Eggnog
+          - Mulled Wine
+          - Coffee with Peppermint
+          - Tea
+          - Champagne
+        required: true
+      - id: 15
+        name: cookie_baking
+        label: Do You Bake Cookies
+        hint: Holiday baking habits
+        type: select_one
+        options:
+          - Yes every year
+          - Yes sometimes
+          - No but I eat them
+          - No I do not bake
+        required: true
+      - id: 16
+        name: christmas_spending
+        label: Christmas Spending
+        hint: How much do you spend
+        type: select_one
+        options:
+          - Under 200
+          - 200-500
+          - 500-1000
+          - 1000-2000
+          - Over 2000
+          - Do not celebrate
+        required: true
+      - id: 17
+        name: shopping_preference
+        label: Shopping Preference
+        hint: How do you shop
+        type: select_one
+        options:
+          - Online only
+          - In-store only
+          - Mostly online
+          - Mostly in-store
+          - Equal mix
+        required: true
+      - id: 18
+        name: section_shopping
+        label: -- Shopping --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: black_friday_participation
+        label: Black Friday Participation
+        hint: Do you shop Black Friday
+        type: select_one
+        options:
+          - Yes every year
+          - Yes sometimes
+          - No never
+          - Prefer Cyber Monday
+        required: true
+      - id: 20
+        name: gift_card_preference
+        label: Gift Card Preference
+        hint: Do you like receiving gift cards
+        type: select_one
+        options:
+          - Love them
+          - Like them
+          - Neutral
+          - Prefer actual gifts
+          - Dislike them
+        required: true
+      - id: 21
+        name: christmas_lights
+        label: Christmas Lights
+        hint: Do you put up lights
+        type: select_one
+        options:
+          - Yes elaborate display
+          - Yes moderate display
+          - Yes minimal lights
+          - No lights
+          - HOA does it
+        required: true
+      - id: 22
+        name: section_decorations
+        label: -- Decorations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: decoration_timing
+        label: Decoration Timing
+        hint: When do you decorate
+        type: select_one
+        options:
+          - Right after Halloween
+          - Early November
+          - Late November
+          - December 1st
+          - Mid December
+          - Do not decorate
+        required: true
+      - id: 24
+        name: new_year_plans
+        label: New Year Plans
+        hint: What are your plans
+        type: select_one
+        options:
+          - Big party
+          - Small gathering
+          - Quiet night home
+          - Going out
+          - Working
+          - Not sure yet
+        required: true
+      - id: 25
+        name: holiday_spirit_level
+        label: Holiday Spirit Level
+        hint: How festive are you
+        type: select_one
+        options:
+          - Maximum festive
+          - Very festive
+          - Moderately festive
+          - Slightly festive
+          - Not festive at all
+        required: true

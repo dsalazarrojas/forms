@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spicy Food Waiver Form
+    pages:
+    - id: 1
+      name: spicy_food_waiver_form
+      label: Spicy Food Waiver Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: waiver_text_1
+      label: I confirm that I am over 18 years old.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: waiver_text_2
+      label: I have no medical conditions that would prevent me from consuming spicy
+        foods.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: waiver_text_3
+      label: I understand that eating spicy foods can be hazardous to my health.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: waiver_text_4
+      label: By signing below, I am releasing and disclaiming any claims I may have
+        or may hereafter acquire against you for any discomfort, illness, or injury
+        that I may experience as a result of consuming spicy foods.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: waiver_text_5
+      label: I am aware that I am releasing and disclaiming any claims I may have
+        or may hereafter acquire.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: waiver_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: waiver_sign_name
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: waiver_sign_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: waiver_sign_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: waiver_sign_sign
+      label: Sign
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

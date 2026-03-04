@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ceramic Workshop Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of workshop registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of workshop attendee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: Age category
+      type: select_one
+      options:
+      - Under 18 (minor)
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose your preferred workshop
+      type: select_one
+      options:
+      - Hand building basics
+      - Wheel throwing fundamentals
+      - Advanced wheel techniques
+      - Glazing and finishing
+      - Sculptural ceramics
+      - Raku firing workshop
+      - Kids beginner class
+      required: true
+    - id: 10
+      name: session_date
+      label: Preferred Session Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: session_time
+      label: Session Time
+      hint: Preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: experience_level
+      label: Ceramics Experience Level
+      hint: How would you describe your experience
+      type: select_one
+      options:
+      - Complete beginner
+      - Some experience
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 13
+      name: previous_workshops
+      label: Previous Workshops with Us
+      hint: Have you attended our workshops before
+      type: select_one
+      options:
+      - No - First time
+      - Yes - One workshop
+      - Yes - Multiple workshops
+      required: true
+    - id: 14
+      name: apron_size
+      label: Apron Size
+      hint: For workshop apron rental
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra large
+      - Not needed
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Do you require any accommodations
+      type: select_one
+      options:
+      - No accommodations needed
+      - Wheelchair accessible seating
+      - Hearing assistance
+      - Visual assistance
+      - Other - Specify in comments
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the workshop
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Gift certificate
+      - Pay at studio
+      required: true
+    - id: 17
+      name: workshop_fee
+      label: Workshop Fee Acknowledgment
+      hint: I understand the workshop fee is due at registration
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I do not acknowledge
+      required: true
+    - id: 18
+      name: cancellation_policy
+      label: Cancellation Policy Agreement
+      hint: I have read and agree to the cancellation policy
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 19
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand and accept the liability waiver
+      type: select_one
+      options:
+      - Yes - I accept
+      - No - I do not accept
+      required: true
+    - id: 20
+      name: photo_consent
+      label: Photo Consent
+      hint: I consent to photos being taken during the workshop
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - No photos please
+      required: true
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of workshop awareness
+      type: select_one
+      options:
+      - Social media
+      - Website
+      - Friend referral
+      - Local advertisement
+      - Previous student
+      - Other
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Dietary Needs
+      hint: Any special requirements we should know
+      type: text
+      options: []
+      required: false

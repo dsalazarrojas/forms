@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Stage Barrier Booking Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: barrier_details
+      label: Barrier Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: barrier_type
+      label: Barrier Type
+      hint: null
+      type: select_one
+      options:
+      - Stage
+      - Platform
+      - Fence
+      required: true
+    - id: 8
+      name: barrier_size
+      label: Barrier Size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: email_hint
+      label: Email Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_timing
+      label: Delivery Timing
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_person
+      label: Delivery Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      - On Hold
+      required: true
+    - id: 18
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Festival
+      - Conference
+      - Trade Show
+      required: true
+    - id: 22
+      name: event_size
+      label: Event Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Huge
+      required: true
+    - id: 23
+      name: event_setup
+      label: Event Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_setup_note
+      label: Event Setup Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Tournament Security Pass Order Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: staff
+      label: Staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: vendors
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: media
+      label: Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: guests
+      label: Guests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: date_of_pass_application
+      label: Date of Pass Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: staff_name
+      label: Name of Staff
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: staff_role
+      label: Role of Staff
+      hint: null
+      type: select_one
+      options:
+      - Security Guard
+      - Security Manager
+      - Event Manager
+      required: true
+    - id: 9
+      name: vendor_name
+      label: Name of Vendor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vendor_type
+      label: Type of Vendor
+      hint: null
+      type: select_one
+      options:
+      - Food and Beverage
+      - Merchandise
+      - Sponsor
+      required: true
+    - id: 11
+      name: media_name
+      label: Name of Media
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: media_type
+      label: Type of Media
+      hint: null
+      type: select_one
+      options:
+      - Print
+      - Broadcast
+      - Online
+      required: true
+    - id: 13
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: security_pass_number
+      label: Security Pass Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_completion_status
+      label: Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending Review
+      required: true
+    - id: 19
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_submitted_ip_address
+      label: Form Submitted IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_ip_geolocation
+      label: Form IP Geolocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_browser_type
+      label: Form Browser Type
+      hint: null
+      type: text
+      options: []
+      required: false

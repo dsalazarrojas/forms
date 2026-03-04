@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Judging Panel Information Form
+    pages:
+    - id: 1
+      name: event_planner_form_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: panel_chair_personnel
+      label: Panel Chairperson
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Panel Chairperson 1'', ''value'': ''panel_chair_personnel_1''}'
+      - '{''label'': ''Panel Chairperson 2'', ''value'': ''panel_chair_personnel_2''}'
+      - '{''label'': ''Panel Chairperson 3'', ''value'': ''panel_chair_personnel_3''}'
+      required: false
+    - id: 7
+      name: panel_members
+      label: Panel Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Panel Member 1'', ''value'': ''panel_members_1''}'
+      - '{''label'': ''Panel Member 2'', ''value'': ''panel_members_2''}'
+      - '{''label'': ''Panel Member 3'', ''value'': ''panel_members_3''}'
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Competition'', ''value'': ''competition''}'
+      - '{''label'': ''Audition'', ''value'': ''audition''}'
+      - '{''label'': ''Contest'', ''value'': ''contest''}'
+      required: false
+    - id: 9
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Upcoming'', ''value'': ''upcoming''}'
+      - '{''label'': ''Past'', ''value'': ''past''}'
+      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: false
+    - id: 10
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false

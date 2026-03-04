@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freshers’ Fest Play Submission Form
+    pages:
+    - id: 1
+      name: play_title
+      label: Play title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: playwright_name
+      label: playwright name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: play_description
+      label: play description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: play_duration
+      label: play duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: play_genre
+      label: play genre
+      hint: null
+      type: select_multiple
+      options:
+      - Comedy
+      - Drama
+      - Tragedy
+      required: false
+    - id: 6
+      name: play_characters
+      label: play characters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: play_poster_image
+      label: play poster image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: play_video_link
+      label: play video link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_details
+      label: submitter details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: play_dates
+      label: play dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: play_times
+      label: play times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_name
+      label: submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_address
+      label: submitter address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: play_tags
+      label: play tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: play_tag_list
+      label: play tags list
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false
+    - id: 18
+      name: play_tags_text
+      label: tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: play_status
+      label: play status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - accepted
+      - rejected
+      required: false

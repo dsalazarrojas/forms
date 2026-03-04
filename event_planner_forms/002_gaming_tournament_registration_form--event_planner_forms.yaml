@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_tournament_registration_form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_leader_email
+      label: Team Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: team_leader_phone
+      label: Team Leader Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_players
+      label: Team Players
+      hint: Comma-separated list of player names
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_tshirt_size
+      label: Team T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: false
+    - id: 8
+      name: team_tshirt_color
+      label: Team T-Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Other
+      required: false
+    - id: 9
+      name: team_tourney_fee
+      label: Team Tourney Fee (per member)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: team_tourney_funds
+      label: Team Tourney Funds Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: individual_player
+      label: Individual Player
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sorority Registration Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: enrollment_agreement
+      label: Enrollment Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: extraction_campaign_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: campaign_type
+      label: Campaign Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Event Registration Forms
+      - Other
+      required: true
+    - id: 13
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 011_extraction_campaign_registration--event_registration_forms
+      - other
+      required: true
+    - id: 14
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: category_description
+      label: Category Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_category_description
+      label: Form Category Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_category_tags
+      label: Form Category Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_tags
+      label: Form Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_comments_required
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_comments_text
+      label: Form Comments Text
+      hint: null
+      type: text
+      options: []
+      required: false

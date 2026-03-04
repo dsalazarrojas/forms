@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Feedback Test Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Name of person requesting the test
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email for results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Company or venue name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this test request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: venue_name
+      label: Venue Name
+      hint: Name of venue or location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: venue_address
+      label: Venue Address
+      hint: Full address of test location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: venue_type
+      label: Venue Type
+      hint: What type of venue is this?
+      type: select_one
+      options:
+      - Concert Hall
+      - Theater
+      - Conference Room
+      - Recording Studio
+      - Club or Bar
+      - Outdoor Venue
+      - House of Worship
+      - Educational Facility
+      - Other
+      required: true
+    - id: 9
+      name: venue_capacity
+      label: Venue Capacity
+      hint: Approximate audience capacity
+      type: select_one
+      options:
+      - Under 100
+      - 100-250
+      - 251-500
+      - 501-1000
+      - 1001-2500
+      - Over 2500
+      required: true
+    - id: 10
+      name: test_type
+      label: Test Type
+      hint: What type of audio test is needed?
+      type: select_one
+      options:
+      - System Calibration
+      - Feedback Testing
+      - Frequency Response
+      - Sound Pressure Level
+      - Clarity and Intelligibility
+      - Full System Analysis
+      required: true
+    - id: 11
+      name: existing_equipment
+      label: Existing Equipment
+      hint: Describe current audio equipment
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: equipment_age
+      label: Equipment Age
+      hint: How old is the current system?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 13
+      name: current_issues
+      label: Current Issues
+      hint: Describe any audio issues experienced
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: issue_frequency
+      label: Issue Frequency
+      hint: How often do issues occur?
+      type: select_one
+      options:
+      - Constantly
+      - Frequently
+      - Occasionally
+      - Rarely
+      - First time
+      required: true
+    - id: 15
+      name: primary_use
+      label: Primary Use
+      hint: What is the venue primarily used for?
+      type: select_one
+      options:
+      - Live Music
+      - Speech and Presentations
+      - Theater Productions
+      - Multi-purpose
+      - Recording
+      - Broadcasting
+      required: true
+    - id: 16
+      name: preferred_test_date
+      label: Preferred Test Date
+      hint: When would you like the test performed?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preferred_test_time
+      label: Preferred Test Time
+      hint: Preferred time of day
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 5pm)
+      - Evening (5pm - 9pm)
+      - After hours
+      required: true
+    - id: 18
+      name: access_requirements
+      label: Access Requirements
+      hint: Any special access instructions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: report_delivery
+      label: Report Delivery
+      hint: How should results be delivered?
+      type: select_one
+      options:
+      - Email report
+      - Printed report
+      - In-person presentation
+      - Video call review
+      required: true
+    - id: 20
+      name: follow_up_interest
+      label: Follow-Up Interest
+      hint: Are you interested in follow-up services?
+      type: select_one
+      options:
+      - Yes, full consultation
+      - Yes, quote for improvements
+      - Just the test report
+      - Unsure at this time
+      required: true

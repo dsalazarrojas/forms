@@ -1,0 +1,167 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Feedback Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: attendee_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: event_name
+        label: Event Name
+        hint: Which event did you attend
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: event_date
+        label: Event Date
+        hint: When did you attend
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: attendance_type
+        label: How did you attend
+        hint: Participation type
+        type: select_one
+        options:
+          - In person
+          - Virtual
+          - Hybrid
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 7
+        name: venue_rating
+        label: Venue Rating
+        hint: If applicable
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Not applicable
+        required: true
+      - id: 8
+        name: content_quality
+        label: Content Quality
+        hint: Program quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 9
+        name: organization_rating
+        label: Event Organization
+        hint: How well organized
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 10
+        name: value_for_money
+        label: Value for Money
+        hint: Worth the cost
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Not applicable
+        required: true
+      - id: 11
+        name: highlight_event
+        label: What was the highlight
+        hint: Best part
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: improvement_areas
+        label: What could be improved
+        hint: Suggestions
+        type: select_multiple
+        options:
+          - Registration process
+          - Event timing
+          - Venue selection
+          - Content quality
+          - Networking opportunities
+          - Food and beverage
+          - Communication
+          - Other
+        required: false
+      - id: 13
+        name: attend_future
+        label: Would you attend future events
+        hint: Future interest
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 14
+        name: recommend_event
+        label: Would you recommend this event
+        hint: To others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 15
+        name: additional_feedback
+        label: Additional Comments
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Policy Discussion Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of participant
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Work or personal phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Participant's organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_of_event
+      label: Date of Event
+      hint: Date of event
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_event
+      label: Time of Event
+      hint: Time of event
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_type
+      label: Participant Type
+      hint: Type of participant
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: participant_details
+      label: Participant Details
+      hint: Participant details
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_area_of_interest
+      label: Policy Area of Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_agenda
+      label: Participant Agenda
+      hint: Participant agenda
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: participant_availability
+      label: Participant Availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: participant_notes
+      label: Participant Notes
+      hint: Participant notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

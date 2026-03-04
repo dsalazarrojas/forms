@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthy_sexuality_event_registration
+    pages:
+    - id: 1
+      name: workshop_title
+      label: Workshop Title
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: venue
+      label: Venue
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Workshop''}'
+      - '{''id'': 2, ''label'': ''Session''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_preferred_language
+      label: Participant preferred language
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      required: false
+    - id: 11
+      name: participant_additional_details
+      label: Participant additional details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_dietary_restrictions
+      label: Participant dietary restrictions
+      hint: 'null'
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Vegetarian''}'
+      - '{''id'': 2, ''label'': ''Non Vegetarian''}'
+      - '{''id'': 3, ''label'': ''Vegan''}'
+      required: false
+    - id: 13
+      name: organizer_name
+      label: Organizer Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_requirements
+      label: Event Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_requirements
+      label: Participant Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: event_max_participants
+      label: Event maximum participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: participant_max_participants
+      label: Participant maximum participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submission_tracking
+      label: Submission Tracking
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parenting Skills Workshop Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: prophets_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: workshop_date
+      label: workshop_date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: preferred_workshop_time
+      label: preferred_workshop_time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 am
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 1:00 pm
+      - 2:00 pm
+      - 3:00 pm
+      required: true
+    - id: 5
+      name: additional_info
+      label: any_additional_info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: workshop_topics
+      label: topics_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - Parenting Basics
+      - Parenting Teenagers
+      - Parenting Teenagers and Young Adults
+      - Parenting Preteens
+      required: true
+    - id: 8
+      name: participant_preferences
+      label: participant_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, I am able to participate
+      - Unable to participate
+      - Unable to participate
+      - Unable to participate
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_consent
+      label: participant_consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to participate
+      - I do not consent to participate
+      required: true

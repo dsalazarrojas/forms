@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Gift Order Form
+    pages:
+    - id: 1
+      name: holiday_gifts
+      label: Gifts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient
+      label: Recipient
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: recipient_email
+      label: Email
+      hint: Enter recipient's email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: recipient_phone
+      label: Phone
+      hint: Enter recipient's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gift_item
+      label: Gift Item
+      hint: null
+      type: select_one
+      options:
+      - Gift 1
+      - Gift 2
+      - Gift 3
+      required: false
+    - id: 6
+      name: gift_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: buy_now_pay_later
+      label: Buy Now, Pay Later
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: gift_message
+      label: Gift Message
+      hint: Optional message to recipient
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Accept Payments
+      - No Payments
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: payment_customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_date_picker
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

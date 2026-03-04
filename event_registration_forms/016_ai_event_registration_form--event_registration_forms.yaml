@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Event Registration Form
+    pages:
+    - id: 1
+      name: registration_details_header
+      label: '--- Event Registration ---'
+      hint: Secure your spot at our upcoming AI summit.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Ticket and event updates will be sent here.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attendee_type
+      label: Attendee Category
+      hint: null
+      type: select_one
+      options:
+      - label: Standard Attendee
+        value: standard
+      - label: Student / Academic
+        value: student
+      - label: Speaker / VIP
+        value: speaker
+      - label: Press / Media
+        value: press
+      - label: Exhibitor
+        value: exhibitor
+      required: true
+    - id: 8
+      name: experience_header
+      label: '--- Technical Experience and Interests ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ai_experience_level
+      label: Experience with AI Technologies
+      hint: How would you rate your expertise?
+      type: select_one
+      options:
+      - label: Expert (Researcher/Developer)
+        value: expert
+      - label: Intermediate (Power User/Business Leader)
+        value: intermediate
+      - label: Novice (Curious/Beginner)
+        value: novice
+      required: true
+    - id: 10
+      name: breakout_session_interests
+      label: Which breakout tracks are you interested in?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Generative AI & LLMs
+        value: gen_ai
+      - label: AI Strategy & Governance
+        value: strategy
+      - label: Machine Learning Operations (MLOps)
+        value: mlops
+      - label: Ethical AI & Regulation
+        value: ethics
+      - label: AI in Business & Finance
+        value: business
+      required: true
+    - id: 11
+      name: logistics_header
+      label: '--- Logistics and Networking ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - label: No restrictions
+        value: none
+      - label: Vegetarian
+        value: vegetarian
+      - label: Vegan
+        value: vegan
+      - label: Gluten-Free
+        value: gluten_free
+      - label: Halal
+        value: halal
+      - label: Kosher
+        value: kosher
+      - label: Nut Allergy
+        value: nut_allergy
+      required: true
+    - id: 13
+      name: networking_app_consent
+      label: Opt-in to Attendee Networking App?
+      hint: Share your name and company with other attendees.
+      type: select_one
+      options:
+      - label: Yes, I want to network
+        value: true
+      - label: No, keep my info private
+        value: false
+      required: true
+    - id: 14
+      name: t_shirt_size
+      label: T-Shirt Size (Complimentary)
+      hint: null
+      type: select_one
+      options:
+      - label: Small
+        value: s
+      - label: Medium
+        value: m
+      - label: Large
+        value: l
+      - label: XL
+        value: xl
+      - label: XXL
+        value: xxl
+      required: false
+    - id: 15
+      name: referral_source
+      label: How did you hear about this event?
+      hint: null
+      type: select_one
+      options:
+      - label: Email Newsletter
+        value: newsletter
+      - label: LinkedIn
+        value: linkedin
+      - label: Colleague Referral
+        value: referral
+      - label: Professional Association
+        value: association
+      required: false
+    - id: 16
+      name: emergency_contact_info
+      label: Emergency Contact (Name and Phone)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: terms_acceptance
+      label: I agree to the Event Terms and Conditions and Privacy Policy.
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I agree
+        value: true
+      - Other
+      required: true
+    - id: 18
+      name: payment_method_note
+      label: Payment Notice
+      hint: After submission, you will be redirected to the secure payment portal.
+      type: note
+      options: []
+      required: false

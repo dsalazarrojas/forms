@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Conference Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Speaker''}'
+      - '{''name'': ''Sponsor''}'
+      - '{''name'': ''General Attendee''}'
+      required: false
+    - id: 6
+      name: session_speakers
+      label: Session Speakers
+      hint: Select all speakers that will be presenting sessions for this conference
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: session_topics
+      label: Session Topics
+      hint: Select all session topics for this event
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: session_dates
+      label: Session Dates
+      hint: Select all session dates for this event
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: session_times
+      label: Session Times
+      hint: Select all session times for this event
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: session_rooms
+      label: Session Rooms
+      hint: Select all session rooms for this event
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: conference_location
+      label: Conference Location
+      hint: null
+      type: text
+      options: []
+      required: false

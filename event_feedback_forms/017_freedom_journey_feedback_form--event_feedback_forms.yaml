@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freedom Journey Feedback Form
+    pages:
+    - id: 1
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: participant_sentiment
+      label: Participant Sentiment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: facilitator_support
+      label: Facilitator Support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_organizers
+      label: Program Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participant_satisfaction_2
+      label: Participant Satisfaction 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: participant_sentiment_2
+      label: Participant Sentiment 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: facilitator_support_2
+      label: Facilitator Support 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: program_organizers_2
+      label: Program Organizers 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: date_2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: satisfaction_level_2
+      label: Satisfaction Level 2
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 21
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: program_id
+      label: Program ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true

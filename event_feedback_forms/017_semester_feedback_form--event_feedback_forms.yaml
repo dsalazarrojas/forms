@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: semester_feedback_form
+    pages:
+    - id: 1
+      name: semester_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: semester_participated
+      label: semester_participated
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''maybe''}'
+      - '{''label'': ''not_applying''}'
+      required: false
+    - id: 6
+      name: attended_all_events
+      label: attended_all_events
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''partially''}'
+      - '{''label'': ''did_not_attend''}'
+      required: false
+    - id: 7
+      name: attended_all_lectures
+      label: attended_all_lectures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''partially''}'
+      - '{''label'': ''did_not_attend''}'
+      required: false
+    - id: 8
+      name: attended_all_tutorials
+      label: attended_all_tutorials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''partially''}'
+      - '{''label'': ''did_not_attend''}'
+      required: false
+    - id: 9
+      name: attended_all_seminars
+      label: attended_all_seminars
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''partially''}'
+      - '{''label'': ''did_not_attend''}'
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_satisfied''}'
+      - '{''label'': ''somewhat_satisfied''}'
+      - '{''label'': ''neutral''}'
+      - '{''label'': ''somewhat_dissatisfied''}'
+      - '{''label'': ''very_dissatisfied''}'
+      required: false
+    - id: 11
+      name: recommend_to_participants
+      label: recommend_to_participants
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: recommend_to_organization
+      label: recommend_to_organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: will_attend_next_semester
+      label: will_attend_next_semester
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''maybe''}'
+      - '{''label'': ''not_applying''}'
+      required: false
+    - id: 14
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: semester
+      label: semester
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: participant
+      label: participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: semester_start
+      label: semester_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: semester_end
+      label: semester_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: event_start
+      label: event_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: event_end
+      label: event_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: number
+      options: []
+      required: false

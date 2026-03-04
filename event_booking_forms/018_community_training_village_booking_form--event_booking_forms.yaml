@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Training Village Booking Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester full name
+      hint: Person booking the space
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization name
+      hint: If booking on behalf of a group
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For booking confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: booking_date
+      label: Booking date
+      hint: Requested date for the booking
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start time
+      hint: Booking start time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End time
+      hint: Booking end time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: attendees_expected
+      label: Expected number of attendees
+      hint: Helps with room assignment
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: equipment_needed
+      label: Equipment needed
+      hint: Audio, projector, whiteboard, etc
+      type: select_multiple
+      options:
+      - Projector
+      - Sound system
+      - Microphone
+      - Whiteboard
+      - None
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special instructions for facilities
+      hint: Access or setup notes
+      type: text
+      options: []
+      required: false

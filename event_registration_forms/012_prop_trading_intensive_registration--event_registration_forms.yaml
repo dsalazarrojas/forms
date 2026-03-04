@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prop Trading Intensive Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 3
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trading_platforms
+      label: Trading Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Binance
+      - Kraken
+      - Huobi
+      required: false
+    - id: 5
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: investment_timeframe
+      label: Investment Timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: trading_schedule
+      label: Trading Schedule
+      hint: null
+      type: select_one
+      options:
+      - Every Day
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 11
+      name: trading_goals
+      label: Trading Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: trading_focus
+      label: Trading Focus
+      hint: null
+      type: select_multiple
+      options:
+      - Swing Trading
+      - Day Trading
+      - Hedge Fund
+      - Scalping
+      required: false

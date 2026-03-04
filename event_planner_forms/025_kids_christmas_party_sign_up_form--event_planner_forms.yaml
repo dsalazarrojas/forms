@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kids Christmas Party Sign Up Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_grade
+      label: School Grade
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: false
+    - id: 6
+      name: attendance
+      label: Will Your Child Attend?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair
+      - Walker
+      - Hearing Impaired
+      - Visual Impaired
+      - Other
+      required: true
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: note
+      options: []
+      required: false

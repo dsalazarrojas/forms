@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Rehearsal Communication Form
+    pages:
+    - id: 1
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

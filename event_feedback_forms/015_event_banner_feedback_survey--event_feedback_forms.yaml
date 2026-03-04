@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Banner Feedback Survey
+    pages:
+    - id: 1
+      name: event_feedback_page_1
+      label: Event Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_banner_location
+      label: Banner Location
+      hint: null
+      type: select_one
+      options:
+      - Left side of the stage
+      - Right side of the stage
+      - Center of the stage
+      - Near the entrance
+      - Other
+      required: false
+    - id: 3
+      name: event_banner_content
+      label: Banner Content
+      hint: Was the content of the banner easy to read?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_feedback_rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_satisfaction
+      label: How satisfied are you with the event banner?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 6
+      name: event_feedback_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_feedback_email
+      label: Email
+      hint: Your email address will not be shared publicly.
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: event_feedback_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

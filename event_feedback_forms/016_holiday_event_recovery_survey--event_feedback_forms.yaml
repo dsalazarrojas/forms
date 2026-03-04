@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Event Recovery Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to this survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_satisfaction
+      label: How was your holiday event?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_satisfaction_rating
+      label: On a scale of 1 to 5, how satisfied were you with the event?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback_1
+      label: What was the highlight of the event for you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_2
+      label: Was there something that we did particularly well or poorly?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: future_interest
+      label: How likely are you to attend our events in the future?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_info
+      label: How do you prefer to be contacted for more information about our future
+        events?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Any comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_us
+      label: We would love to hear from you!
+      hint: null
+      type: email
+      options: []
+      required: true

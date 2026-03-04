@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Happy Hour Registration Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - America/New_York
+      - America/Los_Angeles
+      - America/Chicago
+      - UTC-05:00
+      - UTC-06:00
+      - UTC-07:00
+      - UTC-08:00
+      - UTC-09:00
+      required: false
+    - id: 5
+      name: join_time
+      label: Join Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: join_date
+      label: Join Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: join_time_date
+      label: Join Time Date
+      hint: null
+      type: select_one
+      options:
+      - '2024-01-01 09:00:00'
+      - '2024-01-01 10:00:00'
+      - '2024-01-01 11:00:00'
+      required: false
+    - id: 8
+      name: join_date_time
+      label: Join Date Time
+      hint: null
+      type: select_multiple
+      options:
+      - '2024-01-01 09:00:00'
+      - '2024-01-01 10:00:00'
+      - '2024-01-01 11:00:00'
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user_message
+      label: Your Message
+      hint: null
+      type: note
+      options: []
+      required: false

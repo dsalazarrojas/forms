@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Movie Ticket
+    pages:
+    - id: 1
+      name: free_movie_tickets
+      label: Free Movie Ticket
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: movie_date
+      label: Movie Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: movie_time
+      label: Movie Time
+      hint: "HH:MM 24h format"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: movie_theater
+      label: Movie Theater
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: movie_genre
+      label: Movie Genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: movie_description
+      label: Movie Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: movie_director
+      label: Movie Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: movie_star
+      label: Movie Star
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Conference Feedback Questionnaire
+    pages:
+    - id: 1
+      name: conference_feedback
+      label: How did you enjoy the conference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speakers
+      label: Which speaker(s) did you most enjoy
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: venue
+      label: How would you rate the venue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sessions
+      label: Which session(s) did you most enjoy
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: catering
+      label: How would you rate the catering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: How would you rate the event organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_management
+      label: How would you rate the time management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Additional feedback
+      hint: Is there anything else you'd like to share with us?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email to receive event updates
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: session_attendee
+      label: Which session(s) did you attend?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 15
+      name: attendee_type
+      label: What type of attendee were you?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: feedback_form
+      label: How did you find the feedback form
+      hint: null
+      type: text
+      options: []
+      required: false

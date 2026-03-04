@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Attendee Feedback Check In Form
+    pages:
+    - id: 1
+      name: seminar_attendee_feedback_check_in_form
+      label: Seminar Attendee Feedback Check In Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: "HH:MM (24H) format"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_attendance_status
+      label: Session Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: attendee_rating
+      label: Attendee Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: attendee_feedback
+      label: Attendee Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

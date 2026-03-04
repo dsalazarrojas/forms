@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Card Interest Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: name_of_participant
+      label: Participant's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Sister
+      - Brother
+      - Friend
+      - Spouse
+      - Son
+      - Daughter
+      - Grandparent
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: receive_card
+      label: Receive A Card
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: send_card
+      label: Send A Card
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

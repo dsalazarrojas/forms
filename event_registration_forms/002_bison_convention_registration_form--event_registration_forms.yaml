@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bison Convention Registration Form
+    pages:
+    - id: 1
+      name: registration_info
+      label: Registration Information
+      hint: Complete this form to register for the Bison Convention
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Affiliation
+      hint: Name of your organization or bison association
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration category
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - Exhibitor Pass
+      - Student Pass
+      required: true
+    - id: 9
+      name: attendance_days
+      label: Days Attending
+      hint: Which days will you attend
+      type: select_multiple
+      options:
+      - Day 1 - Opening Keynote
+      - Day 2 - Technical Sessions
+      - Day 3 - Workshops
+      - Day 4 - Field Tours
+      - Closing Banquet
+      required: true
+    - id: 10
+      name: session_preferences
+      label: Session Preferences
+      hint: Topics you are most interested in
+      type: select_multiple
+      options:
+      - Bison Conservation
+      - Ranching Practices
+      - Wildlife Management
+      - Research Updates
+      - Marketing and Sales
+      - Policy and Regulation
+      required: false
+    - id: 11
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs for catering
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 12
+      name: accommodation_needed
+      label: Accommodation Assistance
+      hint: Do you need hotel recommendations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: special_needs
+      label: Accessibility Requirements
+      hint: Any accessibility accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For conference swag bag
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: false
+    - id: 17
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Source of event information
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Colleague Referral
+      - Website
+      - Previous Attendee
+      - Other
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

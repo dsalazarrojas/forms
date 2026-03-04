@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Texas Family Reunion Final Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_attendee_count
+      label: Event Attendee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Accommodations
+      - Off-site Accommodations
+      - No Preference
+      required: false
+    - id: 8
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Other
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: medical_information
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-vegetarian
+      - Omnivore
+      - No Preference
+      required: false
+    - id: 20
+      name: meal_requests
+      label: Meal Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      required: false
+    - id: 21
+      name: transportation_preference
+      label: Transportation Preference
+      hint: null
+      type: select_one
+      options:
+      - Self-Driven
+      - Ride-Sharing
+      - Air-Transportation
+      - Train-Transportation
+      required: false
+    - id: 22
+      name: parking_info
+      label: Parking Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: true
+    - id: 24
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

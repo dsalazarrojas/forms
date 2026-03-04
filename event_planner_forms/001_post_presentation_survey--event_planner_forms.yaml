@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Presentation Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Meeting
+      - Training
+      - Conference
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: session_number
+      label: Session
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: presentation_length
+      label: Presentation Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: speaker
+      label: Speaker
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: true
+    - id: 18
+      name: rating_score
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10
+      - 1-20
+      - 1-30
+      - 1-40
+      required: true
+    - id: 20
+      name: rating_scale_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: rating_scale_comments
+      label: Rating prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: rating_scale_other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: presentation_type
+      label: Presentation Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: survey_type
+      label: Survey Type
+      hint: null
+      type: select_one
+      options:
+      - Post
+      - Pre
+      - Live
+      required: true
+    - id: 25
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: true

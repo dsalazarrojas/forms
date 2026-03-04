@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Upload Form Upload Entry Poster
+    pages:
+    - id: 1
+      name: upload_entry_poster
+      label: Upload Entry Poster
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: art_category
+      label: art_category
+      hint: null
+      type: select_one
+      options:
+      - Digital Art
+      - Art
+      required: false
+    - id: 3
+      name: talent_category
+      label: talent_category
+      hint: null
+      type: select_one
+      options:
+      - Talent
+      - Digital Talent
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: Briefly describe the art or talent.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_artwork
+      label: Upload Artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_entry
+      label: submit_entry
+      hint: null
+      type: text
+      options: []
+      required: false

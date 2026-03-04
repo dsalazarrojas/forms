@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Simulator Waiver Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_relationship
+      label: Relationship to participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Do you have any medical conditions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Will Describe Below
+      required: true
+    - id: 13
+      name: condition_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Are you taking any medications?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 15
+      name: medication_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: risk_acknowledgment
+      label: I acknowledge the risks of using a baseball simulator including eye strain,
+        motion sickness, and muscle strain
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 18
+      name: physical_condition
+      label: I am in adequate physical condition to use the simulator safely
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Am Unsure
+      required: true
+    - id: 19
+      name: section_header_5
+      label: -- Release and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: waiver_agreement
+      label: I release the facility and operators from liability for injuries resulting
+        from simulator use
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: no_liability
+      label: I understand the facility is not liable for damages or injuries from
+        my participation
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 22
+      name: assumption_of_risk
+      label: I assume all risks associated with this activity
+      hint: null
+      type: select_one
+      options:
+      - I Assume Risk
+      - I Decline
+      required: true
+    - id: 23
+      name: section_header_6
+      label: -- Parent/Guardian Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: parent_consent
+      label: Parent/Guardian consents to participant's use of simulator
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Not Applicable
+      required: true
+    - id: 25
+      name: final_confirmation
+      label: I confirm I have read and understood all terms of this waiver
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need More Time
+      required: true

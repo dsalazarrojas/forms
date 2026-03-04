@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: sat_course_enrollment_form_template
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sat_score
+      label: SAT Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sat_section
+      label: SAT Section
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Reading''}'
+      - '{''id'': 2, ''name'': ''Math''}'
+      required: true
+    - id: 5
+      name: paypal_email
+      label: PayPal Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''PayPal''}'
+      - '{''id'': 2, ''name'': ''Stripe''}'
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

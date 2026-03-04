@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: editable_monthly_calendar
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: all_day_event
+      label: All Day Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: repeat
+      label: Repeat
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: repeat_until
+      label: Repeat Until
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: start_time
+      label: Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: end_time
+      label: End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: repeat_time
+      label: Repeat Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: repeat_frequency
+      label: Repeat Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: repeat_by
+      label: Repeat By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

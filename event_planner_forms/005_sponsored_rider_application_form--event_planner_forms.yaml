@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsored Rider Application Form
+    pages:
+    - id: 1
+      name: event_planner_forms_sponsored_rider_application_form_page_1
+      label: event_planner_forms_sponsored_rider_application_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rider_details
+      label: rider_details_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_details
+      label: sponsor_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_details
+      label: event_details_label
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rider_agreement
+      label: rider_agreement_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_agreement
+      label: sponsor_agreement_label
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mountain Yoga Chalet Booking Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: checkin
+      label: Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: checkout
+      label: Checkout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: booking_type
+      label: Booking Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false

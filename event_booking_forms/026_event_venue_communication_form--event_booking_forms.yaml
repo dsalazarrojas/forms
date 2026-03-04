@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_venue_communication_form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_organisation
+      label: Organising Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: venue_details
+      label: Venue Details
+      hint: null
+      type: text
+      options: []
+      required: false

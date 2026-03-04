@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Workshop Registration Form WorldPay UK Payment Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: workshop_selection
+      label: Workshop Name
+      hint: Select the workshop you wish to attend
+      type: select_one
+      options:
+      - Painting Fundamentals
+      - Sculpture Workshop
+      - Mixed Media Techniques
+      - Digital Art
+      - Printmaking
+      - Advanced Ceramics
+      required: true
+    - id: 6
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 8
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-30
+      - 31-45
+      - 46-60
+      - 60+
+      required: false
+    - id: 9
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: How many people will be registering
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 12
+      name: registration_fee
+      label: Registration Fee Amount - GBP
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Worldpay UK
+      - Credit Card
+      - Bank Transfer
+      - Debit Card
+      required: true
+    - id: 14
+      name: terms_accepted
+      label: I agree to the workshop terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: how_heard
+      label: How did you hear about this workshop
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Email
+      - Friend Recommendation
+      - Flyer
+      - Other
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

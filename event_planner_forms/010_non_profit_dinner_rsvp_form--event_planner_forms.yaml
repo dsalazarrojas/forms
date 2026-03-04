@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Profit Dinner RSVP Form
+    pages:
+    - id: 1
+      name: event_planner_form
+      label: eventplannerform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_type
+      label: rsvp_type
+      hint: null
+      type: select_multiple
+      options:
+      - Guest
+      - Host
+      required: true
+    - id: 7
+      name: guests
+      label: guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

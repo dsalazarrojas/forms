@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milestone Celebration RSVP
+    pages:
+    - id: 1
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: attending
+      label: attending
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: special_events
+      label: special_events
+      hint: null
+      type: select_multiple
+      options:
+      - anniversary
+      - birthday
+      - holiday
+      required: false

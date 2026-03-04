@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Registration Form
+    pages:
+    - id: 1
+      name: registration_intro
+      label: Concert Registration
+      hint: Register for the concert event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_choice
+      label: Select Event
+      hint: Choose which concert to attend
+      type: select_one
+      options:
+      - Rock Festival 2026
+      - Classical Evening
+      - Jazz Showcase
+      - Pop Concert Series
+      - Country Music Night
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Concert date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_preference
+      label: Session Preference
+      hint: Matinee or evening show
+      type: select_one
+      options:
+      - Matinee Show 2 PM
+      - Evening Show 7 PM
+      - Late Night 10 PM
+      required: true
+    - id: 5
+      name: ticket_count
+      label: Number of Tickets
+      hint: How many attendees
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: registrant_info
+      label: Registrant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: attendee_details
+      label: Additional Attendee Details
+      hint: Information about other guests
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: guest_names
+      label: Guest Names
+      hint: Names of other attendees
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: group_discount
+      label: Group Discount Eligibility
+      hint: Groups of 10 or more qualify
+      type: select_one
+      options:
+      - Yes We Are a Group
+      - No Standard Registration
+      required: false
+    - id: 15
+      name: seating_preference
+      label: Seating Preference
+      hint: Where do you want to sit
+      type: select_one
+      options:
+      - Floor Section
+      - Lower Level
+      - Club Level
+      - Upper Level
+      - No Preference
+      required: true
+    - id: 16
+      name: accessibility
+      label: Accessibility Requirements
+      hint: Any special needs
+      type: select_multiple
+      options:
+      - Wheelchair Access
+      - Companion Seating
+      - Hearing Assistance
+      - Visual Assistance
+      - None Required
+      required: false
+    - id: 17
+      name: rsvp_response
+      label: RSVP Response
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - Yes I Will Attend
+      - No I Cannot Attend
+      - Maybe Undecided
+      required: true
+    - id: 18
+      name: meal_preference
+      label: Meal Preference
+      hint: If catering is included
+      type: select_one
+      options:
+      - Standard Meal
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - No Meal Needed
+      required: false
+    - id: 19
+      name: merchandise_interest
+      label: Merchandise Interest
+      hint: Interested in concert merch
+      type: select_one
+      options:
+      - Yes Interested
+      - No Not Interested
+      required: false
+    - id: 20
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive event updates
+      type: select_one
+      options:
+      - Yes Subscribe
+      - No Thanks
+      required: false
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family
+      - Radio Advertisement
+      - Email Newsletter
+      - Website
+      - Other
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Any additional needs
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: Terms Acceptance
+      hint: Agree to event policies
+      type: select_one
+      options:
+      - I Accept All Terms
+      - I Do Not Accept
+      required: true

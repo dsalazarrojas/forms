@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Education Conference Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Faculty
+      - Student
+      - Staff
+      - Alumni
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: session_length
+      label: Session Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_capacity
+      label: Session Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Plenary
+      - Keynote
+      - Workshops
+      - Panel
+      - Roundtable
+      - Breakout
+      required: false
+    - id: 14
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: room
+      label: Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Auditorium
+      - Classroom
+      - Theater
+      - Lecture Hall
+      - Conference Room
+      - Other
+      required: true
+    - id: 17
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: notes_2
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email_sent_2
+      label: Email Sent (2)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirm_reg
+      label: Confirm Registration
+      hint: null
+      type: text
+      options: []
+      required: false

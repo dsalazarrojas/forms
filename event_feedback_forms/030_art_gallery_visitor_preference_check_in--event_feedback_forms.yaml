@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Visitor Preference Check In
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check In Date
+      hint: Date of your visit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check In Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: visitor_name
+      label: Visitor Name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: visitor_email
+      label: Visitor Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: visitor_phone
+      label: Visitor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: Your zip or postal code
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age_group
+      label: Age Group
+      hint: Your age group
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or Older
+      required: false
+    - id: 8
+      name: visit_frequency
+      label: Visit Frequency
+      hint: How often do you visit galleries
+      type: select_one
+      options:
+      - First Time
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Very Frequently
+      required: true
+    - id: 9
+      name: visit_purpose
+      label: Visit Purpose
+      hint: Purpose of your visit today
+      type: select_one
+      options:
+      - Leisure
+      - Education
+      - Research
+      - Inspiration
+      - Social Event
+      - Tourism
+      - Other
+      required: true
+    - id: 10
+      name: art_interests
+      label: Art Interests
+      hint: Select your art interests
+      type: select_multiple
+      options:
+      - Contemporary Art
+      - Modern Art
+      - Classical Art
+      - Photography
+      - Sculpture
+      - Digital Art
+      - Performance Art
+      - Street Art
+      - Abstract Art
+      - Realism
+      required: true
+    - id: 11
+      name: preferred_medium
+      label: Preferred Medium
+      hint: Your preferred art medium
+      type: select_one
+      options:
+      - Painting
+      - Drawing
+      - Photography
+      - Sculpture
+      - Installation
+      - Video Art
+      - Mixed Media
+      - No Preference
+      required: false
+    - id: 12
+      name: exhibition_preference
+      label: Exhibition Preference
+      hint: What type of exhibitions do you prefer
+      type: select_one
+      options:
+      - Solo Artist Shows
+      - Group Exhibitions
+      - Thematic Exhibitions
+      - Historical Retrospectives
+      - Emerging Artists
+      - No Preference
+      required: false
+    - id: 13
+      name: program_interests
+      label: Program Interests
+      hint: Select programs you are interested in
+      type: select_multiple
+      options:
+      - Artist Talks
+      - Guided Tours
+      - Workshops
+      - Lectures
+      - Opening Receptions
+      - Family Programs
+      - Educational Programs
+      - None
+      required: false
+    - id: 14
+      name: communication_preference
+      label: Communication Preference
+      hint: How would you like to hear from us
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - Mail
+      - No Contact
+      required: true
+    - id: 15
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Would you like to receive our newsletter
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: event_notifications
+      label: Event Notifications
+      hint: Receive notifications about upcoming events
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: membership_interest
+      label: Membership Interest
+      hint: Are you interested in membership
+      type: select_one
+      options:
+      - Yes - Send Information
+      - Maybe - Tell Me More
+      - No - Not Interested
+      - Already a Member
+      required: true
+    - id: 18
+      name: donation_interest
+      label: Donation Interest
+      hint: Are you interested in supporting the gallery
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Are you interested in volunteering
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: purchase_interest
+      label: Purchase Interest
+      hint: Are you interested in purchasing artwork
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 21
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about us
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Advertisement
+      - Tourist Information
+      - Previous Visit
+      - Other
+      required: false
+    - id: 22
+      name: social_media_preference
+      label: Social Media Preference
+      hint: Which social media do you use
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Pinterest
+      - TikTok
+      - LinkedIn
+      - None
+      required: false
+    - id: 23
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe your needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: visit_feedback
+      label: Visit Feedback
+      hint: Any initial feedback
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: patronage_request_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsorship_info
+      label: Sponsorship Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sponsor_info
+      label: Sponsor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_notes
+      label: Sponsor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree to the terms and conditions.''}'
+      - '{''label'': ''I do not understand and do not agree to the terms and conditions.''}'
+      required: true
+    - id: 13
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sponsor_agreement
+      label: Sponsor Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree to the terms and conditions.''}'
+      - '{''label'': ''I do not understand and do not agree to the terms and conditions.''}'
+      required: true
+    - id: 15
+      name: sponsor_signature
+      label: Sponsor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree to the terms and conditions.''}'
+      - '{''label'': ''I do not understand and do not agree to the terms and conditions.''}'
+      required: true
+    - id: 23
+      name: sponsor_agreement
+      label: Sponsor Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree to the terms and conditions.''}'
+      - '{''label'': ''I do not understand and do not agree to the terms and conditions.''}'
+      required: true
+    - id: 24
+      name: submitter_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: sponsor_signature
+      label: Sponsor Signature
+      hint: null
+      type: note
+      options: []
+      required: true

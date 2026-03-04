@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balloon Flights Booking Form
+    pages:
+    - id: 1
+      name: lead_passenger_name
+      label: Lead passenger full name
+      hint: Primary contact for the booking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email for booking confirmation and tickets
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Day of flight contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred flight date
+      hint: Select a preferred date for the flight
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred flight time
+      hint: Morning flights are common for best wind conditions
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: number_of_passengers
+      label: Number of passengers
+      hint: Total passengers including lead passenger
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_weight_kg
+      label: Total combined weight kg
+      hint: Provide approximate combined weight for safety planning
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pickup_location
+      label: Pickup or meeting location
+      hint: Provide a landmark or address for the meeting point
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: special_requirements
+      label: Special requirements or mobility notes
+      hint: Tell us about accessibility needs or health considerations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Name and phone of person to contact in an emergency
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment method
+      hint: Select how you will pay for your booking
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - On site cash
+      required: true

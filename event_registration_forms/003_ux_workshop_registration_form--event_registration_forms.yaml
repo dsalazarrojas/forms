@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: UX Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_selection
+      label: Select a Workshop
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Participant Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method_other_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_start
+      label: Workshop Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: workshop_end
+      label: Workshop End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: workshop_start_time
+      label: Workshop Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: workshop_end_time
+      label: Workshop End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: participant_attendance
+      label: Participant Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: participant_attendance_details
+      label: Participant Attendance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

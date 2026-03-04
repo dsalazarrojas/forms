@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_drinking_poll
+    pages:
+    - id: 1
+      name: survey
+      label: Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drinker
+      label: Drinker
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: drinker_survey
+      label: Drinkers Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: drinker_survey_0
+      label: Drinkers 0
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: drinker_likedrink
+      label: Liked drink
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: drinker_likedrink_0
+      label: Liked drink 0
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: drinker_likedrink_1
+      label: Liked drink 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Coordination Communication Form
+    pages:
+    - id: 1
+      name: header_production
+      label: -- Production and Role Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: production_title
+      label: Production Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: actor_name
+      label: Actor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role_assigned
+      label: Role Assigned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: production_contact
+      label: Primary Production Contact
+      hint: Name of your Point of Contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_logistics
+      label: -- Logistics and Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: call_time_confirmation
+      label: Call Time Confirmation
+      hint: Please confirm your call time for the next shoot day
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: transportation_needs
+      label: Transportation Requirements
+      hint: Do you require production-arranged transport?
+      type: select_one
+      options:
+      - No - I will provide my own transport
+      - Yes - Pick up required
+      - Yes - Travel reimbursement requested
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions for Catering
+      hint: Please list any allergies or dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: costume_fittings
+      label: Costume Fitting Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Scheduled
+      - Needs to be scheduled
+      - Not applicable
+      required: true
+    - id: 11
+      name: section_communication
+      label: -- Communication Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: script_version
+      label: Current Script Version in Possession
+      hint: e.g. Blue Revision, March 10
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: availability_update
+      label: Upcoming Conflicts or Availability Changes
+      hint: Report any sudden changes to your schedule
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes_to_coordinator
+      label: Notes to Production Coordinator
+      hint: Any other urgent items to communicate?
+      type: text
+      options: []
+      required: false

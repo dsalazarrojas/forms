@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Character Name Voting Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Character Name Voting --
+        hint: Collect votes to select a character name
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: voter name
+        hint: optional to keep votes anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: voter_email
+        label: voter email
+        hint: optional for verification or follow up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: character_choices
+        label: character choices
+        hint: select up to three preferred names
+        type: select_multiple
+        options:
+          - Name A
+          - Name B
+          - Name C
+          - Name D
+          - Name E
+        required: true
+      - id: 5
+        name: top_choice
+        label: top choice
+        hint: select your single preferred name
+        type: select_one
+        options:
+          - Name A
+          - Name B
+          - Name C
+          - Name D
+          - Name E
+        required: true
+      - id: 6
+        name: comment
+        label: comment
+        hint: optional reason for your choice
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: respondent_age_group
+        label: respondent age group
+        hint: helps analyze demographics
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 34
+          - 35 to 54
+          - 55 and over
+        required: false
+      - id: 8
+        name: consent_terms
+        label: consent terms
+        hint: agreement to voting rules and privacy policy
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true
+      - id: 9
+        name: submission_date
+        label: submission date
+        hint: date vote was cast
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: extra_feedback
+        label: extra feedback
+        hint: any other comments or suggestions
+        type: text
+        options: []
+        required: false

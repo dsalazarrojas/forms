@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Catering Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: Event Catering Satisfaction Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: How would you rate your overall experience with our catering services?
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: food
+      label: Food Quality
+      hint: How would you rate the quality of the food?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: service
+      label: Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: event_team
+      label: Event Team
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: food_quality_rating
+      label: Food Quality Rating
+      hint: How would you rate the quality of the food?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: service_quality_rating
+      label: Service Quality Rating
+      hint: How would you rate the quality of service?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: value_for_money_rating
+      label: Value for Money Rating
+      hint: How would you rate the value for money?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: communication
+      label: Communication
+      hint: How would you rate the level of communication?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: Time of the event
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: event_location
+      label: Event Location
+      hint: Location of the event
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: attendees
+      label: Number of Attendees
+      hint: Number of attendees at the event
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_type
+      label: Event Type
+      hint: Type of event
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: event_catering_service
+      label: Catering Service
+      hint: Type of catering service
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_catering_team
+      label: Catering Team
+      hint: Name of catering team members
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_catering_note
+      label: Catering Notes
+      hint: Additional comments about the event catering services
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_catering_recommendation
+      label: Recommendation
+      hint: Would you recommend our catering services to colleagues/ friends/ family?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: event_catering_suggestion
+      label: Suggestion
+      hint: If yes, please provide us with your suggestion(s) on how to improve our
+        services
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: event_catering_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: event_catering_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_catering_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_catering_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

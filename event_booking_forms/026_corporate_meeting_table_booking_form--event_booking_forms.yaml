@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_meeting_table_booking_form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendees
+      label: Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: seating_preference
+      label: Seating Preference
+      hint: null
+      type: select_one
+      options:
+      - table
+      - sofa
+      - conference
+      - roundtable
+      required: false
+    - id: 4
+      name: attendees_count
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: meeting_topic
+      label: Meeting Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: room_requirements
+      label: Room Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

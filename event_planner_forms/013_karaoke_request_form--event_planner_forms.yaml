@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: karaoke_request_form
+    pages:
+    - id: 1
+      name: song_requests
+      label: Song Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: song_selection_details
+      label: Song Selection Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: song_name
+      label: song_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: song_artist
+      label: song_artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: song_length
+      label: song_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: song_format
+      label: song_format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''operator''}'
+      - '{''value'': ''patron''}'
+      - '{''value'': ''both''}'
+      required: false
+    - id: 8
+      name: song_priority
+      label: song_priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''high''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''low''}'
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: repeat
+      label: repeat
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: song_id
+      label: song_id
+      hint: null
+      type: text
+      options: []
+      required: false

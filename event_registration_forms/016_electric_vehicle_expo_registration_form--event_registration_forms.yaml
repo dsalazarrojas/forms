@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Vehicle Expo Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: prophets name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: company name
+      hint: null
+      type: select_multiple
+      options:
+      - Tesla
+      - Tesla Motors
+      - Toyota
+      required: true
+    - id: 5
+      name: vehicle_make
+      label: vehicle make
+      hint: null
+      type: select_multiple
+      options:
+      - Tesla
+      - Toyota
+      - Hyundai
+      required: true
+    - id: 6
+      name: vehicle_model
+      label: vehicle model
+      hint: null
+      type: select_multiple
+      options:
+      - Model 3
+      - Prius
+      - Kona Electric
+      required: true
+    - id: 7
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: registration_fee
+      label: registration fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - Owner
+      - Driver
+      - Other
+      required: true
+    - id: 13
+      name: vehicle_year
+      label: vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_mileage
+      label: vehicle mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_type
+      label: vehicle type
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Gas
+      - Hybrid
+      required: true
+    - id: 16
+      name: vehicle_battery_capacity
+      label: battery capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: event_type
+      label: event type
+      hint: null
+      type: select_multiple
+      options:
+      - Expo
+      - Show
+      - Conference
+      required: true
+    - id: 18
+      name: vehicle_length
+      label: vehicle length
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Long
+      required: true
+    - id: 19
+      name: notes
+      label: notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: registration_status
+      label: registration status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      required: true
+    - id: 21
+      name: event_location
+      label: event location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: event_location_2
+      label: event location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_location_3
+      label: event location 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_location_4
+      label: event location 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_location_5
+      label: event location 5
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sprinting_Tournament_Entry_Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_school
+      label: Participant School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_grade
+      label: Participant Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 8
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_t_shirt_size
+      label: Participant T-Shirt Size
+      hint: null
+      type: select_multiple
+      options:
+      - SML
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Sprint Meet
+      - Sprint Meet - Relay
+      - Sprint Meet - Masters
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: participant_tshirt_order
+      label: Participant T-Shirt Order
+      hint: null
+      type: select_one
+      options:
+      - None
+      - T-Shirt
+      - Tie
+      required: false
+    - id: 14
+      name: sprinting_event_id
+      label: Sprinting Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: sprinting_event_date
+      label: Sprinting Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: sprinting_event_time
+      label: Sprinting Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: sprinting_event_location
+      label: Sprinting Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sprinting_event_organizer
+      label: Sprinting Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sprinting_event_division
+      label: Sprinting Event Division
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sprinting_event_type
+      label: Sprinting Event Type
+      hint: null
+      type: select_one
+      options:
+      - Sprint Meet
+      - Sprint Meet - Relay
+      - Sprint Meet - Masters
+      required: false
+    - id: 21
+      name: sprinting_event_status
+      label: Sprinting Event Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_sprint_type
+      label: Participant Sprint Type
+      hint: null
+      type: select_one
+      options:
+      - Sprint
+      - Sprint Relay
+      - Sprint Masters
+      required: true
+    - id: 23
+      name: participant_sprint_distance
+      label: Participant Sprint Distance
+      hint: null
+      type: select_multiple
+      options:
+      - Sprint 200m
+      - Sprint 400m
+      - Sprint 800m
+      - Sprint 1600m
+      - Sprint 3200m
+      - Sprint 800m Hurdles
+      required: true
+    - id: 24
+      name: participant_sprint_event_id
+      label: Participant Sprint Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: participant_sprint_event_date
+      label: Participant Sprint Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fair Organization Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_team
+      label: Event Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_reasons
+      label: Reasons for Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

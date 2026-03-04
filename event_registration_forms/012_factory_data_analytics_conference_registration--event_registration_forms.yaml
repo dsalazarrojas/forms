@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Data Analytics Conference Registration
+    pages:
+    - id: 1
+      name: conference_title
+      label: Conference Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
+      required: false
+    - id: 6
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Machine Learning
+      - Data Science
+      - Business Intelligence
+      required: false
+    - id: 7
+      name: sessions
+      label: Sessions
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: signup_details
+      label: Sign up details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

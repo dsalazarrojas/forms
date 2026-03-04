@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference Attendee Feedback Survey
+    pages:
+    - id: 1
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Please provide feedback about your experience at the conference
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: top_session
+      label: Which session was your favorite?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Session A''}'
+      - '{''id'': 2, ''label'': ''Session B''}'
+      - '{''id'': 3, ''label'': ''Session C''}'
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_details
+      label: Please provide any additional details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_interests
+      label: Which session topics are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''AI/ML''}'
+      - '{''id'': 2, ''label'': ''Data Science''}'
+      - '{''id'': 3, ''label'': ''Cybersecurity''}'
+      - '{''id'': 4, ''label'': ''Networking''}'
+      required: true
+    - id: 10
+      name: follow_up
+      label: Would you like to be contacted for follow-up opportunities?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: session_suggestions
+      label: Do you have any session suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: favorite_session_speaker
+      label: Who was your favorite session speaker?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_suggestions_details
+      label: Please provide suggestions for the next conference
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_next_conference
+      label: Would you like to be contacted for next conference?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 16
+      name: contact_twitter
+      label: Twitter Handle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_conference_details
+      label: Please provide any additional details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: session_survey_suggestions
+      label: What would you like to see next?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_suggestions
+      label: Do you have any follow-up suggestions for this conference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_conference_survey
+      label: How would you rate this survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_suggestions_details
+      label: Please provide any additional suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_suggestions_improvements
+      label: What improvements would you suggest for this conference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: session_survey_improvements
+      label: What improvements would you suggest for the survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_improvements
+      label: Do you have any other suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: session_follow_up
+      label: Follow up with us
+      hint: null
+      type: text
+      options: []
+      required: false

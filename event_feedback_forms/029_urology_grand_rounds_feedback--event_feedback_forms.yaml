@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urology Grand Rounds Feedback
+    pages:
+    - id: 1
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_topics
+      label: Session Topics
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 4
+      name: speaker_feedback
+      label: Speaker Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 5
+      name: content_quality
+      label: Content Quality
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 6
+      name: relevance_to_practice
+      label: Relevance to Practice
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

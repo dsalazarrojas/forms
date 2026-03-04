@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Wellness Challenge Evaluation Form
+    pages:
+    - id: 1
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_rating
+      label: Experience
+      hint: On a scale from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_feedback
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_suggestions
+      label: What can we do better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_rating
+      label: Program
+      hint: On a scale from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: program_improvement
+      label: Program Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_contact
+      label: Would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

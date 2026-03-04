@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Slot Booking Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_time
+      label: Date Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Meeting
+      - Consultation
+      - Appointment
+      - Other
+      required: false
+    - id: 6
+      name: event_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_repeat
+      label: Repeat
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 13
+      name: event_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_reminder
+      label: Reminder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_repeat_time
+      label: Repeat Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: event_repeat_count
+      label: Repeat Count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_timezone
+      label: Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

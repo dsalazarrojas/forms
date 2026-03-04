@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Awards Afterparty RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: Where do you work?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: award_category
+      label: Award Category
+      hint: Which award category were you nominated for or attended?
+      type: select_one
+      options:
+      - Employee of the Year
+      - Team Excellence
+      - Innovation Award
+      - Leadership Award
+      - Customer Service Award
+      - Sales Achievement
+      - Community Impact
+      - Lifetime Achievement
+      - Guest of Award Winner
+      - General Attendee
+      required: true
+    - id: 6
+      name: rsvp_status
+      label: Will You Attend the Afterparty?
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, I Cannot Attend
+      - Maybe, Will Confirm Later
+      required: true
+    - id: 7
+      name: plus_one
+      label: Bringing a Guest
+      hint: Will you bring a plus one?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 8
+      name: guest_name
+      label: Guest Name
+      hint: Full name of your guest
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Shellfish Allergies
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 10
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What will you be drinking?
+      type: select_one
+      options:
+      - Full Bar
+      - Wine Only
+      - Beer Only
+      - Non-Alcoholic Only
+      - No Preference
+      required: false
+    - id: 12
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you get to the afterparty?
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Rideshare
+      - Taxi
+      - Public Transit
+      - Walking
+      - Shuttle Service
+      - Other
+      required: false
+    - id: 13
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking at the venue?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: arrival_time
+      label: Expected Arrival Time
+      hint: When do you plan to arrive?
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For afterparty merchandise if provided
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      - Not Interested
+      required: false
+    - id: 17
+      name: networking_interest
+      label: Networking Interest
+      hint: Would you like to participate in networking activities?
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 18
+      name: photo_consent
+      label: Photo Consent
+      hint: May we use photos of you for marketing?
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Please Do Not
+      required: true
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs or requests?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: feedback_willing
+      label: Willing to Provide Feedback
+      hint: Would you complete a post-event survey?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

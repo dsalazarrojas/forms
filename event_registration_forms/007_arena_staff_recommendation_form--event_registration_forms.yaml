@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arena Staff Recommendation Form
+    pages:
+    - id: 1
+      name: section_recommender_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recommender_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recommender_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: recommender_title
+      label: Your Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_candidate
+      label: Your relationship to the candidate
+      hint: null
+      type: select_one
+      options:
+      - Direct supervisor
+      - Manager
+      - Colleague
+      - Team lead
+      - Other staff member
+      required: true
+    - id: 6
+      name: section_candidate_info
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: candidate_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: candidate_position
+      label: Current or Previous Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employment_duration
+      label: How long have you worked with this person
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 10
+      name: section_performance
+      label: -- Performance Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_quality
+      label: Quality of work
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: reliability
+      label: Reliability and punctuality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: teamwork
+      label: Teamwork and collaboration
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: communication
+      label: Communication skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: section_recommendation
+      label: -- Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: recommend_position_type
+      label: What position are you recommending for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: overall_recommendation
+      label: Overall recommendation
+      hint: null
+      type: select_one
+      options:
+      - Highly recommend
+      - Recommend
+      - Cautiously recommend
+      - Do not recommend
+      required: true
+    - id: 18
+      name: key_strengths
+      label: What are their key strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: areas_for_growth
+      label: Areas for growth or development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or context
+      hint: null
+      type: text
+      options: []
+      required: false

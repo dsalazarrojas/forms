@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judge Evaluation Form
+    pages:
+    - id: 1
+      name: judge_name
+      label: Judge Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: judge_id
+      label: Judge ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_id
+      label: Evaluation ID
+      hint: null
+      type: text
+      options: []
+      required: false

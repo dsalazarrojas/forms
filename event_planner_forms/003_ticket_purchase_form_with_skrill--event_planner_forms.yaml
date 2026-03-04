@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Purchase Form With Skrill
+    pages:
+    - id: 1
+      name: event_planner_forms_1
+      label: event_planner_forms_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: skrill_card_number
+      label: skrill_card_number
+      hint: Enter your Skrill card number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: name_on_card
+      label: name_on_card
+      hint: Your name as it appears on your card
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: card_expiration_date
+      label: card_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: card_cvv
+      label: card_cvv
+      hint: Card security code (CVV)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ticket_price
+      label: ticket_price
+      hint: Enter your ticket price
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ticket_quantity
+      label: ticket_quantity
+      hint: Number of tickets you wish to purchase
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false

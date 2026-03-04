@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Building Activity Proposal Request Form
+    pages:
+    - id: 1
+      name: team_building_activity_proposal
+      label: Team Building Activity Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_building_activity_type
+      label: Team Building Activity Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Team Outing''}'
+      - '{''label'': ''Team Lunch''}'
+      - '{''label'': ''Team Building''}'
+      - '{''label'': ''Team Event''}'
+      - '{''label'': ''Team Lunch and Dinner''}'
+      - '{''label'': ''Team Activity''}'
+      required: false
+    - id: 3
+      name: team_building_location
+      label: Team Building Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_building_date
+      label: Team Building Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: team_building_time
+      label: Team Building Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: team_building_duration
+      label: Team Building Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_building_budget
+      label: Team Building Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_building_leader
+      label: Team Building Leader
+      hint: null
+      type: text
+      options: []
+      required: false

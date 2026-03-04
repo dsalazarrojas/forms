@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Purchase Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: Customer First Name
+      hint: Enter the customer's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Customer Last Name
+      hint: Enter the customer's last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_to_terms
+      label: Consent to Terms and Conditions
+      hint: Check the box to consent to the terms and conditions
+      type: select_one
+      options:
+      - I accept the terms and conditions
+      - I do not accept the terms and conditions
+      required: true
+    - id: 7
+      name: purchase_tickets
+      label: Purchase Ticket(s)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

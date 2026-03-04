@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Colorado Mountain Club Trekking Registration Form WorldPayUS Payment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification and emergency purposes
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For registration confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_emergency_contact
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: How is this person related to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 10
+      name: section_header_trek_selection
+      label: -- Trek Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: trek_choice
+      label: Trek Choice
+      hint: Select your preferred trekking event
+      type: select_one
+      options:
+      - Beginner Mountain Trail
+      - Intermediate Peak Climb
+      - Advanced Summit Expedition
+      - Multi-Day Wilderness Trek
+      - Rocky Mountain Explorer
+      required: true
+    - id: 12
+      name: trek_date
+      label: Preferred Trek Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: experience_level
+      label: Hiking Experience Level
+      hint: Your hiking and trekking experience
+      type: select_one
+      options:
+      - Beginner (0-2 years)
+      - Intermediate (3-5 years)
+      - Advanced (6-10 years)
+      - Expert (10+ years)
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions we should know about
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: equipment_rental
+      label: Equipment Rental Needed
+      hint: Do you need to rent trekking equipment
+      type: select_one
+      options:
+      - No Equipment Needed
+      - Hiking Poles
+      - Backpack
+      - Full Equipment Set
+      - Boots Only
+      required: true
+    - id: 16
+      name: section_header_waiver
+      label: -- Waiver and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: Do you agree to the liability waiver terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 18
+      name: medical_release
+      label: Medical Release Authorization
+      hint: Authorize emergency medical treatment if needed
+      type: select_one
+      options:
+      - Yes I Authorize
+      - No I Do Not Authorize
+      required: true
+    - id: 19
+      name: registration_fee
+      label: Registration Fee
+      hint: Fee amount for selected trek
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method via WorldPay US
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 21
+      name: card_number
+      label: Card Number
+      hint: Enter card number for payment
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any special needs or accommodations
+      type: text
+      options: []
+      required: false

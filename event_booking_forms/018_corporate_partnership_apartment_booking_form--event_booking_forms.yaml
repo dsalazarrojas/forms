@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Partnership Apartment Booking Form
+    pages:
+    - id: 1
+      name: corporate_partnership_form
+      label: Corporate Partnership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_details
+      label: Partner Details
+      hint: Enter partner details
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: event_details
+      label: event_details
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: room_preferences
+      label: Room Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

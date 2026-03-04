@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Workshop Waiver Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the participant
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the participant
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Email of the participant
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone number of the participant
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Date of birth of the participant
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: First name of the emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: Last name of the emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact phone number of the emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_agree_to_participate_in_the_workshop
+      label: Participant Agreement
+      hint: Participant agreement and consent
+      type: select_multiple
+      options:
+      - I agree to participate in the workshop
+      - I do not agree to participate in the workshop
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: Relationship with the emergency contact
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Other
+      required: false
+    - id: 11
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: Address of the emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_con_ent
+      label: Participant Consent
+      hint: Participant consent to participate
+      type: select_multiple
+      options:
+      - I agree to participate
+      - Do not agree to participate
+      - I have read and understand the waiver
+      - Not read and not understand the waiver
+      required: false
+    - id: 13
+      name: workshop_attendance
+      label: Workshop Attendance
+      hint: Attendance information of the workshop
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Email of the emergency contact
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: participant_signature
+      label: Participant Signature
+      hint: Participant signature
+      type: text
+      options: []
+      required: false

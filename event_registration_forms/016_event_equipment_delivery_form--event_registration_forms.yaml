@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_equipment_delivery_form
+    pages:
+    - id: 1
+      name: event_equipment_request
+      label: event_equipement_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_type
+      label: delivery_method
+      hint: null
+      type: select_multiple
+      options:
+      - Delivery via Email
+      - Self Pickup
+      - Shipping to Venue
+      required: false
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: equipment_requested
+      label: equipment_requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: equipment_delivered
+      label: equipment_delivered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - Cancelled
+      required: false
+    - id: 8
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_planner
+      label: event_planner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

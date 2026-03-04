@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checklist For Set Verification
+    pages:
+    - id: 1
+      name: section_production_details
+      label: -- Production Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_title_production
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: production_lead_manager
+      label: Production Lead Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: verification_timestamp
+      label: Verification Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: set_location_stage
+      label: Set Location / Stage Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_technical_check
+      label: -- Technical Verification Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: check_structural_integrity
+      label: Stage Structural Integrity Confirmed
+      hint: null
+      type: select_one
+      options:
+      - Verified - Safe
+      - Minor Adjustment Needed
+      - Unsafe - Do Not Use
+      required: true
+    - id: 8
+      name: check_lighting_rigs
+      label: Lighting Rigs and Trussing Secure
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - In Progress
+      - Pending
+      required: true
+    - id: 9
+      name: check_audio_systems
+      label: Audio Systems and Monitor Mix Tested
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Audio Issues Noted
+      - Not Tested
+      required: true
+    - id: 10
+      name: check_power_backup
+      label: Backup Power Systems Ready
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_props_scenery
+      label: -- Props and Scenery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: prop_inventory_status
+      label: All Hero Props Accounted For
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Items Missing
+      - Items Damaged
+      required: true
+    - id: 13
+      name: scenery_placement_check
+      label: Scenery Placement Matches Floor Plan
+      hint: null
+      type: select_one
+      options:
+      - Matches
+      - Deviation Noted
+      required: true
+    - id: 14
+      name: deficiency_details_text
+      label: Detailed Findings or Deficiencies
+      hint: List anything that needs immediate attention
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_final_clearance
+      label: -- Final Clearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: set_readiness_indicator
+      label: Overall Set Readiness
+      hint: null
+      type: select_one
+      options:
+      - GO - Ready for Show
+      - HOLD - Pending Fixes
+      - NO GO - Major Safety Risk
+      required: true
+    - id: 17
+      name: assigned_remediation_tech
+      label: Assigned Tech for Remediation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_approval_ack
+      label: Production Supervisor Sign-off
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Neutral
+      - Dissatisfied
+      required: true

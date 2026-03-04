@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Storytelling Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Sponsor Name or Organization
+      hint: Individual or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What type of entity are you?
+      type: select_one
+      options:
+      - Individual
+      - Small Business
+      - Corporation
+      - Nonprofit Organization
+      - Government Agency
+      - Educational Institution
+      - Community Group
+      - Other
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: website_url
+      label: Website URL
+      hint: Your organization's website
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Select your desired sponsorship tier
+      type: select_one
+      options:
+      - Bronze Sponsor - $100
+      - Silver Sponsor - $250
+      - Gold Sponsor - $500
+      - Platinum Sponsor - $1,000
+      - Diamond Sponsor - $2,500
+      - Custom Amount
+      required: true
+    - id: 9
+      name: custom_sponsorship_amount
+      label: Custom Sponsorship Amount
+      hint: If selecting custom amount, specify here
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_preference
+      label: Which storytelling event would you like to sponsor?
+      hint: Select specific event or all
+      type: select_one
+      options:
+      - Spring Storytelling Festival
+      - Summer Nights Stories
+      - Fall Harvest Tales
+      - Winter Stories Gathering
+      - Monthly Story Circle
+      - Any Event (Organizer's Choice)
+      - All Events (Season Sponsor)
+      required: true
+    - id: 11
+      name: sponsorship_benefits
+      label: Which sponsorship benefits interest you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Logo on event materials
+      - Social media recognition
+      - Verbal acknowledgment during event
+      - Booth or table at event
+      - Program advertisement
+      - VIP seating
+      - Meet the storytellers
+      - Press release mention
+      required: false
+    - id: 12
+      name: logo_upload_note
+      label: -- Logo Submission --
+      hint: You will be contacted to submit your logo file
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: marketing_goals
+      label: What are your marketing goals for this sponsorship?
+      hint: Brand awareness, community support, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: target_audience
+      label: Who is your target audience?
+      hint: Describe your ideal customer or demographic
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_sponsorship
+      label: Have you sponsored community events before?
+      hint: Prior sponsorship experience
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, this is my first time
+      required: true
+    - id: 16
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      - Invoice (for organizations)
+      required: true
+    - id: 17
+      name: billing_address
+      label: Billing Address
+      hint: If different from business address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tax_id_note
+      label: -- Tax Information --
+      hint: Tax ID may be required for invoice
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: tax_id_number
+      label: Tax ID or EIN Number
+      hint: For business sponsors
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requests
+      label: Any special requests or requirements?
+      hint: Specific needs or questions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_heard_about
+      label: How did you hear about this sponsorship opportunity?
+      hint: Referral source
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Community Bulletin
+      - Word of Mouth
+      - Previous Event
+      - Website
+      - Other
+      required: true
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

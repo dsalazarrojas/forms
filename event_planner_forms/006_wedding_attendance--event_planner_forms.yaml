@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Attendance
+    pages:
+    - id: 1
+      name: wedding_attendance_form
+      label: Wedding Attendance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: people_attending
+      label: People Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: select_one_attendance
+      label: Select One Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: save_paper
+      label: Save Paper
+      hint: Save paper is only needed if you have a physical invitation
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 10
+      name: find_attendees
+      label: Find Attendees
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: save_trees
+      label: Save Trees
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 13
+      name: total_people
+      label: Total People
+      hint: null
+      type: number
+      options: []
+      required: false

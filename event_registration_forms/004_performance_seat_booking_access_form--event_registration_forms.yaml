@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_seat_booking_access_form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: seat_type
+      label: Seat Type
+      hint: null
+      type: select_one
+      options:
+      - Seat 1
+      - Seat 2
+      - Seat 3
+      required: false
+    - id: 4
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: booking_method
+      label: Booking Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Event Registration Forms
+      - Payment Forms
+      - Booking Forms
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater Participation Consent Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent/Guardian Name (if under 18)
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_phone
+      label: Parent/Guardian Phone (if under 18)
+      hint: Contact number for parent or guardian
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participation_type
+      label: What type of participation are you consenting to?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acting in performances
+      - Behind the scenes (crew)
+      - Stage management
+      - Costume design/creation
+      - Set design/construction
+      - Lighting/sound operation
+      - Front of house/ushering
+      - Marketing/publicity
+      - Administrative support
+      - General volunteer
+      required: true
+    - id: 10
+      name: production_interest
+      label: Which production(s) are you interested in?
+      hint: Select your preferences
+      type: select_multiple
+      options:
+      - Spring Musical
+      - Summer Drama Series
+      - Fall Play
+      - Winter Holiday Show
+      - Children's Theater
+      - Workshop Productions
+      - Any Production
+      required: true
+    - id: 11
+      name: availability_schedule
+      label: What is your general availability?
+      hint: When can you participate?
+      type: select_one
+      options:
+      - Weekdays only
+      - Weekends only
+      - Both weekdays and weekends
+      - Evenings only
+      - Flexible schedule
+      required: true
+    - id: 12
+      name: rehearsal_commitment
+      label: I understand rehearsals typically require 8-12 weeks commitment
+      hint: Time commitment acknowledgment
+      type: select_one
+      options:
+      - Yes, I Understand and Commit
+      - No, I Cannot Commit
+      required: true
+    - id: 13
+      name: performance_dates_commitment
+      label: I understand I must be available for all scheduled performances
+      hint: Performance attendance requirement
+      type: select_one
+      options:
+      - Yes, I Understand and Agree
+      - No, I Cannot Guarantee Attendance
+      required: true
+    - id: 14
+      name: section_liability
+      label: -- Liability and Safety --
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assume_risk
+      label: I understand that theater activities involve some physical risk
+      hint: Movement, lifting, stage work
+      type: select_one
+      options:
+      - Yes, I Understand and Accept the Risks
+      - No, I Do Not Accept
+      required: true
+    - id: 16
+      name: follow_safety_rules
+      label: I agree to follow all safety rules and instructions
+      hint: Theater safety protocols
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 17
+      name: report_injuries
+      label: I agree to immediately report any injuries or unsafe conditions
+      hint: Safety communication
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 18
+      name: section_media
+      label: -- Media and Publicity --
+      hint: Photos and recordings
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: consent_photos
+      label: I consent to being photographed during rehearsals and performances
+      hint: For promotional use
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 20
+      name: consent_video
+      label: I consent to being video recorded during rehearsals and performances
+      hint: For archival and promotional use
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 21
+      name: consent_name_use
+      label: I consent to my name being used in programs and publicity materials
+      hint: Cast/crew listings
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 22
+      name: section_conduct
+      label: -- Code of Conduct --
+      hint: Behavioral expectations
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: agree_respectful_behavior
+      label: I agree to treat all participants with respect and professionalism
+      hint: Collaborative environment
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 24
+      name: agree_no_harassment
+      label: I agree to refrain from any form of harassment or discrimination
+      hint: Safe space for all
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: agree_attendance
+      label: I agree to maintain good attendance at rehearsals
+      hint: Commitment to the team
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Cannot Guarantee
+      required: true
+    - id: 26
+      name: medical_conditions
+      label: Are there any medical conditions we should know about?
+      hint: Allergies, physical limitations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: experience_level
+      label: What is your theater experience level?
+      hint: Background in theater
+      type: select_one
+      options:
+      - No experience, eager to learn
+      - Some experience (school, community)
+      - Moderate experience (several productions)
+      - Extensive experience (professional background)
+      required: true
+    - id: 28
+      name: special_skills
+      label: Do you have any special skills relevant to theater?
+      hint: Singing, dancing, instruments, carpentry, etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Grand Rounds Feedback
+    pages:
+    - id: 1
+      name: pharmacy_grand_rounds_feedback_form
+      label: Pharmacy Grand Rounds Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session
+      label: Session
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - I am satisfied
+      - I am not satisfied
+      - I am neutral
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

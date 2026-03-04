@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Fitness Challenge Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: user@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_challenge
+      label: Select a Challenge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: challenge_details
+      label: Challenge Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false

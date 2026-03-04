@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Growth Consulting Summit Registration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting
+      - Startups
+      - Event Planning
+      - Business
+      - Marketing
+      - Finance
+      - Product Design
+      - Technology
+      - Healthcare
+      - Creative
+      required: true
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Valuation Certification Registration Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_affiliation
+      label: Company or Organization
+      hint: Current employer/affiliation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_title
+      label: Professional Title
+      hint: Current job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_years
+      label: Years of Valuation Experience
+      hint: How many years in asset valuation?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_certifications
+      label: Current Certifications
+      hint: Other professional certifications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: specialization_area
+      label: Area of Specialization
+      hint: What types of assets do you focus on?
+      type: select_one
+      options:
+      - Real Estate
+      - Equipment and Machinery
+      - Intangible Assets
+      - Business Valuation
+      - Collections and Fine Art
+      - Intellectual Property
+      - Multiple Areas
+      required: true
+    - id: 10
+      name: certification_level
+      label: Certification Level Sought
+      hint: Which level are you applying for?
+      type: select_one
+      options:
+      - Level 1 - Basics
+      - Level 2 - Intermediate
+      - Level 3 - Advanced
+      - Master Certification
+      required: true
+    - id: 11
+      name: education_background
+      label: Education Background
+      hint: Highest degree earned
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - PhD
+      - Professional Certification
+      required: true
+    - id: 12
+      name: education_field
+      label: Field of Study
+      hint: Academic discipline
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: valuation_tools_knowledge
+      label: Knowledge of Valuation Tools and Software
+      hint: What software are you familiar with?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: motivation_for_certification
+      label: Motivation for Certification
+      hint: Why do you want this certification?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: preferred_training_format
+      label: Preferred Training Format
+      hint: How do you prefer to learn?
+      type: select_one
+      options:
+      - In-person Workshop
+      - Online Course
+      - Hybrid Format
+      - Self-paced
+      required: true
+    - id: 16
+      name: training_schedule_preference
+      label: Training Schedule Preference
+      hint: When would you attend?
+      type: select_one
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      - Flexible
+      required: true
+    - id: 17
+      name: location_preference
+      label: Preferred Training Location
+      hint: Where do you prefer training?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_for_training
+      label: Budget for Certification Training
+      hint: Expected training cost budget
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: employer_sponsorship
+      label: Employer Sponsoring Certification
+      hint: Will employer pay for training?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 20
+      name: professional_references
+      label: Professional References
+      hint: Names and contact info of 2 references
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: code_of_ethics_agreement
+      label: I agree to follow the Code of Ethics
+      hint: Confirmation of ethics agreement
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 22
+      name: continuing_education_commitment
+      label: Commitment to Continuing Education
+      hint: Maintain certification through ongoing learning
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: application_date
+      label: Application Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

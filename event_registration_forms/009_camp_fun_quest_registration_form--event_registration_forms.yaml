@@ -1,0 +1,331 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Fun Quest Registration Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_nickname
+      label: Camper Nickname
+      hint: What they like to be called
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_at_camp
+      label: Age at Start of Camp
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: school_grade
+      label: Current School Grade
+      hint: Grade completed this year
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: Name of school
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_1_name
+      label: Emergency Contact 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_1_phone
+      label: Emergency Contact 1 Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_1_relationship
+      label: Emergency Contact 1 Relationship
+      hint: Relationship to camper
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_2_name
+      label: Emergency Contact 2 Name
+      hint: Optional second contact
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_2_phone
+      label: Emergency Contact 2 Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorized_pickup
+      label: Who Is Authorized to Pick Up Your Camper
+      hint: List all authorized individuals
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions or Health Concerns
+      hint: List any conditions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: allergies
+      label: Allergies
+      hint: Include food, insect, and medication allergies
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: current_medications
+      label: Current Medications
+      hint: List with dosages
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physician_name
+      label: Primary Physician Name
+      hint: Doctor and clinic
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Kosher
+      - Halal
+      - Low sugar
+      - Other
+      required: true
+    - id: 30
+      name: session_selection
+      label: Camp Session Selection
+      hint: Choose your session
+      type: select_one
+      options:
+      - Session 1 - June 15-19
+      - Session 2 - June 22-26
+      - Session 3 - July 6-10
+      - Session 4 - July 13-17
+      - Session 5 - July 20-24
+      - Full Summer - All sessions
+      required: true
+    - id: 31
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Bus service required
+      type: select_one
+      options:
+      - false
+      - Yes - morning only
+      - Yes - afternoon only
+      - Yes - both ways
+      required: true
+    - id: 32
+      name: before_camp_care
+      label: Before Camp Care Needed
+      hint: Early drop-off from 7am-9am
+      type: select_one
+      options:
+      - false
+      - Yes - some days
+      - Yes - all days
+      required: false
+    - id: 33
+      name: after_camp_care
+      label: After Camp Care Needed
+      hint: Late pickup from 4pm-6pm
+      type: select_one
+      options:
+      - false
+      - Yes - some days
+      - Yes - all days
+      required: false
+    - id: 34
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - PayPal
+      - Scholarship or financial aid
+      required: true
+    - id: 35
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For camp shirt
+      type: select_one
+      options:
+      - Youth Small (4-6)
+      - Youth Medium (8-10)
+      - Youth Large (12-14)
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      required: true
+    - id: 36
+      name: photo_release
+      label: Photo Release Permission
+      hint: Can we use photos of your camper
+      type: select_one
+      options:
+      - Yes - I give permission
+      - No - do not use photos
+      required: true
+    - id: 37
+      name: how_heard_about_camp
+      label: How Did You Hear About Camp Fun Quest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School flyer
+      - Friend or family referral
+      - Social media
+      - Website search
+      - Previous attendee
+      - Community event
+      - Local advertisement
+      - Other
+      required: false

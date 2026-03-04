@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bounce House Rental Agreement Form
+    pages:
+    - id: 1
+      name: renter_first_name
+      label: Renter First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_last_name
+      label: Renter Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: renter_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_state
+      label: State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: renter_zip
+      label: ZIP Code
+      hint: Home ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: renter_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: renter_email
+      label: Email Address
+      hint: For rental communications
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: When should equipment be delivered
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: pickup_date
+      label: Pickup Date
+      hint: When should equipment be picked up
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_location
+      label: Event Location Address
+      hint: Complete address where event will be held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: location_type
+      label: Location Type
+      hint: Where will bounce house be set up
+      type: select_one
+      options:
+      - Residential backyard
+      - Residential front yard
+      - Park
+      - School
+      - Church
+      - Community center
+      - Commercial venue
+      - Other
+      required: true
+    - id: 14
+      name: bounce_house_selection
+      label: Bounce House Selection
+      hint: Which inflatable are you renting
+      type: select_one
+      options:
+      - Standard bounce house
+      - Combo unit with slide
+      - Obstacle course
+      - Interactive game
+      - Water slide
+      - Character themed
+      - Castle themed
+      - Other
+      required: true
+    - id: 15
+      name: rental_duration
+      label: Rental Duration
+      hint: How long do you need the rental
+      type: select_one
+      options:
+      - 4 hours
+      - 8 hours (full day)
+      - 2 days
+      - 3 days
+      - Week
+      - Weekend
+      required: true
+    - id: 16
+      name: age_group
+      label: Primary Age Group
+      hint: Age range of children using equipment
+      type: select_one
+      options:
+      - Under 5 years
+      - 5-8 years
+      - 9-12 years
+      - Mixed ages
+      - Teens and adults
+      required: true
+    - id: 17
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: Approximate number of children
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: power_source_available
+      label: Power Source Available
+      hint: Is electrical outlet available at location
+      type: select_one
+      options:
+      - Yes, standard outlet
+      - Yes, 220V outlet
+      - No, need generator
+      - Unsure
+      required: true
+    - id: 19
+      name: setup_space_dimensions
+      label: Setup Space Dimensions
+      hint: Available space for inflatable in feet
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: surface_type
+      label: Surface Type
+      hint: What surface will inflatable be placed on
+      type: select_one
+      options:
+      - Grass
+      - Concrete
+      - Asphalt
+      - Indoor floor
+      - Sand
+      - Dirt
+      required: true
+    - id: 21
+      name: additional_services
+      label: Additional Services
+      hint: Select any add-ons
+      type: select_multiple
+      options:
+      - Attendant service
+      - Generator rental
+      - Extension cords
+      - Tarp for ground protection
+      - Cleaning service
+      - None
+      required: false
+    - id: 22
+      name: total_rental_cost
+      label: Total Rental Cost
+      hint: Total amount to be paid
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Amount of deposit paid
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash
+      - Credit card
+      - Debit card
+      - Check
+      - Online payment
+      required: true
+    - id: 25
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I agree to the liability waiver terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 26
+      name: safety_rules_acknowledged
+      label: Safety Rules Acknowledged
+      hint: I have read and agree to enforce safety rules
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true
+    - id: 27
+      name: damage_responsibility
+      label: Damage Responsibility
+      hint: I understand I am responsible for damages
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 28
+      name: weather_policy
+      label: Weather Policy
+      hint: I understand the weather cancellation policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 29
+      name: renter_signature
+      label: Renter Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: company_representative
+      label: Company Representative
+      hint: Name of company representative
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: company_signature
+      label: Company Signature
+      hint: Company representative signature
+      type: text
+      options: []
+      required: true

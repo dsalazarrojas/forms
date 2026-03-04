@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hotel_reservation_confirmation_verification_form
+    pages:
+    - id: 1
+      name: reservation_confirmation
+      label: Reservation Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Guest full name (First name and last name)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reservation_id
+      label: Reservation ID
+      hint: Reservation ID number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: guest_contact
+      label: Guest Contact Info
+      hint: Guest phone or email
+      type: select_multiple
+      options:
+      - Guest phone
+      - Guest email
+      required: false
+    - id: 7
+      name: hotel_info
+      label: Hotel Information
+      hint: Hotel address or website
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: Please choose a payment method
+      type: select_one
+      options:
+      - Bank
+      - PayPal
+      - Credit card
+      required: false
+    - id: 9
+      name: room_service
+      label: Room Service
+      hint: Room number and bed type
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false

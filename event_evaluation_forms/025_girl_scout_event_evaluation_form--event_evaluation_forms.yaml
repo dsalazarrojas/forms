@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Event Evaluation Form
+    pages:
+    - id: 1
+      name: event_evaluation_form_1
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scout_evaluation_2
+      label: How did you feel about the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scout_evaluation_3
+      label: Would you attend this event again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: scout_evaluation_4
+      label: Why or why not?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: scout_evaluation_5
+      label: How would you rate the event?
+      hint: null
+      type: number
+      options: []
+      required: false

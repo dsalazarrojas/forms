@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unique Experience Feedback Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      - Label 4
+      - Label 5
+      required: true
+    - id: 9
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

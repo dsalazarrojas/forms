@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Trade Fair Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: certificate_option
+      label: certificate option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_option
+      label: payment_option
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false

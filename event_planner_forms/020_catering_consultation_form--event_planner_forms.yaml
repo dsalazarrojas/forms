@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Consultation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultation_date
+      label: Preferred Consultation Date
+      hint: When would you like to consult
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consultation_time
+      label: Preferred Consultation Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: consultation_method
+      label: Consultation Method
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In-Person
+      - Phone Call
+      - Video Call
+      - Email
+      required: true
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Conference
+      - Private Party
+      - Holiday Party
+      - Fundraiser
+      - Other
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: Time of your event
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: venue_name
+      label: Venue Name
+      hint: Where will the event be
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: venue_address
+      label: Venue Address
+      hint: Complete venue address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guest_count_min
+      label: Minimum Guest Count
+      hint: Expected minimum guests
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: guest_count_max
+      label: Maximum Guest Count
+      hint: Expected maximum guests
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget per person
+      type: select_one
+      options:
+      - Under $25
+      - $25 to $50
+      - $50 to $75
+      - $75 to $100
+      - $100 to $150
+      - Over $150
+      required: true
+    - id: 16
+      name: service_style
+      label: Preferred Service Style
+      hint: How would you like food served
+      type: select_one
+      options:
+      - Buffet
+      - Plated Dinner
+      - Family Style
+      - Cocktail Reception
+      - Food Stations
+      - Food Truck
+      - Not Sure
+      required: false
+    - id: 17
+      name: cuisine_preferences
+      label: Cuisine Preferences
+      hint: What type of food do you prefer
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: alcohol_service
+      label: Alcohol Service Needed
+      hint: Do you need bar service
+      type: select_one
+      options:
+      - Yes - Full Bar
+      - Yes - Beer and Wine Only
+      - false
+      - Unsure
+      required: false
+    - id: 20
+      name: rental_needs
+      label: Rental Needs
+      hint: Do you need rentals
+      type: select_multiple
+      options:
+      - Tables
+      - Chairs
+      - Linens
+      - China
+      - Silverware
+      - Glassware
+      - None
+      required: false
+    - id: 21
+      name: previous_caterer
+      label: Have You Used a Caterer Before
+      hint: Previous catering experience
+      type: select_one
+      options:
+      - Yes - Multiple Times
+      - Yes - Once
+      - No - First Time
+      required: false
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Wedding Show
+      - Other
+      required: false
+    - id: 23
+      name: questions_concerns
+      label: Questions or Concerns
+      hint: What would you like to discuss
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

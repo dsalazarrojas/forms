@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facilities Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_chairs
+      label: Number of Chairs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: number_of_tables
+      label: Number of Tables
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tech_arts_request_link
+      label: External Form Link
+      hint: null
+      type: select_one
+      options:
+      - Tech Arts Request Form
+      - Other
+      required: true
+    - id: 14
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

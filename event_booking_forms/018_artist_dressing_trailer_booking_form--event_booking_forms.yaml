@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Dressing Trailer Booking Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Manager, tour coordinator, etc.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event or Tour Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: Event Location or City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: setup_date
+      label: Trailer Setup Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: trailer_size
+      label: Trailer Size Required
+      hint: null
+      type: select_one
+      options:
+      - Small - 20ft
+      - Medium - 35ft
+      - Large - 40ft
+      - Luxury Suite
+      - Custom Size
+      required: true
+    - id: 11
+      name: number_of_rooms
+      label: Number of Rooms or Sections
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: personnel_count
+      label: Expected Number of Personnel
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: amenities_needed
+      label: Amenities Required
+      hint: null
+      type: select_multiple
+      options:
+      - Restroom Facilities
+      - Shower
+      - Kitchen
+      - Climate Control
+      - Entertainment System
+      - Lounging Area
+      required: false
+    - id: 14
+      name: parking_access
+      label: Parking Access Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: power_utilities
+      label: Power and Utilities Required
+      hint: null
+      type: select_multiple
+      options:
+      - Full Electrical
+      - Water
+      - Sewer
+      - Internet
+      - Satellite TV
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests or Customizations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: return_date
+      label: Estimated Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: insurance_certificate
+      label: Insurance Certificate Provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - To Be Provided
+      - Not Applicable
+      required: false

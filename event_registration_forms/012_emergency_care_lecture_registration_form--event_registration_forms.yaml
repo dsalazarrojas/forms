@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_care_lecture_registration_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip_postal_code
+      label: Zip/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online Payment Gateway''}'
+      - '{''id'': 2, ''name'': ''In-person Payment''}'
+      required: true
+    - id: 19
+      name: payment_transaction_id
+      label: Payment Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''Declined''}'
+      required: true
+    - id: 22
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Approved''}'
+      - '{''id'': 2, ''name'': ''Declined''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Podcast Registration Form
+    pages:
+    - id: 1
+      name: podcast_intro_note
+      label: -- Community Podcast Guest Application --
+      hint: We are always looking for voices that reflect our vibrant community!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_professional_title
+      label: Organization or Professional Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: podcast_topic_proposal
+      label: Proposed Podcast Topic
+      hint: Briefly describe what you would like to talk about.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guest_background_summary
+      label: Brief Summary of Your Background
+      hint: What makes you an expert or a relevant voice on this topic?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: previous_podcast_check
+      label: Have you appeared on a podcast before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: previous_episode_link
+      label: Link to a Previous Episode
+      hint: If yes - please provide a URL to one of your previous guest spots.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: unique_perspective_statement
+      label: What unique perspective can you bring to the community?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recording_availability_days
+      label: Availability for Recording
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 12
+      name: recording_equipment_check
+      label: Do you have your own high-quality recording equipment?
+      hint: Mic - Headphones - etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: recording_format_preference
+      label: Recording Format Preference
+      hint: null
+      type: select_one
+      options:
+      - In-person at our studio
+      - Remote recording
+      - Either
+      required: true
+    - id: 14
+      name: online_presence_links
+      label: Website or Social Media Links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recording_policy_note
+      label: -- Release and Recording Policy --
+      hint: By submitting - you agree to our standard media release and podcast distribution
+        policy.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: application_submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

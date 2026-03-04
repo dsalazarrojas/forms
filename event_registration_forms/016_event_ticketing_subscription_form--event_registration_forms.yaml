@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Event Ticketing Subscription Form
+    pages:
+    - id: 1
+      name: event_ticketing_subscription_form
+      label: Event Ticketing Subscription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_ticketing_form_goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_ticketing_form_input_fields
+      label: Input Fields
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''payment_gateway'', ''label'': ''Payment Gateway'',
+        ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''payment_gateway'',
+        ''label'': ''Payment Gateway''}, {''id'': 2, ''name'': ''email_gateway'',
+        ''label'': ''Email Gateway''}, {''id'': 3, ''name'': ''other_gateway'', ''label'':
+        ''Other''}]}'
+      - '{''id'': 2, ''name'': ''payment_method'', ''label'': ''Payment Method'',
+        ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''card'', ''label'':
+        ''Card''}, {''id'': 2, ''name'': ''bank'', ''label'': ''Bank''}, {''id'':
+        3, ''name'': ''cash'', ''label'': ''Cash''}]}'
+      - '{''id'': 3, ''name'': ''event_info'', ''label'': ''Event Info'', ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 4, ''name'': ''time'', ''label'': ''Time'', ''type'': ''time'',
+        ''options'': []}'
+      - '{''id'': 5, ''name'': ''date'', ''label'': ''Date'', ''type'': ''date'',
+        ''options'': []}'
+      - '{''id'': 6, ''name'': ''event_date'', ''label'': ''Event Date'', ''type'':
+        ''date'', ''options'': []}'
+      - '{''id'': 7, ''name'': ''time_in'', ''label'': ''Time In'', ''type'': ''time'',
+        ''options'': []}'
+      - '{''id'': 8, ''name'': ''time_out'', ''label'': ''Time Out'', ''type'': ''time'',
+        ''options'': []}'
+      - '{''id'': 9, ''name'': ''time_zone'', ''label'': ''Time Zone'', ''type'':
+        ''select_one'', ''options'': [{''id'': 1, ''name'': ''america_los_angeles'',
+        ''label'': ''America/Los Angeles''}, {''id'': 2, ''name'': ''asia_tokyo'',
+        ''label'': ''Asia/Tokyo''}, {''id'': 3, ''name'': ''europe_london'', ''label'':
+        ''Europe/London''}]}'
+      - '{''id'': 10, ''name'': ''timezone'', ''label'': ''Timezone'', ''type'': ''select_one'',
+        ''options'': [{''id'': 1, ''name'': ''america_los_angeles'', ''label'': ''America/Los
+        Angeles'', ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''los_angeles'',
+        ''label'': ''Los Angeles''}, {''id'': 2, ''name'': ''new_york'', ''label'':
+        ''New York''}]}, {''id'': 2, ''name'': ''asia_tokyo'', ''label'': ''Asia/Tokyo'',
+        ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''tokyo'', ''label'':
+        ''Tokyo''}, {''id'': 2, ''name'': ''seoul'', ''label'': ''Seoul''}]}, {''id'':
+        3, ''name'': ''europe_london'', ''label'': ''Europe/London'', ''type'': ''select_one'',
+        ''options'': [{''id'': 1, ''name'': ''london'', ''label'': ''London''}, {''id'':
+        2, ''name'': ''paris'', ''label'': ''Paris''}]}]}'
+      - '{''id'': 11, ''name'': ''payment_method'', ''label'': ''Payment Method'',
+        ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''card'', ''label'':
+        ''Card''}, {''id'': 2, ''name'': ''bank'', ''label'': ''Bank''}, {''id'':
+        3, ''name'': ''cash'', ''label'': ''Cash''}]}'
+      - '{''id'': 12, ''name'': ''currency'', ''label'': ''Currency'', ''type'': ''select_one'',
+        ''options'': [{''id'': 1, ''name'': ''usd'', ''label'': ''USD''}, {''id'':
+        2, ''name'': ''eur'', ''label'': ''EUR''}, {''id'': 3, ''name'': ''jpy'',
+        ''label'': ''JPY''}]}'
+      - '{''id'': 13, ''name'': ''amount'', ''label'': ''Amount'', ''type'': ''integer'',
+        ''options'': []}'
+      - '{''id'': 14, ''name'': ''discount'', ''label'': ''Discount'', ''type'': ''integer'',
+        ''options'': []}'
+      - '{''id'': 15, ''name'': ''event_type'', ''label'': ''Event Type'', ''type'':
+        ''select_one'', ''options'': [{''id'': 1, ''name'': ''in_person'', ''label'':
+        ''In Person''}, {''id'': 2, ''name'': ''online'', ''label'': ''Online''},
+        {''id'': 3, ''name'': ''offline'', ''label'': ''Offline''}]}'
+      - '{''id'': 16, ''name'': ''location'', ''label'': ''Location'', ''type'': ''select_one'',
+        ''options'': [{''id'': 1, ''name'': ''event_ticketing_form_location'', ''label'':
+        ''Event Location''}, {''id'': 2, ''name'': ''event_ticketing_form_location_2'',
+        ''label'': ''Location 2''}, {''id'': 3, ''name'': ''event_ticketing_form_location_3'',
+        ''label'': ''Event Location 3''}]}'
+      required: false

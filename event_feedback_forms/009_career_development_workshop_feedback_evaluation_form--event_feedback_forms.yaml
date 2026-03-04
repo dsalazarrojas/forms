@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Development Workshop Feedback Evaluation Form
+    pages:
+      - id: 1
+        name: workshop_name
+        label: Workshop Title
+        hint: Name of the career development workshop attended
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: workshop_date
+        label: Workshop Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: participant_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: department_company
+        label: Department or Company
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: attendee_type
+        label: Type of Attendee
+        hint: Select your status
+        type: select_one
+        options:
+          - Employee
+          - Manager or Supervisor
+          - HR Professional
+          - Career Counselor
+          - Student
+          - Other
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Workshop Satisfaction
+        hint: How satisfied were you with the workshop?
+        type: select_one
+        options:
+          - Extremely Satisfied
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+        required: true
+      - id: 8
+        name: content_relevance
+        label: Relevance of Content to Your Needs
+        hint: How relevant was the material to your career goals?
+        type: select_one
+        options:
+          - Highly Relevant
+          - Relevant
+          - Somewhat Relevant
+          - Not Very Relevant
+          - Not Relevant
+        required: true
+      - id: 9
+        name: presenter_effectiveness
+        label: Effectiveness of Presenter(s)
+        hint: Rate the quality of instruction and delivery
+        type: select_one
+        options:
+          - Excellent - Very engaging and knowledgeable
+          - Good - Clear and informative
+          - Acceptable - Adequate information
+          - Fair - Some issues with delivery
+          - Poor - Not effective
+        required: true
+      - id: 10
+        name: workshop_length
+        label: Workshop Duration
+        hint: Was the length appropriate?
+        type: select_one
+        options:
+          - Too short - needed more time
+          - About right
+          - Too long - could have been shorter
+        required: true
+      - id: 11
+        name: pacing_difficulty
+        label: Pacing and Difficulty Level
+        hint: Was the content pace appropriate?
+        type: select_one
+        options:
+          - Too basic - wanted more advanced content
+          - Just right
+          - Too advanced - wanted more basic content
+        required: true
+      - id: 12
+        name: learning_objectives
+        label: Were Learning Objectives Clear?
+        hint: Did you understand what the workshop aimed to teach?
+        type: select_one
+        options:
+          - "Yes - very clear"
+          - "Somewhat - mostly clear"
+          - "No - unclear"
+        required: true
+      - id: 13
+        name: practical_application
+        label: Practical Application and Tools Provided
+        hint: Can you apply what you learned in your career?
+        type: select_one
+        options:
+          - Highly applicable - useful tools and strategies
+          - Applicable - some useful content
+          - Somewhat applicable - limited use
+          - Not applicable - limited practical value
+        required: true
+      - id: 14
+        name: resources_provided
+        label: Quality of Materials and Resources
+        hint: Handouts, slides, templates, etc.
+        type: select_one
+        options:
+          - Excellent - comprehensive and useful
+          - Good - helpful resources provided
+          - Acceptable - adequate materials
+          - Fair - limited resources
+          - Poor - inadequate materials
+        required: true
+      - id: 15
+        name: key_learnings
+        label: Key Learnings or Takeaways
+        hint: What was most valuable to you?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: application_plans
+        label: How Will You Apply This Learning?
+        hint: Describe specific ways you'll use what you learned
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: networking_value
+        label: Networking Opportunities
+        hint: Did you have good chances to connect with others?
+        type: select_one
+        options:
+          - Excellent - good networking opportunities
+          - Good - some interaction
+          - Acceptable - limited interaction
+          - Poor - few opportunities
+          - None - no networking time
+        required: false
+      - id: 18
+        name: improvements
+        label: Suggestions for Improvement
+        hint: What could the organizers have done better?
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: future_topics
+        label: Topics for Future Workshops
+        hint: What career development topics interest you?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: would_attend_again
+        label: Would You Attend Another Workshop Like This?
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: would_recommend
+        label: Would You Recommend to Colleagues?
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 22
+        name: additional_feedback
+        label: Additional Comments or Feedback
+        hint: Any other thoughts about the workshop?
+        type: text
+        options: []
+        required: false

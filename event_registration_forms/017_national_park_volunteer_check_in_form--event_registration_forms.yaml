@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Park Volunteer Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Morning''}'
+      - '{''id'': 2, ''name'': ''Afternoon''}'
+      - '{''id'': 3, ''name'': ''Evening''}'
+      required: false
+    - id: 6
+      name: volunteer_group
+      label: Volunteer Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Group A''}'
+      - '{''id'': 2, ''name'': ''Group B''}'
+      - '{''id'': 3, ''name'': ''Group C''}'
+      required: false
+    - id: 7
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Park Ranger''}'
+      - '{''id'': 2, ''name'': ''Park Ambassador''}'
+      - '{''id'': 3, ''name'': ''Support Staff''}'
+      required: false
+    - id: 8
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_id
+      label: Volunteer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 17
+      name: checked_out
+      label: Checked Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: checked_out_by
+      label: Checked Out By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Smith''}'
+      - '{''id'': 2, ''name'': ''Jane Brown''}'
+      required: false
+    - id: 19
+      name: checked_out_by_name
+      label: Checked Out By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: checked_out_time
+      label: Checked Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: checked_out_location
+      label: Checked Out Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Location A''}'
+      - '{''id'': 2, ''name'': ''Location B''}'
+      required: false
+    - id: 22
+      name: check_out_location
+      label: Check Out Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Location A''}'
+      - '{''id'': 2, ''name'': ''Location B''}'
+      - '{''id'': 3, ''name'': ''Location C''}'
+      required: false
+    - id: 23
+      name: check_out_location_name
+      label: Check Out Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false

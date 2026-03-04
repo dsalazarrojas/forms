@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retreat Form
+    pages:
+    - id: 1
+      name: staff_attendance
+      label: staff_attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: staff_attendance_1
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: staff_attendance_2
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: staff_attendance_3
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_details
+      label: event_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: event_details_1
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_details_2
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_details_3
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_details_4
+      label: event_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_details_5
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_details_6
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_details_7
+      label: event_details_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_details_8
+      label: event_details_8
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: event_details_9
+      label: event_details_9
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

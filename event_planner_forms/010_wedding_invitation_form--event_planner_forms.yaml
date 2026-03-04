@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Invitation Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: wedding_details
+      label: Wedding Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_time
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guests_details
+      label: Guests Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reception_info
+      label: Reception Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wedding_theme
+      label: Wedding Theme
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: music_preferences
+      label: Music Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: dress_code
+      label: Dress Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: photo_info
+      label: Photo Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Speaker Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Speaker Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person responsible for speaker arrangements
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: Contact for scheduling and logistics
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization requesting speaker
+      hint: Event organizer or host
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event date
+      hint: Date the speaker is requested to attend
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_topics
+      label: Preferred topics
+      hint: Select all relevant topics for the session
+      type: select_multiple
+      options:
+      - Artificial intelligence
+      - Leadership and management
+      - Sustainability
+      - Diversity and inclusion
+      - Product and design
+      required: false
+    - id: 7
+      name: audience_size
+      label: Estimated audience size
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: honorarium_offered
+      label: Honorarium offered
+      hint: Enter amount in local currency
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_covered
+      label: Travel expenses covered
+      hint: Select whether travel is provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: lodging_provided
+      label: Lodging provided
+      hint: Select whether accommodation is provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: session_format
+      label: Session format
+      hint: Choose the preferred session delivery format
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 12
+      name: materials_deadline
+      label: Materials deadline
+      hint: Date by which slides or materials are due
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Onsite contact person
+      hint: Name and phone of day of event contact
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any other details for the speaker
+      type: text
+      options: []
+      required: false

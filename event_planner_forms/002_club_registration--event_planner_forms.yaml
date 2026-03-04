@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Registration
+    pages:
+    - id: 1
+      name: section_basic_info
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: club_name
+      label: Club Name
+      hint: Name of the club you wish to join or register
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_membership
+      label: -- Membership Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: membership_duration
+      label: Membership Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      required: true
+    - id: 9
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - New Member
+      - Renewal
+      - Upgrade
+      required: true
+    - id: 10
+      name: section_events
+      label: -- Events and Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: interested_activities
+      label: Interested in Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social gatherings
+      - Sports activities
+      - Educational seminars
+      - Volunteer opportunities
+      - Networking events
+      required: false
+    - id: 12
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: membership_fee
+      label: Total Membership Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      required: true
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Payment Plan
+      required: true
+    - id: 16
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: agree_terms
+      label: I agree to the club terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

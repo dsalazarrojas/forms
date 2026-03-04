@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: literary_festival_author_reading_voting_form
+    pages:
+    - id: 1
+      name: festival_name
+      label: Festival Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: author_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating_1_to_5
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rating_10_to_100
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: favorite_book
+      label: favorite_book
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

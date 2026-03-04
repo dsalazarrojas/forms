@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Printing Quantity Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Ticket Printing Quantity Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 3
+      name: ticket_type_other
+      label: Ticket Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: print_run
+      label: Print Run
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: print_run
+      label: Print Run
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_printed
+      label: Total Printed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quantity_printed
+      label: Quantity Printed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: ticket_type_other_value
+      label: Ticket Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: print_method
+      label: Print Method
+      hint: null
+      type: select_multiple
+      options:
+      - Print
+      - Email
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 16
+      name: submitted_by_other
+      label: Submitted by Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_value
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: form_title_other
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: print_method_other
+      label: Print Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: print_method
+      label: Print Method
+      hint: null
+      type: select_multiple
+      options:
+      - Print
+      - Email
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false

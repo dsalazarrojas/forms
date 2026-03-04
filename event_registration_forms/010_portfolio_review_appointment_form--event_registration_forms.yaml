@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portfolio Review Appointment Form
+    pages:
+    - id: 1
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Event Type
+      - Meeting
+      - Call
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_details
+      label: review_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_timeframe
+      label: event_timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

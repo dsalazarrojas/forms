@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent Waiver For Local Trips
+    pages:
+    - id: 1
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: trip_times
+      label: Trip Times
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guardian_details
+      label: Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: waiver_text
+      label: Waiver Text
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: guardian_signature
+      label: Guardian Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

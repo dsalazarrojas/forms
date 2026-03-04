@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Day Participation Form
+    pages:
+    - id: 1
+      name: event_header
+      label: -- Casual Day Event Registration --
+      hint: Welcome to our themed casual day signup
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: For confirmation and reminders
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participation_date
+      label: Date of Casual Day
+      hint: Select the Friday you will be participating
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: theme_selection
+      label: Preferred Theme for Future Casual Days
+      hint: Help us choose the next theme
+      type: select_one
+      options:
+      - Tropical/Hawaiian
+      - 80s/90s Retro
+      - Favorite Sports Team
+      - Superhero/Sci-Fi
+      - Pajama Day
+      - Color Day
+      required: true
+    - id: 8
+      name: section_donations
+      label: -- Participation and Donation --
+      hint: Many casual days support local charities
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: donation_amount
+      label: Recommended Donation Amount
+      hint: null
+      type: select_one
+      options:
+      - $2 - Standard
+      - $5 - Supporter
+      - $10 - Champion
+      - Other Amount
+      required: true
+    - id: 10
+      name: payment_method
+      label: How will you be paying
+      hint: null
+      type: select_one
+      options:
+      - Cash to HR on the day
+      - Payroll Deduction
+      - Online Portal Payment
+      required: true
+    - id: 11
+      name: lunch_inclusion
+      label: Will you be joining for the community lunch
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: If attending lunch
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - Dairy Free
+      - Nut Allergy
+      - Halal
+      required: false
+    - id: 13
+      name: guidelines_acknowledgment
+      label: I acknowledge the workplace safety and dress code guidelines
+      hint: Casual day attire must still be appropriate and safe
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true

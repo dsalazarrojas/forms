@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vote Exam Date Flat Color
+    pages:
+    - id: 1
+      name: vote_exam_date_flat_color_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: vote_exam_date_flat_color_color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Red''}'
+      - '{''id'': 2, ''label'': ''Blue''}'
+      - '{''id'': 3, ''label'': ''Green''}'
+      required: false
+    - id: 3
+      name: vote_exam_date_flat_color_majority_choice
+      label: Majority Choice
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Red''}'
+      - '{''id'': 2, ''label'': ''Blue''}'
+      - '{''id'': 3, ''label'': ''Green''}'
+      required: false
+    - id: 4
+      name: vote_exam_date_flat_color_majority_percentage
+      label: Majority Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vote_exam_date_flat_color_majority_percentage_percentage
+      label: Percentage
+      hint: Percentage between 0 and 1
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vote_exam_date_flat_color_form_background_color
+      label: Form Background Color
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Flat''}'
+      - '{''id'': 2, ''label'': ''Colorful''}'
+      required: false
+    - id: 7
+      name: vote_exam_date_flat_color_background_image
+      label: Background Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vote_exam_date_flat_color_background_repeat
+      label: Background Repeat
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: vote_exam_date_flat_color_background_position
+      label: Background Position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Center''}'
+      - '{''id'': 2, ''label'': ''Top Left''}'
+      - '{''id'': 3, ''label'': ''Bottom Right''}'
+      required: false
+    - id: 10
+      name: vote_exam_date_flat_color_background_size
+      label: Background Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''10%''}'
+      - '{''id'': 2, ''label'': ''50%''}'
+      - '{''id'': 3, ''label'': ''100%''}'
+      required: false

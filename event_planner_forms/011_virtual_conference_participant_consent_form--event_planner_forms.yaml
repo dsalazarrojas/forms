@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Conference Participant Consent Form
+    pages:
+    - id: 1
+      name: virtual_conference_participant_consent_form_1
+      label: I am the legal guardian of the child participating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: virtual_conference_participant_consent
+      label: Virtual Conference Participant Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: virtual_conference_participant_consent_2
+      label: I am aware of the risks associated with virtual conferencing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parental_consent
+      label: Parental Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that this project will help us better understand how children
+        learn at home
+      - I understand that virtual conferencing may cause eye strain
+      - I understand that I will be contacted if the child is not able to participate
+        or has technical issues
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Other
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

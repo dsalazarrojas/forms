@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Application Form
+    pages:
+      - id: 1
+        name: applicant_name
+        label: Applicant name
+        hint: Full name of applicant
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: organization
+        label: Organization
+        hint: Affiliated organization or company
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email address
+        hint: For application correspondence
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: application_type
+        label: Application type
+        hint: Speaker, exhibitor, or attendee
+        type: select_one
+        options:
+          - Speaker
+          - Exhibitor
+          - Sponsor
+          - Attendee
+        required: true
+      - id: 5
+        name: session_title
+        label: Session title
+        hint: Required if applying as speaker
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: abstract
+        label: Abstract or proposal summary
+        hint: Brief description of proposed session
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: technical_requirements
+        label: Technical requirements
+        hint: AV or staging needs
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: references
+        label: References or past presentations
+        hint: Links or list of past talks
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: agreement_terms
+        label: Agreement terms and conditions
+        hint: Read only terms of submission
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: submission_reference
+        label: Submission reference
+        hint: Application ID generated after submission
+        type: text
+        options: []
+        required: false

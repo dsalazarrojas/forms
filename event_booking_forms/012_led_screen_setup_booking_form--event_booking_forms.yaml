@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: LED Screen Setup Booking Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: setup_type
+      label: Setup Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: setup_size
+      label: Setup Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: setup_location
+      label: Setup Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: setup_date
+      label: Setup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: setup_time
+      label: Setup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: setup_duration
+      label: Setup Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: setup_status_prophets
+      label: Setup Status prophets
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: setup_status
+      label: Setup Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: setup_notes
+      label: Setup Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: review_score
+      label: Review Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: review_comment
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

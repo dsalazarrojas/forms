@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heart Health Seminar Registration
+    pages:
+    - id: 1
+      name: event_title
+      label: Heart Health Seminar Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic
+      - Nonprofit
+      - Wellness Program
+      required: true
+    - id: 3
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: Please give your consent for us to contact you.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: preference
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

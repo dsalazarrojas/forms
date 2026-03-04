@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Festival Organizer Nomination Form
+    pages:
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email_addr
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organizer_details_header
+      label: -- Organizer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: organizer_name_text
+      label: Organizer Full Name
+      hint: The individual being nominated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_org_name
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: main_festivals_list
+      label: Main Festival or Festivals Organized
+      hint: List the primary events managed by this individual
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_experience_range
+      label: Years in Festival Organization
+      hint: Approximate duration in the industry
+      type: select_one
+      options:
+      - 1 to 5 years
+      - 6 to 10 years
+      - 11 to 20 years
+      - Over 20 years
+      required: true
+    - id: 9
+      name: performance_metrics_header
+      label: -- Performance and Leadership Metrics --
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: safety_management_rating
+      label: Safety and Security Management
+      hint: Effectiveness in risk mitigation
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 11
+      name: vendor_coordination_rating
+      label: Vendor and Logistics Coordination
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 12
+      name: marketing_strategy_rating
+      label: Marketing and Promotion Strategy
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 13
+      name: financial_management_rating
+      label: Financial Management and Budgeting
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 14
+      name: leadership_rating
+      label: Staff and Volunteer Leadership
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 15
+      name: nomination_narrative_header
+      label: -- Nomination Narrative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: challenge_overcome_desc
+      label: Describe a specific challenge this organizer successfully overcame
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: innovation_impact_desc
+      label: What innovation has this organizer brought to the industry
+      hint: New technologies, processes, or concepts
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: leadership_justification
+      label: Why is this organizer a leader in their field
+      hint: Summarize their overall contribution
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: verification_contact_header
+      label: -- Professional Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reference_name_text
+      label: Professional Reference Name
+      hint: Someone who can confirm the nominee's achievements
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: reference_contact_number
+      label: Reference Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submission_final_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Appointment Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: wedding_time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJim
+      - ChatJimmy
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Couple
+      - Service Provider
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

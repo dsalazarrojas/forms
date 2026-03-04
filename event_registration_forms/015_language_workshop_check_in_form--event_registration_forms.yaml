@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: event_id
+      label: Event ID
+      hint: <text>
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: <text>
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: <text>
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: <text>
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_type
+      label: Session Type
+      hint: <text>
+      type: select_one
+      options:
+      - English
+      - French
+      required: false
+    - id: 6
+      name: session_id
+      label: Session ID
+      hint: <text>
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: workshop_questions
+      label: Workshop Questions
+      hint: <text>
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_notes
+      label: Participant Notes
+      hint: <text>
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: workshop_questions_2
+      label: Workshop Questions 2
+      hint: <text>
+      type: note
+      options: []
+      required: false

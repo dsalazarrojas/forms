@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Awards Nomination 1 Responsive
+    pages:
+      - id: 1
+        name: nominator_name
+        label: Your Name
+        hint: Full name of the person making the nomination
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: nominator_email
+        label: Your Email Address
+        hint: We will contact you at this email if needed
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization_name
+        label: Organization or Department Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: nominee_name
+        label: Nominee's Full Name
+        hint: Name of the person you are nominating
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: nominee_title
+        label: Nominee's Job Title or Position
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: nominee_contact
+        label: Nominee's Contact Information
+        hint: Email or phone number
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: award_category
+        label: Award Category
+        hint: Select the award category you are nominating for
+        type: select_one
+        options:
+          - Excellence in Service
+          - Innovation Award
+          - Leadership Award
+          - Team Player
+          - Customer Service Excellence
+          - Volunteer of the Year
+          - Rising Star
+          - Lifetime Achievement
+        required: true
+      - id: 8
+        name: nomination_reason
+        label: Why are you nominating this person?
+        hint: Provide specific examples and achievements
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: key_accomplishment_1
+        label: Key Accomplishment 1
+        hint: Describe a specific achievement or contribution
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: key_accomplishment_2
+        label: Key Accomplishment 2
+        hint: Optional - describe another key achievement
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: impact_description
+        label: What is the impact of their work?
+        hint: How have they made a difference?
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: qualities_demonstrated
+        label: What qualities make them stand out?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Integrity
+          - Dedication
+          - Teamwork
+          - Innovation
+          - Compassion
+          - Leadership
+          - Reliability
+          - Creativity
+        required: false
+      - id: 13
+        name: nomination_date
+        label: Nomination Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: additional_references
+        label: Do you have additional references we can contact?
+        hint: Optional - provide names and contact info
+        type: text
+        options: []
+        required: false

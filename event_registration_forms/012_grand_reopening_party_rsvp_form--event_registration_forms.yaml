@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grand Reopening Party RSVP Form
+    pages:
+    - id: 1
+      name: grand_reopening_party_rsvp_form
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_first_name
+      label: First Name
+      hint: Please enter first name.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Email
+      hint: Please enter a valid email.
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guest_message
+      label: RSVP Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: party_attendees
+      label: Party Attendees
+      hint: null
+      type: select_one
+      options:
+      - Me and my family
+      - Just me
+      - Me and my partner
+      - My friends
+      required: true
+    - id: 11
+      name: rsvp_message
+      label: RSVP Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Veggie
+      - None
+      required: true
+    - id: 14
+      name: drink_preferences
+      label: Drink Preferences
+      hint: null
+      type: select_one
+      options:
+      - Soda
+      - Juice
+      - Water
+      - Beer
+      - None
+      required: true
+    - id: 15
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Music
+      - Dance
+      - Food
+      - Movie Night
+      - Game Night
+      required: true
+    - id: 17
+      name: rsvp_type
+      label: RSVP Type
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Declined
+      - Maybe Attending
+      required: true
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - None
+      required: false
+    - id: 21
+      name: dietary_restrictions_2
+      label: Dietary Restrictions 2
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - None
+      required: false
+    - id: 22
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: food_special_requests
+      label: Food Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_request_2
+      label: Special Request 2
+      hint: null
+      type: text
+      options: []
+      required: false

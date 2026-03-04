@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Rock Background
+    pages:
+    - id: 1
+      name: greeting
+      label: Get In Touch
+      hint: Send us a message and we will respond
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Valid email for response
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What type of event are you planning
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Conference
+      - Private Party
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is your event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: guest_count
+      label: Expected Guest Count
+      hint: Approximate number of guests
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: venue_preference
+      label: Venue Preference
+      hint: Do you have a venue
+      type: select_one
+      options:
+      - Need Venue Recommendations
+      - Have Venue Already
+      - Undecided
+      required: true
+    - id: 9
+      name: services_needed
+      label: Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full Event Planning
+      - Day-of Coordination
+      - Catering
+      - Entertainment
+      - Decorations
+      - Photography
+      required: true
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Under $5000
+      - $5000-$10000
+      - $10000-$25000
+      - $25000-$50000
+      - Over $50000
+      required: true
+    - id: 11
+      name: message
+      label: Message
+      hint: Tell us about your event
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: referral
+      label: How Did You Find Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Friend Referral
+      - Previous Event
+      - Advertisement
+      - Other
+      required: false

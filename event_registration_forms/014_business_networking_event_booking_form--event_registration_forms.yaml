@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Networking Event Booking Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Services
+      - Education
+      - Non-profit
+      - Government
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (251-1000)
+      - Enterprise (1000+)
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: Which networking event are you attending?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: How many people will be attending?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: networking_goals
+      label: Networking Goals
+      hint: What are you hoping to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_connections
+      label: Types of Connections You Seek
+      hint: What types of professionals or companies?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_dietary_needs
+      label: Dietary Requirements
+      hint: Any special dietary needs?
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accessibility accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prior_attendance
+      label: Have you attended our events before?
+      hint: Previous attendance at similar events
+      type: select_one
+      options:
+      - true
+      - false
+      - First Time
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for registration?
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - On-site Payment
+      - Free Registration
+      required: false
+    - id: 17
+      name: registration_fee
+      label: Registration Fee Amount
+      hint: Event registration fee in USD
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: terms_acceptance
+      label: I accept the event terms and conditions
+      hint: Accept to complete registration
+      type: select_one
+      options:
+      - Yes, I Accept
+      - false
+      required: true
+    - id: 19
+      name: additional_requests
+      label: Additional Requests
+      hint: Any other information or requests?
+      type: text
+      options: []
+      required: false

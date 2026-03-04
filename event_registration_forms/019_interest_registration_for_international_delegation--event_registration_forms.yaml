@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interest Registration For International Delegation
+    pages:
+    - id: 1
+      name: event_name_sn
+      label: event-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_sn
+      label: participant-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_sn
+      label: participant-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number_sn
+      label: participant-contact-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: country_sn
+      label: participant-country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_sn
+      label: participant-organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delegation_sn
+      label: participant-delegation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: language_sn
+      label: participant-language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reason_sn
+      label: participant-reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_reason_sn
+      label: participant-other-reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments_sn
+      label: participant-comments
+      hint: null
+      type: text
+      options: []
+      required: false

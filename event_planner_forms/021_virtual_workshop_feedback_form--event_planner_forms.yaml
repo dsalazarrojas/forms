@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Workshop Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_attended
+      label: Which workshop have you attended?
+      hint: null
+      type: select_one
+      options:
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rate this workshop
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_label
+      label: How would you rate this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rating_date
+      label: Rate this workshop on the date it was held
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: workshop_rating
+      label: Workshop Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: workshop_rating_label
+      label: How would you rate this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 14
+      name: date_workshop
+      label: Date of the workshop
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_workshop
+      label: Time of the workshop
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: workshop_date
+      label: Which date did you attend the workshop?
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 17
+      name: workshop_time
+      label: At what time of day?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 18
+      name: workshop_location
+      label: Where was the workshop held?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: workshop_type
+      label: What type of workshop was it?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 20
+      name: workshop_duration
+      label: How long was the workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: workshop_attended_before
+      label: Have you attended this workshop before?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: workshop_recommended
+      label: Would you recommend this workshop?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: workshop_attended_others
+      label: Have you attended any other workshops?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: workshop_next_workshop
+      label: When would you like to attend the next workshop?
+      hint: null
+      type: select_one
+      options:
+      - This week
+      - Next week
+      - Sometime in the future
+      required: false
+    - id: 25
+      name: workshop_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

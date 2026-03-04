@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: ocean_experience_feedback_survey
+    pages:
+    - id: 1
+      name: tour_operator
+      label: Who was your tour guide?
+      hint: null
+      type: select_one
+      options:
+      - Operator 1
+      - Operator 2
+      - Operator 3
+      required: false
+    - id: 2
+      name: tour_date
+      label: When did you take the tour?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tour_time
+      label: What time did you take the tour?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: What did you like most about the tour?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_comment
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - a
+      - b
+      - c
+      required: false
+    - id: 9
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - d
+      - e
+      - f
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false

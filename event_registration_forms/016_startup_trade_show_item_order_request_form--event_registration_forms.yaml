@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Trade Show Item Order Request Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_requests
+      label: Item Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 3
+      name: scheduled_delivery
+      label: Scheduled Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: item_notes
+      label: Item Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: item_request_list
+      label: Item Request List
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - Other
+      required: false
+    - id: 11
+      name: event_details_notes
+      label: Event Details Notes
+      hint: null
+      type: text
+      options: []
+      required: false

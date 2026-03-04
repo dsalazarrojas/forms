@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Efficiency Testing Registration Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Machine''}'
+      - '{''id'': 2, ''name'': ''System''}'
+      - '{''id'': 3, ''name'': ''Hand Tool''}'
+      required: false
+    - id: 4
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: test_start_time
+      label: Test Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: test_end_time
+      label: Test End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Pass''}'
+      - '{''id'': 2, ''name'': ''Fail''}'
+      - '{''id'': 3, ''name'': ''In Progress''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

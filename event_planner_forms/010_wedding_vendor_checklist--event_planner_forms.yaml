@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Vendor Checklist
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Caterer
+      - Florist
+      - Photographer
+      - Wedding Cake
+      - Wedding Cake
+      required: false
+    - id: 3
+      name: vendor_website
+      label: Vendor Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: vendor_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Quote Sent
+      - Quote Received
+      - Quote Accepted
+      - Quote Rejected
+      - No Longer Needed
+      required: false
+    - id: 7
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vendor_price
+      label: Vendor Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vendor_price_currency
+      label: Price Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      required: false
+    - id: 10
+      name: vendor_price_currency_other
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_price_other_currency
+      label: Other Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vendor_price_other_currency_rate
+      label: Rate (e.g. 1.00)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_action
+      label: Follow-Up Action
+      hint: null
+      type: select_multiple
+      options:
+      - Follow-Up Sent
+      - Follow-Up Received
+      - Follow-Up Action Taken
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: next_follow_up_date
+      label: Next Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_follow_up_time
+      label: Next Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_frequency
+      label: Follow-Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 23
+      name: follow_up_reminder
+      label: Follow-Up Reminder
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: vendor_last_followed
+      label: Last Followed Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: vendor_last_followed_time
+      label: Last Followed Up Time
+      hint: null
+      type: time
+      options: []
+      required: false

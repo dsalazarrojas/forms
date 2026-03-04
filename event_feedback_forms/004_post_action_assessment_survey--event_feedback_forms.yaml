@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_action_assessment_survey
+    pages:
+    - id: 1
+      name: event_participants
+      label: event_participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_dates
+      label: event_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_topics
+      label: session_topics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: event_topics
+      label: event_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

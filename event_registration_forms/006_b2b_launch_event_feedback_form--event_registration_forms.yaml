@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: B2B Launch Event Feedback Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: company
+        label: Company name
+        hint: Organization represented
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email address
+        hint: For follow up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: overall_satisfaction
+        label: Overall satisfaction rating
+        hint: 1 low to 5 high
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 5
+        name: favorite_session
+        label: Favorite session or speaker
+        hint: Session title or speaker name
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: networking_quality
+        label: Quality of networking opportunities
+        hint: Select rating
+        type: select_one
+        options: [Poor, Fair, Good, Excellent]
+        required: false
+      - id: 7
+        name: venue_feedback
+        label: Venue and logistics feedback
+        hint: Accessibility seating food
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommend_to_colleague
+        label: Recommend event to colleague
+        hint: Would you recommend this event
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 9
+        name: improvements_suggestions
+        label: Suggestions for improvement
+        hint: How can future events be better
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: follow_up_consent
+        label: Consent to be contacted for follow up
+        hint: We may contact you about your feedback
+        type: select_one
+        options: [Yes, No]
+        required: true

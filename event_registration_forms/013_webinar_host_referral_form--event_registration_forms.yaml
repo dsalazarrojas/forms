@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Host Referral Form
+    pages:
+    - id: 1
+      name: webinar_host_referral_form_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: webinar_host_referral_form_2
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: webinar_host_referral_form_3
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: webinar_host_referral_form_4
+      label: Webinar URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: webinar_host_referral_form_5
+      label: Referral code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: webinar_host_referral_form_6
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - How about that?
+      - Social media
+      - Friend
+      - Google
+      - Other
+      required: true
+    - id: 7
+      name: webinar_host_referral_form_7
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

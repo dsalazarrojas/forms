@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: event-concept-innovation-proposal-application-form
+    pages:
+    - id: 1
+      name: event_concept
+      label: Event Concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: innovation_category
+      label: Innovation Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Event''}'
+      - '{''id'': 2, ''name'': ''Workshop''}'
+      - '{''id'': 3, ''name'': ''Conference''}'
+      - '{''id'': 4, ''name'': ''Meeting''}'
+      - '{''id'': 5, ''name'': ''Festival''}'
+      required: false
+    - id: 3
+      name: proposal_title
+      label: Proposal Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: proposal_description
+      label: Proposal Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_attendance
+      label: Expected Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expected_duration
+      label: Expected Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organizers
+      label: Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: proposal_image
+      label: Proposal Image
+      hint: null
+      type: text
+      options: []
+      required: false

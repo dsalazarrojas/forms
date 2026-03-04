@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_webinar_sign_up_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Participant
+      - Presenter
+      - Organizer
+      required: false
+    - id: 6
+      name: time_zone
+      label: Time zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: timezone
+      label: Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

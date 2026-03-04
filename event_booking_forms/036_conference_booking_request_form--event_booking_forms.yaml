@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Booking Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Person submitting booking request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization name
+      hint: Hosting organization or department
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: Event name
+      hint: Title of the conference event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_dates
+      label: Event dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expected_attendance
+      label: Expected attendance
+      hint: Estimated number of participants
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: catering_requirements
+      label: Catering requirements
+      hint: Meals and dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: room_setup
+      label: Room setup preference
+      hint: Theater, classroom, banquet, or boardroom
+      type: select_one
+      options:
+      - Theater
+      - Classroom
+      - Banquet
+      - Boardroom
+      required: true
+    - id: 8
+      name: audio_visual
+      label: Audio visual requirements
+      hint: Projectors, mics, recording
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_contact
+      label: Billing contact information
+      hint: Contact for invoicing
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval status
+      hint: Internal approval tracking
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

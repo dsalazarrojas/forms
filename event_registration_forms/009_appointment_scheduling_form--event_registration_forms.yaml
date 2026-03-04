@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Scheduling Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scheduling_info
+      label: Scheduling Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_slot
+      label: Select Your Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 9
+      name: service_category
+      label: Service Category
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Maintenance
+      - Upgrade
+      - Training
+      - Support
+      required: true
+    - id: 10
+      name: duration
+      label: Expected Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      required: false
+    - id: 11
+      name: location_preference
+      label: Meeting Location Preference
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Remote
+      - Phone Only
+      required: true
+    - id: 12
+      name: special_needs
+      label: Special Requirements or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

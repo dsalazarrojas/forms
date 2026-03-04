@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Production Certification Registration Form
+    pages:
+    - id: 1
+      name: production_certification
+      label: Production Certification
+      hint: Please specify the production certification you are seeking
+      type: select_one
+      options:
+      - Certified
+      - Non-Certified
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_process
+      label: Production Process
+      hint: Briefly describe the production process
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: certification_expiration_date
+      label: Certification Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

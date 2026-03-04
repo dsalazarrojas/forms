@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Party Availability Survey
+    pages:
+    - id: 1
+      name: holiday_party_availability_survey_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: holiday_party_availability_survey_time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: holiday_party_availability_survey_availability
+      label: Will You Attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: holiday_party_availability_survey_constraints
+      label: Constraints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: holiday_party_availability_survey_constraints_text
+      label: Constraints Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: holiday_party_availability_survey_availability_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

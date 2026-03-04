@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Strategy Offsite Booking Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_name
+      label: Organizer Name
+      hint: Person organizing the offsite
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email for the organizer
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organizer_phone
+      label: Organizer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_dates
+      label: Preferred Dates
+      hint: Your preferred dates for the offsite
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: offsite_start_date
+      label: Offsite Start Date
+      hint: First day of the offsite
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: offsite_end_date
+      label: Offsite End Date
+      hint: Last day of the offsite
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: duration_days
+      label: Duration in Days
+      hint: Total number of days
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: attendee_list
+      label: Attendee List or Titles
+      hint: Names or titles of key attendees
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: offsite_objectives
+      label: Offsite Objectives
+      hint: What are the main goals
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location_preference
+      label: Location Preference
+      hint: Preferred location or region
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: venue_requirements
+      label: Venue Requirements
+      hint: What does the venue need
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Do you need hotel rooms
+      type: select_one
+      options:
+      - Yes, Full Accommodation
+      - Yes, Partial Accommodation
+      - No Accommodation
+      required: true
+    - id: 15
+      name: meals_included
+      label: Meals Included
+      hint: Should meals be provided
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Beverages
+      - None
+      required: false
+    - id: 16
+      name: activities_planning
+      label: Team Building Activities
+      hint: Do you want planned activities
+      type: select_one
+      options:
+      - Yes, Planned Activities
+      - Yes, Self-organized
+      - No Activities
+      required: false
+    - id: 17
+      name: technical_requirements
+      label: Technical Requirements
+      hint: What AV or tech do you need
+      type: select_multiple
+      options:
+      - Conference Room
+      - Projectors and Screens
+      - Video Conferencing
+      - WiFi
+      - Recording Equipment
+      - Other
+      required: false
+    - id: 18
+      name: special_requirements
+      label: Special Requirements or Notes
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Approximate total budget
+      type: select_one
+      options:
+      - Under 10k
+      - 10k-25k
+      - 25k-50k
+      - 50k-100k
+      - 100k+
+      required: false
+    - id: 20
+      name: booking_date
+      label: Booking Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

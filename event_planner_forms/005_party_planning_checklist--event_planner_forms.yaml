@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Planning Checklist
+    pages:
+    - id: 1
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: invitations
+      label: Invitations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: food_beverages
+      label: Food and Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: entertainment
+      label: Entertainment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: decorations
+      label: Decorations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: party_favors
+      label: Party Favors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: gifts
+      label: Gifts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false

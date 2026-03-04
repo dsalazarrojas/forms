@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: reservation_request_form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_details
+      label: Reservation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - text
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reservation_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reservation_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reservation_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: reservation_type
+      label: Type of Reservation
+      hint: null
+      type: select_one
+      options:
+      - Lunch
+      - Dinner
+      - Weekend
+      required: false
+    - id: 15
+      name: reservation_comment
+      label: Reservation Comment
+      hint: null
+      type: note
+      options: []
+      required: false

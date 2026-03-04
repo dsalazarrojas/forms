@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Mastocytosis Workshop Registration
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: professional_role
+      label: Professional Role
+      hint: Your role in healthcare or related field
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Researcher
+      - Medical Student
+      - Patient Advocate
+      - Other
+      required: true
+    - id: 6
+      name: institution_organization
+      label: Institution Organization
+      hint: Name of your hospital, clinic, or organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_details_section
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: workshop_title
+      label: Workshop Title
+      hint: Name of the workshop you are registering for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_date
+      label: Workshop Date
+      hint: Date of the workshop
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: attendance_mode
+      label: Attendance Mode
+      hint: How will you attend the workshop
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 11
+      name: accommodation_requirements
+      label: Accommodation Requirements
+      hint: Do you need special accommodations
+      type: select_multiple
+      options:
+      - Wheelchair accessibility
+      - Large print materials
+      - Sign language interpreter
+      - Dietary restrictions
+      - None
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary restrictions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_knowledge_section
+      label: -- Medical Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: mastocytosis_experience
+      label: Mastocytosis Experience
+      hint: How much experience do you have with mastocytosis
+      type: select_one
+      options:
+      - No experience
+      - Limited experience
+      - Moderate experience
+      - Extensive experience
+      - Expert
+      required: true
+    - id: 15
+      name: primary_interest_area
+      label: Primary Interest Area
+      hint: Which aspect of mastocytosis interests you most
+      type: select_one
+      options:
+      - Diagnosis
+      - Treatment options
+      - Patient management
+      - Research developments
+      - Clinical trials
+      required: true
+    - id: 16
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to learn from this workshop
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: networking_opportunities
+      label: Networking Opportunities
+      hint: Are you interested in networking with other professionals
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 18
+      name: payment_information_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the workshop
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Institution Purchase Order
+      - Other
+      required: true
+    - id: 20
+      name: registration_confirmation
+      label: Registration Confirmation
+      hint: I agree to the terms and conditions of the workshop
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

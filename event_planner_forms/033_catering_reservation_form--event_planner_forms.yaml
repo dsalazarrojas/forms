@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Reservation Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_date
+      label: Reservation Date
+      hint: Date of this reservation
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Conference
+      - Private Party
+      - Holiday Party
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: party_size
+      label: Party Size
+      hint: Estimated attendance
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: venue_name
+      label: Venue Name
+      hint: Where is the event
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: venue_address
+      label: Venue Address
+      hint: Complete address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: package_selection
+      label: Package Selection
+      hint: Preferred catering package
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Deluxe Package
+      - Custom Package
+      required: true
+    - id: 13
+      name: menu_type
+      label: Menu Type
+      hint: Type of menu
+      type: select_one
+      options:
+      - Breakfast
+      - Brunch
+      - Lunch
+      - Dinner
+      - Appetizers Only
+      - Desserts Only
+      required: true
+    - id: 14
+      name: cuisine_preference
+      label: Cuisine Preference
+      hint: What type of cuisine
+      type: select_one
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - French
+      - Fusion
+      - No Preference
+      required: false
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: beverage_package
+      label: Beverage Package
+      hint: Beverage service selection
+      type: select_one
+      options:
+      - Non-Alcoholic
+      - Beer and Wine
+      - Full Bar
+      - Coffee and Tea
+      - None
+      required: false
+    - id: 17
+      name: setup_style
+      label: Setup Style
+      hint: Preferred setup
+      type: select_one
+      options:
+      - Buffet
+      - Plated
+      - Family Style
+      - Cocktail
+      - No Preference
+      required: false
+    - id: 18
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Required deposit
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Has deposit been paid
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

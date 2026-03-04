@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Party RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rsvp_status
+      label: Will You Attend?
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, I Cannot Attend
+      - Maybe, Will Confirm Later
+      required: true
+    - id: 5
+      name: plus_one
+      label: Bringing a Plus One
+      hint: Will you bring a guest?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 6
+      name: plus_one_name
+      label: Plus One Name
+      hint: Full name of your guest
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_to_host
+      label: Relationship to Host
+      hint: How do you know the anniversary celebrants?
+      type: select_one
+      options:
+      - Family Member
+      - Friend
+      - Colleague
+      - Business Partner
+      - Neighbor
+      - Other
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Shellfish Allergies
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 9
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meal_preference
+      label: Meal Preference
+      hint: Select your preferred entree
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - No Preference
+      required: false
+    - id: 11
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What will you be drinking?
+      type: select_one
+      options:
+      - Alcoholic Beverages
+      - Wine Only
+      - Beer Only
+      - Non-Alcoholic Only
+      - No Preference
+      required: false
+    - id: 12
+      name: song_requests
+      label: Song Requests
+      hint: Any songs you would like to hear?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transportation_needed
+      label: Transportation Assistance Needed
+      hint: Do you need help with transportation?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gift_status
+      label: Gift Status
+      hint: Have you sent or will you bring a gift?
+      type: select_one
+      options:
+      - Already Sent
+      - Will Bring to Event
+      - Planning to Send
+      - No Gift
+      required: false
+    - id: 16
+      name: memory_to_share
+      label: Memory to Share
+      hint: Would you like to share a memory during the event?
+      type: select_one
+      options:
+      - Yes, I Would Like to Speak
+      - No, Thank You
+      - Maybe
+      required: false
+    - id: 17
+      name: arrival_time
+      label: Expected Arrival Time
+      hint: When do you plan to arrive?
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: departure_time
+      label: Expected Departure Time
+      hint: When do you need to leave?
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency during the event
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_message
+      label: Message for the Celebrants
+      hint: Any special message for the anniversary couple or organization?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About the Event?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Direct Invitation
+      - Social Media
+      - Word of Mouth
+      - Email
+      - Website
+      - Other
+      required: false

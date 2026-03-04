@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Survey
+    pages:
+    - id: 1
+      name: event_survey_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      - Scale 4
+      - Scale 5
+      required: true

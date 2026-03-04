@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Accommodation Form
+    pages:
+      - id: 1
+        name: volunteer_name
+        label: Volunteer name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: event_name
+        label: Event name
+        hint: Name of the event volunteering for
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: accommodation_needed
+        label: Accommodation needed
+        hint: Describe sleeping dietary or accessibility needs
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: arrival_date
+        label: Arrival date
+        hint: Date volunteer will arrive
+        type: date
+        options: []
+        required: false
+      - id: 5
+        name: departure_date
+        label: Departure date
+        hint: Date volunteer will depart
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: room_sharing_preference
+        label: Room sharing preference
+        hint: Single or shared accommodation
+        type: select_one
+        options:
+          - Single
+          - Shared
+          - No preference
+        required: false
+      - id: 7
+        name: dietary_requirements
+        label: Dietary requirements
+        hint: List allergies or special diets
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: emergency_contact
+        label: Emergency contact name and phone
+        hint: Provide contact details
+        type: text
+        options: []
+        required: true

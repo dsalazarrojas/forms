@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Activity Waiver
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name of participant or guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_dob
+      label: Participant date of birth
+      hint: Date of birth for minors
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Name of person to contact in emergency
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: activity_description
+      label: Activity description
+      hint: Name of program or activity
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: known_medical_conditions
+      label: Known medical conditions
+      hint: Allergies medications or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: liability_acknowledgement
+      label: Liability acknowledgement
+      hint: Participant agrees to assume risks
+      type: select_one
+      options:
+      - I acknowledge and accept risks
+      - I do not accept
+      required: true
+    - id: 8
+      name: photo_release
+      label: Photo release consent
+      hint: Consent to use photos for promotion
+      type: select_one
+      options:
+      - Yes allow use
+      - No do not allow
+      required: false
+    - id: 9
+      name: signature_name
+      label: Signature name
+      hint: Type full name as digital signature
+      type: text
+      options: []
+      required: true

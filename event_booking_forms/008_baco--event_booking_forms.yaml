@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: BACO Event Booking
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Full name as on badge
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: organization
+        label: Organization
+        hint: Affiliation or employer
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email address
+        hint: For confirmation and tickets
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: ticket_type
+        label: Ticket type
+        hint: Select the ticket category
+        type: select_one
+        options: [Full conference, Single day, Student, Virtual]
+        required: true
+      - id: 5
+        name: dietary_requirements
+        label: Dietary requirements
+        hint: Please list any allergies or needs
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Mobility hearing visual requirements
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: sessions_interested
+        label: Sessions of interest
+        hint: Indicate preferred tracks
+        type: select_multiple
+        options: [Clinical, Research, Training, Industry]
+        required: false
+      - id: 8
+        name: arrival_date
+        label: Arrival date
+        hint: For planning accommodation
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: special_requests
+        label: Special requests
+        hint: Any other requests
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Registration Form INAFOR
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: academic_institution
+      label: academic institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: academic_title
+      label: academic title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_phone
+      label: supervisor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: seminar_title
+      label: seminar title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: seminar_start_date
+      label: seminar start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: seminar_end_date
+      label: seminar end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: seminar_location
+      label: seminar location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: seminar_description
+      label: seminar description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registration_date
+      label: registration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: registration_time
+      label: registration time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: seminar_type
+      label: seminar type
+      hint: null
+      type: select_one
+      options:
+      - Seminar
+      - Workshop
+      - Conference
+      - Event
+      - Meeting
+      - Webinar
+      required: false
+    - id: 21
+      name: seminar_level
+      label: seminar level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      - All
+      required: false
+    - id: 22
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - More
+      required: false
+    - id: 23
+      name: registration_fee
+      label: registration fee
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '100'
+      - '200'
+      required: false
+    - id: 24
+      name: registration_method
+      label: registration method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In Person
+      - Both
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

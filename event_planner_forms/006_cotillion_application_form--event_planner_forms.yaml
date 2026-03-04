@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cotillion Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Enter Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Birthday
+      - Other
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dance_style
+      label: Dance Style
+      hint: null
+      type: select_multiple
+      options:
+      - Salsa
+      - Tango
+      - Rumba
+      - Jive
+      required: false
+    - id: 12
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_number
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_host
+      label: Event Host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_host_phone
+      label: Event Host Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_host_email
+      label: Event Host Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: event_host_address
+      label: Event Host Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit
+      required: false
+    - id: 20
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Announcement Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Full Name
+      hint: Person submitting the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Human Resources
+      - Marketing
+      - Operations
+      - Finance
+      - IT
+      - Sales
+      - Executive
+      - Other
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Extension or direct line
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: announcement_type
+      label: Type of Announcement
+      hint: What type of announcement is this?
+      type: select_one
+      options:
+      - Company News
+      - Policy Update
+      - Event Announcement
+      - Personnel Change
+      - Achievement Recognition
+      - Training Opportunity
+      - Deadline Reminder
+      - Emergency Notice
+      - Other
+      required: true
+    - id: 6
+      name: announcement_title
+      label: Announcement Title
+      hint: Brief title for the announcement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: announcement_content
+      label: Announcement Content
+      hint: Full text of the announcement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this announcement?
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: Who should receive this announcement?
+      type: select_multiple
+      options:
+      - All Employees
+      - Management Only
+      - Specific Department
+      - New Hires
+      - Remote Workers
+      - Field Staff
+      - Contractors
+      - Other
+      required: true
+    - id: 10
+      name: specific_departments
+      label: Specific Departments
+      hint: List departments if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Where should this be posted?
+      type: select_multiple
+      options:
+      - Email Newsletter
+      - Company Intranet
+      - Slack or Teams
+      - Bulletin Board
+      - Company Website
+      - Social Media
+      - Print Newsletter
+      - Other
+      required: true
+    - id: 12
+      name: publish_date
+      label: Desired Publish Date
+      hint: When should this be announced?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: publish_time
+      label: Desired Publish Time
+      hint: Preferred time of day
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: expiration_date
+      label: Expiration Date
+      hint: When should this be removed?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: attachments_included
+      label: Attachments Included
+      hint: Are there files to attach?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: attachment_details
+      label: Attachment Details
+      hint: Describe attached files
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_required
+      label: Approval Required
+      hint: Does this need management approval?
+      type: select_one
+      options:
+      - Yes, Pending
+      - Yes, Approved
+      - No Approval Needed
+      required: true
+    - id: 18
+      name: approver_name
+      label: Approver Name
+      hint: Who approved this announcement?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_for_questions
+      label: Contact for Questions
+      hint: Who should people contact for more info?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Will there be a follow-up action?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

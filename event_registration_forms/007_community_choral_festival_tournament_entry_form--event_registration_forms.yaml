@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Choral Festival Tournament Entry Form
+    pages:
+    - id: 1
+      name: choir_name
+      label: Choir Name
+      hint: Official name of your choir or ensemble
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: choir_director_name
+      label: Choir Director Name
+      hint: Full name of the director
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: director_email
+      label: Director Email
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: director_phone
+      label: Director Phone
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: School, church, or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - School Choir
+      - Church Choir
+      - Community Choir
+      - Professional Ensemble
+      - Youth Choir
+      - Senior Choir
+      - Other
+      required: true
+    - id: 7
+      name: choir_size
+      label: Number of Choir Members
+      hint: Total number of singers
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: age_category
+      label: Age Category
+      hint: Primary age group of choir members
+      type: select_one
+      options:
+      - Youth (under 18)
+      - Young Adult (18-35)
+      - Adult (36-59)
+      - Senior (60+)
+      - Mixed Ages
+      required: true
+    - id: 9
+      name: performance_category
+      label: Performance Category
+      hint: Which category are you entering?
+      type: select_one
+      options:
+      - Sacred Music
+      - Secular Music
+      - Folk Music
+      - Classical
+      - Contemporary
+      - Jazz
+      - Open Category
+      required: true
+    - id: 10
+      name: preferred_performance_date
+      label: Preferred Performance Date
+      hint: First choice for performance date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: alternate_performance_date
+      label: Alternate Performance Date
+      hint: Second choice for performance date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: repertoire_list
+      label: Repertoire List
+      hint: List pieces you plan to perform
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: performance_duration
+      label: Estimated Performance Duration
+      hint: Total time in minutes
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: accompaniment_type
+      label: Accompaniment Type
+      hint: What accompaniment will you use?
+      type: select_one
+      options:
+      - Piano
+      - Organ
+      - Full Orchestra
+      - Small Ensemble
+      - A Cappella
+      - Recorded Backing
+      - Other
+      required: true
+    - id: 15
+      name: technical_requirements
+      label: Technical Requirements
+      hint: List any special technical needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risers_needed
+      label: Do You Need Risers
+      hint: Choir risers for performance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: dressing_rooms_needed
+      label: Dressing Rooms Needed
+      hint: Will you need changing facilities?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: recording_permission
+      label: Grant Recording Permission
+      hint: Allow festival to record your performance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: t_shirt_sizes
+      label: T-Shirt Sizes for Festival Merchandise
+      hint: List sizes and quantities needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: entry_fee_payment
+      label: Entry Fee Payment Method
+      hint: How will you pay the entry fee?
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Purchase Order
+      - Invoice Request
+      required: true
+    - id: 22
+      name: terms_accepted
+      label: Accept Terms and Conditions
+      hint: I have read and agree to festival rules
+      type: select_one
+      options:
+      - Yes, I Accept
+      - Other
+      required: true

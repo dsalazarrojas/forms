@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transformation Retreat Registration Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: As it should appear on your badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_org
+      label: Institution or Organization
+      hint: Primary affiliation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: For retreat updates and materials
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_preferences
+      label: -- Retreat Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: session_tracks
+      label: Select tracks of interest
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Leadership and Change
+      - Digital Transformation
+      - Inclusive Excellence
+      - Strategic Planning
+      required: true
+    - id: 7
+      name: attendance_mode
+      label: Attendance Mode
+      hint: Select your participation level
+      type: select_one
+      options:
+      - Full Retreat (3 days)
+      - Single Day Pass
+      - Virtual Access
+      required: true
+    - id: 8
+      name: section_logistics
+      label: -- Logistics and Stay --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_needed
+      label: Do you require on-site accommodation?
+      hint: Available at the retreat center
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: room_preference
+      label: Room Preference
+      hint: Subject to availability
+      type: select_one
+      options:
+      - Single Room
+      - Shared Room
+      - Not Applicable
+      required: false
+    - id: 11
+      name: dietary_needs
+      label: Dietary Requirements or Allergies
+      hint: e.g. Nut allergy, Vegan
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_travel
+      label: -- Travel Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: shuttle_service
+      label: Will you need shuttle service from the airport?
+      hint: Available on start/end dates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: arrival_details
+      label: Estimated Arrival Time or Flight Number
+      hint: For shuttle coordination
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_final
+      label: -- Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: cancellation_policy_agreement
+      label: I agree to the retreat cancellation and refund policy
+      hint: Read policy on website
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

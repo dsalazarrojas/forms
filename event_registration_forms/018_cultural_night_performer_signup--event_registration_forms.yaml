@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Night Performer Signup
+    pages:
+    - id: 1
+      name: performer_name
+      label: Performer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: performance_name
+      label: Performance Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: performance_type
+      label: Performance Type
+      hint: null
+      type: select_one
+      options:
+      - Dance
+      - Music
+      - Theater
+      required: true
+    - id: 6
+      name: performance_details
+      label: Performance Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: school_venue
+      label: School or Venue
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Community Center
+      - Other
+      required: true
+    - id: 8
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_school
+      label: Contact School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_school_type
+      label: Contact School Type
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Middle School
+      - Community Center
+      required: true
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: school_organizer
+      label: School Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: school_organizer_email
+      label: School Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: school_organizer_phone
+      label: School Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: school_organizer_school
+      label: School Organizer School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: school_organizer_school_type
+      label: School Organizer School Type
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Community Center
+      required: true
+    - id: 22
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: venue_type
+      label: Venue Type
+      hint: null
+      type: select_multiple
+      options:
+      - Theater
+      - School
+      - Community Center
+      required: true
+    - id: 24
+      name: venue_capacity
+      label: Venue Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: performance_length
+      label: Performance Length
+      hint: null
+      type: text
+      options: []
+      required: false

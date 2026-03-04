@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Christmas Party Survey
+    pages:
+    - id: 1
+      name: survey_details
+      label: Survey Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_attendees
+      label: Event Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: attendees_list
+      label: Attendees List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: event_rating
+      label: Event Rating
+      hint: Rate your overall experience with the event
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

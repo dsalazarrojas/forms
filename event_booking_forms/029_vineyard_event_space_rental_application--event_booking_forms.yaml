@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vineyard Event Space Rental Application
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: eventName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Corporate
+      - Wedding
+      required: false
+    - id: 4
+      name: event_date
+      label: eventDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: eventTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_start_time
+      label: eventStartTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_end_time
+      label: eventEndTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_guest_count
+      label: guestCount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_space_requirements
+      label: spaceRequirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contactName
+      hint: Full name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contactPhone
+      hint: 'Format: 10 digits, e.g 1234567890'
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_space
+      label: eventSpace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_space_description
+      label: spaceDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_space_type
+      label: spaceType
+      hint: null
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Mixed
+      required: false
+    - id: 16
+      name: event_additional_requirements
+      label: additionalRequirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_status
+      label: approvalStatus
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Approval
+      - Approved
+      - Rejected
+      required: false
+    - id: 18
+      name: approval_comments
+      label: approvalComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_status
+      label: eventStatus
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Approval
+      - Approved
+      - Rejected
+      required: false
+    - id: 20
+      name: event_status_change_reason
+      label: eventStatusChangeReason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_submitted
+      label: formSubmitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: form_submitted_date
+      label: formSubmittedDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_updated
+      label: formUpdated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: form_updated_date
+      label: formUpdatedDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submittedBy
+      hint: null
+      type: text
+      options: []
+      required: false

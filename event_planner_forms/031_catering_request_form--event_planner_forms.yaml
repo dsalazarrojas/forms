@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Meeting
+      - Conference
+      - Workshop
+      - Training Session
+      - Corporate Event
+      - Private Party
+      - Wedding
+      - Other
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time
+      label: Event Start Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_end_time
+      label: Event End Time
+      hint: End time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Event Location
+      hint: Where will the event be held
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: room_number
+      label: Room Number
+      hint: Specific room if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_count
+      label: Expected Attendee Count
+      hint: Number of people expected
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: service_type
+      label: Service Type
+      hint: Type of catering service
+      type: select_one
+      options:
+      - Breakfast
+      - Morning Break
+      - Lunch
+      - Afternoon Break
+      - Dinner
+      - All Day
+      - Reception
+      required: true
+    - id: 15
+      name: menu_selection
+      label: Menu Selection
+      hint: Your preferred menu
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: beverage_service
+      label: Beverage Service
+      hint: What beverages are needed
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Soft Drinks
+      - Juice
+      - Water
+      - Beer
+      - Wine
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vegetarian_count
+      label: Vegetarian Meals
+      hint: Number of vegetarian meals
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vegan_count
+      label: Vegan Meals
+      hint: Number of vegan meals
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: gluten_free_count
+      label: Gluten-Free Meals
+      hint: Number of gluten-free meals
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: setup_requirements
+      label: Setup Requirements
+      hint: Any special setup needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_code
+      label: Budget Code
+      hint: Cost center or budget code
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_status
+      label: Approval Status
+      hint: Has this been approved
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

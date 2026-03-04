@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_data_privacy_panel_registration
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - grade_9
+      - grade_10
+      - grade_11
+      - grade_12
+      required: false
+    - id: 4
+      name: district_name
+      label: school_district
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_interests
+      label: student_interests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_interests
+      label: event_interests
+      hint: null
+      type: select_multiple
+      options:
+      - student_data_sharing_policies
+      - data_privacy_and_protection
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_date
+      label: date_of_consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent_time
+      label: time_of_consent
+      hint: null
+      type: time
+      options: []
+      required: false

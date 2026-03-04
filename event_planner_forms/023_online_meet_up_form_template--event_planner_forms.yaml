@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Meet Up Form Template
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

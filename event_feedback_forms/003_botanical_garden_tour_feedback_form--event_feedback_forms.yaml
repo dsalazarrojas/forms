@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botanical Garden Tour Feedback Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor Name
+      hint: Optional - your name for follow-up purposes
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visitor_email
+      label: Visitor Email
+      hint: Email address for follow-up communications
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: tour_date
+      label: Tour Date
+      hint: Date when you attended the tour
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: tour_type
+      label: Tour Type
+      hint: Which tour did you attend
+      type: select_one
+      options:
+      - Guided Garden Walk
+      - Self-Guided Tour
+      - Specialty Plant Tour
+      - Historical Garden Tour
+      - Children's Educational Tour
+      - Photography Tour
+      - Seasonal Highlights Tour
+      required: true
+    - id: 5
+      name: tour_guide_name
+      label: Tour Guide Name
+      hint: Name of your tour guide if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: group_size
+      label: Group Size
+      hint: Number of people in your party
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How would you rate your overall tour experience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: guide_knowledge
+      label: Guide Knowledge and Expertise
+      hint: Rate the tour guide's knowledge of plants and gardens
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 9
+      name: tour_pace
+      label: Tour Pace
+      hint: How was the pacing of the tour
+      type: select_one
+      options:
+      - Too Fast
+      - Just Right
+      - Too Slow
+      required: true
+    - id: 10
+      name: tour_duration
+      label: Tour Duration
+      hint: Was the tour length appropriate
+      type: select_one
+      options:
+      - Too Short
+      - Just Right
+      - Too Long
+      required: true
+    - id: 11
+      name: highlights_enjoyed
+      label: Highlights You Enjoyed Most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Plant identification information
+      - Garden history and stories
+      - Scenic viewpoints
+      - Interactive demonstrations
+      - Q&A opportunities
+      - Printed materials provided
+      - Garden maintenance insights
+      required: false
+    - id: 12
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness of the garden facilities
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: signage_quality
+      label: Signage Quality
+      hint: Rate the quality and clarity of garden signage
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: likelihood_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend this tour to others
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 15
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: What could we improve for future tours
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: return_visit
+      label: Planning a Return Visit
+      hint: Do you plan to visit the garden again
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Maybe
+      - Probably Not
+      - false
+      required: true
+    - id: 18
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Would you like to receive our garden newsletter
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

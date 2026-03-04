@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Networking Event Registration
+    pages:
+    - id: 1
+      name: attendee_full_name
+      label: Attendee Full Name
+      hint: Please enter your name as it should appear on your badge.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Professional title or role
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization
+      hint: Company or institution you represent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_sector
+      label: Industry Sector
+      hint: Which sector do you primarily work in?
+      type: select_one
+      options:
+      - Finance
+      - Healthcare
+      - Technology
+      - Legal
+      - Manufacturing
+      - Government
+      - Education
+      - Other
+      required: true
+    - id: 5
+      name: contact_email
+      label: Business Email Address
+      hint: example@company.com
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Business Phone Number
+      hint: (###)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_event_details
+      label: -- Event Participation --
+      hint: Help us plan the sessions and networking opportunities.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attendance_type
+      label: Attendance Type
+      hint: In-person or virtual attendance
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      required: true
+    - id: 9
+      name: breakout_session_interests
+      label: Breakout Session Interests
+      hint: Select up to 3 sessions you are interested in attending.
+      type: select_multiple
+      options:
+      - AML and Financial Crimes
+      - Data Privacy and GDPR
+      - Ethics and Corporate Culture
+      - Cybersecurity Compliance
+      - Environmental and ESG Standards
+      - Regulatory Change Management
+      required: true
+    - id: 10
+      name: networking_level
+      label: Networking Experience Level
+      hint: Select your preferred networking approach.
+      type: select_one
+      options:
+      - New Professional - Looking for Mentor
+      - Established Professional - General Networking
+      - Expert - Available for Mentorship
+      required: false
+    - id: 11
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For in-person attendees only.
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Halal
+      - Kosher
+      - Other
+      required: false
+    - id: 12
+      name: other_dietary_needs
+      label: Other Dietary Requirements or Allergies
+      hint: Please specify if "Other" was selected above.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Accommodations
+      hint: Please let us know if you require any specific assistance.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photography_consent
+      label: Photography and Media Consent
+      hint: I consent to being photographed or recorded during the event for promotional
+        purposes.
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 15
+      name: data_privacy_acknowledgement
+      label: Data Privacy Acknowledgement
+      hint: I acknowledge that my data will be used for event administration and networking.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: attendee_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

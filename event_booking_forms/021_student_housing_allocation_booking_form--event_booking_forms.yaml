@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Housing Allocation Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Room
+      - Shared Room
+      - Family Room
+      required: false
+    - id: 8
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - Double Room
+      - Twin Room
+      - Family Room
+      required: false
+    - id: 9
+      name: preferred_accommodation
+      label: Preferred Accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_number
+      label: Student Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: accommodation_start_date
+      label: Accommodation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: accommodation_start_time
+      label: Accommodation Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_end_date
+      label: Accommodation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: accommodation_end_time
+      label: Accommodation End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Rejected
+      - Pending
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accommodation_request_date
+      label: Accommodation Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: accommodation_request_reason
+      label: Accommodation Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: accommodation_status_update
+      label: Accommodation Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: accommodation_type_request
+      label: Accommodation Type Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_accommodation_request
+      label: Other Accommodation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

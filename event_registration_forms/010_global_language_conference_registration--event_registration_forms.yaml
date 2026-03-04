@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Language Conference Registration
+    pages:
+    - id: 1
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      required: false
+    - id: 9
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Mandarin
+      - Spanish
+      - French
+      required: false
+    - id: 10
+      name: language_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

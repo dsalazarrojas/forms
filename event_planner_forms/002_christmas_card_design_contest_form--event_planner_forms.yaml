@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Card Design Contest Form
+    pages:
+    - id: 1
+      name: contestant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will contact you here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For contest updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older to participate
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_contestant_info
+      label: -- Contestant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: design_title
+      label: Design Title
+      hint: Give your design a creative name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: design_description
+      label: Design Description
+      hint: Describe your design concept and inspiration
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: design_category
+      label: Design Category
+      hint: Select the category for your submission
+      type: select_one
+      options:
+      - Traditional Christmas
+      - Modern Minimalist
+      - Family Focused
+      - Religious Theme
+      - Winter Scene
+      - Abstract Art
+      required: true
+    - id: 9
+      name: color_scheme
+      label: Primary Color Scheme
+      hint: Main colors used in your design
+      type: select_one
+      options:
+      - Classic Red and Green
+      - Blue and Silver
+      - Gold and White
+      - Multicolor
+      - Black and White
+      required: true
+    - id: 10
+      name: section_design_details
+      label: -- Design Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: software_used
+      label: Design Software Used
+      hint: What tools did you use to create this design
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: original_work
+      label: Is This Your Original Work
+      hint: Confirm this design is your own creation
+      type: select_one
+      options:
+      - Yes completely original
+      - Yes with minor modifications
+      - No collaborative work
+      required: true
+    - id: 13
+      name: previous_submissions
+      label: Have You Submitted Before
+      hint: Have you participated in previous contests
+      type: select_one
+      options:
+      - Yes this is my first time
+      - Yes I have submitted before
+      - Yes I am a returning contestant
+      required: true
+    - id: 14
+      name: section_eligibility
+      label: -- Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: agree_terms
+      label: Agree to Contest Terms
+      hint: I agree to all contest rules and regulations
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 16
+      name: usage_rights
+      label: Grant Usage Rights
+      hint: Allow organizer to use design for promotion
+      type: select_one
+      options:
+      - Yes I grant usage rights
+      - No I retain all rights
+      required: true
+    - id: 17
+      name: notification_preference
+      label: How Should We Contact You
+      hint: Preferred method for contest updates
+      type: select_one
+      options:
+      - Email only
+      - Phone call
+      - Text message
+      - Any method is fine
+      required: true
+    - id: 18
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Optional - for promotion if you win
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About Contest
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend or Colleague
+      - Email Newsletter
+      - Other
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: AEC Workflow Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: Name for event records and badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: firm_name
+      label: Firm or company name
+      hint: Organization representing
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email address
+      hint: Used to confirm registration
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional phone for event notifications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: Role within your firm
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: licensure_state
+      label: Licensure state if applicable
+      hint: State where professional licenses are held
+      type: select_one
+      options:
+      - Not applicable
+      - State A
+      - State B
+      - State C
+      required: false
+    - id: 8
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Select topics you want covered
+      type: select_multiple
+      options:
+      - Project delivery workflows
+      - BIM coordination
+      - Contract administration
+      - Sustainable design
+      required: false
+    - id: 9
+      name: project_types
+      label: Types of projects you work on
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Commercial
+      - Residential
+      - Infrastructure
+      - Industrial
+      required: false
+    - id: 10
+      name: attendance_type
+      label: Attendance type
+      hint: Choose preferred attendance mode
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone for emergencies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_requirements
+      label: Special requirements or accommodations
+      hint: Accessibility or dietary needs
+      type: text
+      options: []
+      required: false

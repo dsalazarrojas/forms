@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Wine Label Order Form
+    pages:
+    - id: 1
+      name: winery_info
+      label: Winery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: label_designs
+      label: Label Designs
+      hint: null
+      type: select_multiple
+      options:
+      - Design 1
+      - Design 2
+      - Design 3
+      required: false
+    - id: 3
+      name: order_info
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: winery
+      label: Winery
+      hint: null
+      type: select_one
+      options:
+      - Winery A
+      - Winery B
+      - Winery C
+      required: false
+    - id: 6
+      name: label_type
+      label: Label Type
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

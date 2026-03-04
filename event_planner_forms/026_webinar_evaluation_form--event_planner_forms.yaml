@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Evaluation Form
+    pages:
+    - id: 1
+      name: webinar_evaluation_form
+      label: Webinar Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: webinar_title
+      label: webinar_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_list
+      label: suggestions_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rating_list
+      label: rating_list
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 8
+      name: webinar_venue
+      label: webinar_venue
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - In-person
+      required: false

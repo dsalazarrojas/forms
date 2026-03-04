@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_investment_seminar_registration_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_designation
+      label: Participant Designation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Mixed Use
+      required: false
+    - id: 7
+      name: seminar_date
+      label: Seminar Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: seminar_time
+      label: Seminar Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: seminar_location
+      label: Seminar Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

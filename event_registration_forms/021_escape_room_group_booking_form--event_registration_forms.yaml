@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escape Room Group Booking Form
+    pages:
+    - id: 1
+      name: group_booking_details
+      label: Group Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_group
+      label: Confirm Group
+      hint: null
+      type: select_one
+      options:
+      - Group Name
+      - Group Description
+      - Group Type
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Fair Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: trade fair application form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_type
+      label: business type
+      hint: null
+      type: select_one
+      options:
+      - trading company
+      - wholesale company
+      - exporting company
+      - importing company
+      - distributing company
+      - other
+      required: false
+    - id: 4
+      name: business_owner_name
+      label: business owner name
+      hint: Please fill in the business owner name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_details
+      label: product details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip_code
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: application_notes
+      label: application notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: payment terms
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - bank transfer
+      - credit card
+      - paypal
+      required: false

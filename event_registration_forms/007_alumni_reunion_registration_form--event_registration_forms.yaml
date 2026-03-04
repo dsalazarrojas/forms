@@ -1,0 +1,309 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Reunion Registration Form
+    pages:
+    - id: 1
+      name: section_event_info
+      label: -- Reunion Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reunion_year
+      label: Reunion Year/Class
+      hint: Select your graduating class
+      type: select_one
+      options:
+      - Class of 2023
+      - Class of 2018
+      - Class of 2013
+      - Class of 2008
+      - Class of 2003
+      - Class of 1998
+      - Class of 1993
+      - Class of 1988
+      - Class of 1983
+      - Class of 1978
+      - Class of 1973
+      - All Other Years
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date Selection
+      hint: Which reunion date will you attend
+      type: select_one
+      options:
+      - Saturday October 15
+      - Sunday October 16
+      - Both Days
+      required: true
+    - id: 4
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: Include maiden name if applicable
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: maiden_name
+      label: Maiden Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: For event confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: For event day contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_attendance
+      label: -- Attendance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: attending_alone
+      label: Will you be attending alone
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attending alone
+      - No - Bringing spouse/partner
+      - No - Bringing family
+      required: true
+    - id: 12
+      name: guest_count
+      label: Number of Additional Guests
+      hint: Including spouse/partner and children
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: guest_names
+      label: Guest Names
+      hint: List names of all attending guests
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_meal_preferences
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: saturday_dinner
+      label: Saturday Dinner Attendance
+      hint: Will you attend the Saturday dinner event
+      type: select_one
+      options:
+      - Yes - Attending
+      - No - Not attending
+      required: true
+    - id: 16
+      name: dinner_entree
+      label: Dinner Entree Preference
+      hint: Select your preferred entree
+      type: select_one
+      options:
+      - Grilled Chicken
+      - Grilled Salmon
+      - Vegetarian Pasta
+      - Beef Tenderloin
+      - Vegan Option
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Please list any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sunday_brunch
+      label: Sunday Brunch Attendance
+      hint: Will you attend the Sunday brunch
+      type: select_one
+      options:
+      - Yes - Attending
+      - No - Not attending
+      required: false
+    - id: 19
+      name: section_activities
+      label: -- Activity Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: campus_tour
+      label: Campus Tour Interest
+      hint: Guided tour of the campus
+      type: select_one
+      options:
+      - Yes - Interested
+      - No - Not interested
+      required: false
+    - id: 21
+      name: memorial_service
+      label: Memorial Service Attendance
+      hint: Honoring deceased classmates
+      type: select_one
+      options:
+      - Yes - Attending
+      - No - Not attending
+      - Undecided
+      required: false
+    - id: 22
+      name: sports_event
+      label: Sports Event Attendance
+      hint: Alumni game or match
+      type: select_one
+      options:
+      - Yes - Attending
+      - No - Not attending
+      required: false
+    - id: 23
+      name: section_accommodation
+      label: -- Accommodation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: hotel_needed
+      label: Hotel Accommodation Needed
+      hint: Do you need hotel recommendations
+      type: select_one
+      options:
+      - Yes - Need recommendations
+      - Yes - Need group rate booking
+      - No - Making own arrangements
+      - No - Staying with friends/family
+      required: false
+    - id: 25
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_payment
+      label: -- Registration Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: registration_fee
+      label: Registration Fee
+      hint: Per person fee for reunion events
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check by Mail
+      required: true
+    - id: 29
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: tshirt_size
+      label: Reunion T-Shirt Size
+      hint: If ordering commemorative shirt
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      - Not ordering
+      required: false
+    - id: 31
+      name: name_tag_name
+      label: Name for Name Tag
+      hint: How would you like your name to appear
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: memorabilia_display
+      label: Bringing Memorabilia for Display
+      hint: Yearbooks, photos, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 33
+      name: volunteer_help
+      label: Willing to Volunteer at Event
+      hint: Help with registration or activities
+      type: select_one
+      options:
+      - Yes - Happy to help
+      - No - Unable to volunteer
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments or Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: For event day emergencies
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

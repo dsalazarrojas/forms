@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Experience Lab Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Full Name
+      hint: Enter your full name as it should appear on badge
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: We will send event details to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact number for event updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Number of employees at your company
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Marketing and Advertising
+      - Nonprofit
+      - Government
+      - Other
+      required: true
+    - id: 8
+      name: event_session
+      label: Preferred Session
+      hint: Which session would you like to attend
+      type: select_one
+      options:
+      - Morning Session 9 AM to 12 PM
+      - Afternoon Session 1 PM to 5 PM
+      - Full Day 9 AM to 5 PM
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions or allergies
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Kosher
+      - Halal
+      required: true
+    - id: 11
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accessibility accommodations
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Sign Language Interpreter
+      - Large Print Materials
+      - Hearing Loop
+      - Other
+      required: false
+    - id: 12
+      name: experience_level
+      label: Brand Experience Level
+      hint: How would you rate your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you hope to learn at this event
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking opportunities
+      type: select_one
+      options:
+      - Yes, very interested
+      - Somewhat interested
+      - Not interested
+      required: true
+    - id: 15
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Where did you learn about this event
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Colleague Referral
+      - Website
+      - Conference
+      - Advertisement
+      - Other
+      required: false
+    - id: 16
+      name: marketing_consent
+      label: Marketing Communications
+      hint: Can we send you future event information
+      type: select_one
+      options:
+      - Yes, please send updates
+      - No, do not send marketing emails
+      required: true
+    - id: 17
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you agree to the event terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

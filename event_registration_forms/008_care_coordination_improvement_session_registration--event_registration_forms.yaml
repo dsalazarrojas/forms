@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Improvement Session Registration
+    pages:
+    - id: 1
+      name: registrant_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Hospital, clinic, or agency name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Outpatient Clinic
+      - Primary Care Practice
+      - Specialty Practice
+      - Home Health Agency
+      - Long-term Care Facility
+      - Community Health Center
+      - Insurance Company
+      - Government Agency
+      - Non-profit Organization
+      - Other
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For confirmation and session details
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_experience
+      label: Years of Experience in Healthcare
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 9
+      name: role_in_care_coordination
+      label: Your Role in Care Coordination
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Direct care coordination
+      - Care management oversight
+      - Quality improvement
+      - Administration
+      - Clinical staff
+      - Support staff
+      - IT/Systems
+      - Policy development
+      - Other
+      required: true
+    - id: 10
+      name: session_preference
+      label: Preferred Session Date
+      hint: null
+      type: select_one
+      options:
+      - Session A - March 15, 2026
+      - Session B - March 22, 2026
+      - Session C - April 5, 2026
+      - Session D - April 12, 2026
+      - No preference - any session
+      required: true
+    - id: 11
+      name: attendance_format
+      label: Preferred Attendance Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual (live stream)
+      - Hybrid - no preference
+      required: true
+    - id: 12
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Interdisciplinary team communication
+      - Patient engagement strategies
+      - Technology solutions for care coordination
+      - Care transitions best practices
+      - Population health management
+      - Value-based care models
+      - Quality metrics and outcomes
+      - Regulatory compliance
+      - Staff training and development
+      - Resource optimization
+      required: true
+    - id: 13
+      name: current_challenges
+      label: Current Care Coordination Challenges
+      hint: Select your top 3 challenges
+      type: select_multiple
+      options:
+      - Communication gaps between providers
+      - Limited resources
+      - Technology barriers
+      - Patient engagement
+      - Staff training needs
+      - Workflow inefficiencies
+      - Data sharing limitations
+      - Reimbursement issues
+      - Regulatory compliance
+      - Measuring outcomes
+      required: true
+    - id: 14
+      name: learning_objectives
+      label: What Do You Hope to Learn
+      hint: Primary learning goal
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: team_attendees
+      label: Will Others From Your Organization Attend
+      hint: null
+      type: select_one
+      options:
+      - Yes - 1-2 additional attendees
+      - Yes - 3-5 additional attendees
+      - Yes - 6+ additional attendees
+      - No - I am the only attendee
+      required: true
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For in-person attendees
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other allergies or restrictions
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Please specify any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: continuing_education
+      label: Do You Need Continuing Education Credits
+      hint: null
+      type: select_one
+      options:
+      - Yes - CME
+      - Yes - CNE
+      - Yes - CPE
+      - Yes - Other
+      - false
+      required: true
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About This Session
+      hint: null
+      type: select_one
+      options:
+      - Colleague referral
+      - Email invitation
+      - Professional organization
+      - Social media
+      - Website search
+      - Conference announcement
+      - Other
+      required: true
+    - id: 20
+      name: special_requests
+      label: Special Requests or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_agreement
+      label: I Agree to Attend the Selected Session
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

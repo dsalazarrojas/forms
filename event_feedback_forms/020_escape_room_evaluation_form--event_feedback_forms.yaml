@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escape Room Evaluation Form
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Game
+      required: false
+    - id: 2
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: room_name
+      label: room_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_length
+      label: event_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_impact
+      label: overall_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: room_difficulty
+      label: room_difficulty
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: false
+    - id: 7
+      name: event_enjoyment
+      label: event_enjoyment
+      hint: null
+      type: select_one
+      options:
+      - Very much
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 8
+      name: room_clarity
+      label: room_clarity
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat confused
+      - Very confused
+      required: false
+    - id: 9
+      name: room_puzzles
+      label: room_puzzles
+      hint: null
+      type: select_multiple
+      options:
+      - Puzzles were well-designed
+      - Puzzles were somewhat well-designed
+      - Puzzles were poorly designed
+      required: false
+    - id: 10
+      name: room_decor
+      label: room_decor
+      hint: null
+      type: select_one
+      options:
+      - Very immersive
+      - Somewhat immersive
+      - Neutral
+      - Somewhat non-immersive
+      - Very non-immersive
+      required: false
+    - id: 11
+      name: event_story
+      label: event_story
+      hint: null
+      type: select_multiple
+      options:
+      - Engaging story
+      - Somewhat engaging story
+      - Not engaging story
+      required: false
+    - id: 12
+      name: event_atmosphere
+      label: event_atmosphere
+      hint: null
+      type: select_one
+      options:
+      - Perfect
+      - Somewhat
+      - Not good
+      required: false
+    - id: 13
+      name: event_clarity
+      label: event_clarity
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Very unclear
+      required: false
+    - id: 14
+      name: event_imagination
+      label: event_imagination
+      hint: null
+      type: select_one
+      options:
+      - Very easy to imagine
+      - Somewhat easy to imagine
+      - Neutral
+      - Somewhat hard to imagine
+      - Very hard to imagine
+      required: false
+    - id: 15
+      name: event_originality
+      label: event_originality
+      hint: null
+      type: select_one
+      options:
+      - Very original
+      - Somewhat original
+      - Neutral
+      - Somewhat unoriginal
+      - Very unoriginal
+      required: false
+    - id: 16
+      name: event_length
+      label: event_length
+      hint: null
+      type: select_one
+      options:
+      - Too short
+      - Just right
+      - Too long
+      required: false
+    - id: 17
+      name: event_puzzles
+      label: event_puzzles
+      hint: null
+      type: select_multiple
+      options:
+      - Puzzles were logical
+      - Puzzles were somewhat logical
+      - Puzzles were illogical
+      required: false
+    - id: 18
+      name: event_imagination
+      label: event_imagination
+      hint: null
+      type: select_multiple
+      options:
+      - Engaging story
+      - Somewhat engaging story
+      - Not engaging story
+      required: false
+    - id: 19
+      name: event_clarity
+      label: event_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Very unclear
+      required: false
+    - id: 20
+      name: event_puzzles
+      label: event_puzzles
+      hint: null
+      type: select_multiple
+      options:
+      - Puzzles were logical
+      - Puzzles were somewhat logical
+      - Puzzles were illogical
+      required: false
+    - id: 21
+      name: event_originality
+      label: event_originality
+      hint: null
+      type: select_multiple
+      options:
+      - Very original
+      - Somewhat original
+      - Neutral
+      - Somewhat unoriginal
+      - Very unoriginal
+      required: false
+    - id: 22
+      name: event_atmosphere
+      label: event_atmosphere
+      hint: null
+      type: select_multiple
+      options:
+      - Perfect
+      - Somewhat
+      - Not good
+      required: false
+    - id: 23
+      name: event_imagination
+      label: event_imagination
+      hint: null
+      type: select_multiple
+      options:
+      - Very easy to imagine
+      - Somewhat easy to imagine
+      - Neutral
+      - Somewhat hard to imagine
+      - Very hard to imagine
+      required: false
+    - id: 24
+      name: event_length
+      label: event_length
+      hint: null
+      type: select_multiple
+      options:
+      - Too short
+      - Just right
+      - Too long
+      required: false
+    - id: 25
+      name: event_clarify
+      label: event_clarify
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Very unclear
+      required: false

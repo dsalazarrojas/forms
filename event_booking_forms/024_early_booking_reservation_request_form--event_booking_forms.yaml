@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Booking Reservation Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      required: true
+    - id: 6
+      name: adults
+      label: Adults
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: children
+      label: Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true

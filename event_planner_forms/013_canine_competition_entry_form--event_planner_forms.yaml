@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canine Competition Entry Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Dog Competition Entry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Welcome to the Canine Competition! Please complete this entry form to
+        register your dog(s).
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: handler_info_header
+      label: -- Handler Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: handler_name
+      label: Handler Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: previous_competitions
+      label: Have you competed before?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once or twice
+      - No, first time
+      required: true
+    - id: 9
+      name: dog_info_header
+      label: -- Dog Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dog_name
+      label: Dog Name
+      hint: Registered name if applicable
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: breed
+      label: Breed or Mix
+      hint: Dog breed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: registration_number
+      label: AKC or Breed Club Registration Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: Dog's birthday
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: color_markings
+      label: Color and Markings
+      hint: Description
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 16
+      name: competition_details_header
+      label: -- Competition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: competition_type
+      label: Type of Competition
+      hint: Select one
+      type: select_one
+      options:
+      - Obedience
+      - Agility
+      - Rally
+      - Conformation
+      - Dock Diving
+      - Flyball
+      - Lure Coursing
+      - Other
+      required: true
+    - id: 18
+      name: competition_division
+      label: Competition Division/Class
+      hint: Select applicable level
+      type: select_one
+      options:
+      - Beginner
+      - Novice
+      - Intermediate
+      - Advanced
+      - Champion
+      - Mixed Level
+      required: true
+    - id: 19
+      name: competition_events
+      label: Which events will you enter?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      - Event 4
+      - Event 5
+      - All events
+      required: true
+    - id: 20
+      name: preferred_run_time
+      label: Preferred Run Time
+      hint: Select one
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - No preference
+      required: false
+    - id: 21
+      name: health_info_header
+      label: -- Health and Behavior Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: current_vaccinations
+      label: Is your dog current on vaccinations?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 23
+      name: health_conditions
+      label: Does your dog have any medical conditions we should know about?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: behavioral_concerns
+      label: Are there any behavioral concerns or triggers?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fees_and_agreements_header
+      label: -- Fees and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: entry_fees
+      label: Total Entry Fees
+      hint: Automatically calculated based on selections
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: liability_waiver
+      label: I acknowledge and agree to the liability waiver
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true
+    - id: 28
+      name: code_of_conduct
+      label: I agree to follow the competition code of conduct
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true

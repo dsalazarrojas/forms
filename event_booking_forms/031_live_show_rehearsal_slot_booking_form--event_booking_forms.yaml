@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Show Rehearsal Slot Booking Form
+    pages:
+    - id: 1
+      name: slot_booking_form
+      label: Live Show Rehearsal Slot Booking
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      required: false
+    - id: 5
+      name: production_name
+      label: Production Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: production_contact
+      label: Production Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_email
+      label: Production Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: production_phone
+      label: Production Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Accepted
+      - Rejected
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

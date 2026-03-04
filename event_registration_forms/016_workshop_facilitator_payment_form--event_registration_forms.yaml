@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Facilitator Payment Form
+    pages:
+    - id: 1
+      name: workshop_facilitator_payment_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: Your Company
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: true
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: Please provide payment details
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: workshop_location
+      label: Workshop Location
+      hint: Please enter workshop location
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: total_participants
+      label: Total Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: workshop_facilitator_id
+      label: Workshop Facilitator ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: workshop_status
+      label: Workshop Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 20
+      name: workshop_status_note
+      label: Workshop Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: workshop_price
+      label: Workshop Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: workshop_currency
+      label: Workshop Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: workshop_currency_symbol
+      label: Currency Symbol
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: workshop_tax
+      label: Workshop Tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: workshop_discount
+      label: Workshop Discount
+      hint: null
+      type: number
+      options: []
+      required: true

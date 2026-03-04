@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Workshop Engagement Survey
+    pages:
+    - id: 1
+      name: participant_satisfaction
+      label: participant_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: key_takeaways
+      label: key_takeaways
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false

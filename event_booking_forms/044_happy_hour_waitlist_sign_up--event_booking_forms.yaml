@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: happy-hr-waitlist-sign-up
+    pages:
+    - id: 1
+      name: happy_hr_waitlist_sign_up_page1
+      label: Happy Hour Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_in_people
+      label: number-in-people
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_and_time
+      label: date-and-time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: table_size
+      label: table-size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: waitlist_position
+      label: waitlist-position
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''First in line''}'
+      - '{''label'': ''Second in line''}'
+      - '{''label'': ''Third in line''}'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: confirmation_2
+      label: confirmation-2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: confirmation_3
+      label: confirmation-3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

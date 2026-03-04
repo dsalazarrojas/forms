@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural-program-membership-subscription-form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 10
+      name: payment_plan_start_date
+      label: Payment Plan Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_plan_end_date
+      label: Payment Plan End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_plan_frequency
+      label: Payment Plan Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 13
+      name: billing_address_line_1
+      label: Billing Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_postal_code
+      label: Billing Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_country
+      label: Billing Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_note
+      label: Submit and save
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: save_and_view
+      label: Save and View
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_button
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cancel_form_button
+      label: Cancel Form
+      hint: null
+      type: text
+      options: []
+      required: false

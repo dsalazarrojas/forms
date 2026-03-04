@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Reunion T Shirt Order Form
+    pages:
+    - id: 1
+      name: family_reunion_t_shirt_order_form
+      label: T Shirt Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_and_surname
+      label: Name and Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: false
+    - id: 5
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 6
+      name: family_member_count
+      label: How many family members are attending?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shirt_design_id
+      label: Shirt Design
+      hint: null
+      type: select_multiple
+      options:
+      - Design 1
+      - Design 2
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

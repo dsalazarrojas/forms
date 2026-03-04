@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trick Or Treat Drive Thru Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      required: true
+    - id: 6
+      name: trick_or_treaters
+      label: Trick or Treaters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: costume
+      label: Costume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: trick_or_treat_time
+      label: Trick or Treat Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: trick_or_treat_time_range
+      label: Trick or Treat Time Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trick_or_treat_time_end
+      label: Trick or Treat Time End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: trick_or_treat_time_end_range
+      label: Trick or Treat Time End Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trick_or_treaters_count
+      label: Trick or Treaters Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: trick_or_treaters_count_range
+      label: Trick or Treaters Count Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: trick_or_treat_notes
+      label: Trick or Treat Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: trick_or_treat_description
+      label: Trick or Treat Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true

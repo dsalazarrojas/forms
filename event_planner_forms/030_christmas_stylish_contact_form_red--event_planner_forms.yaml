@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Stylish Contact Form Red
+    pages:
+    - id: 1
+      name: sender_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: So we can respond to you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: If contacting for business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: subject
+      label: Subject
+      hint: What is this regarding
+      type: select_one
+      options:
+      - General Inquiry
+      - Christmas Event Information
+      - Product Inquiry
+      - Order Question
+      - Partnership Opportunity
+      - Media Inquiry
+      - Feedback
+      - Other
+      required: true
+    - id: 7
+      name: inquiry_type
+      label: Inquiry Type
+      hint: What best describes your inquiry
+      type: select_one
+      options:
+      - Question about services
+      - Question about products
+      - Event planning inquiry
+      - Booking request
+      - Complaint or issue
+      - Compliment
+      - Suggestion
+      - Other
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is your inquiry
+      type: select_one
+      options:
+      - Low not urgent
+      - Medium normal priority
+      - High somewhat urgent
+      - Urgent needs quick response
+      required: true
+    - id: 9
+      name: section_inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: christmas_experience
+      label: Christmas Experience
+      hint: Share your holiday experience
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: holiday_wishes
+      label: Holiday Wishes
+      hint: What are your holiday wishes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: favorite_christmas_memory
+      label: Favorite Christmas Memory
+      hint: Share a special memory
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_holiday_sharing
+      label: -- Holiday Sharing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: message
+      label: Your Message
+      hint: How can we help you
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we respond
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Any method is fine
+      required: true
+    - id: 16
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-8pm
+      - Any time
+      required: true
+    - id: 17
+      name: section_response_preference
+      label: -- Response Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: newsletter_signup
+      label: Join Newsletter
+      hint: Receive holiday updates and offers
+      type: select_one
+      options:
+      - Yes subscribe me
+      - No thank you
+      required: true
+    - id: 19
+      name: social_media_follow
+      label: Social Media
+      hint: Do you follow us on social media
+      type: select_one
+      options:
+      - Yes on all platforms
+      - Yes on some
+      - Not yet but I will
+      - No I do not use social media
+      required: false
+    - id: 20
+      name: referral_source
+      label: How Did You Find Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Search Engine
+      - Friend or Family
+      - Advertisement
+      - Previous Customer
+      - Other
+      required: true
+    - id: 21
+      name: section_additional
+      label: -- Additional --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: attachments
+      label: Attachments
+      hint: Any files to share
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: privacy_consent
+      label: Privacy Consent
+      hint: I agree to privacy policy
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 24
+      name: christmas_greeting
+      label: Christmas Greeting
+      hint: Send us your holiday greeting
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: how_can_we_help
+      label: How Can We Make Your Christmas Better
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false

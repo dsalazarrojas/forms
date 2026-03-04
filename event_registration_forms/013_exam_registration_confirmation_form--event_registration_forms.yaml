@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: exam_registration_confirmation_form
+    pages:
+    - id: 1
+      name: confirm_examination
+      label: confirm_examination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_info
+      label: student_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: exam_location
+      label: exam_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: examination
+      label: examination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: exam_time
+      label: exam_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: exam_duration
+      label: exam_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: examination
+      label: examination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: exam_status
+      label: exam_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: exam_result
+      label: exam_result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: exam_note
+      label: exam_note
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

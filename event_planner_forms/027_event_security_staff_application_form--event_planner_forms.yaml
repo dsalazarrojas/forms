@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Security Staff Application Form
+    pages:
+    - id: 1
+      name: event_security_staff_application_form_page_1
+      label: event_security_staff_application_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_security_staff_application_form_experience
+      label: event_security_staff_application_form_experience_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_security_staff_application_form_availability
+      label: event_security_staff_application_form_availability_label
+      hint: null
+      type: select_one
+      options:
+      - event_security_staff_available_monday
+      - event_security_staff_available_tuesday
+      - event_security_staff_available_wednesday
+      - event_security_staff_available_thursday
+      - event_security_staff_available_friday
+      - event_security_staff_available_saturday
+      - event_security_staff_available_sunday
+      required: true
+    - id: 4
+      name: event_security_staff_application_form_contact
+      label: event_security_staff_application_form_contact_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: event_security_staff_application_form_phone
+      label: event_security_staff_application_form_phone_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_security_staff_application_form_notes
+      label: event_security_staff_application_form_notes_label
+      hint: null
+      type: note
+      options: []
+      required: false

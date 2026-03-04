@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Debrief Form
+    pages:
+    - id: 1
+      name: event_debrief_form
+      label: Event Debrief Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_organization_id
+      label: Event Organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: event_attendees
+      label: Event Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false

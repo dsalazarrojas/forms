@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Policy Conference Raffle Survey
+    pages:
+    - id: 1
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: session_attended_1
+      label: Which session did you attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_attended_2
+      label: Which session did you attend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: session_attended_3
+      label: Which session did you attend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rating
+      label: Overall Session Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: session_content
+      label: Session Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_value
+      label: Session Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: raffle_entry
+      label: Raffle Entry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_improvement
+      label: Suggestions for future session improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_improvement_ideas
+      label: Ideas for future session content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_improvement_ideas_why
+      label: Why these ideas?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_improvement_ideas_details
+      label: More details about these ideas
+      hint: null
+      type: text
+      options: []
+      required: false

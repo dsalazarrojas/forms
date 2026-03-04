@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: livestock_welfare_workshop_recording_consent_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to be recorded
+      - I do not agree to be recorded
+      - I need more information on the recording process
+      required: false
+    - id: 5
+      name: recording_agreement
+      label: Recording Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to be recorded
+      - I do not agree to be recorded
+      - I need more information on the recording process
+      required: false
+    - id: 6
+      name: recording_consent
+      label: Recording Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: recording_purpose
+      label: Recording Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false

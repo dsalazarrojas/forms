@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_raffle_ticket_number_generator
+    pages:
+    - id: 1
+      name: generate_raffle
+      label: Generate Raffle
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 2
+      name: raffle_title
+      label: Raffle Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: raffle_description
+      label: Raffle Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ticket_start_number
+      label: Start Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ticket_number
+      label: Ticket Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: download_pdf
+      label: Download PDF
+      hint: Select the number of tickets to download as PDF.
+      type: select_one
+      options:
+      - '100'
+      - '200'
+      - '50'
+      - '500'
+      - '2000'
+      required: false

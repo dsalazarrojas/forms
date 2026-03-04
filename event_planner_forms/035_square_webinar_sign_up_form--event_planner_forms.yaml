@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Webinar Sign Up Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_multiple
+      options:
+      - Webinar Registered
+      - Webinar Confirmed
+      - Webinar Rescheduled
+      - Webinar Canceled
+      - Webinar Missed
+      required: true

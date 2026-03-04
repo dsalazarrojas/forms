@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Support Workshop Evaluation
+    pages:
+    - id: 1
+      name: section_workshop_details
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_title
+      label: Workshop Title
+      hint: Enter the full name of the workshop attended
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: workshop_date
+      label: Date of Workshop
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: facilitator_name
+      label: Facilitator Name
+      hint: Enter the name of the main instructor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_participant_feedback
+      label: -- Participant Feedback --
+      hint: Please rate your experience from 1 (poor) to 5 (excellent)
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: How satisfied were you with the workshop overall?
+      hint: 1 being not satisfied, 5 being very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: content_relevance
+      label: How relevant was the content to your role as a caregiver?
+      hint: 1 being not relevant, 5 being very relevant
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: presentation_clarity
+      label: How clear was the presentation of information?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: most_useful_topic
+      label: What was the most useful topic covered today?
+      hint: Please specify one main takeaway
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: least_useful_topic
+      label: What was the least useful topic covered?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_facilitator_eval
+      label: -- Facilitator Evaluation --
+      hint: Rate the instructor's performance
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: facilitator_knowledge
+      label: Rate the facilitator's knowledge of the topic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: engagement_level
+      label: Rate the facilitator's ability to engage participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: question_handling
+      label: Rate how well the facilitator handled questions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_logistics_suggestions
+      label: -- Logistics and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: venue_rating
+      label: Quality of the venue or online platform
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: time_allocation
+      label: Was the time allocated for the workshop sufficient?
+      hint: null
+      type: select_one
+      options:
+      - Too Short
+      - Just Right
+      - Too Long
+      required: true
+    - id: 18
+      name: future_topics
+      label: What topics would you like to see in future workshops?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improve_suggestion
+      label: One thing we could do to improve this workshop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: referral_likelihood
+      label: Would you recommend this workshop to others?
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Any additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false

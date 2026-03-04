@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Planning Board Meeting Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Name of board member or participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: For meeting communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact for coordination
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_title
+      label: Position or Title
+      hint: Board member or executive title
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendance_status
+      label: Will you attend the meeting
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I will not attend
+      - Tentative - will confirm later
+      - Virtual attendance only
+      required: true
+    - id: 7
+      name: attendance_method
+      label: Preferred attendance method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual - via Zoom or Teams
+      - Hybrid - flexible
+      - Not applicable
+      required: false
+    - id: 8
+      name: meeting_date
+      label: Meeting Date
+      hint: Date of the planning meeting
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: meeting_time
+      label: Meeting Time
+      hint: Start time of meeting
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: meeting_location
+      label: Meeting Location or Venue
+      hint: Physical address or virtual link
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary restrictions or allergies
+      hint: For catering purposes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_accommodations
+      label: Special accommodations needed
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agenda_items
+      label: Agenda items for discussion
+      hint: Topics you want covered
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: priority_topics
+      label: Priority discussion topics
+      hint: Most important items to cover
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pre_meeting_prep
+      label: Pre-meeting preparation materials needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, please send prep materials
+      - No, not needed
+      - Unsure
+      required: true
+    - id: 16
+      name: materials_preferences
+      label: Preferred format for materials
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Printed copies
+      - Online portal access
+      - PDF attachments
+      - Video presentations
+      required: false
+    - id: 17
+      name: budget_allocation
+      label: Budget allocation proposals
+      hint: Any budget items to propose
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: strategic_initiatives
+      label: Strategic initiatives for next year
+      hint: Goals or new directions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resource_needs
+      label: Resource needs or requirements
+      hint: Budget, staff, equipment, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: meeting_minutes_copy
+      label: Would you like a copy of meeting minutes
+      hint: null
+      type: select_one
+      options:
+      - Yes, email me the minutes
+      - Yes, include in portal
+      - No, not needed
+      required: false
+    - id: 21
+      name: availability_follow_up
+      label: Availability for follow-up meeting
+      hint: If additional planning sessions needed
+      type: text
+      options: []
+      required: false

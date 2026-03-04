@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pajama Party Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pajama_clad_choices
+      label: Pajama Clad Choices
+      hint: Choose one or more options
+      type: select_multiple
+      options:
+      - Pajamas
+      - Pajama Party Hat
+      - Pajama Party Hat
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: pajama_party_time
+      label: Pajama Party Time
+      hint: null
+      type: select_one
+      options:
+      - 6:00 AM
+      - 7:00 AM
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: select_one
+      options:
+      - School Hall
+      - Community Center
+      - Home
+      required: false
+    - id: 9
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Parent
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

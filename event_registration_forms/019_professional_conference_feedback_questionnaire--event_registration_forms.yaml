@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Conference Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: How can we improve our conference?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speaker_performance
+      label: Speaker Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Organized by
+      - External
+      - Other
+      required: false
+    - id: 4
+      name: session_quality
+      label: Session quality
+      hint: What was the quality of the sessions you attended?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: content
+      label: Content
+      hint: What did you think of the content of the sessions?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: speaker_attendance
+      label: Speaker attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: session_attendance
+      label: Session Attendance
+      hint: How many sessions did you attend?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: networking
+      label: Networking
+      hint: How would you rate the networking opportunities?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: feedback
+      label: Additional feedback
+      hint: Do you have any additional feedback?
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: conference_facilities
+      label: Conference Facilities
+      hint: What did you think of the conference facilities?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: recommendations
+      label: Recommendations for future improvements
+      hint: Do you have any recommendations for future conferences?
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: suggestions
+      label: Additional suggestions
+      hint: Do you have any additional suggestions for future conferences?
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Event venue
+      - Virtual
+      - Other
+      - Online
+      required: false
+    - id: 19
+      name: attendees_count
+      label: How many people attended?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: attendee_diet
+      label: How many attendees would you expect to attend in the next 6 months?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: budget
+      label: Budget
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 22
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Seminar
+      - Meeting
+      - Webinar
+      required: false
+    - id: 23
+      name: attendees_interest
+      label: Are you interested in this type of event?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: repeat_attendance
+      label: Would you come back?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: next_event
+      label: Next event
+      hint: null
+      type: date
+      options: []
+      required: false

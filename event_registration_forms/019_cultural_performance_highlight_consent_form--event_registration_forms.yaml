@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Performance Highlight Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: permission
+      label: permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: image_release
+      label: image release
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: performance_release
+      label: performance release
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: video_release
+      label: video release
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: image_description
+      label: image description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: performance_description
+      label: performance description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: video_description
+      label: video description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: created_at
+      label: created at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: participant_age
+      label: participant age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: participant_age_hint
+      label: participant age
+      hint: Please enter age
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: participant_age_error
+      label: participant age error
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: participant_gender
+      label: participant gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: true
+    - id: 23
+      name: participant_gender_hint
+      label: participant gender
+      hint: Select gender
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: true
+    - id: 24
+      name: participant_gender_error
+      label: participant gender error
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: participant_gender_other
+      label: participant gender other
+      hint: null
+      type: text
+      options: []
+      required: false

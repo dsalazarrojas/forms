@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Movie Quiz
+    pages:
+    - id: 1
+      name: main
+      label: halloween-movie-quiz-main
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: movie_title
+      label: movie-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: movie_sorted_by_date
+      label: movie-sorted-by-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: movie_sorted_by_genre
+      label: movie-sorted-by-genre
+      hint: null
+      type: select_multiple
+      options:
+      - Horror
+      - Comedy
+      - Thriller
+      required: false
+    - id: 5
+      name: movie_sorted_by_director
+      label: movie-sorted-by-director
+      hint: null
+      type: select_one
+      options:
+      - Tim Burton
+      - John Carpenter
+      required: false
+    - id: 6
+      name: answer_choice_one
+      label: answer-choice-one
+      hint: null
+      type: select_multiple
+      options:
+      - The Nightmare Before Christmas
+      - Other
+      required: false
+    - id: 7
+      name: answer_choice_two
+      label: answer-choice-two
+      hint: null
+      type: select_one
+      options:
+      - Hocus Pocus
+      - Gremlins
+      required: true
+    - id: 8
+      name: answer_choice_three
+      label: answer-choice-three
+      hint: null
+      type: select_one
+      options:
+      - Poltergeist
+      - The Witches
+      required: true
+    - id: 9
+      name: answer_choice_four
+      label: answer-choice-four
+      hint: null
+      type: select_one
+      options:
+      - The Conjuring
+      - The Conjuring 2
+      required: false
+    - id: 10
+      name: answer_choice_five
+      label: answer-choice-five
+      hint: null
+      type: select_one
+      options:
+      - Poltergeist
+      - The Ring
+      required: false
+    - id: 11
+      name: answer_choice_six
+      label: answer-choice-six
+      hint: null
+      type: select_one
+      options:
+      - It
+      - The Shining
+      required: false
+    - id: 12
+      name: answer_choice_seven
+      label: answer-choice-seven
+      hint: null
+      type: select_one
+      options:
+      - The Ring
+      - The Amityville Horror
+      required: false
+    - id: 13
+      name: answer_choice_eight
+      label: answer-choice-eight
+      hint: null
+      type: select_one
+      options:
+      - The Exorcist
+      - The Exorcist 2
+      required: false

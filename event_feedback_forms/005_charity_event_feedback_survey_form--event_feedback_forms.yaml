@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Feedback Survey Form
+    pages:
+      - id: 1
+        name: section_respondent_info
+        label: -- Your Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Your Email
+        hint: For contact purposes
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: event_attended
+        label: Which Event Did You Attend
+        hint: Name of the charity event
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: attendance_date
+        label: Date You Attended
+        hint: When was the event
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_ratings
+        label: -- Event Ratings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: event_planning
+        label: Event Planning and Coordination
+        hint: Rate the planning and organization
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 8
+        name: staff_volunteers
+        label: Staff and Volunteer Professionalism
+        hint: How professional was the team
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 9
+        name: event_activities
+        label: Quality of Event Activities and Programs
+        hint: Rate the activities offered
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 10
+        name: attendee_engagement
+        label: Attendee Engagement and Atmosphere
+        hint: How engaging was the event
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 11
+        name: section_impact
+        label: -- Impact and Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: mission_clarity
+        label: Clarity of Charity Mission and Goals
+        hint: Did you understand what they do
+        type: select_one
+        options: ["Very Clear", "Clear", "Somewhat Clear", "Unclear"]
+        required: true
+      - id: 13
+        name: impact_explanation
+        label: How Funds Will Be Used
+        hint: Was this explained adequately
+        type: select_one
+        options: ["Very Clear", "Clear", "Somewhat Clear", "Not Explained"]
+        required: true
+      - id: 14
+        name: donation_intent
+        label: Did This Event Inspire You to Donate
+        hint: Will you contribute
+        type: select_one
+        options: ["Yes, Definitely", "Probably", "Maybe", "No"]
+        required: true
+      - id: 15
+        name: section_experience
+        label: -- Personal Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: networking_value
+        label: Value of Networking Opportunities
+        hint: How good were the connections
+        type: select_one
+        options: ["Very Valuable", "Valuable", "Somewhat Valuable", "Not Valuable"]
+        required: false
+      - id: 17
+        name: overall_experience
+        label: Overall Experience at This Event
+        hint: Rate your experience
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 18
+        name: what_improved
+        label: What Could Be Improved
+        hint: Your suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: recommend_event
+        label: Would You Recommend This Event to Others
+        hint: Will you suggest it to friends
+        type: select_one
+        options: ["Definitely Yes", "Probably Yes", "Not Sure", "Probably No", "Definitely No"]
+        required: true
+      - id: 20
+        name: additional_feedback
+        label: Additional Feedback or Comments
+        hint: Any other thoughts or suggestions
+        type: text
+        options: []
+        required: false

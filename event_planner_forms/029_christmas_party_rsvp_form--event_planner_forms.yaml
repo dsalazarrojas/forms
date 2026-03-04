@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party RSVP Form
+    pages:
+    - id: 1
+      name: guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_response
+      label: -- RSVP Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attendance
+      label: Will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe, I will let you know later
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests Attending (including yourself)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guests_names
+      label: Names of Additional Guests
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_section
+      label: -- Dietary Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut allergies
+      - Shellfish allergies
+      - Dairy-free
+      - Other
+      required: false
+    - id: 12
+      name: dietary_details
+      label: Please Describe Any Allergies or Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: seating_preference
+      label: Seating Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: activities_interest
+      label: Activities You Are Interested In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_needs
+      label: Any Special Requests or Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: plus_one
+      label: Can we count on you to bring someone special?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Already included in guest count
+      required: false
+    - id: 19
+      name: comments
+      label: Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

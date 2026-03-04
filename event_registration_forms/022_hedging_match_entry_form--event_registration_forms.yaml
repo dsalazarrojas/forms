@@ -1,0 +1,59 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hedging_match_entry_form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hedge_type
+      label: hedge_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Long Hedge''}'
+      - '{''label'': ''Short Hedge''}'
+      - '{''label'': ''Market Hedge''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: underlying_asset
+      label: underlying_asset
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Stock''}'
+      - '{''label'': ''Bond''}'
+      - '{''label'': ''Currency''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: match_timing
+      label: match_timing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: match_start_time
+      label: match_start_time
+      hint: null
+      type: time
+      options: []
+      required: false

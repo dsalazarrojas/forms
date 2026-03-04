@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Book Club Feedback Form
+    pages:
+    - id: 1
+      name: title
+      label: leadership_book_club_feedback_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: favorite_book
+      label: favorite_book
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: favorite_character
+      label: favorite_character
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: favorite_author
+      label: favorite_author
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

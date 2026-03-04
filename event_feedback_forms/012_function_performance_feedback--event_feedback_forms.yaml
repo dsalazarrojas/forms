@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Function Performance Feedback
+    pages:
+    - id: 1
+      name: page_1
+      label: Event Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

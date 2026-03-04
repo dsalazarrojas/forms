@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Arts Club Renewal Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe Payment
+      - Cash
+      - Credit Card
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Partial
+      - Unpaid
+      required: false
+    - id: 11
+      name: renewal_reason
+      label: Renewal Reason
+      hint: null
+      type: text
+      options: []
+      required: false

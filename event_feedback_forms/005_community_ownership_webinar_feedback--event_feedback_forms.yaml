@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Ownership Webinar Feedback
+    pages:
+      - id: 1
+        name: feedback_intro
+        label: -- Webinar Feedback --
+        hint: We appreciate your participation and your feedback.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: webinar_date
+        label: Date of the Webinar
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: overall_rating
+        label: Overall Webinar Rating
+        hint: Scale of 1 to 5.
+        type: select_one
+        options: [5 - Excellent, 4 - Good, 3 - Average, 2 - Fair, 1 - Poor]
+        required: true
+      - id: 5
+        name: expectation_met
+        label: Did the webinar meet your expectations?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 6
+        name: speaker_knowledge_rating
+        label: Rate the Speakers Knowledge
+        hint: null
+        type: select_one
+        options: [Excellent, Good, Average, Poor]
+        required: true
+      - id: 7
+        name: platform_ease_rating
+        label: Rate the Webinar Platform Ease of Use
+        hint: null
+        type: select_one
+        options: [Very Easy to Use, Easy to Use, Difficult, Very Difficult]
+        required: true
+      - id: 8
+        name: favorite_topic
+        label: What was your favorite topic covered?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: additional_info_needed
+        label: Which topic would you like more information on?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: information_relevance
+        label: How relevant was the information to your community?
+        hint: null
+        type: select_one
+        options: [Very Relevant, Relevant, Neutral, Not Relevant]
+        required: true
+      - id: 11
+        name: additional_comments
+        label: Any additional comments or suggestions?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: attend_again
+        label: Would you attend another webinar from us?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 13
+        name: future_webinar_topics
+        label: What topics would you be interested in for future webinars?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: followup_email
+        label: Your Email Address
+        hint: For follow-up if needed.
+        type: email
+        options: []
+        required: false
+      - id: 15
+        name: thank_you_footer
+        label: -- Thank You --
+        hint: Your feedback helps us create better sessions.
+        type: note
+        options: []
+        required: false

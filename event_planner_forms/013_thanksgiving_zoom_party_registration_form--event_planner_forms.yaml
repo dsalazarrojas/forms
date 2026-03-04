@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Zoom Party Registration Form
+    pages:
+    - id: 1
+      name: thanksgiving_zoom_party_registration_form
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: host_details
+      label: Host Details
+      hint: Please provide host information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_status
+      label: RSVP Status
+      hint: Select your RSVP status
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''attending'', ''label'': ''Attending''}'
+      - '{''id'': 2, ''name'': ''not_attending'', ''label'': ''Not Attending''}'
+      - '{''id'': 3, ''name'': ''declined'', ''label'': ''Declined''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: timezone
+      label: Timezone
+      hint: Timezone
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guests
+      label: Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: food
+      label: Food
+      hint: Food options
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''turkey'', ''label'': ''Turkey''}'
+      - '{''id'': 2, ''name'': ''vegan'', ''label'': ''Vegan''}'
+      - '{''id'': 3, ''name'': ''vegetarian'', ''label'': ''Vegetarian''}'
+      required: false
+    - id: 13
+      name: food_comment
+      label: Additional Comments about food
+      hint: Any additional comments
+      type: text
+      options: []
+      required: false

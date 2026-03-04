@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Space Theme
+    pages:
+    - id: 1
+      name: intro
+      label: Contact Us
+      hint: Reach out to us for any inquiries
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_category
+      label: Event Category
+      hint: Type of event
+      type: select_one
+      options:
+      - Corporate Event
+      - Social Gathering
+      - Conference
+      - Workshop
+      - Celebration
+      - Other
+      required: true
+    - id: 6
+      name: event_size
+      label: Event Size
+      hint: Expected attendees
+      type: select_one
+      options:
+      - Small - Under 50
+      - Medium - 50 to 200
+      - Large - 200 to 500
+      - Extra Large - Over 500
+      required: true
+    - id: 7
+      name: preferred_date
+      label: Preferred Event Date
+      hint: When you want the event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: location_preference
+      label: Location Preference
+      hint: Venue type
+      type: select_one
+      options:
+      - Indoor Venue
+      - Outdoor Venue
+      - Hybrid
+      - No Preference
+      required: false
+    - id: 9
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: catering_needed
+      label: Catering Required
+      hint: Do you need catering
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 11
+      name: av_equipment
+      label: AV Equipment Needed
+      hint: Audio visual requirements
+      type: select_multiple
+      options:
+      - Projector
+      - Microphones
+      - Sound System
+      - Lighting
+      - Video Conferencing
+      - None
+      required: false
+    - id: 12
+      name: budget
+      label: Estimated Budget
+      hint: Your budget range
+      type: select_one
+      options:
+      - Budget Conscious
+      - Moderate
+      - Flexible
+      - Premium
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

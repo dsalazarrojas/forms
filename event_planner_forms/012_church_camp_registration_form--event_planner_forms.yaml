@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Camp Registration Form
+    pages:
+    - id: 1
+      name: camper_name
+      label: Camper name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: birth_date
+      label: Birth date
+      hint: Camper date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Guardian name
+      hint: Parent or guardian full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guardian_phone
+      label: Guardian phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: camper_allergies
+      label: Camper allergies
+      hint: List allergies or medical conditions or null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dietary_needs
+      label: Dietary needs
+      hint: Specify dietary restrictions or null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_choice
+      label: Session choice
+      hint: Select which camp session to attend
+      type: select_one
+      options:
+      - Session A
+      - Session B
+      - Session C
+      required: true
+    - id: 8
+      name: medical_consent
+      label: Medical consent
+      hint: Parent guardian consents to medical treatment if needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: emergency_contact_secondary
+      label: Secondary emergency contact
+      hint: Alternate contact name and phone or null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_needs
+      label: Special needs
+      hint: Any accommodations required or null
+      type: text
+      options: []
+      required: false

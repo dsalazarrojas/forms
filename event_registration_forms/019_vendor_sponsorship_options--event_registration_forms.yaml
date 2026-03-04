@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Sponsorship Options
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Select one of the options below
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Gold''}'
+      - '{''id'': 2, ''name'': ''Silver''}'
+      - '{''id'': 3, ''name'': ''Bronze''}'
+      required: false
+    - id: 3
+      name: sponsorship_type
+      label: Sponsorship Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Booth''}'
+      - '{''id'': 2, ''name'': ''Event Program''}'
+      - '{''id'': 3, ''name'': ''Both''}'
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sponsorship_details
+      label: Sponsorship Details
+      hint: null
+      type: text
+      options: []
+      required: false

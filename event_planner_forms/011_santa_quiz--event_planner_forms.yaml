@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Santa Quiz
+    pages:
+    - id: 1
+      name: about_santa
+      label: About Santa
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: favorite_food
+      label: Favorite Food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: what_he_likes
+      label: What Santa Likes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: what_he_dislikes
+      label: What Santa Dislikes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

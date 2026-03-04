@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Communication Form
+    pages:
+    - id: 1
+      name: volunteer_information
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_communication_preferences
+      label: Volunteer Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer Text Messages
+      - Volunteer Phone Calls
+      - Volunteer Emails
+      required: false
+    - id: 6
+      name: volunteer_communication_channel
+      label: Volunteer Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 7
+      name: volunteer_communication_frequency
+      label: Volunteer Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: volunteer_communication_method
+      label: Volunteer Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Text Message
+      - Phone Call
+      - Email
+      required: false
+    - id: 9
+      name: volunteer_communication_time
+      label: Volunteer Communication Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_message
+      label: Volunteer Message
+      hint: null
+      type: text
+      options: []
+      required: false

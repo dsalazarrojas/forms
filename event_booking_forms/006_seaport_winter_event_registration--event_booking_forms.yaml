@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seaport Winter Event Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: preferred_food
+      label: Preferred Food
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Vegan''}'
+      - '{''id'': 2, ''label'': ''Omnivore''}'
+      - '{''id'': 3, ''label'': ''Pescatarian''}'
+      required: true
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_arrival
+      label: Time Of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true

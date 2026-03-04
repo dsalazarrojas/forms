@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Participation Survey
+    pages:
+    - id: 1
+      name: camper_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: camper_participating
+      label: Does the camper wish to participate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: number_of_campers
+      label: Number of campers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: super_bowl_questionnaire
+    pages:
+    - id: 1
+      name: event_details
+      label: Super Bowl Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendees
+      label: How Many Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: score_board
+      label: Score Board
+      hint: Please select the score
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 4
+      name: favorite_food
+      label: Favorite Food
+      hint: What was your favorite food?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Event Feedback
+      hint: What would you like to tell us about your experience?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_attended
+      label: Date Attended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: event_name
+      label: Event Name
+      hint: null
+      type: select_one
+      options:
+      - Super Bowl
+      - Event 2
+      - Event 3
+      required: false

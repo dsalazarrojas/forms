@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_rehabilitation_workshop_registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: interests
+      label: Interests
+      hint: null
+      type: select_one
+      options:
+      - Wildlife Conservation
+      - Wildlife Education
+      - Wildlife Research
+      - Wildlife Rehabilitation
+      - Wildlife Management
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: event_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: event_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: event_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_capacity
+      label: Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Full
+      required: false
+    - id: 20
+      name: attendee_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Attended
+      - Absent
+      - Late
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Online Payment
+      - Offline Payment
+      required: false
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 23
+      name: attendee_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

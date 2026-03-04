@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: quilt_intake_form
+    pages:
+    - id: 1
+      name: design_preferences
+      label: Quilt Design Preferences
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Rustic
+      - Victorian
+      - Celtic
+      - Victorian Revival
+      required: true
+    - id: 2
+      name: quilt_size
+      label: Quilt Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fabric_color
+      label: Quilt Fabric Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Purple
+      - Orange
+      required: false
+    - id: 4
+      name: quilting_style
+      label: Quilting Style
+      hint: null
+      type: select_one
+      options:
+      - Hand Quilting
+      - Machine Quilting
+      - Freehand Quilting
+      required: false
+    - id: 5
+      name: quilt_pattern
+      label: Quilt Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - Log Cabin
+      - Chevron
+      - Wavy
+      - Striped
+      - Solid
+      required: false
+    - id: 6
+      name: quilting_services_required
+      label: Quilting Services Required
+      hint: null
+      type: select_multiple
+      options:
+      - Quilting Design
+      - Fabric Choice
+      - Quilting Pattern
+      required: false
+    - id: 7
+      name: fabric_choice
+      label: Fabric Choice
+      hint: null
+      type: select_multiple
+      options:
+      - Cotton
+      - Wool
+      - Flannel
+      - Muslin
+      required: false
+    - id: 8
+      name: timeline
+      label: Timeline Requirements
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: quilt_deadline
+      label: Quilt Deadline
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: quilt_deadline_comment
+      label: Quilt Deadline Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quilt_deadline_status
+      label: Quilt Deadline Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Delayed
+      required: false
+    - id: 13
+      name: quilt_deadline_date
+      label: Quilt Deadline Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip_code
+      label: Zip Code
+      hint: Zip Code
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: quilt_deadline_note
+      label: Quilt Deadline Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_requirements
+      label: Additional Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Design Preference
+      - Fabric Choice
+      - Quilting Pattern
+      required: false
+    - id: 20
+      name: design_preferences_comment
+      label: Design Preference Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_requirements_note
+      label: Additional Requirements Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Birthday
+      - Anniversary
+      - Holiday
+      required: false
+    - id: 23
+      name: budget
+      label: Budget
+      hint: Budget
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: additional_requirements_2
+      label: Additional Requirements 2
+      hint: null
+      type: select_multiple
+      options:
+      - Event Theme
+      - Quilting Style
+      - Event Size
+      required: false
+    - id: 25
+      name: additional_requirements_3
+      label: Additional Requirements 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

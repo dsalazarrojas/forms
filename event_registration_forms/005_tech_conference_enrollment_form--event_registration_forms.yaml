@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference Enrollment Form
+    pages:
+    - id: 1
+      name: tech_conference_enrollment_form
+      label: Tech Conference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: session_interest
+      label: session_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_preferences
+      label: event_preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: signup_info
+      label: signup_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_type
+      label: attendee_type
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Speaker
+      - Attendee
+      required: false
+    - id: 9
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: attendee_notes
+      label: attendee_notes
+      hint: null
+      type: text
+      options: []
+      required: false

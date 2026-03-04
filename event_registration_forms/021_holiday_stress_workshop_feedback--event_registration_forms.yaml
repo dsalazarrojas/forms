@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Stress Workshop Feedback
+    pages:
+    - id: 1
+      name: holiday_stress_workshop_feedback
+      label: Holiday Stress Workshop Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: what_do_you_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stress_levels
+      label: stress_levels
+      hint: On a scale of 0-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: Do you have any suggestions for us?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Would you like to be contacted for follow-up questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_contact
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''Both''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Do you have any comments?
+      hint: null
+      type: text
+      options: []
+      required: false

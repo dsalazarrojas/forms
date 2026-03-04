@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Technology Exchange Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Tech Talk''}'
+      - '{''id'': 2, ''label'': ''Networking Event''}'
+      - '{''id'': 3, ''label'': ''Workshop''}'
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_tags
+      label: Job Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Frontend''}'
+      - '{''id'': 2, ''label'': ''Backend''}'
+      - '{''id'': 3, ''label'': ''Fullstack''}'
+      required: false
+    - id: 11
+      name: job_technologies
+      label: Job Technologies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Python''}'
+      - '{''id'': 2, ''label'': ''JavaScript''}'
+      - '{''id'': 3, ''label'': ''Java''}'
+      - '{''id'': 4, ''label'': ''C++''}'
+      required: true
+    - id: 12
+      name: job_experience
+      label: Job Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_salary
+      label: Job Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: job_salary_currency
+      label: Job Salary Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''JPY''}'
+      required: true
+    - id: 16
+      name: job_salary_min
+      label: Job Salary Min
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: job_salary_max
+      label: Job Salary Max
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Archived''}'
+      - '{''id'': 3, ''label'': ''Inactive''}'
+      required: true
+    - id: 21
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: job_start_time
+      label: Job Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false

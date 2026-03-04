@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Performance Attendance Form
+    pages:
+    - id: 1
+      name: attendance_date
+      label: attendance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: number_of_people
+      label: number_of_people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_id
+      label: performance_id
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false
+    - id: 4
+      name: theater_company
+      label: theater_company
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Company A'', ''label'': ''Company A''}'
+      - '{''value'': ''Company B'', ''label'': ''Company B''}'
+      - '{''value'': ''Company C'', ''label'': ''Company C''}'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chili Cook Off Entry Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Name of competing team or entrant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Name of team lead or contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone for event coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: chili_category
+      label: Chili Category
+      hint: Choose category of entry
+      type: select_one
+      options:
+      - Traditional
+      - Vegetarian
+      - Gourmet
+      - People’s Choice
+      required: true
+    - id: 6
+      name: number_of_servings
+      label: Number of Servings
+      hint: Approximate servings to bring
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: electricity_required
+      label: Electricity Required
+      hint: Does your setup require power
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: special_needs
+      label: Special Needs or Equipment
+      hint: Any equipment or setup requests
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agree_rules
+      label: Agree to Event Rules
+      hint: Confirm acceptance of event rules
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

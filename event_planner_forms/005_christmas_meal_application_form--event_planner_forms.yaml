@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Meal Application Form
+    pages:
+    - id: 1
+      name: header_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name of Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: household_size
+      label: Number of People in Household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: children_count
+      label: Number of Children (under 18)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Home Address
+      hint: For delivery or verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: header_meal_details
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: meal_type
+      label: Preferred Main Course
+      hint: null
+      type: select_one
+      options:
+      - Traditional Turkey
+      - Glazed Ham
+      - Roasted Chicken
+      - Vegetarian Nut Roast
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Please list any severe allergies
+      type: select_multiple
+      options:
+      - None
+      - Nut Allergy
+      - Dairy Free
+      - Gluten Free
+      - Halal
+      - Kosher
+      required: true
+    - id: 10
+      name: side_dishes
+      label: Requested Side Dishes
+      hint: null
+      type: select_multiple
+      options:
+      - Mashed Potatoes
+      - Stuffing
+      - Cranberry Sauce
+      - Roasted Vegetables
+      - Dinner Rolls
+      required: true
+    - id: 11
+      name: delivery_pickup
+      label: Collection Method
+      hint: null
+      type: select_one
+      options:
+      - In-Person Pickup (Dec 23rd)
+      - Home Delivery (Limited Availability)
+      required: true
+    - id: 12
+      name: delivery_instructions
+      label: Delivery Instructions (if applicable)
+      hint: e.g., Gate code or specific entrance
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: financial_hardship_note
+      label: Briefly describe your current need
+      hint: This helps us prioritize limited resources
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_source
+      label: How did you hear about this program?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Local Church
+      - School
+      - Friend/Neighbor
+      - Community Center
+      required: false
+    - id: 15
+      name: consent_to_share
+      label: I authorize sharing my info with community partners for assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

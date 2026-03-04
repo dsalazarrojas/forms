@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_prediction_competition_entry_form
+    pages:
+    - id: 1
+      name: sports_event
+      label: Sports Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sport_name
+      label: Sport Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prediction_type
+      label: Prediction Type
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Baseball
+      - Football
+      - Hockey
+      - Soccer
+      required: false
+    - id: 4
+      name: prediction_date
+      label: Prediction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: prediction_time
+      label: Prediction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: prediction_score
+      label: Prediction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: prediction_team
+      label: Prediction Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prediction_outcome
+      label: Prediction Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Win
+      - Loss
+      - Tie
+      required: false
+    - id: 9
+      name: prediction_result
+      label: Prediction Result
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      required: false
+    - id: 10
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false

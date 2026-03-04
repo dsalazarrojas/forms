@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Womens Leadership Conference Feedback Form
+    pages:
+    - id: 1
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker
+      label: Speaker
+      hint: null
+      type: select_one
+      options:
+      - Jane Smith
+      - John Doe
+      required: true
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: attended_events
+      label: Attended Other Women's Leadership Conferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: recommend
+      label: Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: title_of_organization
+      label: Title of Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - Keynote
+      - Panel
+      - Workshop
+      required: false
+    - id: 14
+      name: session_type
+      label: Session Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: speaker_organization
+      label: Speaker Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: speaker_email
+      label: Speaker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attended_other_events
+      label: Attended Other Women's Leadership Events
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: will_recommend
+      label: Will Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: session_length
+      label: Session Length
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false
+    - id: 24
+      name: rating_of_session
+      label: Rating of Session
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: rating_of_speaker
+      label: Rating of Speaker
+      hint: null
+      type: number
+      options: []
+      required: false

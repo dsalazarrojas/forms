@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additive Manufacturing Technology Fair Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Additive Manufacturing Technology Fair Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Valid email for event communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_organization
+      label: Company or Organization
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry_sector
+      label: Industry Sector
+      hint: Which sector do you work in?
+      type: select_one
+      options:
+      - Aerospace
+      - Automotive
+      - Medical/Healthcare
+      - Education
+      - Manufacturing
+      - Research
+      - Consumer Products
+      - Other
+      required: true
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: What type of registration are you selecting?
+      type: select_one
+      options:
+      - Professional
+      - Student
+      - Academic
+      - Vendor
+      - Media
+      - Other
+      required: true
+    - id: 9
+      name: attendance_days
+      label: Days Planning to Attend
+      hint: Which days will you attend the fair?
+      type: select_multiple
+      options:
+      - Day 1 - Monday
+      - Day 2 - Tuesday
+      - Day 3 - Wednesday
+      - All Days
+      required: true
+    - id: 10
+      name: technology_interests
+      label: Technology Interests
+      hint: Which additive manufacturing technologies interest you most?
+      type: select_multiple
+      options:
+      - FDM (Fused Deposition Modeling)
+      - SLA/SLS (Stereolithography/Selective Laser Sintering)
+      - Metal 3D Printing
+      - Bioprinting
+      - Large Format Printing
+      - Materials Development
+      - Software Solutions
+      required: false
+    - id: 11
+      name: application_interests
+      label: Application Interests
+      hint: Which applications are you most interested in?
+      type: select_multiple
+      options:
+      - Prototyping
+      - Production Parts
+      - Medical Devices
+      - Aerospace Components
+      - Art and Design
+      - Education
+      - Research
+      required: false
+    - id: 12
+      name: networking_interests
+      label: Networking Interests
+      hint: What type of networking opportunities interest you?
+      type: select_multiple
+      options:
+      - Industry Professionals
+      - Researchers
+      - Startups
+      - Investors
+      - Service Providers
+      - Equipment Manufacturers
+      - Material Suppliers
+      required: false
+    - id: 13
+      name: workshop_interests
+      label: Workshop Interests
+      hint: Which workshops would you like to attend?
+      type: select_multiple
+      options:
+      - Introduction to AM Technologies
+      - Advanced Materials
+      - Design for Additive Manufacturing
+      - Quality Control
+      - Post-Processing Techniques
+      - Business Applications
+      - None
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions we should know about?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility requirements?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: marketing_consent
+      label: Marketing Consent
+      hint: May we contact you about future events and updates?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: exhibit_interest
+      label: Interest in Exhibiting
+      hint: Are you interested in exhibiting at future fairs?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 19
+      name: previous_attendance
+      label: Previous Attendance
+      hint: Have you attended similar events before?
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, this is my first
+      - No, but familiar with AM
+      required: false
+    - id: 20
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What do you hope to gain from attending?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: attendee_signature
+      label: Attendee Signature
+      hint: Electronic signature to confirm registration
+      type: text
+      options: []
+      required: true

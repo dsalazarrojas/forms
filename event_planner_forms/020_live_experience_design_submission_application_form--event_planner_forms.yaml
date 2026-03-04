@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Experience Design Submission Application Form
+    pages:
+    - id: 1
+      name: event_submission
+      label: Event Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_lead_email
+      label: Project Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_lead_phone
+      label: Project Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Live Event
+      - Virtual Event
+      - Hybrid Event
+      required: true
+    - id: 10
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: event_cost
+      label: Event Cost
+      hint: null
+      type: number
+      options: []
+      required: false

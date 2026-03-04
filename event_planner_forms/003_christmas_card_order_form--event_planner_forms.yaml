@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Card Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Optional - for business orders
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: card_style
+      label: Card Style
+      hint: Choose your preferred card design
+      type: select_one
+      options:
+      - Traditional Religious
+      - Modern Minimalist
+      - Family Photo Card
+      - Business Corporate
+      - Humorous Fun
+      - Children Illustration
+      required: true
+    - id: 7
+      name: card_size
+      label: Card Size
+      hint: Select the dimensions
+      type: select_one
+      options:
+      - Standard A6
+      - Large A5
+      - Square 6x6
+      - Mini 4x6
+      - Jumbo 8x10
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: How many cards do you need
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: paper_type
+      label: Paper Type
+      hint: Select paper quality
+      type: select_one
+      options:
+      - Standard Matte
+      - Premium Glossy
+      - Recycled Eco-Friendly
+      - Textured Linen
+      - Pearl Finish
+      required: true
+    - id: 10
+      name: section_card_specifications
+      label: -- Card Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: custom_message
+      label: Custom Message Inside
+      hint: Personalized text for inside the card
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: envelope_color
+      label: Envelope Color
+      hint: Choose envelope color
+      type: select_one
+      options:
+      - White
+      - Red
+      - Green
+      - Gold
+      - Silver
+      - Kraft Brown
+      required: true
+    - id: 13
+      name: return_address
+      label: Print Return Address
+      hint: Add your return address to envelopes
+      type: select_one
+      options:
+      - Yes print address
+      - No thank you
+      required: true
+    - id: 14
+      name: mailing_service
+      label: Mailing Service
+      hint: Do you need us to mail the cards
+      type: select_one
+      options:
+      - No I will mail myself
+      - Yes standard mail
+      - Yes priority mail
+      - Yes international
+      required: true
+    - id: 15
+      name: section_mailing_options
+      label: -- Mailing Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should we ship your order
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need the cards
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: rush_order
+      label: Rush Order
+      hint: Expedited processing available
+      type: select_one
+      options:
+      - No standard processing
+      - Yes 3-day rush
+      - Yes 24-hour express
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Invoice for Business
+      required: true
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false

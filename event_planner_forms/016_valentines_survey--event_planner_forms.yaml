@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: valentines_survey
+    pages:
+    - id: 1
+      name: user_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: favorite_color
+      label: favorite_color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      - yellow
+      required: true
+    - id: 4
+      name: birthday
+      label: birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: favorite_day
+      label: favorite_day
+      hint: null
+      type: select_multiple
+      options:
+      - valentines
+      - christmas
+      - halloween
+      required: true
+    - id: 6
+      name: favorite_time
+      label: favorite_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: valentine_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

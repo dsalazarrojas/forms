@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Artist Camp Booking Form
+    pages:
+    - id: 1
+      name: artist_booking_form
+      label: Artist Booking Form
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 2
+      name: discipline
+      label: Discipline
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: chat_form
+      label: Chat Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discipline_preferences
+      label: Discipline Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accommodation
+      label: Accommodation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_discipline
+      label: Other Discipline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_discipline_preferences
+      label: Other Discipline Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: booking_form
+      label: Booking Form
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant
+      label: Participant
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: payment
+      label: Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 24
+      name: artist_booking_status
+      label: Artist Booking Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 25
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

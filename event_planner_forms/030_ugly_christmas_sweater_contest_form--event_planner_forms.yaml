@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ugly Christmas Sweater Contest Form
+    pages:
+    - id: 1
+      name: contest_category
+      label: Select Category
+      hint: null
+      type: select_one
+      options:
+      - Ugly Sweater
+      - Best Use of Lights
+      - Most Festive
+      - Best Use of Fabric
+      - Best Theme
+      - Most Likely to Start a Fire
+      - Worst Sweater
+      - Best Use of Glitter
+      - Most Likely to Be a Fire Hazard
+      required: true
+    - id: 2
+      name: best_dresser
+      label: Select Best Dresser
+      hint: null
+      type: select_one
+      options:
+      - Name 1
+      - Name 2
+      - Name 3
+      - Name 4
+      - Name 5
+      - Name 6
+      - Name 7
+      required: true
+    - id: 3
+      name: vote
+      label: Your Vote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vote_count
+      label: Vote Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vote_count
+      label: Vote Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: submit_form
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

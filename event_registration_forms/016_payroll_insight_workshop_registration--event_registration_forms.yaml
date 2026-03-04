@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Insight Workshop Registration
+    pages:
+    - id: 1
+      name: session_selection
+      label: Select Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_1
+      label: Session 1
+      hint: Enter Session 1 information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_2
+      label: Session 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Enter first name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Enterประกlast name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter Email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Enter Phone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Enter Event Date
+      type: date
+      options: []
+      required: false

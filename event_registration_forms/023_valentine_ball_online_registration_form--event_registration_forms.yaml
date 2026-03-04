@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: valentine_ball_online_registration_form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: couple_name
+      label: Couple Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_time
+      label: Date of the Ball
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_interests
+      label: Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attending_with
+      label: Attending With
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false

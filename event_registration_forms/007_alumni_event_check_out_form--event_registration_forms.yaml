@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Event Check Out Form
+    pages:
+    - id: 1
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name used at check-in
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event name
+      hint: Title of the event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: check_out_time
+      label: Check out time
+      hint: Time of departure
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: feedback_rating
+      label: Event satisfaction rating
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: false
+    - id: 6
+      name: items_returned
+      label: Items returned
+      hint: List any items returned at check-out
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_collected
+      label: Payment collected at check out
+      hint: Enter amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_needed
+      label: Follow up needed
+      hint: Select yes if follow up is required
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: staff_notes
+      label: Staff notes
+      hint: Internal notes for event staff
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Investment Summit Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interest_in_real_estate_deals
+      label: What type of real estate interest are you looking to invest in?
+      hint: null
+      type: select_multiple
+      options:
+      - Apartment
+      - Land
+      - Industrial
+      - Office
+      - Retail
+      - Other
+      required: false
+    - id: 6
+      name: investment_focus
+      label: What is your investment focus?
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Equity
+      - Hybrid
+      - Other
+      required: false
+    - id: 7
+      name: preferred_investment_amount
+      label: How much is your preferred investment amount?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: registration_date
+      label: When would you like to attend?
+      hint: null
+      type: date
+      options: []
+      required: false

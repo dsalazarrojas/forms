@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Pick Submission Form
+    pages:
+    - id: 1
+      name: game_submission
+      label: Game Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: score_submitted
+      label: Score Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 3
+      name: score_guess
+      label: Score Guess
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: game_outcome
+      label: Game Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''win''}'
+      - '{''value'': ''loss''}'
+      - '{''value'': ''tie''}'
+      required: false
+    - id: 5
+      name: pick_submission
+      label: Pick Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: game_submission_status
+      label: Game Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''submitted''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''cancelled''}'
+      required: false
+    - id: 7
+      name: game_submission_note
+      label: Game Submission Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: game_submission_time
+      label: Game Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: game_submission_date
+      label: Game Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: game_submission_email
+      label: Game Submission Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: game_submission_phone
+      label: Game Submission Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_submission_note2
+      label: Game Submission Note2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: game_submission_note3
+      label: Game Submission Note3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: game_submission_note4
+      label: Game Submission Note4
+      hint: null
+      type: note
+      options: []
+      required: false

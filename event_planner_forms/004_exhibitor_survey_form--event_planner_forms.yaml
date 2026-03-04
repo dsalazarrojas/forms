@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibitor Survey Form
+    pages:
+    - id: 1
+      name: exhibitor_survey_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exhibitor_survey_form_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exhibitor_survey_form_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: exhibitor_survey_form_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Conference''}'
+      - '{''id'': 2, ''value'': ''Trade Show''}'
+      - '{''id'': 3, ''value'': ''Seminar''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: survey_start_time
+      label: Survey Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: survey_end_time
+      label: Survey End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: exhibitor_survey_form_12
+      label: Exhibitor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: exhibitor_survey_form_13
+      label: Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_form_14
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exhibitor_survey_form_15
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exhibitor_survey_form_16
+      label: Booth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: exhibitor_survey_form_17
+      label: Booth Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: exhibitor_survey_form_18
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: exhibitor_survey_form_19
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: exhibitor_survey_form_20
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: exhibitor_survey_form_21
+      label: Job Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Marketing''}'
+      - '{''id'': 2, ''value'': ''Sales''}'
+      required: true
+    - id: 22
+      name: exhibitor_survey_form_22
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: exhibitor_survey_form_23
+      label: Product/Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: exhibitor_survey_form_24
+      label: Why did you attend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: exhibitor_survey_form_25
+      label: Will you attend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: true

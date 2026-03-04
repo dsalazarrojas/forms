@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Kiosk Booking Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_kiosk_location
+      label: preferredKioskLocation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''Location 2''}'
+      - '{''id'': 3, ''name'': ''Location 3''}'
+      required: false
+    - id: 3
+      name: booking_date_time
+      label: bookingDateAndTime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Agree''}'
+      - '{''id'': 2, ''name'': ''Not Agree''}'
+      required: false
+    - id: 5
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false

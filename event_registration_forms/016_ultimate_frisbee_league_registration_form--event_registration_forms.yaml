@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ultimate Frisbee League Registration Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Baseball
+      - Soccer
+      - Football
+      - Hockey
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 6
+      name: player_date_of_birth
+      label: Player Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: player_gender
+      label: Player Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 8
+      name: league_id
+      label: League ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - Premier
+      - Intermediate
+      - Recreational
+      - Novice
+      required: false
+    - id: 10
+      name: division_id
+      label: Division ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-4
+      - 5-8
+      - 9-12
+      - 13-16
+      - 17+
+      required: false
+    - id: 12
+      name: team_size_id
+      label: Team Size ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: team_number
+      label: Team Number
+      hint: null
+      type: number
+      options: []
+      required: false

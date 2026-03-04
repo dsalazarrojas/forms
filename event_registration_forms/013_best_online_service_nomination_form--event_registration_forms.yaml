@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Online Service Nomination Form
+    pages:
+      - id: 1
+        name: nominator_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: nominator_email
+        label: Your Email Address
+        hint: We will send confirmation to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: nominator_organization
+        label: Your Organization
+        hint: Company or organization you represent
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: service_name
+        label: Nominated Service Name
+        hint: What is the name of the online service
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: service_website
+        label: Service Website URL
+        hint: Provide the website link
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: service_category
+        label: Service Category
+        hint: What type of online service is this
+        type: select_one
+        options:
+          - E-commerce Platform
+          - Streaming Service
+          - Cloud Storage
+          - Project Management Tool
+          - Communication Platform
+          - Learning Platform
+          - Financial Service
+          - Healthcare Service
+          - Travel Booking
+          - Food Delivery
+          - Social Media Platform
+          - Other
+        required: true
+      - id: 7
+        name: usage_duration
+        label: How Long Have You Used This Service
+        hint: Duration of your usage
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1 to 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - 2 to 5 years
+          - Over 5 years
+        required: true
+      - id: 8
+        name: usage_frequency
+        label: How Often Do You Use This Service
+        hint: Your usage frequency
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times a week
+          - Once a week
+          - A few times a month
+          - Occasionally
+        required: true
+      - id: 9
+        name: overall_satisfaction
+        label: Overall Satisfaction Rating
+        hint: How satisfied are you with this service
+        type: select_one
+        options:
+          - Extremely Satisfied
+          - Very Satisfied
+          - Satisfied
+          - Somewhat Satisfied
+          - Not Satisfied
+        required: true
+      - id: 10
+        name: ease_of_use
+        label: Ease of Use Rating
+        hint: How easy is the service to use
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Somewhat Difficult
+          - Very Difficult
+        required: true
+      - id: 11
+        name: reliability_rating
+        label: Reliability Rating
+        hint: How reliable is the service
+        type: select_one
+        options:
+          - Extremely Reliable
+          - Very Reliable
+          - Reliable
+          - Somewhat Unreliable
+          - Very Unreliable
+        required: true
+      - id: 12
+        name: customer_support
+        label: Customer Support Rating
+        hint: Rate the quality of customer support
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: value_for_money
+        label: Value for Money Rating
+        hint: Is the service worth the cost
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 14
+        name: standout_features
+        label: Standout Features
+        hint: What features make this service exceptional
+        type: select_multiple
+        options:
+          - User-Friendly Interface
+          - Fast Performance
+          - Excellent Customer Support
+          - Competitive Pricing
+          - Unique Features
+          - Reliable Uptime
+          - Strong Security
+          - Mobile App Quality
+          - Integration Capabilities
+          - Regular Updates
+        required: true
+      - id: 15
+        name: nomination_reason
+        label: Why Are You Nominating This Service
+        hint: Explain why this service deserves recognition
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What could make this service even better
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: would_recommend
+        label: Would You Recommend This Service
+        hint: Would you recommend this to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about this service
+        type: text
+        options: []
+        required: false

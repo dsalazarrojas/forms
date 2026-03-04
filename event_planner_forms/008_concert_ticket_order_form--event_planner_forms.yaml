@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Order Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer name
+      hint: Name making the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ticket_type
+      label: Ticket type
+      hint: Choose ticket category
+      type: select_one
+      options:
+      - General admission
+      - VIP
+      - Early bird
+      - Backstage
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity of tickets
+      hint: Number of tickets to order
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: seating_preference
+      label: Seating preference
+      hint: Aisle, center, or wheelchair accessible
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 8
+      name: promo_code
+      label: Promo code
+      hint: Enter code if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_method
+      label: Delivery method
+      hint: How you want to receive tickets
+      type: select_one
+      options:
+      - E-ticket
+      - Mail
+      - Pickup at venue
+      required: true
+    - id: 10
+      name: additional_requests
+      label: Additional requests
+      hint: Special instructions for the order
+      type: text
+      options: []
+      required: false

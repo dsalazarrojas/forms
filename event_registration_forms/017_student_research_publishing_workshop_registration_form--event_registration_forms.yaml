@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Research Publishing Workshop Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: research_paper_title
+      label: research_paper_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_paper_abstract
+      label: research_paper_abstract
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - University of California
+      - University of Illinois
+      - University of Oregon
+      required: false
+    - id: 9
+      name: research_paper_topic
+      label: research_paper_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_paper_file_url
+      label: research_paper_file_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_participation
+      label: workshop_participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_agreement
+      label: submission_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

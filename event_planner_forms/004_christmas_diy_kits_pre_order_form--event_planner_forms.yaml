@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas DIY Kits Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order updates and tracking
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_type
+      label: Customer Type
+      hint: Are you ordering for personal or business
+      type: select_one
+      options:
+      - Personal Use
+      - Business or Corporate
+      - School or Organization
+      - Reseller
+      required: true
+    - id: 5
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: kit_type
+      label: DIY Kit Type
+      hint: Select the type of Christmas kit
+      type: select_one
+      options:
+      - Wreath Making Kit
+      - Ornament Crafting Kit
+      - Gingerbread House Kit
+      - Christmas Card Making Kit
+      - Advent Calendar Kit
+      - Stocking Decoration Kit
+      - Centerpiece Kit
+      required: true
+    - id: 7
+      name: kit_size
+      label: Kit Size
+      hint: Choose based on number of participants
+      type: select_one
+      options:
+      - Individual Single
+      - Family Pack 2-4 people
+      - Group Pack 5-10 people
+      - Class Pack 10-20 people
+      - Bulk 20 plus people
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity of Kits
+      hint: How many kits do you need
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: difficulty_level
+      label: Difficulty Level
+      hint: Select appropriate skill level
+      type: select_one
+      options:
+      - Beginner Easy
+      - Intermediate Moderate
+      - Advanced Challenging
+      - Mixed Levels
+      required: true
+    - id: 10
+      name: section_kit_details
+      label: -- Kit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: color_preference
+      label: Color Theme Preference
+      hint: Choose your preferred colors
+      type: select_one
+      options:
+      - Traditional Red Green Gold
+      - Winter White Silver Blue
+      - Rustic Natural Brown
+      - Modern Black White
+      - Rainbow Multicolor
+      - No Preference
+      required: true
+    - id: 12
+      name: add_ons
+      label: Additional Add-ons
+      hint: Extra items to include
+      type: select_multiple
+      options:
+      - Extra Decorations Pack
+      - Tool Set
+      - Instructional Video Access
+      - Storage Container
+      - Gift Wrapping
+      - None
+      required: false
+    - id: 13
+      name: expected_ship_date
+      label: Expected Ship Date
+      hint: When should we ship your kit
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_shipping
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: Choose delivery speed
+      type: select_one
+      options:
+      - Standard 5-7 days
+      - Express 2-3 days
+      - Overnight 1 day
+      - Economy 10-14 days
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Buy Now Pay Later
+      required: true
+    - id: 20
+      name: deposit_paid
+      label: Deposit Payment
+      hint: 50 percent deposit required for pre-order
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more info
+      required: true
+    - id: 21
+      name: group_event_date
+      label: Planned Event Date
+      hint: When will you use the kits
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: newsletter_signup
+      label: Join Newsletter
+      hint: Receive DIY tips and holiday deals
+      type: select_one
+      options:
+      - Yes subscribe me
+      - No thank you
+      required: false

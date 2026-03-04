@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intercultural Dialogue Series Registration Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: Registration Information
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      required: false
+    - id: 3
+      name: page3
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page4
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      required: false
+    - id: 5
+      name: page5
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: page6
+      label: Event Details (date)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: page7
+      label: Event Details (time)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: page8
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page9
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

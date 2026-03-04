@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Evaluation Survey
+    pages:
+    - id: 1
+      name: seminar_evaluation_survey_1
+      label: What was the overall quality of the seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_participant_satisfaction_1
+      label: Participant satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: seminar_content_1
+      label: Content of the seminar
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seminar_organization_1
+      label: Organization of the seminar
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seminar_value_1
+      label: Value for money?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: seminar_recommendation_1
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seminar_attendance_1
+      label: Attendance of seminar
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: seminar_date_1
+      label: Date of seminar
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: seminar_time_1
+      label: Time of seminar
+      hint: null
+      type: time
+      options: []
+      required: false

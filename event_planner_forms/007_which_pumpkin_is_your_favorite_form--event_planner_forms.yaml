@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Which Pumpkin Is Your Favorite Form
+    pages:
+    - id: 1
+      name: which_pumpkin_is_your_favorite
+      label: Which pumpkin is your favorite
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pumpkins'', ''label'': ''Pumpkins'', ''selected'':
+        True}'
+      - '{''id'': 2, ''name'': ''gourds'', ''label'': ''Gourds'', ''selected'': False}'
+      - '{''id'': 3, ''name'': ''squash'', ''label'': ''Squash'', ''selected'': False}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''selected'': False}'
+      required: false
+    - id: 2
+      name: favorite_color
+      label: Favorite color
+      hint: What is your favorite color?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''green'', ''label'': ''Green'', ''selected'': False}'
+      - '{''id'': 2, ''name'': ''yellow'', ''label'': ''Yellow'', ''selected'': False}'
+      - '{''id'': 3, ''name'': ''orange'', ''label'': ''Orange'', ''selected'': False}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''selected'': False}'
+      required: false
+    - id: 3
+      name: favorite_shape
+      label: Favorite shape
+      hint: What is your favorite shape?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''round'', ''label'': ''Round'', ''selected'': False}'
+      - '{''id'': 2, ''name'': ''square'', ''label'': ''Square'', ''selected'': False}'
+      - '{''id'': 3, ''name'': ''triangle'', ''label'': ''Triangle'', ''selected'':
+        False}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''selected'': False}'
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time of visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_of_visit
+      label: Time of visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

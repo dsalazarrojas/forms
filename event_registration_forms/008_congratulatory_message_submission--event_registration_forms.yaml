@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Congratulatory Message Submission
+    pages:
+    - id: 1
+      name: section_event_info
+      label: -- Event and Honoree --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name or Occasion
+      hint: e.g., 50th Anniversary Gala, Graduation 2026
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: honoree_name
+      label: Name of the Honoree(s)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_sender_info
+      label: -- From --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sender_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sender_email
+      label: Your Email Address
+      hint: For confirmation only
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_honoree
+      label: Your Relationship to the Honoree
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Colleague/Coworker
+      - Former Teacher/Mentor
+      - Community Member
+      - Other
+      required: true
+    - id: 8
+      name: section_message
+      label: -- Your Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: message_title
+      label: Message Headline (optional)
+      hint: e.g., Congratulations!
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message_content
+      label: Your Congratulatory Message
+      hint: Write your heartfelt message here
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_preferences
+      label: -- Delivery and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: display_preference
+      label: How should we display your name?
+      hint: null
+      type: select_one
+      options:
+      - Full Name
+      - First Name Only
+      - Anonymous
+      required: true
+    - id: 13
+      name: inclusion_in_memory_book
+      label: May we include this message in a physical memory book?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: delivery_method_preference
+      label: Preferred way for the honoree to see your message
+      hint: null
+      type: select_multiple
+      options:
+      - Digital slideshow during event
+      - Printed card
+      - Email notification
+      - Event program booklet
+      required: false
+    - id: 15
+      name: submission_consent
+      label: I consent to my message being shared with the honoree and organizers
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true

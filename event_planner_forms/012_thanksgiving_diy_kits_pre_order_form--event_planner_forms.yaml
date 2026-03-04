@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving DIY Kits Pre Order Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: turkey_size
+      label: turkey size
+      hint: null
+      type: select_one
+      options:
+      - 2-4 persons
+      - 5-6 persons
+      - 7-8 persons
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Turkey
+      - Ham
+      - Stuffing
+      required: false
+    - id: 12
+      name: special_requests
+      label: special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save and Return Later
+      required: true

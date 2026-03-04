@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: skills_maintenance_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skills
+      label: Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Skill 1''}'
+      - '{''id'': 2, ''label'': ''Skill 2''}'
+      - '{''id'': 3, ''label'': ''Skill 3''}'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Videography Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Workshop
+      - Intermediate Workshop
+      - Advanced Workshop
+      required: true
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_slots
+      label: Time Slots
+      hint: null
+      type: select_one
+      options:
+      - 08:00-12:00
+      - 13:00-17:00
+      - 18:00-22:00
+      required: true
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_organization
+      label: Participant Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: workshop_notes
+      label: Workshop Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_language
+      label: Workshop Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 15
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: participant_attendance
+      label: Participant Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: participant_additional_info
+      label: Participant Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Cash on Delivery
+      required: true
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Not Paid
+      required: true
+    - id: 20
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: true
+    - id: 21
+      name: workshop_start_date
+      label: Workshop Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: workshop_end_date
+      label: Workshop End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: participant_attendance_count
+      label: Participant Attendance Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: participant_total_cost
+      label: Participant Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true

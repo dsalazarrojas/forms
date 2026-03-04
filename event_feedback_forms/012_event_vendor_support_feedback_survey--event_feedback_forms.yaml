@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_vendor_support_feedback_survey
+    pages:
+    - id: 1
+      name: vendor_satisfaction
+      label: Event Planner Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_issues
+      label: Have you encountered any support issues
+      hint: null
+      type: select_multiple
+      options:
+      - Support staff was not friendly
+      - Support staff was not responsive
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: suggestions
+      label: Suggestions to improve support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date of the event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time of the event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

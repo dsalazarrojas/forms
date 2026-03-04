@@ -1,0 +1,155 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: League Tournament Registration
+    pages:
+    - id: 1
+      name: tournament_type
+      label: Tournament Type
+      hint: null
+      type: select_multiple
+      options:
+      - Basketball
+      - Baseball
+      - Football
+      - Soccer
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Manager
+      - Player
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: venue
+      label: Venue
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Away
+      - Both
+      required: false
+    - id: 7
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coach_info
+      label: Coach Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_info
+      label: Team Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sport
+      label: Sport
+      hint: null
+      type: select_one
+      options:
+      - Soccer
+      - Baseball
+      - Football
+      - Volleyball
+      required: false
+    - id: 11
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 12
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-35
+      - 36-55
+      - 56+
+      required: false
+    - id: 13
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      required: true
+    - id: 14
+      name: team_formation
+      label: Team Formation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_league
+      label: Team League
+      hint: null
+      type: select_one
+      options:
+      - Rec
+      - Non-Rec
+      required: true
+    - id: 16
+      name: team_status
+      label: Team Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

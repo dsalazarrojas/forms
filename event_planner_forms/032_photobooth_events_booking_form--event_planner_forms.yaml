@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photobooth Events Booking Form
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_description
+      label: Event Description
+      hint: Briefly describe your event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_phone
+      label: Event Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_email
+      label: Event Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: event_photo_credit
+      label: Photo Credit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_image_type
+      label: Image Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': ''event_image_type_choice_1'', ''label'': ''Choice
+        1''}'
+      - '{''id'': 14, ''name'': ''event_image_type_choice_2'', ''label'': ''Choice
+        2''}'
+      - '{''id'': 15, ''name'': ''event_image_type_choice_3'', ''label'': ''Choice
+        3''}'
+      - '{''id'': 16, ''name'': ''event_image_type_choice_4'', ''label'': ''Choice
+        4''}'
+      required: true
+    - id: 13
+      name: event_additional_image
+      label: Additional Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_additional_image_description
+      label: Additional Image Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20, ''name'': ''event_service_choice_1'', ''label'': ''Choice 1''}'
+      - '{''id'': 21, ''name'': ''event_service_choice_2'', ''label'': ''Choice 2''}'
+      - '{''id'': 22, ''name'': ''event_service_choice_3'', ''label'': ''Choice 3''}'
+      - '{''id'': 23, ''name'': ''event_service_choice_4'', ''label'': ''Choice 4''}'
+      required: true
+    - id: 16
+      name: event_additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_terms
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: true

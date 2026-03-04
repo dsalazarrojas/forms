@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Leaders Event Registration Form
+    pages:
+    - id: 1
+      name: leader_name
+      label: Leader Full Name
+      hint: Name for event registration
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Camp or organization represented
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For event updates and materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for logistical details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_at_event
+      label: Role at Event
+      hint: Presenter, Attendee, Volunteer etc
+      type: select_one
+      options:
+      - Presenter
+      - Attendee
+      - Volunteer
+      - Organizer
+      required: true
+    - id: 6
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Specify any food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_interests
+      label: Sessions of Interest
+      hint: Topics or sessions you wish to attend
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_accommodation
+      label: Special Accommodation Needs
+      hint: Accessibility accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: For event safety and emergencies
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for event organizers
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form White Gray Theme
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry Sector
+      hint: Select your industry
+      type: select_one
+      options:
+      - Event Planning
+      - Corporate Events
+      - Wedding Planning
+      - Non-Profit Events
+      - Government Events
+      - Education
+      - Other
+      required: true
+    - id: 7
+      name: experience_level
+      label: Experience Level
+      hint: Years in event planning
+      type: select_one
+      options:
+      - New to Industry 0-2 years
+      - Intermediate 3-5 years
+      - Experienced 6-10 years
+      - Expert 10+ years
+      required: true
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: Choose your pass
+      type: select_one
+      options:
+      - Full Conference Pass
+      - One Day Pass
+      - Virtual Pass
+      - Student Pass
+      - Group Pass
+      required: true
+    - id: 9
+      name: conference_days
+      label: Days Attending
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day 1 - Foundations
+      - Day 2 - Advanced Topics
+      - Day 3 - Workshops
+      - Day 4 - Networking
+      required: true
+    - id: 10
+      name: breakout_sessions
+      label: Breakout Session Preferences
+      hint: Topics of interest
+      type: select_multiple
+      options:
+      - Event Technology
+      - Budget Management
+      - Vendor Relations
+      - Risk Management
+      - Sustainability
+      - Marketing Events
+      - Client Relations
+      required: false
+    - id: 11
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Hands-on sessions
+      type: select_one
+      options:
+      - Workshop A - Morning
+      - Workshop B - Afternoon
+      - Both Workshops
+      - No Workshops
+      required: true
+    - id: 12
+      name: meal_preference
+      label: Meal Preference
+      hint: For catering
+      type: select_one
+      options:
+      - Standard
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Pescatarian
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: networking_events
+      label: Networking Events
+      hint: Evening functions
+      type: select_one
+      options:
+      - Welcome Reception
+      - Gala Dinner
+      - Closing Brunch
+      - All Events
+      - None
+      required: true
+    - id: 15
+      name: hotel_needed
+      label: Hotel Accommodation
+      hint: Need lodging
+      type: select_one
+      options:
+      - Yes Need Hotel
+      - No Already Booked
+      - Not Required
+      required: true
+    - id: 16
+      name: room_preference
+      label: Room Preference
+      hint: Room type
+      type: select_one
+      options:
+      - Single Occupancy
+      - Double Occupancy
+      - Suite
+      - No Preference
+      required: false
+    - id: 17
+      name: transportation
+      label: Airport Transportation
+      hint: Transfer needs
+      type: select_one
+      options:
+      - Arrival Transfer
+      - Departure Transfer
+      - Both Transfers
+      - Not Needed
+      required: true
+    - id: 18
+      name: accessibility
+      label: Accessibility Requirements
+      hint: Special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: certificate
+      label: Certificate of Attendance
+      hint: Do you need certification
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: true
+    - id: 20
+      name: marketing
+      label: Receive Marketing Communications
+      hint: Future event updates
+      type: select_one
+      options:
+      - Yes Please
+      - No Thank You
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Invoice
+      - Check
+      required: true
+    - id: 22
+      name: terms
+      label: I Accept Terms and Conditions
+      hint: Agree to policies
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

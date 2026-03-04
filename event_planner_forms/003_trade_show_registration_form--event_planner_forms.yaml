@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Product Development
+      - Other
+      required: false
+    - id: 13
+      name: trade_show
+      label: Which trade show are you attending?
+      hint: null
+      type: select_one
+      options:
+      - International Builders' Show
+      - National Hardware Show
+      - Other
+      required: true
+    - id: 14
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Less than 10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001+
+      required: false
+    - id: 15
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Construction
+      - Manufacturing
+      - Technology
+      - Other
+      required: false
+    - id: 16
+      name: booth_number
+      label: Booth Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_role
+      label: Job Role
+      hint: null
+      type: select_one
+      options:
+      - CEO/Founder
+      - Manager
+      - Director
+      - Sales
+      - Other
+      required: false
+    - id: 18
+      name: company_description
+      label: Briefly describe your company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: about_you
+      label: Briefly describe about yourself
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

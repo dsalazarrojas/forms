@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Content Creator Nomination Form
+    pages:
+      - id: 1
+        name: nominator_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: nominator_email
+        label: Your Email Address
+        hint: We will send confirmation to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: nominator_organization
+        label: Your Organization
+        hint: Company or organization you represent
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: nominee_name
+        label: Nominee Full Name
+        hint: Enter the content creator full name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: nominee_email
+        label: Nominee Email Address
+        hint: Contact email for the nominated creator
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: nominee_social_handles
+        label: Nominee Social Media Handles
+        hint: List their main social media usernames or channels
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: content_category
+        label: Content Category
+        hint: What type of content does this creator produce
+        type: select_one
+        options:
+          - Educational Content
+          - Entertainment
+          - Lifestyle
+          - Technology and Gaming
+          - Food and Cooking
+          - Travel
+          - Fitness and Health
+          - Beauty and Fashion
+          - Business and Finance
+          - Arts and Crafts
+          - Comedy
+          - Music
+          - Other
+        required: true
+      - id: 8
+        name: primary_platform
+        label: Primary Platform
+        hint: Which platform is their main channel
+        type: select_one
+        options:
+          - YouTube
+          - TikTok
+          - Instagram
+          - Twitch
+          - Twitter or X
+          - Facebook
+          - LinkedIn
+          - Podcast
+          - Blog
+          - Multiple Platforms
+        required: true
+      - id: 9
+        name: follower_count
+        label: Approximate Follower Count
+        hint: How many followers or subscribers do they have
+        type: select_one
+        options:
+          - Under 1,000
+          - 1,000 to 10,000
+          - 10,000 to 50,000
+          - 50,000 to 100,000
+          - 100,000 to 500,000
+          - 500,000 to 1 million
+          - Over 1 million
+        required: true
+      - id: 10
+        name: content_quality
+        label: Content Quality Rating
+        hint: How would you rate the quality of their content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Average
+        required: true
+      - id: 11
+        name: creativity_rating
+        label: Creativity and Originality Rating
+        hint: How creative and original is their content
+        type: select_one
+        options:
+          - Extremely Creative
+          - Very Creative
+          - Creative
+          - Somewhat Creative
+          - Not Very Creative
+        required: true
+      - id: 12
+        name: engagement_rating
+        label: Audience Engagement Rating
+        hint: How well do they engage with their audience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: consistency
+        label: Content Consistency
+        hint: How consistent is their content posting schedule
+        type: select_one
+        options:
+          - Very Consistent
+          - Mostly Consistent
+          - Somewhat Consistent
+          - Inconsistent
+          - Very Inconsistent
+        required: true
+      - id: 14
+        name: impact_description
+        label: Describe Their Impact
+        hint: How has this creator made a difference in their field
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: nomination_reason
+        label: Why Are You Nominating Them
+        hint: Explain why this creator deserves recognition
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: notable_work
+        label: Notable Work or Achievements
+        hint: List any notable projects, collaborations, or achievements
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: content_samples
+        label: Links to Content Samples
+        hint: Provide links to their best content pieces
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information to support this nomination
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Supply Subscription Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_info
+      label: Party Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subscription_info
+      label: Subscription Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_info
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: party_name
+      label: Party Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: party_description
+      label: Party Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: party_time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: party_location
+      label: Party Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: party_type
+      label: Party Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: party_guests
+      label: Party Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: order_frequency
+      label: Order Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 21
+      name: shipping_name
+      label: Shipping Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: true
+    - id: 27
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 32
+      name: billing_zip
+      label: Billing Zip
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fathers Day DIY Kits Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: kit_type
+      label: Kit Type
+      hint: null
+      type: select_one
+      options:
+      - Handmade Kit
+      - Custom Kit
+      - Other
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      - Other
+      required: false
+    - id: 13
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Other
+      required: false
+    - id: 15
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

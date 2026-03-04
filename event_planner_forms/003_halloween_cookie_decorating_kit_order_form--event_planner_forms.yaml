@@ -1,0 +1,322 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Cookie Decorating Kit Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_of_cookies
+      label: Number of Cookies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: decoration_theme
+      label: Decoration Theme
+      hint: null
+      type: select_one
+      options:
+      - Halloween
+      - Christmas
+      - Easter
+      - Thanksgiving
+      required: false
+    - id: 7
+      name: decoration_type
+      label: Decoration Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cupcake
+      - Cookie
+      - Cake
+      - Candy
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: false
+    - id: 17
+      name: credit_card_number
+      label: Credit Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cvv
+      label: CVV/Credit Card Verification Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: expiration_month
+      label: Expiration Month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 21
+      name: expiration_year
+      label: Expiration Year
+      hint: null
+      type: select_one
+      options:
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      - '26'
+      - '27'
+      - '28'
+      - '29'
+      - '30'
+      - '31'
+      - '32'
+      - '33'
+      - '34'
+      - '35'
+      - '36'
+      - '37'
+      - '38'
+      - '39'
+      - '40'
+      - '41'
+      - '42'
+      - '43'
+      - '44'
+      - '45'
+      - '46'
+      - '47'
+      - '48'
+      - '49'
+      - '50'
+      - '51'
+      - '52'
+      - '53'
+      - '54'
+      - '55'
+      - '56'
+      - '57'
+      - '58'
+      - '59'
+      - '60'
+      - '61'
+      - '62'
+      - '63'
+      - '64'
+      - '65'
+      - '66'
+      - '67'
+      - '68'
+      - '69'
+      - '70'
+      - '71'
+      - '72'
+      - '73'
+      - '74'
+      - '75'
+      - '76'
+      - '77'
+      - '78'
+      - '79'
+      - '80'
+      - '81'
+      - '82'
+      - '83'
+      - '84'
+      - '85'
+      - '86'
+      - '87'
+      - '88'
+      - '89'
+      - '90'
+      - '91'
+      - '92'
+      - '93'
+      - '94'
+      - '95'
+      - '96'
+      - '97'
+      - '98'
+      - '99'
+      - '100'
+      required: false
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - USPS
+      - UPS
+      - FedEx
+      - DHL
+      required: false
+    - id: 23
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ship_address
+      label: Ship Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ship_city
+      label: Ship City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: ship_state
+      label: Ship State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: ship_zip
+      label: Ship Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: ship_country
+      label: Ship Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: ship_comments
+      label: Ship Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: billing_comments
+      label: Billing Comments
+      hint: null
+      type: text
+      options: []
+      required: false

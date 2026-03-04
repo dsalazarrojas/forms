@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planning Approval Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_when
+      label: Event When
+      hint: Date and time of the event
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_organizers
+      label: Organizers
+      hint: Names of all event organizers
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_budget
+      label: Event Budget
+      hint: Estimated event budget
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: form_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: form_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: form_approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false

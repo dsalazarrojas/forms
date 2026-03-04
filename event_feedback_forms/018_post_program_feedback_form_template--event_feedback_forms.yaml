@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Program Feedback Form Template
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate This Event
+      hint: Select rating
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: Provide comments
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attended_another_event
+      label: Will you attend another event
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''undecided''}'
+      required: false
+    - id: 7
+      name: attended_another_event
+      label: How many events have you attended
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': 8}'
+      - '{''value'': 9}'
+      - '{''value'': 10}'
+      required: false
+    - id: 8
+      name: recommended_event
+      label: Would you recommend this event
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''undecided''}'
+      required: false
+    - id: 9
+      name: feedback
+      label: What else would you like to see
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_attended
+      label: How did you hear about this event
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''social_media''}'
+      - '{''value'': ''friend''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''flyer''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 13
+      name: event_interest
+      label: What type of events are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''conferences''}'
+      - '{''value'': ''workshops''}'
+      - '{''value'': ''lectures''}'
+      - '{''value'': ''webinars''}'
+      - '{''value'': ''training''}'
+      - '{''value'': ''seminars''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 14
+      name: event_type
+      label: What type of event would you like to see more of
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''conferences''}'
+      - '{''value'': ''workshops''}'
+      - '{''value'': ''lectures''}'
+      - '{''value'': ''webinars''}'
+      - '{''value'': ''training''}'
+      - '{''value'': ''seminars''}'
+      - '{''value'': ''networking''}'
+      - '{''value'': ''meetups''}'
+      - '{''value'': ''panels''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 15
+      name: speaker_presentation
+      label: Speaker Presentation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 16
+      name: speaker_interaction
+      label: Speaker Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 17
+      name: venue
+      label: Venue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 18
+      name: materials
+      label: Materials Provided
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 19
+      name: food_and_drinks
+      label: Food and Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 20
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false

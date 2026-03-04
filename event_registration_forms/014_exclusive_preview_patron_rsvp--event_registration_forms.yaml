@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: exclusive_preview_patron_rsvp
+    pages:
+    - id: 1
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_needs
+      label: special_needs
+      hint: null
+      type: select_multiple
+      options:
+      - wheelchair
+      - hearing_impairment
+      - visual_impairment
+      required: false
+    - id: 8
+      name: rsvp_date
+      label: rsvp_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmed
+      label: confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: special_needs_comments
+      label: special_needs_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_address
+      label: event_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rsvp_by
+      label: rsvp_by
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vip_status
+      label: vip_status
+      hint: null
+      type: select_one
+      options:
+      - vip
+      - vip_plus
+      - 'False'
+      required: false
+    - id: 19
+      name: vip_status_comments
+      label: vip_status_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vip_plus_type
+      label: vip_plus_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vip_plus_details
+      label: vip_plus_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vip_plus_guest_count
+      label: vip_plus_guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vip_plus_diet
+      label: vip_plus_diet
+      hint: null
+      type: select_multiple
+      options:
+      - vegetarian
+      - vegan
+      - gluten_free
+      - meat
+      - other
+      required: false
+    - id: 24
+      name: vip_plus_other
+      label: vip_plus_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vip_plus_special_needs
+      label: vip_plus_special_needs
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Online Challenge Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_details
+      label: Parent/Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I agree that the participant will participate in the online youth challenge
+        with their parent/guardian's supervision.
+      - I agree that the participant will participate in the online youth challenge
+        without their parent/guardian's supervision.
+      - I decline to sign this consent form.
+      required: false
+    - id: 4
+      name: submission_agreement
+      label: Submission Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - I have reviewed the submission terms and conditions.
+      - I have not reviewed the submission terms and conditions.
+      - I decline to submit this form.
+      required: false
+    - id: 6
+      name: participant_additional_comments
+      label: Additional Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: parent_guardian_additional_comments
+      label: Additional Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Submitted
+      required: false

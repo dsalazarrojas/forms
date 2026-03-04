@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Event Registration Form
+    pages:
+    - id: 1
+      name: ticket_information
+      label: Event Tickets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time_ending
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: quantity_of_tickets
+      label: Number of Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: family_members
+      label: Family Members
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: family_size
+      label: Family Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_phone_extension
+      label: Contact Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_alternate_phone
+      label: Alternate Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: contact_fax
+      label: Contact Fax
+      hint: null
+      type: text
+      options: []
+      required: false

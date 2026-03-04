@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardio Fitness Class Admission Form
+    pages:
+    - id: 1
+      name: introductory_note
+      label: -- Participant Registration --
+      hint: Complete this form to join our cardio fitness program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: Required for registration updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_age
+      label: Age
+      hint: Participants must be 16 or older
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: experience_level
+      label: Your Cardio Experience Level
+      hint: Select the one that describes you best
+      type: select_one
+      options:
+      - label: Beginner (New to cardio)
+        value: beginner
+      - label: Intermediate (Regularly active)
+        value: intermediate
+      - label: Advanced (High fitness level)
+        value: advanced
+      required: true
+    - id: 7
+      name: health_disclaimer_header
+      label: -- Health Information & Waivers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: health_disclaimers
+      label: Any known health conditions or concerns?
+      hint: Heart conditions, respiratory issues, injuries, etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: waiver_agreement
+      label: I agree to the participation waiver and terms of use
+      hint: null
+      type: select_one
+      options:
+      - label: I Agree
+        value: agree
+      - label: I Disagree
+        value: disagree
+      required: true
+    - id: 12
+      name: participant_initials
+      label: Participant Initials for confirmation
+      hint: Please type your initials
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banquet Event Order Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: When is your event?
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_time
+      label: Event Start Time
+      hint: What time should we start?
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: organizer_name
+      label: Event Organizer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organizer_email
+      label: Email Address
+      hint: Your email for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: organizer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_company
+      label: Organization or Company
+      hint: Your organization name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: What type of event is this?
+      type: select_one
+      options:
+      - Corporate Dinner
+      - Wedding Reception
+      - Birthday Party
+      - Graduation Celebration
+      - Holiday Party
+      - Conference Banquet
+      - Award Ceremony
+      - Fund Raiser
+      - Other
+      required: true
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: Describe the nature of your event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guest_count
+      label: Expected Number of Guests
+      hint: Total attendees expected
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: menu_option
+      label: Menu Option
+      hint: Select your preferred menu
+      type: select_one
+      options:
+      - Premium Menu A
+      - Premium Menu B
+      - Standard Menu
+      - Buffet Style
+      - Custom Menu
+      - Request Menu Planning
+      required: true
+    - id: 11
+      name: dietary_accommodations
+      label: Dietary Accommodations
+      hint: Specify any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: beverage_service
+      label: Beverage Service
+      hint: What beverages needed?
+      type: select_one
+      options:
+      - Non-Alcoholic Only
+      - Beer and Wine
+      - Full Bar
+      - Soft Drinks Only
+      - Water and Juice Only
+      required: true
+    - id: 13
+      name: room_setup
+      label: Room Setup Preference
+      hint: How should the room be arranged?
+      type: select_one
+      options:
+      - Theater Style
+      - Classroom Style
+      - Banquet Style
+      - Cocktail Reception
+      - U-Shape
+      - Hollow Square
+      - Custom Layout
+      required: true
+    - id: 14
+      name: room_name
+      label: Preferred Room or Space
+      hint: If you have a specific room preference
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: audio_visual_needs
+      label: Audio/Visual Equipment Needed
+      hint: Select what's required
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Sound System
+      - Microphone
+      - Lighting
+      - Video Display
+      - DJ Service
+      - None
+      required: false
+    - id: 16
+      name: entertainment
+      label: Entertainment
+      hint: Do you want entertainment?
+      type: select_one
+      options:
+      - DJ
+      - Live Band
+      - Comedian
+      - Magician
+      - Other Professional
+      - No Entertainment
+      required: false
+    - id: 17
+      name: entertainment_details
+      label: Entertainment Details
+      hint: Specific entertainment preferences
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: decor_flowers
+      label: Floral or Decorative Arrangements
+      hint: Any specific decorations needed?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Cake cutting, special ceremonies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Total budget for the event
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payment be arranged?
+      type: select_one
+      options:
+      - Full Payment at Booking
+      - 50 percent Deposit
+      - Payment Plan
+      - Payment at Event
+      required: true
+    - id: 22
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Amount due to confirm booking
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hallowfest Survey
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_attended
+      label: Date Attended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: favorite_part
+      label: Favorite Part
+      hint: null
+      type: select_multiple
+      options:
+      - Pumpkin Patch
+      - Haunted House
+      - Face Painting
+      - Food and Drinks
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Please provide any comments about your experience
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

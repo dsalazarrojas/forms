@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Festival Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: Full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website
+      label: Website
+      hint: Artist website or portfolio URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media
+      label: Social Media
+      hint: Social media handles or links
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: art_category
+      label: Art Category
+      hint: Primary category of your art
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Jewelry
+      - Ceramics
+      - Textiles
+      - Mixed Media
+      - Digital Art
+      - Other
+      required: true
+    - id: 13
+      name: art_description
+      label: Art Description
+      hint: Describe your artwork
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_experience
+      label: Years Experience
+      hint: Years of professional art experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 15
+      name: booth_size
+      label: Booth Size
+      hint: Preferred booth size
+      type: select_one
+      options:
+      - 10x10 feet
+      - 10x20 feet
+      - 10x30 feet
+      - 20x20 feet
+      - No Preference
+      required: true
+    - id: 16
+      name: booth_preferences
+      label: Booth Preferences
+      hint: Any specific booth location preferences
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: electricity_needed
+      label: Electricity Needed
+      hint: Do you need electrical access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: table_needed
+      label: Table Needed
+      hint: Do you need a table provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: tent_needed
+      label: Tent Needed
+      hint: Do you need a tent provided
+      type: select_one
+      options:
+      - true
+      - No - I Have My Own
+      required: true
+    - id: 20
+      name: festival_dates
+      label: Festival Dates
+      hint: Which days will you attend
+      type: select_multiple
+      options:
+      - Day 1 - Setup
+      - Day 2 - Festival
+      - Day 3 - Festival
+      - Day 4 - Breakdown
+      required: true
+    - id: 21
+      name: vehicle_access
+      label: Vehicle Access
+      hint: Will you need vehicle access for load-in
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: insurance_provided
+      label: Insurance Provided
+      hint: Do you have liability insurance
+      type: select_one
+      options:
+      - Yes - Will Provide Certificate
+      - No - Need Information
+      required: true
+    - id: 23
+      name: previous_festivals
+      label: Previous Festivals
+      hint: List other festivals you have participated in
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: references
+      label: References
+      hint: Provide professional references
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: booth_fee_payment
+      label: Booth Fee Payment
+      hint: How will you pay the booth fee
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 26
+      name: terms_accepted
+      label: Terms Accepted
+      hint: I accept the festival terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

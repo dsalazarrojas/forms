@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Event Item Sign Up
+    pages:
+    - id: 1
+      name: holiday_event_item
+      label: Holiday Event Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Christmas''}'
+      - '{''id'': 2, ''label'': "New Year''s"}'
+      - '{''id'': 3, ''label'': ''Thanksgiving''}'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: items
+      label: Items
+      hint: List the food and drink items you plan to bring
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_1
+      label: Item 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item_2
+      label: Item 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Gluten''}'
+      - '{''id'': 2, ''label'': ''Vegetarian''}'
+      - '{''id'': 3, ''label'': ''Vegan''}'
+      - '{''id'': 4, ''label'': ''Dairy''}'
+      - '{''id'': 5, ''label'': ''Nut''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: contribution
+      label: Contribution
+      hint: What are you giving?
+      type: text
+      options: []
+      required: false

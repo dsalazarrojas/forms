@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Readers Awards Sponsorship Form
+    pages:
+    - id: 1
+      name: award_title
+      label: Award Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Award Category 1
+      - Award Category 2
+      - Award Category 3
+      - Award Category 4
+      required: false
+    - id: 3
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_title
+      label: Sponsor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: commitment_level
+      label: Commitment Level
+      hint: null
+      type: select_multiple
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      required: false
+    - id: 6
+      name: recognition_details
+      label: Recognition Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sponsor_details
+      label: Sponsor Details
+      hint: Additional details about this sponsor.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_level
+      label: Sponsor Level
+      hint: null
+      type: select_multiple
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      required: false
+    - id: 11
+      name: sponsor_commitment
+      label: Sponsor Commitment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: award_start_date
+      label: Award Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: award_end_date
+      label: Award End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sponsor_commitment_note
+      label: Sponsor Commitment Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: sponsor_commitment_note
+      label: Sponsor Commitment Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: sponsor_commitment_type
+      label: Sponsor Commitment Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - In-Kind
+      required: false
+    - id: 25
+      name: sponsor_commitment_value
+      label: Sponsor Commitment Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: sponsor_commitment_currency
+      label: Sponsor Commitment Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - Other
+      required: false
+    - id: 27
+      name: sponsor_notes
+      label: Sponsor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: sponsor_surety
+      label: Sponsor Surety
+      hint: null
+      type: text
+      options: []
+      required: false

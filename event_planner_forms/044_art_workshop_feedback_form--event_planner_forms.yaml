@@ -1,0 +1,292 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Workshop Feedback Form
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of feedback
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: workshop_name
+        label: Workshop Name
+        hint: Name of workshop attended
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: workshop_date
+        label: Workshop Date
+        hint: Date of workshop
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: instructor_name
+        label: Instructor Name
+        hint: Name of instructor
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: workshop_duration
+        label: Workshop Duration
+        hint: Length of workshop
+        type: select_one
+        options:
+          - 1-2 Hours
+          - 3-4 Hours
+          - Full Day
+          - Multi-Day
+          - Weekly Series
+        required: true
+      - id: 8
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate overall satisfaction
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 9
+        name: content_quality
+        label: Content Quality
+        hint: Rate the quality of content
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 10
+        name: instructor_knowledge
+        label: Instructor Knowledge
+        hint: Rate instructor knowledge
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 11
+        name: instructor_presentation
+        label: Instructor Presentation
+        hint: Rate instructor presentation skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 12
+        name: instructor_support
+        label: Instructor Support
+        hint: Rate instructor support and guidance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 13
+        name: skill_level_match
+        label: Skill Level Match
+        hint: Was the workshop appropriate for your level
+        type: select_one
+        options:
+          - Too Basic
+          - Just Right
+          - Too Advanced
+        required: true
+      - id: 14
+        name: pace_of_instruction
+        label: Pace of Instruction
+        hint: Rate the pace
+        type: select_one
+        options:
+          - Too Slow
+          - Just Right
+          - Too Fast
+        required: true
+      - id: 15
+        name: materials_provided
+        label: Materials Provided
+        hint: Rate the materials provided
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Applicable
+        required: true
+      - id: 16
+        name: materials_quality
+        label: Materials Quality
+        hint: Rate the quality of materials
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Applicable
+        required: true
+      - id: 17
+        name: facility_rating
+        label: Facility Rating
+        hint: Rate the facility
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 18
+        name: value_for_money
+        label: Value for Money
+        hint: Rate the value
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 19
+        name: skills_learned
+        label: Skills Learned
+        hint: Select skills you learned
+        type: select_multiple
+        options:
+          - Technical Skills
+          - Creative Techniques
+          - Color Theory
+          - Composition
+          - Art History
+          - Critical Thinking
+          - Confidence
+          - Other
+        required: false
+      - id: 20
+        name: confidence_improvement
+        label: Confidence Improvement
+        hint: Rate your confidence improvement
+        type: select_one
+        options:
+          - Significant Improvement
+          - Moderate Improvement
+          - Some Improvement
+          - Little Improvement
+          - No Improvement
+        required: true
+      - id: 21
+        name: favorite_part
+        label: Favorite Part
+        hint: What was your favorite part
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: least_favorite_part
+        label: Least Favorite Part
+        hint: What did you like least
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: topics_for_future
+        label: Topics for Future
+        hint: What topics would you like to see
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend this workshop
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 25
+        name: would_attend_again
+        label: Would Attend Again
+        hint: Would you attend another workshop
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 26
+        name: how_heard
+        label: How Heard
+        hint: How did you hear about this workshop
+        type: select_one
+        options:
+          - Website
+          - Social Media
+          - Email
+          - Friend
+          - Advertisement
+          - Other
+        required: false
+      - id: 27
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

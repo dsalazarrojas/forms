@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Program Subscription Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: subscription_time
+      label: Subscription Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: user_subscription_choice_1
+      label: Subscription Choice 1
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Event 1''}'
+      - '{2: ''Event 2''}'
+      - '{3: ''Event 3''}'
+      required: false
+    - id: 8
+      name: user_subscription_choice_2
+      label: Subscription Choice 2
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 9
+      name: subscription_ongoing
+      label: Subscription Ongoing
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Monthly''}'
+      - '{2: ''Bi-Monthly''}'
+      - '{3: ''Quarterly''}'
+      - '{4: ''Annually''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: subscription_ongoing_other
+      label: Subscription Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_frequency
+      label: Event Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: false
+    - id: 13
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

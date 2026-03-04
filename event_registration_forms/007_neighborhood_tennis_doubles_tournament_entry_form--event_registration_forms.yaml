@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighborhood Tennis Doubles Tournament Entry Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participants
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_1_name
+      label: Participant 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_1_email
+      label: Participant 1 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_1_phone
+      label: Participant 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_2_name
+      label: Participant 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_2_email
+      label: Participant 2 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_2_phone
+      label: Participant 2 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_preferences
+      label: Team Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': True}'
+      - '{''id'': ''2'', ''label'': False}'
+      required: false
+    - id: 10
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': True}'
+      - '{''id'': ''2'', ''label'': False}'
+      required: false
+    - id: 11
+      name: match_preferences
+      label: Match Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': True}'
+      - '{''id'': ''2'', ''label'': False}'
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_league
+      label: Team League
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_tennis_club
+      label: Team Tennis Club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_rating
+      label: Team Rating
+      hint: null
+      type: number
+      options: []
+      required: false

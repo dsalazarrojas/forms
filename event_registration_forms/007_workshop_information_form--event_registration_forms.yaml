@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Information Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: workshop_start_time
+      label: workshop_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: workshop_duration
+      label: workshop_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: workshop_venue
+      label: workshop_venue
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offsite
+      - Onsite
+      - Hybrid
+      required: false
+    - id: 6
+      name: workshop_organizer
+      label: workshop_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_location
+      label: workshop_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_description
+      label: workshop_description
+      hint: null
+      type: text
+      options: []
+      required: false

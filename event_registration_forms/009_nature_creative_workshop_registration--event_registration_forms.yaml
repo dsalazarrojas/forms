@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nature Creative Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Nature-focused
+      - Other
+      required: false
+    - id: 10
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - On-site
+      - Off-site
+      - No preference
+      required: false
+    - id: 11
+      name: accommodation_other
+      label: Other Accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 14
+      name: participant_requirements
+      label: Participant Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 15
+      name: participant_level
+      label: Participant Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 16
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: participant_interests
+      label: Participant Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Nature
+      - Conservation
+      - Sustainability
+      - Wildlife
+      - Other
+      required: false
+    - id: 18
+      name: workshop_interests
+      label: Workshop Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Nature
+      - Conservation
+      - Sustainability
+      - Wildlife
+      - Other
+      required: false
+    - id: 19
+      name: participant_attended
+      label: Participant Attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: participant_attended_other
+      label: Other Events Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_recommended
+      label: Participant Recommended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: participant_recommended_other
+      label: Other Workshops Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: workshop_facilitator
+      label: Workshop Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output
+      label: Output
+      hint: null
+      type: select_one
+      options:
+      - Yes, email participants
+      - 'No'
+      - Other
+      required: false

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Course Attendance Form
+    pages:
+    - id: 1
+      name: attendance_date
+      label: Attendance Date
+      hint: Date of course session
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: Name of certification course
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_code
+      label: Course Code
+      hint: Course identification code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_number
+      label: Session Number
+      hint: Which session number is this
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of course instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_start_time
+      label: Session Start Time
+      hint: Time session began
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: session_end_time
+      label: Session End Time
+      hint: Time session ended
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Session Location
+      hint: Where was the session held
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: attendee_name_1
+      label: Attendee 1 Name
+      hint: Full name of first attendee
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attendee_id_1
+      label: Attendee 1 ID
+      hint: Student or employee ID
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: arrival_time_1
+      label: Attendee 1 Arrival Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: departure_time_1
+      label: Attendee 1 Departure Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: attendee_name_2
+      label: Attendee 2 Name
+      hint: Full name of second attendee
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendee_id_2
+      label: Attendee 2 ID
+      hint: Student or employee ID
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: arrival_time_2
+      label: Attendee 2 Arrival Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: departure_time_2
+      label: Attendee 2 Departure Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: attendee_name_3
+      label: Attendee 3 Name
+      hint: Full name of third attendee
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attendee_id_3
+      label: Attendee 3 ID
+      hint: Student or employee ID
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: arrival_time_3
+      label: Attendee 3 Arrival Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: departure_time_3
+      label: Attendee 3 Departure Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: total_attendees
+      label: Total Number of Attendees
+      hint: Total count of attendees present
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: attendance_notes
+      label: Attendance Notes
+      hint: Any notes about attendance
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Form Submitted By
+      hint: Name of person submitting attendance
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submission_signature
+      label: Submission Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

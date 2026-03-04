@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Present Form
+    pages:
+    - id: 1
+      name: recipient_info
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: interests
+      label: -- Interests & Hobbies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: main_interests
+      label: Main Interests or Hobbies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sports
+      - Reading
+      - Gaming
+      - Arts and crafts
+      - Music
+      - Cooking
+      - Fashion
+      - Travel
+      - Technology
+      - Fitness
+      - Outdoor activities
+      - Other
+      required: true
+    - id: 8
+      name: favorite_activities
+      label: Favorite Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gift_preferences
+      label: -- Gift Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: gift_type
+      label: Preferred Type of Gift
+      hint: null
+      type: select_one
+      options:
+      - Physical gift
+      - Gift card
+      - Experience
+      - Combination
+      - Flexible
+      required: true
+    - id: 11
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $25
+      - $25-$50
+      - $50-$100
+      - $100-$150
+      - Over $150
+      required: true
+    - id: 12
+      name: favorite_brands
+      label: Favorite Brands or Retailers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: specific_wishes
+      label: Specific Items You Want
+      hint: List 3-5 items
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: gift_sizes
+      label: -- Sizing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: clothing_size
+      label: Clothing Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not applicable
+      required: false
+    - id: 16
+      name: shoe_size
+      label: Shoe Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: restrictions
+      label: -- Restrictions & Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: items_avoid
+      label: Items to Avoid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: color_preferences
+      label: Color Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_info
+      label: Additional Information or Special Notes
+      hint: null
+      type: text
+      options: []
+      required: false

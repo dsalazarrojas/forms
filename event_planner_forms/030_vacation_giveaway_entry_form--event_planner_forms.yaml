@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: vacation-giveaway-entry-form
+    pages:
+    - id: 1
+      name: entry_form
+      label: Entry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_eligibility
+      label: Entry Eligibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entry_terms_and_conditions
+      label: Entry Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: winner_notification
+      label: Winner Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_methods
+      label: Contact Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''email''}'
+      - phone
+      - text-message
+      required: false
+    - id: 8
+      name: entry_methods
+      label: Entry Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''online''}'
+      - offline
+      required: false
+    - id: 9
+      name: additional_questions
+      label: Additional Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''question1''}'
+      - question2
+      - question3
+      required: false
+    - id: 10
+      name: entry_methods
+      label: Entry Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: winner_questions
+      label: Winner Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''question1''}'
+      - question2
+      - question3
+      required: false
+    - id: 12
+      name: contact_info_questions
+      label: Contact Info Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''question1''}'
+      - question2
+      - question3
+      required: false

@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Festival Vendor Booking Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_start_date
+      label: event_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_end_date
+      label: event_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_email
+      label: vendor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: vendor_phone
+      label: vendor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Food Truck
+      - Food Cart
+      - Food Stall
+      required: false
+    - id: 10
+      name: number_of_days
+      label: number_of_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: booth_dimensions
+      label: booth_dimensions
+      hint: null
+      type: select_multiple
+      options:
+      - 10x10ft
+      - 10x20ft
+      - 20x20ft
+      - 20x30ft
+      - 20x40ft
+      required: false
+    - id: 12
+      name: vendor_license_number
+      label: vendor_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_license_type
+      label: vendor_license_type
+      hint: null
+      type: select_one
+      options:
+      - Food Service
+      - Health Permit
+      - Business License
+      required: false
+    - id: 14
+      name: vendor_description
+      label: vendor_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vendor_image
+      label: vendor_image
+      hint: null
+      type: select_multiple
+      options:
+      - Image 1
+      - Image 2
+      - Image 3
+      required: false
+    - id: 16
+      name: vendor_requirements
+      label: Vendor Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vendor_agreement
+      label: Vendor Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to the terms of service
+      - I have read and understand the vendor agreement terms
+      required: false
+    - id: 18
+      name: vendor_additional_info
+      label: vendor_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vendor_payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Fully paid
+      - Partially paid
+      - Unpaid
+      required: false
+    - id: 20
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Removed
+      required: false
+    - id: 21
+      name: vendor_note
+      label: Vendor Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: vendor_notes
+      label: vendor_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 26
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false

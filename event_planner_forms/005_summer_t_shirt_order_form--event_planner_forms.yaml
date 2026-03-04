@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer T Shirt Order Form
+    pages:
+    - id: 1
+      name: tshirt_selection_page
+      label: T-Shirt Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: quantity_input
+      label: How many do you need
+      hint: Enter the quantity you need
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: size_preference
+      label: Size preference (S/M/L/XL/XXL)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping address
+      hint: Please enter your shipping address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: credit_card_info
+      label: Credit card information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_page
+      label: Payment Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tshirt_type
+      label: What type of T-Shirt do you want?
+      hint: Select a type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tshirt_color
+      label: Which color do you want?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: order_notes
+      label: Additional notes
+      hint: Any additional notes or comments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_method
+      label: Shipping Method
+      hint: Select a shipping method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: date_order
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_order
+      label: Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: customer_notes
+      label: Customer Notes
+      hint: Any additional notes or comments
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

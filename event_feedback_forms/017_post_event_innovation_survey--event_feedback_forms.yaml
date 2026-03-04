@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Event Innovation Survey
+    pages:
+    - id: 1
+      name: event_feedback
+      label: Event Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ratings
+      label: Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: innovation_ideas
+      label: Innovative Ideas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''label'': ''Great idea!'', ''value'': 5}'
+      - '{''id'': 12, ''label'': ''Not so great'', ''value'': 1}'
+      - '{''id'': 13, ''label'': ''Not innovative at all'', ''value'': 1}'
+      - '{''id'': 14, ''label'': ''Neutral'', ''value'': 3}'
+      - '{''id'': 15, ''label'': ''Not sure'', ''value'': 0}'
+      required: false
+    - id: 4
+      name: open_ideas
+      label: Open Ideas
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''label'': ''Great idea!'', ''value'': 5}'
+      - '{''id'': 22, ''label'': ''Not so great'', ''value'': 1}'
+      - '{''id'': 23, ''label'': ''Not innovative at all'', ''value'': 1}'
+      - '{''id'': 24, ''label'': ''Neutral'', ''value'': 3}'
+      - '{''id'': 25, ''label'': ''Not sure'', ''value'': 0}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 31, ''label'': ''Will follow up'', ''value'': ''Will follow up''}'
+      - '{''id'': 32, ''label'': ''Not now'', ''value'': ''Not now''}'
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 41, ''label'': ''Conference'', ''value'': ''Conference''}'
+      - '{''id'': 42, ''label'': ''Workshop'', ''value'': ''Workshop''}'
+      - '{''id'': 43, ''label'': ''Program'', ''value'': ''Program''}'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 51, ''label'': 1, ''value'': 1}'
+      - '{''id'': 52, ''label'': 2, ''value'': 2}'
+      - '{''id'': 53, ''label'': 3, ''value'': 3}'
+      - '{''id'': 54, ''label'': 4, ''value'': 4}'
+      - '{''id'': 55, ''label'': 5, ''value'': 5}'
+      required: false
+    - id: 18
+      name: rating_scale_label
+      label: Rating Scale Label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 61, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 62, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 63, ''label'': ''Okay'', ''value'': ''Okay''}'
+      - '{''id'': 64, ''label'': ''Bad'', ''value'': ''Bad''}'
+      - '{''id'': 65, ''label'': ''Not at all'', ''value'': ''Not at all''}'
+      required: false
+    - id: 19
+      name: rating_scale_important
+      label: Rating Scale Important
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 71, ''label'': ''Very important'', ''value'': 3}'
+      - '{''id'': 72, ''label'': ''Not very important'', ''value'': 1}'
+      - '{''id'': 73, ''label'': ''Not at all important'', ''value'': 1}'
+      - '{''id'': 74, ''label'': ''Very unimportant'', ''value'': 0}'
+      required: false
+    - id: 20
+      name: follow_up_question
+      label: Follow-up question
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 81, ''label'': ''Will follow up'', ''value'': ''Will follow up''}'
+      - '{''id'': 82, ''label'': ''Not now'', ''value'': ''Not now''}'
+      required: false
+    - id: 21
+      name: follow_up_time
+      label: Follow-up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_method
+      label: Follow-up method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 91, ''label'': ''Email'', ''value'': ''Email''}'
+      - '{''id'': 92, ''label'': ''Phone call'', ''value'': ''Phone call''}'
+      - '{''id'': 93, ''label'': ''In-person'', ''value'': ''In-person''}'
+      - '{''id'': 94, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 23
+      name: follow_up_frequency
+      label: Follow-up frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 101, ''label'': ''Once a week'', ''value'': 1}'
+      - '{''id'': 102, ''label'': ''Once a month'', ''value'': 2}'
+      - '{''id'': 103, ''label'': ''Once a quarter'', ''value'': 3}'
+      - '{''id'': 104, ''label'': ''Once a year'', ''value'': 4}'
+      - '{''id'': 105, ''label'': ''Never'', ''value'': 0}'
+      required: false

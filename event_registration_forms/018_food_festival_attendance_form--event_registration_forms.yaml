@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Festival Attendance Form
+    pages:
+    - id: 1
+      name: event_id
+      label: event id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone
+      label: attendee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: food_items
+      label: food items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_location
+      label: event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_notes
+      label: event notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_email
+      label: event email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jane_doe
+      - john_doe
+      required: true
+    - id: 12
+      name: event_status
+      label: event status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - confirmed
+      - cancelled
+      required: true
+    - id: 13
+      name: event_organizer
+      label: event organizer
+      hint: null
+      type: select_one
+      options:
+      - event_organizer_one
+      - event_organizer_two
+      - event_organizer_three
+      required: true

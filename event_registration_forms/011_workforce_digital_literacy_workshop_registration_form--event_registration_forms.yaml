@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Digital Literacy Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_name_snippet
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name_snippet
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email_snippet
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone_snippet
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date_snippet
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: workshop_time_snippet
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: workshop_duration_snippet
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: workshop_location_snippet
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_time_slot_snippet
+      label: Workshop Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 09:00-10:00 AM
+      - 10:00-11:00 AM
+      - 11:00-12:00 PM
+      - 12:00-01:00 PM
+      - 01:00-02:00 PM
+      - 02:00-03:00 PM
+      - 03:00-04:00 PM
+      - 04:00-05:00 PM
+      - 05:00-06:00 PM
+      - 06:00-07:00 PM
+      required: true
+    - id: 10
+      name: attendee_message_snippet
+      label: Attendee Message
+      hint: null
+      type: text
+      options: []
+      required: false

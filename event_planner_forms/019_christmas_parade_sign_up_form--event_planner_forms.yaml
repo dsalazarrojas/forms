@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Parade Sign Up Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Contact person name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Group or organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For parade updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For day-of contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: What type of group are you
+      type: select_one
+      options:
+      - School or Educational
+      - Non-Profit Charity
+      - Business or Corporate
+      - Religious Organization
+      - Community Group
+      - Performance Group
+      - Government Agency
+      - Family or Individual
+      - Other
+      required: true
+    - id: 7
+      name: participation_type
+      label: Participation Type
+      hint: How will you participate
+      type: select_one
+      options:
+      - Marching Group
+      - Float Entry
+      - Vehicle Entry
+      - Performance Unit
+      - Equestrian Unit
+      - Band or Musical
+      - Dance Troupe
+      - Other
+      required: true
+    - id: 8
+      name: expected_participants
+      label: Expected Number of Participants
+      hint: Approximate count
+      type: select_one
+      options:
+      - 1-5 people
+      - 6-10 people
+      - 11-20 people
+      - 21-50 people
+      - 51-100 people
+      - Over 100 people
+      required: true
+    - id: 9
+      name: section_participation_details
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: float_length
+      label: Float Length
+      hint: If applicable in feet
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: float_width
+      label: Float Width
+      hint: If applicable in feet
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: float_height
+      label: Float Height
+      hint: If applicable in feet
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: power_requirements
+      label: Power Requirements
+      hint: Do you need electrical hookup
+      type: select_one
+      options:
+      - Not applicable
+      - Yes standard outlet
+      - Yes heavy duty
+      - No we are self-powered
+      required: false
+    - id: 14
+      name: section_float_specs
+      label: -- Float Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: theme_description
+      label: Theme Description
+      hint: Describe your parade theme
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: music_or_sound
+      label: Music or Sound
+      hint: Will you have music or announcements
+      type: select_one
+      options:
+      - No sound
+      - Yes recorded music
+      - Yes live performance
+      - Yes both
+      required: true
+    - id: 17
+      name: candy_distribution
+      label: Candy or Item Distribution
+      hint: Will you throw items to crowd
+      type: select_one
+      options:
+      - No distribution
+      - Yes candy
+      - Yes small toys
+      - Yes promotional items
+      - Yes other
+      required: true
+    - id: 18
+      name: section_theme_and_activities
+      label: -- Theme and Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Do you have liability insurance
+      type: select_one
+      options:
+      - Yes we have coverage
+      - No we do not
+      - Need information on requirements
+      required: true
+    - id: 20
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_amount
+      label: Coverage Amount
+      hint: Policy coverage amount
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_liability
+      label: -- Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: previous_participation
+      label: Previous Parade Participation
+      hint: Have you participated before
+      type: select_one
+      options:
+      - Yes multiple times
+      - Yes once
+      - No first time
+      required: true
+    - id: 24
+      name: t_shirt_sizes
+      label: T-Shirt Sizes
+      hint: For participant shirts if provided
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - XXL
+      - XXXL
+      - Not interested
+      required: false
+    - id: 25
+      name: special_needs
+      label: Special Needs or Requests
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: agree_rules
+      label: Agree to Parade Rules
+      hint: I agree to all parade rules and regulations
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 28
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I accept liability terms
+      type: select_one
+      options:
+      - Yes I accept
+      - No I do not accept
+      required: true

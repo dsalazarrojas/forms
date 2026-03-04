@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule A Zoom Meeting Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Meeting Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific Time (US & Canada)
+      - Mountain Time (US & Canada)
+      - Central Time (US & Canada)
+      - Eastern Time (US & Canada)
+      - Alaska Time
+      - Hawaii-Aleutians West
+      - West Pacific Time
+      required: false

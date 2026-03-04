@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescreen Form
+    pages:
+    - id: 1
+      name: prescreen_form_name
+      label: prescreen_form_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: prescreen_form_screening_info
+      label: screening info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: prescreen_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: prescreen_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: prescreen_form_event
+      label: event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: prescreen_form_additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prescreen_form_event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true

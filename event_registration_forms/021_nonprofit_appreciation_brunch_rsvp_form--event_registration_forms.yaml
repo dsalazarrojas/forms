@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Appreciation Brunch RSVP Form
+    pages:
+    - id: 1
+      name: non_profit_appreciation_brunch_rsvp_form
+      label: non_profit_appreciation_brunch_rsvp_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name_label
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''attendee_1'', ''label'': ''attendee_1''}'
+      - '{''name'': ''attendee_2'', ''label'': ''attendee_2''}'
+      - '{''name'': ''other'', ''label'': ''other''}'
+      required: true
+    - id: 3
+      name: guest_email
+      label: guest_email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: guest_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_status
+      label: rsvp_status_label
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''attending'', ''label'': ''attending''}'
+      - '{''name'': ''not_attending'', ''label'': ''not_attending''}'
+      required: true
+    - id: 6
+      name: rsvp_status_note
+      label: rsvp_status_note_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

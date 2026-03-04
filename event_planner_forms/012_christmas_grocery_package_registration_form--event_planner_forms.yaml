@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Grocery Package Registration Form
+    pages:
+    - id: 1
+      name: primary_contact_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Primary contact date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: address_line1
+      label: Street Address
+      hint: Full address for package delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_address
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: household_size
+      label: Total Household Size
+      hint: Number of people in your household
+      type: select_one
+      options:
+      - 1 person
+      - 2 people
+      - 3-4 people
+      - 5-6 people
+      - 7-8 people
+      - 9 or more people
+      required: true
+    - id: 12
+      name: adults_count
+      label: Number of Adults
+      hint: Adults 18 and over
+      type: select_one
+      options:
+      - 1 adult
+      - 2 adults
+      - 3 adults
+      - 4 or more adults
+      required: true
+    - id: 13
+      name: children_count
+      label: Number of Children
+      hint: Children under 18
+      type: select_one
+      options:
+      - 0 no children
+      - 1 child
+      - 2 children
+      - 3 children
+      - 4 children
+      - 5 or more children
+      required: true
+    - id: 14
+      name: children_ages
+      label: Children Ages
+      hint: List ages of all children
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_household
+      label: -- Household Composition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: special_dietary_needs
+      label: Special Dietary Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Diabetic friendly
+      - Low sodium
+      - Gluten-free
+      - Lactose-free
+      - Heart healthy
+      - Kosher
+      - Halal
+      - Vegetarian
+      - Vegan
+      required: false
+    - id: 17
+      name: food_allergies
+      label: Food Allergies
+      hint: List any food allergies in household
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mobility_assistance
+      label: Need Mobility Assistance
+      hint: Do you need help carrying packages
+      type: select_one
+      options:
+      - Yes please assist
+      - No we can carry
+      - Yes elderly in home
+      - Yes disability accommodation
+      required: true
+    - id: 19
+      name: section_special_needs
+      label: -- Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: income_assistance
+      label: Current Assistance Programs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - SNAP Food Stamps
+      - WIC
+      - Medicaid
+      - Social Security
+      - Disability Benefits
+      - Unemployment
+      - Housing Assistance
+      - Utility Assistance
+      - Other
+      required: false
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About Program
+      hint: null
+      type: select_one
+      options:
+      - Community Center
+      - School
+      - Church or Religious Organization
+      - Social Services
+      - Friend or Family
+      - Social Media
+      - Flyer or Poster
+      - Other
+      required: true
+    - id: 22
+      name: referred_by
+      label: Referred By
+      hint: Name of person or organization
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_preference
+      label: Preferred Delivery Date
+      hint: When should we deliver
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-4pm
+      - Evening 4pm-7pm
+      - Any time is fine
+      required: true
+    - id: 25
+      name: section_delivery
+      label: -- Delivery Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: access_instructions
+      label: Access Instructions
+      hint: Gate codes, buzzer, special directions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: agree_terms
+      label: Agree to Program Terms
+      hint: I confirm information is accurate
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 28
+      name: privacy_consent
+      label: Privacy Consent
+      hint: Allow us to use info for program purposes
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any special circumstances to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticketing System Access Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Session''}'
+      - '{''label'': ''Conference''}'
+      - '{''label'': ''Meeting''}'
+      required: false
+    - id: 6
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toastmasters Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: club_preferences
+      label: club preferences
+      hint: null
+      type: select_one
+      options:
+      - club_a
+      - club_b
+      - club_c
+      required: false
+    - id: 6
+      name: club_interests
+      label: club interests
+      hint: null
+      type: select_multiple
+      options:
+      - club_d
+      - club_e
+      - club_f
+      required: false
+    - id: 7
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: club_name
+      label: club name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: member_since
+      label: member since
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: member_since_month
+      label: member since month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: member_since_year
+      label: member since year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_start_date
+      label: event start date
+      hint: null
+      type: date
+      options: []
+      required: false

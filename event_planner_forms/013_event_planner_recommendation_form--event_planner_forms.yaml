@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planner Recommendation Form
+    pages:
+    - id: 1
+      name: event_planner_recommendation_form
+      label: What type of event planner are you looking for
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Catering and Beverage Manager''}'
+      - '{''id'': 2, ''value'': ''Event Coordinator''}'
+      - '{''id'': 3, ''value'': ''Event Planner''}'
+      required: false
+    - id: 2
+      name: event_planner_name
+      label: Event planner name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: number
+      options: []
+      required: false

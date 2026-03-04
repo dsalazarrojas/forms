@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Church Retreat Evaluation Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional - can remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: retreat_name
+        label: Which Retreat Did You Attend
+        hint: null
+        type: select_one
+        options:
+          - Spring Retreat
+          - Summer Retreat
+          - Fall Retreat
+          - Winter Retreat
+          - Youth Retreat
+          - Family Retreat
+          - Leadership Retreat
+          - Other
+        required: true
+      - id: 4
+        name: retreat_date
+        label: Retreat Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: overall_rating
+        label: Overall Retreat Rating
+        hint: How would you rate the retreat
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: venue_rating
+        label: Venue/Facility Rating
+        hint: Quality of retreat location
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: accommodation_rating
+        label: Accommodation Rating
+        hint: Sleeping arrangements
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: false
+      - id: 8
+        name: food_rating
+        label: Food Quality Rating
+        hint: Meals provided
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: speaker_rating
+        label: Speaker/Leader Rating
+        hint: Quality of presentations
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: activities_rating
+        label: Activities Rating
+        hint: Planned activities and programs
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: spiritual_growth
+        label: Did This Retreat Help Your Spiritual Growth
+        hint: null
+        type: select_one
+        options:
+          - Significantly
+          - Moderately
+          - Somewhat
+          - Slightly
+          - Not at all
+        required: true
+      - id: 12
+        name: favorite_part
+        label: What Was Your Favorite Part
+        hint: Share the highlights
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: least_favorite
+        label: What Did You Like Least
+        hint: Constructive feedback
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: organization_rating
+        label: Organization and Planning Rating
+        hint: How well was the retreat organized
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: value_rating
+        label: Value for Money Rating
+        hint: Was it worth the cost
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Not worth it
+        required: true
+      - id: 16
+        name: future_retreats
+        label: Would You Attend Future Retreats
+        hint: null
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 17
+        name: recommend_retreat
+        label: Would You Recommend This Retreat
+        hint: To friends or family
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 18
+        name: suggestions
+        label: What Improvements Would You Suggest
+        hint: Your ideas matter
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: future_topics
+        label: What Topics Would You Like at Future Retreats
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Any Additional Comments
+        hint: Share anything else
+        type: text
+        options: []
+        required: false

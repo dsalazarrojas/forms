@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Convention Tournament Voting Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: match_score_1
+      label: Match 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: match_score_2
+      label: Match 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: match_winner_1
+      label: Match 1 Winner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: match_winner_2
+      label: Match 2 Winner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: match_notes_1
+      label: Match 1 Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: match_notes_2
+      label: Match 2 Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_why
+      label: Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event
+      label: Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: rating_average
+      label: Rating Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rating_count
+      label: Rating Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: rating_average_why
+      label: Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rating_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

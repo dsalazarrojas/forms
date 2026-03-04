@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mini Album Class Registration
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_class
+      label: Class
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mini Album Class A''}'
+      - '{''value'': ''Mini Album Class B''}'
+      - '{''value'': ''Mini Album Class C''}'
+      - '{''value'': ''Mini Album Class D''}'
+      required: true
+    - id: 6
+      name: user_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ChatJIMMY''}'
+      - '{''value'': ''Another tool''}'
+      required: true
+    - id: 10
+      name: user_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

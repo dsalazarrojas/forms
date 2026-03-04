@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Procurement And Purchasing Training Enrollment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - Training Program 1
+      - Training Program 2
+      - Training Program 3
+      required: true
+    - id: 5
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: participant_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 17
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: participant_status_date
+      label: Participant Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: participant_status_notes
+      label: Participant Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: participant_status_comments
+      label: Participant Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_status_last_updated
+      label: Participant Status Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: participant_status_last_updated_time
+      label: Participant Status Last Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false

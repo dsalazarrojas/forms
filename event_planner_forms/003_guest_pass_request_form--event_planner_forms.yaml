@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Pass Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_number
+      label: Student Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

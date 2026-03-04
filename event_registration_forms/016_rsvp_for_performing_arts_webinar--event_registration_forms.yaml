@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: RSVP For Performing Arts Webinar
+    pages:
+    - id: 1
+      name: performing_arts_webinar_details
+      label: Performing Arts Webinar Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rsvp_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: performing_arts_webinar_type
+      label: Performing Arts Webinar Type
+      hint: null
+      type: select_one
+      options:
+      - Performing Arts
+      - Dance
+      - Music
+      - Visual Arts
+      - Theater
+      - Other
+      required: false
+    - id: 7
+      name: rsvp_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

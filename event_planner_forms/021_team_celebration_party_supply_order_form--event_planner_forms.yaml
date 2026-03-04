@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Celebration Party Supply Order Form
+    pages:
+    - id: 1
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_theme
+      label: Party Theme
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Holiday''}'
+      - '{''id'': 2, ''label'': ''Birthday''}'
+      - '{''id'': 3, ''label'': ''Anniversary''}'
+      required: false
+    - id: 3
+      name: party_supplies
+      label: Party Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Balloons''}'
+      - '{''id'': 2, ''label'': ''Streamers''}'
+      - '{''id'': 3, ''label'': ''Confetti''}'
+      required: true
+    - id: 4
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

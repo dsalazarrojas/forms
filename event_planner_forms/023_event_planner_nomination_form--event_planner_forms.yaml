@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planner Nomination Form
+    pages:
+    - id: 1
+      name: event_planner_form_first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_planner_form_second_page
+      label: Second Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_planner_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: true
+    - id: 4
+      name: event_planner_form_nominee
+      label: Nominee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_planner_form_nominator
+      label: Nomination Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_planner_form_comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

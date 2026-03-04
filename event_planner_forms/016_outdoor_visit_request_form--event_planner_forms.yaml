@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Visit Request Form
+    pages:
+    - id: 1
+      name: visitor_details
+      label: Visitor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visitor_phone
+      label: Visitor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: visitor_email
+      label: Visitor E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: visitor_message
+      label: Visitor Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: visitor_message_hint
+      label: Visitor Message Hint
+      hint: null
+      type: text
+      options: []
+      required: false

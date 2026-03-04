@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Cheer Program Application Form
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: experience_section
+      label: -- Volunteer Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive (5+ years)
+      - Moderate (2-5 years)
+      - Some (1-2 years)
+      - First time volunteer
+      required: true
+    - id: 12
+      name: previous_roles
+      label: Previous volunteer roles or community service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skills_section
+      label: -- Skills & Abilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: relevant_skills
+      label: Relevant Skills or Abilities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Coordination and planning
+      - Event logistics
+      - Community outreach
+      - Customer service
+      - Administrative work
+      - Physical labor
+      - Team leadership
+      - Other
+      required: true
+    - id: 15
+      name: language_fluency
+      label: Languages Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability_section
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: program_dates
+      label: Are you available for the full program duration?
+      hint: null
+      type: select_one
+      options:
+      - Yes, full duration
+      - Partial duration
+      - Need to discuss
+      required: true
+    - id: 18
+      name: hours_per_week
+      label: Hours per week you can commit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: preferred_role
+      label: Preferred volunteer role
+      hint: null
+      type: select_one
+      options:
+      - Family support coordinator
+      - Event planning
+      - Distribution logistics
+      - Community outreach
+      - Administrative support
+      - Flexible
+      required: true
+    - id: 20
+      name: references_section
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reference_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reference_phone
+      label: Reference Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: background_check
+      label: Willing to complete background check if required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Memory Test Feedback Form
+    pages:
+    - id: 1
+      name: event_memory_test_feedback_form_page
+      label: Event Memory Test Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_memory_test_date
+      label: event_memory_test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: difficulty_rating
+      label: difficulty_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: memory_test_suggestions
+      label: memory_test_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - Event difficulty was too high
+      - Event difficulty was not high enough
+      - I was able to remember everything
+      - I was not able to remember everything
+      - Other
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Event Feedback Forms
+      - Other
+      required: false
+    - id: 11
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 006_event_memory_test_feedback_form--event_feedback_forms
+      - 006_event_memory_test_feedback_form--event_feedback_forms
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 14
+      name: event_memory_test_suggestions
+      label: event_memory_test_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Event Feedback Forms
+      - Other
+      required: false
+    - id: 17
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_memory_test_date
+      label: event_memory_test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 20
+      name: event_memory_test_suggestions
+      label: event_memory_test_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_memory_test_date
+      label: event_memory_test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: event_memory_test_difficulty
+      label: event_memory_test_difficulty
+      hint: null
+      type: select_one
+      options:
+      - too high
+      - not high enough
+      - just right
+      required: false
+    - id: 23
+      name: event_memory_test_feedback
+      label: event_memory_test_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 25
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Event Feedback Forms
+      - Other
+      required: false

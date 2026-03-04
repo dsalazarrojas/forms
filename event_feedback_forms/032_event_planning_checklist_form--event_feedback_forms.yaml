@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planning Checklist Form
+    pages:
+    - id: 1
+      name: event_planning_checklist_form_title
+      label: Event Planning Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_planning_checklist_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Event Feedback Forms
+      - Event Planning Forms
+      required: false
+    - id: 3
+      name: event_planning_checklist_form_description
+      label: Description
+      hint: This is a description field.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_planning_checklist_form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Event Feedback Forms
+      - Event Planning Forms
+      required: false
+    - id: 5
+      name: event_planning_checklist_form_output_file
+      label: Output File
+      hint: Output file name.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_planning_checklist_form_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjohn
+      required: false
+    - id: 7
+      name: event_planning_checklist_form_creator_name
+      label: Creator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_planning_checklist_form_creator_email
+      label: Creator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: event_planning_checklist_form_creator_phone
+      label: Creator Phone
+      hint: null
+      type: text
+      options: []
+      required: false

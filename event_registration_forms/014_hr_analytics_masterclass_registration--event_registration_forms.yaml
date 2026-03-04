@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Analytics Masterclass Registration
+    pages:
+    - id: 1
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

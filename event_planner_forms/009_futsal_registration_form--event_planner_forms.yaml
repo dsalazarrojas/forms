@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Futsal Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_type
+      label: Team Type
+      hint: null
+      type: select_one
+      options:
+      - Futsal League
+      - Futsal Tournament
+      - Futsal Event
+      required: false
+    - id: 3
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_lead_email
+      label: Team Lead E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_city
+      label: Team City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_state
+      label: Team State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_postal_code
+      label: Team Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: league_id
+      label: League ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tournament_id
+      label: Tournament ID
+      hint: null
+      type: number
+      options: []
+      required: false

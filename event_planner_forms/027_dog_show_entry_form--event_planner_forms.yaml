@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Show Entry Form
+    pages:
+    - id: 1
+      name: show_details
+      label: Show Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dog_details
+      label: Dog Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: dog_show_info
+      label: Dog Show Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: dog_show_classes
+      label: Dog Show Classes
+      hint: null
+      type: select_multiple
+      options:
+      - Puppy
+      - Junior
+      - Adult
+      - Senior
+      required: false
+    - id: 6
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: show_type
+      label: Show Type
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Non-Competitive
+      - Specialty
+      required: false
+    - id: 8
+      name: show_date
+      label: Show Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: show_location
+      label: Show Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: dog_weight
+      label: Dog Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: entry_fee_inclusive
+      label: Entry Fee Includes
+      hint: null
+      type: select_multiple
+      options:
+      - Entry fee and parking
+      - Entry fee only
+      required: false
+    - id: 16
+      name: additional_classes
+      label: Additional Classes
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions for judges or show staff
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: show_type
+      label: Show Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: dog_show_type
+      label: Dog Show Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: entry_type
+      label: Entry Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Single Entry
+      - Multiple Entries
+      - Group Entries
+      required: true
+    - id: 23
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: show_status
+      label: Show Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: owner_note
+      label: Owner Note
+      hint: null
+      type: note
+      options: []
+      required: true

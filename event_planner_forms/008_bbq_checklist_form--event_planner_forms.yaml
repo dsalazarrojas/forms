@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: BBQ Checklist Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Name of the BBQ event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: What time will the BBQ start?
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: Where is the BBQ being held?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizer_contact
+      label: Organizer Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bbq_equipment_ready
+      label: Is BBQ equipment ready and functional?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Needs Maintenance
+      required: true
+    - id: 9
+      name: food_prepared
+      label: Has the food been prepared?
+      hint: Check off as items are ready
+      type: select_multiple
+      options:
+      - Meats marinated
+      - Vegetables prepped
+      - Sides prepared
+      - Drinks chilled
+      - Desserts ready
+      - Condiments set out
+      required: false
+    - id: 10
+      name: supplies_gathered
+      label: Supplies and equipment checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Charcoal or propane
+      - Propane tank filled
+      - Cooking utensils
+      - Plates and napkins
+      - Cups and glasses
+      - Coolers with ice
+      - Serving spoons
+      - Tongs and spatulas
+      - Thermometer
+      required: false
+    - id: 11
+      name: seating_arranged
+      label: Has seating been arranged?
+      hint: Tables, chairs, picnic blankets
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      - Not Needed
+      required: false
+    - id: 12
+      name: music_entertainment
+      label: Music and entertainment arranged?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 13
+      name: weather_check
+      label: Weather forecast status
+      hint: Check weather for the event date
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tent_canopy
+      label: Tent or canopy arranged (if needed)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Needed
+      - In Progress
+      required: false
+    - id: 15
+      name: cleanup_plan
+      label: Cleanup plan in place?
+      hint: Who will clean up after the event?
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial Plan
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary restrictions accounted for?
+      hint: Vegetarian, vegan, allergies, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - No Special Restrictions
+      required: false
+    - id: 17
+      name: last_minute_tasks
+      label: Last minute tasks or notes
+      hint: Anything else to remember?
+      type: text
+      options: []
+      required: false

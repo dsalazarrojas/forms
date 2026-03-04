@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Tickets Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gift_registry
+      label: Gift Registry
+      hint: null
+      type: select_multiple
+      options:
+      - Gift Registry 1
+      - Gift Registry 2
+      - Gift Registry 3
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: available_tickets
+      label: Available Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tickets_purchased
+      label: Tickets Purchased
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: purchase_button
+      label: Purchase Tickets
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: RSVP With Meal Choice Template
+    pages:
+    - id: 1
+      name: attending
+      label: attending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attending_date
+      label: attending date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meal
+      label: meal preference
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non Vegetarian
+      - Pescetarian
+      - No preference
+      required: false
+    - id: 5
+      name: attending_time
+      label: attending time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_comments
+      label: rsvp comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: attending_guests
+      label: attending guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

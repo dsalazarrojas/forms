@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party Questionnaire
+    pages:
+    - id: 1
+      name: attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendance_intent
+      label: Will you be attending the party?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Maybe
+      - Probably not
+      - false
+      required: true
+    - id: 6
+      name: party_preferences
+      label: -- Party Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: entertainment_interest
+      label: What type of entertainment interests you most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Live music or DJ
+      - Games and competitions
+      - Holiday movies
+      - Caroling
+      - Comedy show
+      - Trivia
+      - Dancing
+      - None needed
+      required: false
+    - id: 8
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_one
+      options:
+      - Formal sit-down dinner
+      - Buffet style
+      - Cocktail party
+      - Casual snacks
+      - Potluck style
+      required: false
+    - id: 9
+      name: party_atmosphere
+      label: Ideal Party Atmosphere
+      hint: null
+      type: select_one
+      options:
+      - Formal and elegant
+      - Casual and relaxed
+      - Fun and energetic
+      - Quiet and intimate
+      - Mixed atmosphere
+      required: false
+    - id: 10
+      name: activity_interest
+      label: Activities You Would Enjoy
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Gift exchange
+      - Secret Santa
+      - Holiday crafts
+      - Ugly sweater contest
+      - Karaoke
+      - Photo booth
+      - Scavenger hunt
+      - Holiday trivia
+      required: false
+    - id: 11
+      name: dietary_section
+      label: -- Dietary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut allergies
+      - Shellfish allergies
+      - Dairy-free
+      - Other
+      required: false
+    - id: 13
+      name: dietary_details
+      label: Dietary Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: guest_count
+      label: Are you bringing any guests?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility or Special Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transportation_needed
+      label: Do you need transportation assistance?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 18
+      name: feedback
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: party_suggestions
+      label: What would make this party special for you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_ideas
+      label: Any additional ideas or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

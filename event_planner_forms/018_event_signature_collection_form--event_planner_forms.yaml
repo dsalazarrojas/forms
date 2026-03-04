@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Signature Collection Form
+    pages:
+    - id: 1
+      name: event_planning_form
+      label: Event Planning Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_details
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date_time
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: attendee_consent
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

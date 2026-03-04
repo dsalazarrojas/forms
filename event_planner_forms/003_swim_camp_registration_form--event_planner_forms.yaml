@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swim Camp Registration Form
+    pages:
+    - id: 1
+      name: swim_camp_registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: swimmer_name
+      label: Swimmer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: swimmer_email
+      label: Swimmer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: swimmer_phone
+      label: Swimmer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: swimmer_dob
+      label: Swimmer Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: swimmer_gender
+      label: Swimmer Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: swim_camp_session_date
+      label: Swim Camp Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: swim_camp_session_time
+      label: Swim Camp Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: swim_camp_session_duration
+      label: Swim Camp Session Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 hours
+      - 3-4 hours
+      - 5-6 hours
+      required: false
+    - id: 10
+      name: swim_camp_fee
+      label: Swim Camp Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

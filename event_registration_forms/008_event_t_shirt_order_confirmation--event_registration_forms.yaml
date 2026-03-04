@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event T Shirt Order Confirmation
+    pages:
+    - id: 1
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shirt_size
+      label: shirt_size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      - X-Large
+      - X-Small
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: t_shirt_color
+      label: t_shirt_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

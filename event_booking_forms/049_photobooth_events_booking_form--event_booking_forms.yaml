@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photobooth Events Booking Form
+    pages:
+    - id: 1
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: photobooth_type
+      label: Photobooth Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Basic''}'
+      - '{''value'': ''Premium''}'
+      - '{''value'': ''Pro''}'
+      required: true
+    - id: 8
+      name: photo_servers
+      label: Photo Servers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      required: true
+    - id: 9
+      name: photo_resolution
+      label: Photo Resolution
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''720px''}'
+      - '{''value'': ''1080px''}'
+      - '{''value'': ''1440px''}'
+      required: true
+    - id: 10
+      name: photo_printing
+      label: Photo Printing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''On site''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Download''}'
+      required: true
+    - id: 11
+      name: photo_upload
+      label: Photo Upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: photobooth_location
+      label: Photobooth Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_servers_count
+      label: Photo Servers Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: photobooth_equipment_price
+      label: Photobooth Equipment Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: other_equipment_price
+      label: Other Equipment Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_organizer_phone_2
+      label: Event Organizer Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_organizer_notes
+      label: Event Organizer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_date
+      label: Event Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true

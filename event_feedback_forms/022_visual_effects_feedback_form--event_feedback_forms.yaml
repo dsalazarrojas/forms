@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Effects Feedback Form
+    pages:
+    - id: 1
+      name: visual_effects_feedback_form
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_id
+      label: Event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_id
+      label: Project
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_type
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

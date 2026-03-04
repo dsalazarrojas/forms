@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Session Moderator Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 6
+      name: moderator_experience
+      label: Moderator Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      required: true
+    - id: 10
+      name: timezone_offset_unit
+      label: Timezone Offset Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: timezone_offset_direction
+      label: Timezone Offset Direction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: timezone_offset_description
+      label: Timezone Offset Description
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: timezone
+      label: Timezone
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: timezone_description
+      label: Timezone Description
+      hint: null
+      type: text
+      options: []
+      required: false

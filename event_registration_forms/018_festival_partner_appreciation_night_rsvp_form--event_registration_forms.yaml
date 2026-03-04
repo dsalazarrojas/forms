@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Partner Appreciation Night RSVP Form
+    pages:
+    - id: 1
+      name: festival_partner_appreciation_night_rsvp_form
+      label: Festival Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: partner_since
+      label: Since
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''artist''}'
+      - performer
+      - vendor
+      required: false
+    - id: 5
+      name: attending_with
+      label: Attending With
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Self''}'
+      - Others
+      - Group
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rsvp
+      label: RSVP
+      hint: Yes/No
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - 'False'
+      required: false
+    - id: 8
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower RSVP
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Full Name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: We will send you event updates to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_status
+      label: Will You Attend?
+      hint: Please let us know if you can make it
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - I will let you know later
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people total will be attending from your party?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Please list any food allergies or dietary preferences
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meal_preference
+      label: Meal Preference
+      hint: null
+      type: select_one
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - No Restrictions
+      - Other
+      required: false
+    - id: 9
+      name: gift_info
+      label: -- Gift Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: gift_intention
+      label: Do You Plan to Bring a Gift?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 11
+      name: gift_preferences
+      label: Gift Preferences or Registry
+      hint: Include any helpful information for gift selection
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: activities_interest
+      label: Which Activities Interest You?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Games
+      - Photo Booth
+      - Trivia
+      - Food Tasting
+      - Group Crafts
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Let us know if you have any questions or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transportation_assistance
+      label: Do You Need Transportation Assistance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we reach you with event details?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: false

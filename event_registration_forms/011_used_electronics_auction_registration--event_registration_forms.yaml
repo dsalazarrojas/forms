@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Used Electronics Auction Registration
+    pages:
+    - id: 1
+      name: used_electronics_auction_registration_form
+      label: Used Electronics Auction Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bidder_details
+      label: Bidder Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: Please accept terms and conditions for this auction
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: bidder_contact
+      label: Bidder Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bidder_accept_terms
+      label: Accept Terms
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 10
+      name: terms_agreement
+      label: Terms Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

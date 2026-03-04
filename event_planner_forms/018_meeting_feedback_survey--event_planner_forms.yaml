@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Feedback Survey
+    pages:
+    - id: 1
+      name: meeting_feedback_survey_title
+      label: Meeting Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: meeting_feedback_survey_1
+      label: What was the primary reason for your attendance?
+      hint: null
+      type: select_one
+      options:
+      - Time-sensitive issue, e.g. deadline
+      - Personal interest, e.g. team project
+      - Managerial meeting
+      - Team meeting, e.g. weekly
+      - Other
+      - No reason
+      required: false
+    - id: 3
+      name: meeting_feedback_survey_2
+      label: How would you rate the meeting's effectiveness?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: meeting_feedback_survey_3
+      label: What was the most effective part of the meeting?
+      hint: null
+      type: select_multiple
+      options:
+      - Introduction
+      - Discussion
+      - Break
+      - Summary
+      required: false
+    - id: 5
+      name: meeting_feedback_survey_4
+      label: What was the least effective part of the meeting?
+      hint: null
+      type: select_multiple
+      options:
+      - Introduction
+      - Discussion
+      - Break
+      - Summary
+      required: false
+    - id: 6
+      name: meeting_feedback_survey_5
+      label: Were any new issues or action items identified?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 7
+      name: meeting_feedback_survey_6
+      label: Were any action items assigned to you?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: meeting_feedback_survey_7
+      label: Would you like to provide any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: meeting_feedback_survey_8
+      label: Meeting Feedback Survey
+      hint: null
+      type: select_one
+      options:
+      - I will provide feedback on my next meeting survey
+      - I will not provide feedback
+      required: false
+    - id: 10
+      name: meeting_feedback_survey_9
+      label: How likely are you to participate in future meetings?
+      hint: null
+      type: select_one
+      options:
+      - Likely
+      - Somewhat likely
+      - Not likely
+      - Not at all likely
+      required: false
+    - id: 11
+      name: meeting_feedback_survey_10
+      label: Meeting Feedback Survey
+      hint: null
+      type: select_one
+      options:
+      - This meeting was well-organized
+      - This meeting was poorly organized
+      - This meeting was moderately organized
+      - This meeting was unorganized
+      required: false
+    - id: 12
+      name: meeting_feedback_survey_11
+      label: Would you like to provide additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

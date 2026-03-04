@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Tournament Registration Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Soccer
+      - Basketball
+      - Baseball
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: sport
+      label: sport
+      hint: null
+      type: select_one
+      options:
+      - Soccer
+      - Basketball
+      - Tennis
+      required: true
+    - id: 12
+      name: gender
+      label: gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 13
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_multiple
+      options:
+      - Player
+      - Team Manager
+      required: false
+    - id: 14
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: event
+      label: event
+      hint: null
+      type: select_one
+      options:
+      - Event A
+      - Event B
+      - Event C
+      required: true
+    - id: 16
+      name: participant_name_alias
+      label: participant_name_alias
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_city
+      label: participant_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_province
+      label: participant_province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_postalcode
+      label: participant_postalcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_country
+      label: participant_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: participant_note
+      label: participant_note
+      hint: null
+      type: note
+      options: []
+      required: false

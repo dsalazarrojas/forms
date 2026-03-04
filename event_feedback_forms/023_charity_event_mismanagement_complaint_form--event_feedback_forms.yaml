@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Mismanagement Complaint Form
+    pages:
+    - id: 1
+      name: complainant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complainant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: complainant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When it occurred
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: Where it happened
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_category
+      label: Complaint Category
+      hint: Type of issue
+      type: select_one
+      options:
+      - Financial mismanagement
+      - Volunteer mistreatment
+      - Safety concerns
+      - False advertising
+      - Discrimination or harassment
+      - Poor organization
+      - Misuse of funds
+      - Other
+      required: true
+    - id: 8
+      name: complaint_description
+      label: Detailed Description
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: individuals_involved
+      label: Individuals Involved
+      hint: Names or roles
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witnesses
+      label: Were there witnesses
+      hint: Others who saw
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: witness_contacts
+      label: Witness Contact Information
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evidence_available
+      label: Do you have evidence
+      hint: Photos documents etc
+      type: select_one
+      options:
+      - Yes I will provide
+      - Yes but cannot share
+      - No evidence
+      required: true
+    - id: 13
+      name: previous_complaints
+      label: Have you complained before
+      hint: Prior reports
+      type: select_one
+      options:
+      - Yes to the organization
+      - Yes to authorities
+      - No this is first
+      required: true
+    - id: 14
+      name: impact_description
+      label: How did this impact you
+      hint: Personal impact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What outcome you seek
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Not urgent
+      - Somewhat urgent
+      - Urgent
+      - Very urgent
+      required: true
+    - id: 17
+      name: anonymous_option
+      label: Do you want to remain anonymous
+      hint: Identity protection
+      type: select_one
+      options:
+      - Yes keep anonymous
+      - No identity can be shared
+      required: true
+    - id: 18
+      name: follow_up_contact
+      label: May we contact you for more information
+      hint: Permission to follow up
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

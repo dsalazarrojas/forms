@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Esports Tournament Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - esports_tournaments
+      - esports_tournaments_other
+      - online_tournaments
+      - online_tournaments_other
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_format
+      label: Event Format
+      hint: null
+      type: select_one
+      options:
+      - 1v1
+      - 2v2
+      - 3v3
+      - 4v4
+      - 5v5
+      - 6v6
+      - 7v7
+      - 8v8
+      - 9v9
+      - 10v10
+      - other
+      required: false
+    - id: 10
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: game_platform
+      label: Game Platform
+      hint: null
+      type: select_multiple
+      options:
+      - pc
+      - console
+      - mobile
+      - online
+      required: false
+    - id: 12
+      name: game_version
+      label: Game Version
+      hint: null
+      type: text
+      options: []
+      required: false

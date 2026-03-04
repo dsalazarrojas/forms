@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Concession Stand Application Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booth_preferences
+      label: Booth Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: required_documents
+      label: Required Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vendor_experience
+      label: Vendor Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_license
+      label: Vendor License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

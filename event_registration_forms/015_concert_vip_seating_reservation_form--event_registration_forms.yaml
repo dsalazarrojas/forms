@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert VIP Seating Reservation Form
+    pages:
+    - id: 1
+      name: vip_introduction
+      label: VIP Seating Reservation
+      hint: Reserve your premium VIP experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vip_package
+      label: VIP Package Selection
+      hint: Choose your VIP tier
+      type: select_one
+      options:
+      - Gold VIP Package
+      - Platinum VIP Package
+      - Diamond VIP Experience
+      - Ultimate VIP All Access
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: Concert event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: Performance date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: number_of_guests
+      label: Number of VIP Guests
+      hint: Total guests in your party
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vip_benefits
+      label: VIP Benefits Included
+      hint: What is included in your package
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: premium_seating
+      label: Premium Seating Location
+      hint: Best seats in the house
+      type: select_one
+      options:
+      - Front Row Center
+      - Front Row Side
+      - VIP Box Suite
+      - Stage Side Premium
+      required: true
+    - id: 8
+      name: early_entry
+      label: Early Entry Access
+      hint: Enter venue before general admission
+      type: select_one
+      options:
+      - Yes Include Early Entry
+      - No Standard Entry
+      required: false
+    - id: 9
+      name: backstage_access
+      label: Backstage Access
+      hint: Tour backstage areas
+      type: select_one
+      options:
+      - Yes Add Backstage Tour
+      - No Thanks
+      required: false
+    - id: 10
+      name: meet_and_greet
+      label: Meet and Greet
+      hint: Meet the artists
+      type: select_one
+      options:
+      - Yes Include Meet and Greet
+      - No Thanks
+      required: false
+    - id: 11
+      name: complimentary_drinks
+      label: Complimentary Drinks
+      hint: VIP bar access
+      type: select_one
+      options:
+      - Standard Bar Package
+      - Premium Bar Package
+      - Unlimited VIP Bar
+      required: false
+    - id: 12
+      name: gourmet_catering
+      label: Gourmet Catering
+      hint: VIP dining experience
+      type: select_one
+      options:
+      - Light Refreshments
+      - Full Dinner Service
+      - Premium Buffet
+      required: false
+    - id: 13
+      name: reserved_parking
+      label: Reserved Parking
+      hint: VIP parking spot
+      type: select_one
+      options:
+      - Yes Include Parking
+      - No Parking Needed
+      required: false
+    - id: 14
+      name: merchandise_credit
+      label: Merchandise Credit
+      hint: VIP shop credit included
+      type: select_one
+      options:
+      - 50 Dollar Credit
+      - 100 Dollar Credit
+      - 200 Dollar Credit
+      required: false
+    - id: 15
+      name: guest_details
+      label: Guest Details
+      hint: Primary guest information
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_guest_name
+      label: Primary Guest Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: guest_email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_occasion
+      label: Special Occasion
+      hint: Celebrating something special
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Corporate Event
+      - Just a Special Night
+      - Other
+      required: false
+    - id: 20
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_details
+      label: Payment Details
+      hint: Complete your reservation
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: package_price
+      label: Package Price
+      hint: Total VIP package cost
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Required deposit
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Corporate Account
+      required: true
+    - id: 25
+      name: reservation_terms
+      label: Reservation Terms
+      hint: Accept VIP terms
+      type: select_one
+      options:
+      - I Accept VIP Terms
+      - I Do Not Accept
+      required: true

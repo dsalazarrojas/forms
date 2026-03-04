@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fair Judging Form
+    pages:
+    - id: 1
+      name: judges_name
+      label: Judges Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: judges_title
+      label: Judges Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: project_number
+      label: Project Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - Robotics
+      - Computer Science
+      - Biology
+      - Chemistry
+      - Physics
+      required: true
+    - id: 6
+      name: judge_score
+      label: Judge Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Continue judging
+      required: true
+    - id: 9
+      name: judge_notes
+      label: Judge Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: score_scale
+      label: Score Scale
+      hint: null
+      type: date
+      options: []
+      required: false

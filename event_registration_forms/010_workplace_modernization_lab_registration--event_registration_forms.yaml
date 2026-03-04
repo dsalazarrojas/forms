@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_modernization_lab_registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interests
+      label: interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_session_time
+      label: preferred_session_time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: terms_agreement
+      label: i_agree_to_the_terms_and_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: participant_interests
+      label: participant_interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement
+      label: agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: text
+      options: []
+      required: false

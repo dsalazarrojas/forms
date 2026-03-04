@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: surprise_album_feedback_form
+    pages:
+    - id: 1
+      name: album_name
+      label: Album Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: What did you think?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Music
+      - Art
+      - Film
+      - Other
+      required: false
+    - id: 7
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false

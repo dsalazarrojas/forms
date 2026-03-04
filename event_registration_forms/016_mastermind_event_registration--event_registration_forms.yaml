@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mastermind Event Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mastermind Session''}'
+      - '{''label'': ''Workshop''}'
+      - '{''label'': ''Community Event''}'
+      required: false
+    - id: 7
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Attendee''}'
+      - '{''label'': ''Speaker''}'
+      - '{''label'': ''Staff''}'
+      required: false
+    - id: 8
+      name: consent
+      label: Do you consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: agree_term_and_condition
+      label: Agree and Term and Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: terms_and_condition
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_data
+      label: Participant Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_data_confidential
+      label: Participant Data Confidential
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_data_public
+      label: Participant Data Public
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: participant_data_private
+      label: Participant Data Private
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: participant_data_sensitive
+      label: Participant Data Sensitive
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: participant_data_unsure
+      label: Participant Data Unsure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: participant_data_consent
+      label: Participant Data Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_data_confidential_agreed
+      label: Participant Data Confidential Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: participant_data_public_agreed
+      label: Participant Data Public Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: participant_data_private_agreed
+      label: Participant Data Private Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: participant_data_sensitive_agreed
+      label: Participant Data Sensitive Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: participant_data_unsure_agreed
+      label: Participant Data Unsure Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: participant_data_confidential_public
+      label: Participant Data Confidential Public
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_data_private_public
+      label: Participant Data Private Public
+      hint: null
+      type: text
+      options: []
+      required: false

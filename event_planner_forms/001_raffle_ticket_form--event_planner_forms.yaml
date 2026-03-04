@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raffle Ticket Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: select_winner
+      label: Select Winner
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 5
+      name: winner_name
+      label: Winner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: raffle_type
+      label: Raffle Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: winner_email
+      label: Winner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: payment_processor
+      label: Payment Processor
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: raffle_date
+      label: Raffle Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: raffle_time
+      label: Raffle Time
+      hint: null
+      type: time
+      options: []
+      required: false

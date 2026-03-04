@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Workshop RSVP
+    pages:
+    - id: 1
+      name: rsvp_header
+      label: -- Workshop RSVP --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For workshop updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_choice
+      label: Preferred session time
+      hint: Choose session to attend
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 6
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: For catering if provided
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Let us know any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bring_guest
+      label: Will you bring a guest
+      hint: Indicate yes if bringing a guest
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: number_of_guests
+      label: Number of guests
+      hint: If bringing guest please specify number
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_notes
+      label: Special notes
+      hint: Anything else organizers should know
+      type: text
+      options: []
+      required: false

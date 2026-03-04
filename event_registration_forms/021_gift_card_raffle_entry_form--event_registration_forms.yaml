@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Card Raffle Entry Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Gift Card Raffle Entry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_agreement
+      label: I confirm that I am participating in this raffle voluntarily and am eligible
+        to win a gift card
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_gift_card
+      label: Which gift card would you like to enter the draw for?
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon Gift Card
+      - Apple Gift Card
+      - Target Gift Card
+      required: false
+    - id: 7
+      name: select_agreement
+      label: I have read and agree to the terms of the raffle.
+      hint: null
+      type: select_one
+      options:
+      - I accept all the terms
+      - I refuse to accept the terms
+      required: false
+    - id: 8
+      name: participant_date_of_birth
+      label: participant_date_of_birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false

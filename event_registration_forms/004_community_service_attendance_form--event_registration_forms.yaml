@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Attendance Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program name
+      hint: Title of the community program or event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: Date of attendance
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Attendee full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Attendee email
+      hint: For confirmations and follow up
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: institution_affiliation
+      label: Institution or group affiliation
+      hint: School, company, or organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendance_status
+      label: Attendance status
+      hint: Mark status
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Excused
+      required: true
+    - id: 7
+      name: hours_attended
+      label: Hours attended
+      hint: Total hours present at event
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: signature_confirm
+      label: Electronic signature confirmation
+      hint: Type your full name to confirm attendance
+      type: text
+      options: []
+      required: false

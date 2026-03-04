@@ -1,0 +1,167 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Casual Gathering Feedback Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: event_date
+        label: Event Date
+        hint: Date of the gathering you attended
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: event_type
+        label: Type of Gathering
+        hint: What type of event was this
+        type: select_one
+        options:
+          - Birthday Party
+          - Housewarming
+          - Casual Get-together
+          - BBQ
+          - Game Night
+          - Potluck
+          - Other
+        required: true
+      - id: 5
+        name: overall_rating
+        label: Overall Experience Rating
+        hint: How would you rate the event overall
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: venue_rating
+        label: Venue Rating
+        hint: Rate the venue or location
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Applicable
+        required: false
+      - id: 7
+        name: food_quality
+        label: Food Quality
+        hint: Rate the food provided
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Provided
+        required: false
+      - id: 8
+        name: drinks_quality
+        label: Drinks Quality
+        hint: Rate the beverages provided
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Provided
+        required: false
+      - id: 9
+        name: atmosphere_rating
+        label: Atmosphere Rating
+        hint: Rate the overall atmosphere
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: music_entertainment
+        label: Music and Entertainment
+        hint: Rate the music or entertainment
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Applicable
+        required: false
+      - id: 11
+        name: enjoyed_most
+        label: What Did You Enjoy Most
+        hint: Highlight of the event
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: improvements_suggested
+        label: Suggestions for Improvement
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: would_attend_again
+        label: Would You Attend Again
+        hint: Would you come to a similar event
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 14
+        name: host_feedback
+        label: Feedback for the Host
+        hint: Any comments for the host
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts or feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Pancake Breakfast Registration
+    pages:
+    - id: 1
+      name: event_details_note
+      label: -- Pancake Breakfast Details --
+      hint: Join us for a delicious community breakfast! Adults - $10 - Children -
+        $5.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: family_name
+      label: Family or Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: num_adults
+      label: Number of Adults Attending
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: num_children
+      label: Number of Children Attending
+      hint: Children under 12 years old.
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Gluten-Free
+      - Dairy-Free
+      - Nut-Free
+      - Vegetarian
+      - Vegan
+      - None
+      required: true
+    - id: 6
+      name: volunteer_interest
+      label: Are you interested in volunteering for the event?
+      hint: We would love your help!
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: volunteer_role
+      label: Preferred Volunteer Shift
+      hint: If yes - please select your preferred shift.
+      type: select_one
+      options:
+      - Set-up - 7AM-8AM
+      - Serving - 8AM-10AM
+      - Serving - 10AM-12PM
+      - Clean-up - 12PM-1PM
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: How will you be paying for tickets?
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - At the door - Cash
+      - At the door - Credit Card
+      required: true
+    - id: 11
+      name: total_tickets
+      label: Total Tickets to Purchase
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_note
+      label: -- Payment Instructions --
+      hint: If paying online - please visit our website after submitting this form.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: Any special seating or other requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: breakfast_footer
+      label: -- See You There! --
+      hint: Thank you for supporting our community.
+      type: note
+      options: []
+      required: false

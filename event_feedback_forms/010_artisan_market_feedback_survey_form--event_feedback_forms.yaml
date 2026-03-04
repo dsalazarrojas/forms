@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artisan Market Feedback Survey Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Date of Market Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: select_one
+      options:
+      - Vendor
+      - Shopper
+      - Both
+      - Event Staff
+      required: true
+    - id: 3
+      name: first_time_visitor
+      label: First Time Visiting This Market
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: market_name
+      label: Which Market Did You Attend
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience
+      label: Rate Overall Market Experience - 1-10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vendor_quality
+      label: Quality of Artisan Products
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: product_variety
+      label: Variety of Products Available
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: pricing
+      label: Product Pricing
+      hint: null
+      type: select_one
+      options:
+      - Very Reasonable
+      - Reasonable
+      - High
+      - Very High
+      required: false
+    - id: 9
+      name: vendor_hospitality
+      label: Vendor Hospitality and Customer Service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: facilities
+      label: Facilities and Layout
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: cleanliness
+      label: Overall Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: parking_accessibility
+      label: Parking and Accessibility
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: purchases_made
+      label: Did You Make Any Purchases Today
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: purchase_amount
+      label: Approximate Purchase Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvements
+      label: Suggested Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: return_likelihood
+      label: Likelihood to Return to This Market
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Unsure
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 17
+      name: recommend_others
+      label: Would You Recommend to Others
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: email_for_newsletter
+      label: Email Address for Market Updates
+      hint: null
+      type: email
+      options: []
+      required: false

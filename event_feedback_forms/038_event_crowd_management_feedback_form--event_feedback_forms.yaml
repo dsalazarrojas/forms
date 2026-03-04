@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Event Crowd Management Feedback Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: crowd_management
+      label: Crowd Management
+      hint: How would you rate the crowd management during this event?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_poor'', ''label'': ''Very poor''}'
+      - '{''id'': 2, ''name'': ''poor'', ''label'': ''Poor''}'
+      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 4, ''name'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 5, ''name'': ''excellent'', ''label'': ''Excellent''}'
+      required: false
+    - id: 4
+      name: attendee_satisfaction
+      label: Attendee Satisfaction
+      hint: How satisfied are you with the overall attendee experience?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_dissatisfied'', ''label'': ''Very dissatisfied''}'
+      - '{''id'': 2, ''name'': ''dissatisfied'', ''label'': ''Dissatisfied''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''label'': ''Neutral''}'
+      - '{''id'': 4, ''name'': ''satisfied'', ''label'': ''Satisfied''}'
+      - '{''id'': 5, ''name'': ''very_satisfied'', ''label'': ''Very satisfied''}'
+      required: false
+    - id: 5
+      name: event_feedback
+      label: Event Feedback
+      hint: Provide any additional feedback about your experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false

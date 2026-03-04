@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower Invitation Form
+    pages:
+    - id: 1
+      name: invitation_header
+      label: -- You're Invited to a Baby Shower! --
+      hint: Please join us in celebrating the arrival of our little one
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: host_names
+      label: Hosted By
+      hint: Names of the people organizing the shower
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_full_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attending_status
+      label: Will you be joining us?
+      hint: Please RSVP by the date on your invitation
+      type: select_one
+      options:
+      - Yes, I'll be there
+      - Regretfully, I cannot attend
+      required: true
+    - id: 5
+      name: total_guests_attending
+      label: Number of people in your party
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: dietary_needs
+      label: Do you have any dietary restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut Allergy
+      required: false
+    - id: 7
+      name: registry_information
+      label: Would you like the gift registry links?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please send them to me
+      - No thanks, I have them
+      required: false
+    - id: 8
+      name: contact_email
+      label: Your Email Address
+      hint: For event updates and reminders
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Mobile Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message_for_parents
+      label: Leave a sweet note for the parents-to-be
+      hint: null
+      type: text
+      options: []
+      required: false

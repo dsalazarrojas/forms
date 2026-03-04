@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Impact Film Festival Evaluation Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: film_title
+      label: Film Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: film_genre
+      label: Film Genre
+      hint: null
+      type: select_multiple
+      options:
+      - drama
+      - romance
+      - thriller
+      required: true
+    - id: 5
+      name: film_director
+      label: Film Director
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

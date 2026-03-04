@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architect Of The Year Nomination Form
+    pages:
+    - id: 1
+      name: section_nominator_info
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Your Name
+      hint: Full name of the person nominating
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_organization
+      label: Your Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominator_relationship
+      label: Your Relationship to Nominee
+      hint: null
+      type: select_one
+      options:
+      - Colleague
+      - Client
+      - Student
+      - Professional contact
+      - Other
+      required: true
+    - id: 7
+      name: section_nominee_info
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: nominee_name
+      label: Architect Name (Nominee)
+      hint: Full name of the architect being nominated
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_email
+      label: Nominee Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: nominee_firm
+      label: Firm or Organization
+      hint: Where does the architect work?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: nominee_position
+      label: Position or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_in_practice
+      label: Years in Architectural Practice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_nomination_details
+      label: -- Nomination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: nomination_reason
+      label: Why Are You Nominating This Architect?
+      hint: Describe their achievements and impact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_achievements
+      label: Signature Projects or Achievements
+      hint: List major works or accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: community_impact
+      label: Community or Industry Impact
+      hint: How have they contributed to the field?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: leadership_contribution
+      label: Leadership and Mentorship
+      hint: Examples of leadership or mentoring
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: innovation
+      label: Innovation or Design Excellence
+      hint: Describe innovative approaches
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_support
+      label: -- Supporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: supporting_materials
+      label: Supporting Materials Available
+      hint: Portfolio, references, awards, etc
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: nomination_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Assistant Feedback Form
+    pages:
+    - id: 1
+      name: meeting_assistant_feedback_form_page
+      label: Meeting Assistant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: meeting_effectiveness
+      label: Meeting Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: meeting_outcome
+      label: Meeting Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive'', ''value'': 1}'
+      - '{''label'': ''Neutral'', ''value'': 2}'
+      - '{''label'': ''Negative'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: meeting_facilities
+      label: Meeting Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': 1}'
+      - '{''label'': ''Fair'', ''value'': 2}'
+      - '{''label'': ''Not Available'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false

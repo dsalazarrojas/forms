@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fundraising Event Effectiveness Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional - can remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: role_at_event
+      label: Your Role at This Event
+      hint: Attendee, volunteer, organizer, etc
+      type: select_one
+      options:
+      - Attendee
+      - Volunteer
+      - Organizer
+      - Vendor
+      - Sponsor
+      - Other
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Which fundraiser did you attend
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When did this event occur
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_attendance
+      label: -- Attendance and Reach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: expected_vs_actual
+      label: Compared to Expectations, Attendance Was
+      hint: Did attendance meet goals
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Below Expectations
+      required: true
+    - id: 9
+      name: audience_demographics
+      label: Was the Audience What You Expected
+      hint: Age groups, backgrounds, interests
+      type: select_one
+      options:
+      - Yes, As Expected
+      - Somewhat Different
+      - Very Different
+      required: false
+    - id: 10
+      name: reach_assessment
+      label: How Effective Was the Event's Reach
+      hint: Did it reach intended audience
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Effective
+      required: true
+    - id: 11
+      name: section_fundraising_results
+      label: -- Fundraising Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: fundraising_goal_met
+      label: Was the Fundraising Goal Met
+      hint: Did you raise the target amount
+      type: select_one
+      options:
+      - Exceeded Goal
+      - Met Goal
+      - Nearly Met Goal
+      - Below Goal
+      required: true
+    - id: 13
+      name: percent_of_goal
+      label: Percentage of Goal Achieved
+      hint: What percent was raised
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: donor_conversion_rate
+      label: Assessment of Donor Conversion
+      hint: How many prospects became donors
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 15
+      name: repeat_donor_interest
+      label: Were There Repeat Donors Present
+      hint: Did previous donors attend again
+      type: select_one
+      options:
+      - Yes, Many
+      - Some
+      - Very Few
+      - None
+      required: false
+    - id: 16
+      name: section_engagement
+      label: -- Engagement and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: engagement_level
+      label: Overall Engagement Level of Attendees
+      hint: How engaged were participants
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 18
+      name: mission_connection
+      label: Did Attendees Connect with the Mission
+      hint: Did they understand the cause
+      type: select_one
+      options:
+      - Very Strong
+      - Strong
+      - Moderate
+      - Weak
+      required: true
+    - id: 19
+      name: section_effectiveness
+      label: -- Overall Effectiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: event_effectiveness
+      label: Rate Overall Event Effectiveness
+      hint: How effective was this event
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 21
+      name: return_on_investment
+      label: Assessment of Return on Investment
+      hint: Was the effort worth the results
+      type: select_one
+      options:
+      - Excellent ROI
+      - Good ROI
+      - Adequate ROI
+      - Poor ROI
+      required: true
+    - id: 22
+      name: section_future
+      label: -- Future Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: repeat_event
+      label: Should We Repeat This Event
+      hint: Would you recommend doing it again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 24
+      name: improvements_suggestions
+      label: Suggestions for Improvement
+      hint: How can we improve next time
+      type: text
+      options: []
+      required: false

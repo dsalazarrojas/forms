@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Play Audition Communication Form
+    pages:
+    - id: 1
+      name: actor_info
+      label: Actor Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For audition updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: age_range
+      label: Age Range You Can Portray
+      hint: null
+      type: select_one
+      options:
+      - Child (5-12)
+      - Teen (13-17)
+      - Young Adult (18-25)
+      - Adult (26-45)
+      - Middle Age (46-60)
+      - Senior (60+)
+      required: true
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: false
+    - id: 9
+      name: audition_info
+      label: Audition Information
+      hint: Details about your audition
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: play_title
+      label: Play Title
+      hint: Which production
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: audition_date
+      label: Audition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: audition_time
+      label: Audition Time Slot
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: character_preferences
+      label: Character Preferences
+      hint: Roles you are interested in
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: monologue_prepared
+      label: Do You Have a Monologue Prepared
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: monologue_title
+      label: Monologue Title and Author
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: skills
+      label: Special Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Singing
+      - Dancing
+      - Stage Combat
+      - Accents
+      - Musical Instrument
+      - Comedy
+      - Improvisation
+      - Dialects
+      - Acrobatics
+      - Other
+      required: false
+    - id: 17
+      name: singing_voice_type
+      label: Voice Type
+      hint: If you sing
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Baritone
+      - Bass
+      - Not Applicable
+      required: false
+    - id: 18
+      name: dance_experience
+      label: Dance Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: false
+    - id: 19
+      name: experience
+      label: Theater Experience
+      hint: Tell us about your background
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: previous_experience
+      label: Previous Theater Experience
+      hint: List productions and roles
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training
+      label: Training or Education
+      hint: Classes, degrees, workshops
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: availability
+      label: Availability
+      hint: Schedule constraints
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: rehearsal_availability
+      label: Rehearsal Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday
+      - Sunday
+      required: true
+    - id: 24
+      name: performance_dates
+      label: Are You Available for All Performance Dates
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Have Conflicts
+      required: true
+    - id: 25
+      name: schedule_conflicts
+      label: List Any Schedule Conflicts
+      hint: Dates you cannot attend
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: transportation
+      label: Do You Have Reliable Transportation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: headshot_resume
+      label: Have You Submitted Headshot and Resume
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Will Submit Later
+      - false
+      required: true
+    - id: 28
+      name: how_heard
+      label: How Did You Hear About This Audition
+      hint: null
+      type: select_one
+      options:
+      - Theater Website
+      - Social Media
+      - Friend Referral
+      - Previous Production
+      - Community Board
+      - Other
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

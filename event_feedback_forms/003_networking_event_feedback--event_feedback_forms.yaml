@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Networking Event Feedback
+    pages:
+    - id: 1
+      name: name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Provide feedback
+      hint: How do you feel about the event?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: connections_made
+      label: What connections did you make?
+      hint: null
+      type: select_multiple
+      options:
+      - Made a new connection
+      - Reconnected with someone
+      - Did not make any new connections
+      required: false
+    - id: 4
+      name: outcomes
+      label: What outcomes did you achieve?
+      hint: null
+      type: select_one
+      options:
+      - Networking opportunities
+      - Learning opportunities
+      - Neither
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Ceremony RSVP Form
+    pages:
+    - id: 1
+      name: graduation_ceremony_rsvp_form_details
+      label: graduation Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attending
+      label: Attending
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 6
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: graduation_time
+      label: Graduation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: ceremony_location
+      label: Ceremony Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reception_location
+      label: Reception Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reception_time
+      label: Reception Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: graduation_ceremony_rsvp_form_additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: send_reminders
+      label: Send Reminders
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 15
+      name: send_reminders_time
+      label: Reminder Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: send_reminders_message
+      label: Reminder Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: send_reminders_method
+      label: Reminder Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      required: false
+    - id: 18
+      name: graduation_ceremony_rsvp_form_additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: graduation_ceremony_rsvp_form_host_information
+      label: Host Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: graduation_ceremony_rsvp_form_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: graduation_ceremony_rsvp_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: graduation_level
+      label: Graduation Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High School''}'
+      - '{''id'': 2, ''name'': ''College''}'
+      required: false
+    - id: 25
+      name: graduation_type
+      label: Graduation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Graduation''}'
+      - '{''id'': 2, ''name'': ''Commencement''}'
+      required: false
+    - id: 26
+      name: graduation_ceremony_rsvp_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: graduation_ceremony_rsvp_form_signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: graduation_ceremony_rsvp_form_signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 29
+      name: graduation_ceremony_rsvp_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: graduation_ceremony_rsvp_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: graduation_ceremony_rsvp_form_signature_location
+      label: Signature Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: graduation_ceremony_rsvp_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

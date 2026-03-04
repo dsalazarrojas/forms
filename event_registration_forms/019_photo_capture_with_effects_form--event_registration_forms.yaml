@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Capture With Effects Form
+    pages:
+    - id: 1
+      name: photo_capture_with_effects_form_page_1
+      label: form_label_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_effect_form_page_2
+      label: select_effect
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: upload_image_form_page_3
+      label: select_file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Night Scheduling Form
+    pages:
+    - id: 1
+      name: movie_night_date
+      label: Movie Night Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: movie_length
+      label: Movie Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: movie_rating
+      label: Movie Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: is_family_friendly
+      label: Is Family Friendly
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: is_recurring
+      label: Is Recurring
+      hint: null
+      type: select_one
+      options:
+      - Recurring
+      - Non Recurring
+      required: false
+    - id: 18
+      name: recurrence_frequency
+      label: Recurrence Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 19
+      name: recurrence_time
+      label: Recurrence Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: recurrence_date
+      label: Recurrence Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: recurrence_end_date
+      label: Recurrence End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: recurring_events
+      label: Recurring Events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

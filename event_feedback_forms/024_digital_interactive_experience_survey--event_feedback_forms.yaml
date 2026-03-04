@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Interactive Experience Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organizer
+      label: organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_slot
+      label: time slot
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: prophets prophets and profits and all that jazz
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''label'': 1}'
+      - '{''id'': 11.1, ''label'': 2}'
+      - '{''id'': 11.1, ''label'': 3}'
+      - '{''id'': 11.1, ''label'': 4}'
+      - '{''id'': 11.1, ''label'': 5}'
+      required: true
+    - id: 12
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contact_us
+      label: contact us
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: social_media
+      label: social media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16.1, ''label'': ''webinar''}'
+      - '{''id'': 16.1, ''label'': ''workshop''}'
+      - '{''id'': 16.1, ''label'': ''conference''}'
+      - '{''id'': 16.1, ''label'': ''training''}'
+      - '{''id'': 16.1, ''label'': ''seminar''}'
+      required: true
+    - id: 17
+      name: follow_up
+      label: follow up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 17.1, ''label'': True}'
+      - '{''id'': 17.1, ''label'': False}'
+      - '{''id'': 17.1, ''label'': ''maybe''}'
+      - '{''id'': 17.1, ''label'': ''not now''}'
+      required: false
+    - id: 18
+      name: follow_up_reasons
+      label: follow up reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_message
+      label: follow up message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: rating_scale
+      label: rating scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21.1, ''label'': ''1-2''}'
+      - '{''id'': 21.1, ''label'': ''3-4''}'
+      - '{''id'': 21.1, ''label'': ''5-6''}'
+      - '{''id'': 21.1, ''label'': ''7-8''}'
+      - '{''id'': 21.1, ''label'': ''9-10''}'
+      required: true
+    - id: 22
+      name: rating_scale_reasons
+      label: rating scale reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rating_scale_comments
+      label: rating scale comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_organizer
+      label: participant organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: true

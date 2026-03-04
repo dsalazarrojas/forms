@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Session Quality Poll
+    pages:
+    - id: 1
+      name: session_rating
+      label: How was the session rated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: content_quality
+      label: How well-structured was the content
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: instructor_performance
+      label: How well did the instructor perform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: overall_impression
+      label: What was your overall impression
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Any additional comments
+      hint: Please add any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: 'Format: +1-123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_time
+      label: Date/Time
+      hint: "YYYY-MM-DD HH:MM"
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: session_length
+      label: Session length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: session_length_other
+      label: Other ( specify )
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_questions
+      label: Additional questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submitted_by_other
+      label: Other (specify)
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_date_time
+      label: Session date/time
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Forum RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: transportation_method
+      label: Transportation Method
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Car
+      - Plane
+      - Other
+      required: true
+    - id: 8
+      name: transportation_details
+      label: Transportation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: true

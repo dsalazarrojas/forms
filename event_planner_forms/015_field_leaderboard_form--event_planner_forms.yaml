@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Leaderboard Form
+    pages:
+    - id: 1
+      name: field_leaderboard_form
+      label: Field Leaderboard Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Field Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: field_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Crop''}'
+      - '{''id'': 2, ''name'': ''Equipment''}'
+      - '{''id'': 3, ''name'': ''Animal''}'
+      required: true
+    - id: 4
+      name: field_name
+      label: Field Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: size
+      label: Size
+      hint: acres
+      type: number
+      options: []
+      required: false

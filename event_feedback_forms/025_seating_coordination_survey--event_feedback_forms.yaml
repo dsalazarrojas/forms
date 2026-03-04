@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seating Coordination Survey
+    pages:
+    - id: 1
+      name: survey_page_1
+      label: Seating Coordination Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seating_preference
+      label: How do you like your coffee?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Green
+      required: false
+    - id: 3
+      name: seating_location
+      label: Seating Location
+      hint: null
+      type: select_one
+      options:
+      - The Main Hall
+      - The Conference Room
+      - The Backstage Room
+      required: false
+    - id: 4
+      name: seating_date
+      label: Date
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: seating_time
+      label: Time
+      hint: 'Format: HH:MM'
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: seating_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: seating_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seating_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: survey_page_2
+      label: Seating Coordination Survey
+      hint: null
+      type: text
+      options: []
+      required: false

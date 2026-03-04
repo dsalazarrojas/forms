@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Jar Guessing Game Template
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: For winner notification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_age
+      label: Age
+      hint: Your age
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_organization
+      label: Organization or Group
+      hint: Company - school - etc
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: What event is this for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: jar_description
+      label: Jar Description
+      hint: What type of jar
+      type: select_one
+      options:
+      - Large glass jar
+      - Medium glass jar
+      - Small glass jar
+      - Mason jar
+      - Clear container
+      - Other
+      required: true
+    - id: 10
+      name: candy_type
+      label: Type of Candy in Jar
+      hint: What candy is inside
+      type: select_one
+      options:
+      - Jelly beans
+      - Gumballs
+      - Candy corn
+      - M and Ms
+      - Skittles
+      - Gummy bears
+      - Peppermints
+      - Mixed candy
+      - Other
+      required: true
+    - id: 11
+      name: candy_color
+      label: Candy Color
+      hint: Main color
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guess_count
+      label: Your Guess - How Many Candies
+      hint: Enter your guess
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: guess_method
+      label: How Did You Make Your Guess
+      hint: Guessing strategy
+      type: select_one
+      options:
+      - Visual estimation
+      - Mathematical calculation
+      - Pure luck
+      - Previous experience
+      - Group discussion
+      required: false
+    - id: 14
+      name: number_of_entries
+      label: Number of Entries
+      hint: How many guesses
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: entry_fee_paid
+      label: Entry Fee Paid
+      hint: Was fee paid
+      type: select_one
+      options:
+      - true
+      - No - free entry
+      - Donated instead
+      required: true
+    - id: 16
+      name: entry_fee_amount
+      label: Entry Fee Amount
+      hint: Amount paid
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: prize_interest
+      label: Are You Interested in the Prize
+      hint: Prize motivation
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - somewhat interested
+      - Neutral
+      - No - just for fun
+      required: true
+    - id: 18
+      name: prize_preference
+      label: Preferred Prize Type
+      hint: What would you like
+      type: select_one
+      options:
+      - Cash prize
+      - Gift card
+      - Candy jar
+      - Trophy
+      - Other
+      required: false
+    - id: 19
+      name: how_heard_about_game
+      label: How Did You Hear About This Game
+      hint: Source
+      type: select_one
+      options:
+      - Event signage
+      - Friend or colleague
+      - Social media
+      - Email announcement
+      - Walked by
+      - Other
+      required: false
+    - id: 20
+      name: participating_with_group
+      label: Are You Participating with a Group
+      hint: Team or individual
+      type: select_one
+      options:
+      - Yes - as a team
+      - No - individual entry
+      required: true
+    - id: 21
+      name: team_name
+      label: Team Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_members
+      label: Team Member Names
+      hint: List teammates
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rules_acknowledged
+      label: Have You Read the Game Rules
+      hint: Rules understanding
+      type: select_one
+      options:
+      - Yes - fully read
+      - Yes - skimmed
+      - No - need to review
+      required: true
+    - id: 24
+      name: winner_notification_consent
+      label: Can We Contact You if You Win
+      hint: Contact permission
+      type: select_one
+      options:
+      - Yes - contact me
+      - No - do not contact
+      required: true
+    - id: 25
+      name: photo_permission
+      label: Photo Permission for Event
+      hint: Can we use your photo
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other notes
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submission_date
+      label: Guess Submission Date
+      hint: Date submitted
+      type: date
+      options: []
+      required: true

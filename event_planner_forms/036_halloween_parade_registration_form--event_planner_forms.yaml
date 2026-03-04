@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Parade Registration Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parade_participant
+      label: Are you participating in the parade
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: contact_method
+      label: How do you want to be contacted
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 11
+      name: costume
+      label: Costume
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: costume_details
+      label: Costume Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: participant_number
+      label: Participant Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 18
+      name: email_list
+      label: Email List
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 19
+      name: email_list_label
+      label: Email List Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 21
+      name: participant_status_note
+      label: Participant Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 23
+      name: participant_type_note
+      label: Participant Type Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: contact_status
+      label: Contact Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 25
+      name: contact_status_note
+      label: Contact Status Note
+      hint: null
+      type: note
+      options: []
+      required: false

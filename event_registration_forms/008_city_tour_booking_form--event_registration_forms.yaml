@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Tour Booking Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: For tour coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: booking_details_header
+      label: -- Tour Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tour_type
+      label: Tour Type
+      hint: null
+      type: select_one
+      options:
+      - Walking tour
+      - Bus tour
+      - Bike tour
+      - Food tour
+      - Historical tour
+      - Art and culture tour
+      - Nightlife tour
+      required: true
+    - id: 8
+      name: tour_duration
+      label: Preferred Tour Duration
+      hint: null
+      type: select_one
+      options:
+      - 2 hours
+      - 4 hours
+      - 6 hours
+      - Full day - 8 hours
+      required: true
+    - id: 9
+      name: tour_date
+      label: Preferred Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tour_time
+      label: Preferred Tour Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: group_size
+      label: Number of Participants
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: languages_header
+      label: -- Language and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: tour_language
+      label: Preferred Tour Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Italian
+      - Portuguese
+      - Mandarin Chinese
+      - Other
+      required: true
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility or Special Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_interests
+      label: Special Interests - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Photography
+      - Architecture
+      - Local cuisine
+      - History
+      - Nature
+      - Shopping
+      - Art galleries
+      - Nightlife
+      required: false
+    - id: 16
+      name: pricing_header
+      label: -- Pricing and Booking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: price_per_person
+      label: Price per Person
+      hint: This will be calculated based on tour selection
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_price
+      label: Total Estimated Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_accepted
+      label: I accept the tour cancellation and liability terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

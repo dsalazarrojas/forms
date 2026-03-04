@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Show Participation Request Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Designer''}'
+      - '{''id'': 2, ''name'': ''Model''}'
+      - '{''id'': 3, ''name'': ''Staff''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

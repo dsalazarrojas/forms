@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Coordinator Survey
+    pages:
+    - id: 1
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_important_improvement
+      label: What important things should we change about the tournament?
+      hint: What do you think we should improve about the tournament?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_minor_improvement
+      label: What minor things should we change about the tournament?
+      hint: What minor things do you think we should improve about the tournament?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: How would you rate our communication during the tournament?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Terrible''}'
+      required: false
+    - id: 6
+      name: feedback_general_comments
+      label: Any other comments about the tournament?
+      hint: null
+      type: text
+      options: []
+      required: false

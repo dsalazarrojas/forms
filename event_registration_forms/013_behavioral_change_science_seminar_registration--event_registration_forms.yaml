@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Change Science Seminar Registration
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title or Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_seminar
+      label: -- Seminar Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: seminar_date
+      label: Which Seminar Date Are You Interested In
+      hint: null
+      type: select_one
+      options:
+      - March 15-16
+      - April 19-20
+      - May 17-18
+      - June 21-22
+      - July 19-20
+      required: true
+    - id: 10
+      name: attendance_type
+      label: Attendance Type
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 11
+      name: experience_level
+      label: Your Experience Level with Behavior Change
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 12
+      name: section_interests
+      label: -- Areas of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: topics_interested
+      label: Topics You Are Most Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Habit Formation
+      - Motivation and Engagement
+      - Behavior Change Models
+      - Real-World Applications
+      - Research Methodologies
+      - Case Studies
+      required: true
+    - id: 14
+      name: learning_objectives
+      label: What Are Your Learning Objectives
+      hint: What do you hope to gain
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_accessibility
+      label: -- Accessibility and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Do You Have Any Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For meals provided at in-person events
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: networking_interest
+      label: Are You Interested in Networking Sessions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 19
+      name: prior_seminars
+      label: Have You Attended Our Seminars Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About This Seminar
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Social Media
+      - Colleague Recommendation
+      - Professional Organization
+      - Other
+      required: false

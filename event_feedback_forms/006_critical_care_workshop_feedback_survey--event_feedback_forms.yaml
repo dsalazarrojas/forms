@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Care Workshop Feedback Survey
+    pages:
+    - id: 1
+      name: workshop_experience
+      label: Critical Care Workshop Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workshop_satisfaction
+      label: How satisfied are you with this workshop?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied''}'
+      - '{''id'': 4, ''label'': ''Very Dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Not Satisfied at all''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: What can we do better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

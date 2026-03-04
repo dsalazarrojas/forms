@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Bible School Signup Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: age_group
+      hint: What is your child's age?
+      type: select_one
+      options:
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-10
+      - 11-12
+      required: true
+    - id: 4
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: class_day
+      label: class_day
+      hint: What day of the week would you like your child to attend?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false

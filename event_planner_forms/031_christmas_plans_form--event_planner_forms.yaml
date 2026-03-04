@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Plans Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: holiday_plans
+      label: -- Holiday Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: celebration_location
+      label: Where will you celebrate Christmas?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: family_gathering
+      label: Will you have a family gathering?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 9
+      name: travel_plans
+      label: Are you traveling?
+      hint: null
+      type: select_one
+      options:
+      - Yes, staying locally
+      - Yes, traveling nationally
+      - Yes, traveling internationally
+      - No, staying home
+      - Undecided
+      required: true
+    - id: 10
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: party_attendance
+      label: Will you attend a Christmas party?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true
+    - id: 12
+      name: activities_section
+      label: -- Planned Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: planned_activities
+      label: Planned Activities or Events
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Holiday shopping
+      - Attending church services
+      - Visiting friends and family
+      - Watching holiday movies
+      - Decorating home
+      - Holiday cooking
+      - Charity work
+      - Outdoor activities
+      - Sports or games
+      required: false
+    - id: 14
+      name: dining_plans
+      label: Dining Plans
+      hint: null
+      type: select_one
+      options:
+      - Cooking at home
+      - Dining out
+      - Catering service
+      - Potluck gathering
+      - Mixed options
+      required: false
+    - id: 15
+      name: guest_expectations
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: expected_guests
+      label: Number of Expected Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: children_attending
+      label: Number of Children Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: gift_exchange
+      label: Will you exchange gifts?
+      hint: null
+      type: select_one
+      options:
+      - Yes, with everyone
+      - Yes, secret Santa
+      - Yes, with children only
+      - No gift exchange
+      - Undecided
+      required: false
+    - id: 19
+      name: budget_section
+      label: -- Budget Estimates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: spending_estimate
+      label: Estimated Total Holiday Spending
+      hint: null
+      type: select_one
+      options:
+      - Under $200
+      - $200-$500
+      - $500-$1,000
+      - $1,000-$2,000
+      - Over $2,000
+      required: false
+    - id: 21
+      name: additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_needs
+      label: Any Special Requests or Needs
+      hint: null
+      type: text
+      options: []
+      required: false

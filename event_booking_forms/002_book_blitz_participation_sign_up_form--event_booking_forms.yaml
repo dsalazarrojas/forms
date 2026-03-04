@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Blitz Participation Sign Up Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send event details to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent event communications
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization or Company
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_title
+      label: Your Role or Title
+      hint: Your position in the organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participation_type
+      label: Type of Participation
+      hint: How would you like to participate
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Vendor
+      - Sponsor
+      - Volunteer
+      - Media
+      required: true
+    - id: 7
+      name: event_date_preference
+      label: Preferred Event Date
+      hint: Select your preferred date
+      type: select_one
+      options:
+      - March 15-16
+      - March 22-23
+      - April 5-6
+      - April 12-13
+      - Any date works
+      required: true
+    - id: 8
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: How many people from your group will attend
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: booth_required
+      label: Do you need a vendor booth
+      hint: Select yes if you need booth space
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 10
+      name: booth_size
+      label: Preferred Booth Size
+      hint: Select your preferred booth size
+      type: select_one
+      options:
+      - Small 6x6 ft
+      - Medium 10x10 ft
+      - Large 10x20 ft
+      - Extra Large 20x20 ft
+      required: false
+    - id: 11
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs for catering
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - None
+      required: false
+    - id: 12
+      name: accommodation_needed
+      label: Do you need accommodation assistance
+      hint: We can provide hotel recommendations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: session_interests
+      label: Sessions of Interest
+      hint: Select the sessions you plan to attend
+      type: select_multiple
+      options:
+      - Author Readings
+      - Panel Discussions
+      - Book Signings
+      - Networking Events
+      - Workshops
+      - Keynote Speeches
+      required: false
+    - id: 14
+      name: marketing_opt_in
+      label: Receive marketing updates
+      hint: Get updates about future book blitz events
+      type: select_one
+      options:
+      - Yes please
+      - No thanks
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any additional information we should know
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay the registration fee
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Invoice
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_agreement
+      label: I agree to the event terms and conditions
+      hint: By selecting yes you confirm agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

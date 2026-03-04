@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Reading Selection
+    pages:
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: membership_id
+      label: Membership ID
+      hint: Your book club member ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: selection_period
+      label: Selection Period
+      hint: Which reading period is this for
+      type: select_one
+      options:
+      - March 2026
+      - April 2026
+      - May 2026
+      - June 2026
+      - Q2 2026
+      required: true
+    - id: 5
+      name: suggested_book_title
+      label: Suggested Book Title
+      hint: Title of book you are suggesting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggested_book_author
+      label: Book Author
+      hint: Author of the suggested book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_genre
+      label: Book Genre
+      hint: Select the genre
+      type: select_one
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Historical Fiction
+      - Non-Fiction
+      - Biography
+      - Self-Help
+      - Classic Literature
+      - Young Adult
+      - Other
+      required: true
+    - id: 8
+      name: publication_year
+      label: Publication Year
+      hint: Year the book was published
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: book_description
+      label: Brief Book Description
+      hint: 2-3 sentence summary of the book
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: why_this_book
+      label: Why Should We Read This Book
+      hint: Explain why this book would be good for the club
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: book_length
+      label: Approximate Book Length
+      hint: Number of pages
+      type: select_one
+      options:
+      - Under 200 pages
+      - 200-300 pages
+      - 300-400 pages
+      - 400-500 pages
+      - Over 500 pages
+      required: true
+    - id: 12
+      name: reading_difficulty
+      label: Reading Difficulty Level
+      hint: How challenging is this book
+      type: select_one
+      options:
+      - Easy Read
+      - Moderate
+      - Challenging
+      - Very Challenging
+      required: true
+    - id: 13
+      name: content_warnings
+      label: Content Warnings
+      hint: Any sensitive content to note
+      type: select_multiple
+      options:
+      - Violence
+      - Strong Language
+      - Sexual Content
+      - Substance Abuse
+      - Mental Health Themes
+      - None
+      required: false
+    - id: 14
+      name: book_availability
+      label: Book Availability
+      hint: Where can members get this book
+      type: select_multiple
+      options:
+      - Available at Library
+      - Available as eBook
+      - Available as Audiobook
+      - Purchase Required
+      - Borrow from Friend
+      required: false
+    - id: 15
+      name: vote_preference
+      label: Your Vote for This Book
+      hint: How strongly do you want to read this
+      type: select_one
+      options:
+      - Strongly Want to Read
+      - Would Like to Read
+      - Neutral
+      - Prefer Not to Read
+      - Strongly Oppose
+      required: true
+    - id: 16
+      name: alternative_suggestions
+      label: Alternative Book Suggestions
+      hint: Any other books you recommend
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: discussion_questions
+      label: Would you like to help prepare discussion questions
+      hint: Select if you want to contribute
+      type: select_one
+      options:
+      - Yes I will help
+      - Maybe
+      - No thanks
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: Date of your suggestion
+      type: date
+      options: []
+      required: true

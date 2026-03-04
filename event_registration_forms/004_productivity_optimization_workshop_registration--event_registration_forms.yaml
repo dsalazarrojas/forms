@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Optimization Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_selections
+      label: Session Selections
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 3
+      name: attendee_needs
+      label: Attendee Needs
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Snacks
+      - None
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

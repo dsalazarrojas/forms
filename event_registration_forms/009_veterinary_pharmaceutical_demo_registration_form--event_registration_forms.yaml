@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_pharmaceutical_demo_registration_form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: demo_preferences
+      label: demo_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 7
+      name: demo_time
+      label: demo_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: true
+    - id: 12
+      name: assigned_tool_other
+      label: assigned_tool_other
+      hint: null
+      type: text
+      options: []
+      required: false

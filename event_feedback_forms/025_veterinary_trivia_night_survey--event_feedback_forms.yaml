@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Trivia Night Survey
+    pages:
+    - id: 1
+      name: trivia_question
+      label: Trivia Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''trivia''}'
+      - '{''text'': ''riddle''}'
+      - '{''text'': ''puzzle''}'
+      required: false
+    - id: 3
+      name: rating
+      label: Event Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: improvement_insights
+      label: Improvement Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_attended
+      label: Date Attended
+      hint: YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: "HH:MM 24 hour format"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: finish_time
+      label: Finish Time
+      hint: "HH:MM 24 hour format"
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: trivia_category
+      label: Trivia Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''animal_shelter''}'
+      - '{''text'': ''veterinary_clinic''}'
+      - '{''text'': ''veterinary_hospital''}'
+      - '{''text'': ''animal_adopt''}'
+      - '{''text'': ''pet_breeder''}'
+      - '{''text'': ''veterinary_school''}'
+      required: false
+    - id: 11
+      name: attended_event
+      label: Attended Event
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      - '{''text'': ''unsure''}'
+      required: false
+    - id: 12
+      name: event_length
+      label: Event Length
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''30-60 minutes''}'
+      - '{''text'': ''1-2 hours''}'
+      - '{''text'': ''2-3 hours''}'
+      - '{''text'': ''all_day''}'
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      - '{''text'': ''unsure''}'
+      required: false

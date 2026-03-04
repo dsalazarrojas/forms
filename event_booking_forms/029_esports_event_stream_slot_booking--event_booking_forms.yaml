@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: esports_event_stream_slot_booking
+    pages:
+    - id: 1
+      name: slot_booking
+      label: Slot Booking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: game_name
+      label: game_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: streamer_name
+      label: streamer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: platform_name
+      label: platform_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_date
+      label: booking_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: booking_time
+      label: booking_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: slot_duration
+      label: slot_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: streamers
+      label: Streamers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: platforms
+      label: Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: event_schedule
+      label: Event Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: game_platforms
+      label: Game Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: game_streamers
+      label: Game Streamers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

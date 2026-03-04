@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Recycling Logistics Application Form
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_size
+      label: event_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recyclable_materials
+      label: recyclable_materials
+      hint: null
+      type: select_multiple
+      options:
+      - Glass
+      - Paper
+      - Plastic
+      - Organics
+      - Metals
+      required: false
+    - id: 6
+      name: recycling_services
+      label: recycling_services
+      hint: null
+      type: select_multiple
+      options:
+      - Recycling Bins
+      - Recycling Services
+      - Waste Hauler
+      required: false
+    - id: 7
+      name: collection_date
+      label: collection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: collection_time
+      label: collection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

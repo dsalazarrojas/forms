@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tea Party Checklist
+    pages:
+    - id: 1
+      name: main_page
+      label: welcome-to-the-tea-party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_quantity
+      label: guest-quantity
+      hint: How many guests attending?
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tea_party_date
+      label: tea-party-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: tea_party_time
+      label: tea-party-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: food_and_drinks
+      label: food-and-drinks
+      hint: null
+      type: select_multiple
+      options:
+      - Baked Goods
+      - Beverages
+      - Finger Foods
+      - Finger Foods with Meat
+      - Finger Foods without Meat
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: decorations
+      label: decorations
+      hint: null
+      type: select_one
+      options:
+      - Balloons
+      - Banners
+      - Cake
+      - Centerpieces
+      - Favors
+      - Gift Table
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: music_playlist
+      label: music-playlist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_username
+      label: assigned-username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: created_by
+      label: created-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_updated
+      label: last-updated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: last_updated_by
+      label: last-updated-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: created-at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: last_updated_at
+      label: last-updated-at
+      hint: null
+      type: time
+      options: []
+      required: false

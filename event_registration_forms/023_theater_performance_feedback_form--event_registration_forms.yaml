@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Performance Feedback Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: attended_performance
+      label: Attended Performance
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Morning''}'
+      - '{2: ''Afternoon''}'
+      - '{3: ''Evening''}'
+      required: true
+    - id: 7
+      name: attended_date
+      label: Attended Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: attended_time
+      label: Attended Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Play''}'
+      - '{2: ''Musical''}'
+      - '{3: ''Comedy''}'
+      required: true
+    - id: 10
+      name: feedback_question_1
+      label: Feedback Question 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: feedback_question_2
+      label: Feedback Question 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: feedback_question_3
+      label: Feedback Question 3
+      hint: null
+      type: note
+      options: []
+      required: false

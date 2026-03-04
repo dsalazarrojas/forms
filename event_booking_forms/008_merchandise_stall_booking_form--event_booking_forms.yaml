@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Merchandise Stall Booking Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stall_booking
+      label: Stall Booking
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      - '{3: ''Option 3''}'
+      required: false
+    - id: 3
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      - '{3: ''Option 3''}'
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      - '{3: ''Option 3''}'
+      required: false
+    - id: 13
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      - '{3: ''Option 3''}'
+      required: false

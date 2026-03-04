@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Gear Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_shipping_address
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_gear_order
+      label: -- Gear Order Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: item_backpack
+      label: Camp Backpack - Quantity
+      hint: 45L capacity, waterproof material
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: item_tent
+      label: 4-Person Tent - Quantity
+      hint: Double-wall construction
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: item_sleeping_bag
+      label: Sleeping Bag - Quantity
+      hint: Temperature rated 20F
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: item_sleeping_pad
+      label: Sleeping Pad - Quantity
+      hint: Self-inflating foam pad
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: item_water_bottle
+      label: Water Bottle - Quantity
+      hint: 32oz insulated bottle
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: item_headlamp
+      label: LED Headlamp - Quantity
+      hint: 200 lumen with USB charging
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_camping_stove
+      label: Portable Camping Stove - Quantity
+      hint: Compact butane stove
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: item_cookware_set
+      label: Aluminum Cookware Set - Quantity
+      hint: 5-piece set with utensils
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: item_carabiner_set
+      label: Carabiner Set - Quantity
+      hint: Pack of 10 lightweight carabiners
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: item_rope
+      label: Climbing Rope - Quantity
+      hint: 50ft static rope
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_options
+      label: -- Additional Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: gear_personalization
+      label: Personalize gear with embroidery
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: personalization_text
+      label: Embroidery Text
+      hint: If yes selected above
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard - 5-7 business days
+      - Express - 2-3 business days
+      - Overnight - 1 business day
+      required: true

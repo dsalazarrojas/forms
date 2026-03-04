@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Package Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_details
+      label: Group Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: package_preferences
+      label: Package Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '[{''id'': 1, ''name'': ''credit_card'', ''label'': ''Credit Card''}, {''id'':
+        2, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}, {''id'': 3,
+        ''name'': ''cash'', ''label'': ''Cash''}]'
+      - Other
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false

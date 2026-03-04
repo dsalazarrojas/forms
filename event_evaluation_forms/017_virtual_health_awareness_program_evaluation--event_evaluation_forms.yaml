@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Health Awareness Program Evaluation
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_information
+      label: Background information about the virtual session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: false
+    - id: 4
+      name: session_outcomes
+      label: Session outcomes and takeaways
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: knowledge_gain
+      label: Knowledge gain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_satisfaction
+      label: Session satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: false
+    - id: 7
+      name: future_programs
+      label: Future programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Continuing Education Feedback
+    pages:
+    - id: 1
+      name: event_feedback_form
+      label: Immigration Session Feedback
+      hint: Please give detailed feedback on this session
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_evaluation
+      label: Session Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: topic_suggestions
+      label: Topic Suggestions
+      hint: What topics would you like to see covered in future sessions?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: future_topics
+      label: Future Topics
+      hint: null
+      type: select_multiple
+      options:
+      - US Citizenship Laws
+      - Immigration Procedures
+      - Immigration Policy
+      required: true
+    - id: 5
+      name: evaluation_scale
+      label: Overall Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: feedback_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

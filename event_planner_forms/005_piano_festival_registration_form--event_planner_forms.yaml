@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piano Festival Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_state
+      label: Participant State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - '...'
+      required: false
+    - id: 7
+      name: participant_zip
+      label: Participant Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: piano_festival_date
+      label: Piano Festival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_category
+      label: Participant Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false

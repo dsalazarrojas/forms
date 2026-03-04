@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Seminar Evaluation Form
+    pages:
+    - id: 1
+      name: seminar_title
+      label: Seminar Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: seminar_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: seminar_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: speaker
+      label: Speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_1
+      label: rating 1
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: rating_2
+      label: rating 2
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: rating_3
+      label: rating 3
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: rating_4
+      label: rating 4
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: rating_5
+      label: rating 5
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

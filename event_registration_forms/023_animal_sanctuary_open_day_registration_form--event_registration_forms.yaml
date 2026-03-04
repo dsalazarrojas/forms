@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Sanctuary Open Day Registration Form
+    pages:
+    - id: 1
+      name: visitor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visitor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_age_group
+      label: Age Group
+      hint: Your age category
+      type: select_one
+      options:
+      - Under 12
+      - 12 - 17
+      - 18 - 30
+      - 31 - 50
+      - 51 - 65
+      - 65+
+      required: true
+    - id: 6
+      name: group_size
+      label: Group Size
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_group_composition
+      label: -- Group Composition --
+      hint: Details about who is in your group
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: children_count
+      label: Number of Children (under 12)
+      hint: How many children
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: teenagers_count
+      label: Number of Teenagers (12-17)
+      hint: How many teenagers
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: adults_count
+      label: Number of Adults
+      hint: How many adults
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: seniors_count
+      label: Number of Seniors (65+)
+      hint: How many seniors
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: visit_date
+      label: Preferred Visit Date
+      hint: When would you like to visit
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: visit_time
+      label: Preferred Time Slot
+      hint: Morning or afternoon
+      type: select_one
+      options:
+      - 9 AM - 12 PM
+      - 12 PM - 3 PM
+      - 3 PM - 6 PM
+      required: true
+    - id: 14
+      name: section_interests
+      label: -- Interests and Preferences --
+      hint: What animals and activities interest you
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: animal_interests
+      label: Animals You Want to See
+      hint: Select the animals you are interested in
+      type: select_multiple
+      options:
+      - Big Cats
+      - Primates
+      - Elephants
+      - Giraffes
+      - Wolves
+      - Birds of Prey
+      - Reptiles
+      - All Animals
+      required: true
+    - id: 16
+      name: activity_interests
+      label: Activities of Interest
+      hint: Which activities interest you
+      type: select_multiple
+      options:
+      - Guided Tours
+      - Educational Talks
+      - Photography
+      - Picnic Areas
+      - Gift Shop Browsing
+      - Children's Activities
+      required: false
+    - id: 17
+      name: guided_tour_preference
+      label: Guided Tour
+      hint: Would you like a guided tour
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: section_accessibility
+      label: -- Accessibility Needs --
+      hint: Any assistance needed
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: wheelchair_access
+      label: Wheelchair Accessibility Needed
+      hint: Do you need wheelchair access
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: mobility_assistance
+      label: Mobility Assistance Required
+      hint: Do you need mobility assistance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_health
+      label: -- Health and Safety --
+      hint: Important health information
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: health_conditions
+      label: Any Health Conditions or Allergies
+      hint: We should know about
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: agree_code_of_conduct
+      label: Agree to Sanctuary Code of Conduct
+      hint: Accept visitor guidelines
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

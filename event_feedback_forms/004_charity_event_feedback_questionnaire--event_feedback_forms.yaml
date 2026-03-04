@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Feedback Questionnaire
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Name of Event Attended
+      hint: Which charity event did you attend
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When did you attend
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: first_time_attendance
+      label: Was This Your First Time at This Event
+      hint: Have you attended before
+      type: select_one
+      options:
+      - Yes, First Time
+      - No, Returned Attendee
+      required: true
+    - id: 8
+      name: section_event_experience
+      label: -- Event Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_organization
+      label: Overall Event Organization
+      hint: How well organized was the event
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: registration_process
+      label: Check-in and Registration Process
+      hint: Was registration smooth
+      type: select_one
+      options:
+      - Very Smooth
+      - Smooth
+      - Average
+      - Difficult
+      required: true
+    - id: 11
+      name: venue_quality
+      label: Venue Quality and Accessibility
+      hint: Rate the location and facilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 12
+      name: food_beverages
+      label: Food and Beverage Quality
+      hint: How were the refreshments
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 13
+      name: section_fundraising
+      label: -- Fundraising and Mission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: mission_understanding
+      label: Understanding of Charity Mission
+      hint: Did you understand the cause
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      required: true
+    - id: 15
+      name: donation_likely
+      label: Likelihood to Make a Donation
+      hint: Are you interested in contributing
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Undecided
+      - Unlikely
+      required: true
+    - id: 16
+      name: donation_amount
+      label: Amount You Plan to Donate
+      hint: Estimated donation (optional)
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall Satisfaction with Event
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 19
+      name: improvement_suggestions
+      label: Suggestions for Future Events
+      hint: How can we improve
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommend_to_others
+      label: Would You Recommend This Event to Others
+      hint: Will you tell your friends
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - 'No'
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

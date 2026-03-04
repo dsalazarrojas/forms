@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_email
+      label: Registrant email
+      hint: For confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Registrant phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_choice
+      label: Program or activity
+      hint: Select the program you wish to join
+      type: select_one
+      options:
+      - Park cleanup
+      - Meal service
+      - Tutoring
+      - Fundraising event
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide a contact for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_media
+      label: Consent to use media
+      hint: Allow use of photos or video for promotion
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Describe any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special instructions for coordinators
+      hint: Any important notes for event staff
+      type: text
+      options: []
+      required: false

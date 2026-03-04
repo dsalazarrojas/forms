@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Weekend Participation Survey
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: We will send event updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Which Book Weekend dates will you attend
+      hint: Select the dates you plan to attend
+      type: select_multiple
+      options:
+      - Friday Evening
+      - Saturday Morning
+      - Saturday Afternoon
+      - Saturday Evening
+      - Sunday Morning
+      - Sunday Afternoon
+      required: true
+    - id: 5
+      name: first_time_attendee
+      label: Is this your first Book Weekend
+      hint: Have you attended before
+      type: select_one
+      options:
+      - Yes, first time
+      - No, I have attended before
+      required: true
+    - id: 6
+      name: number_of_companions
+      label: How many people will be attending with you
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: companion_types
+      label: Who will be attending with you
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Family members
+      - Friends
+      - Book club group
+      - Alone
+      - Colleagues
+      required: false
+    - id: 8
+      name: primary_interest
+      label: What interests you most about Book Weekend
+      hint: Main reason for attending
+      type: select_one
+      options:
+      - Author meet-and-greets
+      - Book discussions
+      - New book discoveries
+      - Socializing with other readers
+      - Workshop sessions
+      - Exclusive deals
+      required: true
+    - id: 9
+      name: favorite_book_genres
+      label: Your favorite book genres
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Historical Fiction
+      - Non-fiction
+      - Biography
+      - Children's Books
+      - Other
+      required: true
+    - id: 10
+      name: author_interest
+      label: Are there specific authors you want to meet
+      hint: List author names
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_interest
+      label: Interested in attending workshops
+      hint: Would you like to attend author workshops
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 12
+      name: accessibility_needs
+      label: Do you have any accessibility needs
+      hint: Please let us know how we can help
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_feedback
+      label: How did you hear about this event
+      hint: Where did you learn about Book Weekend
+      type: select_one
+      options:
+      - Library website
+      - Social media
+      - Email newsletter
+      - Word of mouth
+      - Local news
+      - Previous attendee
+      - Other
+      required: true
+    - id: 14
+      name: improvement_suggestions
+      label: What could we improve for next year
+      hint: Your suggestions and feedback
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mailing_list
+      label: Add me to the mailing list
+      hint: Receive updates about future events
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

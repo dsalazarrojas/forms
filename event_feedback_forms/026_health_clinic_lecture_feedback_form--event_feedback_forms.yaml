@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Clinic Lecture Feedback Form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: quality_of_lecture
+      label: Quality of Lecture
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: long_text_question_1
+      label: This was a very useful lecture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: long_text_question_2
+      label: What was the overall take away from this event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating_1
+      label: Overall rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating_2
+      label: Overall rating (5 stars)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: Would you recommend this lecture to a friend?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

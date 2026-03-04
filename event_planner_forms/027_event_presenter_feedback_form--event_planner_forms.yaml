@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_presenter_feedback_form
+    pages:
+    - id: 1
+      name: event_presenter_survey
+      label: event_presenter_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ratings
+      label: ratings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_1
+      label: how_did_presenters_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''Unhappy''}'
+      required: false
+    - id: 4
+      name: rating_2
+      label: how_was_event
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''Unhappy''}'
+      required: false
+    - id: 5
+      name: rating_3
+      label: would_recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false

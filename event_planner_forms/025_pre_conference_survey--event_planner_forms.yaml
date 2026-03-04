@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Conference Survey
+    pages:
+    - id: 1
+      name: conference_experience
+      label: Conference Experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 2
+      name: general_feedback
+      label: General Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: what_to_improve
+      label: What To Improve
+      hint: Please let us know how we can improve the conference.
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 4
+      name: conference_satisfaction
+      label: Conference Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: attendees_attendance
+      label: Attendees Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: attendees_diet
+      label: Attendees Diet
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      - option9
+      required: true
+    - id: 7
+      name: attendees_diet_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendees_diet_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - option10
+      - option11
+      - option12
+      required: false
+    - id: 14
+      name: attendees_experience
+      label: Attendees Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendees_feedback
+      label: Attendees Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: conference_expectation
+      label: Conference Expectation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: conference_satisfaction
+      label: Conference Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attendees_interest
+      label: Attendees Interest
+      hint: null
+      type: select_multiple
+      options:
+      - option13
+      - option14
+      - option15
+      required: true
+    - id: 20
+      name: attendees_recommendation
+      label: Attendees Recommendation
+      hint: null
+      type: select_one
+      options:
+      - option16
+      - option17
+      - option18
+      required: false
+    - id: 21
+      name: attendees_attendance
+      label: Attendees Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: attendees_satisfaction
+      label: Attendees Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: attendees_fees
+      label: Attendees Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attendees_fees_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false

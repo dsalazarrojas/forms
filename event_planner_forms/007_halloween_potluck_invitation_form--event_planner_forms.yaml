@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Potluck Invitation Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: select_one
+      options:
+      - '2022-10-31'
+      - '2022-11-01'
+      - '2022-11-02'
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: select_one
+      options:
+      - '64800'
+      - '68400'
+      - '72000'
+      required: false

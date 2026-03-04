@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surprise Birthday Invitation
+    pages:
+    - id: 1
+      name: first_page
+      label: Host Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birthday_info
+      label: Birthday Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rsvp
+      label: RSVP
+      hint: RSVP (yes or no)
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 5
+      name: message
+      label: Secret Message
+      hint: A personal message from the host
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Host Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Host Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: birthday
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: Time of the birthday party
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: message_from_guest
+      label: Message from Guest
+      hint: A message from each guest
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gift_preferences
+      label: Gift Preferences
+      hint: Please list gift preferences
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

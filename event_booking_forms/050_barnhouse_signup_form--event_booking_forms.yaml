@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barnhouse Signup Form
+    pages:
+    - id: 1
+      name: signup_intro_header
+      label: Join the Barnhouse Community
+      hint: Stay updated on farm events, workshops, and seasonal markets.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Mobile Number
+      hint: Optional - for SMS event alerts
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location_pref_header
+      label: -- Your Interests --
+      hint: What brings you to the Barnhouse?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: interest_areas
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Farmers' Markets
+      - Barn Dances and Music Events
+      - Farm-to-Table Dinners
+      - Educational Workshops (Gardening, Crafting)
+      - Children's Programs
+      - Yoga and Wellness Retreats
+      required: true
+    - id: 7
+      name: volunteer_interest
+      label: Are you interested in volunteering at the farm?
+      hint: null
+      type: select_one
+      options:
+      - Yes - I'd love to help!
+      - Maybe - Send me more info
+      - No - Just attending events for now
+      required: true
+    - id: 8
+      name: membership_type_header
+      label: -- Membership Options --
+      hint: Support the farm and receive exclusive benefits
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_selection
+      label: Select a Membership Tier
+      hint: null
+      type: select_one
+      options:
+      - Free Community Member (Newsletter only)
+      - Friend of the Farm ($50/year)
+      - Farm Family ($120/year)
+      - Barnhouse Patron ($500/year)
+      required: true
+    - id: 10
+      name: communication_pref_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: frequency_preference
+      label: How often would you like to hear from us?
+      hint: null
+      type: select_one
+      options:
+      - Weekly Highlights
+      - Monthly Newsletter
+      - Only Major Event Alerts
+      required: true
+    - id: 12
+      name: newsletter_format
+      label: Preferred Newsletter Format
+      hint: null
+      type: select_one
+      options:
+      - HTML (Images and Design)
+      - Plain Text (Lightweight)
+      required: true
+    - id: 13
+      name: zip_code
+      label: Your Zip Code
+      hint: Helps us plan local events
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: referral_info
+      label: How did you hear about the Barnhouse?
+      hint: null
+      type: select_one
+      options:
+      - A Friend / Family
+      - Social Media
+      - Local Newspaper
+      - Drove by the property
+      - Online Search
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Any questions or suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_header
+      label: -- Privacy and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: privacy_agreement
+      label: I agree to receive communications from Barnhouse
+      hint: You can unsubscribe at any time.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: signup_date
+      label: Signup Date
+      hint: null
+      type: date
+      options: []
+      required: true

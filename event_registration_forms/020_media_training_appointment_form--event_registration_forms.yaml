@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Training Appointment Form
+    pages:
+    - id: 1
+      name: media_training_appointment_form
+      label: media_training_appointment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: media_type
+      label: media_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''media_type_option_1'', ''text'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''media_type_option_2'', ''text'': ''Option 2''}'
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Experience Production Request Form
+    pages:
+    - id: 1
+      name: production_request
+      label: Production Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Workshop
+      - Conference
+      - Meetup
+      - Seminar
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buy Your Tickets Today With Moneris
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Your email for ticket confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact number for event updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your ticket category
+      type: select_one
+      options:
+      - General Admission
+      - VIP
+      - Early Bird
+      - Student
+      - Senior
+      - Family Pack
+      required: true
+    - id: 6
+      name: ticket_quantity
+      label: Number of Tickets
+      hint: How many tickets do you need
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: companion_names
+      label: Names of Additional Attendees
+      hint: If buying multiple tickets
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: billing_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: billing_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: billing_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on the credit card
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: card_number
+      label: Credit Card Number
+      hint: Your payment card information
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: card_expiry
+      label: Card Expiration Date
+      hint: MM-YY format
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: card_cvv
+      label: CVV Code
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: ticket_total
+      label: Total Ticket Cost
+      hint: Amount to charge
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have a discount code
+      type: text
+      options: []
+      required: false

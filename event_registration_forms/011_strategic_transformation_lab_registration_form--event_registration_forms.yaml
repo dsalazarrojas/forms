@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Transformation Lab Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Goal 1''}'
+      - '{''id'': 2, ''label'': ''Goal 2''}'
+      - '{''id'': 3, ''label'': ''Goal 3''}'
+      required: false
+    - id: 3
+      name: preferences
+      label: Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ChatJImmy''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: participant_acceptance
+      label: Participant Acceptance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_time
+      label: Participant Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Active''}'
+      - '{''id'': 11, ''label'': ''Inactive''}'
+      required: false
+    - id: 11
+      name: participant_acceptance_terms
+      label: Participant Acceptance Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Prayer Gathering Registration
+    pages:
+    - id: 1
+      name: prayer_gathering_intro_note
+      label: -- Community Prayer Gathering Invitation --
+      hint: Join us for an evening of reflection and shared prayer.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_total_count
+      label: Total Number Attending
+      hint: Including yourself and any guests.
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: guest_names_list
+      label: Names of Your Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prayer_request_intent_check
+      label: Would you like to share a prayer request?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: prayer_request_description_text
+      label: Prayer Request Description
+      hint: Please share any specific needs or concerns.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prayer_request_sharing_consent
+      label: May we share this request during the gathering?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Share publicly
+      - No - Keep private
+      required: true
+    - id: 10
+      name: volunteer_interest_check
+      label: Are you interested in volunteering for this event?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: volunteer_roles_selection
+      label: Volunteer Roles
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Set-up
+      - Welcome Greeter
+      - Scriptural Reader
+      - Refreshments
+      - Clean-up
+      required: false
+    - id: 12
+      name: accessibility_needs_info
+      label: Any Specific Accessibility Needs?
+      hint: We want to ensure everyone can participate.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions_info
+      label: Dietary Restrictions for Refreshments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mailing_list_join_check
+      label: Join Our Weekly Mailing List?
+      hint: Receive updates on future gatherings.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: location_time_details_note
+      label: -- Event Details --
+      hint: "Friday - Oct 25th at 7:00 PM - Community Center Hall."
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: registration_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

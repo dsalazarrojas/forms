@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower Supply Order Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer name
+      hint: Event host
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: Date supplies are needed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: item_needed
+      label: Item needed
+      hint: Specify item name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity required
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: supplier_preference
+      label: Supplier preference
+      hint: If a specific supplier is preferred
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery address
+      hint: Where supplies should be delivered
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Desired delivery date
+      hint: Date and time window
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: For delivery queries
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_code
+      label: Budget code or account
+      hint: For internal accounting
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

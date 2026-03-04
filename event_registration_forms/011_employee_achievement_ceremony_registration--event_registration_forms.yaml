@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Achievement Ceremony Registration
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: employee_achievement_ceremony_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_relationship
+      label: guest_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: rsvp_status_other
+      label: other_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_by
+      label: rsvp_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: rsvp_by_other
+      label: other_rsvp_by
+      hint: null
+      type: text
+      options: []
+      required: false

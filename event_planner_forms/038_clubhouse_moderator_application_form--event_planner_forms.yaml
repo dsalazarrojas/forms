@@ -1,0 +1,140 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clubhouse Moderator Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: clubhouse_handle
+      label: Clubhouse Handle or Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: application_submission_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: moderating_experience
+      label: Moderating Experience
+      hint: Have you moderated before
+      type: select_one
+      options:
+      - No Experience
+      - Limited Experience
+      - Moderate Experience
+      - Extensive Experience
+      required: true
+    - id: 6
+      name: rooms_moderated
+      label: Types of Rooms You Have Moderated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Business
+      - Health and Wellness
+      - Entertainment
+      - Education
+      - Other
+      required: false
+    - id: 7
+      name: motivation
+      label: Why Do You Want to Moderate
+      hint: Your reasons and goals
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: leadership_approach
+      label: Your Leadership and Moderation Approach
+      hint: Describe your style
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: conflict_management
+      label: Conflict Management Experience
+      hint: How do you handle disagreements
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: audience_management
+      label: Audience Management Skills
+      hint: Rate your skill level
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 11
+      name: communication_style
+      label: Communication Style
+      hint: Describe how you communicate
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: Availability for Moderation
+      hint: When can you moderate
+      type: select_one
+      options:
+      - Weekdays Only
+      - Weekends Only
+      - Flexible
+      - Specific Times
+      required: true
+    - id: 13
+      name: time_zone_info
+      label: Your Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: social_presence
+      label: Social Media or Online Presence
+      hint: Links to your profiles
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: references
+      label: References or Recommendations
+      hint: Contact info for references
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Follow Up Survey
+    pages:
+    - id: 1
+      name: event_follow_up_survey
+      label: Event Follow Up Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_event
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_of_event
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_attended
+      label: event_attended
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      - choice3
+      - choice4
+      - choice5
+      required: true
+    - id: 6
+      name: feedback_question
+      label: feedback_question
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: true
+    - id: 7
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_information
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: customer_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_user
+      label: prophets
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: true
+    - id: 12
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: assigned_time
+      label: assigned_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: assigned_user_name
+      label: assigned_user_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      required: true
+    - id: 16
+      name: follow_up_survey_sent
+      label: follow_up_survey_sent
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      required: true
+    - id: 17
+      name: event_status_date
+      label: event_status_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: event_status_time
+      label: event_status_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: event_status_notes
+      label: event_status_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: assigned_notes
+      label: assigned_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_survey_sent_date
+      label: follow_up_survey_sent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_survey_sent_time
+      label: follow_up_survey_sent_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_survey_notes
+      label: follow_up_survey_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: customer_email_sent
+      label: customer_email_sent
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      required: true
+    - id: 25
+      name: customer_email_sent_date
+      label: customer_email_sent_date
+      hint: null
+      type: date
+      options: []
+      required: true

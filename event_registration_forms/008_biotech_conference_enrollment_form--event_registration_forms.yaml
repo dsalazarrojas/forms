@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Conference Enrollment Form
+    pages:
+    - id: 1
+      name: section_attendee_information
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: We'll send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_organization
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Company or Organization
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Biotech Company
+      - Pharmaceutical Company
+      - Research Institution
+      - University
+      - Government Agency
+      - Healthcare Provider
+      - Investor or Venture Capital
+      - Other
+      required: true
+    - id: 10
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-50)
+      - Small (51-250)
+      - Medium (251-1000)
+      - Large (1001-5000)
+      - Enterprise (5000+)
+      required: true
+    - id: 11
+      name: section_conference_details
+      label: -- Conference Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: Choose your registration level
+      type: select_one
+      options:
+      - Standard Full Conference
+      - Single Day Pass
+      - Virtual Attendance
+      - Student
+      - Faculty
+      - Speaker
+      required: true
+    - id: 13
+      name: conference_date
+      label: Preferred Conference Date
+      hint: Select your attendance date
+      type: select_one
+      options:
+      - Day 1 - Monday, March 10
+      - Day 2 - Tuesday, March 11
+      - Day 3 - Wednesday, March 12
+      - Full Conference
+      required: true
+    - id: 14
+      name: section_interests
+      label: -- Session Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: interested_tracks
+      label: Interested in These Tracks
+      hint: Select all sessions of interest
+      type: select_multiple
+      options:
+      - Gene Therapy
+      - Immunotherapy
+      - Diagnostics
+      - Drug Development
+      - Clinical Trials
+      - Regulatory Affairs
+      - Business and Investment
+      required: true
+    - id: 16
+      name: keynote_preferences
+      label: Keynote Session Preferences
+      hint: Which keynote topics interest you
+      type: select_multiple
+      options:
+      - Future of Biotech
+      - AI in Drug Discovery
+      - Personalized Medicine
+      - Global Health
+      - Sustainability in Biotech
+      required: false
+    - id: 17
+      name: networking_interests
+      label: Networking Interests
+      hint: What are you looking to gain
+      type: select_multiple
+      options:
+      - Business Partnerships
+      - Talent Recruitment
+      - Investment Opportunities
+      - Technology Collaboration
+      - Knowledge Exchange
+      required: false
+    - id: 18
+      name: section_dietary_logistics
+      label: -- Meals and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Let us know any dietary needs
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Describe any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hotel_assistance
+      label: Need Hotel Recommendation or Booking Assistance
+      hint: We can help with accommodations
+      type: select_one
+      options:
+      - Yes, Please Help
+      - No, I Have Arrangements
+      required: false
+    - id: 22
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Do you need ground transportation
+      type: select_one
+      options:
+      - No Transportation Needed
+      - Airport Shuttle Only
+      - Full Ground Transportation
+      required: false
+    - id: 23
+      name: section_preferences
+      label: -- Additional Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For conference merchandise
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: false
+    - id: 25
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - Mail
+      required: true
+    - id: 26
+      name: marketing_consent
+      label: I want to receive information about future biotech events
+      hint: We respect your privacy
+      type: select_one
+      options:
+      - Yes, Include Me
+      - No, Thank You
+      required: false
+    - id: 27
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any other information for organizers
+      type: text
+      options: []
+      required: false

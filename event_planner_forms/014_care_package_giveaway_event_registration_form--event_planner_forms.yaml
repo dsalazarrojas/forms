@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Package Giveaway Event Registration Form
+    pages:
+    - id: 1
+      name: registrant_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: Company, school, or group
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Individual volunteer
+      - Non-profit organization
+      - School or university
+      - Religious organization
+      - Corporate group
+      - Community group
+      - Government agency
+      - Other
+      required: true
+    - id: 6
+      name: number_of_volunteers
+      label: Number of Volunteers Registering
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: volunteer_names
+      label: Names of All Volunteers
+      hint: List all participating volunteers
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date_preference
+      label: Preferred Event Date
+      hint: null
+      type: select_one
+      options:
+      - Saturday, March 15, 2026
+      - Saturday, March 22, 2026
+      - Saturday, April 5, 2026
+      - Any date - flexible
+      required: true
+    - id: 9
+      name: volunteer_role_preference
+      label: Preferred Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - Care package assembly
+      - Distribution and handout
+      - Registration and check-in
+      - Setup and teardown
+      - Photography and social media
+      - Transportation assistance
+      - No preference
+      required: true
+    - id: 10
+      name: time_slot_preference
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning shift (8 AM - 12 PM)
+      - Afternoon shift (12 PM - 4 PM)
+      - Full day (8 AM - 4 PM)
+      - Flexible
+      required: true
+    - id: 11
+      name: previous_volunteer_experience
+      label: Do You Have Previous Volunteer Experience
+      hint: null
+      type: select_one
+      options:
+      - Yes - extensive experience
+      - Yes - some experience
+      - No - first time volunteering
+      required: true
+    - id: 12
+      name: skills_and_interests
+      label: Skills and Interests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Event planning
+      - Team leadership
+      - Customer service
+      - Physical labor
+      - Creative design
+      - Social media
+      - Photography
+      - Driving
+      - Bilingual skills
+      - None specific
+      required: false
+    - id: 13
+      name: care_package_types
+      label: Which Care Package Types Interest You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Homeless care packages
+      - Senior care packages
+      - Student care packages
+      - Military care packages
+      - Healthcare worker appreciation
+      - New parent packages
+      - Holiday gift packages
+      - Emergency relief packages
+      - Any type needed
+      required: true
+    - id: 14
+      name: items_to_contribute
+      label: Items You Can Contribute
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Toiletries
+      - Snacks and non-perishable food
+      - Socks and underwear
+      - Blankets or clothing
+      - School supplies
+      - Hygiene products
+      - Gift cards
+      - Monetary donation
+      - Nothing to contribute
+      - Other items
+      required: true
+    - id: 15
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For volunteer shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - No shirt needed
+      required: true
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For provided meals
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut allergy
+      - Other allergies
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Please specify any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: background_check_status
+      label: Background Check Status
+      hint: If required for your role
+      type: select_one
+      options:
+      - Already completed
+      - Willing to complete
+      - Not applicable
+      required: true
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: liability_waiver
+      label: I Agree to the Liability Waiver
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: photo_release
+      label: Photo Release Authorization
+      hint: I allow photos to be used for promotional purposes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: referral_source
+      label: How Did You Hear About This Event
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Email newsletter
+      - Friend or family
+      - Organization referral
+      - Website
+      - Community bulletin
+      - Other
+      required: true
+    - id: 25
+      name: motivation_for_volunteering
+      label: What Motivates You to Volunteer
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false

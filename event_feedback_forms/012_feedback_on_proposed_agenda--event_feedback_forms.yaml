@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On Proposed Agenda
+    pages:
+    - id: 1
+      name: agenda_item
+      label: Agenda Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: proposed_start_time
+      label: Proposed Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: proposed_end_time
+      label: Proposed End Time
+      hint: null
+      type: time
+      options: []
+      required: false

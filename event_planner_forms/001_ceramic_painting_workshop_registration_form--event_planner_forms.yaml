@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ceramic Painting Workshop Registration Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Workshop Registration --
+      hint: Register to secure your spot and receive workshop details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: participant full name
+      hint: first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: email address
+      hint: used for confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: emergency contact name and phone
+      hint: name and phone number for emergencies
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_date
+      label: preferred workshop date
+      hint: select one available date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: experience_level
+      label: experience level
+      hint: choose the best description of your skill
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 8
+      name: materials_needed
+      label: materials needed
+      hint: check any materials you require from the studio
+      type: select_multiple
+      options:
+      - Clay and basic glazing
+      - Brushes and paints
+      - Apron and protective gear
+      - None needed
+      required: false
+    - id: 9
+      name: allergies_or_sensitivities
+      label: allergies or sensitivities
+      hint: note any relevant allergies to materials or supplies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: liability_waiver_agreement
+      label: liability waiver agreement
+      hint: please confirm acceptance to participate
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

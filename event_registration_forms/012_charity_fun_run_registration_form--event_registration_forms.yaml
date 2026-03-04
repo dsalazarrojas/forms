@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fun Run Registration Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will send race details to this email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: For race day communication
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age category determination
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: age_category
+      label: Age Category
+      hint: Your age group for the race
+      type: select_one
+      options:
+      - Under 13
+      - 13-17
+      - 18-29
+      - 30-39
+      - 40-49
+      - 50-59
+      - 60+
+      required: true
+    - id: 8
+      name: section_race_details
+      label: -- Race Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: race_distance
+      label: Race Distance
+      hint: Which distance are you running
+      type: select_one
+      options:
+      - 1 Mile
+      - 5K
+      - 10K
+      - Half Marathon
+      required: true
+    - id: 10
+      name: participation_type
+      label: Participation Type
+      hint: Running, walking, or other
+      type: select_one
+      options:
+      - Run
+      - Walk
+      - Jog
+      - Wheelchair
+      required: true
+    - id: 11
+      name: shirt_size
+      label: T-Shirt Size
+      hint: Size for your race shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 12
+      name: section_emergency
+      label: -- Emergency Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: Any Medical Conditions We Should Know About
+      hint: Asthma, heart condition, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Any allergies to medications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_fundraising
+      label: -- Fundraising --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: fundraising_participation
+      label: Will You Participate in Fundraising
+      hint: Will you collect pledges
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: fundraising_goal
+      label: Fundraising Goal Amount
+      hint: Target amount to raise
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_waivers
+      label: -- Waivers and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: liability_waiver_agree
+      label: I Agree to the Liability Waiver
+      hint: Accept liability waiver terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: photo_consent
+      label: I Consent to Photography
+      hint: Allow use of photos in promotions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

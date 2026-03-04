@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Team Event Attendance Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: false
+    - id: 5
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: attendees_names
+      label: Attendees Names
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attendees_company
+      label: Attendees Company
+      hint: null
+      type: select_multiple
+      options:
+      - Company 1
+      - Company 2
+      - Company 3
+      required: false
+    - id: 8
+      name: attendees_title
+      label: Attendees Title
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      required: false
+    - id: 9
+      name: attendees_department
+      label: Attendees Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attendees_job_title
+      label: Attendees Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rsvp_by
+      label: RSVP by
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

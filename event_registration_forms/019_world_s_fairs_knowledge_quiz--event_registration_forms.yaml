@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worlds Fairs Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: favorite_fair
+      label: Favorite fair
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': "Chicago World''s Fair"}'
+      - '{''id'': 2, ''value'': ''London 1862''}'
+      - '{''id'': 3, ''value'': ''Paris''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: favorite_theme
+      label: Favorite theme
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Art''}'
+      - '{''id'': 2, ''value'': ''Technology''}'
+      - '{''id'': 3, ''value'': ''Nature''}'
+      - '{''id'': 4, ''value'': ''Culture''}'
+      - '{''id'': 5, ''value'': ''Entertainment''}'
+      required: false
+    - id: 8
+      name: how_much_do_you_know
+      label: How much do you know?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: favorite_country
+      label: Favorite country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''USA''}'
+      - '{''id'': 2, ''value'': ''China''}'
+      - '{''id'': 3, ''value'': ''Japan''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: favorite_year
+      label: Favorite year
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 1851}'
+      - '{''id'': 2, ''value'': 1888}'
+      - '{''id'': 3, ''value'': 1904}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: favorite_language
+      label: Favorite language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''English''}'
+      - '{''id'': 2, ''value'': ''Spanish''}'
+      - '{''id'': 3, ''value'': ''French''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: favorite_food
+      label: Favorite food
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Sushi''}'
+      - '{''id'': 2, ''value'': ''Reporter''}'
+      - '{''id'': 3, ''value'': ''Dumplings''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 13
+      name: how_much_money
+      label: How much money
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: favorite_place
+      label: Favorite place
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''New York City''}'
+      - '{''id'': 2, ''value'': ''Paris''}'
+      - '{''id'': 3, ''value'': ''Rome''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false

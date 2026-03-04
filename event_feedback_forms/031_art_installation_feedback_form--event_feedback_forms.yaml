@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Installation Feedback Form
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: visitor_name
+        label: Visitor Name
+        hint: Your name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: visitor_email
+        label: Visitor Email
+        hint: Email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: installation_name
+        label: Installation Name
+        hint: Name of the art installation
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: artist_name
+        label: Artist Name
+        hint: Name of the artist
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: visit_date
+        label: Visit Date
+        hint: Date you viewed the installation
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: overall_impression
+        label: Overall Impression
+        hint: Rate your overall impression
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 8
+        name: visual_impact
+        label: Visual Impact
+        hint: Rate the visual impact
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 9
+        name: creativity_originality
+        label: Creativity Originality
+        hint: Rate the creativity and originality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 10
+        name: technical_execution
+        label: Technical Execution
+        hint: Rate the technical execution
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 11
+        name: conceptual_depth
+        label: Conceptual Depth
+        hint: Rate the conceptual depth
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 12
+        name: emotional_response
+        label: Emotional Response
+        hint: Did the installation evoke an emotional response
+        type: select_one
+        options:
+          - Strongly Yes
+          - Somewhat Yes
+          - Neutral
+          - Somewhat No
+          - Not at All
+        required: true
+      - id: 13
+        name: emotions_felt
+        label: Emotions Felt
+        hint: Select emotions you experienced
+        type: select_multiple
+        options:
+          - Awe
+          - Joy
+          - Contemplation
+          - Surprise
+          - Curiosity
+          - Discomfort
+          - Inspiration
+          - None
+        required: false
+      - id: 14
+        name: spatial_arrangement
+        label: Spatial Arrangement
+        hint: Rate the spatial arrangement
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 15
+        name: lighting_effectiveness
+        label: Lighting Effectiveness
+        hint: Rate the lighting
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 16
+        name: sound_design
+        label: Sound Design
+        hint: Rate the sound design if applicable
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Applicable
+        required: true
+      - id: 17
+        name: interactivity
+        label: Interactivity
+        hint: Rate the interactive elements if any
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Interactive
+        required: true
+      - id: 18
+        name: accessibility
+        label: Accessibility
+        hint: Rate the accessibility of the installation
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 19
+        name: time_spent
+        label: Time Spent
+        hint: How long did you spend with the installation
+        type: select_one
+        options:
+          - Less than 5 minutes
+          - 5-10 minutes
+          - 10-20 minutes
+          - 20-30 minutes
+          - More than 30 minutes
+        required: false
+      - id: 20
+        name: favorite_element
+        label: Favorite Element
+        hint: What was your favorite aspect
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: least_favorite_element
+        label: Least Favorite Element
+        hint: What did you like least
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: understanding_level
+        label: Understanding Level
+        hint: How well did you understand the installation
+        type: select_one
+        options:
+          - Completely Understood
+          - Mostly Understood
+          - Somewhat Understood
+          - Barely Understood
+          - Did Not Understand
+        required: true
+      - id: 23
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend this installation
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: improvements_suggested
+        label: Improvements Suggested
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

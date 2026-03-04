@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Submit Your Question For Q+A
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_text
+      label: What is your question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: questioner_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_type
+      label: What type of question would you like to ask?
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Technical
+      - Personal
+      required: true
+    - id: 8
+      name: question_description
+      label: Question Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_priority
+      label: Question Priority
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: question_attachment
+      label: Question Attachment
+      hint: null
+      type: note
+      options: []
+      required: false

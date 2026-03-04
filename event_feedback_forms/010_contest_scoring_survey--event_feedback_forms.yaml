@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Scoring Survey
+    pages:
+    - id: 1
+      name: judge_name
+      label: Judge Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: judge_id
+      label: Judge ID
+      hint: Assigned judge number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contest_name
+      label: Contest Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contest_date
+      label: Contest Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: category
+      label: Category
+      hint: Scoring category
+      type: select_one
+      options:
+      - Art
+      - Photography
+      - Writing
+      - Music
+      - Dance
+      - Speech
+      - Innovation
+      - Sports
+      required: true
+    - id: 6
+      name: contestant_name
+      label: Contestant Name
+      hint: Participant name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contestant_number
+      label: Contestant Number
+      hint: Assigned number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: technical_skill_score
+      label: Technical Skill Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: creativity_score
+      label: Creativity Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: presentation_score
+      label: Presentation Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: originality_score
+      label: Originality Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overall_impression_score
+      label: Overall Impression Score
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_score
+      label: Total Score
+      hint: Sum of all scores
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: scoring_criteria_used
+      label: Scoring Criteria Used
+      hint: Which criteria applied?
+      type: select_multiple
+      options:
+      - Technical execution
+      - Artistic expression
+      - Difficulty level
+      - Audience engagement
+      - Time management
+      - Rule compliance
+      required: true
+    - id: 15
+      name: strengths
+      label: Strengths
+      hint: What stood out positively?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recommendation
+      label: Recommendation
+      hint: Would you recommend for advancement?
+      type: select_one
+      options:
+      - Highly recommend
+      - Recommend
+      - Neutral
+      - Do not recommend
+      required: true
+    - id: 19
+      name: judge_signature
+      label: Judge Signature
+      hint: Type your name as signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submission_time
+      label: Submission Time
+      hint: Time of scoring submission
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developers Conference Admission Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tshirt_size
+      label: T-shirt Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: false
+    - id: 7
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_one
+      options:
+      - Vegetarian
+      - Vegan
+      - Omnivore
+      required: false
+    - id: 8
+      name: meal_choice
+      label: Meal Choice
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - None
+      required: false
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Sponsor
+      - Exhibitor
+      required: false
+    - id: 18
+      name: session_presentation
+      label: Session Presentation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: registration_date2
+      label: Registration Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: tshirt_designer
+      label: T-shirt Designer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: food_cost
+      label: Food Cost
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Paid
+      required: false
+    - id: 22
+      name: food_cost_note
+      label: Food Cost Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: meal_preference
+      label: Meal Preference
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - None
+      required: false
+    - id: 24
+      name: dietary_restriction
+      label: Dietary Restriction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: session_speaker
+      label: Session Speaker
+      hint: null
+      type: text
+      options: []
+      required: false

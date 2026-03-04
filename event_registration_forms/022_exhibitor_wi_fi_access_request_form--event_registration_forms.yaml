@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibitor-wi-fi-access-request-form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booth_number
+      label: booth-number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: contact-person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: company-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_url
+      label: company-url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: internet_requirements
+      label: internet-requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: power_requirement
+      label: power-requirement
+      hint: null
+      type: select_one
+      options:
+      - No Power
+      - 15A 120V
+      - 20A 120V
+      - 30A 120V
+      - 30A 208V
+      - 30A 240V
+      required: true
+    - id: 10
+      name: equipment_weight
+      label: equipment-weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: shipping_address
+      label: shipping-address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: special-requests
+      hint: null
+      type: text
+      options: []
+      required: false

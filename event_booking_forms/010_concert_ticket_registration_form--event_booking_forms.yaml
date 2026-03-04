@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ticket_category
+      label: Ticket category
+      hint: Choose ticket category
+      type: select_one
+      options:
+      - Standard
+      - VIP
+      - Student
+      - Group
+      required: true
+    - id: 5
+      name: number_of_tickets
+      label: Number of tickets
+      hint: Enter how many tickets to register
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: attendee_names
+      label: Attendee names
+      hint: Names of all attendees in your party
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Please describe any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment status
+      hint: Current payment status for registration
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Invoice
+      required: true
+    - id: 9
+      name: special_requests
+      label: Special requests
+      hint: Dietary or seating requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation_instructions
+      label: Confirmation instructions
+      hint: Read only next steps after registration
+      type: note
+      options: []
+      required: false

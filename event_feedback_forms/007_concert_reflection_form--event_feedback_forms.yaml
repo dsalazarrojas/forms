@@ -1,0 +1,246 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Reflection Form
+    pages:
+      - id: 1
+        name: introduction
+        label: Concert Reflection Survey
+        hint: Share your thoughts and reflections about the concert experience
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Your Name
+        hint: Optional identification
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: attendee_email
+        label: Email Address
+        hint: For follow-up communication
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: concert_name
+        label: Concert Name
+        hint: Which concert did you attend
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: concert_date
+        label: Concert Date
+        hint: When did you attend
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: first_time_attendee
+        label: First Time Attending
+        hint: Is this your first time at this venue
+        type: select_one
+        options:
+          - Yes First Time
+          - No Returning Visitor
+        required: true
+      - id: 7
+        name: emotional_response
+        label: Emotional Response
+        label: Emotional Response
+        hint: How did the concert make you feel
+        type: select_one
+        options:
+          - Extremely Moved
+          - Very Enjoyable
+          - Pleasant Experience
+          - Neutral
+          - Disappointed
+        required: true
+      - id: 8
+        name: highlight_moment
+        label: Highlight Moment
+        hint: What was the best part of the concert
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: musical_performance
+        label: Musical Performance Quality
+        hint: Rate the musical execution
+        type: select_one
+        options:
+          - Exceptional
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Below Average
+        required: true
+      - id: 10
+        name: stage_presence
+        label: Stage Presence
+        hint: Rate the performers engagement with audience
+        type: select_one
+        options:
+          - Outstanding
+          - Excellent
+          - Very Good
+          - Good
+          - Needs Improvement
+        required: false
+      - id: 11
+        name: setlist_satisfaction
+        label: Setlist Satisfaction
+        hint: How satisfied were you with song selection
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: sound_quality_rating
+        label: Sound Quality
+        hint: Rate the audio experience
+        type: select_one
+        options:
+          - Crystal Clear
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: lighting_production
+        label: Lighting and Production
+        hint: Rate the visual production elements
+        type: select_one
+        options:
+          - Spectacular
+          - Excellent
+          - Good
+          - Adequate
+          - Poor
+        required: false
+      - id: 14
+        name: venue_atmosphere
+        label: Venue Atmosphere
+        hint: How was the overall ambiance
+        type: select_one
+        options:
+          - Electric
+          - Very Good
+          - Good
+          - Average
+          - Disappointing
+        required: false
+      - id: 15
+        name: crowd_behavior
+        label: Crowd Behavior
+        hint: How would you describe the audience
+        type: select_one
+        options:
+          - Enthusiastic and Respectful
+          - Very Engaged
+          - Average
+          - Disruptive
+          - Unresponsive
+        required: false
+      - id: 16
+        name: value_for_money
+        label: Value for Money
+        hint: Did you feel the ticket price was fair
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 17
+        name: merchandise_quality
+        label: Merchandise Quality
+        hint: If purchased how was the merchandise
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Did Not Purchase
+        required: false
+      - id: 18
+        name: concession_experience
+        label: Concession Experience
+        hint: Rate food and beverage services
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Did Not Use
+        required: false
+      - id: 19
+        name: would_recommend
+        label: Would Recommend to Others
+        hint: Will you recommend this concert
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: would_attend_again
+        label: Would Attend Again
+        hint: Will you attend similar events
+        type: select_one
+        options:
+          - Definitely
+          - Probably
+          - Maybe
+          - Probably Not
+          - Definitely Not
+        required: true
+      - id: 21
+        name: favorite_song
+        label: Favorite Song Performed
+        hint: Which song did you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What could be better next time
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Reflections
+        hint: Any other thoughts to share
+        type: text
+        options: []
+        required: false

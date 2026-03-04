@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: STEM Outreach Volunteer Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: personal_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_information
+      label: personal_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience
+      label: experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: skills
+      label: skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: volunteer_type
+      label: volunteer_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

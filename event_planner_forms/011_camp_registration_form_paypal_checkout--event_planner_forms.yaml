@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Form PayPal Checkout
+    pages:
+    - id: 1
+      name: section_camper_details
+      label: -- Camper Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: camper_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: camper_grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - Adult
+      required: true
+    - id: 7
+      name: section_parent_guardian
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guardian_full_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_email
+      label: Guardian Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: guardian_phone
+      label: Guardian Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_camp_selection
+      label: -- Camp Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: camp_session
+      label: Select Camp Session
+      hint: null
+      type: select_one
+      options:
+      - Session 1 - June 10-14
+      - Session 2 - June 17-21
+      - Session 3 - July 8-12
+      - Session 4 - July 15-19
+      - Session 5 - July 22-26
+      required: true
+    - id: 13
+      name: camp_type
+      label: Camp Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time Camp
+      - Half-Day AM
+      - Half-Day PM
+      - Extended Care Option
+      required: true
+    - id: 14
+      name: number_of_weeks
+      label: Number of Weeks
+      hint: null
+      type: select_one
+      options:
+      - 1 Week
+      - 2 Weeks
+      - 3 Weeks
+      - 4 Weeks
+      - 5 Weeks
+      required: true
+    - id: 15
+      name: section_special_interests
+      label: -- Special Interests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: activity_interests
+      label: Select activity interests
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Arts and Crafts
+      - STEM Activities
+      - Outdoor Adventure
+      - Music and Performing Arts
+      - Leadership Training
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_information
+      label: Medical Conditions or Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_billing_address
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: billing_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: billing_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: billing_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card
+      - Bank Transfer
+      required: true

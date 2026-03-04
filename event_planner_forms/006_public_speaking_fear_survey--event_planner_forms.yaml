@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_speaking_fear_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: public_speaking_fear_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: anxiety_level
+      label: anxiety_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: speaking_fear
+      label: speaking_fear
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: breathing_rate
+      label: breathing_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sweating_level
+      label: sweating_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 6
+      name: trembling_knees
+      label: trembling_knees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 7
+      name: speaking_voice
+      label: speaking_voice
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 8
+      name: speaking_speed
+      label: speaking_speed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: speaking_volume
+      label: speaking_volume
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: speaking_confidence
+      label: speaking_confidence
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 11
+      name: speaking_clarity
+      label: speaking_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 12
+      name: breathing_rate
+      label: breathing_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: heart_rate
+      label: heart_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: speaking_body_language
+      label: speaking_body_language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 15
+      name: speaking_body_heat
+      label: speaking_body_heat
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 16
+      name: speaking_tongue_tied
+      label: speaking_tongue_tied
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 17
+      name: speaking_stammering
+      label: speaking_stammering
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 18
+      name: speaking_hesitation
+      label: speaking_hesitation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 19
+      name: speaking_filling_gap
+      label: speaking_filling_gap
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 20
+      name: speaking_forgetting
+      label: speaking_forgetting
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 21
+      name: speaking_speed_of_speaking
+      label: speaking_speed_of_speaking
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: speaking_pauses
+      label: speaking_pauses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 23
+      name: speaking_volume
+      label: speaking_volume
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: speaking_tongue_twister
+      label: speaking_tongue_twister
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 25
+      name: speaking_feared_consequences
+      label: speaking_feared_consequences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''A little''}'
+      - '{''label'': ''Moderately''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Launch Registration
+    pages:
+    - id: 1
+      name: event_planner_form_launch_registration
+      label: launch_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estimate_participants
+      label: estimate_participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false

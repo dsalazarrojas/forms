@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Mentorship Program Nomination Form
+    pages:
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_organization
+      label: Your Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_email_addr
+      label: Your Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: program_details_header
+      label: -- Mentorship Program Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_name_text
+      label: Mentorship Program Name
+      hint: Official name of the program being nominated
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizing_body_name
+      label: Organizing Body or Company
+      hint: Who runs the program
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_type_select
+      label: Program Type
+      hint: Primary category for this mentorship program
+      type: select_one
+      options:
+      - Internal Corporate Program
+      - University-based Mentorship
+      - Industry-wide Association Program
+      - Nonprofit Initiative
+      - Peer-to-Peer Network
+      - Specialized Bootcamp or Accelerator
+      - Other
+      required: true
+    - id: 9
+      name: year_program_started
+      label: Year the Program was Founded
+      hint: Approximate start date
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: program_quality_header
+      label: -- Program Quality Metrics --
+      hint: Rate from 1 (Low) to 5 (High)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: structure_quality_rating
+      label: Program Structure and Organization
+      hint: Is the program well-managed and clear
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 12
+      name: mentor_training_rating
+      label: Mentor Training Quality
+      hint: How well are mentors prepared
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 13
+      name: matching_effectiveness_rating
+      label: Matching Process Effectiveness
+      hint: Success in pair compatibility
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 14
+      name: resources_support_rating
+      label: Resources and Support for Participants
+      hint: Handbooks, meetings, and guidance
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 15
+      name: outcomes_header
+      label: -- Outcomes and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: overall_participant_satisfaction
+      label: Overall Participant Satisfaction Rating
+      hint: General feedback from mentees/mentors
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 17
+      name: measurable_impact_desc
+      label: Measurable Impact on Careers or Education
+      hint: Highlight success stories or data points
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: diversity_inclusion_desc
+      label: Diversity and Inclusion in the Program
+      hint: How does the program ensure equity
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: win_justification_detailed
+      label: Why should this program win the award
+      hint: Summarize the key reasons for the nomination
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: professional_reference_contact
+      label: Professional Reference
+      hint: Name and contact of someone who can verify program results
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: nomination_submission_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Content Feedback Form
+    pages:
+    - id: 1
+      name: session_quality
+      label: Session Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_relevance
+      label: Session Relevance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: speaker_skills
+      label: Speaker Skills
+      hint: null
+      type: select_one
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      - Choice 4
+      - Choice 5
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      required: false
+    - id: 6
+      name: feedback_message
+      label: Feedback Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

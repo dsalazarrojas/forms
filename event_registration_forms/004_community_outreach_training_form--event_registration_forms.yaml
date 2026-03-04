@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Outreach Training Form
+    pages:
+    - id: 1
+      name: training_welcome
+      label: -- Training Registration --
+      hint: Please complete this form to register for our outreach training session.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: registrant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: registrant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: previous_outreach
+      label: Have you participated in outreach programs before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: previous_outreach_details
+      label: Details of Previous Programs
+      hint: If yes, which programs?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_selection
+      label: Choose your Training Session Date
+      hint: null
+      type: select_one
+      options:
+      - March 5th
+      - March 12th
+      - March 19th
+      required: true
+    - id: 9
+      name: experience_level
+      label: Your Current Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 10
+      name: areas_of_interest
+      label: What areas of outreach are you interested in?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Education
+      - Environment
+      - Social Justice
+      - Public Health
+      - Animal Welfare
+      - Other
+      required: true
+    - id: 11
+      name: training_motivation
+      label: Why are you interested in this training?
+      hint: What do you hope to learn?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dietary_needs
+      label: Any Dietary Requirements
+      hint: Lunch will be provided.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_needs_check
+      label: Do you require accessibility accommodations?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: accessibility_details
+      label: Please Specify Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registration_confirm
+      label: -- Registration Confirmation --
+      hint: You will receive a confirmation email shortly after submission.
+      type: note
+      options: []
+      required: false

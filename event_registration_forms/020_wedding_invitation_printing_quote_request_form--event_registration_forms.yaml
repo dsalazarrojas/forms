@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Invitation Printing Quote Request Form
+    pages:
+    - id: 1
+      name: wedding_invitation_printing_quote_request_form
+      label: Wedding Invitation Printing Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: EventType
+      hint: null
+      type: select_one
+      options:
+      - Invitation
+      - Poster
+      - Brochure
+      - Menu
+      required: false
+    - id: 3
+      name: event_size
+      label: EventSize
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: paper_type
+      label: PaperType
+      hint: null
+      type: select_one
+      options:
+      - Cardstock
+      - Cotton
+      - Linen
+      required: false
+    - id: 5
+      name: paper_color
+      label: PaperColor
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Red
+      required: false
+    - id: 6
+      name: paper_folding_type
+      label: PaperFoldingType
+      hint: null
+      type: select_multiple
+      options:
+      - Folded
+      - Not Folded
+      required: false
+    - id: 7
+      name: paper_shape
+      label: PaperShape
+      hint: null
+      type: select_multiple
+      options:
+      - Square
+      - Round
+      required: false
+    - id: 8
+      name: print_method
+      label: PrintMethod
+      hint: null
+      type: select_multiple
+      options:
+      - Digital
+      - Offset
+      - Laser
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: ContactPerson
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: ContactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: ContactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: AdditionalComments
+      hint: null
+      type: note
+      options: []
+      required: false

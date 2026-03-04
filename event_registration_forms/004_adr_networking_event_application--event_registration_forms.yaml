@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: ADR Networking Event Application
+    pages:
+    - id: 1
+      name: application_header
+      label: -- Event Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant full name
+      hint: Name as it should appear on badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or firm
+      hint: Employer or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email address
+      hint: Email for event communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Phone for urgent event updates
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role_or_title
+      label: Role or title
+      hint: Job title or role within organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: networking_goals
+      label: Networking goals
+      hint: What do you hope to achieve by attending
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sessions_interested
+      label: Sessions of interest
+      hint: Select sessions you plan to attend
+      type: select_multiple
+      options:
+      - Keynotes and panels
+      - Roundtable discussions
+      - Practice showcases
+      - Mentorship meetups
+      required: false
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: List any food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accommodation_needs
+      label: Accessibility accommodation needs
+      hint: Specify any special accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: referral_source
+      label: How did you hear about this event
+      hint: Select one option
+      type: select_one
+      options:
+      - Colleague referral
+      - Organization newsletter
+      - Social media
+      - Other
+      required: false
+    - id: 12
+      name: agree_terms
+      label: Agreement to event terms and code of conduct
+      hint: Confirmation required for participation
+      type: select_one
+      options:
+      - Agree
+      - Do not agree
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional comments or questions
+      hint: Anything else organizers should know
+      type: text
+      options: []
+      required: false

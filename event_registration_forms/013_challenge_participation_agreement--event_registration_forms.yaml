@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Challenge Participation Agreement
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First, middle, and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_confirmation
+      label: Are You 18 Years or Older
+      hint: Must be at least 18 to participate
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: challenge_name
+      label: Challenge Name Registering For
+      hint: Name of specific challenge
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: challenge_start_date
+      label: Challenge Start Date
+      hint: When the challenge begins
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: challenge_duration
+      label: Challenge Duration
+      hint: Length of the challenge
+      type: select_one
+      options:
+      - 1 Day
+      - 1 Week
+      - 2 Weeks
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      required: true
+    - id: 9
+      name: health_conditions_disclosure
+      label: Do You Have Any Health Conditions
+      hint: Medical conditions relevant to participation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: health_conditions_details
+      label: Please Describe Health Conditions
+      hint: Any conditions that might affect participation
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: physical_fitness_level
+      label: Physical Fitness Level
+      hint: Assess your current fitness
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly Active
+      - Moderately Active
+      - Very Active
+      - Athlete
+      required: false
+    - id: 12
+      name: physician_consultation
+      label: Have You Consulted With Your Physician
+      hint: If health concerns exist
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 13
+      name: assumption_of_risk
+      label: I Assume All Risks Associated With Participation
+      hint: Acknowledge understanding of risks
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true
+    - id: 14
+      name: medical_emergency_consent
+      label: Consent to Medical Treatment in Emergency
+      hint: Permission for emergency medical care
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: liability_waiver
+      label: Release From Liability
+      hint: Release organizers from legal liability
+      type: select_one
+      options:
+      - I Agree to Release From Liability
+      - I Do Not Agree
+      required: true
+    - id: 16
+      name: conduct_agreement
+      label: Agreement to Follow Rules and Conduct
+      hint: Commit to rules and appropriate behavior
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true
+    - id: 17
+      name: photo_permission
+      label: Permission for Photos and Video
+      hint: May organizers use your likeness
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: data_privacy_consent
+      label: Consent to Collect and Use Personal Data
+      hint: Agree to data collection and use
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in emergency
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: final_acknowledgment
+      label: I Have Read and Understand This Agreement
+      hint: Confirm understanding of all terms
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true

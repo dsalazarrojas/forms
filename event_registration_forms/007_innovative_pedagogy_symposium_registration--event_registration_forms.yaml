@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: innovative-pedagogy-symposium-registration
+    pages:
+    - id: 1
+      name: symposium_registration
+      label: Symposium Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_interests
+      label: Session Interests
+      hint: Select one or more sessions you are interested in attending.
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility needs?
+      type: select_one
+      options:
+      - None
+      - Visual Impairment
+      - Hearing Impairment
+      - Speech or Communication Impairment
+      - Mobility Impairment
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

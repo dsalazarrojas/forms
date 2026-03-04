@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Item Registration Form
+    pages:
+    - id: 1
+      name: consignor_full_name
+      label: Consignor Full Name
+      hint: Legal name of person donating item
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consignor_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: consignor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Your organization or company (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consignor_address
+      label: Mailing Address
+      hint: Full address for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: item_name
+      label: Item Name
+      hint: Name or title of the auction item
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_category
+      label: Item Category
+      hint: Select the category that best fits your item
+      type: select_one
+      options:
+      - Art and Collectibles
+      - Jewelry and Watches
+      - Electronics
+      - Home and Garden
+      - Sports and Outdoors
+      - Travel and Experiences
+      - Gift Certificates
+      - Other
+      required: true
+    - id: 8
+      name: item_description
+      label: Item Description
+      hint: Detailed description including condition, features, and provenance
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_condition
+      label: Item Condition
+      hint: Current condition of the item
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Excellent
+      - Good
+      - Fair
+      - Needs Repair
+      required: true
+    - id: 10
+      name: estimated_value
+      label: Estimated Value
+      hint: Appraised or estimated retail value in USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: minimum_bid
+      label: Minimum Bid Amount
+      hint: Starting bid amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: reserve_price
+      label: Reserve Price
+      hint: Optional minimum price to sell
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: item_dimensions
+      label: Item Dimensions
+      hint: Length x Width x Height (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: item_weight
+      label: Item Weight
+      hint: Approximate weight for shipping estimates
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photos_included
+      label: Photos Included
+      hint: Can you provide photos of the item?
+      type: select_one
+      options:
+      - Yes, photos attached
+      - Photos to follow
+      - No photos available
+      required: true
+    - id: 16
+      name: pickup_availability
+      label: Item Pickup Availability
+      hint: When can the item be picked up?
+      type: select_one
+      options:
+      - Before auction event
+      - Day of auction
+      - After auction ends
+      - Ship to buyer
+      required: true
+    - id: 17
+      name: tax_deduction_interest
+      label: Tax Deduction Interest
+      hint: Are you interested in tax deduction documentation?
+      type: select_one
+      options:
+      - Yes, please provide documentation
+      - No, not needed
+      required: true
+    - id: 18
+      name: consignor_agreement
+      label: Consignor Agreement
+      hint: Do you agree to the consignor terms and conditions?
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I need to review
+      required: true

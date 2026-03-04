@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Show Booth Reservation Form
+    pages:
+    - id: 1
+      name: exhibitor_information
+      label: -- EXHIBITOR INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exhibitor_name
+      label: Exhibitor name
+      hint: Individual or business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exhibitor_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: exhibitor_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_type
+      label: Business type
+      hint: Dealer, collector, mechanic, club, etc.
+      type: select_one
+      options:
+      - Dealer
+      - Collector
+      - Mechanic/Shop
+      - Car Club
+      - Vendor
+      - Manufacturer
+      - Media
+      - Other
+      required: true
+    - id: 7
+      name: booth_reservation_details
+      label: -- BOOTH RESERVATION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Car show event name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: booth_size_preference
+      label: Booth size preference
+      hint: null
+      type: select_one
+      options:
+      - 10x10 feet
+      - 10x20 feet
+      - 20x20 feet
+      - Corner Booth
+      - Premium Location
+      - Custom Size
+      required: true
+    - id: 11
+      name: booth_location_preference
+      label: Location preference
+      hint: null
+      type: select_one
+      options:
+      - Front Row
+      - Middle Area
+      - Back Area
+      - Corner
+      - Near Entrance
+      - Near Concessions
+      - No Preference
+      required: false
+    - id: 12
+      name: vehicles_to_display
+      label: Number of vehicles to display
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_details
+      label: Vehicle details for display
+      hint: Year, make, model of each vehicle
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: electrical_power_needed
+      label: Electrical power needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: power_requirements
+      label: Power requirements
+      hint: Voltage and amperage needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: water_access_needed
+      label: Water access needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: additional_equipment
+      label: Additional equipment needed
+      hint: Tables, chairs, signage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: booth_activities
+      label: Planned booth activities (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Vehicle Display Only
+      - Sales
+      - Test Drives
+      - Raffle
+      - Giveaways
+      - Demonstrations
+      - Meet and Greet
+      - Other
+      required: false
+    - id: 19
+      name: payment_information
+      label: -- PAYMENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: booth_fee
+      label: Booth fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: additional_fees
+      label: Additional fees (power, setup, etc.)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_cost
+      label: Total estimated cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Online Payment
+      - Cash on Site
+      required: true
+    - id: 24
+      name: insurance_certificate
+      label: Insurance certificate provided?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: false
+    - id: 25
+      name: additional_requests
+      label: Additional requests or comments
+      hint: null
+      type: text
+      options: []
+      required: false

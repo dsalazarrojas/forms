@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Feedback Survey
+    pages:
+    - id: 1
+      name: survey_welcome
+      label: Conference Feedback Survey
+      hint: Help us improve future events
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional identification
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: conference_attended
+      label: Conference Attended
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendance_date
+      label: Attendance Date
+      hint: When you attended
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: attendee_profile
+      label: Attendee Profile
+      hint: Your background
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_role
+      label: Job Role
+      hint: Your position
+      type: select_one
+      options:
+      - Executive
+      - Manager
+      - Individual Contributor
+      - Student
+      - Academic
+      - Consultant
+      - Other
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Your sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Government
+      - Nonprofit
+      - Manufacturing
+      - Retail
+      - Other
+      required: true
+    - id: 9
+      name: experience_level
+      label: Experience Level
+      hint: Years in field
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 7 years
+      - 8 to 15 years
+      - Over 15 years
+      required: false
+    - id: 10
+      name: satisfaction_survey
+      label: Satisfaction Survey
+      hint: Rate your experience
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: General rating
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 12
+      name: content_relevance
+      label: Content Relevance
+      hint: How relevant was content
+      type: select_one
+      options:
+      - Very Relevant
+      - Relevant
+      - Neutral
+      - Not Very Relevant
+      - Not Relevant
+      required: true
+    - id: 13
+      name: speaker_expertise
+      label: Speaker Expertise
+      hint: Rate speaker knowledge
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: presentation_quality
+      label: Presentation Quality
+      hint: Rate delivery
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: logistics_rating
+      label: Logistics Rating
+      hint: Event organization
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: value_ratings
+      label: Value Ratings
+      hint: Worth assessment
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: value_for_time
+      label: Value for Time
+      hint: Was time well spent
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      required: true
+    - id: 18
+      name: value_for_money
+      label: Value for Money
+      hint: Was cost justified
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      required: true
+    - id: 19
+      name: learning_outcomes
+      label: Learning Outcomes
+      hint: Did you learn something
+      type: select_one
+      options:
+      - Learned a Great Deal
+      - Learned Something
+      - Learned a Little
+      - Did Not Learn Much
+      required: true
+    - id: 20
+      name: will_apply_learning
+      label: Will Apply Learning
+      hint: Can you use this knowledge
+      type: select_one
+      options:
+      - Definitely Will
+      - Probably Will
+      - Might
+      - Probably Will Not
+      - Definitely Will Not
+      required: false
+    - id: 21
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: Net Promoter Score
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: would_return
+      label: Would Return
+      hint: Attend again
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably Not
+      - Definitely Not
+      required: true
+    - id: 23
+      name: open_feedback
+      label: Open Feedback
+      hint: Your thoughts
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: what_worked_well
+      label: What Worked Well
+      hint: Strengths
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: what_needs_improvement
+      label: What Needs Improvement
+      hint: Weaknesses
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

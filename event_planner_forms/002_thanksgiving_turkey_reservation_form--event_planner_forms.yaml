@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Turkey Reservation Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: number_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reservation_note
+      label: Reservation Note
+      hint: null
+      type: note
+      options: []
+      required: false

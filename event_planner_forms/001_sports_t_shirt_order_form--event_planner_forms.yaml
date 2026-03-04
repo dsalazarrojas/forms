@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_t_shirt_order_form
+    pages:
+    - id: 1
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: quantity_ordered
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: t_shirt_size
+      label: t_shirt_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: t_shirt_color
+      label: t_shirt_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: order_details
+      label: order_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false

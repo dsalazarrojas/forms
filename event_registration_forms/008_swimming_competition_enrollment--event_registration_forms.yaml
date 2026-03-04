@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Competition Enrollment
+    pages:
+    - id: 1
+      name: swimmer_info
+      label: Swimmer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: swimmer_name
+      label: Swimmer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: swimmer_email
+      label: Swimmer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: swimmer_phone
+      label: Swimmer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: swimmer_age
+      label: Swimmer Age
+      hint: Please enter your age
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: swimmer_event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Swim Meet
+      - Water Polo
+      - Diving
+      required: false
+    - id: 7
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 8
+      name: swimmer_event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: swimmer_event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: swimmer_event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: swimmer_event_note
+      label: Event Note
+      hint: null
+      type: note
+      options: []
+      required: false

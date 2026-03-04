@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Reflection Survey
+    pages:
+      - id: 1
+        name: member_name
+        label: Full Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Your contact email
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: membership_duration
+        label: How long have you been a member
+        hint: Select your membership duration
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - Over 1 year
+          - Over 2 years
+        required: true
+      - id: 4
+        name: meeting_attendance
+        label: How often do you attend meetings
+        hint: Your typical attendance
+        type: select_one
+        options:
+          - Every meeting
+          - Most meetings
+          - About half
+          - Occasionally
+          - Rarely
+        required: true
+      - id: 5
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: Rate your overall book club experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: book_selection_satisfaction
+        label: Satisfaction with Book Selections
+        hint: How satisfied are you with book choices
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: discussion_quality_rating
+        label: Discussion Quality Rating
+        hint: Rate the quality of discussions
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: meeting_format_satisfaction
+        label: Satisfaction with Meeting Format
+        hint: How satisfied with the meeting structure
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 9
+        name: preferred_meeting_length
+        label: Preferred Meeting Length
+        hint: How long should meetings be
+        type: select_one
+        options:
+          - 1 hour
+          - 1.5 hours
+          - 2 hours
+          - 2.5 hours
+          - No preference
+        required: true
+      - id: 10
+        name: favorite_aspect
+        label: What Do You Enjoy Most
+        hint: Select your favorite aspect
+        type: select_one
+        options:
+          - Discovering new books
+          - Hearing different perspectives
+          - Social interaction
+          - Structured discussions
+          - Meeting new people
+          - Accountability to read
+        required: true
+      - id: 11
+        name: least_favorite_aspect
+        label: What Would You Change
+        hint: What aspect needs improvement
+        type: select_one
+        options:
+          - Book selection process
+          - Meeting schedule
+          - Meeting location
+          - Discussion leadership
+          - Group size
+          - Nothing would change
+        required: true
+      - id: 12
+        name: genre_preferences
+        label: Genres You Want More Of
+        hint: Select genres to see more often
+        type: select_multiple
+        options:
+          - Literary Fiction
+          - Mystery Thriller
+          - Science Fiction Fantasy
+          - Historical Fiction
+          - Non-Fiction
+          - Biography Memoir
+          - Romance
+          - Classic Literature
+        required: false
+      - id: 13
+        name: community_feeling
+        label: Do You Feel Part of the Community
+        hint: Your sense of belonging
+        type: select_one
+        options:
+          - Strongly Yes
+          - Somewhat Yes
+          - Neutral
+          - Somewhat No
+          - Strongly No
+        required: true
+      - id: 14
+        name: value_for_time
+        label: Is the Book Club Worth Your Time
+        hint: Do you feel it is worthwhile
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 15
+        name: would_recommend
+        label: Would You Recommend to Others
+        hint: Would you recommend this book club
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 16
+        name: future_participation
+        label: Do You Plan to Continue Participating
+        hint: Your future participation plans
+        type: select_one
+        options:
+          - Yes definitely
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Planning to leave
+        required: true
+      - id: 17
+        name: additional_feedback
+        label: Additional Comments or Suggestions
+        hint: Any other feedback to share
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: survey_date
+        label: Survey Completion Date
+        hint: Today date
+        type: date
+        options: []
+        required: true

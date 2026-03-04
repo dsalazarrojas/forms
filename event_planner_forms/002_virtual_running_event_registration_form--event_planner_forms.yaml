@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Running Event Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: participant_birthdate
+      label: Participant Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - Run
+      - Walk
+      - Jog
+      required: false
+    - id: 7
+      name: participant_tshirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: true
+    - id: 8
+      name: participant_occupation
+      label: participant_occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_athletic_background
+      label: Participant Athletic Background
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Some
+      required: false
+    - id: 11
+      name: participant_medical_condition
+      label: participant_medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: participant_road_id
+      label: participant_road_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: participant_medical_insurance
+      label: participant_medical_insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: participant_medical_provider
+      label: participant_medical_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: participant_medical_doctor
+      label: participant_medical_doctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: participant_medical_condition_details
+      label: participant_medical_condition_details
+      hint: null
+      type: text
+      options: []
+      required: false

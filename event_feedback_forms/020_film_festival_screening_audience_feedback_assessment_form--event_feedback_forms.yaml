@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: film-festival-screening-audience-feedback-assessment-form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: film_name
+      label: film name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: film_category
+      label: film-category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attended
+      label: Did you attend alone or with others
+      hint: null
+      type: select_multiple
+      options:
+      - Others
+      - Alone
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: watched
+      label: Did you watch until the end
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: enjoy
+      label: How much did you enjoy it
+      hint: null
+      type: select_one
+      options:
+      - Very much
+      - Somewhat
+      - Not much
+      - Not at all
+      required: true
+    - id: 11
+      name: film_length
+      label: film-length
+      hint: null
+      type: select_one
+      options:
+      - Too long
+      - Just right
+      - Too short
+      required: true
+    - id: 12
+      name: film_mood
+      label: film-mood
+      hint: null
+      type: select_one
+      options:
+      - Very serious
+      - Somewhat serious
+      - Somewhat light-hearted
+      - Very light-hearted
+      required: true
+    - id: 13
+      name: music
+      label: music
+      hint: null
+      type: select_one
+      options:
+      - Too loud
+      - Just right
+      - Too soft
+      required: true
+    - id: 14
+      name: plot
+      label: plot
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: film_score
+      label: film-score
+      hint: null
+      type: select_one
+      options:
+      - Too much
+      - Just right
+      - Too little
+      required: true
+    - id: 16
+      name: recommend
+      label: recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: film_artist
+      label: film-artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: film_director
+      label: film-director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: film_genre
+      label: film-genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: film_locations
+      label: film-locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: film_year
+      label: film-year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: film_language
+      label: film-language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: film_ratings
+      label: film-ratings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: film_duration
+      label: film-duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Webinar Feedback Survey
+    pages:
+    - id: 1
+      name: event_type
+      label: What kind of webinar did you attend?
+      hint: null
+      type: select_one
+      options:
+      - Webinar 1
+      - Webinar 2
+      - Other
+      required: false
+    - id: 2
+      name: session_title
+      label: What was the title of the webinar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content_quality
+      label: How would you rate the content quality?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: presentation_quality
+      label: How would you rate the presentation quality?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: speaker_quality
+      label: How would you rate the speaker(s)?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: engagement
+      label: How engaging was the webinar?
+      hint: null
+      type: select_one
+      options:
+      - Very engaging
+      - Somewhat engaging
+      - Not very engaging
+      - Not at all engaging
+      required: false
+    - id: 7
+      name: technical_difficulties
+      label: Were there any technical difficulties during the webinar?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: feedback
+      label: Do you have any other feedback or comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

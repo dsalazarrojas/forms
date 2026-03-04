@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: st_patricks_day_event_registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_info
+      label: RSVP Info
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''label'': True}'
+      - '{''name'': False, ''label'': False}'
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false

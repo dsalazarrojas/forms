@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Run & Cycle Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: waiver_consent
+      label: Waiver Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: tshirt_size
+      label: T-shirt Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      - '{''id'': 4, ''label'': ''X-Large''}'
+      - '{''id'': 5, ''label'': ''XX-Large''}'
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false

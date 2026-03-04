@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Responder Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_experience
+      label: Event Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_effectiveness
+      label: Training Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_performance
+      label: Instructor Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: first_responder_skills
+      label: First Responder Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Medical Response
+      - Fire Fighting
+      - Rescue Operations
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_evaluation
+      label: Event Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_recommendation
+      label: Event Recommendation
+      hint: null
+      type: time
+      options: []
+      required: false

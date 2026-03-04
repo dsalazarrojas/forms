@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Checklist
+    pages:
+    - id: 1
+      name: section_event_overview
+      label: -- Event overview --
+      hint: Key details for Black Friday planning
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: Date of the Black Friday event
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: store_or_website
+      label: Store or website name
+      hint: Location or URL for sale
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: target_budget
+      label: Target budget
+      hint: Budget allocated for promotions in USD
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: priority_items
+      label: Priority items to acquire
+      hint: Top items to secure during event
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: early_entry_plan
+      label: Early entry plan
+      hint: Is early entry being used for customers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: promotional_channels
+      label: Promotional channels
+      hint: Select channels to use
+      type: select_multiple
+      options:
+      - Email
+      - Social media
+      - Paid ads
+      - SMS
+      - In store
+      required: true
+    - id: 8
+      name: staffing_notes
+      label: Staffing notes
+      hint: Number of staff and shift plan
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: packing_list
+      label: Packing list essentials
+      hint: Items to bring on the day of event
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contingency_plan
+      label: Contingency plan summary
+      hint: Short summary of backup plans
+      type: text
+      options: []
+      required: false

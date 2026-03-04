@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Track Meet Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_club_name
+      label: School Club Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: athlete_details
+      label: Athlete Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: event_selections
+      label: Event Selections
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_selections_1
+      label: Event 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: event_selections_2
+      label: Event 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: parent_consent_1
+      label: 'True'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: parent_consent_2
+      label: 'False'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Expertise Recognition Survey
+    pages:
+      - id: 1
+        name: section_nominee_information
+        label: -- Nominee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominee_name
+        label: Nominee name
+        hint: Person being evaluated for expertise
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: expertise_area
+        label: Expertise area
+        hint: Domain of recognized expertise
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evidence_of_expertise
+        label: Evidence of expertise
+        hint: Examples of contributions or achievements
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: impact_of_work
+        label: Impact of work
+        hint: Describe measurable impact produced
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: endorsement_level
+        label: Endorsement level
+        hint: Level of endorsement for recognition
+        type: select_one
+        options:
+          - Strong endorsement
+          - Moderate endorsement
+          - Endorse
+          - Do not endorse
+        required: true
+      - id: 7
+        name: endorser_name
+        label: Endorser name
+        hint: Person submitting the endorsement
+        type: text
+        options: []
+        required: false

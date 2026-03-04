@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Trade Show Registration Form
+    pages:
+    - id: 1
+      name: event_planner_forms_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_planner_forms_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_planner_forms_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: event_planner_forms_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_planner_forms_event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_planner_forms_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_planner_forms_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_planner_forms_event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,245 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Event Planning Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey results and updates
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization or Company
+        hint: Where is the event being held
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Your position in the organization
+        type: select_one
+        options:
+          - Event Planner
+          - Manager or Director
+          - HR Representative
+          - Team Lead
+          - Employee Representative
+          - Other
+        required: true
+      - id: 5
+        name: section_respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: event_type
+        label: Type of Christmas Event
+        hint: What kind of celebration are you planning
+        type: select_one
+        options:
+          - Office Party
+          - Family Gathering
+          - Community Event
+          - Corporate Dinner
+          - Team Building Activity
+          - Charity Event
+          - Other
+        required: true
+      - id: 7
+        name: expected_attendees
+        label: Expected Number of Attendees
+        hint: Approximate headcount
+        type: select_one
+        options:
+          - 1-10 people
+          - 11-25 people
+          - 26-50 people
+          - 51-100 people
+          - 101-200 people
+          - 200 plus people
+        required: true
+      - id: 8
+        name: event_date
+        label: Preferred Event Date
+        hint: Select your preferred date
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: event_time
+        label: Preferred Time
+        hint: What time works best
+        type: time
+        options: []
+        required: true
+      - id: 10
+        name: section_event_details
+        label: -- Event Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: budget_range
+        label: Budget Range
+        hint: Estimated budget for the event
+        type: select_one
+        options:
+          - Under 500
+          - 500 to 1000
+          - 1000 to 2500
+          - 2500 to 5000
+          - 5000 to 10000
+          - Over 10000
+        required: true
+      - id: 12
+        name: venue_preference
+        label: Venue Preference
+        hint: Where would you like to host
+        type: select_one
+        options:
+          - Office or Workplace
+          - Restaurant
+          - Event Hall
+          - Outdoor Venue
+          - Virtual Online
+          - No preference yet
+        required: true
+      - id: 13
+        name: catering_needed
+        label: Catering Required
+        hint: Will you need food service
+        type: select_one
+        options:
+          - Yes full meal
+          - Yes appetizers only
+          - Yes desserts only
+          - No we will handle separately
+        required: true
+      - id: 14
+        name: dietary_requirements
+        label: Dietary Requirements
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Vegetarian
+          - Vegan
+          - Gluten-Free
+          - Halal
+          - Kosher
+          - Nut Allergies
+          - None
+        required: false
+      - id: 15
+        name: section_catering
+        label: -- Catering Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: entertainment_preferences
+        label: Entertainment Preferences
+        hint: What activities interest you
+        type: select_multiple
+        options:
+          - Live Music
+          - DJ
+          - Photo Booth
+          - Games and Activities
+          - Secret Santa Exchange
+          - Awards Ceremony
+          - Karaoke
+          - None
+        required: false
+      - id: 17
+        name: dress_code
+        label: Preferred Dress Code
+        hint: What attire do you prefer
+        type: select_one
+        options:
+          - Casual
+          - Smart Casual
+          - Business Casual
+          - Formal
+          - Festive Christmas
+          - Costume Theme
+        required: true
+      - id: 18
+        name: decorations_theme
+        label: Decoration Theme
+        hint: Preferred visual theme
+        type: select_one
+        options:
+          - Traditional Christmas
+          - Winter Wonderland
+          - Ugly Sweater Party
+          - Elegant Gold and Silver
+          - Rustic Country
+          - Modern Minimalist
+        required: true
+      - id: 19
+        name: section_entertainment
+        label: -- Entertainment and Theme --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: transportation_needed
+        label: Transportation Needed
+        hint: Do attendees need transport
+        type: select_one
+        options:
+          - No everyone drives
+          - Yes shuttle service
+          - Yes carpool coordination
+          - Yes parking arrangements
+        required: true
+      - id: 21
+        name: accessibility_needs
+        label: Accessibility Requirements
+        hint: Any special accommodations
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other requirements or ideas
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: follow_up_contact
+        label: May We Contact You
+        hint: For follow-up questions
+        type: select_one
+        options:
+          - Yes please contact me
+          - No thank you
+        required: true

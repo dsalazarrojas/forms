@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_product_demo_registration_form
+    pages:
+    - id: 1
+      name: new_product_demo
+      label: New Product Demo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: available_slots
+      label: Available Slots
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

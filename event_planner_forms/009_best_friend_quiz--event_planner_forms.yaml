@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Friend Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Your Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: friend_name
+        label: Your Best Friend Name
+        hint: Who is this quiz about
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: friendship_duration
+        label: How Long Have You Been Friends
+        hint: Duration of your friendship
+        type: select_one
+        options:
+          - Less than a year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - Over 10 years
+          - Since childhood
+        required: true
+      - id: 4
+        name: question_1
+        label: Question 1 - What is your friend favorite color
+        hint: Choose the correct answer
+        type: select_one
+        options:
+          - Blue
+          - Red
+          - Green
+          - Purple
+          - Black
+          - Pink
+          - Yellow
+          - Other
+        required: true
+      - id: 5
+        name: question_2
+        label: Question 2 - What is your friend favorite food
+        hint: Select their favorite cuisine or dish
+        type: select_one
+        options:
+          - Pizza
+          - Pasta
+          - Sushi
+          - Burgers
+          - Tacos
+          - Chinese Food
+          - Indian Food
+          - Desserts
+          - Other
+        required: true
+      - id: 6
+        name: question_3
+        label: Question 3 - What is your friend birthday month
+        hint: When was your friend born
+        type: select_one
+        options:
+          - January
+          - February
+          - March
+          - April
+          - May
+          - June
+          - July
+          - August
+          - September
+          - October
+          - November
+          - December
+        required: true
+      - id: 7
+        name: question_4
+        label: Question 4 - What is your friend dream job or career
+        hint: What do they aspire to be
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: question_5
+        label: Question 5 - What is your friend favorite hobby
+        hint: What do they love doing in free time
+        type: select_one
+        options:
+          - Reading
+          - Gaming
+          - Sports
+          - Music
+          - Art
+          - Traveling
+          - Cooking
+          - Fitness
+          - Watching Movies
+          - Other
+        required: true
+      - id: 9
+        name: question_6
+        label: Question 6 - What is your friend pet peeve
+        hint: What annoys them the most
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: question_7
+        label: Question 7 - Where would your friend love to travel
+        hint: Their dream destination
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: question_8
+        label: Question 8 - What is your friend favorite movie or TV show
+        hint: What do they love watching
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: question_9
+        label: Question 9 - What is your friend biggest fear
+        hint: What are they most afraid of
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: question_10
+        label: Question 10 - What is your friend favorite song or music genre
+        hint: What music do they love
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: question_11
+        label: Question 11 - How does your friend take their coffee or tea
+        hint: Their preferred way of drinking hot beverages
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: question_12
+        label: Question 12 - What is your friend favorite season
+        hint: Spring, Summer, Fall, or Winter
+        type: select_one
+        options:
+          - Spring
+          - Summer
+          - Fall
+          - Winter
+        required: true
+      - id: 16
+        name: question_13
+        label: Question 13 - What would your friend do on a perfect weekend
+        hint: Describe their ideal weekend
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: question_14
+        label: Question 14 - What is your friend favorite memory together
+        hint: Share a special moment you both share
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: friendship_message
+        label: Message to Your Friend
+        hint: Write a short message to your best friend
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: friendship_rating
+        label: How Well Do You Know Your Friend
+        hint: Rate your confidence in your answers
+        type: select_one
+        options:
+          - I Know Everything
+          - I Know Most Things
+          - I Know Some Things
+          - I Am Not Sure
+          - I Probably Failed
+        required: true

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party Theme Voting Form
+    pages:
+    - id: 1
+      name: voter_name
+      label: Voter name
+      hint: Optional name for tracking
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation or null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: preferred_theme
+      label: Preferred theme
+      hint: Choose the theme you prefer
+      type: select_one
+      options:
+      - Winter wonderland
+      - Classic red and green
+      - Retro holiday
+      - Elegant gold and white
+      - Ugly sweater party
+      required: true
+    - id: 4
+      name: secondary_choice
+      label: Secondary choice
+      hint: Optional backup theme choice
+      type: select_one
+      options:
+      - Winter wonderland
+      - Classic red and green
+      - Retro holiday
+      - Elegant gold and white
+      - Ugly sweater party
+      required: false
+    - id: 5
+      name: reason
+      label: Reason for choice
+      hint: Brief note explaining your preference or null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bring_guest
+      label: Will you bring a guest
+      hint: To help with headcount
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: guest_count
+      label: Number of guests
+      hint: If yes, how many guests
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: List any food allergies or preferences or null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Other suggestions or null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_contact
+      label: Consent to contact
+      hint: Allow organizers to contact you about the vote
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Planning Meeting RSVP Form
+    pages:
+    - id: 1
+      name: name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role at Organization
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Presenter
+      - Other
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

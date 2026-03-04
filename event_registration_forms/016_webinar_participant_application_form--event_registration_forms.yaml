@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Participant Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - CTO
+      - Manager
+      - Director
+      - Other
+      required: false
+    - id: 6
+      name: role_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Executive
+      - Manager
+      - Team Member
+      required: true
+    - id: 7
+      name: event_attended
+      label: Last Event Attended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_event
+      label: Next Event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: message2
+      label: Message 2
+      hint: null
+      type: note
+      options: []
+      required: false

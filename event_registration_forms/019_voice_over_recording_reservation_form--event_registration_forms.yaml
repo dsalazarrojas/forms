@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: voice-over-recording-reservation-form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_date_end
+      label: Event Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: artist_email
+      label: Artist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: artist_phone
+      label: Artist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: studio_address
+      label: Studio Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_url
+      label: Project URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_tags
+      label: Event Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Audio
+      - Video
+      - Live Drawing
+      required: false
+    - id: 19
+      name: artist_availability
+      label: Artist Availability
+      hint: null
+      type: select_one
+      options:
+      - Mon - Fri
+      - Sat
+      - Sun
+      - Mon, Tue, Wed, Thu, Fri
+      - Mon - Sun
+      required: false
+    - id: 20
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Completed
+      required: false

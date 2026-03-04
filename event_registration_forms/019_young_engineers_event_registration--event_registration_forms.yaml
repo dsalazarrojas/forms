@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Young Engineers Event Registration
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_details_session_choice
+      label: Session Choice
+      hint: null
+      type: select_one
+      options:
+      - Engineering Event
+      - STEM Workshop
+      - Hackathon
+      - Meet and Greet
+      required: false
+    - id: 4
+      name: participant_details_session_choice_alt
+      label: Session Choice Alternative
+      hint: null
+      type: select_one
+      options:
+      - Engineering Event
+      - STEM Workshop
+      - Hackathon
+      - Meet and Greet
+      required: false
+    - id: 5
+      name: participant_details_participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Teacher
+      - Parent
+      required: false
+    - id: 6
+      name: participant_details_consents
+      label: Consents
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to the terms and conditions
+      - I agree to the privacy policy
+      required: false
+    - id: 7
+      name: participant_details_participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_info
+      label: Session Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_details_school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false

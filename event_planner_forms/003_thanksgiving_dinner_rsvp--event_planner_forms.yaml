@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Dinner RSVP
+    pages:
+    - id: 1
+      name: home
+      label: Home
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_choice
+      label: RSVP Choice
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

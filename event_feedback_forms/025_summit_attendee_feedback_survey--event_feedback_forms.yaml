@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summit Attendee Feedback Survey
+    pages:
+    - id: 1
+      name: attendee_info
+      label: attendee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summit_satisfaction
+      label: summit_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_improvement
+      label: session_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 4
+      name: speaker_suggestion
+      label: speaker_suggestion
+      hint: null
+      type: select_one
+      options:
+      - Speaker 1
+      - Speaker 2
+      - Speaker 3
+      required: false
+    - id: 5
+      name: session_satisfaction
+      label: session_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_rating
+      label: session_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

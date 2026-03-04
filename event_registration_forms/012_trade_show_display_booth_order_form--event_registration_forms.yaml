@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Display Booth Order Form
+    pages:
+    - id: 1
+      name: trade_show
+      label: Trade Show
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: booth_size
+      label: Booth Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: booth_type
+      label: Booth Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: booth_materials
+      label: Booth Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 9
+      name: order_deadline
+      label: Order Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

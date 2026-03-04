@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_event_officials_report
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: official_name
+      label: Official Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: official_role
+      label: Official Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: false

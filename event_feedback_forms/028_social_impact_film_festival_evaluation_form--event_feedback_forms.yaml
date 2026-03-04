@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Impact Film Festival Evaluation Form
+    pages:
+    - id: 1
+      name: festival_name
+      label: Festival Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: film_title
+      label: Film Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_rating
+      label: Evaluation Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Drama
+      - Comedy
+      - Documentary
+      required: false
+    - id: 6
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Drama
+      - Comedy
+      - Documentary
+      - Thriller
+      - Adventure
+      - Action
+      required: false
+    - id: 7
+      name: impact_level
+      label: Impact Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

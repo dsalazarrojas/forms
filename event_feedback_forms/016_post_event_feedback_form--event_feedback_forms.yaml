@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: post event feedback form
+    pages:
+    - id: 1
+      name: event_feedback_form_1
+      label: event_feedback_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What did you think
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: Would you come back?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_4
+      label: Would you recommend this event?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: Attendee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: Attendee name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_design_revision_request_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Event Planner Forms
+      - Meeting Planner Forms
+      - Wedding Planner Forms
+      required: false
+    - id: 4
+      name: contact_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Content Design
+      - Event Layout
+      required: false
+    - id: 12
+      name: form_file
+      label: Form File
+      hint: null
+      type: text
+      options: []
+      required: true

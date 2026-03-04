@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre-Orientation Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: program_of_study
+      label: Program of Study
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: academic_program
+      label: Academic Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: graduation_status
+      label: Graduation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: student_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_student_type
+      label: Other Student Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: employee_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false

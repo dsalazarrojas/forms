@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Evaluation Form
+    pages:
+    - id: 1
+      name: workshop_evaluation_form_page_1
+      label: Workshop Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_evaluation_form_page_2
+      label: What was the overall quality of the workshop?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: workshop_evaluation_form_page_3
+      label: How likely are you to recommend the workshop to others?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: workshop_evaluation_form_page_4
+      label: What did you find most enjoyable about the workshop?
+      hint: null
+      type: select_multiple
+      options:
+      - The content was relevant and engaging
+      - The instructor was knowledgeable and experienced
+      - The facilities were adequate
+      - Other (please describe)
+      required: false
+    - id: 5
+      name: workshop_evaluation_form_page_5
+      label: What did you find least enjoyable about the workshop?
+      hint: null
+      type: select_multiple
+      options:
+      - The content was not relevant
+      - The instructor was not knowledgeable or experienced
+      - The facilities were inadequate
+      - Other (please describe)
+      required: false
+    - id: 6
+      name: workshop_evaluation_form_page_6
+      label: Is there anything else youd like to add or comment about your experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: workshop_evaluation_form_page_7
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_evaluation_form_page_8
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: workshop_evaluation_form_page_9
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_evaluation_form_page_10
+      label: Your Comment
+      hint: null
+      type: note
+      options: []
+      required: false

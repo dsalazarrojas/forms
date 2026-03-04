@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Speakers Club Membership Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_event_attended
+      label: Last Event Attended
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: interested_events
+      label: Interested Events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: agree_terms
+      label: Agree Terms
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Do not agree to the terms and conditions
+      required: false

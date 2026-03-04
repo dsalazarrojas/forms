@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Occasion Gift Bag Feedback
+    pages:
+    - id: 1
+      name: occasion_gift_bag_feedback_1
+      label: Feedback on Swag
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: occasion_gift_bag_feedback_2
+      label: Gift Bag
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: occasion_gift_bag_feedback_3
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Gifted
+      - Not Gifted
+      - Other
+      required: false
+    - id: 4
+      name: occasion_gift_bag_feedback_4
+      label: Will Use Again
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 5
+      name: occasion_gift_bag_feedback_5
+      label: Will Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: occasion_gift_bag_feedback_6
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: occasion_gift_bag_feedback_7
+      label: Why Not
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: occasion_gift_bag_feedback_8
+      label: How Likely Recommend
+      hint: null
+      type: time
+      options: []
+      required: true

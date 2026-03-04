@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mixology Showdown Tournament Entry Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team Member 1''}'
+      - '{''id'': 2, ''label'': ''Team Member 2''}'
+      - '{''id'': 3, ''label'': ''Team Member 3''}'
+      - '{''id'': 4, ''label'': ''Team Member 4''}'
+      - '{''id'': 5, ''label'': ''Team Member 5''}'
+      - '{''id'': 6, ''label'': ''Team Member 6''}'
+      - '{''id'': 7, ''label'': ''Team Member 7''}'
+      - '{''id'': 8, ''label'': ''Team Member 8''}'
+      - '{''id'': 9, ''label'': ''Team Member 9''}'
+      - '{''id'': 10, ''label'': ''Team Member 10''}'
+      required: false
+    - id: 3
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bartender_name
+      label: Bartender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bartender_phone
+      label: Bartender Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: bartender_email
+      label: Bartender Email
+      hint: null
+      type: email
+      options: []
+      required: false

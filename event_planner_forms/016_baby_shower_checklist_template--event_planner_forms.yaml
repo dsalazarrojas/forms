@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower Checklist Template
+    pages:
+    - id: 1
+      name: host_name
+      label: Host Name
+      hint: Name of person organizing shower
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: expectant_parent_name
+      label: Expectant Parent Name
+      hint: Name of mom or parents-to-be
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shower_date
+      label: Shower Date
+      hint: Date of baby shower
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shower_time
+      label: Shower Time
+      hint: Start time of event
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: shower_location
+      label: Shower Location
+      hint: Venue or address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guest_count
+      label: Expected Guest Count
+      hint: Approximate number of guests
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: theme_selection
+      label: Shower Theme
+      hint: Select theme for shower
+      type: select_one
+      options:
+      - Classic Baby
+      - Rubber Ducky
+      - Teddy Bear
+      - Storybook
+      - Safari
+      - Gender Reveal
+      - No Theme
+      required: true
+    - id: 8
+      name: color_scheme
+      label: Color Scheme
+      hint: Primary colors for decor
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: decorations_needed
+      label: Decorations Needed
+      hint: Select decoration items
+      type: select_multiple
+      options:
+      - Balloons
+      - Banners
+      - Table centerpieces
+      - Streamers
+      - Photo backdrop
+      - Flowers
+      - Candles
+      - None
+      required: true
+    - id: 10
+      name: food_beverages
+      label: Food and Beverages
+      hint: Select menu items
+      type: select_multiple
+      options:
+      - Finger sandwiches
+      - Fruit platter
+      - Vegetable tray
+      - Cheese and crackers
+      - Cupcakes
+      - Cake
+      - Punch
+      - Coffee and tea
+      - Other
+      required: true
+    - id: 11
+      name: tableware_needed
+      label: Tableware Needed
+      hint: Select disposable items
+      type: select_multiple
+      options:
+      - Plates
+      - Cups
+      - Napkins
+      - Utensils
+      - Tablecloth
+      - Serving platters
+      - None
+      required: true
+    - id: 12
+      name: games_planned
+      label: Games and Activities
+      hint: Select planned games
+      type: select_multiple
+      options:
+      - Baby bingo
+      - Guess the baby food
+      - Diaper raffle
+      - Baby name game
+      - Measure mom belly
+      - Advice cards
+      - Gift bingo
+      - No games planned
+      required: true
+    - id: 13
+      name: party_favors
+      label: Party Favors
+      hint: Will you provide guest favors
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: gift_registry_info
+      label: Gift Registry Information
+      hint: Store names for registry
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: invitations_method
+      label: Invitation Method
+      hint: How will you send invitations
+      type: select_one
+      options:
+      - Paper invitations
+      - Email
+      - Social media event
+      - Phone calls
+      - Text messages
+      required: true
+    - id: 16
+      name: invitation_deadline
+      label: RSVP Deadline
+      hint: Date for guest responses
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: photography_plan
+      label: Photography Plan
+      hint: How will photos be handled
+      type: select_one
+      options:
+      - Professional photographer
+      - Friend or family
+      - Guest photos with phones
+      - Disposable cameras
+      required: true
+    - id: 18
+      name: cleanup_help
+      label: Cleanup Help Arranged
+      hint: Will you have help with cleanup
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Select budget category
+      type: select_one
+      options:
+      - Under 100
+      - 100 to 300
+      - 300 to 500
+      - 500 to 1000
+      - Over 1000
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Reminders
+      hint: Any other tasks or details to track
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Show Vendor Booth Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vendor_type
+      label: Vendor type
+      hint: null
+      type: select_one
+      options:
+      - Vendor
+      - Non-Vendor
+      required: true
+    - id: 6
+      name: booth_number
+      label: Booth number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: booth_size
+      label: Booth size
+      hint: null
+      type: select_multiple
+      options:
+      - 10x10
+      - 10x20
+      - 20x20
+      - 30x30
+      required: true
+    - id: 8
+      name: show_name
+      label: Show name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booth_setup_time
+      label: Booth setup time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: booth_tear_down_time
+      label: Booth tear down time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: show_date
+      label: Show date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: show_time
+      label: Show time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: booth_fee
+      label: Booth fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vendor_license
+      label: Vendor License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: show_location
+      label: Show location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: show_description
+      label: Show description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: special_request
+      label: Special request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vendor_notes
+      label: Vendor notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vendor_signature
+      label: Vendor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_manager_notes
+      label: Event manager notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_manager
+      label: Event manager
+      hint: null
+      type: text
+      options: []
+      required: false

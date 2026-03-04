@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Volunteer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_available
+      label: Date Available
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_available
+      label: Time Available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: shift_hours
+      label: Shift Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00-09:00
+      - 09:00-10:00
+      - 10:00-11:00
+      required: true
+    - id: 8
+      name: shift_days
+      label: Shift Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: select_multiple
+      options:
+      - 2 hours
+      - 4 hours
+      - 6 hours
+      required: true
+    - id: 10
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Substitute
+      - Special Event
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true

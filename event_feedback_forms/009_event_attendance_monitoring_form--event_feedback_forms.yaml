@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: event-attendance-monitoring-form
+    pages:
+    - id: 1
+      name: event_attendance_monitoring_form_page
+      label: event-attendance-monitoring-form-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_date
+      label: event-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_start_time
+      label: event-start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_end_time
+      label: event-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_start_time_utc
+      label: event-start-time-utc
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_end_time_utc
+      label: event-end-time-utc
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: event-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_notes
+      label: event-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer
+      label: event-organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_organizers_email
+      label: event-organizers-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: event_organizer_phone
+      label: event-organizer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organizer_name
+      label: event-organizer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendees_count
+      label: attendees-count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_started
+      label: event-started
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_ended
+      label: event-ended
+      hint: null
+      type: text
+      options: []
+      required: false

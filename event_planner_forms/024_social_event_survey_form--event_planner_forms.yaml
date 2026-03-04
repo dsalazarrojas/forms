@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Event Survey Form
+    pages:
+    - id: 1
+      name: social_event_survey_form
+      label: Social Event Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_feedback
+      label: Event Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_outcomes
+      label: Event Outcomes
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 4
+      name: impact_measure
+      label: Impact Meausure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: areas_improvement
+      label: Areas Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Music
+      - Ambiance
+      - Timing
+      - Organization
+      - Communication
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: form_attachment
+      label: Form Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Party
+      - Meeting
+      - Event
+      - Other
+      - Seminar
+      - Training
+      required: false
+    - id: 24
+      name: attendees_type
+      label: Attendees Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      required: false
+    - id: 25
+      name: survey_comments
+      label: Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false

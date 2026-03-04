@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Contact Form
+    pages:
+    - id: 1
+      name: rsvp_form
+      label: RSVP Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

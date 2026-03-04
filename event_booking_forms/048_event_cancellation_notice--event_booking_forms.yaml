@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Cancellation Notice
+    pages:
+    - id: 1
+      name: event_cancellation
+      label: event_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prophets
+      label: event_planners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reason
+      label: event_cancellation_reason
+      hint: Please enter a reason for the cancellation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholders
+      label: notify_stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: scheduled_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: details
+      label: cancellation_details
+      hint: Please add any additional details about the cancellation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: documentation
+      label: documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

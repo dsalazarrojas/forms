@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Application Form
+    pages:
+    - id: 1
+      name: participant_application_form
+      label: Participant Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_details
+      label: seminar_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seminar_date
+      label: Seminar Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: seminar_time
+      label: Seminar Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: participant_capacity
+      label: Participant Capacity
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 12
+      name: participant_capacity_other
+      label: Participant Capacity Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

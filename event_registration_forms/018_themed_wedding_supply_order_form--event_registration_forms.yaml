@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Themed Wedding Supply Order Form
+    pages:
+    - id: 1
+      name: wedding_supply_order_form
+      label: wedding supply order form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_supplies
+      label: wedding supplies
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding Decor
+      - Wedding Favors
+      - Wedding Linens
+      - Wedding Music
+      - Wedding Photography
+      - Wedding Videography
+      - Wedding Cakes
+      - Wedding Favors
+      - Wedding Flowers
+      - Wedding Invitations
+      required: false
+    - id: 3
+      name: wedding_date
+      label: wedding date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: estimated_guests
+      label: estimated guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wedding_location
+      label: wedding location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact name
+      hint: null
+      type: select_one
+      options:
+      - Bride
+      - Bride and Groom
+      - Officiant
+      - Photographer
+      - Wedding Planner
+      - Other
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

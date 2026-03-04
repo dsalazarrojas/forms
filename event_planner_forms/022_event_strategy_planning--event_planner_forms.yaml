@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Strategy Planning
+    pages:
+    - id: 1
+      name: event_strategy_planning_form_template
+      label: Event Strategy Planning Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goal_objectives
+      label: Define Event Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_audience
+      label: Event Audience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_audience_select
+      label: Select Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Target audience
+      - Secondary audience
+      - Other
+      - Not specified
+      required: false
+    - id: 5
+      name: event_audience_other
+      label: Other audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_budget_amount
+      label: Budget amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_timeframe
+      label: Event Timeframe
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_timeframe_start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_timeframe_end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_duration
+      label: Event duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_planner
+      label: Event planner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: event_planner_select
+      label: Select Event Planner
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      required: false
+    - id: 14
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_location_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

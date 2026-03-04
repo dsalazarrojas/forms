@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: relay_team_expression_of_interest
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prior_experience
+      label: Prior Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 3
+      name: prior_experience_length
+      label: Prior Experience Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: prior_experience_frequency
+      label: Prior Experience Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: available_sport
+      label: Available Sport
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Swimming''}'
+      - '{''id'': 2, ''label'': ''Cycling''}'
+      - '{''id'': 3, ''label'': ''Running''}'
+      - '{''id'': 4, ''label'': ''Triathlon''}'
+      - '{''id'': 5, ''label'': ''Rowing''}'
+      - '{''id'': 6, ''label'': ''Rowing''}'
+      - '{''id'': 7, ''label'': ''Rowing''}'
+      - '{''id'': 8, ''label'': ''Rowing''}'
+      required: false
+    - id: 6
+      name: interested_in_coaching
+      label: Interested in Coaching
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Undecided''}'
+      required: false
+    - id: 7
+      name: team_sport_coach_experience
+      label: Team Sport Coach Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: prior_organizational_experience
+      label: Prior Organizational Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prior_coaching_certifications
+      label: Prior Coaching Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prior_coaching_training
+      label: Prior Coaching Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prior_coaching_experience
+      label: Prior Coaching Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: coach_license_number
+      label: Coach License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: available_coaching
+      label: Available Coaching
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Undecided''}'
+      required: false
+    - id: 14
+      name: team_sport_coaching_experience
+      label: Team Sport Coaching Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: team_experience
+      label: Team Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: available_team
+      label: Available Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 17
+      name: prior_coaching
+      label: Prior Coaching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: coaching_certifications
+      label: Coaching Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coaching_training
+      label: Coaching Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coach_license
+      label: Coach License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 22
+      name: team_lead_experience
+      label: Team Lead Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_lead_title
+      label: Team Lead Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false

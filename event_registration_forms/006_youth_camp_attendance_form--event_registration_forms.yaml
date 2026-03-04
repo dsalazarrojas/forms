@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Camp Attendance Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_dos
+      label: Participant DOS
+      hint: null
+      type: select_one
+      options:
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Oct
+      - Nov
+      - Dec
+      required: false
+    - id: 6
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_dob
+      label: Staff DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: staff_dos
+      label: Staff DOS
+      hint: null
+      type: select_one
+      options:
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Oct
+      - Nov
+      - Dec
+      required: false
+    - id: 12
+      name: staff_gender
+      label: Staff Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 13
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Staff
+      - Volunteer
+      required: false

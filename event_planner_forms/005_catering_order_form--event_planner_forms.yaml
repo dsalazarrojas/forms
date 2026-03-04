@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate
+      - Birthday Party
+      - Graduation
+      - Retirement
+      - Conference
+      - Other
+      required: true
+    - id: 11
+      name: guest_count
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_dietary_requirements
+      label: -- Dietary Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Any Dietary Restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergies
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 14
+      name: dietary_notes
+      label: Additional Dietary Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_menu_selection
+      label: -- Menu Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: menu_type
+      label: Menu Type
+      hint: null
+      type: select_one
+      options:
+      - Buffet
+      - Plated
+      - Family Style
+      - Cocktail/Appetizers
+      required: true
+    - id: 17
+      name: cuisine_preference
+      label: Cuisine Preference
+      hint: null
+      type: select_one
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - French
+      - Indian
+      - Mixed
+      required: true
+    - id: 18
+      name: entree_selection
+      label: Main Entree Selection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: side_dishes
+      label: Side Dishes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: dessert_selection
+      label: Dessert Selection
+      hint: null
+      type: select_one
+      options:
+      - Cake
+      - Pastries
+      - Fruit
+      - None
+      required: false
+    - id: 21
+      name: section_delivery
+      label: -- Delivery & Pickup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      - On-site Service
+      required: true
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Decorations, setup preferences, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: budget_estimate
+      label: Budget Estimate
+      hint: Total budget for catering
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: terms_accepted
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

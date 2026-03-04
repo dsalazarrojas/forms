@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Fitness Class Access Form
+    pages:
+    - id: 1
+      name: group_fitness_class_access_form
+      label: Group Fitness Class Access Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Participant 1''}'
+      - '{''id'': 2, ''label'': ''Participant 2''}'
+      - '{''id'': 3, ''label'': ''Participant 3''}'
+      required: false
+    - id: 3
+      name: participant_access
+      label: Participant Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Participant 1''}'
+      - '{''id'': 2, ''label'': ''Participant 2''}'
+      - '{''id'': 3, ''label'': ''Participant 3''}'
+      required: false
+    - id: 4
+      name: class_details
+      label: Class Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Confirmed''}'
+      - '{''id'': 2, ''label'': ''Waiting List''}'
+      - '{''id'': 3, ''label'': ''Declined''}'
+      required: false
+    - id: 7
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_additional_info
+      label: Participant Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_additional_notes
+      label: Participant Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

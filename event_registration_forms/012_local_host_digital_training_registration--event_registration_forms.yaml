@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: local-host-digital-training-registration
+    pages:
+    - id: 1
+      name: local_host_digital_training_registration_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_choice
+      label: Session Choice
+      hint: Select all that apply
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 3
+      name: experience_levels
+      label: Experience Levels
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

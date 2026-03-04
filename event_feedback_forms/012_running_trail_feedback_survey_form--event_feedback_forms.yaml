@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Running Trail Feedback Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: trail_name
+      label: trail_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: water_points
+      label: Water Points
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 4
+      name: trail_conditions
+      label: Trail Conditions
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rainy
+      required: true
+    - id: 5
+      name: terrain_difficulty
+      label: Terrain Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned
+      label: Assigned
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: course_length
+      label: Course Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: course_elevation_gain
+      label: Course Elevation Gain
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: course_type
+      label: Course Type
+      hint: null
+      type: select_one
+      options:
+      - Trail
+      - Road
+      - Mixed
+      required: true
+    - id: 18
+      name: course_surface
+      label: Course Surface
+      hint: null
+      type: select_one
+      options:
+      - Grass
+      - Dirt
+      - Gravel
+      - Concrete
+      required: true
+    - id: 19
+      name: course_direction
+      label: Course Direction
+      hint: null
+      type: select_one
+      options:
+      - Clockwise
+      - Counter Clockwise
+      required: true
+    - id: 20
+      name: course_climate
+      label: Course Climate
+      hint: null
+      type: select_one
+      options:
+      - Hot
+      - Cold
+      - Rainy
+      required: true
+    - id: 21
+      name: course_weather
+      label: Course Weather
+      hint: null
+      type: select_one
+      options:
+      - Sunny
+      - Cloudy
+      - Rainy
+      required: true
+    - id: 22
+      name: course_visibility
+      label: Course Visibility
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      - None
+      required: true
+    - id: 23
+      name: course_notes
+      label: Course Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: event_website
+      label: Event Website
+      hint: null
+      type: text
+      options: []
+      required: false

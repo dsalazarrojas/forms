@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: impact_awards_evaluation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant
+      label: participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_scale
+      label: evaluation_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_attendance
+      label: participant_attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_awareness
+      label: event_awareness
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: award_reciept
+      label: award_reciept
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: impact_scale
+      label: impact_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: participant_recommend
+      label: participant_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: participant_comment
+      label: participant_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_rating
+      label: participant_rating
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Library Participation Agreement
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_agreement
+      label: Confirm Agreement
+      hint: null
+      type: select_one
+      options:
+      - I confirm that I have read and agreed to the terms and conditions of the event.
+      - I do not confirm that I have read and agreed to the terms and conditions of
+        the event.
+      required: false
+    - id: 12
+      name: confirm_session
+      label: Confirm Session
+      hint: null
+      type: select_one
+      options:
+      - I confirm that I have read and agreed to the terms and conditions of the event.
+      - I do not confirm that I have read and agreed to the terms and conditions of
+        the event.
+      required: false
+    - id: 13
+      name: confirm_volunteer
+      label: Confirm Volunteer
+      hint: null
+      type: select_one
+      options:
+      - I confirm that I am a volunteer for this event.
+      - I am not a volunteer for this event.
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Process Innovation Workshop Evaluation
+    pages:
+    - id: 1
+      name: workshop_evaluation
+      label: Workshop Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: workshop_rating
+      label: Workshop Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 18
+      name: quality_of_presenters
+      label: Quality of Presenters
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 19
+      name: quality_of_content
+      label: Quality of Content
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 20
+      name: quality_of_materials
+      label: Quality of Materials
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 21
+      name: relevance_to_topic
+      label: Relevance to Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

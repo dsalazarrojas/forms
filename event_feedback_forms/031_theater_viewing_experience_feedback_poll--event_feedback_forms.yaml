@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Viewing Experience Feedback Poll
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate your overall viewing experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: feedback
+      label: What did you like/dislike about your viewing experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

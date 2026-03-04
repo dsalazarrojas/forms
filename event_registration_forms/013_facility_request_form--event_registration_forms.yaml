@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Request Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_selection
+      label: select_facility
+      hint: null
+      type: select_multiple
+      options:
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      required: false
+    - id: 3
+      name: event_start_date
+      label: event_start_date
+      hint: The date the event will start
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_end_date
+      label: event_end_date
+      hint: The date the event will end
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_duration
+      label: event_duration
+      hint: The length of the event
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_start_time
+      label: event_start_time
+      hint: The time the event will start
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_end_time
+      label: event_end_time
+      hint: The time the event will end
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facility_location
+      label: facility_location
+      hint: The location of the event within the facility
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: event_name
+      hint: The name of the event
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_notes
+      label: event_notes
+      hint: Any additional event notes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_priority
+      label: event_priority
+      hint: The priority of the event
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: event_status
+      label: event_status
+      hint: The status of the event
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false

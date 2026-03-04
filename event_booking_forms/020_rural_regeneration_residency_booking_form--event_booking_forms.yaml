@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: rural_regeneration_residency_booking_form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artist_details
+      label: Artist Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: residency_period
+      label: Residency Period
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: artist_requirements
+      label: Artist Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_requirements
+      label: Event Requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

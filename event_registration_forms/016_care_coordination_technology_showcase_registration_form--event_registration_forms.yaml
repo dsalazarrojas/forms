@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Technology Showcase Registration Form
+    pages:
+      - id: 1
+        name: event_header
+        label: -- Registration Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Attendee name
+        hint: Full name for badge
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Affiliated workplace
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email
+        hint: For registration confirmation
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: job_title
+        label: Job title
+        hint: Role within organization
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: session_preferences
+        label: Session preferences
+        hint: Choose topics of interest
+        type: select_multiple
+        options:
+          - Care coordination platforms
+          - Telehealth solutions
+          - Data analytics
+          - Interoperability
+        required: false
+      - id: 7
+        name: special_accommodations
+        label: Special accommodations
+        hint: Accessibility or dietary needs
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: emergency_contact
+        label: Emergency contact name and phone
+        hint: For event day use only
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: agree_to_terms
+        label: Agree to event terms and conditions
+        hint: Mandatory for registration
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Evaluation Form
+    pages:
+    - id: 1
+      name: party_name
+      label: Party name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_quality
+      label: Overall quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_coordinator_performance
+      label: Event coordinator's performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: teamwork
+      label: Teamwork
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: value_for_money
+      label: Value for money
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: party_atmosphere
+      label: Party atmosphere
+      hint: null
+      type: text
+      options: []
+      required: false

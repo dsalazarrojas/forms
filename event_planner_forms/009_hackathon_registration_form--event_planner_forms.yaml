@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hackathon Registration Form
+    pages:
+    - id: 1
+      name: team_details
+      label: Team Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Web Development
+      - Mobile Development
+      - Artificial Intelligence
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      required: true
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 5
+      name: team_needs
+      label: Team Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: logistical_needs
+      label: Logistical Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Form Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false

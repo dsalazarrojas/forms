@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Team Building Activity Registration
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: activity_title
+      label: Activity Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: activity_description
+      label: Activity Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_slots
+      label: Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: time_slots_options
+      label: Time Slots Options
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: timezone_options
+      label: Timezone Options
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: registration_link
+      label: Registration Link
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: registration_link_label
+      label: Registration Link Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registration_link_url
+      label: Registration Link Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_link_target
+      label: Registration Link Target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: registration_link_type
+      label: Registration Link Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: registration_link_style
+      label: Registration Link Style
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: registration_link_background_color
+      label: Registration Link Background Color
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: registration_link_text_color
+      label: Registration Link Text Color
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: registration_link_target_window
+      label: Registration Link Target Window
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 24
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 25
+      name: time_format
+      label: Time Format
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

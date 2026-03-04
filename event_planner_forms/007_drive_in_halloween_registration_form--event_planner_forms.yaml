@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drive In Halloween Registration Form
+    pages:
+    - id: 1
+      name: drive_in_halloween_event
+      label: Drive In Halloween Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_time_note
+      label: Event Time Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Away
+      - Office
+      required: true
+    - id: 10
+      name: drive_in_halloween_event_note
+      label: Drive In Halloween Event Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: participant_age_range
+      label: Participant Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 10-13
+      - 14-17
+      - 18-21
+      - 22-25
+      required: true
+    - id: 13
+      name: drive_in_halloween_event_details
+      label: Drive In Halloween Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: drive_in_halloween_event_details_note
+      label: Drive In Halloween Event Details Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: drive_in_halloween_event_organizer
+      label: Drive In Halloween Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: drive_in_halloween_event_organizer_phone
+      label: Drive In Halloween Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: drive_in_halloween_event_organizer_email
+      label: Drive In Halloween Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: drive_in_halloween_event_organizer_location
+      label: Drive In Halloween Event Organizer Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Away
+      - Office
+      required: true
+    - id: 19
+      name: drive_in_halloween_event_organizer_note
+      label: Drive In Halloween Event Organizer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: drive_in_halloween_event_attendees
+      label: Drive In Halloween Event Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Family
+      - Colleagues
+      - Coworkers
+      required: true
+    - id: 21
+      name: drive_in_halloween_event_dress_code
+      label: Drive In Halloween Event Dress Code
+      hint: null
+      type: select_multiple
+      options:
+      - Formal
+      - Casual
+      - Business
+      required: true
+    - id: 22
+      name: drive_in_halloween_event_food
+      label: Drive In Halloween Event Food
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Snacks
+      - Drinks
+      required: true
+    - id: 23
+      name: drive_in_halloween_event_favors
+      label: Drive In Halloween Event Favors
+      hint: null
+      type: select_multiple
+      options:
+      - Favors
+      - No Favors
+      required: true
+    - id: 24
+      name: drive_in_halloween_event_parking
+      label: Drive In Halloween Event Parking
+      hint: null
+      type: select_multiple
+      options:
+      - Parking
+      - No Parking
+      required: true
+    - id: 25
+      name: drive_in_halloween_event_notes
+      label: Drive In Halloween Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: team_number
+      label: Team Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_multiple
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false

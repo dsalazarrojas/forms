@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blogger Symposium Signup Form
+    pages:
+    - id: 1
+      name: symposium_intro
+      label: -- Blogger Symposium Registration --
+      hint: Join us for this premier blogging event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: blog_name
+      label: Your Blog Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: blog_url
+      label: Blog URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: blog_niche
+      label: Your Blog Niche
+      hint: null
+      type: select_one
+      options:
+      - Lifestyle
+      - Fashion
+      - Travel
+      - Food
+      - Tech
+      - Business
+      - Health
+      - Parenting
+      - Beauty
+      - Other
+      required: true
+    - id: 9
+      name: blogging_experience
+      label: Blogging Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 10
+      name: monthly_traffic
+      label: Estimated Monthly Blog Traffic
+      hint: null
+      type: select_one
+      options:
+      - < 1,000
+      - 1,000 - 10,000
+      - 10,000 - 50,000
+      - 50,000 - 100,000
+      - 100,000+
+      - Not sure
+      required: true
+    - id: 11
+      name: session_interests
+      label: Which sessions are you interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monetization Strategies
+      - SEO & Traffic Growth
+      - Content Creation Tips
+      - Building Community
+      - Video Blogging
+      - Influencer Partnerships
+      - Analytics & Metrics
+      required: true
+    - id: 12
+      name: networking_interest
+      label: Interest in networking with other bloggers
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Interested
+      - Somewhat interested
+      - Not interested
+      required: true
+    - id: 13
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Full Day Pass
+      - Half Day Pass
+      - Individual Session Pass
+      - Virtual Attendance
+      required: true
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Meals will be provided
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests or Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: heard_about_event
+      label: How did you hear about this symposium?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Email
+      - Referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 17
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      required: true
+    - id: 18
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

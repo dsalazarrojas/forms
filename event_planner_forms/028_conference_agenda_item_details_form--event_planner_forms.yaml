@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Agenda Item Details Form
+    pages:
+    - id: 1
+      name: agenda_header
+      label: Agenda Item Details
+      hint: Submit details for conference agenda item
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: conference_date
+      label: Conference Date
+      hint: Event date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: submitter_name
+      label: Submitter Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submitter_email
+      label: Submitter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: submitter_role
+      label: Submitter Role
+      hint: Your position
+      type: select_one
+      options:
+      - Organizer
+      - Speaker
+      - Session Chair
+      - Committee Member
+      - Staff
+      - Other
+      required: true
+    - id: 7
+      name: agenda_item_info
+      label: Agenda Item Information
+      hint: Details about the item
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_title
+      label: Item Title
+      hint: Name of agenda item
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_type
+      label: Item Type
+      hint: Category of item
+      type: select_one
+      options:
+      - Keynote Speech
+      - Panel Discussion
+      - Workshop
+      - Breakout Session
+      - Networking Event
+      - Meal Break
+      - Coffee Break
+      - Opening Ceremony
+      - Closing Ceremony
+      - Other
+      required: true
+    - id: 10
+      name: item_description
+      label: Item Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: scheduled_date
+      label: Scheduled Date
+      hint: When item occurs
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: start_time
+      label: Start Time
+      hint: Beginning time
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: end_time
+      label: End Time
+      hint: Ending time
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: location_details
+      label: Location Details
+      hint: Where item takes place
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: venue_room
+      label: Venue Room
+      hint: Room name or number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: building
+      label: Building
+      hint: Building name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: floor
+      label: Floor
+      hint: Floor level
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: capacity
+      label: Expected Capacity
+      hint: Number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: participants
+      label: Participants
+      hint: People involved
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: speaker_names
+      label: Speaker Names
+      hint: All speakers
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: speaker_bios
+      label: Speaker Bios
+      hint: Brief biographies
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: moderator_name
+      label: Moderator Name
+      hint: Session moderator
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: technical_requirements
+      label: Technical Requirements
+      hint: Equipment needed
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: av_needs
+      label: Audio Visual Needs
+      hint: AV equipment
+      type: select_multiple
+      options:
+      - Projector
+      - Microphone
+      - Speakers
+      - Laptop
+      - Whiteboard
+      - Video Conferencing
+      - Recording Equipment
+      - Lighting
+      required: false
+    - id: 25
+      name: special_requirements
+      label: Special Requirements
+      hint: Any other needs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: catering_needs
+      label: Catering Needs
+      hint: Food and beverage
+      type: select_one
+      options:
+      - None
+      - Coffee and Tea
+      - Light Refreshments
+      - Full Meal Service
+      required: false
+    - id: 27
+      name: status
+      label: Item Status
+      hint: Current status
+      type: select_one
+      options:
+      - Proposed
+      - Confirmed
+      - Cancelled
+      - Completed
+      required: true
+    - id: 28
+      name: additional_notes
+      label: Additional Notes
+      hint: Other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Congress Presenters Application Form
+    pages:
+    - id: 1
+      name: section_presenter_info
+      label: -- Presenter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_presenter_name
+      label: Primary Presenter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_title
+      label: Professional Title/Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_affiliation
+      label: Organization or Institution Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presenter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: presenter_bio
+      label: Brief Professional Biography
+      hint: Max 200 words
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_proposal_details
+      label: -- Presentation Proposal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: presentation_title
+      label: Title of Presentation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: presentation_format
+      label: Preferred Presentation Format
+      hint: null
+      type: select_one
+      options:
+      - Oral Presentation (20 mins)
+      - Workshop (60 mins)
+      - Panel Discussion
+      - Poster Session
+      required: true
+    - id: 10
+      name: topic_category
+      label: Relevant Topic Category
+      hint: null
+      type: select_one
+      options:
+      - Scientific Research
+      - Policy and Governance
+      - Educational Innovation
+      - Technology and Society
+      - Environmental Sustainability
+      required: true
+    - id: 11
+      name: presentation_abstract
+      label: Presentation Abstract
+      hint: Summarize your key points and objectives (300-500 words)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: learning_objectives
+      label: Three Key Learning Objectives
+      hint: What will attendees take away?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_requirements
+      label: -- Technical Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: audiovisual_needs
+      label: Audiovisual and Equipment Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Audio/Speakers
+      - Handheld Microphone
+      - Laptop Hookup (HDMI)
+      - Whiteboard/Flipchart
+      required: false
+    - id: 15
+      name: section_finalization
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: agreement_terms
+      label: I agree to the presenter terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 17
+      name: travel_funding_status
+      label: Do you require travel funding support?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - To be determined
+      required: true

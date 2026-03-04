@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bowling Event Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Name of your bowling team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_captain_first
+      label: Team Captain First Name
+      hint: Captain first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_captain_last
+      label: Team Captain Last Name
+      hint: Captain last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: captain_email
+      label: Captain Email
+      hint: For team communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: captain_phone
+      label: Captain Phone
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Which event are you registering for
+      type: select_one
+      options:
+      - Weekly League
+      - Tournament
+      - Corporate Event
+      - Birthday Party
+      - Fundraiser
+      - Charity Bowl
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Preferred Time
+      hint: Preferred start time
+      type: select_one
+      options:
+      - Morning (9AM-12PM)
+      - Afternoon (12PM-4PM)
+      - Evening (4PM-8PM)
+      - Night (8PM-12AM)
+      required: true
+    - id: 9
+      name: number_of_team_members
+      label: Number of Team Members
+      hint: Total team size
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: team_member_names
+      label: Team Member Names
+      hint: List all team members
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: skill_level
+      label: Team Skill Level
+      hint: Overall team bowling ability
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Mixed levels
+      required: true
+    - id: 12
+      name: average_score
+      label: Team Average Score
+      hint: Approximate team average if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lane_preference
+      label: Lane Preference
+      hint: Any lane preferences
+      type: select_one
+      options:
+      - No preference
+      - Lanes 1-10
+      - Lanes 11-20
+      - Lanes 21-30
+      - Bumper lanes needed
+      required: false
+    - id: 14
+      name: shoe_rental
+      label: Shoe Rental Needed
+      hint: How many pairs needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: shoe_sizes
+      label: Shoe Sizes
+      hint: List sizes needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: food_beverage
+      label: Food and Beverage Package
+      hint: Select package preference
+      type: select_one
+      options:
+      - None
+      - Snacks only
+      - Pizza package
+      - Buffet package
+      - Full catering
+      required: true
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: alcoholic_beverages
+      label: Alcoholic Beverages
+      hint: Will your group order alcohol
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: age_verification
+      label: Age Verification
+      hint: Are all team members 21 or older
+      type: select_one
+      options:
+      - Yes, all 21+
+      - No, minors present
+      required: true
+    - id: 20
+      name: additional_services
+      label: Additional Services
+      hint: Select any add-ons
+      type: select_multiple
+      options:
+      - None
+      - Scorekeeping service
+      - Photography
+      - Awards or trophies
+      - Party favors
+      - Video replay
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Check
+      - Corporate account
+      required: true
+    - id: 23
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Have you paid the deposit
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 24
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 25
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I agree to the liability waiver
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 26
+      name: captain_signature
+      label: Captain Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

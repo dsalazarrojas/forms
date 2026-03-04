@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: event-design-agency-registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agency_services
+      label: Agency Services
+      hint: null
+      type: select_multiple
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      required: false
+    - id: 3
+      name: agency_portfolio
+      label: Portfolio
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: agency_experience
+      label: Agency Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: production_team
+      label: Production Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agency_contact
+      label: Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Pet Costume Contest Form
+    pages:
+    - id: 1
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Pet Type
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pet_dress_cost
+      label: pet_dress_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 9
+      name: entry_fee
+      label: entry_fee
+      hint: null
+      type: select_one
+      options:
+      - $1
+      - $2
+      - $5
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

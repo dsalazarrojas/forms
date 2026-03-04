@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-session-information-form
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_first_name
+      label: Attendee First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_last_name
+      label: Attendee Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: attendee_organisation
+      label: Attendee Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_position
+      label: Attendee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: session_rooms
+      label: Session Rooms
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 13
+      name: attendee_roles
+      label: Attendee Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Presenter
+      - Organiser
+      required: false
+    - id: 14
+      name: attendee_diet
+      label: Attendee Diet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: attendee_food_restrictions
+      label: Attendee Food Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attendee_special_requirements
+      label: Attendee Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attendee_comments
+      label: Attendee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: attendee_availability
+      label: Attendee Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: attendee_interests
+      label: Attendee Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attendee_preferred_tool
+      label: Attendee Preferred Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attendee_tool_preference_1
+      label: Attendee Tool Preference 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendee_tool_preference_2
+      label: Attendee Tool Preference 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attendee_tool_preference_3
+      label: Attendee Tool Preference 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

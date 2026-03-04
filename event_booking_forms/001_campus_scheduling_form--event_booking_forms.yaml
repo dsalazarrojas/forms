@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Scheduling Form
+    pages:
+    - id: 1
+      name: organization_info_section
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Enter the full name of your campus organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Name of the person coordinating the event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_details_section
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_title
+      label: Event Title
+      hint: Short descriptive title for the event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: Briefly describe the purpose of the event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Select the date for your event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: start_time
+      label: Preferred Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: end_time
+      label: Preferred End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: location_preference
+      label: Location Preference
+      hint: Where would you like to host the event
+      type: select_one
+      options:
+      - Lecture Hall
+      - Campus Center
+      - Student Lounge
+      - Athletic Field
+      - Auditorium
+      required: true
+    - id: 13
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Estimated number of participants
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: requirements_section
+      label: -- Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: av_equipment
+      label: Audio-Visual Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Projector
+      - Microphone
+      - Sound System
+      - Wi-Fi Access
+      - None
+      required: false
+    - id: 16
+      name: catering_required
+      label: Catering Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: furniture_arrangement
+      label: Furniture Arrangement
+      hint: Preferred seating layout
+      type: select_one
+      options:
+      - Classroom
+      - Theatre
+      - U-Shape
+      - Banquet
+      - Standing Only
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Any other specific needs for the event
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_agreement
+      label: Agreement
+      hint: By submitting, you agree to follow campus scheduling policies
+      type: select_one
+      options:
+      - I agree to campus policies
+      - I do not agree
+      required: true

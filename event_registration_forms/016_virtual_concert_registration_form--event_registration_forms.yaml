@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual-concert-registration-form
+    pages:
+    - id: 1
+      name: concert_details
+      label: Concert Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_num
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: concert_preference
+      label: Concert Preference
+      hint: null
+      type: select_one
+      options:
+      - Classical
+      - Jazz
+      - Pop
+      - Rock
+      required: true
+    - id: 6
+      name: concert_preferences
+      label: Concert Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Classical
+      - Jazz
+      - Pop
+      - Rock
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: This will be used for further communication
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_description
+      label: Event Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_email
+      label: Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

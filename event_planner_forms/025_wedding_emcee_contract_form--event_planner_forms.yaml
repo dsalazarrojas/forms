@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding EMCEE Contract Form
+    pages:
+    - id: 1
+      name: emcee_contract_form
+      label: wedding-emcee-contract-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mc_services
+      label: mc_services
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''service-1'', ''label'': ''Service 1''}'
+      - '{''value'': ''service-2'', ''label'': ''Service 2''}'
+      required: false
+    - id: 3
+      name: mc_rates
+      label: mc_rates
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mc_schedule
+      label: mc_schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option-1'', ''label'': ''Option 1''}'
+      - '{''value'': ''option-2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 6
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''status-1'', ''label'': ''Status 1''}'
+      - '{''value'': ''status-2'', ''label'': ''Status 2''}'
+      required: false
+    - id: 7
+      name: couple_name
+      label: couple_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: couple_email
+      label: couple_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: emcee_name
+      label: emcee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emcee_phone
+      label: emcee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emcee_services
+      label: emcee_services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emcee_rates
+      label: emcee_rates
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: emcee_schedule
+      label: emcee_schedule
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: emcee_terms
+      label: emcee_terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emcee_notes
+      label: emcee_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emcee_comments
+      label: emcee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emcee_signature
+      label: emcee_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: couple_signature
+      label: couple_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time_signed
+      label: time_signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: contract_version
+      label: contract_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contract_status
+      label: contract_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''status-1'', ''label'': ''Status 1''}'
+      - '{''value'': ''status-2'', ''label'': ''Status 2''}'
+      required: false
+    - id: 23
+      name: contract_rev
+      label: contract_rev
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: contract_rev_date
+      label: contract_rev_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true

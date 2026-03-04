@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Fair Toy Lead Generation Form
+    pages:
+    - id: 1
+      name: family_information
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: We will send updates and offers
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: For location-based offers
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: children_section
+      label: -- Children Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: youngest_age
+      label: Age of Youngest Child
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: oldest_age
+      label: Age of Oldest Child
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: toy_interests
+      label: -- Toy Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: favorite_categories
+      label: Favorite toy categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Action figures
+      - Building sets
+      - Dolls
+      - Puzzles
+      - Board games
+      - Educational toys
+      - Outdoor toys
+      - Tech toys
+      - Craft kits
+      - Plush toys
+      - STEM toys
+      - Sports equipment
+      required: true
+    - id: 12
+      name: brand_preferences
+      label: Favorite toy brands
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - LEGO
+      - Barbie
+      - Hot Wheels
+      - Fisher-Price
+      - Play-Doh
+      - Hasbro
+      - Mattel
+      - STEM brands
+      - Local brands
+      - Other
+      required: false
+    - id: 13
+      name: shopping_behavior
+      label: -- Shopping Behavior --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: average_spending
+      label: Average spending on toys per month
+      hint: null
+      type: select_one
+      options:
+      - Under 25 dollars
+      - 25-50 dollars
+      - 50-100 dollars
+      - 100-200 dollars
+      - 200+ dollars
+      required: false
+    - id: 15
+      name: purchase_frequency
+      label: How often do you buy toys
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Seasonally
+      - Rarely
+      required: false
+    - id: 16
+      name: shopping_channels
+      label: Preferred shopping channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - In-person stores
+      - Online shopping
+      - Online and in-store
+      - Direct from manufacturers
+      required: false
+    - id: 17
+      name: fair_attendance
+      label: -- Fair Attendance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: first_time_visitor
+      label: Is this your first time at the fair
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: what_interested
+      label: What are you most interested in at the fair
+      hint: null
+      type: select_multiple
+      options:
+      - Product demonstrations
+      - Special discounts
+      - New product launches
+      - Educational activities
+      - Entertainment
+      - Giveaways and contests
+      required: true
+    - id: 20
+      name: social_media
+      label: -- Social Media and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_contact
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Social media
+      required: true
+    - id: 22
+      name: newsletter_signup
+      label: Subscribe to our newsletter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: social_media_follow
+      label: Which social media platforms do you use
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - TikTok
+      - YouTube
+      - Twitter
+      - Other
+      required: false
+    - id: 24
+      name: promotional_offers
+      label: Interested in special offers and promotions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: fair_feedback
+      label: Any additional comments about the fair
+      hint: null
+      type: text
+      options: []
+      required: false

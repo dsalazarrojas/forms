@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Seminar Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: seminar_date
+      label: Seminar Date
+      hint: Date of the seminar (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: seminar_time
+      label: Seminar Time
+      hint: "Time of the seminar (HH:MM AM/PM)"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: seminar_room
+      label: Seminar Room
+      hint: Room number of the seminar
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seminar_topic
+      label: Seminar Topic
+      hint: Topic of the seminar
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seminar_description
+      label: Seminar Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration (e.g. in-person, online)
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: registrant_phone
+      label: Registrant Phone
+      hint: Phone number of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: registrant_company
+      label: Registrant Company
+      hint: Company of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: registrant_job_title
+      label: Registrant Job Title
+      hint: Job title of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registrant_department
+      label: Registrant Department
+      hint: Department of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: registrant_country
+      label: Registrant Country
+      hint: Country of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registrant_city
+      label: Registrant City
+      hint: City of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registrant_state
+      label: Registrant State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: registrant_zip_code
+      label: Registrant Zip/Postal Code
+      hint: Zip/postal code of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registrant_agree
+      label: Agree
+      hint: You must agree to our terms and conditions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: registrant_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: registrant_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

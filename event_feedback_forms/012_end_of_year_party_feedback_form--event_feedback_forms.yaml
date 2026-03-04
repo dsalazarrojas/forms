@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_year_party_feedback_form
+    pages:
+    - id: 1
+      name: party_theme
+      label: Party Theme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: music_preferences
+      label: Music Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: food_options
+      label: Food Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Paper Theme
+    pages:
+    - id: 1
+      name: header_note
+      label: -- Event Inquiry --
+      hint: Use this form to request event planning information or services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact name
+      hint: Name of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email for event correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event type
+      hint: Choose the type of event
+      type: select_one
+      options:
+      - Conference
+      - Wedding
+      - Corporate meeting
+      - Private party
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Event date
+      hint: Preferred date for the event
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expected_guests
+      label: Expected number of guests
+      hint: Approximate headcount
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: services_required
+      label: Services required
+      hint: Select services you need
+      type: select_multiple
+      options:
+      - Venue booking
+      - Catering
+      - AV equipment
+      - Staffing
+      - Decoration
+      required: false
+    - id: 9
+      name: budget_range
+      label: Budget range
+      hint: Estimated budget for planning
+      type: select_one
+      options:
+      - Under 5,000
+      - 5,000-15,000
+      - 15,000-50,000
+      - Over 50,000
+      required: false
+    - id: 10
+      name: additional_details
+      label: Additional details
+      hint: Any other information to help plan the event
+      type: text
+      options: []
+      required: false

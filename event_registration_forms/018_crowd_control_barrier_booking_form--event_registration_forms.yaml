@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: crowd_control_barrier_booking_form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_start_date
+      label: event_start_date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Ceremony
+      - Wedding
+      - Conference
+      - Concert
+      - Other
+      required: true
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_organizer
+      label: event_organizer
+      hint: Name of Event Organiser
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_organizer_email
+      label: event_organizer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: event_organizer_phone
+      label: event_organizer_phone
+      hint: Phone Number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_booking_status
+      label: event_booking_status
+      hint: Status of Booking
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      - Booked
+      - Not Available
+      required: true
+    - id: 10
+      name: event_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_booking_user
+      label: event_booking_user
+      hint: User Booking
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      - User 4
+      - User 5
+      required: true
+    - id: 12
+      name: event_booking_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_booking_status
+      label: event_booking_status
+      hint: Status of Booking
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      - Booked
+      - Not Available
+      required: true

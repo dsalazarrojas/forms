@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judging Workshop Feedback Survey
+    pages:
+    - id: 1
+      name: workshop_rating
+      label: Workshop Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: workshop_education
+      label: What did you learn?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Very little''}'
+      - '{2: ''Some''}'
+      - '{3: ''A lot''}'
+      - '{4: ''Almost everything''}'
+      required: false
+    - id: 3
+      name: workshop_fun
+      label: How fun was the workshop?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Very dull''}'
+      - '{2: ''Somewhat''}'
+      - '{3: ''Quite fun''}'
+      - '{4: ''Really fun''}'
+      required: false
+    - id: 4
+      name: workshop_impressions
+      label: Workshop Impressions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_satisfaction
+      label: How satisfied are you with the workshop?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Very dissatisfied''}'
+      - '{2: ''Somewhat dissatisfied''}'
+      - '{3: ''Satisfied''}'
+      - '{4: ''Very satisfied''}'
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

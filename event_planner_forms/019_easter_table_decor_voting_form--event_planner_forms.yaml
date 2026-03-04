@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Easter Table Decor Voting Form
+    pages:
+    - id: 1
+      name: easter_table_decor_voting_form
+      label: easter_table_decor_voting_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: theme
+      label: easter_theme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: favorite_easter_decor
+      label: easter_table_decor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: easter_color_scheme
+      label: easter_color_scheme
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: favorite_color
+      label: easter_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

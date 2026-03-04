@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_vest_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Life Vest Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_1
+      label: How did you get to know about our life vest?
+      hint: null
+      type: select_one
+      options:
+      - Canoeing Magazine
+      - Social Media
+      - Word of Mouth
+      - Online Search
+      - Other
+      required: false
+    - id: 3
+      name: introduction_2
+      label: How long did you spend on the water?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: How would you rate our life vest?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 5
+      name: rating_1
+      label: Why did you rate our life vest as you did?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommendation
+      label: Would you recommend our life vest to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: recommendation_1
+      label: If yes, why?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_remark
+      label: Is there anything else you would like to tell us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false

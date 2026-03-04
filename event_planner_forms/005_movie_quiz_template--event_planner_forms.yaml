@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Quiz Template
+    pages:
+    - id: 1
+      name: question_type
+      label: What type of quiz do you want to create?
+      hint: null
+      type: select_one
+      options:
+      - Multiple Choice
+      - True/False
+      - Fill-in-the-blank
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: Enter 10-20 questions
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: answer_type
+      label: What type of answers do you want to get?
+      hint: null
+      type: select_one
+      options:
+      - Multiple Choice
+      - True/False
+      - Fill-in-the-blank
+      required: false
+    - id: 4
+      name: answer_format
+      label: Answer format
+      hint: null
+      type: select_one
+      options:
+      - Multiple choice (A/B/C/D)
+      - True/False
+      - Fill-in-the-blank
+      required: false
+    - id: 5
+      name: correct_answer
+      label: Correct answers
+      hint: Enter the correct answers
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: answers
+      label: Answers
+      hint: Enter the answers
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quiz_name
+      label: Quiz name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: quiz_description
+      label: Quiz description
+      hint: Enter a brief description of the quiz
+      type: note
+      options: []
+      required: false

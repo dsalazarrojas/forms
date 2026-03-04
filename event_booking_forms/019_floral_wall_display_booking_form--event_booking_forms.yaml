@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floral Wall Display Booking Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: terms_and_conditions
+      label: terms-and-conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: floral_wall_reservations
+      label: Floral Wall Reservations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_terms_and_conditions
+      label: Confirm Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

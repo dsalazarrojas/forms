@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: medal_order_form
+    pages:
+    - id: 1
+      name: medal_order_form_1
+      label: Enter Medal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medal_order
+      label: Medal Order
+      hint: null
+      type: select_one
+      options:
+      - Medal 1
+      - Medal 2
+      - Medal 3
+      - Medal 4
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      required: false
+    - id: 8
+      name: payment_email
+      label: payment_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: payment_note
+      label: payment_note
+      hint: null
+      type: note
+      options: []
+      required: false

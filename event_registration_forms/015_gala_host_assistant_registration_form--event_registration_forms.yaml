@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gala Host Assistant Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter first name of assistant
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: 10-digit number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - 0-1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: false
+    - id: 6
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Event Assistant
+      - Host Assistant
+      - Event Coordinator
+      - Event Manager
+      required: false
+    - id: 10
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Gala
+      - Reception
+      - Wedding
+      - Birthday
+      - Holiday
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Event Entry Pass Request
+    pages:
+    - id: 1
+      name: event_entry_pass_request
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: access_levels
+      label: Access Levels
+      hint: null
+      type: select_multiple
+      options:
+      - All Access
+      - VIP Access
+      - General Access
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false

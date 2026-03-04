@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Event Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: alumni_class_year
+      label: Graduation or Joining Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guest_count
+      label: Number of Guests
+      hint: Excluding yourself
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: guest_names
+      label: Names of Guests
+      hint: comma separated
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_requirements
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Halal
+      required: true
+    - id: 8
+      name: accommodation_needed
+      label: Do you require accommodation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: hotel_preference
+      label: Preferred Hotel or Dormitory
+      hint: null
+      type: select_one
+      options:
+      - Campus Inn
+      - Downtown Plaza
+      - Student Residence
+      - Not Applicable
+      required: false
+    - id: 10
+      name: transportation
+      label: How will you arrive?
+      hint: null
+      type: select_one
+      options:
+      - Personal Car
+      - Flight
+      - Train
+      - Bus
+      required: false
+    - id: 11
+      name: sessions_attending
+      label: Specific Events Attending
+      hint: null
+      type: select_multiple
+      options:
+      - Welcome Reception
+      - Gala Dinner
+      - Campus Tour
+      - Networking Brunch
+      - Awards Ceremony
+      required: true
+    - id: 12
+      name: special_assistance
+      label: Do you require any special assistance?
+      hint: Wheelchair access, etc.
+      type: text
+      options: []
+      required: false

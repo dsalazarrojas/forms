@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Workshop Scheduling Request
+    pages:
+    - id: 1
+      name: organization_requester_name
+      label: Organization or Individual Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: workshop_type_choice
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Basic Obedience Fundamentals
+      - Agility and Sport Training
+      - Therapy Animal Preparation
+      - Aggression and Reactivity Management
+      - Puppy Socialization Clinic
+      required: true
+    - id: 4
+      name: target_audience_type
+      label: Target Audience
+      hint: Who is this workshop for?
+      type: select_one
+      options:
+      - General Pet Owners
+      - Shelter and Rescue Staff
+      - Professional Trainers
+      - Veterinary Technicians
+      required: true
+    - id: 5
+      name: estimated_attendee_count
+      label: Estimated Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_workshop_date
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_workshop_time
+      label: Preferred Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: facility_description
+      label: Facility and Location Details
+      hint: Where will the training take place?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: provided_equipment_list
+      label: Equipment and Amenities Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Training Mats or Flooring
+      - Agility Obstacles and Tools
+      - Sound System and Microphones
+      - Projector and Screen
+      - Water and Snacks for Participants
+      required: false
+    - id: 10
+      name: training_goals_summary
+      label: Workshop Training Goals and Objectives
+      hint: What should participants learn?
+      type: text
+      options: []
+      required: true

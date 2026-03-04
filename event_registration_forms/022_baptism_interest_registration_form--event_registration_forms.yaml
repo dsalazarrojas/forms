@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baptism Interest Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: interest_level
+      label: Interest Level in Baptism
+      hint: How interested are you?
+      type: select_one
+      options:
+      - Very Interested
+      - Interested
+      - Somewhat Interested
+      - Just Exploring
+      - Undecided
+      required: true
+    - id: 8
+      name: religious_background
+      label: Religious Background
+      hint: Your current faith background
+      type: select_one
+      options:
+      - Christian
+      - Previously Christian
+      - Other Faith
+      - No Religious Background
+      - Prefer Not to Say
+      required: false
+    - id: 9
+      name: prior_baptism
+      label: Have You Been Baptized Before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 10
+      name: baptism_reason
+      label: What Prompted Your Interest in Baptism?
+      hint: Tell us what sparked your interest
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: decision_stage
+      label: Where Are You in Your Decision?
+      hint: Select your stage
+      type: select_one
+      options:
+      - Just Starting to Explore
+      - Asking Questions
+      - Seriously Considering
+      - Ready to Commit
+      - Already Decided
+      required: true
+    - id: 12
+      name: church_involvement
+      label: Do You Attend Church?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Regularly
+      - Yes, Occasionally
+      - No, But Interested
+      - false
+      required: false
+    - id: 13
+      name: church_name
+      label: Church Name (if applicable)
+      hint: Which church do you attend?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: family_support
+      label: Does Your Family Support This Decision?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      - Not Applicable
+      required: false
+    - id: 15
+      name: concerns_questions
+      label: Do You Have Concerns or Questions?
+      hint: What would you like to discuss?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_learning_method
+      label: Preferred Learning Method
+      hint: How would you like to learn more?
+      type: select_multiple
+      options:
+      - In-Person Meeting
+      - Phone Conversation
+      - Email Exchange
+      - Online Video Discussion
+      - Group Class or Workshop
+      - One-on-One Counseling
+      required: false
+    - id: 17
+      name: availability
+      label: Available Meeting Times
+      hint: When are you usually available?
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      required: false
+    - id: 18
+      name: additional_information
+      label: Additional Information About You
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_follow_up
+      label: May We Follow Up With You?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only via Email
+      - Only via Phone
+      required: true
+    - id: 20
+      name: privacy_agreement
+      label: I agree to share my information with the church
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

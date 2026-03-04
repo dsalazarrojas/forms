@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicaid-support-rally-sign-up
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: event-registrations-form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rally_participation_form
+      label: participation-preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 3
+      name: logistics_needs_form
+      label: logistics-needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false

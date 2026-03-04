@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Event Registration Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: non_profit_organization
+      label: Non Profit Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_city
+      label: Event City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_state
+      label: Event State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_zip
+      label: Event Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Pay Pal
+      - Other
+      required: false
+    - id: 15
+      name: attendee_count
+      label: Attendee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: donor_amount
+      label: Donor Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: donation_frequency
+      label: Donor Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One time
+      - Recurring
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 21
+      name: non_profit_number
+      label: Non Profit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Refunded
+      - Declined
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Submitted
+      - Draft
+      - Published
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

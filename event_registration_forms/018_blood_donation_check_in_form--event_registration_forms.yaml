@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Check In Form
+    pages:
+    - id: 1
+      name: checkin_intro
+      label: -- Blood Donation Event Check-In --
+      hint: Welcome to our blood donation drive
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: donor_id
+      label: Donor ID (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_one
+      options:
+      - O+
+      - O-
+      - A+
+      - A-
+      - B+
+      - B-
+      - AB+
+      - AB-
+      - Unknown
+      required: false
+    - id: 9
+      name: previous_donation_date
+      label: Date of Last Donation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: first_time_donor
+      label: Is this your first donation with us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: current_medications
+      label: Currently taking medications?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: recent_illness
+      label: Recent illness or fever?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: blood_pressure
+      label: Blood Pressure Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - High
+      - Low
+      - Not checked
+      required: false
+    - id: 14
+      name: allergies
+      label: Known allergies?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: staff_check_in
+      label: Staff Name (Check-In)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: checkin_timestamp
+      label: Check-In Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true

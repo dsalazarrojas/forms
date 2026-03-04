@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Venue Partnership Application Form
+    pages:
+    - id: 1
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_address
+      label: Venue Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: venue_type
+      label: Venue Type
+      hint: Select a venue type
+      type: select_one
+      options:
+      - Theater
+      - Bar
+      - Park
+      required: false
+    - id: 6
+      name: performance_dates
+      label: Performance Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: application_notes
+      label: Application Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: artist_contact_info
+      label: Artist Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: partnership_terms
+      label: Partnership Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: artist_agreement
+      label: Artist Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Accept
+      - Reject
+      required: false

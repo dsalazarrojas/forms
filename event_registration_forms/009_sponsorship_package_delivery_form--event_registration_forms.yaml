@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Package Delivery Form
+    pages:
+    - id: 1
+      name: user_email
+      label: user email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_name
+      label: sponsor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_method
+      label: delivery method
+      hint: null
+      type: select_one
+      options:
+      - Airborne
+      - Ground
+      - Courier
+      required: true
+    - id: 4
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: event name
+      hint: null
+      type: select_multiple
+      options:
+      - Event A
+      - Event B
+      - Event C
+      required: true
+    - id: 7
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted_by
+      label: form submitted by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 11
+      name: event_status
+      label: event status
+      hint: Event status
+      type: select_multiple
+      options:
+      - Status A
+      - Status B
+      - Status C
+      required: false
+    - id: 12
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_city
+      label: delivery city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_state
+      label: delivery state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_zip
+      label: delivery zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_country
+      label: delivery country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: delivery_street
+      label: delivery street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_organizer
+      label: event organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: non_profit
+      label: non-profit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_date_range
+      label: delivery date range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: delivery_time_range
+      label: delivery time range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: sponsorship_package
+      label: sponsorship package
+      hint: null
+      type: select_multiple
+      options:
+      - Package A
+      - Package B
+      - Package C
+      required: true
+    - id: 23
+      name: event_venue
+      label: event venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: delivery_method_details
+      label: delivery method details
+      hint: Delivery method details
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: additional notes
+      hint: Additional notes
+      type: text
+      options: []
+      required: false

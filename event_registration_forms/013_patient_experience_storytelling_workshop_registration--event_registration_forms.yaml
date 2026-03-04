@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Experience Storytelling Workshop Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Team
+      - Caregiver
+      - Other
+      required: true
+    - id: 6
+      name: workshop_preferences
+      label: Workshop Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Both
+      - Not Specified
+      required: true
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sign_up_preferences
+      label: Sign-up Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - In-Person
+      - Online
+      - Both
+      required: true
+    - id: 11
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false

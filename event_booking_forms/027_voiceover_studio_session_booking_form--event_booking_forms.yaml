@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voiceover Studio Session Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: studio_phone
+      label: Studio Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: actor_phone
+      label: Actor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: voice_type
+      label: Voice Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: voice_level
+      label: Voice Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: session_type_other
+      label: Session Type (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: studio
+      label: Studio
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: actor
+      label: Actor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: status_other
+      label: Status (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: studio_email
+      label: Studio Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: actor_email
+      label: Actor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

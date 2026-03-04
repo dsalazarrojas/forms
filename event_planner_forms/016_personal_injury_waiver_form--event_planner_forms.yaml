@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประกerson Injury Waiver Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: injury_description
+      label: Injury Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_injury
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time_of_injury
+      label: Time of Injury
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: medical_attention
+      label: Medical Attention
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: minimalist
+      label: Minimalist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: doctor_prescribed
+      label: Doctor Prescribed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: doctor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medical_facility_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true

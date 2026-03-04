@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golf Tournament Registration & Sponsor Form
+    pages:
+    - id: 1
+      name: participant_registration
+      label: prophets registration form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_registration
+      label: sponsor registration form
+      hint: sponsor registration form
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sponsor_info
+      label: sponsor info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_info
+      label: participant info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_email
+      label: sponsor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: participant phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sponsor_phone
+      label: sponsor phone number
+      hint: null
+      type: text
+      options: []
+      required: false

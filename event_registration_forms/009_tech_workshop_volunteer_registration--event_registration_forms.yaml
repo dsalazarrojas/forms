@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_workshop_volunteer_registration
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: event_role
+      hint: null
+      type: select_one
+      options:
+      - event_coordinator
+      - event_helper
+      - event_technical_support
+      required: false
+    - id: 3
+      name: availability
+      label: available_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: terms_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - i_am_over18_years_old
+      - i_have_the_right_to_carry
+      - i_will_not_share_with_others
+      required: false

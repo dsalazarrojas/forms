@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Appreciation Event Registration
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: We will send event details here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: For event day communications
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Where you work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date_preference
+      label: Event Date Preference
+      hint: Select your preferred date
+      type: select_one
+      options:
+      - Saturday Morning Session
+      - Saturday Evening Session
+      - Sunday Afternoon Session
+      - No Preference
+      required: true
+    - id: 8
+      name: plus_one_attending
+      label: Will You Bring a Guest?
+      hint: You may bring one companion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: guest_name
+      label: Guest Full Name
+      hint: If bringing a guest, provide their name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or preferences
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Kosher
+      - Halal
+      required: true
+    - id: 11
+      name: transportation_needed
+      label: Do You Need Transportation Assistance?
+      hint: Shuttle service availability
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_interests
+      label: Sessions You Are Most Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Networking Mixer
+      - Product Demonstrations
+      - Industry Insights Presentation
+      - Awards Ceremony
+      - Live Entertainment
+      - Raffle Drawings
+      required: false
+    - id: 14
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event swag bag
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: false
+    - id: 15
+      name: how_did_you_hear
+      label: How Did You Hear About This Event?
+      hint: null
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Website
+      - Colleague Referral
+      - Phone Call
+      - Other
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: terms_agreement
+      label: I agree to follow all event guidelines and policies
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

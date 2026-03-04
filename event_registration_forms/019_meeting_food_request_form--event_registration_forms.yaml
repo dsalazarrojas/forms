@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Food Request Form
+    pages:
+    - id: 1
+      name: meeting_food_request_form_page_1
+      label: Meeting Food Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - vegetarian
+      - vegan
+      - gluten_free
+      - lactose_intolerant
+      required: false
+    - id: 3
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_topic
+      label: Meeting Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_agenda
+      label: Meeting Agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - attendee_1
+      - attendee_2
+      - attendee_3
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

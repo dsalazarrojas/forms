@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finger Food Event Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details_1
+      label: Event Details 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_details_2
+      label: Event Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: true
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''vegetarian'', ''value'': ''Vegetarian''}'
+      - '{''name'': ''vegan'', ''value'': ''Vegan''}'
+      - '{''name'': ''meat-eater'', ''value'': ''Meat-eater''}'
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions_1
+      label: Dietary Restrictions 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions_2
+      label: Dietary Restrictions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions_3
+      label: Dietary Restrictions 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions_4
+      label: Dietary Restrictions 4
+      hint: null
+      type: text
+      options: []
+      required: false

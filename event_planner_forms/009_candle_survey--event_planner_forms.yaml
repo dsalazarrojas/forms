@@ -1,0 +1,257 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Candle Survey
+    pages:
+      - id: 1
+        name: intro_header
+        label: -- Candle Shop Customer Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: intro_text
+        label: Thank you for visiting our candle shop! We would love to hear your feedback about your experience.
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: customer_info_header
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: first_name
+        label: First Name
+        hint: Your first name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: email_address
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: visit_frequency
+        label: How often do you shop at our store?
+        hint: Select one
+        type: select_one
+        options:
+          - First time
+          - Occasionally
+          - Monthly
+          - Weekly
+          - Multiple times per week
+          - Regular customer
+        required: true
+      - id: 7
+        name: store_experience_header
+        label: -- Store Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: cleanliness
+        label: How clean and well-organized is our store?
+        hint: Rate the store conditions
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: store_layout
+        label: Is the store layout easy to navigate?
+        hint: Select one
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 10
+        name: product_variety
+        label: How satisfied are you with our product variety?
+        hint: Rate the selection
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 11
+        name: product_quality_header
+        label: -- Product Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: candle_quality
+        label: How would you rate the quality of our candles?
+        hint: Select one
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: scent_options
+        label: Are you satisfied with the scent options available?
+        hint: Rate satisfaction
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 14
+        name: scent_quality
+        label: How would you rate the quality of the scents?
+        hint: Select one
+        type: select_one
+        options:
+          - Very Strong/Long-lasting
+          - Strong
+          - Moderate
+          - Weak
+          - Too Weak
+        required: false
+      - id: 15
+        name: pricing_header
+        label: -- Pricing and Value --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: pricing
+        label: How would you rate our pricing?
+        hint: Select one
+        type: select_one
+        options:
+          - Very Reasonable
+          - Reasonable
+          - Fair
+          - Expensive
+          - Very Expensive
+        required: true
+      - id: 17
+        name: value_for_money
+        label: Do you feel you receive good value for your money?
+        hint: Select one
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Unsure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 18
+        name: service_header
+        label: -- Customer Service --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: staff_friendliness
+        label: How friendly and helpful was our staff?
+        hint: Rate the service
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: staff_knowledge
+        label: Did staff have good knowledge about the products?
+        hint: Select one
+        type: select_one
+        options:
+          - Extensive Knowledge
+          - Good Knowledge
+          - Basic Knowledge
+          - Limited Knowledge
+          - No Knowledge
+        required: false
+      - id: 21
+        name: checkout_experience
+        label: How was your checkout experience?
+        hint: Rate the process
+        type: select_one
+        options:
+          - Very Fast and Easy
+          - Fast and Easy
+          - Average
+          - Slow
+          - Very Slow
+        required: true
+      - id: 22
+        name: recommendations_header
+        label: -- Recommendations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: would_recommend
+        label: Would you recommend our candle shop to friends and family?
+        hint: Select one
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Unsure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 24
+        name: improvement_suggestions
+        label: What could we improve?
+        hint: Please share your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Any other comments about your experience?
+        hint: Optional feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_supplies_request_form
+    pages:
+    - id: 1
+      name: wedding_supplies
+      label: wedding supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wedding_date
+      label: wedding date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: wedding_time
+      label: wedding time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supply_type
+      label: supply type
+      hint: null
+      type: select_multiple
+      options:
+      - chair
+      - table
+      - napkin
+      - utensils
+      required: false
+    - id: 9
+      name: special_request
+      label: special request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned
+      label: assigned
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Bazaar Vendor Registration Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: Product Category
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก - Accessories - Food and Beverages - Toys and Gifts - Jewelry and Watches
+      - Other
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Main Street
+      - Side Street
+      - Parking Lot
+      - Other
+      required: false
+    - id: 7
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Vendor Manager
+      - Sales Manager
+      - Marketing Manager
+      - Other
+      required: false
+    - id: 9
+      name: field_9
+      label: Field 9
+      hint: null
+      type: text
+      options: []
+      required: false

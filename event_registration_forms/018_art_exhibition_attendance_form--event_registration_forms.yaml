@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Attendance Form
+    pages:
+    - id: 1
+      name: visitor_info_header
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: affiliation
+      label: Professional Affiliation
+      hint: e.g., Artist, Collector, Critic, Student, General Public
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendance_details_header
+      label: -- Attendance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exhibition_name
+      label: Name of the Exhibition
+      hint: null
+      type: select_one
+      options:
+      - Modern Visions - Spring 2026
+      - Classical Roots - Retrospective
+      - Digital Frontiers - Interactive Art
+      - Local Artists Showcase
+      required: true
+    - id: 8
+      name: date_of_visit
+      label: Planned Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_visit
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning (10AM - 1PM)
+      - Afternoon (1PM - 4PM)
+      - Evening (4PM - 7PM)
+      required: true
+    - id: 10
+      name: number_of_guests
+      label: Number of Additional Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: opening_reception_rsvp
+      label: Will you be attending the Opening Reception?
+      hint: Tuesday at 6PM
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 12
+      name: accessibility_needs_header
+      label: -- Accessibility and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_requests
+      label: Do you have any specific accessibility requirements?
+      hint: e.g., Wheelchair access, Sign language interpretation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: marketing_header
+      label: -- Updates and Newsletter --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: newsletter_opt_in
+      label: Would you like to receive updates on future exhibitions and gallery events?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Subscribe Me
+      - No - Thank You
+      required: true
+    - id: 16
+      name: discovery_source
+      label: How did you hear about this exhibition?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Friend or Colleague
+      - Local Newspaper
+      - Poster - Flyer
+      required: false
+    - id: 17
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

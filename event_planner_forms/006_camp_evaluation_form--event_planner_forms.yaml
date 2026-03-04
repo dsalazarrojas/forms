@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Evaluation Form
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: camp_session
+      label: Camp Session Attended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_overall_experience
+      label: -- Overall Camp Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: How satisfied were you with the overall camp experience
+      hint: null
+      type: select_one
+      options:
+      - Extremely Satisfied
+      - Very Satisfied
+      - Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: true
+    - id: 9
+      name: would_return
+      label: Would you attend camp again
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 10
+      name: would_recommend
+      label: Would you recommend this camp to friends
+      hint: null
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Do Not Recommend
+      required: true
+    - id: 11
+      name: section_activities
+      label: -- Activities and Programming --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: activities_variety
+      label: Variety of activities offered
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: activity_enjoyment
+      label: How much did you enjoy the activities
+      hint: null
+      type: select_one
+      options:
+      - Loved them
+      - Enjoyed them
+      - Neutral
+      - Did not enjoy them
+      - Hated them
+      required: true
+    - id: 14
+      name: favorite_activities
+      label: What were your favorite activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_staff_instruction
+      label: -- Staff and Instruction Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: counselor_quality
+      label: Quality of counselors and instructors
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 17
+      name: staff_friendliness
+      label: Staff were friendly and approachable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 18
+      name: section_facilities
+      label: -- Facilities and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: facilities_condition
+      label: Condition of facilities and sleeping areas
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 20
+      name: food_quality
+      label: Quality of meals and snacks provided
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 21
+      name: section_improvements
+      label: -- Feedback for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: improvement_suggestions
+      label: What could be improved at camp
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

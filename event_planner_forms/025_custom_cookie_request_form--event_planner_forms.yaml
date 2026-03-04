@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Cookie Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Cookie Types
+      hint: Select a cookie type
+      type: select_one
+      options:
+      - Cookie Type 1
+      - Cookie Type 2
+      - Cookie Type 3
+      required: true
+    - id: 7
+      name: select_multiple
+      label: Cookie Flavors
+      hint: Select multiple cookie flavors
+      type: select_multiple
+      options:
+      - Flavor 1
+      - Flavor 2
+      - Flavor 3
+      - Flavor 4
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

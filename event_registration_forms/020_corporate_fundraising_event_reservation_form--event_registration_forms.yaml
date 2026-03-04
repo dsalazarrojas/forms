@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Fundraising Event Reservation Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: meal_preferences
+      label: Meal Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_questions
+      label: Event Questions
+      hint: null
+      type: text
+      options: []
+      required: false

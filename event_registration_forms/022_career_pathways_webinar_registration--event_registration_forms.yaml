@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Pathways Webinar Registration
+    pages:
+    - id: 1
+      name: webinar_title
+      label: Webinar Title
+      hint: Which webinar are you registering for?
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: webinar_date
+      label: Webinar Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: registrant_name
+      label: Your Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Where should we send webinar details?
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_company
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title_role
+      label: Job Title or Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: industry_field
+      label: Industry or Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registrant_type
+      label: Type of Registrant
+      hint: Select your category
+      type: select_one
+      options:
+      - Student
+      - Job Seeker
+      - Early Career Professional
+      - Mid-Career Professional
+      - Career Changer
+      - HR or Career Counselor
+      - Educator
+      - Other
+      required: true
+    - id: 10
+      name: experience_level
+      label: Years of Professional Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      - No professional experience yet
+      required: true
+    - id: 11
+      name: career_focus
+      label: Career Focus or Industry Interest
+      hint: What areas are you interested in?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: webinar_topics_interest
+      label: What Topics Interest You Most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Career exploration
+      - Job search strategies
+      - Interview preparation
+      - Salary negotiation
+      - Leadership development
+      - Skill development
+      - Career transitions
+      - Remote work opportunities
+      - Entrepreneurship
+      - Networking strategies
+      - Industry trends
+      - Professional development
+      required: true
+    - id: 13
+      name: learning_goals
+      label: What Are Your Learning Goals?
+      hint: What do you hope to gain from this webinar?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_challenges
+      label: Current Career Challenges
+      hint: What are you struggling with?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendance_expectation
+      label: Can You Attend Live?
+      hint: Will you join the webinar in real time?
+      type: select_one
+      options:
+      - Yes - attending live
+      - No - will watch recording
+      - Unsure - depends on schedule
+      required: true
+    - id: 16
+      name: technology_access
+      label: Do You Have Reliable Internet and Video Capability?
+      hint: Required for live webinar participation
+      type: select_one
+      options:
+      - Yes - good internet and equipment
+      - Yes - but equipment is basic
+      - Maybe - uncertain
+      - No - limited access
+      required: false
+    - id: 17
+      name: notification_preference
+      label: Preferred Notification Method
+      hint: How should we contact you?
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Calendar invitation
+      - Social media
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Do you need any accommodations?
+      type: select_one
+      options:
+      - No - none needed
+      - Yes - closed captions
+      - Yes - ASL interpreter
+      - Yes - other accommodation
+      required: false
+    - id: 19
+      name: accessibility_details
+      label: Specific Accessibility Requirements
+      hint: Describe any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About This Webinar?
+      hint: null
+      type: select_one
+      options:
+      - Email invitation
+      - Website
+      - Social media
+      - Word of mouth
+      - Search engine
+      - School or university
+      - Employer
+      - Event listing
+      - Other
+      required: false
+    - id: 21
+      name: additional_interests
+      label: Other Career Topics You Are Interested In
+      hint: Topics for future webinars?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_consent
+      label: I consent to receive career-related information
+      hint: Can we send you future webinar invitations?
+      type: select_one
+      options:
+      - Yes, send me information
+      - No, do not contact me
+      required: true

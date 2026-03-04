@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wine Tasting Event Permission Form
+    pages:
+    - id: 1
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I accept the terms and conditions
+      - Decline
+      required: true
+    - id: 3
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: 'Format: name@example.com'
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: 'Format: name@example.com'
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: participant_tshirt_size
+      label: Participant T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      required: true
+    - id: 11
+      name: participant_dietary_restrictions
+      label: Participant Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - None
+      required: false
+    - id: 12
+      name: participant_special_requests
+      label: Participant Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - I accept
+      - I decline
+      required: true

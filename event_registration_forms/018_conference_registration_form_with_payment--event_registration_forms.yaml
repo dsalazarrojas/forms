@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form With Payment
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Asia
+      - Other
+      required: true
+    - id: 11
+      name: registration_package
+      label: Registration Package
+      hint: Select your package
+      type: select_one
+      options:
+      - Premium Package - $599
+      - Standard Package - $399
+      - Basic Package - $199
+      - Student Package - $99
+      - Virtual Only - $149
+      required: true
+    - id: 12
+      name: add_ons
+      label: Additional Options
+      hint: Select any add-ons
+      type: select_multiple
+      options:
+      - Workshop Access - $99
+      - Gala Dinner - $75
+      - Welcome Reception - $50
+      - Conference Materials - $25
+      - Recording Access - $49
+      required: false
+    - id: 13
+      name: promo_code
+      label: Promotional Code
+      hint: Discount code if any
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Company Invoice
+      required: true
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: card_holder
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expiry_date
+      label: Expiry Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: meal_preference
+      label: Meal Preference
+      hint: For catering
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      required: true
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Specify allergies
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: receipt_email
+      label: Receipt Email Address
+      hint: Where to send receipt
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: terms_accepted
+      label: I Accept Terms and Refund Policy
+      hint: Agree to payment terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

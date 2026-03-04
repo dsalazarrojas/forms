@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancellation Or Postponement Voting Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Event Decision Vote --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_intro
+      label: This form allows you to vote on whether the upcoming event should be
+        cancelled or postponed due to unforeseen circumstances.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Which event does this vote apply to?
+      hint: Select the event name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: scheduled_date
+      label: Originally Scheduled Date
+      hint: The event date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: voting_section
+      label: -- Your Vote --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: main_vote
+      label: How should we proceed with this event?
+      hint: Select your preference
+      type: select_one
+      options:
+      - Cancel the event completely
+      - Postpone to a later date
+      - Proceed as scheduled
+      - Undecided
+      required: true
+    - id: 12
+      name: cancellation_reasoning
+      label: If you voted to cancel - what is your primary reason?
+      hint: Optional - only if you selected cancel
+      type: select_one
+      options:
+      - Health and safety concerns
+      - Inconvenience/Scheduling
+      - Lack of interest
+      - Insufficient planning
+      - Other reasons
+      required: false
+    - id: 13
+      name: postponement_reasoning
+      label: If you voted to postpone - what timeframe would you prefer?
+      hint: Optional - only if you selected postpone
+      type: select_one
+      options:
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Later (more than 3 months)
+      - No preference
+      required: false
+    - id: 14
+      name: preferred_postponement_date
+      label: Suggested postponement date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: concerns_section
+      label: -- Additional Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: main_concerns
+      label: What are your primary concerns about the event?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Health and safety
+      - Travel difficulties
+      - Weather conditions
+      - Lack of accessibility
+      - Personal scheduling conflicts
+      - Budget concerns
+      - No concerns
+      - Other
+      required: false
+    - id: 17
+      name: impact_on_attendance
+      label: How would cancellation/postponement affect you?
+      hint: Select one
+      type: select_one
+      options:
+      - Very positively
+      - Somewhat positively
+      - No impact
+      - Somewhat negatively
+      - Very negatively
+      required: false
+    - id: 18
+      name: alternative_format
+      label: Would you attend a virtual version of this event?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Undecided
+      - No, probably not
+      - No, definitely not
+      required: false
+    - id: 19
+      name: comments_section
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Any other thoughts or suggestions?
+      hint: Please share your feedback
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_section
+      label: -- Follow-Up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contact_me
+      label: May we contact you with updates about this decision?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, email me updates
+      - Yes, call me
+      - No, I prefer not to be contacted
+      required: false
+    - id: 23
+      name: vote_acknowledgment
+      label: I confirm my vote reflects my honest opinion
+      hint: Required to submit
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'No'
+      required: true

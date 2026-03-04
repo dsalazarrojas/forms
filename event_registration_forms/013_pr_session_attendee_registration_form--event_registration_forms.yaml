@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: pr_session_attendee_registration_form
+    pages:
+    - id: 1
+      name: workshop_info
+      label: What is your role in the workshop?
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Organizer
+      - Speaker
+      - Other (Please specify below)
+      required: true
+    - id: 2
+      name: workshop_interests
+      label: What topics are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Topic 1
+      - Topic 2
+      - Topic 3
+      required: true
+    - id: 3
+      name: contact_email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_date
+      label: Session date?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Session time?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: session_details
+      label: Additional session details?
+      hint: null
+      type: text
+      options: []
+      required: false

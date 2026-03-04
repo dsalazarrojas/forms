@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Henna Experience Feedback
+    pages:
+    - id: 1
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: artist_rating
+      label: Artist Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: artist_comments
+      label: Artist Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_recommendations
+      label: Artist Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_comments
+      label: Event Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artist_experience
+      label: Artist Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: would_recommend_event
+      label: Would Recommend Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_email
+      label: Client E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Party
+      - Workshop
+      - Photo Shoot
+      - Other
+      required: true
+    - id: 22
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: number_of_artists
+      label: Number of Artists
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: artist_fees
+      label: Artist Fees
+      hint: null
+      type: select_one
+      options:
+      - $0 - $50
+      - $51 - $100
+      - $101 - $200
+      - Other
+      required: true
+    - id: 25
+      name: artist_travel
+      label: Artist Travel
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

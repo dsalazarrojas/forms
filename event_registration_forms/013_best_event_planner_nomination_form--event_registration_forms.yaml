@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Event Planner Nomination Form
+    pages:
+      - id: 1
+        name: nominator_contact_header
+        label: -- Nominator Contact Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominator_full_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nominator_org_name
+        label: Your Organization
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: nominator_email_addr
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: nominee_planner_info_header
+        label: -- Nominee Planner Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: nominee_full_name
+        label: Event Planner Name
+        hint: The individual you are nominating
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: nominee_company_name
+        label: Company Name
+        hint: If they work for a specific agency or are independent
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: nominee_web_presence
+        label: Planner Email or Website
+        hint: URL or contact for verification
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: nominee_experience_level
+        label: Estimated Years of Experience
+        hint: null
+        type: select_one
+        options:
+          - 1 to 3 years
+          - 4 to 7 years
+          - 8 to 12 years
+          - 13 or more years
+        required: false
+      - id: 10
+        name: evaluation_ratings_header
+        label: -- Performance Evaluation --
+        hint: Rate from 1 (Needs Improvement) to 5 (Excellent)
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: professionalism_rating_score
+        label: Professionalism and Conduct
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: creativity_rating_score
+        label: Creativity and Design Vision
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: detail_rating_score
+        label: Attention to Detail
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: problem_solving_rating_score
+        label: Problem Solving Ability
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: budget_management_rating_score
+        label: Budget Management and Efficiency
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 16
+        name: event_case_study_header
+        label: -- Case Study and Justification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: specific_event_description
+        label: Describe a specific event planned by this nominee
+        hint: Include event type, size, and complexity
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: event_success_factors
+        label: What made this specific event successful
+        hint: Highlight the planner's contribution
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: greatest_strength_desc
+        label: What is the nominee's greatest strength
+        hint: In one sentence
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: final_submission_header
+        label: -- Final Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: additional_committee_comments
+        label: Any other comments for the awards committee
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: nomination_timestamp
+        label: Date of Nomination
+        hint: null
+        type: date
+        options: []
+        required: true

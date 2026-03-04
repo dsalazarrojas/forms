@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: lip_sync_performance_feedback_form
+    pages:
+    - id: 1
+      name: lip_sync_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: synchronization
+      label: Synchronization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stage_presence
+      label: Stage Presence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: creativity
+      label: Creativity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: compare_performances
+      label: Compare Performances
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Excellent''}'
+      - '{''value'': 2, ''label'': ''Good''}'
+      - '{''value'': 3, ''label'': ''Average''}'
+      - '{''value'': 4, ''label'': ''Poor''}'
+      - '{''value'': 5, ''label'': ''Very Poor''}'
+      required: false
+    - id: 7
+      name: comments_other
+      label: Comments Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_judge_name
+      label: Assigned Judge Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Runner Tracking Form
+    pages:
+    - id: 1
+      name: runner_tracking_form
+      label: Running History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: runner_tracking_form_fields
+      label: Select Fields
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: running_distance
+      label: Running Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: running_notes
+      label: Running Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

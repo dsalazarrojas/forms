@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: valentines_day_gift_questionnaire
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_suggestions
+      label: Gift Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: favorite_color
+      label: Favorite Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: occasion_details
+      label: Occasion Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

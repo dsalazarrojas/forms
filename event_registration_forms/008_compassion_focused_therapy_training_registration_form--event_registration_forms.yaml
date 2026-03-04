@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassion Focused Therapy Training Registration Form
+    pages:
+    - id: 1
+      name: training_name
+      label: Training Program Name
+      hint: Which training program are you registering for
+      type: select_one
+      options:
+      - CFT Foundation Level
+      - CFT Intermediate Level
+      - CFT Advanced Practitioner
+      - CFT Supervisor Training
+      - CFT Introduction Workshop
+      required: true
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: professional_title
+      label: Professional Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Practice
+      hint: Where do you work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 9
+      name: profession
+      label: Primary Profession
+      hint: Your professional background
+      type: select_one
+      options:
+      - Psychologist
+      - Psychiatrist
+      - Counselor or Therapist
+      - Social Worker
+      - Mental Health Nurse
+      - Doctor or Physician
+      - Student or Trainee
+      - Other
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Clinical Experience
+      hint: Approximate years in practice
+      type: select_one
+      options:
+      - 0 to 2 years
+      - 3 to 5 years
+      - 6 to 10 years
+      - 11 to 15 years
+      - More than 15 years
+      required: true
+    - id: 11
+      name: cft_experience
+      label: Previous CFT Experience
+      hint: Have you trained in CFT before
+      type: select_one
+      options:
+      - None - new to CFT
+      - Introductory workshop only
+      - Some training completed
+      - Intermediate training
+      - Advanced training
+      required: true
+    - id: 12
+      name: training_date_preference
+      label: Preferred Training Date
+      hint: Select your preferred session
+      type: select_one
+      options:
+      - Session A - March 15 to 16
+      - Session B - April 12 to 13
+      - Session C - May 10 to 11
+      - Session D - June 14 to 15
+      - Flexible - any date
+      required: true
+    - id: 13
+      name: training_format
+      label: Training Format Preference
+      hint: How would you like to attend
+      type: select_one
+      options:
+      - In-person
+      - Live online
+      - Recorded sessions
+      - Hybrid
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For in-person catering
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other allergies or restrictions
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: learning_goals
+      label: What are your learning goals
+      hint: What do you hope to gain from this training
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: supervision_interest
+      label: Are you interested in CFT supervision
+      hint: Ongoing supervision after training
+      type: select_one
+      options:
+      - Yes - individual supervision
+      - Yes - group supervision
+      - Maybe - need more info
+      - No - not at this time
+      required: true
+    - id: 18
+      name: certification_interest
+      label: Are you pursuing CFT certification
+      hint: Do you plan to become certified
+      type: select_one
+      options:
+      - Yes - actively pursuing
+      - Considering it
+      - No - just professional development
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Organization Invoice
+      - Scholarship or Grant
+      required: true
+    - id: 20
+      name: payment_plan
+      label: Do you need a payment plan
+      hint: Installment options available
+      type: select_one
+      options:
+      - No - full payment
+      - Yes - 2 payments
+      - Yes - 3 payments
+      - Yes - 4 payments
+      required: true
+    - id: 21
+      name: early_bird
+      label: Registering before early bird deadline
+      hint: Early bird discount applies
+      type: select_one
+      options:
+      - Yes - eligible for discount
+      - No - standard rate
+      required: true
+    - id: 22
+      name: group_discount
+      label: Group Registration
+      hint: Are multiple people registering together
+      type: select_one
+      options:
+      - No - individual registration
+      - Yes - 2 to 4 people
+      - Yes - 5 or more people
+      required: true
+    - id: 23
+      name: how_heard_about
+      label: How did you hear about this training
+      hint: Source of information
+      type: select_one
+      options:
+      - Professional organization
+      - Colleague referral
+      - Social media
+      - Email newsletter
+      - Website search
+      - Conference or event
+      - Other
+      required: true
+    - id: 24
+      name: terms_agreement
+      label: I agree to terms and conditions
+      hint: Including cancellation policy
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 25
+      name: data_privacy
+      label: I agree to data privacy policy
+      hint: Your information will be protected
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

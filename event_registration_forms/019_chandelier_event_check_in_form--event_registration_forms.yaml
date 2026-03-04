@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chandelier Event Check In Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-In Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-In Time
+      hint: Time guest checks in
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Guest Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_phone
+      label: Guest Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: Where event is being held
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ticket_number
+      label: Ticket Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registration_confirmation
+      label: Registration Confirmation Code
+      hint: From registration confirmation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_status
+      label: Guest Registration Status
+      hint: Confirmed, waitlist, or invited
+      type: select_one
+      options:
+      - Confirmed Registration
+      - Waitlist
+      - Invited Guest
+      - Walk-in
+      required: true
+    - id: 11
+      name: guest_category
+      label: Guest Category
+      hint: Type of guest
+      type: select_one
+      options:
+      - Regular Attendee
+      - VIP
+      - Speaker
+      - Sponsor
+      - Media
+      - Staff
+      required: true
+    - id: 12
+      name: company_affiliation
+      label: Company or Organization
+      hint: Company attending with
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any special dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Any special accommodations
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Interpreting Services
+      - Other
+      required: false
+    - id: 15
+      name: accessibility_details
+      label: Describe Accessibility Needs
+      hint: Details about accommodations
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: guest_badge_printed
+      label: Guest Badge Printed and Provided
+      hint: Confirm badge was issued
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: wristband_color
+      label: Wristband Color or Badge Type
+      hint: Visual identifier assigned
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: materials_received
+      label: Event Materials Received
+      hint: Confirm guest received materials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any notes for event staff
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_signature
+      label: Staff Check-In Confirmation
+      hint: Name of staff member checking in
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Gift Area Booking Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Sponsor Gift Area Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_page_1
+      label: Sponsor Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Select a Sponsor''}'
+      - '{''id'': 2, ''text'': ''No Sponsor''}'
+      required: false
+    - id: 3
+      name: sponsor_name
+      label: sponsor-name
+      hint: Enter Sponsor Name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sponsor_email
+      label: sponsor-email
+      hint: Enter Sponsor Email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_phone
+      label: sponsor-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: booking_date
+      label: booking-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: gift_amount
+      label: gift-amount
+      hint: Enter Gift Amount
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gift_description
+      label: gift-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gift_recipient
+      label: gift-recipient
+      hint: Enter Gift Recipient Name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: gift_message
+      label: gift-message
+      hint: Enter Message for Gift
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submit
+      label: form-submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_confirmation
+      label: form-confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

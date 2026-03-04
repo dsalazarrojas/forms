@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Workshop Stay Booking Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organizer_name
+      label: Organiser Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Onsite
+      required: false
+    - id: 7
+      name: accommodation_request
+      label: Accommodation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: select_multiple
+      options:
+      - Participant Name
+      - Participant Age
+      - Participant Contact Info
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_message
+      label: Participant Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: select_multiple
+      options:
+      - Payment Method
+      - Payment Date
+      - Payment Status
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

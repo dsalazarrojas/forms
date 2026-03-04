@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Festival Survey
+    pages:
+    - id: 1
+      name: event_planner_name
+      label: event_name
+      hint: null
+      type: select_one
+      options:
+      - Event Organiser
+      - Volunteer
+      - Other
+      required: false
+    - id: 2
+      name: participant_number
+      label: How Many
+      hint: Enter a number 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: covid_concerns
+      label: Covid-19 Concerns
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - I do not have any concerns
+      - Concerns about health
+      - Concerns about safety
+      - Concerns about the environment
+      - Concerns about accessibility
+      - Concerns about the festival atmosphere
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

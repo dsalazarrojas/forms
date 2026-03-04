@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bachelorette Party Invitation Form
+    pages:
+      - id: 1
+        name: host_name
+        label: Host name
+        hint: Organizer of the event
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: bride_name
+        label: Bride to be name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: event_date
+        label: Event date
+        hint: Date of party
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: venue
+        label: Venue and address
+        hint: Location details
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: rsvp_by
+        label: RSVP by date
+        hint: Deadline for responses
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: attending
+        label: Attending status
+        hint: Will you attend
+        type: select_one
+        options: [Yes, No, Maybe]
+        required: true
+      - id: 7
+        name: dietary_restrictions
+        label: Dietary restrictions
+        hint: List any allergies
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: plus_one
+        label: Bringing a plus one
+        hint: Indicate yes or no
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 9
+        name: contribution_to_gift
+        label: Contribution to group gift
+        hint: If applicable amount or note
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: message_for_bride
+        label: Message for the bride
+        hint: Short congratulatory note
+        type: text
+        options: []
+        required: false

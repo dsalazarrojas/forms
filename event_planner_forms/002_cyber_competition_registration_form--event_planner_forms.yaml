@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Competition Registration Form
+    pages:
+    - id: 1
+      name: registration_form_name
+      label: Registration Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone_2
+      label: Secondary Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email_2
+      label: Secondary Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone_3
+      label: Tertiary Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email_3
+      label: Tertiary Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address_3
+      label: Address 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: event_id
+      label: Event ID
+      hint: null
+      type: select_one
+      options:
+      - '123'
+      - '456'
+      - '789'
+      required: true
+    - id: 22
+      name: emergency_contact_relationship_other
+      label: Other Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_phone_relationship_other
+      label: Other Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_email_relationship_other
+      label: Other Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false

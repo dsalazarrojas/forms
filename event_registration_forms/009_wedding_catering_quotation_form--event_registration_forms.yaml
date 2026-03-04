@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Categorization Form
+    pages:
+    - id: 1
+      name: wedding_catering_quotation_form_details
+      label: Wedding Categorization Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wedding_catering_quotation_form_guests
+      label: Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: wedding_catering_quotation_form_guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wedding_catering_quotation_form_guest_type
+      label: Guest Type
+      hint: null
+      type: select_multiple
+      options:
+      - Guest
+      - Family
+      - Staff
+      - Other
+      required: false
+    - id: 5
+      name: wedding_catering_quotation_form_meal_plan
+      label: Meal Plan
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 6
+      name: wedding_catering_quotation_form_dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - No Restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other
+      required: false
+    - id: 7
+      name: wedding_catering_quotation_form_special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: wedding_catering_quotation_form_budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: wedding_catering_quotation_form_payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false

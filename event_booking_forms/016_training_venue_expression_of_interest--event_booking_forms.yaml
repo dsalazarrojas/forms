@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Venue Expression Of Interest
+    pages:
+    - id: 1
+      name: venue_details
+      label: Venue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_capacity
+      label: Venue Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: venue_type
+      label: Venue Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''small''}'
+      - '{''value'': ''large''}'
+      - '{''value'': ''medium''}'
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''address_line_1''}'
+      - '{''value'': ''address_line_2''}'
+      - '{''value'': ''postal_code''}'
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: venue_features
+      label: Venue Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''sound_system''}'
+      - '{''value'': ''projector_screen''}'
+      - '{''value'': ''whiteboard''}'
+      - '{''value'': ''wifi''}'
+      required: false
+    - id: 11
+      name: venue_equipment
+      label: Venue Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''projector''}'
+      - '{''value'': ''sound_system''}'
+      - '{''value'': ''microphone''}'
+      required: false
+    - id: 12
+      name: capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: training_types
+      label: Training Types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''classroom''}'
+      - '{''value'': ''workshop''}'
+      - '{''value'': ''seminar''}'
+      required: true
+    - id: 14
+      name: training_durations
+      label: Training Durations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''short''}'
+      - '{''value'': ''long''}'
+      required: true
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_website
+      label: Contact Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_social_media
+      label: Contact Social Media
+      hint: null
+      type: text
+      options: []
+      required: false

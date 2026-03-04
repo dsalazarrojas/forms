@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Communication Form
+    pages:
+    - id: 1
+      name: comm_pref_header
+      label: -- Attendee Communication Preferences --
+      hint: Help us stay in touch during the event.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_id
+      label: Conference Registration ID
+      hint: Found on your confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_email
+      label: Primary Email for Notifications
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_phone
+      label: Mobile Number for SMS Alerts
+      hint: For urgent schedule changes or emergency updates
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Method for Official Updates
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS / Text Message
+      - Conference App Push Notifications
+      required: true
+    - id: 7
+      name: subscribe_newsletter
+      label: Subscribe to Post-Conference Newsletter and Future Event Alerts
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: session_reminders
+      label: Would you like automated reminders before your bookmarked sessions?
+      hint: Sent 15 minutes before session start
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: networking_platform_access
+      label: Grant permission to include your profile in the attendee networking portal
+      hint: Allows other attendees to message you within the app
+      type: select_one
+      options:
+      - Allow Access
+      - Keep Profile Private
+      required: true
+    - id: 10
+      name: feedback_participation
+      label: Are you willing to participate in brief real-time session feedback surveys?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: language_preference
+      label: Preferred Communication Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Japanese
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: On-site Emergency Contact Name
+      hint: Optional but recommended
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments_or_special_requests
+      label: Communication Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

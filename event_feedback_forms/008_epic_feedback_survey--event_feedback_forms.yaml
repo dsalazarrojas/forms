@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Epic Feedback Survey
+    pages:
+    - id: 1
+      name: event_feedback_survey_1
+      label: What was the event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_feedback_survey_2
+      label: How did you feel during the event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_feedback_survey_3
+      label: Rate the food and beverage experience
+      hint: On a scale of 0-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_feedback_survey_4
+      label: Was the venue accessible
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_feedback_survey_5
+      label: How likely are you to attend again
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not likely at all''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Extremely Likely''}'
+      required: true
+    - id: 6
+      name: event_feedback_survey_6
+      label: Would you recommend this event
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not recommended''}'
+      - '{''label'': ''Somewhat recommended''}'
+      - '{''label'': ''Very recommended''}'
+      - '{''label'': ''Extremely recommended''}'
+      required: true
+    - id: 7
+      name: event_feedback_survey_7
+      label: What did we get right
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_feedback_survey_8
+      label: What did we get wrong
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Gift Giveaway Waiting List Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will notify you here if selected
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent notifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must meet age requirements
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: address_line1
+      label: Street Address
+      hint: Full address for gift delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_address
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: household_size
+      label: Household Size
+      hint: Number of people in your household
+      type: select_one
+      options:
+      - 1 person
+      - 2 people
+      - 3-4 people
+      - 5-6 people
+      - 7 or more people
+      required: true
+    - id: 12
+      name: children_count
+      label: Number of Children
+      hint: Children under 18 in household
+      type: select_one
+      options:
+      - 0 no children
+      - 1 child
+      - 2 children
+      - 3 children
+      - 4 or more children
+      required: true
+    - id: 13
+      name: children_ages
+      label: Children Ages
+      hint: List ages of children
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_household
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: income_bracket
+      label: Household Income Bracket
+      hint: For eligibility verification
+      type: select_one
+      options:
+      - Under 25000
+      - 25000 to 40000
+      - 40000 to 60000
+      - 60000 to 80000
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: assistance_programs
+      label: Current Assistance Programs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Food Stamps SNAP
+      - WIC
+      - Medicaid
+      - Housing Assistance
+      - Utility Assistance
+      - Other Government Aid
+      required: false
+    - id: 17
+      name: gift_preferences
+      label: Gift Preferences
+      hint: What type of gifts would be most helpful
+      type: select_multiple
+      options:
+      - Toys for Children
+      - Gift Cards
+      - Food Hampers
+      - Clothing
+      - Electronics
+      - Home Goods
+      - No Preference
+      required: true
+    - id: 18
+      name: section_eligibility
+      label: -- Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: how_heard
+      label: How Did You Hear About Giveaway
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Community Center
+      - School
+      - Friend or Family
+      - Website
+      - Flyer or Poster
+      - Other
+      required: true
+    - id: 20
+      name: referral_name
+      label: Referred By
+      hint: Name of person who referred you
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agree_terms
+      label: Agree to Terms
+      hint: I confirm information is accurate
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 22
+      name: privacy_consent
+      label: Privacy Consent
+      hint: Allow us to contact you about status
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special circumstances to share
+      type: text
+      options: []
+      required: false

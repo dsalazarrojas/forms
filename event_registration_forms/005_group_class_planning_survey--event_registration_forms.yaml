@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: group_class_planning_survey
+    pages:
+    - id: 1
+      name: group_class_preferences
+      label: Group Class Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: class_location
+      label: Class Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: class_time
+      label: Class Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: class_frequency
+      label: Class Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: class_start_time
+      label: Class Start Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_email
+      label: Instructor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: instructor_phone
+      label: Instructor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: class_start_date
+      label: Class Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: class_start_time
+      label: Class End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: class_location
+      label: Class Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

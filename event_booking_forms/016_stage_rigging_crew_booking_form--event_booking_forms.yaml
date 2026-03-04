@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: stage_rigging_crew_booking_form
+    pages:
+    - id: 1
+      name: first_page
+      label: StageRiggingForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: EventDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: EventType
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Event Type 1''}'
+      - '{''value'': ''Event Type 2''}'
+      - '{''value'': ''Event Type 3''}'
+      required: false
+    - id: 4
+      name: event_duration
+      label: EventDuration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: labor_hours
+      label: LaborHours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: equipment_count
+      label: EquipmentCount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_event
+      label: DateOfEvent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: EventStartTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_finish_time
+      label: EventFinishTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_finish_date
+      label: EventFinishDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: ContactPerson
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: ContactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: ContactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_equipment
+      label: AdditionalEquipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: crew_size
+      label: CrewSize
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: crew_type
+      label: CrewType
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Crew Type 1''}'
+      - '{''value'': ''Crew Type 2''}'
+      - '{''value'': ''Crew Type 3''}'
+      required: false
+    - id: 18
+      name: labor_cost
+      label: LaborCost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: event_notes
+      label: EventNotes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Accept and submit''}'
+      - '{''value'': ''Decline and cancel submission''}'
+      - '{''value'': ''Submit but do not save''}'
+      required: false
+    - id: 21
+      name: event_type_1
+      label: Event Type 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: event_type_2
+      label: Event Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: event_type_3
+      label: Event Type 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: crew_size_1
+      label: Crew Size 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: crew_size_2
+      label: Crew Size 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

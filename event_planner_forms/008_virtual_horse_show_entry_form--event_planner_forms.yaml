@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_horse_show_entry_form
+    pages:
+    - id: 1
+      name: horse_name
+      label: Horse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: breed
+      label: breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sex
+      label: sex
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      required: false
+    - id: 8
+      name: show_type
+      label: show_type
+      hint: null
+      type: select_one
+      options:
+      - halter
+      - hunter
+      - jumper
+      - saddleseat
+      required: false
+    - id: 9
+      name: show_class
+      label: show_class
+      hint: null
+      type: select_multiple
+      options:
+      - level1
+      - level2
+      - level3
+      required: false
+    - id: 10
+      name: rider_name
+      label: rider_name
+      hint: null
+      type: text
+      options: []
+      required: false

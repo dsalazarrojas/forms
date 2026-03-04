@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Proposal Registration Form
+    pages:
+    - id: 1
+      name: research_proposal_registration_form
+      label: Research Proposal Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: research_project_title
+      label: Research Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_area
+      label: Research Area
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: false
+    - id: 5
+      name: research_lead
+      label: Research Lead
+      hint: Enter research lead name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_start_date
+      label: Research Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: research_end_date
+      label: Research End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: research_budget
+      label: Research Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: research_funding
+      label: Research Funding
+      hint: null
+      type: select_one
+      options:
+      - Government
+      - Private
+      - Self-Support
+      required: false
+    - id: 10
+      name: research_status
+      label: Research Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Approved
+      required: false
